@@ -2,7 +2,7 @@
 from flask import Flask, request
 import json
 
-from vectorisation.query_vector import *
+from refresh.vectorisation.vector_store_n_query import *
 
 app = Flask(__name__)
 

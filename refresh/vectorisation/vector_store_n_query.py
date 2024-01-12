@@ -59,11 +59,10 @@ def query_from_vector(query):
 
     # Convert the dictionary to JSON format
     json_response = json.dumps(response_dict, indent=2)
-
-    # Print or use the JSON response
-    print(json_response)
     
     response_dict = {"result": response, "cb" : json.loads(json_response)}
     
 
     return json.dumps(response_dict, indent=2)
+
+query_from_vector("tell me about af klint hilma and tell me about the source of the docement, live the link of https://www.theartstory.org/")

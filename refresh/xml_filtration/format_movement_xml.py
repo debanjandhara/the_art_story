@@ -1,11 +1,11 @@
-def influencer_xml(id_influencer):
+def movement_xml(id_movement):
     import xml.etree.ElementTree as ET
     import re
     import sys
     import os
     import textwrap
     
-    output_file = f"data/filtered_txts/influencers/{id_influencer}.txt"
+    output_file = f"data/filtered_txts/movements/{id_movement}.txt"
 
     output_variable = ""
 
@@ -14,7 +14,7 @@ def influencer_xml(id_influencer):
         os.remove(output_file)
 
     # Specify the path to your XML file
-    xml_file_path = f"data/raw_xmls/influencers/{id_influencer}.xml"
+    xml_file_path = f"data/raw_xmls/movements/{id_movement}.xml"
 
     # Parse the XML file
     tree = ET.parse(xml_file_path)
@@ -27,26 +27,20 @@ def influencer_xml(id_influencer):
         name = main_element.find('name').text
         years_worked = main_element.find('years').text
         description = main_element.find('description').text
-        nationality = main_element.find('nationality').text
-        occupation = main_element.find('occupation').text
-        birthDate = main_element.find('birthDate').text
-        birthPlace = main_element.find('birthPlace').text
-        deathDate = main_element.find('deathDate').text
-        deathPlace = main_element.find('deathPlace').text
+        art_title = main_element.find('art_title').text
+        bio_highlight = main_element.find('bio_highlight').text
         publish_date = main_element.find('pub_time').text
 
+# {name}'s Art Description : {art_description}
+
     output_variable += f'''Id : {artist_id}
-Source Link : https://www.theartstory.org/influencer/{re.sub('_', '-', artist_id)}/
-Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/influencer/{re.sub('_', '-', artist_id)}
+Source Link : https://www.theartstory.org/movement/{re.sub('_', '-', artist_id)}/
+Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/movement/{re.sub('_', '-', artist_id)}
 Name : {name}
-{name} Years Worked : {years_worked}
+{name} developed in (year) : {years_worked}
+{name}'s Art Title : {art_title}
 {name}'s Description : {description}
-{name}'s Nationality : {nationality}
-{name}'s Occupation : {occupation}
-{name}'s BirthDate : {birthDate}
-{name}'s BirthPlace : {birthPlace}
-{name}'s DeathDate : {deathDate}
-{name}'s DeathPlace : {deathPlace}
+{name}'s Biography Highlights : {re.sub(r'<.*?>', '', bio_highlight)}
 {name} Content Publish Date: {publish_date}'''
 
     output_variable += "\n\nQuotes : "
@@ -78,7 +72,6 @@ Name : {name}
                     cleaned_p_text = re.sub(r'<.*?>', '', p_text.strip())
                     output_variable += f"{cleaned_p_text}"
 
-
     output_variable += "\n\nArtwork : "
 
     for artworks in root.iter('artworks'):
@@ -92,33 +85,38 @@ Name : {name}
             artwork_materials = artwork.find('materials').text
             output_variable += f"\n\nMaterial Used : {artwork_materials}"
             artwork_desc = artwork.find('desc').text
-            output_variable += f"\n\nDescription  : {re.sub(r'<.*?>', '', textwrap.dedent(str(artwork_desc)))}"
+            output_variable += f"\n\nDescription  : {re.sub(r'<.*?>', '', textwrap.dedent(artwork_desc))}"
             artwork_collection = artwork.find('collection').text
             output_variable += f"\n\nFound in Collection : {artwork_collection}"
 
-    output_variable += "\n\nRecommended Books:\n"
+    output_variable += "\n\nRecommended Pages From the Art Story Page:\n"
 
     for category in root.iter('category'):
-        for subcategory in category.iter('subcategory'):
-            if subcategory.get('name') == ('written by artist'):
-                for entry in subcategory.iter('entry'):
-                        title = entry.find('title').text
-                        info = entry.find('info').text
-                        link = entry.find('link').text
-                        amazon_link = f"https://www.amazon.com/gp/product/{link}?tag=tharst-20"
-                        output_variable += f"Title : {title}\n\nAmazon Link : {amazon_link}\n\n"
-            
-            if subcategory.get('name') == ('biography'):
-                for entry in subcategory.iter('entry'):
-                        title = entry.find('title').text
-                        info = entry.find('info').text
-                        link = entry.find('link').text
-                        amazon_link = f"https://www.amazon.com/gp/product/{link}?tag=tharst-20"
-                        output_variable += f"Title : {title}\nAmazon Link : {amazon_link}\n\n"
+        if category.get('name') == ('art story website features'):
+            for subcategory in category.iter('subcategory'):
+                if subcategory.get('name') == ('not_to_show'):
+                    for entry in subcategory.iter('entry'):
+                            title = entry.find('title').text
+                            info = entry.find('info').text
+                            link = entry.find('link').text
+                            theartstory_link = f"https://www.theartstory.org{link}"
+                            output_variable += f"Title : {title}\nThe Art Story Link : {theartstory_link}\n\n"
+
+
+    output_variable += "\n\nAmazon Links (Books) : \n"
+    for category in root.iter('category'):
+        if category.get('name') == ('featured books'):
+            for subcategory in category.iter('subcategory'):
+                    for entry in subcategory.iter('entry'):
+                            title = entry.find('title').text
+                            info = entry.find('info').text
+                            link = entry.find('link').text
+                            amazon_link = f"https://www.amazon.com/gp/product/{link}?tag=tharst-20"
+                            output_variable += f"Title : {title}\nAmazon Link : {amazon_link}\n\n"
 
     output_variable += "\n\nExtra Links (Websites) : \n"
     for category in root.iter('category'):
-        if category.get('name') == ('web resources'):
+        if category.get('name') == ('resources'):
             for subcategory in category.iter('subcategory'):
                     for entry in subcategory.iter('entry'):
                             title = entry.find('title').text
@@ -132,5 +130,3 @@ Name : {name}
         file.write(output_variable)
 
     print(f"Output has been written to {output_file}")
-
-influencer_xml('apollinaire_guillaume')

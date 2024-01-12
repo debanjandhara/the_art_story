@@ -1,8 +1,9 @@
 import os
 import requests
+import time
 
 # from models import add_record, update_record, read_records_2, read_records
-from models import *
+from models.models import *
 from xml_filtration.format_artist_xml import *
 from xml_filtration.format_critic_xml import *
 from xml_filtration.format_definition_xml import *
@@ -33,8 +34,10 @@ def download_xml_by_id(xml_id, type):
                 file.write(response.content)
             
             print(f"XML downloaded successfully and saved at {output_file}")
+            return True
         else:
             print(f"Error: Unable to download XML. Status Code: {response.status_code}")
+            return False
     except Exception as e:
         print(f"Error: {e}")
 
@@ -131,6 +134,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 
 def filter_and_store_paths(url, output_file="paths2.txt"):
+    count = 0
     try:
         # Fetch the HTML content of the page
         response = requests.get(url)
@@ -150,91 +154,53 @@ def filter_and_store_paths(url, output_file="paths2.txt"):
             path = urlparse(full_url).path
             if any(filter_path in path for filter_path in filter_paths):
                 paths.add(path)
-            # ------------
-            # Splitting the string using "/" as the delimiter
-            segments = path.split("/")
 
-            # Extracting the first and second portions
-            extracted_type = segments[1]
-            extracted_id = segments[2]
-            if (is_value_in_csv(extracted_id) == False):
-                # update_record(extracted_id, str(datetime.now()), column_index)
-                record_to_add = [extracted_type, extracted_id, str(datetime.now()), " - ", " - "]
-                add_record(record_to_add)
-                download_xml_by_id(convert_to_underscore(extracted_id), extracted_type)
-                if extracted_type == "artist":
-                    artist_xml(extracted_id)
-                    update_record(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "critic":
-                    critic_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "definition":
-                    definition_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "movement":
-                    movement_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "influencer":
-                    influencer_xml(extracted_id, str(datetime.now()), 3)
-            if (are_xml_files_equal(convert_to_underscore(extracted_id), extracted_type) ==  False):
-                download_xml_by_id(convert_to_underscore(extracted_id), extracted_type)
-                if extracted_type == "artist":
-                    artist_xml(extracted_id)
-                    update_record(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "critic":
-                    critic_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "definition":
-                    definition_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "movement":
-                    movement_xml(extracted_id, str(datetime.now()), 3)
-                if extracted_type == "influencer":
-                    influencer_xml(extracted_id, str(datetime.now()), 3)
-                update_record(extracted_id, str(datetime.now()), 2)
-            else:
-                update_record(extracted_id, str(datetime.now()), 2)
-            # ------------
-        
-        # for path in paths:
+        for path in paths:
+            count += 1
+            if (count >= 2):
+                # Splitting the string using "/" as the delimiter
+                segments = path.split("/")
 
-        #     # Splitting the string using "/" as the delimiter
-        #     segments = path.split("/")
+                # Extracting the first and second portions
+                extracted_type = segments[1]
+                extracted_id = segments[2]
+                extracted_xml_id = convert_to_underscore(extracted_id)
+                if (is_value_in_csv(extracted_id) == False):
+                    # update_record(extracted_id, str(datetime.now()), column_index)
+                    if (download_xml_by_id(extracted_xml_id, extracted_type) == False):
+                        continue
+                    record_to_add = [extracted_type, extracted_xml_id, str(datetime.now()), " - ", " - ", "not-merged"]
+                    add_record(record_to_add)
+                    if extracted_type == "artist":
+                        artist_xml(extracted_xml_id)
+                    if extracted_type == "critic":
+                        critic_xml(extracted_xml_id)
+                    if extracted_type == "definition":
+                        definition_xml(extracted_xml_id)
+                    if extracted_type == "movement":
+                        movement_xml(extracted_xml_id)
+                    if extracted_type == "influencer":
+                        influencer_xml(extracted_xml_id)
+                    update_record(extracted_xml_id, str(datetime.now()), 3)
+                    # vectorise()
+                if (are_xml_files_equal(extracted_xml_id, extracted_type) ==  False):
+                    download_xml_by_id(extracted_xml_id, extracted_type)
+                    if extracted_type == "artist":
+                        artist_xml(extracted_xml_id)
+                    if extracted_type == "critic":
+                        critic_xml(extracted_xml_id)
+                    if extracted_type == "definition":
+                        definition_xml(extracted_xml_id)
+                    if extracted_type == "movement":
+                        movement_xml(extracted_xml_id)
+                    if extracted_type == "influencer":
+                        influencer_xml(extracted_xml_id)
+                    update_record(extracted_xml_id, str(datetime.now()), 3)
+                    update_record(extracted_xml_id, str(datetime.now()), 2)
+                    # vectorise()
+                else:
+                    update_record(extracted_xml_id, str(datetime.now()), 2)
 
-        #     # Extracting the first and second portions
-        #     extracted_type = segments[1]
-        #     extracted_id = segments[2]
-        #     if (is_value_in_csv(extracted_id) == False):
-        #         # update_record(extracted_id, str(datetime.now()), column_index)
-        #         record_to_add = [extracted_type, extracted_id, str(datetime.now()), " - ", " - "]
-        #         add_record(record_to_add)
-        #         download_xml_by_id(convert_to_underscore(extracted_id), extracted_type)
-        #         if extracted_type == "artist":
-        #             artist_xml(extracted_id)
-        #             update_record(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "critic":
-        #             critic_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "definition":
-        #             definition_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "movement":
-        #             movement_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "influencer":
-        #             influencer_xml(extracted_id, str(datetime.now()), 3)
-        #         vectorise()
-        #     if (are_xml_files_equal(convert_to_underscore(extracted_id), extracted_type) ==  False):
-        #         download_xml_by_id(convert_to_underscore(extracted_id), extracted_type)
-        #         if extracted_type == "artist":
-        #             artist_xml(extracted_id)
-        #             update_record(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "critic":
-        #             critic_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "definition":
-        #             definition_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "movement":
-        #             movement_xml(extracted_id, str(datetime.now()), 3)
-        #         if extracted_type == "influencer":
-        #             influencer_xml(extracted_id, str(datetime.now()), 3)
-        #         vectorise()
-        #         update_record(extracted_id, str(datetime.now()), 2)
-        #     else:
-        #         update_record(extracted_id, str(datetime.now()), 2)
-            
-                
 
         # Store filtered paths in a .txt file
         with open(output_file, 'w') as file:

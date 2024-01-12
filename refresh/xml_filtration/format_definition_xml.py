@@ -1,11 +1,11 @@
-def critic_xml(id_critic):
+def definition_xml(id_definition):
     import xml.etree.ElementTree as ET
     import re
     import sys
     import os
     import textwrap
     
-    output_file = f"data/filtered_txts/critics/{id_critic}.txt"
+    output_file = f"data/filtered_txts/definitions/{id_definition}.txt"
 
     output_variable = ""
 
@@ -14,7 +14,7 @@ def critic_xml(id_critic):
         os.remove(output_file)
 
     # Specify the path to your XML file
-    xml_file_path = f"data/raw_xmls/critics/{id_critic}.xml"
+    xml_file_path = f"data/raw_xmls/definitions/{id_definition}.xml"
 
     # Parse the XML file
     tree = ET.parse(xml_file_path)
@@ -25,28 +25,14 @@ def critic_xml(id_critic):
         # Extract data from specific tags
         artist_id = main_element.find('id').text
         name = main_element.find('name').text
-        years_worked = main_element.find('years').text
-        description = main_element.find('description').text
-        nationality = main_element.find('nationality').text
-        occupation = main_element.find('occupation').text
-        birthDate = main_element.find('birthDate').text
-        birthPlace = main_element.find('birthPlace').text
-        deathDate = main_element.find('deathDate').text
-        deathPlace = main_element.find('deathPlace').text
+        start_date = main_element.find('start').text
         publish_date = main_element.find('pub_time').text
 
     output_variable += f'''Id : {artist_id}
-Source Link : https://www.theartstory.org/critic/{re.sub('_', '-', artist_id)}/
-Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/critic/{re.sub('_', '-', artist_id)}
+Source Link : https://www.theartstory.org/definition/{re.sub('_', '-', artist_id)}/
+Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/definition/{re.sub('_', '-', artist_id)}
 Name : {name}
-{name} Years Worked : {years_worked}
-{name}'s Description : {description}
-{name}'s Nationality : {nationality}
-{name}'s Occupation : {occupation}
-{name}'s BirthDate : {birthDate}
-{name}'s BirthPlace : {birthPlace}
-{name}'s DeathDate : {deathDate}
-{name}'s DeathPlace : {deathPlace}
+{name} Years Started : {start_date}
 {name} Content Publish Date: {publish_date}'''
 
     output_variable += "\n\nQuotes : "
@@ -58,7 +44,7 @@ Name : {name}
     for article in root.iter('article'):
         synopsys = article.find('synopsys').text
         cleaned_synopsys = re.sub(r'<.*?>', '', synopsys)
-        output_variable += f"\n\nSynopsis : {cleaned_synopsys}"
+        output_variable += f"\n\nSynopsis : {textwrap.dedent(str(cleaned_synopsys))}"
 
     output_variable += "\n\nKey Ideas : "
     for idea in root.iter('idea'):
@@ -95,20 +81,9 @@ Name : {name}
             artwork_collection = artwork.find('collection').text
             output_variable += f"\n\nFound in Collection : {artwork_collection}"
 
-    output_variable += "\n\nRecommended Pages From the Art Story Page:\n"
-
-    for category in root.iter('category'):
-        if category.get('name') == ('art story website'):
-            for subcategory in category.iter('subcategory'):
-                for entry in subcategory.iter('entry'):
-                        title = entry.find('title').text
-                        info = entry.find('info').text
-                        link = entry.find('link').text
-                        theartstory_link = f"https://www.theartstory.org{link}"
-                        output_variable += f"Title : {title}\nThe Art Story Link : {theartstory_link}\n\n"
 
 
-    output_variable += "\n\nAmazon Links : (Books)\n"
+    output_variable += "\n\nAmazon Links (Books) : \n" 
     for category in root.iter('category'):
         if category.get('name') == ('featured books'):
             for subcategory in category.iter('subcategory'):
@@ -135,5 +110,3 @@ Name : {name}
         file.write(output_variable)
 
     print(f"Output has been written to {output_file}")
-
-critic_xml('greenberg_clement')

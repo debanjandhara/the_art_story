@@ -40,7 +40,7 @@ def read_records_2():
 
 def update_record(record_id, new_value, column_index):
     csv_file = 'database.csv'
-    records = read_records_2(csv_file)
+    records = read_records_2()
 
     for record in records:
         if record[1] == record_id:  # Assuming ID is in the second column
