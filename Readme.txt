@@ -1,3 +1,10 @@
+Things to keep in Mind :
+2 ids --> xml_id and website_id
+download functions (in website_n_xml_util file) --> 
+    download_xml_by_id(xml_id, type)
+    download_xml_to_file(xml_url, output_file)
+
+
 Similarity Check : 
 check the online xml with the xml file here, then if similarity = NO, download the xml in directory
 and filter it... and vectorise it
