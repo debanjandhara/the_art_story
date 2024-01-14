@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>de_morgan_evelyn</id>
+    <name>Evelyn De Morgan</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1875 - 1919</years>
+    <description>The Symbolist painter Evelyn De Morgan engaged with political, social and moral issues of 19th century England including prison reform and women's suffrage.</description>
+    <art_description>Important art &amp; artworks analysis by Evelyn De Morgan including: Cadmus and Harmonia, Love's Passing, The Garden of Opportunity, Flora, The Gilded Cage &amp; more in The Pre-Raphaelites, Aesthetic Art &amp; Symbolism.</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>British</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>August 30, 1855</birthDate>
+    <birthPlace>London, England</birthPlace>
+    <deathDate>May 2, 1919</deathDate>
+    <deathPlace>London, England</deathPlace>
+    <big_bio_box_img>Detail from &lt;i&gt;Sunbeam and Summer Shadow&lt;/i&gt; (1914).</big_bio_box_img>
+    <bio_highlight>Evelyn De Morgan was a rebel from the start, ignoring her mother's wish for her to enter society and instead pursuing a career as a painter at a time when women artists faced countless barriers. She attended the newly-founded Slade school, where she had the unique opportunity to draw nude models, and even after she married ceramicist William De Morgan, she continued to have her own successful art career.</bio_highlight>
+    <pub_time>10/25/2022</pub_time>
+  </main>
+  <includes>
+    <include>pre_raphaelites</include>
+    <include>aesthetic_art</include>
+    <include>symbolism</include>
+  </includes>
+  <similar_movements>
+    <movement>pre_raphaelites</movement>
+    <movement>aesthetic_art</movement>
+    <movement>symbolism</movement>
+    <movement></movement>
+    <movement></movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>de_morgan_william</artist>
+    <artist>watts_george_frederic</artist>
+    <artist>rossetti_dante_gabriel</artist>
+    <artist>hunt_william_holman</artist>
+    <artist>burne_jones_edward</artist>
+  </similar_artists>
+  <quotes>
+    <q>"You are not to think that the only reason for doing Art is to make life beautiful. The reality it teaches is true as well as beautiful."</q>
+    <q>"Art is eternal, but life is short [...] I will make up for it now, I have not a moment to lose."</q>
+    <q>"I think the best thing to strive for is the realisation that Art should be Harmony. The second thing to grasp is that Harmony is the creative force, and Discord the power of dissolution. In mortal life Harmony reigns, in evil life Discord is paramount. Out of Harmony comes growth. Out of Discord death and destruction. In life on earth growth is slain by Discord, and Harmony tends to fruition."</q>
+    <q>"No one shall drag me out with a halter round my neck to sell me!"</q>
+  </quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="stephenson">Kate Stephenson</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Evelyn De Morgan used her oil paintings to engage with the political, social and moral issues of 19&lt;sup&gt;th&lt;/sup&gt; century England including prison reform and suffrage. These themes are reflected and expressed in her work, alongside her spiritualist beliefs, through the widespread use of allegory, and symbolism drawn from classical mythology. Initially working as part of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic Movement&lt;/span&gt;, De Morgan adopted their stylistic elements, but rejected the movement's mantra of "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_for_art"&gt;art for art's sake&lt;/span&gt;" and instead focused on introducing narrative into her depictions. She later moved away from Aestheticism, taking inspiration from Italian artists such as &lt;i&gt;Botticelli&lt;/i&gt;, and becoming one of only a small number of women artists directly associated with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;Pre-Raphaelite Brotherhood&lt;/span&gt;. 
+			&lt;br/&gt;&lt;br/&gt;
+			Commercially and financially successful, De Morgan's solo shows and financial stability were very unusual for female artists at the time and she paved the way for greater acceptance of woman painters. After her death, much of her work was bought or retained by her sister and was not placed on public display. Consequently, despite the high quality of her work and her impact on the later Pre-Raphealite Movement, De Morgan sank into relative obscurity. 
+		</synopsys>
+    <key_ideas>
+      <idea>De Morgan was fascinated by the human body and completed numerous clothed and nude studies for each of her paintings, demonstrating a desire for accuracy in her representation of the human form. This comprehensive preparatory work is apparent through her paintings in the detailed, realistic figures, careful compositions, and characterful faces.</idea>
+      <idea>A determined and independent woman, De Morgan rejected the gender norms and stereotypes of the time she lived in and used her art to comment on these. She placed female heroines at the center of her early work and, in later pieces such as &lt;i&gt;The Gilded Cage&lt;/i&gt; (1905-10), she highlighted the domestic and social restrictions placed on women. Similarly, in &lt;i&gt;The Hourglass&lt;/i&gt; (1905) she commented on the unattainable ideals of youth and beauty promoted by the Pre-Raphaelite Brotherhood.</idea>
+      <idea>In response to the conflicts of the late 19&lt;sup&gt;th&lt;/sup&gt; and early-20&lt;sup&gt;th&lt;/sup&gt; centuries, including the Second Boer War and the First World War, De Morgan's work became increasingly pacifist in tone and she created more than fifteen paintings on the theme. These pair both symbolic and realistic depictions of the horror and destruction of war with images of spirituality and peace. These images inverted the official narratives of the period that glorified war and focused on personal duty and heroism.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Evelyn De Morgan was born as Mary Evelyn Pickering, into a family that, as curator Margaretta Frederick describes, "straddled the upper middle class and aristocracy". Her father, Percival Pickering, was a barrister and Queen's Counsel, who came from a long line of politicians and Yorkshire landowners. Her mother, Anna Maria Spencer Stanhope, was the sister of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;The Pre-Raphaelite&lt;/span&gt; artist, John Roddam Spencer Stanhope. The family lived on Grosvenor Street, a fashionable address in London.</p>
+          <p type="p">Young Evelyn was tutored at home in a wide range of subjects including classical and European languages, literature, history, and science. Such an extensive educational program was not common for women at the time, but, as, according to her younger sister and biographer, Anna Wilhemina Stirling, their mother wanted her daughters to "profi[t] from the same instruction as [their brothers]", Spencer and Rowland. The four children also received extensive religious education from priests who came to the house regularly.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">At the age of fifteen, De Morgan began formal drawing lessons and records show that her father paid three arts tutors. One of these tutors, employed to teach her to draw plants and insects, resigned suddenly when she presented him with a male nude she had drawn from a wooden model. Her commitment to her craft is evidenced by entries from her diary, in which she recorded that she committed herself to countless hours (up to ten per day) of "steady work", and was wracked with guilt whenever she wasted time on other activities like going to tea.</p>
+          <p type="p">Very quickly, Evelyn found her true passions to lie in drawing, painting, and poetry. Her mother, however, was opposed to her pursuing a career in the arts, stating that she wanted a "daughter, not an artist". She even admitted attempting to bribe the drawing tutor to tell Evelyn that she was no good, so that she would give up on what she referred to as her daughter's "passing mania". Evelyn's maternal aunts had also demonstrated a talent for art when they were young, but they all gave up painting when they married. When her mother suggested presenting her to society, Evelyn responded, "I'll go to the Drawing Room if you like [...] but if I go, I'll kick the Queen!". When her mother persisted, she exclaimed "No one shall drag me out with a halter round my neck to sell me!"</p>
+          <p type="p">Indeed, from a young age, Evelyn exhibited a rebellious and independent spirit. He sister once wrote that she found her to be "brilliant, restless and withal frightening" adding, "I could not have framed any exact reasons for the impression, but I felt dimly that at times she disturbed the Victorian placidity of our home like a flash from an alien world". Evelyn hid art supplies in her room and would stuff rags under the door while working to prevent the smell of paint and turpentine from reaching her parents.</p>
+          <p type="img" alt="&lt;i&gt;Mercury&lt;/i&gt; (c. 1870-73) was painted by De Morgan around the time she entered the Slade School. Her brother, Spencer, was the model.">/images20/photo/photo_de_morgan_evelyn_1.jpg</p>
+          <p type="p">When she was seventeen, De Morgan enrolled at the South Kensington National Art Training School (now the Royal College of Art), though she only stayed for a few months as she felt stifled by the school's insistence that women should focus their energies on artisanship, rather than the 'high art' of painting. The following year, she became one of the first three women to enter the newly established Slade School of Art in London (alongside Mary Watts, who became a noted Symbolist craftswoman and social reformer). She went on to be awarded the prestigious Slade Scholarship (£50 per annum), as well as prizes for painting, drawing, and composition.</p>
+          <p type="img" alt="&lt;i&gt;The Sandal&lt;/i&gt; (1871) by De Morgan's teacher Sir Edward Poynter. Her early works, like those of Poynter, were done in the style of the Aesthetic Movement, which was highly popular at the time.">/images20/photo/photo_de_morgan_evelyn_2.jpg</p>
+          <p type="p">One of De Morgan's most influential teachers at Slade was Sir Edward Poynter, who painted in the Aesthetic style. Artists of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic Movement&lt;/span&gt; (which was closely linked to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;the Pre-Raphaelite Brotherhood&lt;/span&gt;) championed "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_for_art"&gt;art for art's sake&lt;/span&gt;" and the pursuit of creative self-expression, unhindered by concerns of moral restrictions and conformity.</p>
+          <p type="img" alt="De Morgan was mentored and tutored by her uncle, the Pre-Raphaelite painter John Roddam Spencer Stanhope.">/images20/photo/photo_de_morgan_evelyn_3.jpg</p>
+          <p type="p">Alongside her academic studies, De Morgan also received tutelage from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-watts_george_frederic"&gt;George Frederic Watts&lt;/span&gt;, a family friend and major &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolist&lt;/span&gt; painter and sculptor, at his home studio, Little Holland House. Her uncle, the painter John Roddam Spencer Stanhope, had also been a student of Watts, and of Pre-Raphaelite painter and designer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-burne_jones_edward"&gt;Edward Burne-Jones&lt;/span&gt; (who called him "the finest colorist in Europe"). Roddam Spencer Stanhope also taught his niece, with his Pre-Raphaelite style and love of rich, saturated colors strongly influencing her. He introduced her to his contemporaries, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rossetti_dante_gabriel"&gt;Dante Gabriel Rossetti&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hunt_william_holman"&gt;William Holman Hunt&lt;/span&gt;, as well as writer Vernon Lee. Roddam Spencer Stanhope resided in Florence, and Evelyn's father permitted her to visit him often, starting in 1875. While there, she deepened her love for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-early_renaissance"&gt;Early&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;High Renaissance&lt;/span&gt; artists, especially &lt;span class="marked_text chart-tooltip-target-top tooltip_id-botticelli_sandro"&gt;Botticelli&lt;/span&gt;.</p>
+          <p type="img" alt="De Morgan's second exhibited work, &lt;i&gt;Ariadne in Naxos&lt;/i&gt; (1877)">/images20/photo/photo_de_morgan_evelyn_4.jpg</p>
+          <p type="p">De Morgan first exhibited in 1876, presenting her painting &lt;i&gt;St. Catherine of Alexandria&lt;/i&gt; (1875) at the Dudley Garden. The work was purchased by Lord Henry Somerset, a Conservative MP. She exhibited again in 1877 at the inaugural Grosvenor Gallery exhibition in London, a venue for avant-garde art. She was one of only two women included in the show. The work she presented was &lt;i&gt;Ariadne at Naxos&lt;/i&gt; (1877), which was executed in the popular Aesthetic style, as she saw this as the best way to ensure that her work was commercially viable. This painting also sold quickly, to the Rt. Hon. John Mundella, a Liberal MP.</p>
+          <p type="p">By this point, however, De Morgan was also developing her own unique style, as her experiences in Italy led her to move away from Aestheticism. Moreover, she was demonstrating a strong sense of independence and rebellion against the gender and class stereotypes of the time. For instance, when attending Slade, she was always taken to and from the school by a coach and chaperone, however she insisted on being dropped off a block away and walking the remaining distance herself, carrying her own supplies. Furthermore, attending the Slade School meant that De Morgan was given the unique opportunity to draw from draped and nude models, alongside her male peers. This was unheard of at the time and represented a significant move forward in terms of gender equality in the arts academies.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Throughout the late-1870s and 1880s, De Morgan showed her paintings at a range of galleries including the Walker Art Gallery in Liverpool, the Royal Manchester Institution, the Royal Institute of Painters in Watercolour, the Institute of Painters in Oil Colours, and the Fine Arts Society.</p>
+          <p type="img" alt="Evelyn De Morgan and her husband, ceramicist William De Morgan.">/images20/photo/photo_de_morgan_evelyn_5.jpg</p>
+          <p type="p">In August of 1883, Evelyn met William De Morgan, a ceramicist, and they fell deeply in love. They married on March 5, 1887, and spent the remainder of their lives together based in London, but spending six months each year in Florence from 1895 until WWI broke out in 1914. The loving relationship between the couple is evidenced by the fact that Evelyn produced several works on the subject of love in the years following their meeting, starting with &lt;i&gt;Love's Passing&lt;/i&gt; (1883-84).</p>
+          <p type="p">The couple were also politically active, Curator Margaretta Frederick notes that, "In addition to art, they were particularly committed to three causes - Victorian spiritualism, the early efforts of the women's suffragist movement, and pacifism in response to the overwhelming devastation of the First World War". Evelyn was a signatory on the 1889 &lt;i&gt;Declaration in Favour of Women's Suffrage&lt;/i&gt;.</p>
+          <p type="p">For several decades, De Morgan supported her husband's pottery career with the sale of her works. Finally, in 1906, William found success with the publication of his first novel, &lt;i&gt;Joseph Vance&lt;/i&gt; (which Evelyn had sent to the publisher without him knowing), and the couple enjoyed financial security going forward. De Morgan's sister also credited the couple as being the anonymous authors of &lt;i&gt;The Result of an Experiment&lt;/i&gt; (1909), a book of automatic writings. The couple were spiritualists who practiced automatic writing (as a way to communicate with the spirit world) together every night for years. In fact, William's mother, Sophia, was a practicing spiritual medium, who encouraged Evelyn to further explore spiritualism in her life and her art.</p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Photograph of Evelyn De Morgan.">/images20/photo/photo_de_morgan_evelyn_6.jpg</p>
+          <p type="p">Even after William had found his own success, Evelyn continued to achieve on her own. She showed regularly at the Grosvenor Gallery and had loyal patrons, most notably William Imrie, a Scottish shipping tycoon and owner of the White Star Line (creator of the &lt;i&gt;Titanic&lt;/i&gt;) who bought eight of her paintings. De Morgan was also given solo exhibitions in 1906 in London and in 1907 at the Wolverhampton Municipal Art Gallery and Museum, at which she presented twenty-five works.</p>
+          <p type="p">Around 1909, perhaps due to the fact that it was no longer a financial necessity, De Morgan stopped exhibiting regularly. She continued to paint, however, and many of her works from 1899 onward expressed her horror regarding war, particularly the Second Boer War (1899-1902) and WWI (1914-18). Her aversion to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt; was made clear in a statement she made after seeing a 1910 exhibition of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt; works, "If that is what people like now, I shall wait till the turn of the tide." In 1916, she hosted a benefit exhibition at her studio in Edith Grove, in support of the British Red Cross and the Italian Croce Rossa.</p>
+          <p type="p">Evelyn De Morgan passed away due to heart failure on May 2 1919, two years after her husband. She was buried alongside him in Brookwood Cemetery, near Woking, Surrey. The inscription on their tombstone was taken from &lt;i&gt;The Result of an Experiment&lt;/i&gt; and reads "Sorrow is only of the flesh / The life of the spirit is joy". After her passing, her remaining works were sold to benefit St. Dunstan's Charity for the Blind. Her sister purchased a number of the works, and these became the basis for the De Morgan Foundation Collection.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Though not well-known, Evelyn De Morgan's art and life presented a new vision of what life could be for women in England as she stepped outside repressive Victorian and Edwardian gender norms. In this way, she is an important proto-feminist artist. She was also significant as a Pre-Raphaelite, although she came on the scene towards the end of the movement. Arts writer, Candy Bedworth states that "Art history scholars regularly pay homage to the Pre-Raphaelite Brotherhood. Opinion is often divided though on this 'boys club' group of artists. They did re-write how women were portrayed in art, showing them as powerful, sensual, sexual beings. Although sadly, often in stories that ended badly. The ranks of the brotherhood were mostly closed to women as artists. You might be a wife, a mistress, a muse, a model, but you were a symbol, not a creator. Nevertheless, a small number of women connected to this movement did carve out a place for themselves. They made art that is both skilled and utterly beautiful". De Morgan's participation in this group, therefore, was of importance. Few other female Pre-Raphaelite artists existed, among them, Elizabeth Siddal, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cameron_julia_margaret"&gt;Julia Margaret Cameron&lt;/span&gt;, Marianne Stokes, Joanna Mary Wells, and Emma Sandys.</p>
+          <p type="p">De Morgan's explorations of various styles and movements, including the Pre-Raphaelites, the Aesthetic Movement, and Symbolism, as well as of spiritualist modes of thought and expression, paved the way for later artists to do the same. As art historian Anne Anderson explains, De Morgan inspired fellow Slade alumnus Mary Stuart-Wortley to experiment with more poetic and symbolic works (although the majority of her oeuvre was landscapes).</p>
+          <p type="p">More than 50 of De Morgan's oil paintings and 600 of her drawings, alongside artwork by her husband, are held by the De Morgan Foundation, which is dedicated to promoting and protecting the work of the couple. Through the Foundation, their work continues to be exhibited across the U.K. and United States.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Cadmus and Harmonia</title>
+      <year>1877</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This early work represents the Greek myth of Cadmus and Harmonia. The hero Cadmus was given Harmonia from the gods to be his wife. Later, Mars turned Cadmus into a snake, and Harmonia begged them to make her into a snake as well, so that should could remain with him. They granted her wish. De Morgan depicts the moment at which only Cadmus is in serpent form, his long body wrapped sensually around Harmonia's legs, hips, and arms, with his head resting just above her right breast. Harmonia's hands caress his body, as she looks wistfully to the left. A passage from Ovid's &lt;i&gt;Metamorphosis&lt;/i&gt;, describing this moment, accompanied the painting when it was first exhibited: "With lambent tongue he kissed her patient face, crept in her bosom as his dwelling lace, entwined her neck, and shared the loved embrace". De Morgan's representation differs from the original story, however, as she represented Harmonia as a young, lithe beauty rather than an elderly woman.
+				&lt;br/&gt;&lt;br/&gt;
+				This work exemplifies, not only De Morgan's fascination with mythological subjects, but also her adeptness at representing the nude female form. While at school, she had been fortunate to have the opportunity to work from live nude models and to study anatomy. She executed many preparatory drawings for her paintings, in which she carefully worked out poses and facial expressions. Art historian Elise Lawton Smith notes that, "Almost a quarter of her works include nude figures, and even figures that are draped often were explored first through nude sketches". Furthermore, the work is often considered a homage to Botticelli, with Harmonia's pose being directly inspired by that of his &lt;i&gt;Birth of Venus&lt;/i&gt; (1484-86), although the pose is reversed in De Morgan's painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Like many of De Morgan's early works, &lt;i&gt;Cadmus and Harmonia&lt;/i&gt; follows the style of the Aesthetic movement, which was highly sought after at the time, with its placement of a figure in a deserted, dreamlike landscape, the averted gaze of the female subject, and the muted color palette. An earlier work by De Morgan, &lt;i&gt;The Angel with the Serpent&lt;/i&gt; (c. 1870-75), for which her brother Spencer was the model, is also believed to depict an episode from the story of Cadmus. It seems that De Morgan was fascinated with the symbolism and mythological iconography of snakes during these early years. Snakes could represent wisdom, transformation, and creative life forces and she includes them in other works including &lt;i&gt;Mercury&lt;/i&gt; (c. 1870-73).
+			</desc>
+      <collection>De Morgan Foundation Collection, London, England</collection>
+    </artwork>
+    <artwork>
+      <title>Love's Passing</title>
+      <year>1883-84</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				After meeting her future husband, ceramicist William De Morgan, in 1883, De Morgan produced several paintings on the subject of love. One of these, &lt;i&gt;Love's Passing&lt;/i&gt;, was her first allegorical work in which she embedded several symbolic items and characters. In the painting, two classically-dressed lovers sit on a riverbank, with them is an angel, with fuchsia clothing and wings, playing a trumpet. The couple looks toward the left, apparently caught up in the music, though the woman appears somewhat more distracted and wistful. On the other side of the river are two figures in black. One is an elderly widow with long robes, using a cane to walk. De Morgan explained that this figure is an allegorical representation of Eld (old age). Behind Eld is the winged grim reaper, holding his scythe, and escorting her to the River of Life to be reunited with her already departed husband.
+				&lt;br/&gt;&lt;br/&gt;
+				This image was inspired by a verse from the elegies of the ancient Latin poet, Tibullus, which reads "List we to love meanwhile, in lovers fashion: Death wears apace with darkness round his brow. Dull Ela is stealing up to shame our passion; How shall grey hairs beseem these whispered vows". The verse describes the poet's sadness while contemplating the eventual passing of his lover. De Morgan's painting was thus an autobiographical allegory, as she had just fallen in love with a man sixteen years her senior, and she no doubt thought ahead to the strong likelihood that he would die before her. De Morgan said of the couple in &lt;i&gt;Love's Passing&lt;/i&gt;, "The man is absorbed in the music, but the women hears the footsteps coming". Her sister wrote in her biography that this work was "very dear" to De Morgan, and that she "hung it in her house above an archway looking out on to the garden and she always refused to sell it".
+			</desc>
+      <collection>De Morgan Foundation Collection, London, England</collection>
+    </artwork>
+    <artwork>
+      <title>The Garden of Opportunity</title>
+      <year>1892</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Garden of Opportunity&lt;/i&gt; is another allegorical work packed with symbolism. It was executed while De Morgan was in Florence and was not exhibited in her lifetime. In comparison to previous works by her, its flatter appearance and bolder colors indicates the influence of medieval art, which was a common source of inspiration for Pre-Raphaelite artists. In it, two figures representing students, one in red and the other in blue, stand in a garden on top of a hill. To the right, standing in front of an ornate red bench, is a female figure we can understand as an allegory of Wisdom, due to the symbolic attributes behind her, such as an owl, the book on the bench and a tree bearing fruit, as well as, further in the distance, the waterwheel representing science and industry, buildings of civil order, and a church which represents spiritual enlightenment. 
+				&lt;br/&gt;&lt;br/&gt;
+				On the left is another female figure, representing Folly. She holds a silver ball out to the students, though what they cannot see, as it faces away from them, is that it bears the face of a skull. In her other hand, she holds a branch of henbane (also known as deadly nightshade or belladonna), a poisonous narcotic plant. Beyond Folly, across a bridge, is a great palace of worldly joy, though the desolate, barren landscape beyond that indicates the emptiness of the perceived pleasure. Closer examination reveals a small devil hiding at the far end of the bridge, waiting to receive the new visitors. The students have turned their backs completely on Wisdom, and have already begun striding towards the tempting pleasures. The dichotomy of the work is reinforced by the presence of a white dove facing a snarling black lion in the bottom left corner.
+			</desc>
+      <collection>De Morgan Foundation Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Flora</title>
+      <year>1894</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this, one of De Morgan's best-known paintings, we see Flora, the Roman goddess of flowering plants, of springtime, and of the city of Florence (where De Morgan spent a considerable period of her life). Flora wears a yellow dress with small flowers on it, and stands in a pose similar to that of the central figure in Botticelli's &lt;i&gt;Primavera&lt;/i&gt; (1477-82). Her hair billows in the wind much like that of Botticelli's &lt;i&gt;Venus&lt;/i&gt; (1484-86). Botticelli was known to be a significant influence on De Morgan and art historian Elise Lawton Smith notes that the painting is also indebted to Botticelli in terms of "the clarity of the thin, delicate contour line, and the flattened, tapestry-like effect of the whole". Lawton Smith notes that "De Morgan's interest in Botticelli was not just the result of her extended study of his works in Italy; it should also be seen as arising out of a wide-spread Pre-Raphaelite and Aesthetic fascination with that artist's style".
+				&lt;br/&gt;&lt;br/&gt;
+				Flora is surrounded by lush greenery, behind her is a loquat tree bearing yellow fruit, with birds perched on its branches. Below her bare feet lays a carpet of green plants and colorful flowers (yellow primroses, blue forget-me-nots, and pink cyclamen). Lawton Smith goes on to recognize that in this image, De Morgan created a "spiritualized goddess, layering Christian meaning over pagan imagery. She had already used spring flowers, like the light of dawn, as a sign of spiritual awakening, and the overblown red roses refer to both the ephemeral nature of earthly life and the blood of redemption and resurrection. Her metaphorical interpretation is elaborated by the symbolic presence of the birds. Because of their reappearance each spring, swallows (as on Flora's red scarf) are a Christian symbol of resurrection, and goldfinches (on the tree behind her) refer to the Passion of Christ and, by association, spiritual renewal. This conjunction of pagan myths with Christian allusions to rebirth allowed De Morgan to construct her own variant of &lt;i&gt;Primavera&lt;/i&gt;."
+				&lt;br/&gt;&lt;br/&gt;
+				The De Morgan Foundation asserts that this work "is technically perfect, showing off [De Morgan's] skill and mastery of the medium of painting in oils on canvas". The Foundation goes on to explain that "The dazzling luminosity of the picture has been achieved by her innovative use of coloured oils over gold leaf, a method of her own invention, borrowed from medieval altar pieces found in the city of Florence, to which this picture is an ode". &lt;i&gt;Flora&lt;/i&gt; was one of eight paintings by De Morgan purchased by Scottish ship-owner William Imrie. At the bottom right corner of &lt;i&gt;Flora&lt;/i&gt;, a scroll on the ground reads, in Italian, "I come down from Florence and am Flora. This city takes its name from flower. Among the flowers I was born and now by a change of home I have my dwelling among the mountains of Scotia. Welcome, and let me treasure amid northern mists be dear to you". This text acknowledges Imrie as the owner, and recognizes the journey the painting would take from Florence, where it was produced, to his home in Scotland.
+				&lt;br/&gt;&lt;br/&gt;
+				De Morgan's uncle, Pre-Raphaelite painter John Roddam Spencer Stanhope, also created a painting of the same subject, though, as Lawton Smith notes, his "nude, sexualized" version is "very different" from this "delicate and ethereal" work by his niece. Sarah Hardy, director of the De Morgan Foundation Museum, calls this "probably [...] De Morgan's most accomplished painting". The model for this work was Jane Hales, who had previously been a nursemaid to De Morgan's younger sister, and who, because of her slight features and lustrous, wavy, reddish-blonde hair, became a popular model among the Pre-Raphaelite artists, Hales also modeled for De Morgan's &lt;i&gt;Cassandra&lt;/i&gt; (1898) and &lt;i&gt;Helen of Troy&lt;/i&gt; (1898), both of which were also acquired by Imrie. The fact that Hales was buried alongside the De Morgans indicates an extremely close relationship between her and the couple.
+			</desc>
+      <collection>De Morgan Foundation Collection, London, England</collection>
+    </artwork>
+    <artwork>
+      <title>The Gilded Cage</title>
+      <year>1905-10</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this painting, we see a lavish household interior with two figures, a young woman and an older man. The man is sometimes interpreted as the girl's tutor, but more likely intended as her husband as she wears a wedding band. He sits casually in a chair to the right gazing down and to the left of the frame with a somewhat tired or frustrated expression. The girl, separated from him by a few feet, stands with her back to the viewer, watching the outside world intently through a large window. Her left hand pushes aside the drapes, while her right hand stretches up and outward, gesturing longingly at what she sees outside. Through the window, a large gathering of people (men, women, and children) can be seen, making music, dancing, and playing games.
+				&lt;br/&gt;&lt;br/&gt;
+				In the interior space, red roses lay upon the windowsill. A book lays open, discarded on the floor. The man's left arm rests on a desk, upon which sit several books (titled &lt;i&gt;Poetry, Music, Art, Death, Interpretations&lt;/i&gt;, and &lt;i&gt;Medicine&lt;/i&gt;). Above the desk hangs a gilded cage with a bird inside. The symbolism in this work is evident, and closely aligns with De Morgan's suffragist beliefs. The painting offers a commentary on the expected roles of women in Victorian and Edwardian England. Not only were they not allowed to vote, they were broadly relegated to the domestic sphere, expected to be subservient to their husbands, and it was frowned upon for upper or middle-class women to engage in the types of merrymaking seen through the window. Objects and figures in the painting symbolize the expectations placed in women, such as her duty to study. The principal figure in the group outside, the woman with the baby, references maternal duties. The key symbolic element, highlighting the contrast between confinement and freedom, are the two birds. Outside, a large bird soars freely through the sky, above the group of revelers, while inside, the small caged bird symbolizes the woman's captivity. Moreover, De Morgan's aversion to material wealth is illustrated here, as the sumptuous clothing and jewels in the interior space are not enough to keep the woman from longing to be part of the group outside, whose clothes are dirty, torn, and tattered.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Elise Lawton Smith says that when she first encountered this work, "I wondered whether the image was autobiographical, or if it reflected the mood of early- 20&lt;sup&gt;th&lt;/sup&gt;-century feminists in Britain". It could be safely asserted that both are true, for although there is no evidence that De Morgan felt stifled in this way by her older husband, the scene appears to accurately reflect the reality of her upbringing, as a girl who was expected to commit herself to her studies and then marry and perform her duties as a wife and mother within the confines of the home. Lawton Smith goes on to explain that "The imagery in this painting is embedded in both Spiritualist ideology and the De Morgans' automatic writing. Although the spirits recognize that 'doubt and materialism cloud the path,' they also present the possibility of a trajectory upward, out of the bondage of physicality toward spiritual harmony and freedom".
+			</desc>
+      <collection>De Morgan Foundation Collection</collection>
+    </artwork>
+    <artwork>
+      <title>S.O.S.</title>
+      <year>1914</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In &lt;i&gt;S.O.S.&lt;/i&gt;, a woman with curly red hair occupies most of the frame. She wears a white dress, and her head is tilted upward, eyes closed, and arms outstretched to either side. She stands on a tiny, jagged rock in the middle of a violent ocean. Several black-winged dragons and sea monsters, with fangs bared, fill the waters around her. The mauve nighttime sky is spotted with bright stars, and along the top edge, colorful rays emanate outward from an unseen (celestial or otherworldly) source.
+				&lt;br/&gt;&lt;br/&gt;
+				In the final decades of her life, De Morgan's work became increasingly Symbolist, dealing with the psychological horrors of war, as a response to the Second Boer War and World War I. Symbolist artists use symbolic imagery, and frequently, visual motifs from mysticism, to explore the psychological realm that exists behind the physical reality we experience. Here, the woman in white on the small rock symbolizes England's hope for peace amidst the conflict raging on in the countries around them, as well as the innocence of the victims of war, who are subject to both physical and mental torment, represented by the sea monsters. The rainbow-like rays above the woman's head represent the eventual salvation of the afterlife. This image can be seen as a response to the ongoing conflict of the First World War, but also represents the impact of De Morgan's pacifist and spiritualist beliefs on her art.
+			</desc>
+      <collection>De Morgan Foundation Collection</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks></similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>botticelli_sandro</entity>
+        <entity alt="Sir Edward Poynter">poynter_edward</entity>
+        <entity alt="John Roddam Spencer Stanhope">stanhope_john_roddam_spencer</entity>
+      </column>
+      <column>
+        <entity>de_morgan_william</entity>
+        <entity>watts_george_frederic</entity>
+        <entity>rossetti_dante_gabriel</entity>
+        <entity>hunt_william_holman</entity>
+        <entity>burne_jones_edward</entity>
+      </column>
+      <column>
+        <entity>pre_raphaelites</entity>
+        <entity>aesthetic_art</entity>
+        <entity>symbolism</entity>
+        <entity>arts_and_crafts</entity>
+        <entity>gothic_art_and_architecture</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Mary Stuart-Wortley">stuart_wortley_mary</entity>
+        <entity alt="Sue Ewington">ewington_sue</entity>
+      </column>
+      <column>
+        <entity>de_morgan_william</entity>
+        <entity>watts_george_frederic</entity>
+        <entity>rossetti_dante_gabriel</entity>
+        <entity>hunt_william_holman</entity>
+        <entity>burne_jones_edward</entity>
+      </column>
+      <column>
+        <entity>pre_raphaelites</entity>
+        <entity>aesthetic_art</entity>
+        <entity>symbolism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Evelyn &amp; William De Morgan: A Marriage of Arts &amp; Crafts</title>
+          <link>0300259689</link>
+          <info>By Margaretta Frederick</info>
+        </entry>
+        <entry>
+          <title>The Poems of Evelyn Pickering De Morgan</title>
+          <link>1906469733</link>
+          <info>By Serena Trowbridge</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Evelyn De Morgan: Masterpieces in Colour</title>
+          <link>1508672679</link>
+          <info>By Maria Tsaneva</info>
+        </entry>
+        <entry>
+          <title>Evelyn De Morgan: 101 Masterpieces</title>
+          <link>150601030X</link>
+          <info>By Maria Tsaneva</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>De Morgan Collection</title>
+          <link>https://www.demorgan.org.uk/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Marriage of Arts and Crafts: William and Evelyn De Morgan</title>
+          <link>https://delart.org/a-marriage-of-arts-and-crafts-william-and-evelyn-de-morgan/</link>
+          <info>
+						By Margaretta Frederick
+						&lt;br&gt;
+						Delaware Art Museum 
+						&lt;br&gt;
+						May 17, 2022
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Evelyn Pickering De Morgan's Allegories of Imprisonment</title>
+          <link>https://www.jstor.org/stable/25058391</link>
+          <info>
+						By Elise Lawton Smith
+						&lt;br&gt;
+						Victorian Literature and Culture 
+						&lt;br&gt;
+						Victorian Literature and Culture
+					</info>
+        </entry>
+        <entry>
+          <title>Gloria in Excelsis</title>
+          <link>https://www.christies.com/en/lot/lot-6290726</link>
+          <info>
+						By Christie's
+						&lt;br&gt;
+						Christie's Catalogue 
+						&lt;br&gt;
+						2020
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Evelyn De Morgan, The Pre-Raphaelite Sister You May Not Know</title>
+          <link>https://www.dailyartmagazine.com/evelyn-de-morgan-the-pre-raphaelite-sister-you-may-not-know/</link>
+          <info>
+						By Candy Bedworth
+						&lt;br&gt;
+						Daily Art Magazine 
+						&lt;br&gt;
+						August 28, 2022
+					</info>
+        </entry>
+        <entry>
+          <title>Evelyn Pickering: Pioneering Lady Artist</title>
+          <link>https://www.wattsgallery.org.uk/about-us/news/evelyn-pickering-pioneering-lady-artist/</link>
+          <info>
+						By Claire Longworth
+						&lt;br&gt;
+						Watts Gallery Artists' Village 
+						&lt;br&gt;
+						August 3, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Evelyn De Morgan</title>
+          <link>https://www.researchgate.net/publication/274881701_The_art_of_Evelyn_De_Morgan</link>
+          <info>
+						By Elise Lawton Smith
+						&lt;br&gt;
+						Woman's Art Journal 
+						&lt;br&gt;
+						1998
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Evelyn De Morgan - A Curator's Guide</title>
+          <link>https://www.youtube.com/watch?v=_whzxI5fzHA</link>
+          <info>Tyne &amp; Wear Archives &amp; Museums</info>
+        </entry>
+        <entry>
+          <title>De Morgan Collection - Decoration or Devotion?</title>
+          <link>https://www.youtube.com/watch?v=deBfS0QNAJ0</link>
+          <info>Watts Gallery - Artist's Village</info>
+        </entry>
+        <entry recommended="true">
+          <title>The 'Ladies Classes': Studying at the Slade with Evelyn De Morgan</title>
+          <link>https://www.youtube.com/watch?v=LQ8AhUThG6U</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry>
+          <title>Artist of Hope - Exhibition Tour 21. Putting the Exhibition Together</title>
+          <link>https://www.youtube.com/watch?v=pG54fetnDLM</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry recommended="true">
+          <title>Made in Chelsea: William and Evelyn De Morgan</title>
+          <link>https://www.youtube.com/watch?v=XFzXA1b5GD0</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Poetic Perspective on Evelyn De Morgan and the Pre-Raphaelites</title>
+          <link>https://www.youtube.com/watch?v=1DQhdCnCDw0</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry recommended="true">
+          <title>Evelyn De Morgan, 'Night and Sleep', 1878</title>
+          <link>https://www.youtube.com/watch?v=UjLpunvV3Fs</link>
+          <info>Samantha Edgley</info>
+        </entry>
+        <entry>
+          <title>Evelyn De Morgan's Enchanted Interior - Curator at Home Series</title>
+          <link>https://www.youtube.com/watch?v=C8uG74L3cYs</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry recommended="true">
+          <title>Evelyn De Morgan's Rejection of Material Wealth</title>
+          <link>https://www.youtube.com/watch?v=lunSr80cGoU</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+        <entry>
+          <title>Soul's Prison House by Evelyn De Morgan in the Exhibition "Homecoming" at Cromwell Place</title>
+          <link>https://www.youtube.com/watch?v=vDbj5R-f49I</link>
+          <info>De Morgan Foundation</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

@@ -1,13 +1,12 @@
 Type,ID,last_checked,last_modified,last_vectorised,merged/not-merged
-artist,avedon_richard,2024-01-12 16:50:28.559594, - , - ,not-merged
-definition,abstract_vs_figurative_art,2024-01-12 16:52:20.783852, - , - ,not-merged
-artist,rivers_larry,2024-01-12 17:05:57.462943, - , - ,not-merged
-artist,frankenthaler_helen,2024-01-12 17:09:12.845594, - , - ,not-merged
-artist,chamberlain_john,2024-01-12 17:09:37.863210,2024-01-12 17:09:37.069292, - ,not-merged
-artist,delaney_beauford,2024-01-12 17:09:39.446044,2024-01-12 17:09:38.649265, - ,not-merged
-artist,epstein_jacob,2024-01-12 17:09:41.042942,2024-01-12 17:09:40.250765, - ,not-merged
-artist,glackens_william,2024-01-12 17:09:42.740900,2024-01-12 17:09:41.951180, - ,not-merged
-artist,paolozzi_eduardo,2024-01-12 17:09:44.321477,2024-01-12 17:09:43.524738, - ,not-merged
-definition,the_sublime_in_art,2024-01-12 17:09:45.995051,2024-01-12 17:09:45.179022, - ,not-merged
-movement,barbizon_school,2024-01-12 17:09:46.870972, - , - ,not-merged
-movement,black_mountain_college,2024-01-12 17:10:49.373875, - , - ,not-merged
+movement,group_of_seven,2024-01-14 11:57:32.040879,2024-01-14 11:57:32.085476, - ,not-merged
+movement,superflat,2024-01-14 11:59:51.361769,2024-01-14 11:59:46.644467,2024-01-14 11:59:50.649900,not-merged
+artist,hofmann_hans,2024-01-14 11:59:54.248666,2024-01-14 11:59:51.930109,2024-01-14 11:59:53.712061,not-merged
+artist,noguchi_isamu,2024-01-14 11:59:57.557227,2024-01-14 11:59:54.864901,2024-01-14 11:59:56.911877,not-merged
+artist,lucas_sarah,2024-01-14 12:00:01.044836,2024-01-14 11:59:58.149381,2024-01-14 12:00:00.466531,not-merged
+artist,atget_eugene,2024-01-14 12:07:41.213924,2024-01-14 12:07:37.642899,2024-01-14 12:07:40.646199,not-merged
+movement,barbizon_school,2024-01-14 12:07:44.763623,2024-01-14 12:07:41.867555,2024-01-14 12:07:44.211008,not-merged
+movement,biomorphism,2024-01-14 12:07:48.679972,2024-01-14 12:07:45.382400,2024-01-14 12:07:48.023411,not-merged
+artist,arbus_diane,2024-01-14 12:07:52.420903,2024-01-14 12:07:49.253281,2024-01-14 12:07:51.854286,not-merged
+movement,school_of_london,2024-01-14 12:07:56.473699,2024-01-14 12:07:53.073638,2024-01-14 12:07:55.808432,not-merged
+artist,de_morgan_evelyn,2024-01-14 12:07:57.018180,2024-01-14 12:07:57.080144, - ,not-merged

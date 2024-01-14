@@ -4,7 +4,7 @@ import time
 
 # from models import add_record, update_record, read_records_2, read_records
 from models.models import *
-from refresh.vectorisation.vector_store_n_query import *
+from vectorisation.vector_store_n_query import *
 from xml_filtration.format_artist_xml import *
 from xml_filtration.format_critic_xml import *
 from xml_filtration.format_definition_xml import *
@@ -185,7 +185,8 @@ def filter_and_store_paths():
                     if extracted_type == "influencer":
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
-                    vectorise(extracted_xml_id, type)
+                    vectorise(extracted_xml_id, extracted_type)
+                    update_record(extracted_xml_id, str(datetime.now()), 4)
                 if (are_xml_files_equal(extracted_xml_id, extracted_type) ==  False):
                     download_xml_by_id(extracted_xml_id, extracted_type)
                     if extracted_type == "artist":
@@ -200,7 +201,8 @@ def filter_and_store_paths():
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
                     update_record(extracted_xml_id, str(datetime.now()), 2)
-                    vectorise(extracted_xml_id, type)
+                    vectorise(extracted_xml_id, extracted_type)
+                    update_record(extracted_xml_id, str(datetime.now()), 4)
                 else:
                     update_record(extracted_xml_id, str(datetime.now()), 2)
         merge_db()
@@ -219,5 +221,5 @@ def filter_and_store_paths():
         return "Failure"
 
 # Example usage:
-filter_and_store_paths()
+# filter_and_store_paths()
 merge_db()

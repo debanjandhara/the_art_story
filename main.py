@@ -19,7 +19,8 @@ def hello_world():
 @app.route('/refresh', methods=['POST'])
 def refresh():
     response = filter_and_store_paths()
-    return response
+    json_response = json.dumps({"result": response})
+    return json.loads(json_response)
 
 @app.route('/query_vectors', methods=['POST'])
 def query_vector():
