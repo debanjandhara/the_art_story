@@ -47,3 +47,8 @@ sitemap scrape
         merge()
             rucursively_merge vector db
             and changed 'non merged to merged'
+
+
+
+------------------------------------------------------------
+to be added later : log files --> to filters, and log files to download

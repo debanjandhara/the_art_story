@@ -23,31 +23,57 @@ def influencer_xml(id_influencer):
     # Now you can access elements in the XML file using ElementTree methods
     for main_element in root.iter('main'):
         # Extract data from specific tags
-        artist_id = main_element.find('id').text
-        name = main_element.find('name').text
-        years_worked = main_element.find('years').text
-        description = main_element.find('description').text
-        nationality = main_element.find('nationality').text
-        occupation = main_element.find('occupation').text
-        birthDate = main_element.find('birthDate').text
-        birthPlace = main_element.find('birthPlace').text
-        deathDate = main_element.find('deathDate').text
-        deathPlace = main_element.find('deathPlace').text
-        publish_date = main_element.find('pub_time').text
-
-    output_variable += f'''Id : {artist_id}
+        if (main_element.find('id') is not None):
+            artist_id = main_element.find('id').text
+            output_variable += f'''Id : {artist_id}
 Source Link : https://www.theartstory.org/influencer/{re.sub('_', '-', artist_id)}/
-Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/influencer/{re.sub('_', '-', artist_id)}
-Name : {name}
-{name} Years Worked : {years_worked}
-{name}'s Description : {description}
-{name}'s Nationality : {nationality}
-{name}'s Occupation : {occupation}
-{name}'s BirthDate : {birthDate}
-{name}'s BirthPlace : {birthPlace}
-{name}'s DeathDate : {deathDate}
-{name}'s DeathPlace : {deathPlace}
-{name} Content Publish Date: {publish_date}'''
+Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/influencer/{re.sub('_', '-', artist_id)}'''
+
+        if (main_element.find('name') is not None):
+            name = main_element.find('name').text
+            output_variable += f'''\nName : {name}'''
+
+        if (main_element.find('years') is not None):
+            years_worked = main_element.find('years').text
+            output_variable += f'''\n{name} Years Worked : {years_worked}'''
+
+        if (main_element.find('description') is not None):
+            description = main_element.find('description').text
+            output_variable += f'''\n{name}'s Description : {description}'''
+
+        if (main_element.find('art_description') is not None):
+            art_description = main_element.find('art_description').text
+            output_variable += f'''\n{name}'s Art Description : {art_description}'''
+
+        if (main_element.find('nationality') is not None):
+            nationality = main_element.find('nationality').text
+            output_variable += f'''\n{name}'s Nationality : {nationality}'''
+
+        if (main_element.find('occupation') is not None):
+            occupation = main_element.find('occupation').text
+            output_variable += f'''\n{name}'s Occupation : {occupation}'''            
+
+        if (main_element.find('birthDate') is not None):
+            birthDate = main_element.find('birthDate').text
+            output_variable += f'''\n{name}'s BirthDate : {birthDate}'''
+
+            
+        if (main_element.find('birthPlace') is not None):
+            birthPlace = main_element.find('birthPlace').text
+            output_variable += f'''\n{name}'s BirthPlace : {birthPlace}'''
+
+            
+        if (main_element.find('deathDate') is not None):
+            deathDate = main_element.find('deathDate').text
+            output_variable += f'''\n{name}'s DeathDate : {deathDate}'''
+
+        if (main_element.find('deathPlace') is not None):
+            deathPlace = main_element.find('deathPlace').text
+            output_variable += f'''\n{name}'s DeathPlace : {deathPlace}'''
+
+        if (main_element.find('pub_time') is not None):
+            publish_date = main_element.find('pub_time').text
+            output_variable += f'''\n{name} Content Publish Date: {publish_date}'''
 
     output_variable += "\n\nQuotes : "
 

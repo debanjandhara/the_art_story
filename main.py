@@ -3,6 +3,7 @@ from flask import Flask, request
 import json
 
 from refresh.vectorisation.vector_store_n_query import *
+from refresh.website_n_xml_utils import *
 
 app = Flask(__name__)
 
@@ -14,6 +15,11 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return 'Hello, World!'
+
+@app.route('/refresh', methods=['POST'])
+def refresh():
+    response = filter_and_store_paths()
+    return response
 
 @app.route('/query_vectors', methods=['POST'])
 def query_vector():

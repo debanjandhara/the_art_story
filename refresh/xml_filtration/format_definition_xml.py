@@ -23,17 +23,24 @@ def definition_xml(id_definition):
     # Now you can access elements in the XML file using ElementTree methods
     for main_element in root.iter('main'):
         # Extract data from specific tags
-        artist_id = main_element.find('id').text
-        name = main_element.find('name').text
-        start_date = main_element.find('start').text
-        publish_date = main_element.find('pub_time').text
-
-    output_variable += f'''Id : {artist_id}
+        if (main_element.find('id') is not None):
+            artist_id = main_element.find('id').text
+            output_variable += f'''Id : {artist_id}
 Source Link : https://www.theartstory.org/definition/{re.sub('_', '-', artist_id)}/
-Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/definition/{re.sub('_', '-', artist_id)}
-Name : {name}
-{name} Years Started : {start_date}
-{name} Content Publish Date: {publish_date}'''
+Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/definition/{re.sub('_', '-', artist_id)}'''
+            
+            
+        if (main_element.find('name') is not None):
+            name = main_element.find('name').text
+            output_variable += f'''\nName : {name}'''
+
+        if (main_element.find('start') is not None):
+            start_date = main_element.find('start').text
+            output_variable += f'''\n{name} Years Started : {start_date}'''
+            
+        if (main_element.find('pub_time') is not None):
+            publish_date = main_element.find('pub_time').text
+            output_variable += f'''\n{name} Content Publish Date: {publish_date}'''
 
     output_variable += "\n\nQuotes : "
 

@@ -4,6 +4,7 @@ import time
 
 # from models import add_record, update_record, read_records_2, read_records
 from models.models import *
+from refresh.vectorisation.vector_store_n_query import *
 from xml_filtration.format_artist_xml import *
 from xml_filtration.format_critic_xml import *
 from xml_filtration.format_definition_xml import *
@@ -133,7 +134,9 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
 
-def filter_and_store_paths(url, output_file="paths2.txt"):
+def filter_and_store_paths():
+    url = "https://www.theartstory.org/sitemap.htm"
+    # output_file="paths2.txt"
     count = 0
     try:
         # Fetch the HTML content of the page
@@ -182,7 +185,7 @@ def filter_and_store_paths(url, output_file="paths2.txt"):
                     if extracted_type == "influencer":
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
-                    # vectorise()
+                    vectorise(extracted_xml_id, type)
                 if (are_xml_files_equal(extracted_xml_id, extracted_type) ==  False):
                     download_xml_by_id(extracted_xml_id, extracted_type)
                     if extracted_type == "artist":
@@ -197,20 +200,24 @@ def filter_and_store_paths(url, output_file="paths2.txt"):
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
                     update_record(extracted_xml_id, str(datetime.now()), 2)
-                    # vectorise()
+                    vectorise(extracted_xml_id, type)
                 else:
                     update_record(extracted_xml_id, str(datetime.now()), 2)
+        merge_db()
 
 
-        # Store filtered paths in a .txt file
-        with open(output_file, 'w') as file:
-            for path in paths:
-                file.write(path + '\n')
+        # # Store filtered paths in a .txt file
+        # with open(output_file, 'w') as file:
+        #     for path in paths:
+        #         file.write(path + '\n')
 
         print(f"Filtered paths extracted and stored in database.csv and Required Folder")
+        return "Success"
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching the page: {e}")
+        return "Failure"
 
 # Example usage:
-filter_and_store_paths("https://www.theartstory.org/sitemap.htm")
+filter_and_store_paths()
+merge_db()

@@ -23,25 +23,40 @@ def movement_xml(id_movement):
     # Now you can access elements in the XML file using ElementTree methods
     for main_element in root.iter('main'):
         # Extract data from specific tags
-        artist_id = main_element.find('id').text
-        name = main_element.find('name').text
-        years_worked = main_element.find('years').text
-        description = main_element.find('description').text
-        art_title = main_element.find('art_title').text
-        bio_highlight = main_element.find('bio_highlight').text
-        publish_date = main_element.find('pub_time').text
-
-# {name}'s Art Description : {art_description}
-
-    output_variable += f'''Id : {artist_id}
+        if (main_element.find('id') is not None):
+            artist_id = main_element.find('id').text
+            output_variable += f'''Id : {artist_id}
 Source Link : https://www.theartstory.org/movement/{re.sub('_', '-', artist_id)}/
-Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/movement/{re.sub('_', '-', artist_id)}
-Name : {name}
-{name} developed in (year) : {years_worked}
-{name}'s Art Title : {art_title}
-{name}'s Description : {description}
-{name}'s Biography Highlights : {re.sub(r'<.*?>', '', bio_highlight)}
-{name} Content Publish Date: {publish_date}'''
+Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_content/ai-card/movement/{re.sub('_', '-', artist_id)}'''
+            
+        if (main_element.find('name') is not None):
+            name = main_element.find('name').text
+            output_variable += f'''\nName : {name}'''
+            
+        if (main_element.find('years') is not None):
+            years_worked = main_element.find('years').text
+            output_variable += f'''\n{name} developed in (year) : {years_worked}'''
+            
+        if (main_element.find('description') is not None):
+            description = main_element.find('description').text
+            output_variable += f'''\n{name}'s Description : {description}'''
+            
+        if (main_element.find('art_title') is not None):
+            art_title = main_element.find('art_title').text
+            output_variable += f'''\n{name}'s Art Title : {art_title}'''
+            
+        if (main_element.find('art_description') is not None):
+            art_description = main_element.find('art_description').text
+            output_variable += f'''\n{name}'s Art Description : {art_description}'''
+            
+        if (main_element.find('bio_highlight') is not None):
+            bio_highlight = main_element.find('bio_highlight').text
+            output_variable += f'''\n{name}'s Biography Highlights : {re.sub(r'<.*?>', '', bio_highlight)}'''
+            
+        if (main_element.find('pub_time') is not None):
+            publish_date = main_element.find('pub_time').text
+            output_variable += f'''\n{name} Content Publish Date: {publish_date}'''
+
 
     output_variable += "\n\nQuotes : "
 
