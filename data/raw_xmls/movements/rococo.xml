@@ -1,0 +1,575 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>rococo</id>
+    <name>Rococo</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1702 - 1780</years>
+    <description>Rococo featured grandiose ideals and lust for the aristocratic lifestyle representing France in the 18th century.</description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1702</start>
+    <end>1780</end>
+    <art_type>Art</art_type>
+    <pub_time>10/25/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>boucher_francois</artist>
+    <artist>watteau_jean_antoine</artist>
+    <artist>fragonard_jean_honore</artist>
+    <artist>chardin_jean_baptiste_simeon</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>baroque_art_and_architecture</movement>
+    <movement>neoclassicism</movement>
+    <movement>romanticism</movement>
+    <movement>dutch_golden_age</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>baroque_art_and_architecture</entry>
+    <entry>neoclassicism</entry>
+    <entry>grand_manner</entry>
+    <entry></entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="watteau_jean_antoine" alt="Antoine Watteau">"In my view, you must either do away with ornament - or make ornament the essence. It's not something you add. It's not icing on a cake. It's everything - or it's nothing."</q>
+    <q author="François Boucher">"This vision is within our grasp."</q>
+    <q author="Jean-Baptiste-Simeon Chardin">"One makes use of pigments, but one paints with one's feelings."</q>
+    <q author="Jean-Baptiste-Simeon Chardin">"In order to concentrate on reproducing it faithfully I must forget everything I have seen and even forget the way such objects have been treated by others."</q>
+    <q author="Thomas Gainsborough">"Fools talk of imitation and copying, all is imitation."</q>
+    <q author="Elisabeth Vigée Le Brun">"Painting and living have always been one and the same thing for me."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Centuries before the term "bling" was invented to denote ostentatious shows of luxury, Rococo infused the world of art and interior design with an aristocratic idealism that favored elaborate ornamentation and intricate detailing. The paintings that became signature to the era were created in celebration of Rococo's grandiose ideals and lust for the aristocratic lifestyle and pastimes. The movement, which developed in France in the early 1700s, evolved into a new, over-the-top marriage of the decorative and fine arts, which became a visual lexicon that infiltrated 18th century continental Europe.</synopsys>
+    <key_ideas>
+      <idea>Genre paintings were popular ways to represent the Rococo period's bold and joyous lust for life. This included &lt;i&gt;fete galante&lt;/i&gt;, or works denoting outdoor pastimes, erotic paintings alive with a sense of whimsical hedonism, Arcadian landscapes, and the "celebrity" portrait, which positioned ordinary people in the roles of notable historical or allegorical characters.</idea>
+      <idea>Rococo art and architecture carried a strong sense of theatricality and drama, influenced by stage design. Theater's influence could be seen in the innovative ways painting and decorative objects were woven into various environments, creating fully immersive atmospheres.</idea>
+      <idea>Detail-work flourished in the Rococo period. Stucco reliefs as frames, asymmetrical patterns involving motifs and scrollwork, sculptural arabesque details, gilding, pastels, and &lt;i&gt;tromp l'oeil&lt;/i&gt; are the most noted methods that were used to achieve a seamless integration of art and architecture.</idea>
+      <idea>The term "rococo" was first used by Jean Mondon in his &lt;i&gt;Premier Livre de forme rocquaille et cartel (First book of Rococo Form and Setting)&lt;/i&gt; (1736), with illustrations that depicted the style used in architecture and interior design. The term was derived from the French &lt;i&gt;rocaille&lt;/i&gt;, meaning "shell work, pebble-work," used to describe &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;High Renaissance&lt;/span&gt; fountains or garden grottos that used seashells and pebbles, embedded in stucco, to create an elaborate decorative effect.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="p">In painting Rococo was primarily influenced by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-venetian_school"&gt;Venetian School's&lt;/span&gt; use of color, erotic subjects, and Arcadian landscapes, while the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-school_of_fontainebleau"&gt;School of Fontainebleau&lt;/span&gt; was foundational to Rococo interior design.</p>
+        </subsection>
+        <subsection title="The Venetian School">
+          <p type="img" alt="Titian's &lt;i&gt;Pastoral Concert&lt;/i&gt; (c. 1509)" show="1">/images20/photo/photo_rococo_1.jpg</p>
+          <p type="p">The noted painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giorgione"&gt;Giorgione&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, among others, influenced the Rococo period's emphasis on swirling color and erotic subject matter. &lt;i&gt;Pastoral Concert&lt;/i&gt; (c. 1509), first attributed to Giorgione, though now credited by most scholars as one of Titian's early works, was classified as a &lt;i&gt;Fête champêtre&lt;/i&gt;, or outdoor party, by the Louvre when it first became part of the museum's collection. The Renaissance work depicting two nude women and two aristocratic men playing music in an idealized pastoral landscape would heavily influence the development of Rococo's &lt;i&gt;Fête galante&lt;/i&gt;, or courtship paintings. The term referred to historical paintings of pleasurable past times and became popularized in the works of Jean-Antoine Watteau.</p>
+        </subsection>
+        <subsection title="School of Fontainebleau 1528-1630">
+          <p type="img" alt="Rosso Florentino's &lt;i&gt;The Royal Elephant&lt;/i&gt; (c. 153-159) is one of his many paintings in the Château de Fontainebleau gallery that employ stucco relief to create an ornate overall effect." show="1">/images20/photo/photo_rococo_2.jpg</p>
+          <p type="p">In 1530 King Francis I, a noted art patron, invited the Italian artist Rosso Florentino to the French court, where, pioneering the courtly style of French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerism&lt;/span&gt;, Rosso founded the School of Fontainebleau. The school became known for its unique interior design style in which all the elements created a highly choreographed unity. Rosso pioneered the use of large stucco reliefs as frames, adorned with decorative and gilded motifs that would heavily influence Rococo's emphasis on elaborated settings.</p>
+          <p type="img" alt="The case of this &lt;i&gt;pendule en cartel&lt;/i&gt;, or wall clock, (c. 1740-1745) was designed by Charles Cressent for a clock made by Jean Godde l'aîné." show="1">/images20/photo/photo_rococo_3.jpg</p>
+          <p type="p">Gilding was a key contribution of Fontainebleau, providing exquisite splendor to objects as seen in Benevento Cellini's famous &lt;i&gt;Salt Cellar&lt;/i&gt; (1543), which Francis I commissioned in gold. Even simple elements of Rococo interiors became highly accentuated as seen in the popularity of cartel clocks, embedding regular clocks into intricate settings that resembled pieces of sculpture, and which seamlessly complemented the overall look and feel of their surrounding interiors.</p>
+        </subsection>
+        <subsection title="The Era of Rococo Design">
+          <p type="img" alt="Pierre Le Pautre's interior design for the Bull's Eye Antechamber (1701) was exemplar, while the two round windows at either end gave the chamber its name." show="1">/images20/photo/photo_rococo_4.jpg</p>
+          <p type="p">Rococo debuted in interior design when engraver Pierre Le Pautre worked with architect Jules Hardouin-Mansart on the Château de Marly (1679-1684), and later at Versailles in 1701 when he redesigned Louis XIV's private apartments. Le Pautre pioneered the use of arabesques, employing an s-shaped or c-shaped line, placed on white walls and ceilings. He also used inset panels with gilded woodwork, creating a whimsical, lighter style. Le Pautre was primarily known as &lt;i&gt;an ornemaniste&lt;/i&gt;, or designer of ornament, which reflects the popular role at the time of artisans and craftsmen in developing the highly decorative style.</p>
+          <p type="img" alt="Rosalba Carriera's &lt;i&gt;Portrait of Louis XV as Dauphin&lt;/i&gt; (1720-1721) revolutionized royal portraiture from a traditional emphasis upon powerful depictions of rulers to an emphasis upon decorative appeal." show="1">/images20/photo/photo_rococo_5.jpg</p>
+          <p type="p">During the reign of Louis XIV, France had become the dominant European power, and the combination of great wealth and peaceful stability led the French to turn their attention toward personal affairs and the enjoyment of worldly pleasures. When the King died in 1715, his heir Louis XV was only five years old, so the Regency, led by the Duc d' Orléans, ruled France until the Dauphin came of age. The Duke was known for his hedonistic lifestyle, and Rococo's aesthetics seemed the perfect expression of the era's sensibility. Taking the throne in 1723, Louis XV also became a noted proponent and patron of Rococo architecture and design. Since France was the artistic center of Europe, the artistic courts of other European countries soon followed suit in their enthusiasm for similar embellishments.</p>
+        </subsection>
+        <subsection title="Jean-Antoine Watteau">
+          <p type="img" alt="Rosalba Carriera's &lt;i&gt;Portrait of Antoine Watteau&lt;/i&gt; (1721) depicts the artist in the last year of his life as he died from tuberculosis at the age of 36. The work also exemplifies the pastel portraits pioneered by Carriera." show="1">/images20/photo/photo_rococo_6.jpg</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-watteau_jean_antoine"&gt;Jean-Antoine Watteau&lt;/span&gt; spearheaded the Rococo period in painting. Born in Valenciennes, a small provincial village in Belgium that had recently been acceded to the French, his precocity in art and drawing led to his early apprenticeship with a local painter. Subsequently he went to Paris where he made a living producing copies of works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-veronese_paolo"&gt;Paolo Veronese&lt;/span&gt;. He joined the studio of Claude Audran, who was a renowned decorator, where he met and became an artistic colleague of Claude Gillot, known for his decoration of &lt;i&gt;commedia dell'arte&lt;/i&gt;, or comic theater productions. As a result, Watteau's work often expressed a theatrical approach, showing figures in costume amongst backdrop scenery, lit up with artificial light.</p>
+          <p type="img" alt="Antoine Watteau's &lt;i&gt;Embarkation for Cythera&lt;/i&gt; (1717) depicts aristocratic couples on Cythera, a mythological island of love, created a new category of painting." show="1">/images20/photo/photo_rococo_7.jpg</p>
+          <p type="p">In 1712 Watteau entered the Prix de Rome competition of the Académie Royale de Peinture et de Sculpture, and the Academy admitted him as a full member. His "reception piece" for the Academy, &lt;i&gt;Embarkation for Cythera&lt;/i&gt; (1717), effectively launched the Rococo movement. The Academy coined the term &lt;i&gt;Fête galante&lt;/i&gt;, or courtship party, to refer to the work, thus establishing the category that was to be a dominant element of Rococo painting. &lt;i&gt;Fête galante&lt;/i&gt; paintings depicted the &lt;i&gt;fête champêtre&lt;/i&gt;, or garden party, popular among the aristocratic class, where, dressed as if for a ball or wearing costumes, they would wine, dine, and engage in amorous pursuits within Arcadian gardens and parks. The artistic subject not only appealed to private patrons, but its mythologized landscapes and settings met the standards of the Academy which ranked historical painting, including mythological subjects, as the highest category.</p>
+          <p type="img" alt="Antoine Watteau's &lt;i&gt;A Man Reclining and a Woman Seated on the Ground&lt;/i&gt; (c. 1716) exemplified his three-chalk technique and what art curator Timothy Potts described as 'freshness and assured spontaneity.'" show="1">/images20/photo/photo_rococo_8.jpg</p>
+          <p type="p">Claude Audren was the official Keeper of the Luxembourg Palace and, while working with him, Watteau copied &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Peter Paul Ruben's&lt;/span&gt; series of twenty-four paintings of the &lt;i&gt;Life of Marie de' Medici&lt;/i&gt; (1622-25), which was displayed at the palace. Ruben's series, combining allegorical figures and mythological subjects with depictions of the Queen and the aristocratic court, continued to inform Watteau's work. Rubens had pioneered the technique of &lt;i&gt;trois crayons&lt;/i&gt;, meaning three chalks, a technique using red, black, and white, to create coloristic effects. Watteau mastered the technique to such a degree that his name became associated with it, and it was widely adopted by later Rococo artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boucher_francois"&gt;François Boucher&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="François Boucher">
+          <p type="p">Influenced by Rubens and Watteau, François Boucher became the most renowned artist of the mature Rococo period, beginning in 1730 and lasting until the 1760s. Noted for his painting that combined aristocratic elegance with erotic treatments of the nude, as seen in his &lt;i&gt;The Toilet of Venus&lt;/i&gt; (1751), he was equally influential in decorative arts, theatrical settings, and tapestry design. He was appointed First Painter to the King in 1765, but is most known for his long time association with Madame de Pompadour, the official first mistress of King Louis XV and a noted patron of the arts. As a result of his mastery of Rococo art and design and his royal patronage, Boucher became "one of those men who represent the taste of a century, who express, personify and embody it," as the noted authors Edmond and Jules de Goncourt wrote.</p>
+        </subsection>
+        <subsection title="Madame de Pompadour">
+          <p type="img" alt="Jean-Marc Nattier's &lt;i&gt;Jeanne-Antoinette Poisson, Marquise de Pompadour&lt;/i&gt; (1746) shows his subject as the goddess Diana the Huntress, an allusion to Pompadour catching the King's eye while he held a hunt in the forest of Sénart." show="1">/images20/photo/photo_rococo_9.jpg</p>
+          <p type="p">Madame de Pompadour, born Jeanne-Antoinette Poisson, has been called the "godmother of the Rococo," due to her centrality in promoting the style and establishing Paris as the artistic capital of Europe. She influenced further applications of Rococo due to her patronage of artists such as Jean-Marc Nattier, the sculptor Jean Baptiste Pigalle, the wallpaper designer Jean-Baptiste Réveillon, and the gemstone engraver Jacques Guay. The King's official first mistress from 1745-1751, she remained his confidant and trusted advisor until her death at the age of 42 due to tuberculosis. Her role and status became the &lt;i&gt;de facto&lt;/i&gt; definition of royal patronage.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="French Rococo">
+          <p type="img" alt="This photograph shows the ornate gilded ceiling of Charles-Joseph Natoire and Germain Boffrand's La Salon de la Princesse (1735-1740)." show="1">/images20/photo/photo_rococo_10.jpg</p>
+          <p type="p">France was the center of the development of Rococo. In design, the salon, a room for entertaining but also impressing guests, was a major innovation. The most famous example was Charles-Joseph Natoire and Germain Boffrand's La Salon de la Princesse (1735-1740) in the residence of the Prince and Princess de Soubise. The cylindrical interior's white walls, gilded wood, and many mirrors created a light and airy effect. Arabesque decorations, often alluding to Roman motifs, cupids, and garlands, were presented in gold stucco and plate relief. Asymmetrical curves, sometimes derived from organic forms, such as seashells or acanthus fronds, were elaborate and exaggerated. The minimal emphasis on architecture and maximum emphasis on décor would become cornerstone to the Rococo movement.</p>
+          <p type="img" alt="François Lemoyne's &lt;i&gt;Apotheosis of Hercules&lt;/i&gt; (1733-1736)" show="1">/images20/photo/photo_rococo_11.jpg</p>
+          <p type="p">Painting was an essential part of the Rococo movement in France, and the noted painters who led the style, Antoine Watteau followed by François Boucher, influenced all elements of design from interiors to tapestries to fashion. Other noted artists included Jean-Baptiste van Loo, Jean-Marc Nattier, and François Lemoyne. Lemoyne was noted for his historical allegorical paintings as seen in his &lt;i&gt;Apotheosis of Hercules&lt;/i&gt; (1733-1736) painted on the Salon of Hercules' ceiling at Versailles. A noted feature of French Rococo painting was the manner in which a number of noted artist families, such as the van Loos and the Coypels, maintained a consistent style and subject matter in their workshops.</p>
+        </subsection>
+        <subsection title="Italian Rococo">
+          <p type="p">Painting took the lead in Italian Rococo, exemplified by the works of the Venetian artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tiepolo"&gt;Tiepolo&lt;/span&gt;. Combining the Venetian School's emphasis on color with &lt;i&gt;quadratura&lt;/i&gt;, or ceiling paintings, Tiepolo's masterworks were frescos and large altarpieces. Famed throughout Europe, he received many royal commissions, such as his series of ceiling paintings in the Wurzburg Residenz in Germany, and his &lt;i&gt;Apotheosis of the Spanish Monarchy&lt;/i&gt; (1762-1766) in the Royal Palace in Madrid.</p>
+          <p type="img" alt="Canaletto's &lt;i&gt;Venice: Santa Maria della Salute&lt;/i&gt; (c. 1740) exemplified his style, combining the effects of light with a precisely observed view of the city's architecture and features." show="1">/images20/photo/photo_rococo_13.jpg</p>
+          <p type="p">Italian Rococo was also noted for its great landscape artists known as "view-painters," particularly Giovanni Antonio Canal, known simply as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-canaletto"&gt;Canaletto&lt;/span&gt;. He pioneered the use of two-point linear perspective while creating popular scenes of the canals and pageantry of Venice. His works, such as his &lt;i&gt;Venice: Santa Maria della Salute&lt;/i&gt; (c. 1740), were in great demand with English aristocrats. In the 1700s it became customary for young English aristocrats to go on a "Grand Tour," visiting the noted sites of Europe in order to learn the classical roots of Western culture. The trips launched a kind of aristocratic tourism, and Venice was a noted stop, famed for its hedonistic carnival atmosphere and picturesque views. These young aristocrats were also often art collectors and patrons, and most of Canaletto's works were sold to an English audience, and in 1746 he moved to England to be closer to his art market and lived there for almost a decade.</p>
+          <p type="img" alt="Rosalba Carriera's &lt;i&gt;Summer&lt;/i&gt; (c. 1725) was part of a series depicting the seasons, each symbolized by a single nymph-like figure." show="1">/images20/photo/photo_rococo_14.jpg</p>
+          <p type="p">Rosalba Carriera's pastel portraits, both miniature and full-size, as well as her allegorical works were in demand throughout Europe, as she was invited to the royal courts of France, Austrian, and Poland. She pioneered the use of pastels, previously only employed for preparatory drawings, as a medium for painting, and, by binding the chalk into sticks, developed a wider range of strokes and prepared colors. Her &lt;i&gt;Portrait of Louis XV as Dauphin&lt;/i&gt; (1720-1721) established the new style of Rococo portraiture, emphasizing visual appeal and decorative effect.</p>
+          <p type="img" alt="The reception room in Filippo Juvarra's Rococo design of Stupinigi Palace (1729-1931)." show="1">/images20/photo/photo_rococo_15.jpg</p>
+          <p type="p">In architecture, Italy continued to emphasize the Baroque with its strong connection to the Catholic church until the 1720s when the architect Filippo Juvarra built several Northern Italian Palaces in the Rococo style. His masterwork was the Stupinigi Palace (1729-1731), built as the hunting lodge for the King of Sardinia in Turin. At the same time, Rococo interiors became popular in Genoa, Sardinia, Sicily, and Venice where the style took on regional variations particularly in furniture design. Italian Rococo interiors were particularly known for their Venetian glass chandeliers and mirrors and their rich use of silk and velvet upholstery.</p>
+        </subsection>
+        <subsection title="German Rococo">
+          <p type="img" alt="Schloss Amalienburg, (Lustschloss) in Nymphenburger Park in Münich (1734-1739), exemplified German Rococo with its fanciful pink and white façade and its subtle curves." show="1">/images20/photo/photo_rococo_16.jpg</p>
+          <p type="p">Germany's enthusiasm for Rococo expressed itself exuberantly and primarily in architectural masterpieces and interior design, as well as the applied arts. A noted element of German Rococo was the use of vibrant pastel colors like lilac, lemon, pink, and blue as seen in François de Cuvilliés' design of the Amalienburg (1734-1739), a hunting lodge for the Holy Roman Emperor Charles VII in Munich. His Hall of Mirrors in the Amalienburg has been described by art historian Hugh Honour as exemplifying "easy elegance and gossamer delicacy."</p>
+          <p type="img" alt="Jacob Prandtauer's Melk Abbey (1702-1736) exemplified the German Rococo use of color and innovations in spatial construction as seen in the rippling front wall, and site location, as the building overlooks the Danube River." show="1">/images20/photo/photo_rococo_17.jpg</p>
+          <p type="p">German design motifs while employing asymmetry and s- and c- curved shapes, often drew upon floral or organic motifs, and employed more detail. German architects also innovatively explored various possibilities for room designs, cutting away walls or making curved walls, and made the siting of new buildings an important element of the effect, as seen in Jacob Prandtauer's Melk Abbey (1702-1736)</p>
+        </subsection>
+        <subsection title="English Rococo">
+          <p type="img" alt="Thomas Chippendale's &lt;i&gt;Design for Commode and lamp stands&lt;/i&gt; (1753-54) pioneered the British use of Rococo in structural design." show="1">/images20/photo/photo_rococo_18.jpg</p>
+          <p type="p">England's employment of Rococo, which was called "French style," was more restrained, as the excesses of the style were met with a somber Protestantism. As a result, &lt;i&gt;rocaille&lt;/i&gt; introduced by the émigré engraver Hubert-François Gravelot and the silversmith Paul de Lamerie, was only employed as details and occasional motifs. Around 1740 the Rococo style began to be employed in British furniture, most notably in the designs of Thomas Chippendale. His catalogue &lt;i&gt;Gentleman's and Cabinet-makers' directory&lt;/i&gt; (1754), illustrating Rococo designs, became a popular industry standard.</p>
+          <p type="img" alt="Though painted in oils, Angelica Kauffmann's &lt;i&gt;Self-Portrait&lt;/i&gt; (c. 1773) used color and tone to create a pastel effect." show="1">/images20/photo/photo_rococo_19.jpg</p>
+          <p type="p">Rococo had more of an impact upon British artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hogarth_william"&gt;William Hogarth&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gainsborough_thomas"&gt;Thomas Gainsborough&lt;/span&gt;, and the Swiss &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kauffman_angelica"&gt;Angelica Kauffman&lt;/span&gt;. In his &lt;i&gt;The Analysis of Beauty&lt;/i&gt; (1753) Hogarth advocated for the use of a serpentine line, seeing it as both more organic and aesthetically ideal. Gainsborough first studied with Gravelot, a former student of Boucher, whose feathery brushwork and color palette influenced Gainsborough's portraiture toward fluidity of light and color. Though Swiss-born, Angelica Kauffman spent most of her life in Rome and London. From 1766 to 1781 she lived in London where influential &lt;span class="marked_text chart-tooltip-target-top tooltip_id-reynolds_joshua"&gt;Sir Joshua Reynolds&lt;/span&gt; particularly admired her portraiture. One of only two women elected to the Royal Academy of Arts in London, she played a significant role in both advancing the Rococo style and, subsequently, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">In 1750 Madame de Pompadour sent her nephew Abel-François Poisson de Vandières to study developments in Italian art and archeology. Returning with an enthusiasm for classical art, Vandières was appointed director of the King's Buildings where he began to advocate for a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassical&lt;/span&gt; approach. He also became a noted art critic, condemning Boucher's &lt;i&gt;petit style&lt;/i&gt;, or "little style." Noted thinkers of the day, including the philosopher Voltaire, the art critic Diderot also critiqued Rococo as superficial and decadent. These trends, along with a rising revolutionary fervor in France caused Rococo to fall out of favor by 1780.</p>
+          <p type="p">The new movement Neoclassicism, led by the artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;, emphasized heroism and moral virtue. David's art students even sang the derisive chant, "Vanloo, Pompadour, Rococo," singling out the style, one of its leading artists, and it most noted patron. As a result, by 1836 it was used to mean "old-fashioned," and by 1841 was used to denote works seen as "tastelessly florid or ornate." The negative connotations continued into the 20&lt;sup&gt;th&lt;/sup&gt; century, as seen in the 1902 Century Dictionary description "Hence &lt;i&gt;rococo&lt;/i&gt; is used... to note anything feebly pretentious and tasteless in art or literature."</p>
+          <p type="p">Rococo design and painting would veer toward divergent paths, as Rococo design, despite the new trends in the capital, continued to be popular throughout the French provinces. In the 1820s under the restored monarchy of King Louis Philippe, a revival called the "Second Rococo" style became popular and spread to Britain and Bavaria. In Britain the revival became known as Victorian Rococo and lasted until around 1870, while also influencing the American Rococo Revival in the United States, led by John Henry Belter. The style, widely employed for upscale hotels, was dubbed "Le gout Ritz" into the 20&lt;sup&gt;th&lt;/sup&gt; century. However, in painting Rococo fell out of favor, with the exception of the genre paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chardin_jean_baptiste_simeon"&gt;Chardin&lt;/span&gt;, highly praised by Diderot, which continued to be influential and would later make a noted impact on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt;.</p>
+          <p type="p">Edmund and Jules de Goncourt rediscovered the major Rococo painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fragonard_jean_honore"&gt;Jean-Honoré Fragonard&lt;/span&gt; in &lt;i&gt;L'Art du XVIIIe siècle&lt;/i&gt; (&lt;i&gt;Eighteenth-Century Art&lt;/i&gt;) (1865). He subsequently influenced the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;, especially &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, and has gone on to influence contemporary artists like Yinka Shonibare, Kent Monkman, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-yuskavage_lisa"&gt;Lisa Yuskavage&lt;/span&gt;.</p>
+          <p type="p">Also rediscovered by the de Goncourt brothers, Watteau's &lt;i&gt;commedia dell'arte&lt;/i&gt; subjects influenced &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Cézanne&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_pierre"&gt;Henri Matisse&lt;/span&gt;, as well as many poets such as Paul Verlaine and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;, the composer Arnold Schoenberg, and the choreographer George Balanchine.</p>
+          <p type="p">The term Rococo and the artists associated with it only began to be critically re-evaluated in the late 20&lt;sup&gt;th&lt;/sup&gt; century, when the movements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; and the works of artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wiley_kehinde"&gt;Kehinde Wiley&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt; created a new context for art expressing the same ornate, stylistic, and whimsical treatments. Rococo has had a contemporary influence as seen in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ai_weiwei"&gt;Ai Weiwei's&lt;/span&gt; &lt;i&gt;Logos 2017&lt;/i&gt; where, as art critic Roger Catlin wrote, "What looks like a fancy &lt;i&gt;rococo&lt;/i&gt; wallpaper design in black and white and in gold is actually an arrangement of handcuffs, chains, surveillance cameras, Twitter birds and stylized alpacas - an animal which in China has become a meme against censorship." The movement also lives on in popular culture, as shown in Arcade Fire's hit song "Rococo" (2010).</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Embarkation for Cythera</title>
+      <artist>Jean-Antoine Watteau</artist>
+      <year>1717</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting depicts a number of amorous couples in elegant aristocratic dress within an idealized pastoral setting on Cythera, the mythical island where Venus, the goddess of love, birthed forth from the sea. The gestures and body language are evocative, as the man standing below center, his arm around the waist of the woman beside him, seems to earnestly entreat her, while she turns back to gaze wistfully at the other couples. A nude statue of the goddess rises from a pedestal that is garlanded with flowers on the right, as if presiding over the festivities. On the left, she is doubly depicted in a golden statue that places her in the prow of the boat. Nude putti appear throughout the scene, soaring into the sky on the left, or appearing between the couples and pushing them along, and nature is a languid but fecund presence. Overall, the painting celebrates the journey of love. As contemporary critic Jeb Perl wrote, "Watteau's paired lovers, locked in their agonizing, delicious indecision, are emblems of the ever-approaching and ever-receding possibility of love."
+				&lt;br/&gt;&lt;br/&gt;
+				As art critic Holly Brubach wrote, "Watteau's images are perfectly suspended between the moment just before and the moment after... the people he portrays are busy enacting not one but several possible scenarios." His figures are not so much recognizable individuals, as aristocratic types, with smooth powdered faces, that together create a kind of choreography of color and pleasure.
+				&lt;br/&gt;&lt;br/&gt;
+				With this work, Watteau's reception piece for the Academy, he pioneered the &lt;i&gt;fête galante&lt;/i&gt;, or courtship painting, and launched the Rococo movement. As Jonathan Jones wrote, "In the misty, melting landscapes of paintings ... he unequivocally associates landscape and desire: if Watteau's art looks back to the courtly lovers of the middle ages it begins the modern history of sensuality in French art."
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Pierrot</title>
+      <artist>Jean-Antoine Watteau</artist>
+      <year>c. 1718-19</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting (formerly known as Gilles) depicts Pierrot, a traditional character in Italian &lt;i&gt;commedia dell'arte&lt;/i&gt;. He is elevated on center stage in what appears to be a garden and he faces the viewer with a downcast expression as his white satin costume dominates, its ballooning midsection lit up. He seems almost like a two-dimensional cut-out figure. Other stock characters surround him but Pierrot remains separate as if he has stepped out of their scene. The negative space in the upper left further emphasizes Pierrot's isolation. As Jonathan Jones wrote, "Watteau makes the fiction of the picture manifest," as the character, "in his discomfort and alienation, rebels not only against his stock character role in the comedy, but his role in this painting. His stepping out of the play is also a stepping out of the fiction painted by Watteau."
+				&lt;br/&gt;&lt;br/&gt;
+				Watteau pioneered the artistic representation of theatrical worlds, a distinctive Rococo genre, and he also recast the character of Pierrot from a kind of bumbling, lovelorn fool into a figure of alienated longing. As Jones wrote, "representation of theatrical, socially marginal worlds, following Watteau, is central to French modern art, from the impressionists' cafe singers to Toulouse-Lautrec's dancers and prostitutes and Picasso's Harlequins." As the figure of Pierrot became a figure of the artist's alter ego, this painting influenced a number of later art movements and artists, including the Decadents, the Symbolists, and artists like André Derain, as seen in his &lt;i&gt;Harlequin and Pierrot&lt;/i&gt; (c. 1924). The influence also extended to pop culture as shown in David Bowie's early performance in Lindsay Kemp's &lt;i&gt;Pierrot in Turquoise&lt;/i&gt; (1967) where Bowie said, "I'm Pierrot. I'm Everyman. What I'm doing is theatre, and only theatre. What you see on stage isn't sinister. It's pure clown. I'm using myself as a canvas and trying to paint the truth of our time."
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Entrance to the Grand Canal</title>
+      <artist>Canaletto</artist>
+      <year>c. 1730</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This noted landscape depicts the entrance to the Grand Canal in Venice, with a number of gondoliers and their passengers maneuvering horizontally across the canvas. Their asymmetrical placement creates movement as three gondolas extend upward in the center and draw the viewer's eye into the distance, further emphasized by the perspective of the buildings on the right and the church on the left. The subtle use of local colors give the piece a golden feel and a sense of the idyllic life of the times, which was informed by the Venetian school's love of Arcadian landscapes that heavily informed the Rococo aesthetic.
+				&lt;br/&gt;&lt;br/&gt;
+				Canaletto was a pioneer in painting from nature and conveying the atmospheric effects of a particular moment, which has led some scholars to see his work as anticipating Impressionism. As Jonathan Jones wrote, "the delicate feel for light playing on architecture...makes Canaletto so beguiling." At the same, his innovative use of topography, rendering a locale with scientific accuracy, influenced subsequent artists, as art historian John Russell noted, "he took hold of his native city as if no detail of its teeming life was too small or too trivial to deserve his attention."
+				&lt;br/&gt;&lt;br/&gt;
+				Venice was a noted stop for British aristocrats on the Grand Tour, and most of Canaletto's work was sold to this audience. The British art dealer Owen Swiny encouraged him to paint small, even postcard-sized, topographical views to sell to tourists, and the banker and art collector, Joseph Smith, became a noted patron, selling a large number of his works to King George III. In 1746 Canaletto moved to London where he painted scenes of London, such as his &lt;i&gt;Westminster Bridge&lt;/i&gt; (1746). Ever since his work has retained its popularity and influence: it was featured in the David Bickerstaff film &lt;i&gt;Canaletto and the Art of Venice&lt;/i&gt; (2017), and this painting was used in the video game &lt;i&gt;Merchant Prince II&lt;/i&gt; (2001).
+			</desc>
+      <collection>Museum of Fine Arts, Houston, Texas</collection>
+    </artwork>
+    <artwork>
+      <title>Soap Bubbles</title>
+      <artist>Jean-Baptiste Simeon Chardin</artist>
+      <year>1733-34</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting depicts two children at play. An older boy, leaning forward, blows through a reed, expanding a luminous soap bubble. A younger child in shadow, wearing a cap with a plume, peers over the ledge, his gaze also focused on the shimmering bubble. The color palette, muted with various shades of rich brown and black, emphasizes the contrasting light and ruddy glow of the boy's hands and face, so that the viewer too becomes aware of the hushed absorption in childhood play. The paint applied with a thick impasto conveys the tactile textures of stone, fabric, and skin. The work creates a feeling of childhood innocence focused on an ephemeral joy, while also being allusive, as the artist's contemporaries would have registered the soap bubble as a symbol of life's transience.
+				&lt;br/&gt;&lt;br/&gt;
+				Influenced by Dutch Golden Age genre painters, Chardin's realistic genre scenes were his unique contribution to the Rococo period. Unlike most artists who focused on the aristocracy and its entertainments, he depicted domestic scenes, children at play, and still lifes, all reflecting the Rococo's homage to leisurely pastimes. As Jones also wrote, Chardin painted "the world of middle-class pleasures" and the "French aesthetic of the everyday ...appears for the first time in Chardin's paintings and made him a cult figure for modern French artists and writers." His work influenced Gustave Courbet, Paul Cézanne, Édouard Manet, and Vincent Van Gogh, among others.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>La Toilette de Vénus (The Toilet of Venus)</title>
+      <artist>François Boucher</artist>
+      <year>1751</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This portrait depicts a nude Madame de Pompadour in the guise of Venus, the classical goddess of love, attended by three cherubs and two white doves. She sits on a chaise lounge, its back framed with gold &lt;i&gt;rocaille&lt;/i&gt; topped with a statue of a reclining cherub.
+				&lt;br/&gt;&lt;br/&gt;
+				Blue drapes, luminescent with light and shadow, open to a partial view of a beautiful garden, frame the scene with an atmosphere of leisure. The figurative treatment is idealized, almost air-brushed, while the setting is ornately detailed and decorative, creating an overall effect that embodies the concept of luxury itself.
+				&lt;br/&gt;&lt;br/&gt;
+				Boucher transformed the Rococo period with his sensual depictions of the era's notable citizens, social celebrities, and past times, creating his own distinct, pictorial brand. A veritable "who's who of the time", Madame de Pompadour commissioned Boucher to paint this work for her private dressing room in the Chateau de Bellevue. The painting was a tribute to her, as she had played the title role of Venus in &lt;i&gt;La Toilette de Venus&lt;/i&gt; (1750) at Versailles.
+				&lt;br/&gt;&lt;br/&gt;
+				As art historian Melissa Lee Hyde wrote, Boucher's portraits often pointed "to an interesting conflation of theatrical/performed identities and lived identities," showing "a passion for what we might call the art of appearance and an understanding of that art as a vehicle for fashioning and representing identity."
+				&lt;br/&gt;&lt;br/&gt;
+				Within a few decades, Neoclassicism repudiated Boucher's work for the same qualities that made it so popular among the aristocratic class. His work has only recently begun to be re-evaluated by art historians such as Melissa Lee Hyde and Jed Perl, and contemporary artists John Currin and Lisa Yuskavage have cited Boucher as a direct influence.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Madame de Pompadour</title>
+      <artist>François Boucher</artist>
+      <year>1756</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This full-length portrait of Madame de Pompadour emphasizes stylish elegance, as she reclines in an exuberant green silk dress with a pattern of pink roses across her bodice and neckline. The room's interior, framed by gold brocade draperies with an elaborate gold cartel clock displayed over the fireplace, is equally resplendent. The details are also symbolic, as the bookcase full of books, the books scattered on the floor, and the clock shaped as a lyre and decorated with laurel, symbolize the love of literature, music, and poetry. She conveys both an air of confidence and pleasurable relaxation, her pink high heels peeking from below her skirt, two beautiful roses lying at her feet. Yet the work also depicts her intellectual influence, an open book in her left hand, a writing quill and an envelope on the table to the right. Turning her gaze to the left was, at the time, a pose that represented being engaged in philosophical thought. As a result, the work is a kind of social iconography, each element, carefully chosen and stylistically unified to create an exemplary image.
+				&lt;br/&gt;&lt;br/&gt;
+				Described by art critic Suzy Menkes, as "one of the earliest and most successful self-image makers," Madame de Pompadour commissioned this portrait, along with others by Boucher, and requested to see them, while they were in progress, so she could direct how she wished to appear. As Menkes noted, Boucher's "flattering and decorative paintings" were an early artistic example of "the celebrity tabloid treatment." In 1756 Pompadour was appointed lady-in-waiting at the court, and art historian Elise Goodman suggests that the moment depicted here, noted by the 8:20 on the clock, was meant to commemorate, "her elevation, when, at the height of aristocratic self-confidence...she withdrew to her library-boudoir to luxuriate in her new position and enjoy the activities she loved."
+				&lt;br/&gt;&lt;br/&gt;
+				Boucher's images of Madame Pompadour so characterized the Rococo movement that the writers Jules and Edmond de Goncourt were to write, "In a letter on the taste of the French, which is part of a collection of manuscript ephemera dating from 1751...I found carriages &lt;i&gt;a la&lt;/i&gt; Pompadour, cloth in the &lt;i&gt;couleur&lt;/i&gt; Pompadour, &lt;i&gt;ragouts&lt;/i&gt; a la Pompadour... there is not a single scrap pertaining to the toilette of a woman that is not &lt;i&gt;a la&lt;/i&gt; Pompadour."
+			</desc>
+      <collection>Alte Pinakothek, Munich, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>The Swing</title>
+      <artist>Jean-Honoré Fragonard</artist>
+      <year>1767-68</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This iconic work depicts a fanciful woman flying on a swing in a verdant garden, her dress blooming like an extravagant pink flower, as a young dandy falls back into the bushes on the left, his face blushing with excitement to look up her skirt. In the shadows at the right an older man is pulling on the swing's ropes to propel the young woman forward. Beneath her are two embracing cherubs and at the left, another cupid stands on a pedestal holding his hand up to his lips in admonition. The image was scandalous for its time because of its densely layered sexual allusions.
+				&lt;br/&gt;&lt;br/&gt;
+				Fragonard's expressive brushstrokes create a swirling flow between figure and foliage, so that nature itself seems to be caught up in the excitement of the moment. At the same time, the artist used light and shadow to direct the viewer's eye toward discovering the work in stages. The viewer notices first the woman on the swing, then the young man, and, finally, the older man in shadow at the right. The effect is one of a kind of stage lighting, creating drama and narrative.
+				&lt;br/&gt;&lt;br/&gt;
+				Fragonard's work was rediscovered by the writers Edmund and Jules de Goncourt in &lt;i&gt;L'Art du XVIIIe siècle&lt;/i&gt; (Eighteenth-Century Art) (1865), and his work subsequently influenced the Impressionists, particularly Pierre-Auguste Renoir and Berthe Morisot, who was also his granddaughter. &lt;i&gt;The Swing&lt;/i&gt; has become an artistic and cultural icon. It was revisited by contemporary artists Yinka Shonibare and Kent Monkman in their own work. Balloon artist Larry Moss referred to it in his 3D installation of &lt;i&gt;The Swing&lt;/i&gt; for his Masterworks series at the Phelps Art Center in 2013.
+			</desc>
+      <collection>Wallace Collection, London</collection>
+    </artwork>
+    <artwork>
+      <title>Allegory of the Planets and Continents</title>
+      <artist>Tiepolo</artist>
+      <year>1752</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This gorgeously festive depiction of the sun's course across the sky is presented in an operatic splendor of swirling arabesques, color, and light. At left of center, the Greek sun god Apollo stands with the radiant orb behind him, calling up the sun horses on his right. On the cornice, groups of allegorical figures with representative animals denote Europe, Asia, America, and Africa, while the gods, symbolizing the planets, swirl around the sun god. Mars, the god of war, is reclining with a nude Venus, on a dark cloud beneath Apollo, while Mercury with his caduceus in hand flies down from the upper left.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting was made for a dazzling staircase ceiling he created at the Würzburg Residenz in Germany for the prince-bishop Carl Phillip von Grieffenklau. Painted on an enormous vault, Tiepolo's &lt;i&gt;trompe l'oeil&lt;/i&gt; treatment created a dramatic impression in contrast to the white marble Neoclassical staircase designed by Balthasar Neumann. Tiepolo's painting of the Europe section includes a portrait of the architect, as well as of von Grieffenklau. Additionally, the artist portrayed his son Giandomenico and the artist Antonio Bossi, both of whom worked with him on the project, and a self-portrait.
+				&lt;br/&gt;&lt;br/&gt;
+				This fresco remains the largest in the world, composed so that the painting's individual sections could be viewed from a particular stopping place, as if the perspective adjusted to the position of the viewer. Tiepolo's innovation was his arrangement of pastels in a complementary scheme, so that the tension in the color would emphasize the narrative movement and the dramatic poses of the figures to create a lively effect. The result was called &lt;i&gt;sprezzatura&lt;/i&gt;, or a "studied carelessness." As art historian Keith Christiansen wrote, Tiepolo "celebrates the imagination by transposing the world of ancient history and myth, the scriptures, and sacred legends into a grandiose, even theatrical language." It was this quality of Tiepolo's imagination that influenced Francisco Goya throughout his career, both in his early tapestry designs and later in his etchings as he drew upon Tiepolo's mysterious and sometimes bizarre prints in the &lt;i&gt;Capricci&lt;/i&gt; (c. 1740-1742) and the &lt;i&gt;Scherzi di fantasia&lt;/i&gt; (c. 1743-1757).
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>The Blue Boy</title>
+      <artist>Thomas Gainsborough</artist>
+      <year>c. 1770</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This full-length portrait depicts a boy, wearing blue satin knee breeches and a lace-collared doublet as he gazes, unsmiling, at the viewer. Holding a plumed hat in his right hand, his other hand cocked on his hip, he conveys both self-confidence and a touch of swagger. Composed in layers of slashed and fine brushstrokes with delicate tints of slate, turquoise, cobalt, indigo, and lapis lazuli, the blue becomes resplendent, almost electric against the stormy and rocky landscape.
+				&lt;br/&gt;&lt;br/&gt;
+				Originally, the painting was thought to portray Jonathan Buttall, the son of a wealthy merchant, but contemporary scholarship has identified the model to most likely be the artist's assistant and nephew Gainsborough Dupont. As art critic Kimberly Chrisman-Campbell wrote, the work "is a kind of English Civil War cosplay popular for masquerade balls in the 18th century," depicting the boy in the outfit of a cavalier, worn by aristocratic Royalists of the 1630s. His posture and facial expression play the part as well, for cavaliers were defined not only by their stylish clothing but their nonchalant and swashbuckling attitude. Thus, the work, Gainsborough's most popular, is a &lt;i&gt;tour de force&lt;/i&gt;, combining masterful portraiture with a costume study and his artistic reply to the works of Anthony van Dyck, famous for his portraiture of King Charles I's court and the cavaliers who supported him. Yet, by primarily using blue, traditionally thought to be more suited for background elements, Gainsborough also challenged traditional aesthetic assumptions.
+				&lt;br/&gt;&lt;br/&gt;
+				The work carries Rococo's traditional visual appeal and play with costumed figures, but Gainsborough also added innovative elements of realism, as seen in the buttons tightly lacing the doublet together, and prefigured Romanticism by portraying a solitary figure outlined against a turbulent sky. Gainsborough came to exemplify British Rococo with society portraits of his wealthy clients.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting was immediately successful at its 1770 debut at the Royal Academy of Art in London and became so identified with British cultural identity that, when in 1921 the Duke of Westminster sold it to the American tycoon Henry Huntington, it caused a scandal. Friedrich Wilhelm Murnau's silent film &lt;i&gt;Knabe in Blau&lt;/i&gt; (&lt;i&gt;The Boy in Blue&lt;/i&gt;) (1919) was inspired by the painting, as was Cole Porter's song &lt;i&gt;Blue Boy Blues&lt;/i&gt; (1922). Pop artist Robert Rauschenberg and contemporary artist Kehinde Wiley were inspired by the work, and artist Alex Israel referenced it in his &lt;i&gt;Self Portrait (Dodgers)&lt;/i&gt; (2014‒2015). Shown at the Huntington Museum, paired with Thomas Lawrence's portrait of a girl in pink, &lt;i&gt;Pinkie&lt;/i&gt; (1794), the work has taken on further cultural relevance, as both paintings have been used in the TV pilot for &lt;i&gt;Eerie, Indiana&lt;/i&gt; (1991) and as set decorations on episodes of &lt;i&gt;Leave It to Beaver&lt;/i&gt; (1957-1963).
+			</desc>
+      <collection>Huntington Library, San Marino, California</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait with Straw Hat</title>
+      <artist>Élisabeth Louise Vigée Le Brun</artist>
+      <year>1782</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This self-portrait emphasizes both aristocratic but casual elegance and artistic prowess. Dressed in shimmering silk, her white cuffs drawing attention to her extended right hand, her white collar emphasizing the daring cut of her neckline, she holds a palette and brushes in her left hand. The wide brimmed straw hat, encircled with vibrant flowers and sporting, becomes a focal point of the work's emphasis on the play of light, as the upper part of her face is softly shadowed, bringing forth her confident direct gaze, while sunlight illuminates the right side of her face and her upper torso. Two long crystal earrings play counterpoint, echoing light and shadow. The background is only sky, its robin's egg blue framing her face, and the overall effect is as art historian Simon Schama wrote, "a fetching but carefully calculated nonchalance."
+				&lt;br/&gt;&lt;br/&gt;
+				This work was influenced by Peter Paul Rubens' &lt;i&gt;Le Chapeau de Paille&lt;/i&gt; (&lt;i&gt;The Straw Hat&lt;/i&gt;) (1622-1625). After seeing it in Antwerp, Le Brun wrote, "it delighted and inspired me to such a degree that I made a portrait of myself at Brussels, striving to obtain the same effects."
+				&lt;br/&gt;&lt;br/&gt;
+				Women artists were confined to portraiture for the most part. A number of renowned female Rococo artists included Rosalba Carriera, Adélaïde Labille-Guiard, and Angelica Kauffman. The most well known was Vigée Le Brun, who, at the age of twenty-three, became the official painter for Queen Marie Antoinette. Le Brun's innovations were in portraiture, as Schama wrote, "[n]o one, it became quickly apparent...could compete with this young woman as an artist of artlessness, " and her "great breakthrough is to remake women, immemorially the prisoner of male ogling, into the unmistakable mistress of their own presence."
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>boucher_francois</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>watteau_jean_antoine</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>fragonard_jean_honore</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>chardin_jean_baptiste_simeon</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tiepolo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>canaletto</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gainsborough_thomas</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>vigee_le_brun_elisabeth_louise</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Landmarks of Western Art: From Rococo to Revolution</title>
+          <link is_inline_video="true" inline_video_type="youtube">1wMVZQjLKo8</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Artist Specific Videos" class="clips">
+        <entry>
+          <title>Soap Bubbles, probably 1733/1734, Jean Simeon Chardin</title>
+          <link is_inline_video="true" inline_video_type="youtube">kaxg6MjjM6g</link>
+          <info>National Gallery of Art</info>
+        </entry>
+        <entry>
+          <title>Vigée Le Brun: Woman Artist in Revolutionary France</title>
+          <link is_inline_video="true" inline_video_type="youtube">FAN9s8qJqZ8</link>
+          <info>The Met</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks" class="clips">
+        <entry recommended="true">
+          <title>Music and Theatre in Watteau's Paris</title>
+          <link is_inline_video="true" inline_video_type="youtube">po4r1FbLfJA</link>
+          <info>
+						Talk by Georgia Cowart
+						&lt;br&gt;
+						The Met
+					</info>
+        </entry>
+        <entry>
+          <title>Pageantry of Venice: Canaletto's Portrayals of State Festivals</title>
+          <link is_inline_video="true" inline_video_type="youtube">sqZvjG2Bhig</link>
+          <info>
+						Talk by Dawson Carr
+						&lt;br&gt;
+						Portland Art Museum
+					</info>
+        </entry>
+        <entry>
+          <title>Canaletto: view paintings of Venice</title>
+          <link is_inline_video="true" inline_video_type="youtube">03BfPn6xrSo</link>
+          <info>
+						Talk by Francesca Whitlum-Cooper
+						&lt;br&gt;
+						National Gallery
+					</info>
+        </entry>
+        <entry>
+          <title>Colin B. Bailey presents Fragonard's 'Progress of Love'</title>
+          <link is_inline_video="true" inline_video_type="youtube">404fQk9vckU</link>
+          <info>The Frick Collection</info>
+        </entry>
+        <entry recommended="true">
+          <title>Secrets of the Wallace: The Swing by Jean-Honoré Fragonard (1767)</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ose70MS6684</link>
+          <info>
+						Carmen Holdsworth-Delgado
+						&lt;br&gt;
+						The Wallace Collection
+					</info>
+        </entry>
+        <entry>
+          <title>Thomas Gainsborough: The Substance of Style</title>
+          <link is_inline_video="true" inline_video_type="youtube">fIKtxzujGDA</link>
+          <info>
+						By Frederick Ilchman
+						&lt;br&gt;
+						WGBHForum
+					</info>
+        </entry>
+        <entry>
+          <title>Rococo: Chardin and the Ray</title>
+          <link is_inline_video="true" inline_video_type="youtube">YhWOFDJ4Yz8</link>
+          <info>
+						By Waldemar Januszczak
+						&lt;br&gt;
+						zczfilms
+					</info>
+        </entry>
+        <entry>
+          <title>Royal Collection: Charles-Alexandre de Calonne by Elisabeth Vigée Le Brun</title>
+          <link is_inline_video="true" inline_video_type="youtube">qGl43ZCpXac</link>
+          <info>
+						By Jennifer Scott
+						&lt;br&gt;
+						The Royal Family
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Rococo: Art of the Century</title>
+          <link>1844847403</link>
+          <info>By Victoria Charles and Klaus H. Carl</info>
+        </entry>
+        <entry recommended="true">
+          <title>Rococo to Revolution: Major Trends in Eighteenth-Century Painting</title>
+          <link>0500200505</link>
+          <info>By Michael Levey</info>
+        </entry>
+        <entry>
+          <title>Rococo: The Continuing Curve</title>
+          <link>0910503923</link>
+          <info>By Sarah D. Coffin</info>
+        </entry>
+        <entry>
+          <title>Rococo</title>
+          <link>3822853062</link>
+          <info>By Eve Gesine Baur</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Würzburg Residence</title>
+          <link>http://www.residenz-wuerzburg.de/englisch/residenz/treppe.htm</link>
+          <info>Staircase</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Watteau at the Royal Academy: the theatre of life</title>
+          <link>https://www.theguardian.com/artanddesign/jonathanjonesblog/2011/mar/14/jean-antoine-watteau</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						March 14, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Clown Prince</title>
+          <link>https://www.nytimes.com/2008/10/19/style/tmagazine/19brubach.html</link>
+          <info>
+						By Holly Brubach
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 19, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Canaletto's Venice: a city for pleasure seekers</title>
+          <link>https://www.telegraph.co.uk/travel/destinations/europe/italy/venice/8061039/Canalettos-Venice-a-city-for-pleasure-seekers.html</link>
+          <info>
+						By Nick Trend
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						October 13, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>How Canaletto and the Venetian artists light up the National Gallery</title>
+          <link>https://www.theguardian.com/artanddesign/jonathanjonesblog/2010/oct/15/canaletto-venice-venetian-national-gallery</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 15, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>More Than Rococo Pinups Among Boucher's Drawings</title>
+          <link>https://www.nytimes.com/2003/10/24/arts/art-review-more-than-rococo-pinups-among-boucher-s-drawings.html</link>
+          <info>
+						By Ken Johnson
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 24, 2003
+					</info>
+        </entry>
+        <entry>
+          <title>Saving One of Western Art's Most Iconic Paintings</title>
+          <link>https://www.theatlantic.com/entertainment/archive/2017/09/saving-one-of-western-arts-most-important-paintings/539886/</link>
+          <info>
+						By Kimberly Chrisman-Campbell
+						&lt;br&gt;
+						The Atlantic
+						&lt;br&gt;
+						September 22, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Praise and Prejudices Vigée Le Brun Faced in Her Exceptional 18th-Century Career</title>
+          <link>https://hyperallergic.com/297985/the-praise-and-prejudices-vigee-le-brun-faced-in-her-exceptional-18th-century-career/</link>
+          <info>
+						By Tiernan Morgan
+						&lt;br&gt;
+						Hyperallergic
+						&lt;br&gt;
+						May 12, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Madame de Pompadour Was Far More Than a 'Mistress'</title>
+          <link>https://www.smithsonianmag.com/smart-news/madame-de-pompadour-was-far-more-mistress-180967662/</link>
+          <info>
+						By Kat Eschner 
+						&lt;br&gt;
+						smithsonian.com
+						&lt;br&gt;
+						December 29, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Faces of Madame de Pompadour</title>
+          <link>https://www.nytimes.com/2002/12/03/style/IHT-the-faces-of-madame-de-pompadour.html</link>
+          <info>
+						By Suzy Menkes
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						December 3, 2002
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

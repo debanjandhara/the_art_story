@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>signac_paul</id>
+    <name>Paul Signac</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1885 - 1935</years>
+    <description>Signac, with Seurat, broke down the basic components of a painting, making luminent, beautiful paintings.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <occupation>Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>November 11, 1863</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>August 15, 1935</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <img_version>?1</img_version>
+    <pub_time>5/14/2017</pub_time>
+  </main>
+  <includes>
+    <include>impressionism</include>
+    <include>post_impressionism</include>
+    <include>neo_impressionism</include>
+  </includes>
+  <similar_movements>
+    <movement>impressionism</movement>
+    <movement>post_impressionism</movement>
+    <movement>neo_impressionism</movement>
+    <movement>cubism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>seurat_georges</artist>
+    <artist>pissarro_camille</artist>
+    <artist>cross_henri_edmond</artist>
+    <artist>matisse_henri</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"The art of the colorist has in some ways elements of mathematics and music."</q>
+    <q>"The anarchist painter is not the one who will create anarchist pictures, but the one who will fight with all his individuality against official conventions."</q>
+    <q>"The Golden age has not passed; it lies in the future."</q>
+    <q>"Art is a creation of a higher order than a copy of nature which is governed by chance.... By the elimination of all muddy colors, by the exclusive use of optical mixture of pure colors, by a methodical divisionism and a strict observation of the scientific theory of colors, the neo-impressionists insures a maximum of luminosity, of color intensity, and of harmony- a result that has never yet been obtained."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Signac, who was both intelligent and well-read, was influenced heavily by modern theories on optics and color as well as by the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;, who were on the cutting edge of artistic innovation when he was a teenager and young man in the Parisian bohemian neighborhood of Montmartre. Signac's style changed substantially as he incorporated the techniques and theories of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionism&lt;/span&gt; (also known as "Divisionism" and "Pointillism") that he developed in collaboration with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt;. The rapid, varied brushstrokes of his Impressionist style, intended to convey the effects of light on objects, were transformed into the small, roughly square points of Neo-Impressionism. Signac, Seurat, and their fellow Neo-Impressionists began a process in Modernism of breaking down the basic components of a painting, in a way, separating color from the objects it described - an important step toward the further abstraction by later artists.</synopsys>
+    <key_ideas>
+      <idea>While he is best known for his paintings and well-developed preparatory sketches, Signac was also an innovator in his extensive experimentation with a variety of media, from printmaking techniques like lithography and etching to watercolor and pen-and-ink, including painstaking sketches for paintings produced in tiny dots. Regardless of the medium, he persistently created forms without relying on line, which imposed a consistent level of abstraction on all of his work.</idea>
+      <idea>Signac's professed admiration for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt;, particularly in literature as evidenced by his virtual idolizing of Émile Zola, is in some ways reflected in his art. In particular, his emphasis on the mechanics of optics and the study of color theory situates him in a generation of artists who found paths for innovation by creating a kind of scientific approach to aesthetics.</idea>
+      <idea>Known as &lt;i&gt;"melange optique"&lt;/i&gt; ("optical mixture"), the method used by Signac, Seurat, and other Neo-Impressionists involved placing dots of pure color separately on the canvas and allowing the eye to mix the paint, which happened when the viewer stepped back at least a couple of feet from the painting. As the white or off-white of the canvas was not typically concealed, it was usually an integral part of the process, creating a kind of shimmering effect. With Neo-Impressionism, wrote Signac, "...the separated elements will be reconstituted into brilliantly colored lights."</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Paul Signac was born into a comfortably middle-class family in Paris in the late-19&lt;sup&gt;th&lt;/sup&gt; century during the critical last few decades when &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;Modernism&lt;/span&gt; was developing. Significantly, the family relocated early in his life to the Montmartre area of the city, which was then a thriving artistic environment. The move had a tremendous impact on the young Signac's engagement with the visual arts and, more generally, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; culture at the time.</p>
+          <p type="p">In his youth, Signac was drawn to the work of the Impressionists, then still very much on the cutting edge of artistic innovation. Encouraged by his very liberal parents, he attended exhibitions and absorbed the aesthetic of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;. When he was 16, the admiring Signac attended the fifth Impressionist exhibition, where he was evidently deeply impressed by the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;. In the midst of sketching a work by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt;, he was confronted by a stern, unfriendly &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin&lt;/span&gt; who declared, "One does not copy here, sir!" and summarily thrown out of the gallery.</p>
+          <p type="p">That same, pivotal year of 1880, Signac's beloved father, Jules, succumbed to tuberculosis. Following his father's death, his mother, Héloise, decided to sell the family business and move to the new Parisian suburb of Asnières. Unhappy in the new location, Signac, despite being a good student, left school and returned to Montmartre, where he rented a room and divided his time between Asnières and Paris.</p>
+          <p type="p">If the family's new home in Asnières was not the ideal setting for a budding young &lt;i&gt;avant-garde&lt;/i&gt; artist, the area still provided ample subject matter for his work. There are numerous drawings and paintings made by Signac in the environs of Asnières, from the garden outside of the house to the bridges of the chic new Parisian suburb to the banks of the Seine River and the factory smokestacks of Clichy, then an industrial part of Paris. Many of Signac's paintings throughout his career feature boats and, indeed, in addition to art, boating was one of his earliest passions. His first boat was a canoe which the young man named "Manet Zola Wagner" after three of his idols, the famous &lt;i&gt;avant-garde&lt;/i&gt; painter, writer, and composer.</p>
+          <p type="p">When in Montmartre, Signac made the rounds socially, spending time at popular venues in the area such as the infamous cabaret, Le Chat Noir, which he began frequenting in 1881. He forged connections with artists, writers, musicians, and other cultural movers and shakers both via the Paris nightlife scene and more specialized channels such as &lt;i&gt;avant-garde&lt;/i&gt; literary circles. For instance, he attended meetings of Naturalist writers held at the well-known Brasserie Gambrinus as well as at the homes of writers like Robert Caze. It was on such occasions that he forged friendships with critics Gustave Kahn and Félix Fénéon. Many of the writers and critics with whom he became acquainted during those early years later became ardent supporters of his work and style. Signac's engagement with &lt;i&gt;avant-garde&lt;/i&gt; literary circles wasn't merely about associating with creative people as he was himself a writer with some talent - having penned in 1882 some satirical pieces on his idol, Zola's sometimes "ponderous" style.</p>
+          <p type="p">Through the early 1880s, Signac continued visiting exhibitions and later credited a very specific show in June 1880, a display of works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Monet&lt;/span&gt; at the Parisian offices of the cultural journal, &lt;i&gt;La Vie moderne&lt;/i&gt;, as having been a pivotal force in his decision to pursue a career in art - specifically as a painter. He admired not only Monet's Impressionist style, but also his very common themes - largely paintings made &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;, in the great outdoors and featuring even the most banal of subjects.</p>
+        </subsection>
+        <subsection title="Early Career">
+          <p type="p">Signac's earliest paintings date to the winter of 1881 to 1882; he was just 18 years old at the time. Aside from receiving some fairly rudimentary training in the studio of portraitist and history painter, Émile Bin, lessons that were free of charge, Signac was almost completely self-taught. He immersed himself in studying the paintings of leading Impressionists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Monet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caillebotte_gustave"&gt;Caillebotte&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Degas&lt;/span&gt;.</p>
+          <p type="img" alt="Paul Signac in approximately 1883" show="1">/images20/photo/photo_signac_paul_1.jpg</p>
+          <p type="p">One of his favorite sites for painting was a coastal town, Port-en-Bessin, of which Signac's depictions from 1883 reflect the influence of works he had seen in Monet's exhibition in a gallery on the Boulevard de la Madeleine that March. At that point, the young autodidact had fully adopted the Impressionist style. By 1884, Signac had advanced enough as a painter to enter some of his works into the first Salon des Artistes Indépendants sponsored by the newly formed organization of &lt;i&gt;avant-garde&lt;/i&gt; artists of which he was a founding member along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-redon_odilon"&gt;Odilon Redon&lt;/span&gt; and Albert Dubois-Pillet. Also displaying work, including his painting, &lt;i&gt;Bathers at Asnières&lt;/i&gt; (1884), was &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt;. It was then that the two artists are said to have first met. Others whose work appeared at the groundbreaking exhibition were future Neo-Impressionists, Dubois-Pillet, Henri Edmond Cross, and Charles Angrand.</p>
+          <p type="p">The connections made at the exhibition in 1884 proved pivotal. Further, the Société became a major force in exposing &lt;i&gt;avant-garde&lt;/i&gt; artistic trends in its annual exhibitions for the following three decades. Unlike the official Salon, the Société's exhibitions awarded no prizes. Instead, its motto was "to allow the artists to present their works to public judgment with complete freedom."</p>
+        </subsection>
+        <subsection title="Collaboration with Seurat and Others">
+          <p type="p">That same year, 1884, Signac met Impressionist artist Armand Guillaumin; the following year, in 1885, he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;. Both of those well-established Impressionist painters contributed advice and encouragement to Signac whereas the influence of Seurat, whose work he deeply admired, had not yet begun to be apparent in Signac's painting. However, Signac had begun meeting regularly with Seurat and both painters shared a fascination with the color theory of Michel-Eugène Chevreul as well as recent theories concerning optics, including in relation to art and aesthetics. Indeed, in 1885, Charles Henry's publication, "Introducing a Scientific Aesthetics," which "argued for an art based on scientific principles," was one of the most influential forces in inspiring the Neo-Impressionist technique.</p>
+          <p type="p">In October of 1885, Seurat began refining the method of optical mixture, placing small dots of pure pigment side-by-side, directly onto the surface of the canvas, and then allowing the eye to mix them. The optimum viewpoint was at a slight distance from the picture. Seurat had already begun making his now famous painting, &lt;i&gt;A Sunday Afternoon on the Island of La Grande Jatte&lt;/i&gt; (1884-86) in 1884, but after he and Signac established their Neo-Impressionist style, he reworked the large canvas extensively to utilize the new approach.</p>
+          <p type="p">By December of 1885, Signac, Seurat, and other members of the group had solidified their unique style - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionism&lt;/span&gt;. Both Signac and Seurat were invited to display their work, all made in the new style, in the eighth and final Impressionist exhibition, although there were objections to their inclusion by Eugene Manet, Édouard's brother and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot's&lt;/span&gt; husband, and by Degas. Despite that resistance, the two displayed their work to positive critical response. In the meantime, they had cemented not only a successful working relationship but a close friendship. According to Signac biographers, Russell T. Clement and Annick Houzé, he was "Seurat's closest associate and Neo-Impressionism's foremost publicist and memorialist." Whereas Seurat was something of an introvert, the outgoing Signac was both a prophet and a sort of social secretary for the new style. He introduced Seurat to the Impressionists and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolist&lt;/span&gt; writers. In exchange, the younger and mostly untrained Signac benefited from the instruction of his older colleague.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">While Signac had begun creating interior scenes, including his first major one, &lt;i&gt;The Milliners&lt;/i&gt; (1885-86), he still preferred landscapes, cityscapes, and other outdoor scenes and his first divisionist exterior scenes such as &lt;i&gt;The Junction at Bois Colombes&lt;/i&gt; and &lt;i&gt;Passage du Puits Bertin, Clichy&lt;/i&gt; (both 1886) were painted of sites in and around Asnières.</p>
+          <p type="p">Signac met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt; in Paris in 1886 and the two artists developed a friendly working relationship, frequently going together to sites such as Asnières to paint both interiors and outdoor scenes. Evidently, Van Gogh was most impressed by the loose brushwork of Signac. Signac paid a visit to Van Gogh in Arles in 1889 and taught him how to paint in the Neo-Impressionist style.</p>
+          <p type="img" alt="Signac’s powerful painting Sunday (1888-90) uses Neo-Impressionist technique to show the distance between this bourgeois couple." show="1">/images20/photo/photo_signac_paul_3.jpg</p>
+          <p type="p">Signac was also quite politically engaged. In 1888, he immersed himself in anarchism, particularly in the ideas of Kropotkin and Jean Grave, among others. Along with Pissarro and two other friends, Maximilien Luce and Angrand Cross, Signac made regular financial contributions to Grave's anarchist-communist paper, &lt;i&gt;Les Temps Nouveaux&lt;/i&gt; (New Times). His painting and his political beliefs often intersected, as was the case with his production of a work titled, &lt;i&gt;In the Time of Harmony&lt;/i&gt; (1893), which had initially been titled, &lt;i&gt;In the Time of Anarchy&lt;/i&gt;. Anarchists were at that time being targeted by authorities, so Signac was forced to change the title or suffer potential persecution.</p>
+          <p type="p">In 1891, Seurat died, thus ending the nearly decade-long collaboration between the two artists. After Seurat's death, while Signac continued to paint in the Neo-Impressionist style, his brushwork became looser and more expressive and colorful.</p>
+          <p type="p">In November of 1892, Signac married his longtime companion, Berthe Roblès; the two were married in Montmartre and Pissarro and Luce, among others, were witnesses at the wedding. In 1897, the couple moved to an apartment in the celebrated Castel Beranger, built by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; architect, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guimard_hector"&gt;Hector Guimard&lt;/span&gt; and that same year also bought a house in the South of France, in Saint-Tropez. In the Saint-Tropez house, Signac constructed a large studio, which was completed late in the summer of 1898. It was there that the artist produced some of his most colorful and celebrated works in the Neo-Impressionist style, particularly works featuring boats, beaches, and seascapes.</p>
+          <p type="p">By the time of the 1905 Salon des Indépendants, the Neo-Impressionist style had exerted considerable influence in the world of &lt;i&gt;avant-garde&lt;/i&gt; art. The influence was directly evident, for instance, in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse's&lt;/span&gt; so-called "proto-&lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauve&lt;/span&gt;" work, &lt;i&gt;Luxe, Calme et Volupté&lt;/i&gt; (&lt;i&gt;Luxury, Calm, and Voluptuousness&lt;/i&gt;, 1904), which featured the Neo-Impressionist technique and Signac's bright, expressive palette. Matisse had read Signac's essay, "From Eugene Delacroix to Neo-Impressionism" (1898-9) and had been inspired to adopt the new style. Indeed, it was Signac who bought Matisse's painting after the exhibition closed.</p>
+          <p type="img" alt="Paul Signac in 1923" show="0">/images20/photo/photo_signac_paul_2.jpg</p>
+          <p type="p">Signac's rate of artistic production didn't cease as he grew older. Even in the early-20&lt;sup&gt;th&lt;/sup&gt; century, he was still creating art, whether watercolors, oil paintings, or drawings. In 1902 he exhibited over 100 watercolors at the Maison de l'Art Nouveau, Siegfried Bing's gallery in Paris. By 1911, watercolor had become his medium of choice and, once again, he exhibited a large series called &lt;i&gt;The Bridges of Paris&lt;/i&gt; at the prestigious Bernheim-Jeune, also in Paris. Following his move to Antibes in 1915, he was appointed the &lt;i&gt;Peintre Officiel de la Marine&lt;/i&gt; (Official Naval Painter) there. For Signac, to live was to paint and to paint was to live; he really never stopped producing art, beginning yet another series of paintings of French ports in 1929.</p>
+          <p type="p">Signac died on August 15, 1935 at the age of 71 of septicemia; his grave is in the infamous Paris cemetery, Pere Lachaise. In addition to an enormous body of work, Signac has also been credited with having penned a number of seminal works on art theory, a monograph on Dutch painter and printmaker, Johan Barthold Jongkind (1927), and numerous essays for exhibition catalogs.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Signac played a pivotal role not only in the establishment of an alternative exhibition structure, the Salon des Artistes Indépendants, and its sponsoring organization, the Société des Artistes Indépendants but, in the larger picture, in liberating artists and art from traditional hierarchies and conventions imposed by the Academy and the Salon.</p>
+          <p type="p">In terms of his artistic output and radical innovation, Signac was enormously influential for Henri Matisse and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;André Derain&lt;/span&gt;, the Fauve artists who modified his technique and emulated his use of bright, extremely expressive colors. His technique, which pushed forms near to the point of abstraction by breaking them up into areas of solid, juxtaposed colors, paved the way for further abstraction, including the flattening and fragmentation of forms of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; style.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>The Milliners</title>
+      <year>1885-86</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Signac's first major interior scene, &lt;i&gt;The Milliners&lt;/i&gt; takes up a subject often represented by the Impressionists, including Degas and Cassatt. Further, his companion and later wife, Berthe Roblès was herself a milliner or hatmaker. Berthe posed for this work: she is the woman on the left, who bends to retrieve her scissors. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work is set in the workshop of a milliner in the Sentier quarter in the center of Paris; the area is still the city's garment district. Originally, the title referred to specific roles of the figures in the work, as the "trimmer" and the "finisher." This is a testament to Signac's ongoing insistence on accuracy. He had acquired from Berthe a wealth of information about millinery and its particular terminology in the interest of producing a work that transcended mere general, visual documentation. Not unlike Impressionist painters like Degas in particular, who frequently represented working class women, Signac observed them and, in a sense elevated their status via his paintings.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting is clearly one from the early years of Neo-Impressionism and, in fact, was begun and then reworked in the developing Pointillist style. An ardent admirer of Delacroix, especially his use of expressive color, here Signac uses a virtually identical palette to that of Delacroix's &lt;i&gt;Women of Algiers&lt;/i&gt; (1834). In both Delacroix's and Signac's paintings, a feminine world generally excluding of men is represented although Delacroix's women are enclosed in a harem, thus magnifying the sense of exclusion of the male viewer. 
+				&lt;br/&gt;&lt;br/&gt;
+				In this early work, the primarily self-taught Signac is still struggling with the articulation of fictive space. The workshop in which the milliners are confined is quite shallow, further emphasizing the sense of intimacy and companionship. Further, at this early stage in the development of Neo-Impressionism, the surface does not shimmer like it does in his work even a year later. According to accounts from Seurat as related to their mutual friend, the important art critic Félix Fénéon who actually coined the term "Neo-Impressionism" (and not in a pejorative way), Signac had been "won over," having modified the painting using the new technique at the same time that Seurat was finishing (reworking) &lt;i&gt;La Grande Jatte&lt;/i&gt;.
+			</desc>
+      <collection>Emil Bührle Collection, Zürich, Switzerland</collection>
+    </artwork>
+    <artwork>
+      <title>Les Andelys, the Riverbank</title>
+      <year>1886</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				When Signac produced this work, the powerful influence of Impressionism still exerted considerable force in terms of his style. This painting, produced in Les Andelys in Upper Normandy on the banks of the Seine River, features the short brushstrokes and naturalistic palette of Impressionist works. Light, as it flickers in the air and the water, is given the attention customary to an Impressionist painting, particularly as seen in works by Monet and Pissarro, both of whom were mentors (almost indirect teachers) of the self-taught Signac.
+				&lt;br/&gt;&lt;br/&gt;
+				During the summer of 1886, Signac lived in the small town of Les Andelys during an incredibly formative time in which he produced ten landscapes utilizing the Neo-Impressionist technique that he was refining in collaboration with Georges Seurat. He exhibited this work, a placid scene of small town life on the river that also flowed through the lively capital city of Paris, at the Salon des Artistes Indépendants in 1887 along with three other paintings from the series. Important critics, including Gustave Kahn, Paul Alexis, and Félix Fénéon (who was to become his close friend), were impressed by Signac's work. Fénéon wrote: "Mr. Signac's verve accentuates the bright contrasts in his new canvases" Likewise, Kahn commented on the artist's expert depiction of light: "It is the glare of the midday sun which is caught in these landscapes; of all those that we know they are the most deeply infused with the joy of things and illustrated with the magical effects of light." 
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Dining Room</title>
+      <year>1886-87</year>
+      <materials>Graphite and ink on Japan paper</materials>
+      <desc>
+				This drawing is one of many finished works in media besides oil on canvas that Signac produced throughout his very long career. The theme, a genre scene, a common choice for the Impressionists and generations of artists before them was one favored by Signac. Indeed, a painting of the same title he showed at the Salon des Indépendants in 1887 is quite similar to this one compositionally. This drawing, graphite and ink on paper, was created as an illustration for &lt;i&gt;La Vie Moderne&lt;/i&gt;, the Parisian review of arts, literature, and other culture, in April 1887. 
+				&lt;br/&gt;&lt;br/&gt;
+				Here, Signac's meticulousness is apparent. Without the distraction of and interplay between colors, the way in which he structures forms is more obvious. Even in black and white, his ability to create an overall shimmering effect is evident. He began this drawing by putting down a light layer of graphite over which he added layers of dots carefully arranged to create variations in tone and to describe volumes. 
+				&lt;br/&gt;&lt;br/&gt;
+				A genre scene nonetheless, members of Signac's family posed for the figures represented here, including his grandfather and his mother as well as the family's housekeeper. None of them interact with one another; rather, they all seem to be going about their individual routines but doing so in a sort of quiet harmony.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Opus 217. Against the Enamel of a Background Rhythmic with Beats and Angles, Tones, and Tints, Portrait of M. Félix Fénéon in 1890</title>
+      <year>1890</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In 1890, Signac honored his friend, the influential art critic, dealer, collector, political activist, and curator, Félix Fénéon, with a portrait that remains one of the artist's most memorable and successful works in the Neo-Impressionist style. This unconventional portrait mirrors the subject's originality. The enigmatic Fénéon with his signature goatee, walking stick, and top hat, seems to set in motion a process of abstraction based on the ironically white flower he extends toward the whirlpool of brightly colored and patterned waves.
+				&lt;br/&gt;&lt;br/&gt;
+				In the picture, both the flower and Fénéon remain static amidst a symphony of color; indeed, music is suggested by the word "Opus" in the title. As for the title, the MoMA suggests that the very long title for this work may be "a spoof on scientific terminology." That said, both Fénéon and Signac, as well as Seurat and other Neo-Impressionists, were fascinated by the work of Charles Henry, whose recent publication on optical theory included a color wheel. Signac's portrait of Fénéon is that color wheel set in motion.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Woman with a Parasol</title>
+      <year>1893</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In &lt;i&gt;Woman with a Parasol&lt;/i&gt;, Signac's companion stands serenely holding a bright-colored, orange umbrella and looking serenely to the right, beyond the picture plane. Her face reflects the light coming through the umbrella but the rest of her body and the composition as a whole are bathed in a subtle, purple-blue light. Robles, whom Signac had met at Le Chat Noir, a popular cabaret in the Montmartre quarter of Paris, was a distant cousin of Pissarro. Shortly after Signac produced this portrait, the two were married. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the portraits of Fénéon and Berthe are both featured here and are exemplary of the range of the artist's mastery of color - particularly the optical mixing of Neo-Impressionism - in fact, portraits by Signac in the Neo-Impressionist style are somewhat unusual. This work constitutes the final portrait in a series the artist had made depicting family members and close friends. 
+				&lt;br/&gt;&lt;br/&gt;
+				The theme, of a woman sheltering beneath an umbrella, was also a common one for the Impressionist artists. Monet, whose work Signac had emulated early in his career, represented the subject repeatedly, for instance. Notably, the scene lacks depth; short of being flat, Signac's use of fields of seemingly solid colors (mixed, of course, optically as the dots are not of a uniform color) is reflective of his interest in Japanese prints, which had captivated other artists of the period. In Japanese prints, the articulation of space is similar to what Signac has done here. There is very little modeling to create the illusion of three-dimensionality. Instead, the emphasis is on color and the juxtaposition of simple, geometric forms that make up the figure and her umbrella. The addition of the floral pattern on the lower left seems a direct quote of Japanese decorative art.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Lady on the Terrace</title>
+      <year>1898</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				By 1898 when Signac produced this painting at his studio in Saint-Tropez, his approach to Neo-Impressionism had transformed from the experimental years of early 1880s. Consistently an artist who produced sometimes multiple preparatory drawings, including in color, prior to beginning a painting, Signac made a number of sketches for &lt;i&gt;Lady on a Terrace&lt;/i&gt;. 
+				&lt;br/&gt;&lt;br/&gt;
+				Note that, in comparison to earlier works, the dots or points of his Neo-Impressionist style have grown larger although still careful, contained, and his palette is far less subdued. When looking at such works, it is evident from where Matisse drew inspiration for his early, so-called "pre-Fauve" works like &lt;i&gt;Luxe, Calme et Volupté&lt;/i&gt; (1904). Indeed, both in terms of palette and brushwork - the staccato application of dot-like forms - the work by Matisse very closely resembles Signac's.
+				&lt;br/&gt;&lt;br/&gt;
+				Ever concerned with the combined effects of light and color, in this picture Signac designs the composition so that, says the National Gallery of Ireland, "receding bands of color on the terrace, balustrade, planting, wall and sea, lead the eye from the shallow foreground space towards the distant mountains." The form of the female figure - the model was his wife, Berthe - is an emphatic vertical to the horizontal bands of the terrace and so forth. The towers and trees echo her verticality; there is a sense of serenity and balance in this expertly painted recap of a beautiful sunset on the French Riviera.
+			</desc>
+      <collection>National Gallery of Ireland</collection>
+    </artwork>
+    <artwork>
+      <title>The Pink Cloud, Antibes</title>
+      <year>1916</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In 1913, having already separated from his wife Berthe, Signac moved to a rented house in Antibes, where he lived with Jeanne Selmersheim-Desgrange and their daughter, Ginette, who was born in October of that same year. Berthe continued to live in the house in Saint-Tropez and she and Signac remained friends. 
+				&lt;br/&gt;&lt;br/&gt;
+				Signac painted some of his most vibrant pictures yet in Antibes. Painting just as frequently in watercolor as in oil, works from his later years were limited in subject matter largely to harbor scenes like this one, and to riverbanks. While he traveled a great deal and painted where he went, boats and other features in a painting of the Grand Canal in Venice look very much like those in paintings of Antibes, Constantinople, or Marseilles. All are radiant with color and reflect his far less strict adherence to the disciplined, organized approach of Neo-Impression which was, as one art historian, John Leighton, put it, "an art renunciation and restraint."
+				&lt;br/&gt;&lt;br/&gt;
+				It seems that once Signac freed himself somewhat from what he eventually regarded as "the burden of description," he could produce optical effects of a different nature. Far less meticulously set down, the marks of pigment bright greens, blues, and pinks in the foreground and warm oranges, yellows, and reds beyond - create an effect of constant motion. Rather than merely shimmering as do his Neo-Impressionist works of earlier in his career, the later works have a kind of romantic, unrestrained liveliness more in tune with the paintings of the Fauves, the Symbolists, and the Nabis. Indeed, the painter Maurice Denis described Signac's later work, "with its combination of graded color and sentiment" as a kind of "reasoned romanticism," so distinct from "the scientific naturalism" of his work of the 1880s and 1890s. 
+			</desc>
+      <collection>Portland Museum of Art, Maine</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="seurat_georges">Sunday Afternoon on the Island of La Grand Jatte (1884-86)</artwork>
+    <artwork from="artist" page="pissarro_camille">Hay Harvest at Eragny (1887)</artwork>
+    <artwork from="artist" page="monet_claude">Woman with a Parasol - Madame Monet and Her Son (1875)</artwork>
+    <artwork from="artist" page="matisse_henri">Luxe, Calme, et Volupte (1904-05)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>monet_claude</entity>
+        <entity>caillebotte_gustave</entity>
+        <entity>van_gogh_vincent</entity>
+        <entity alt="Armand Guillaumin">guillaumin_armand</entity>
+      </column>
+      <column>
+        <entity>seurat_georges</entity>
+        <entity>feneon_felix</entity>
+        <entity>pissarro_camille</entity>
+        <entity alt="Maximilien Luce">luce_maximilien</entity>
+        <entity alt="Angrand Cross">cross_angrand</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>post_impressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>van_gogh_vincent</entity>
+        <entity>matisse_henri</entity>
+        <entity>derain_andre</entity>
+        <entity>picasso_pablo</entity>
+        <entity>cezanne_paul</entity>
+      </column>
+      <column>
+        <entity>seurat_georges</entity>
+        <entity>feneon_felix</entity>
+        <entity>pissarro_camille</entity>
+        <entity alt="Maximilien Luce">luce_maximilien</entity>
+        <entity alt="Angrand Cross">cross_angrand</entity>
+      </column>
+      <column>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>post_impressionism</entity>
+        <entity>neo_impressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Paul Signac (1863-1935): Paintings, Watercolors, Drawings, and Prints</title>
+          <link>0300088604</link>
+          <info>by George Szabo</info>
+        </entry>
+        <entry>
+          <title>Paul Signac</title>
+          <link>1781602336</link>
+          <info>by Victoria Charles</info>
+        </entry>
+        <entry>
+          <title>Neo-Impressionist Painters</title>
+          <link>0313303827</link>
+          <info>by Russell T. Clement, Annick Houzé</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Website with brief bio and many images of his works</title>
+          <link>http://www.paul-signac.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Metropolitan Museum of Art Large collection of Signac's works</title>
+          <link>http://www.metmuseum.org/art/collection/search#!/search?artist=Signac,%20Paul$Paul%20Signac</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Signac's Exhibition at Musée d'Orsay</title>
+          <link>http://www.musee-orsay.fr/en/events/exhibitions/archives/exhibitions-archives/browse/22/page/0/article/paul-signac-1863-1935-4175.html</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles" />
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Signac's Stunning View of St. Tropez</title>
+          <link>https://www.youtube.com/watch?v=XcOF5Ok6vrM</link>
+          <info>Short video providing insight into Signac's inspiration for a series of painting</info>
+        </entry>
+        <entry>
+          <title>Paul Signac: A collection of 534 works</title>
+          <link>https://www.youtube.com/watch?v=AtrUvR5sCaY</link>
+          <info>Basic video highlighting works done by the artist</info>
+        </entry>
+        <entry>
+          <title>Sotheby's Auction To Include Marble Rodin, Paul Signac Painting</title>
+          <link>https://www.youtube.com/watch?v=aTuthO8vMh8</link>
+          <info>Very brief video that highlights paintings that are at auction by Signac</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

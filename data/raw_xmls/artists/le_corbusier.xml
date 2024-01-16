@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>le_corbusier</id>
+    <name>Le Corbusier</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1905 - 1965</years>
+    <description>Le Corbusier, the highly polemical designer became the most influential urban planner and architect of the twentieth century and the International Style.</description>
+    <art_description>Important paintings, architecture, and designs by Le Corbusier with analysis, influences, innovations, achievement, and overall contribution to modernist architecture and design.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <occupation>Modern Architect, Urban Planner, Designer, Sculptor, Painter, and Writer</occupation>
+    <nationality>Swiss-French</nationality>
+    <birthDate>October 6, 1887</birthDate>
+    <birthPlace>La Chaux-de-Fonds, Switzerland</birthPlace>
+    <deathDate>August 27, 1965</deathDate>
+    <deathPlace>Roquebrune-Cap-Martin, France</deathPlace>
+    <img_version>?1</img_version>
+    <art_type>Art</art_type>
+    <pub_time>4/17/2017</pub_time>
+  </main>
+  <includes>
+    <include>modern_architecture</include>
+    <include>international_style</include>
+    <include>purism</include>
+    <include>brutalism</include>
+  </includes>
+  <similar_movements>
+    <movement>international_style</movement>
+    <movement>purism</movement>
+    <movement>brutalism</movement>
+    <movement>modern_architects</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>ozenfant_amedee</artist>
+    <artist>gropius_walter</artist>
+    <artist>gehry_frank</artist>
+    <artist>breuer_marcel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Space and light and order. Those are things that men need just as much as they need bread or a place to sleep."</q>
+    <q>"A hundred times I have thought: New York is a catastrophe, and fifty times: it is a beautiful catastrophe."</q>
+    <q author="Le Corbusier and Amédée Ozenfant, from Purist manifesto">"Purism strives for an art free of conventions which will utilize plastic constants and address itself above all to the universal properties of the senses and the mind."</q>
+    <q author="Towards a New Architecture (1923)">"Walls in relation to light, light and shade, sadness, gaiety, serenity, etc. Our compositions must be formed of these elements."</q>
+    <q>"The various classes of workers in society today no longer have dwellings adapted to their needs; neither the artisan nor the intellectual. It is a question of building which is at the root of the social unrest today; architecture or revolution."</q>
+    <q>"In my architecture exegesis, I speak only of music. I don't know the notes, but architecture, like music, is time and space, an art of successive sensations brought into a symphony."</q>
+    <q>"I prefer drawing to talking. Drawing is faster, and leaves less room for lies."</q>
+    <q>"To be modern is not a fashion, it is a state. It is necessary to understand history, and he who understands history knows how to find continuity between that which was, that which is, and that which will be."</q>
+    <q>"Negro music has touched America because it is the melody of the soul joined with the rhythm of the machine. It is in two part time; tears in the heart; movement of the legs, torso arms and head. The music of the era of construction; innovating. It floods the body and heart; it floods the USA and its floods the world. The jazz is more advanced than the architecture. If architecture were at the point reached by jazz, it would be an incredible spectacle."</q>
+    <q>"The Engineer's Aesthetic and Architecture - two things that march together and follow one from the other - the one at its full height, the other in an unhappy state of retrogression."</q>
+    <q>"Architecture is the masterly, correct and magnificent play of masses brought together in light. Our eyes are made to see forms in light; light and shade reveal these forms; cubes, cones, spheres, cylinders or pyramids are the great primary forms which light reveals to advantage; the image of these is distinct and tangible within us without ambiguity. It is for this reason that these are beautiful forms, the most beautiful forms. Everybody is agreed to that, the child, the savage and the metaphysician."</q>
+    <q>"The city that has speed has success."</q>
+  </quotes>
+  <authors>
+    <author link="flaksman">Catarina Flaksman</author>
+  </authors>
+  <editors>
+    <editor link="clericuzio">Peter Clericuzio</editor>
+  </editors>
+  <article>
+    <synopsys>Few architects have a schnauzer that they name "Pinceau" ("Paintbrush"). Fewer still use their deceased schnauzer's skin and hair as the binding for a copy of &lt;i&gt;Don Quixote&lt;/i&gt;. And there are few architects who can compare with the stature of Le Corbusier. This highly polemical designer hailed from obscurity in the Swiss Jura Mountains to become (arguably) the most influential urban planner and architect of the 20&lt;sup&gt;th&lt;/sup&gt; century. He was one of the key designers who formulated the ideas behind a truly modern, avant-garde architecture during the interwar period. Le Corbusier's ideas about immense, rationalized, zoned, and industrially-constructed cities both shocked and seduced a global audience, and while they never came to fruition as a cohesive vision, his disciples put many of their pieces into place around the world, both during and after his lifetime. Over fifty years after his death, Le Corbusier still manages to exercise influence and arouse hatred for his ideas and buildings. His complex ties to politics and the sociological dimensions of architecture - along with his voluminous records and archives - mean that he will continue to be the subject of debates for decades to come.</synopsys>
+    <key_ideas>
+      <idea>Le Corbusier was and remains a highly polemical figure in the history of modern architecture. Widely praised as a visionary whose imaginative plans for urban agglomerations and spaces dramatically transformed our understanding of what a city should be and could look like, he is equally reviled for the soulless monotony that his strand of modernism encouraged and the wanton destruction of the urban fabric that he both championed and prompted among his followers in urban planning during the latter half of the 20&lt;sup&gt;th&lt;/sup&gt; century.</idea>
+      <idea>Le Corbusier is one of the major originators of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt;, along with such contemporaries as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mies_van_der_rohe_ludwig"&gt;Ludwig Mies van der Rohe&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, with whom he once worked, among many others. His work was featured especially prominently in the landmark exhibition in 1932 at the Museum of Modern Art in New York - and subsequent book - that gave the movement its name.</idea>
+      <idea>Le Corbusier's role in the birth of modern architecture is magnified because of his ability to elucidate and disseminate his principles succinctly and forcefully. His Five Points of a New Architecture, which form the backbone of his architectural thought of the 1920s, constitute some of the most direct set of ideas in architectural theory, which he successfully demonstrated in his numerous contemporaneous villas of the interwar period.</idea>
+      <idea>Le Corbusier's early writings and buildings glorified &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modernism&lt;/span&gt; and modernity as the key to bringing society out of the cataclysm of World War I at the beginning of the 1920s, a time when many others shrank from the embrace of modern life. Indeed, his architecture and faith in technological progress and heavy industry helped create what many architectural historians would later call "the machine age."</idea>
+      <idea>Le Corbusier's political and ideological positions remain fraught with complexities and controversy - at times he could be labeled a capitalist, a communist, or a Fascist - and his copious inspirations and voluminous records and archival materials provide critics and scholars with a seemingly endless array of possible interpretations.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Charles Édouard-Jeanneret was born in the fall of 1887 in the small industrial town of La Chaux-de-Fonds, in the section of the Alps called the Jura Mountains, just across the border from France. The city was known for its renowned watchmaking industry. His father was a watch engraver and enameller, and his mother worked as a music teacher. They encouraged their son to study decorative arts in the hope that he would also become an engraver of watchcases. Jeanneret also frequently made trips with his father into the mountains around La-Chaux-de-Fonds, becoming intimately acquainted with nature and the environment.</p>
+          <p type="p">Like several other of his fellow designers who also became towering figures in the history of modern architecture, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mies_van_der_rohe_ludwig"&gt;Ludwig Mies van der Rohe&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wright_frank_lloyd"&gt;Frank Lloyd Wright&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, Jeanneret did not receive a formal architectural education, but, like Wright, he did play with Froebel blocks as a child. He also frequented libraries to read about architecture, sketched buildings, and visited museums as part of this informal training.</p>
+        </subsection>
+        <subsection title="Early Training and Work in La-Chaux-de-Fonds">
+          <p type="p">Jeanneret entered the Advanced Decorative Arts Course at the Art School in La Chaux-de-Fonds in 1904, even though he would later (1951) tell the BBC that "I am anti-school....I left school at 13 because schools were very mean in the past; they were no fun." The course on decoration there was taught by the painter Charles L'Eplattenier, who would exert a strong influence on the young man, encouraging him to study architecture, even though the architect René Chapellaz was actually the instructor in that field at the municipal art school. In 1905, in collaboration with Chapallaz and two other students, Jeanneret, then only 18, designed his first house, the Villa Fallet, a wooden mountain chalet with a steep roof and geometric patterning, for a member of the board of the Art School, the engraver Louis Fallet.</p>
+          <p type="p">In 1907 Jeanneret began his life's extensive travels, first encountering classical architecture on a visit to Italy. In the following years, he would visit many European cities, including Paris, where from 1908-10 he worked in the studio of architect Auguste Perret, a pioneer in the use of reinforced concrete. Jeanneret then moved on to Berlin, where between 1910-11 he worked in the office of Peter Behrens, arguably the most important architect in Germany at the time, whose great AEG Turbine Factory, one of the seminal early works of modern architecture, was nearing completion. There Jeanneret first met Gropius and Mies van der Rohe, both of whom were also simultaneously employed by Behrens. In 1911, the Wasmuth Portfolio of Frank Lloyd Wright's work was published in Berlin, and it is said that on the day a copy arrived in Behrens' office, all work came to a standstill. Le Corbusier was later known to have owned a copy of the Wasmuth Portfolio.</p>
+          <p type="p">That same year, Jeanneret embarked on a trip to Eastern Europe, visiting Prague, Budapest, Bucharest, Athens, Istanbul, among other cities, making extensive drawings that filled some eighty sketchbooks. These would later be compiled into the book &lt;i&gt;Journey to the East&lt;/i&gt; (1966). Back home, Le Corbusier built several houses, including one for his parents, and began to teach architecture and interior design.</p>
+          <p type="p">Jeanneret went to Cologne in 1914 for the seminal Deutscher Werkbund exhibition, which was organized by a group of architects, designers, and industrialists who sought to integrate the decorative arts with industry. The exhibition included the Model Factory building designed by Gropius and Adolf Meyer, which presented a spiral staircase enclosed in a glass wall with a steel frame.</p>
+          <p type="p">Back in La-Chaux-de-Fonds after the outbreak of World War I, Jeanneret taught architecture and began working on his own studies of reinforced concrete; during the winter of 1914-15 he developed and applied for a patent for his "Dom-ino" House system of construction, which consisted of slab floors of concrete raised slightly above grade and supported on thin reinforced pillars set back from the edges, so as to free up the entire facade and the interior floor space. It was the first step towards Le Corbusier's new theory of modern architecture. He immediately used concrete for the structure of his next commission, the Villa Schwob (1916), which would prove to be the last of his works in La-Chaux-de-Fonds. Though given a massive budget, Jeanneret fought bitterly with his client, and in 1917 moved to Paris.</p>
+        </subsection>
+        <subsection title="Purism, 1918-20">
+          <p type="img" alt="Amédée Ozenfant, Albert Jeanneret, and Le Corbusier (ca 1918)" show="0">/images20/photo/photo_le_corbusier_1.jpg</p>
+          <p type="p">Upon his arrival in Paris, Jeanneret opened a studio at 20, rue de Belzunce. The following year he met cubist painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, as well as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ozenfant_amedee"&gt;Amédée Ozenfant&lt;/span&gt;. With Ozenfant he would develop the movement in painting called Purism, which took its name undoubtedly from the purity of the geometric forms of objects depicted in their (largely) still-life works. In 1918 the two artists exhibited their paintings together at the Galerie Thomas in Paris, accompanied by the manifesto &lt;i&gt;Après le Cubisme&lt;/i&gt; (&lt;i&gt;After Cubism&lt;/i&gt;), a critique of both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;.</p>
+          <p type="p">Purism gained further strength in 1920 with the launch of their magazine &lt;i&gt;L'Esprit Nouveau&lt;/i&gt;, in whose first issue Jeanneret adopted his professional pseudonym Le Corbusier, likely derived from his maternal grandfather, Lecorbesier. He built nothing between 1918 and 1922, during which time he focused heavily on his painting and published his ideas on art and architecture in &lt;i&gt;L'Esprit Nouveau&lt;/i&gt;. Le Corbusier had long required glasses, and by 1918 had gone nearly blind in one eye; as a result, he sometimes quipped that his spectacles, whose circular horn rims became nearly a trademark, should be half-price. Gradually after 1920 Le Corbusier allowed his painting to largely take a back seat to his architectural practice, though he never fully abandoned the medium.</p>
+        </subsection>
+        <subsection title="Establishing a Modern Architecture, 1920-30">
+          <p type="p">The pure forms of objects depicted in Le Corbusier's paintings resonated with those he had seen of industrial structures in Europe and secondhand from North America, particularly the massive grain silos of the Great Plains, which for him were emblematic of the new, efficient, modern, and industrialized world that - in part - the First World War had revealed with devastating clarity. Unlike others who shrank from the advance of modern materials and technology, Le Corbusier embraced them as the means for creating a new, humane world. He hoped that similar-minded industrialists in France would seize the chance in the postwar period to use architecture to change society. Taking his cue from the political revolutions then shaking Europe in the aftermath of the war, Le Corbusier famously declared that the choice laid before society was between "Architecture or Revolution. Revolution can be avoided."</p>
+          <p type="p">In 1922 Le Corbusier formed an architectural partnership with his cousin, Pierre Jeanneret, which lasted until 1940. One of their first projects was a new studio for Ozenfant in Paris, which revealed Le Corbusier's dedication to the new industrial aesthetic, using large expanses of glass set into a reinforced concrete structure raised on point-support piers called &lt;i&gt;pilotis&lt;/i&gt; like those seen in the Dom-ino House system. The roof employed a sawtooth configuration of skylights much like industrial buildings, as if to indicate that the studio was a factory for art.</p>
+          <p type="p">That same year he exhibited his first of many urban schemes, the &lt;i&gt;Contemporary City for Three Million Inhabitants&lt;/i&gt;, at the Autumn Salon, whose propositions were shocking: a grid of sixty-story, cruciform-plan, naked glass-and-steel skyscrapers set amongst a web of highways and streets, surrounded by a snaking low-rise complex of apartment buildings set within a park-like green space. In the center a massive multilevel transit hub rose amongst the skyscrapers, with a landing strip for airplanes on the roof - a highly imaginative feature that probably was not workable. One famous story relates Le Corbusier's discussion with an official at the Salon, wherein he asked what the term "urbanism" meant. The official replied that it connoted objects like park benches, lampposts, traffic lights, and kiosks. "Very well," said Le Corbusier, "I shall design a great fountain and place a city for three million people behind it."</p>
+          <p type="img" alt="Le Corbusier's polemical book that articulated the early principles of modern architecture and the International Style" show="0">/images20/photo/photo_le_corbusier_2.jpg</p>
+          <p type="p">Le Corbusier collated and edited several of his articles from &lt;i&gt;L'Esprit Nouveau&lt;/i&gt; and published them in book form in 1923 as &lt;i&gt;Vers une architecture&lt;/i&gt; (&lt;i&gt;Towards an Architecture&lt;/i&gt;). The text lays out Le Corbusier's principles of a modern architecture, the essential precepts of what would become the so-called International Style and which Le Corbusier termed the Five Points of a New Architecture.</p>
+          <p type="p">The foundation of the Five Points was the use of &lt;i&gt;pilotis&lt;/i&gt;, which enabled the second point, the free plan, by allowing for maximum flexibility in floor space; as well as the third point, a free facade, since the point supports meant that there was no need for load-bearing exterior walls. Le Corbusier preferred to blur the boundary between exterior and interior, so the fourth point of his system emphasized the use of ribbon windows (or a curtain wall), and to highlight the building's link to nature, a roof terrace constituted the fifth point. Though he intended for the system to apply to buildings of any scale, the best illustrations of it can be seen in the numerous suburban villas he constructed around Paris in the 1920s, which constituted most of his building commissions.</p>
+          <p type="p">In 1925, Le Corbusier revealed these concepts in built form for the general public in his own Esprit Nouveau pavilion at the Exposition International des Arts Décoratifs et Industriels Modernes, the world's fair in Paris that eventually gave us the term &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_deco"&gt;Art Deco&lt;/span&gt;. Le Corbusier distinctly set his architecture, which he considered socially transformative, in contrast to the commercialized, packaged style of the rest of the fair, which he regarded as a flashy, updated classicism. His pavilion, which was underwritten by the auto manufacturer Voisin, included inside an adaptation, for Paris, of his 1922 &lt;i&gt;Contemporary City for Three Million Inhabitants&lt;/i&gt;, called the &lt;i&gt;Plan Voisin&lt;/i&gt;. The pavilion drew ire from fair officials who attempted to fence it off; only Le Corbusier's appeal to the Minister of Fine Arts permitted its opening.</p>
+        </subsection>
+        <subsection title="International Career, 1927-45">
+          <p type="img" alt="Le Corbusier presenting a model neighborhood" show="0">/images20/photo/photo_le_corbusier_3.jpg</p>
+          <p type="p">By the late 1920s, Le Corbusier's stature as one of the founders of the new architecture was secured. In 1927 &lt;i&gt;Vers une architecture&lt;/i&gt; was translated into English (though as &lt;i&gt;Towards a New Architecture&lt;/i&gt;), and that same year he displayed some of his housing designs at the Weissenhofseidlung, a housing exhibition in Stüttgart, Germany, which represented in many ways a coming-out party for the International Style.</p>
+          <p type="p">The following year, 1928, he helped found the International Congresses of Modern Architecture, an organization of mostly European architects created with the purpose of formalizing and disseminating the principles of modern architecture. Among its members were Pierre Jeanneret, Pierre Chareau, Gerrit Rietveld, Walter Gropius, and Alvar Aalto. Le Corbusier remained an influential member throughout most of the group's early history, though he left the organization in 1955, four years before it was dissolved.</p>
+          <p type="img" alt="Le Corbusier-designed Centrosoyuz in Moscow, USSR (1933)" show="0">/images20/photo/photo_le_corbusier_4.jpg</p>
+          <p type="p">Le Corbusier began to travel as his services were in demand internationally. In 1929, he visited South America, lecturing in Brazil, Argentina, and Uruguay; on the ocean liner &lt;i&gt;en route&lt;/i&gt; he met the dancer and singer Josephine Baker, famously sketching her nude. He visited the Soviet Union and won the contract for the government office building called the Centrosoyuz in Moscow (1933), which would turn out to be his only building in the USSR (though he would also serve as a consultant to Soviet urban planning projects in the early 1930s). In 1930 he also became a French citizen and married Yvonne Gallis, a model from Monaco who he had met in 1922.</p>
+          <p type="p">In 1935, Le Corbusier was invited back to Brazil at the behest of Lúcio Costa, an admirer who with a team of architects had been given the commission to design the new Ministry of Education and Health in Rio de Janeiro. Le Corbusier's design took his Five Points to literally new heights as he led the design team to craft a skyscraper on &lt;i&gt;pilotis&lt;/i&gt; whose massive curtain-wall facade was articulated by external &lt;i&gt;brise-soleil&lt;/i&gt; (sunbreaker shades) due to the hot tropical climate. He developed new, fantastical urban plans for Rio de Janeiro and other South American cities, with sketches illustrating the multistory block of a concrete apartment building snaking, unbroken, for miles along the hillsides and topped by an expressway - a scheme that was very likely not feasible either in terms of cost or engineering.</p>
+          <p type="img" alt="Le Corbusier in California (1937)" show="0">/images20/photo/photo_le_corbusier_5.jpg</p>
+          <p type="p">During the 1930s Le Corbusier's commissions in France began to dry up due to the Great Depression. He continued to write, opportunistically hoping to get his urban plans adopted by some governmental authority. His politics thus began to take a dangerous turn. Previously an enthusiast of capitalism and the major industrialists as the prime movers of civilization in the aftermath of the war, Le Corbusier flirted with Communism beginning with his visits to the USSR, and dropped much of his support for capitalism after the 1929 stock market crash.</p>
+          <p type="p">Having fallen out of Stalin's favor in the early 1930s with the adoption of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-socialist_realism"&gt;Socialist Realism&lt;/span&gt; in the Soviet Union, Le Corbusier began to drift towards Fascism. In his urban plans, beginning with the publication of &lt;i&gt;The Radiant City&lt;/i&gt; in 1930, Le Corbusier described the cities he imagined as ruled by an "architect-dictator" and frequently titled his schemes the "&lt;i&gt;plan directeur&lt;/i&gt;." He accepted invitations from Mussolini to lecture in Rome in 1934. When the Vichy regime came to power in France in 1940, Le Corbusier offered his services to Marshal Philippe Petain's pro-Nazi government, along with grand schemes for the redevelopment of Algiers, but was rebuffed. He abandoned hopes of collaboration in 1942, marking his disappointment with a simple "Adieu, dear shitty Vichy."</p>
+        </subsection>
+        <subsection title="The Return to Form, 1945-52">
+          <p type="img" alt="The Modulor - a scale of proportions developed and utilized by Le Corbusier" show="0">/images20/photo/photo_le_corbusier_6.jpg</p>
+          <p type="p">During the latter part of World War II, reduced to writing and theorizing, Le Corbusier created the Modulor, a proportional system based on the Golden Section and scaled to the human figure. From 1945 onwards, all his projects would be based on this system of proportions and the standardized figure - the outline of a muscular man with his left arm raised above his head - can be seen in most of his drawings, and often imprinted in the walls or windows of some of his iconic buildings. It remains astonishing that his attempts at collaboration did not definitively sink his career, given the extent to which Western nations wished to erase all traces of Fascism in the aftermath of the war.</p>
+          <p type="p">Le Corbusier desperately hoped to receive major commissions for the French postwar reconstruction, but the revolving door of Ministers of Reconstruction, coupled with his own infamous inability to get along with clients (including entire populations of destroyed cities) derailed most of these plans. His schemes for reconstruction were in many ways derivations of the urban ideas that he had been refining since the publication of &lt;i&gt;The Radiant City&lt;/i&gt;.</p>
+          <p type="p">Named to the team of architects charged with the construction of the United Nations' new headquarters in New York in 1945, Le Corbusier also famously attempted to essentially seize control of the planning process and force the adoption of his plan over that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-niemeyer_oscar"&gt;Oscar Niemeyer&lt;/span&gt;. As a compromise, the end product was closest to Niemeyer's submitted project, but reflected a few modifications as a nod to Le Corbusier's intense lobbying.</p>
+          <p type="p">It was during these negotiations that Le Corbusier made his first visit to the United States; as a longtime unabashed admirer of skyscrapers, a distinctly American invention, he famously created a stir by declaring upon his arrival that the towers in New York were too small, thinking that they would be taller, and recommended that they be built farther apart. He also apparently made the mistaken assumptions that everyone on the Atlantic coast of the United States could speak French, and that everyone living west of the Eastern seaboard was so homely as to wear feathers in their hair.</p>
+          <p type="p">In 1945, Le Corbusier was awarded the commission for a new large housing project in Marseilles, which he called the Unité d'Habitation. He had hoped to make the design the linchpin of housing in his vast urban schemes from the late 1930s onwards. These would never be truly realized as part of a larger urban redevelopment, although the idea of large communal housing blocks full of individual apartments and set within a park-like setting inspired many of his disciples, such as Lúcio Costa and Oscar Niemeyer in their designs for the new capital Brasilia, to use them with abandon.</p>
+          <p type="p">The Unité also became one of the major inspirations for public housing in the United States, where such apartment blocks became the symbols of some of the worst of the urban planning initiatives engineered by officials such as Robert Moses. The Unité in Marseilles, the first of several that Le Corbusier built around Europe in the 1940s and 1950s, has, however, often been admired for its ability to foster a community among its residents, with its corps of supplemental commercial and service sectors: a grocery store, primary school, daycare, hotel, laundromat, gymnasium, and roof terrace. The Unité in Marseilles, for which ground was broken on the 14&lt;sup&gt;th&lt;/sup&gt; of October 1947, was completed exactly five years later, opening on the same day in 1952.</p>
+        </subsection>
+        <subsection title="Late Period, 1953-65">
+          <p type="p">In the Unité d'habitation Le Corbusier had exhibited a fondness for a rough-concrete aesthetic called &lt;i&gt;béton brut&lt;/i&gt;, which exposed the grains of the wood that were used in the forms for casting (eventually, its widespread use would lead to the strand of architecture called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brutalism"&gt;Brutalism&lt;/span&gt;, most conspicuously seen during the 1970s). Frequently, Le Corbusier's buildings from his late period offered a more conscious homage to nature and frankly exposed primordial materials, such as stone, in combination with concrete; one can see this in the rocky walls of the Maisons Jaoul, a duplex of private houses built in 1953 in Neuilly-sur-Seine just outside Paris.</p>
+          <p type="p">This rough aesthetic formed the basis of some of Le Corbusier's most sculptural works, such as the chapel called Notre-Dame-du-Haut near Ronchamp, in the Vosges Mountains of eastern France, built from 1950-55, whose inclined walls and curved roof contours have variously been likened to a ship's sails or a nun's cowl. Though an atheist, Le Corbusier had long understood the spiritual effects of architecture. In &lt;i&gt;Vers un architecture&lt;/i&gt;, he famously decreed: "You employ stone, wood and concrete, and with these materials you build houses and palaces. That is construction. Ingenuity is at work....But suddenly you touch my heart, you do me good, I am happy and I say: 'This is beautiful.' That is Architecture. Art enters in." In the last fifteen years of his life Le Corbusier received two other important religious commissions: the monastery of Sainte-Marie de la Tourette (1953-60) and a church at Firminy-Vert (1960-2006).</p>
+          <p type="p">With his assistant Iannis Xenakis, Le Corbusier also used concrete innovatively in 1958 at the Brussels World's Fair, where their design for the Philips Pavilion exhibited a set of precast concrete panels hung from steel poles in the forms of intersecting hyperbolas, giving it the appearance of a canvas tent despite its solidity.</p>
+          <p type="p">In 1951, Le Corbusier was awarded the commission for designing the new northwestern provincial Indian capital of Chandigarh, which had to be created from a blank slate due to the territorial partitions between Pakistan and India when the British left South Asia in 1947. He viewed the job as the chance to show the Western powers what they had missed in refusing to implement his urban schemes over the previous thirty years. He would be occupied for the next ten years with intensive work on the project. During his extensive time in India, Le Corbusier also cultivated a new generation of Indian architects, including Balkrishna Doshi.</p>
+          <p type="p">Chandigarh is representative of the esteem in which Le Corbusier was held in the latter stages of his career, which has lasted in many circles to the present day; in 1997, for example, he was featured on the 10 Swiss francs banknote. Le Corbusier died suddenly on August 27, 1965, of an apparent heart attack while swimming in the Mediterranean Sea - against doctor's orders - while staying at his rustic Cabanon, which he built for himself as a summer refuge at the beach town of Roquebrune-Cap-Martin (1951-52) in the southeast of France. In spite of the many times in which the state had rejected his services, he was given a funeral in the courtyard of the Louvre on September 1, with a tribute delivered by Andre Malraux, the longtime French Minister of Culture.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="" show="0">/images20/photo/photo_le_corbusier_7.jpg</p>
+          <p type="p">Le Corbusier's six-decade career reshaped cities from South America to India. He built seventy five buildings in a dozen countries and worked on over four hundred architectural projects. He disseminated his ideas through his almost forty books and hundreds of published essays. This extensive practice, characterized by the "poetic and often provocative interpretation of the technologies and values of the new machine age," as architectural historian Kenneth Frampton puts it, established him as one of the most influential and controversial artists of the 20&lt;sup&gt;th&lt;/sup&gt; century. Many of Le Corbusier's ideas, however, were too utopian to be put in practice, especially the ones reflecting his desire for a somewhat extreme control and order of society.</p>
+          <p type="p">Architect, city planner, painter, furniture designer, writer, publisher, and amateur photographer and filmmaker, Le Corbusier introduced unconventional ideas that helped shape modern society. As suggested by Kenneth Frampton "no single scholar has been able to master all the ramifications" of Le Corbusier's creativity, not the least because Le Corbusier's perspectives and interpretations of the world and its interaction with architecture often changed and remain difficult to pin down. Thus his work continues to be studied, criticized, and reinterpreted today, gaining new meanings and influencing generations to come.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Nature morte à la pile d'assiettes [Still Life with a Stack of Plates]</title>
+      <year>1920</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				After moving to Paris and meeting French painter Amédée Ozenfant, Le Corbusier (then still known as Charles-Édouard Jeanneret) coined the term Purism as the moniker for their new movement in modern painting. Purism intended to represent objects as pure, simple forms stripped of detail and to provide a timeless quality to industrial subject matter, reflecting the embrace of technology. 
+				&lt;br/&gt;&lt;br/&gt;
+				One of the best examples of Purism, this painting, as Kenneth Frampton has argued, "encapsulates more succinctly the [movement's] iconic ethos" by showing an ideological celebration of industrial civilization and exhibiting the "ready-made" lexicon of everyday life as an aesthetic discourse. Much like Marcel Duchamp, in 1917, had famously signed his "readymades" to raise ordinary objects to the status of high art, so does Le Corbusier here by depicting those same naked forms in paint - historically the format that promised to elevate its subject matter to a new level of respect worthy of discussion. 
+				&lt;br/&gt;&lt;br/&gt;
+				The pure, unadorned forms here comprise a critique of Cubism and Futurism, both movements that glorified the fragmentation or destruction of objects, the world, and the field of vision, akin to the modern destruction caused by World War I. Jeanneret and Ozenfant's manifesto-book &lt;i&gt;Après le Cubisme&lt;/i&gt; (&lt;i&gt;After Cubism&lt;/i&gt;), published in 1918, criticized the Cubists' work as ultimately decorative; indeed, their fragmented forms served no positive ideological purpose besides as an attractive arrangement of shapes and color. By contrast, the solidity and wholeness of the objects chosen here, and the combination of them to create new forms, represents Purism's faith in modernity and its commitment to moving civilization forward.
+			</desc>
+      <collection>Kunstmuseum Basel</collection>
+    </artwork>
+    <artwork>
+      <title>Pavillon de L'Esprit Nouveau, Paris</title>
+      <use_big_image>true</use_big_image>
+      <year>1925</year>
+      <materials>Concrete, glass, steel</materials>
+      <desc>
+				The &lt;i&gt;Esprit Nouveau&lt;/i&gt; pavilion functioned as a manifesto of Le Corbusier's ideas on modern architecture at the 1925 Exposition des Arts Décoratifs et Industriels Modernes in Paris. It illustrated his belief that industry, through the standardization required for mass-production, could create the buildings necessary for modern living. He aimed to show "the radical transformations and structural liberties reinforced concrete and steel allow us to envisage in urban housing" as well as to demonstrate that the "comfortable and elegant units of habitation, these practical machines for living in, could be agglomerated in long, lofty blocks of villa-flats." These would form the primary housing units in his urban schemes, including the &lt;i&gt;Contemporary City for Three Million Inhabitants&lt;/i&gt; and his &lt;i&gt;Plan Voisin&lt;/i&gt; for Paris, underwritten, like the rest of the pavilion, by a prominent French automobile manufacturer. 
+				&lt;br/&gt;&lt;br/&gt;
+				Both of these urban schemes, built around the culture of automobile transport, were on display in an annex attached to the prototypical unit. For Le Corbusier, the ubiquitous employment of mass-production for both automobiles and houses was the germ of the city of the future; as he had explained in &lt;i&gt;Vers une architecture&lt;/i&gt;, they functioned as essential modern tools that were logical extensions of the human form. This stood in stark contrast to the goals of the exposition, which fetishized the objects on display as desirable (and yet disposable) accessories, which functioned merely as ends in themselves. Le Corbusier's insistence on the utility of his model, thereby exposing the crass commercialization of the rest of the fair, no doubt contributed heavily to the exposition's directors' attempts to cordon off his pavilion behind a barrier until an injunction from the Ministry of Culture lifted it.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>LC4 - Chaise longue</title>
+      <use_big_image>true</use_big_image>
+      <year>1928</year>
+      <materials>Chrome-plated steel, fabric, and leather</materials>
+      <desc>
+				Described by Le Corbusier as a "relaxing machine," this chaise longue embodies his approach of placing the human body in the center of design. Indeed, Le Corbusier reportedly quipped that the design was inspired by images of American cowboys reclining with their feet propped up on a table. The chaise was designed with his longtime collaborators Pierre Jeanneret and Charlotte Perriand, who joined Le Corbusier's studio in 1927 and are responsible for most of the furniture designs that are primarily attributed to Le Corbusier. 
+				&lt;br/&gt;&lt;br/&gt;
+				The chair combines geometric purity with ergonomic needs, making use of the then innovative tubular steel frame, present in most modern furniture from the 1920s and '30s, most famously Marcel Breuer's &lt;i&gt;Wassily Chair&lt;/i&gt; of 1926. The strong H-shaped base and the elegant curvature of the thin tubular frame support the padded surface bent twice in order to better accommodate one's body. A cylindrical cushion is placed on one side serving as a head support. The independence between the base and the tubular steel frame allows for multiple degrees of reclining, emphasizing the chair's multifunctionality and thus its ideal degree of utility. Manufactured by the Thonet Freres in Paris, the chaise became an icon of 20&lt;sup&gt;th&lt;/sup&gt;-century design and remains in production today by the Italian company Cassina.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Villa Savoye</title>
+      <use_big_image>true</use_big_image>
+      <year>1929-31</year>
+      <materials>Concrete, steel, glass</materials>
+      <desc>
+				The Villa Savoye was commissioned by an upper-class Parisian couple as a weekend house in Poissy, 19 miles away from Paris. Recognized as "one of the icons of modern European architecture," the house influenced the coinage of the term "The International Style" and was prominently displayed in 1932 in MoMA's seminal &lt;i&gt;Modern Architecture: International Exhibition&lt;/i&gt;. The last of Le Corbusier's 1920s-style houses, the Villa Savoye, fittingly, is considered the summation of his "Five Points of a New Architecture" elucidated in his treatise &lt;i&gt;Vers une architecture&lt;/i&gt; (1923). The &lt;i&gt;pilotis&lt;/i&gt;, or thin point-support columns, are arranged in a near-perfect grid that provides the architect almost complete freedom in the designs of both the floor plan and the facades - underscored by the fact that each of the four facades is different. The second floor, the main living space, is characterized by the ribbon windows that provide unencumbered views of the landscape - fostering the strong connection between nature and the constructed structure - and it is crowned by a roof terrace. The expansive lawn has the added effect of placing the building on prime display, as if it was intended to function as a demonstration or summation of the Five Points.
+				&lt;br/&gt;&lt;br/&gt;
+				Built entirely out of the industrial materials of steel, concrete, and glass, the Villa Savoye exhibits several links with modern means of transport that fascinated Le Corbusier. The terrace features a sculptural wall whose curved forms echo the smokestacks of ocean liners, a relationship which is underscored by the placement of the house within a large lawn, much like a ship sailing through a vast sea; and in the metal ship-deck railings of the ramps that connect the house's three levels. Meanwhile, the curve of the driveway as it snakes around the first level uses the exact turning radius of a 1929 model Voisin - the automobile manufacturer that had supported Le Corbusier's work throughout the decade. The villa thus represents the way Le Corbusier conceived of a dwelling as "a machine for living."
+			</desc>
+      <collection>Poissy-sur-Seine, France</collection>
+    </artwork>
+    <artwork>
+      <title>Unité d'Habitation</title>
+      <use_big_image>true</use_big_image>
+      <year>1945-52</year>
+      <materials>Concrete, glass, steel</materials>
+      <desc>
+				The Unité d'Habitation in Marseilles was the first large-scale housing block that Le Corbusier was given the chance to build. Its conception was a long time in the making, and can be traced back at least to the blocks of apartments he developed for his housing schemes of the 1930s, including those for Algiers and Nemours, Algeria. It was conceived to be built in multiple iterations, as part of a much larger urban redevelopment, such as those Le Corbusier hoped would be built for entirely devastated areas such as Saint-Die and La Rochelle after World War II. The single Unité, however, was the only piece of this vision that he would manage to carry out - though in several different locations in Europe. 
+				&lt;br/&gt;&lt;br/&gt;
+				The Unité represents the most complete realization we have of Le Corbusier's idea of communal housing, often described as a "city within a city." The 337 apartment units in the building are divided into 23 types in order to accommodate different family arrangements - from a bachelor to a family with eight children. Most of the apartments are duplex and include a living room with a double-height ceiling and large windows that allow for a full view of the surrounding landscape. Halfway up the building, along the interior road of floors seven and eight, essential services are provided such as a bakery, butcher, dairy, seafood shop, fruit and vegetable shop, liquor store, drugstore, laundry and cleaning service, barbershop, post office, as well as a hotel and a restaurant. In addition, on the 17&lt;sup&gt;th&lt;/sup&gt; floor inhabitants can find a kindergarten and a nursery. There, a ramp leads to the rooftop, which contains a swimming pool, indoor and outdoor athletic facilities, and a snack bar.
+				&lt;br/&gt;&lt;br/&gt;
+				The Unité also shows the evolution of Le Corbusier's work with &lt;i&gt;béton brut&lt;/i&gt; (rough concrete), wherein he left the material unfinished, with the imprint of the wood used to cast it clearly visible in its surface. This facet of the building's skin not only connects it to the natural park-like surroundings littered with trees, but it gives the building an arguably more robust character, much like the hulk of a sailing ocean liner, to which it has often been compared (appropriate for Marseilles, France's gateway port to the Mediterranean). Le Corbusier's work with concrete here would influence many architects in the coming decades, culminating in the strand of design with the material called Brutalism, which coalesced in the 1970s.
+			</desc>
+      <collection>Marseilles, France</collection>
+    </artwork>
+    <artwork>
+      <title>Chapelle Notre-Dame-du-Haut</title>
+      <use_big_image>true</use_big_image>
+      <year>1950-55</year>
+      <materials>Concrete, stone masonry, glass</materials>
+      <desc>
+				In 1950, Le Corbusier was invited to design a new Catholic pilgrimage chapel in Ronchamp, a small French town in the Vosges Mountains near the Swiss border, to replace the one that had been destroyed during World War II. Perched on top of a hill, the church is atypical among Le Corbusier's works; its highly sculptural forms use virtually no right angles and make no references to his usual prismatic clarity. The inclined walls appear almost to be collapsing inwards under the weight of the massive brown concrete roof. Only when the visitor enters the small, darker sanctuary, pierced by small shards of light, does he discover the thickness and solidity of these walls that firmly enfold the space and create a solemn atmosphere imbued with meditative tranquility. 
+				&lt;br/&gt;&lt;br/&gt;
+				In Notre-Dame-du-Haut one sees how Le Corbusier's work provides architectural critics and historians with a vast array of avenues for analysis in an attempt to decipher his achievement. Scholars have traced his inspirations for the chapel to Mediterranean sources, the Athenian Acropolis, the Hebrew Temple in the wilderness, and Bronze Age crypts. The shape of the roof has been variously compared to a billowing sail, a duck's tail, and a nun's cowl. Thus this mysterious panoply itself invites a kind of intellectual rumination and reflection that undoubtedly mirrors the religious contemplation that Le Corbusier attempts to encourage in the pilgrim. The sense of contemplation is likewise drawn out over the substantial hike one must take up the hill in order to reach the chapel, thereby mirroring the spiritual journey in many religions (not just Christianity) that one makes to achieve enlightenment, or simply the winding adventure of human life with its unexpected twists and turns.
+			</desc>
+      <collection>Ronchamp, France</collection>
+    </artwork>
+    <artwork>
+      <title>Chandigarh, India</title>
+      <year>1951-65</year>
+      <materials>Master plan and Capitol Complex buildings</materials>
+      <desc>
+				In 1951, having seen his plans for numerous cities rejected, Le Corbusier finally received the opportunity to put his ideas into practice. After India gained independence in 1947, the country's first prime minister, Jawaharlal Nehru, envisioned a new capital for the Punjab state that would represent India's entry into the modern world. He tapped Le Corbusier for the job after the project's first architect, Matthew Nowicki, was killed in a plane crash. Chandigarh was planned to house 300,000 inhabitants, spread over 47 numbered sectors organized on a grid. Each sector, measuring 800 x 1200 meters, consists of a self-sufficient unit with basic services such as shops, school, health center, and areas for recreation and worship. As in his other projects, Le Corbusier prioritized the automobile, connecting the sectors through wide boulevards. To conform to the modern ideas of functionality and efficiency, the city was zoned according to its different uses: residential buildings, a commercial center, a medical and university complex, and a recreation area, and a central park around a large artificial lake. 
+				&lt;br/&gt;&lt;br/&gt;
+				Le Corbusier was also responsible for designing the famed Capitol Complex, which included the Secretariat (headquarters of both the Punjab and Haryana governments), the Legislative Assembly, and the High Court buildings. Their impressive scale boldly displays Le Corbusier's affinity for rough cast-concrete, punctuated by long rows of bays articulated by prominent &lt;i&gt;brise-soleil&lt;/i&gt; to provide relief from the hot desert sun. Chandigarh's success might be gauged from recent polls that reveal it to be the happiest city of India - most likely due to the calm and order resulting from its unique design; meanwhile, Le Corbusier's Capitol Complex was added to UNESCO's World Heritage list in 2016. Chandigarh's attractiveness, however, has prompted intense growth beyond the city limits planned by Le Corbusier, so that now the city faces the challenge of balancing preservation and development while its leaders discuss a new plan to manage its expansion.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="movement" page="cubism">Violin and Palette (1909)</artwork>
+    <artwork from="movement" page="international_style">Bauhaus, Dessau, Germany (1925-26)</artwork>
+    <artwork from="movement" page="international_style">German Pavilion, Barcelona, Spain (1929)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>da_vinci_leonardo</entity>
+        <entity alt="Adolf Loos">loos_adolf</entity>
+        <entity alt="Charles Leplattenier">leplattenier_charles</entity>
+        <entity alt="Auguste Perret">perret_auguste</entity>
+        <entity alt="Peter Behrens">behrens_peter</entity>
+      </column>
+      <column>
+        <entity>ozenfant_amedee</entity>
+        <entity>gropius_walter</entity>
+        <entity alt="Charlotte Perriand">perriand_charlotte</entity>
+        <entity alt="Pierre Jeanneret">jeanneret_pierre</entity>
+        <entity alt="Jean Prouve">prouve_jean</entity>
+      </column>
+      <column>
+        <entity>classical_greek_and_roman_art</entity>
+        <entity alt="Decorative Arts">decorative_arts</entity>
+        <entity>cubism</entity>
+        <entity>russian_futurism</entity>
+        <entity>bauhaus</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>niemeyer_oscar</entity>
+        <entity alt="Berthold Lubetkin">lubetkin_berthold</entity>
+        <entity alt="Alison and Peter Smithson">smithson_alison_and_peter</entity>
+        <entity alt="Michael Graves">graves_michael</entity>
+        <entity alt="Tadao Ando">ando_tadao</entity>
+      </column>
+      <column>
+        <entity alt="Charlotte Perriand">perriand_charlotte</entity>
+        <entity alt="Pierre Jeanneret">jeanneret_pierre</entity>
+        <entity alt="Jean Prouve">prouve_jean</entity>
+        <entity alt="Lucio Costa">costa_lucio</entity>
+      </column>
+      <column>
+        <entity>modern_architecture</entity>
+        <entity>international_style</entity>
+        <entity>purism</entity>
+        <entity>brutalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Le Corbusier Le Grand</title>
+          <link>0714868698</link>
+          <info>By Jean-Louis Cohen</info>
+        </entry>
+        <entry recommended="true">
+          <title>Le Corbusier: A Life</title>
+          <link>0375410430</link>
+          <info>By Nicholas Fox Weber</info>
+        </entry>
+        <entry>
+          <title>Modern Man: The Life of Le Corbusier, Architect of Tomorrow</title>
+          <link>0544262220</link>
+          <info>By Anthony Flint</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Journey to the East</title>
+          <link>0262622106</link>
+          <info>By Le Corbusier</info>
+        </entry>
+        <entry recommended="true">
+          <title>Towards a New Architecture</title>
+          <link>0486250237</link>
+          <info>By Le Corbusier</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Radiant City</title>
+          <link>B001B3QLK8</link>
+          <info>By Le Corbusier</info>
+        </entry>
+        <entry>
+          <title>The City of Tomorrow and its Planning</title>
+          <link>0486253325</link>
+          <info>By Le Corbusier</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Modulor: A Harmonious Measure to the Human Scale Universally applicable to Architecture and Mechanics</title>
+          <link>0571056741</link>
+          <info>By Le Corbusier</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Le Corbusier: An Atlas of Modern Landscapes</title>
+          <link>0870708511</link>
+          <info>By Jean-Louis Cohen and Berry Bergdoll</info>
+        </entry>
+        <entry>
+          <title>Le Corbusier: Ideas and Forms</title>
+          <link>0714827908</link>
+          <info>By William J. R. Curtis</info>
+        </entry>
+        <entry>
+          <title>Le Corbusier: Furniture and Interiors 1905-1965</title>
+          <link>3858817287</link>
+          <info>By Arthur Ruegg</info>
+        </entry>
+        <entry recommended="true">
+          <title>Le Corbusier</title>
+          <link>0500203415</link>
+          <info>By Kenneth Frampton</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Le Corbusier Foundation Website</title>
+          <link>http://www.fondationlecorbusier.fr/corbuweb/morpheus.aspx?sysId=11&amp;sysLanguage=en-en</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles" />
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Le Corbusier 50: Stories of Encounters that have Revolutionized Design</title>
+          <link>https://www.youtube.com/watch?v=xeWEjVmRIFI</link>
+          <info>Documentary Film by Cassina</info>
+        </entry>
+        <entry>
+          <title>Rare film of Le Corbusier in his apartment in Paris</title>
+          <link>https://www.youtube.com/watch?v=UP6HHS4abik</link>
+          <info>BBC</info>
+        </entry>
+        <entry>
+          <title>Le Corbusier: why he is adored and detested</title>
+          <link>https://www.youtube.com/watch?v=4A07NnUu6x0</link>
+          <info>Swissinfo</info>
+        </entry>
+        <entry>
+          <title>Modern Architecture 5 Points of Le Corbusier</title>
+          <link>https://www.youtube.com/watch?v=LjFINUp04EU</link>
+          <info>Ombu Architecture</info>
+        </entry>
+        <entry recommended="true">
+          <title>Le Corbusier After Le Corbusier</title>
+          <link>https://www.youtube.com/watch?v=1vXt2uex6r4</link>
+          <info>
+						Lecture by Leon Krier
+						&lt;br&gt;
+						Yale School of Architecture Public Lecture Series
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Villa Savoye: A Manifesto for Modernity</title>
+          <link>https://www.youtube.com/watch?v=xG5W3lkSVYk&amp;t=2755s</link>
+          <info>
+						Lecture by Pierre-Antoine Gatier
+						&lt;br&gt;
+						The Getty Conservation Institute
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

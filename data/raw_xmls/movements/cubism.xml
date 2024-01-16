@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>cubism</id>
+    <name>Cubism</name>
+    <type>movement</type>
+    <head_title>Cubism Movement</head_title>
+    <is_influences>false</is_influences>
+    <active_section>movements</active_section>
+    <years />
+    <keywords>cubism, art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy, cubism</keywords>
+    <description>The Cubists Picasso and Braque redefined visual space and led the way to modern abstraction. Followers Gris, Leger, Metzinger+ later stylized Cubist images.</description>
+    <art_description>Picasso and Braque Cubist paintings and sculptures with analysis and achievements. Demoiselles d'Avignon, Houses at L'Estaque, Still Life with Chair Caning+</art_description>
+    <additional_artwork_link />
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <start>1907</start>
+    <end>1922</end>
+    <image_desc>true</image_desc>
+    <big_bio_box_img>Detail of &lt;i&gt;Girl with a Mandolin (Fanny Tellier)&lt;/i&gt; (1910) by Pablo Picasso</big_bio_box_img>
+    <bio_highlight>From 1907 to 1914 Georges Braque and Pablo Picasso worked so closely together, they dressed alike and joked that they were like the Wright brothers who invented the airplane - Picasso even called Braque "Wilbourg." Braque said, "The things that Picasso and I said to one another during those years will never be said again, and even if they were, no one would understand them anymore. It was like being roped together on a mountain," as the two spearheaded the development of the movement.</bio_highlight>
+    <art_type>Paintings and Sculptures</art_type>
+    <pub_time>1/21/2012</pub_time>
+  </main>
+  <similar_artists>
+    <artist>picasso_pablo</artist>
+    <artist>braque_georges</artist>
+    <artist>leger_fernand</artist>
+    <artist>gris_juan</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>salon_cubism</movement>
+    <movement>futurism</movement>
+    <movement>rayonism</movement>
+    <movement>russian_futurism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>salon_cubism</entry>
+    <entry>futurism</entry>
+    <entry>suprematism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="lipchitz_jacques">"Cubism is like standing at a certain point on a mountain and looking around. If you go higher, things will look different; if you go lower, again they will look different. It is a point of view."</q>
+    <q author="Pablo Picasso">"Cubism is not a reality you can take in your hand. It's more like a perfume, in front of you, behind you, to the sides, the scent is everywhere but you don't quite know where it comes from."</q>
+    <q author="Pablo Picasso">"The goal I proposed myself in making cubism? To paint and nothing more... with a method linked only to my thought.. Neither the good nor the true; neither the useful nor the useless."</q>
+    <q author="Georges Braque">"What greatly attracted me - and it was the main line of advance of Cubism - was how to give material expression to this new space of which I had an inkling. So I began to paint chiefly still lifes, because in nature there is a tactile, I would almost say a manual space... that was the earliest Cubist painting - the quest for space."</q>
+    <q author="Georges Braque">"If I have called Cubism a new order, it is without any revolutionary ideas or any reactionary ideas... One cannot escape from one's own epoch, however revolutionary one may be."</q>
+    <q author="Juan Gris">"Cubism is moving around an object to seize several successive appearances, which fused in a single image, reconstitute it in time."</q>
+    <q author="Sonia Delaunay">"It was a tradition to represent a dancer frozen in a chosen position, like a snapshot. I broke away from this tradition by superimposing postures, blending light and motion and scrambling the planes."</q>
+    <q author="Fernand Léger">"Enormous enlargements of an object or a fragment give it a personality it never had before, and in this way, it can become a vehicle of entirely new lyric and plastic power."</q>
+    <q author="Jean Metzinger">"Let the picture imitate nothing; let it nakedly present its raison d'etre."</q>
+    <q author="Jean Metzinger">"Whether it is Juan Gris taking objects apart, Picasso replacing them with objects of his own invention, or another who replaces conical perspective by a system based on the relations between perpendiculars, all that only goes to show that Cubism was not at all born out of an authoritative theory [mot d'ordre]; that it only marked among a few painters the will to be finished with an art that never ought to have survived the condemnation pronounced upon it by Pascal."</q>
+    <q author="David Hockney">"Cubism was an attack on the perspective that had been known and used for 500 years. It was the first big, big change. It confused people: they said, 'Things don't look like that!'"</q>
+    <q author="Gertrude Stein, on Picasso's early art">"He commenced the long struggle not to express what he could see but not to express the things he did not see, that is to say the things everybody is certain of seeing but which they do not really see."</q>
+    <q author="Daniel-Henry Kahnweiler">"Fundamentally painting has never been a mirror of the external world, nor has it ever been similar to photography; it has been a creation of signs, which were always read correctly by contemporaries ... the Cubists created signs that were unquestionably new, and that is what made it so difficult to read their paintings"</q>
+    <q author="Metzinger and Gleizes - Du Cubisme (1912)">"There are as many images of an object as there are eyes which look at it; there are as many essential images of it as there are minds which comprehend it"</q>
+  </quotes>
+  <authors>
+    <author link="wolf">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Cubism developed in the aftermath of Pablo Picasso's shocking 1907 &lt;i&gt;Les Demoiselles d'Avignon&lt;/i&gt; in a period of rapid experimentation between &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;.  Drawing upon Paul Cezanne’s emphasis on the underlying architecture of form, these artists used multiple vantage points to fracture images into geometric forms. Rather than modelled forms in an illusionistic space, figures were depicted as dynamic arrangements of volumes and planes where background and foreground merged. The movement was one of the most groundbreaking of the early-20&lt;sup&gt;th&lt;/sup&gt; century as it challenged &lt;span class="marked_text chart-tooltip-target-top tooltip_id-early_renaissance"&gt;Renaissance&lt;/span&gt; depictions of space, leading almost directly to experiments with non-representation by many different artists. Artists working in the Cubist style went on to incorporate elements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt; and popular culture into their paintings and to experiment with sculpture. 
+
+		&lt;br/&gt;&lt;br/&gt;
+	A number of artists adopted Picasso and Braque's geometric faceting of objects and space including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, along with others that formed a group known as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubists&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>The artists abandoned perspective, which had been used to depict space since the Renaissance, and they also turned away from the realistic modeling of figures.</idea>
+      <idea>Cubists explored open form, piercing figures and objects by letting the space flow through them, blending background into foreground, and showing objects from various angles. Some historians have argued that these innovations represent a response to the changing experience of space, movement, and time in the modern world. This first phase of the movement was called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytic_cubism"&gt;Analytic Cubism&lt;/span&gt;.</idea>
+      <idea>In the second phase of Cubism, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetic_cubism"&gt;Synthetic Cubism&lt;/span&gt; practicioners explored the use of non-art materials as abstract signs. Their use of newspaper would lead later historians to argue that, instead of being concerned above all with form, the artists were also acutely aware of current events, particularly World War I.</idea>
+      <idea>Cubism paved the way for non-representational art by putting new emphasis on the unity between a depicted scene and the surface of the canvas. These experiments would be taken up by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian&lt;/span&gt;, who continued to explore their use of the grid, abstract system of signs, and shallow space.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="p">A watershed moment for the development of Cubism was the posthumous retrospective of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne's&lt;/span&gt; work at the Salon d'Automne in 1907. Cézanne's use of generic forms to simplify nature was incredibly influential to both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;. In the previous year, Picasso was also introduced to non-Western art: seeing Iberian art in Spain, and African-influenced art by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Matisse&lt;/span&gt;, and at the Trocadero anthropological museum. What drew Picasso to these artistic traditions was their use of an abstract or simplified representation of the human body rather than the naturalistic forms of the European Renaissance tradition.</p>
+        </subsection>
+        <subsection title="The Breakthrough: &lt;i&gt;Les Demoiselles d'Avignon&lt;/i&gt;">
+          <p type="img" alt="One of the figures from Picasso's masterpiece.  Believed to be composed by him from his studies of African masks" show="1">/images20/photo/cubism_11.jpg</p>
+          <p type="p">These varying influences can be seen in Picasso's groundbreaking work of 1907, &lt;i&gt;Les Demoiselles d'Avignon&lt;/i&gt;, which is considered a work of proto or pre-Cubism. In its radical distortion of figures, its rendering of volumes as fragmented planes, and its subdued palette, this work predicted some of the key characteristics of later Cubism.</p>
+          <p type="p" alt="nonbrake">Braque, on seeing Picasso's &lt;i&gt;Les Demoiselles&lt;/i&gt; at his studio, intensified his similar explorations in simplification of form. He made a series of landscape paintings in the summer of 1908, including &lt;i&gt;Houses at L'Estaque&lt;/i&gt; in which trees and mountains were rendered as shaded cubes and pyramids, resembling architectural forms. Cubism was introduced to the public with Braque's one-man exhibition at Daniel-Henry Kahnweiler's gallery on the rue Vignon in November 1908. It was this exhibit that led French art critic Louis Vauxcelles to describe them as &lt;i&gt;"bizarreries cubiques,"&lt;/i&gt; thus giving the movement its name.</p>
+          <p type="p">The experiments of Picasso and Braque owe much to Kahnweiler, who was the major supporter of their work. Picasso and Braque were both quite poor in 1907 and Kahnweiler offered to buy their works as they painted them, thus freeing the artists from worrying about pleasing patrons or receiving negative reviews. After the 1908 exhibit, with few exceptions, the two artists exhibited only in Kahnweiler's gallery.</p>
+        </subsection>
+        <subsection title="The Cubism of Picasso and Braque">
+          <p type="p">The close collaboration between Picasso and Braque beginning in 1909 was crucial to the style's genesis. The two artists met regularly to discuss their progress, and at times it became hard to distinguish the work of one artist from another (as they liked it). Both were living in the bohemian Montmartre section of Paris in the years before and during World War I, making their collaboration easy.</p>
+          <p type="p">In 1912, Kahnweiler gave his first public interview on Cubism, no doubt in response to growing public interest in (and some recognition of) the movement. When World War I began, Kahnweiler, as a German, was exiled from France. During the war, Léonce Rosenberg became the main dealer for Cubist art in Paris (including those of the Salon Cubists) with his brother Paul Rosenberg serving as Picasso's dealer during the interwar years.</p>
+          <p type="p">Though Picasso and Braque returned to Cubist forms periodically throughout their careers and there were some exhibitions of work up until 1925, the two-man movement did not last much beyond World War I.</p>
+        </subsection>
+        <subsection title="Salon or Section d'Or Cubism">
+          <p type="img" alt="The Salon d'Automne held in Paris at the Grand Palais. Showing a number of works by Section d'Or artists (1912)" show="1">/images20/photo/cubism_3.jpg</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;The Salon Cubists&lt;/span&gt;, so-called because they showed their works at public exhibits such as the Salon d'Automne, did not work closely with Picasso and Braque but were influenced by their experiments. It was through the work of the Salon Cubists that the movement became widely known to the public in the early 1910s. These artists included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, Albert Gleizes, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, Henri Le Fauconnier, Roger de La Fresnaye, and Jean Metzinger. Metzinger and Delaunay, who had been friends at least since 1906, began collaborating with Gleizes as a result of the yearly Salon d'Automne. It was through Gleizes that they met Le Fauconnier who had published &lt;i&gt;Note sur la peinture&lt;/i&gt; (1910) in which he praised Picasso and Braque for their "total emancipation" of painting.</p>
+          <p type="p">These artists exhibited together at the 1911 Salon des Independants, introducing Cubism to the general public. The Independants was a non-juried exhibition where public reaction depended on how and where paintings were hung. The Cubists got control of the hanging committee from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionists&lt;/span&gt; so that their works could be hung together in one room as a coherent school. The paintings created a stir, as Gleizes noted: "While the newspapers sounded the alarm to alert people to the danger, and while appeals were made to the public authorities to do something about it, song writers, satirists and other men of wit and spirit provoked great pleasure among the leisured classes by playing with the word 'cube', discovering that it was a very suitable vehicle for inducing laughter which, as we all know, is the principle characteristic that distinguishes man from the animals."</p>
+          <p type="p">In addition to showing their works in large exhibitions, the Salon Cubists were also distinct from Picasso and Braque in that they often worked on a large scale, leading one art historian to coin the term 'Epic Cubism' to distinguish their work from the more intimate paintings of Picasso and Braque. While they broke apart objects and bodies into geometric forms like those of Picasso and Braque, the Salon Cubists did not challenge Renaissance conceptions of space to the same extent nor did they embrace the monochromatic color of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytic_cubism"&gt;Analytic Cubism&lt;/span&gt; or the collage elements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetic_cubism"&gt;Synthetic Cubism&lt;/span&gt;.</p>
+          <p type="img" alt="On Cubism Book written by Metzinger and Gleizes" show="1">/images20/photo/cubism_book.jpg</p>
+          <p type="p">At the end of 1911 Gleizes and Metzinger, who lived closely together in the Parisian suburbs, and others in the group began meeting in Puteaux, a suburb where the painter and engraver Jacques Villon and his brother, the sculptor Raymond Duchamp-Villon had their studios (leading to them sometimes being called the Puteaux group). It is likely as a result of these meetings that the main ideas for Metzinger and Gleizes' &lt;i&gt;On Cubism&lt;/i&gt; (1912) were formalized; it was the first published statement about the style.</p>
+          <p type="p">The next year the group also planned the launch of the &lt;i&gt;Salon de la Section d'Or&lt;/i&gt; (1912) that would bring together the most radical currents in painting. The term Section d'Or was a name the Salon Cubists adopted to show their attachment to the golden mean, i.e. the belief in order and the importance of mathematical proportions in their works that reflected those in nature. The &lt;i&gt;Section d'Or&lt;/i&gt; exhibit was held after the 1912 &lt;i&gt;Salon d'Automne&lt;/i&gt; at the Galerie La Boetie. It was at this exhibit that the poet and art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt; coined the term &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt; to refer to the work of Delaunay. The next year Apollinaire published &lt;i&gt;Aesthetic Meditations: The Cubist Painters&lt;/i&gt; (1913). These many exhibits and publications were calculated to make an impact, both in Paris and abroad.</p>
+          <p type="p">As with the Cubism of Picasso and Braque, the Salon or Section d'Or group did not continue coherently after WWI, having only sporadic exhibits between 1918 and 1925.</p>
+          <p type="a_small" alt="Salon Cubism Movement Page">/movement/salon-cubism/</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="">
+          <p type="p">The various stages of development in the Cubist style are based on the work of Picasso and Braque rather than on those of the Salon Cubists. The exact names and dates of the stages are debated and continually reframed to this day.</p>
+        </subsection>
+        <subsection title="Early Cubism (1908-09)">
+          <p type="p">This early phase of the movement came in the wake of the Paul Cézanne retrospective in 1907 when many artists were reintroduced or introduced for the first time to the work of Cézanne, who had been living in Aix-en-Provence in the south of France before his death and had not exhibited in Paris for many years. Several artists who saw the retrospective were influenced by his lack of three-dimensionality, the material quality of his brushwork, and his use of uniform brushstrokes. Braque's &lt;i&gt;Houses at L'Estaque&lt;/i&gt; (1908) is a good example of this type of Cubism.</p>
+        </subsection>
+        <subsection title="Analytic Cubism (1910-12)">
+          <p type="p">In this phase, Cubism developed in a highly systematic fashion. Later to be known as the Analytic period of the style, it was based on close observation of objects in their background contexts, often showing them from various vantage points. Picasso and Braque restricted their subject matter to the traditional genres of portraiture and still life and also limited their palette to earth tones and muted grays in order to lessen the clarity between the fragmented shapes of figures and objects. Although their works were often similar in appearance, their separate interests showed through over time. Braque tended to show objects exploding out or pulled apart into fragments, while Picasso rendered them magnetized, with attracting forces compelling elements of the pictorial space into the center of the composition. Works in this style include Braque's &lt;i&gt;Violin and Palette&lt;/i&gt; (1909) and Picasso's &lt;i&gt;Ma Jolie&lt;/i&gt; (1911-12).</p>
+          <p type="p">Towards the end of this stage of Cubism, Juan Gris began to make contributions to the style: he maintained a sharp clarity to his forms, provided suggestions of a compositional grid, and introduced more color to what had been an austere, monochromatic style.</p>
+          <p type="a_small" alt="Analytic Cubism - Definition Page">/definition/analytic-cubism/</p>
+        </subsection>
+        <subsection title="Synthetic Cubism (1912-14)">
+          <p type="p">In 1912 both Picasso and Braque began to introduce foreign elements into their compositions, continuing their experiments with multiple perspectives. Picasso incorporated wall paper that imitated chair caning into &lt;i&gt;Still Life with Chair-Caning&lt;/i&gt; (1912), thus initiating Cubist collage, and Braque began to glue newspaper to his canvases, beginning the movement's exploration of &lt;i&gt;papier-colle&lt;/i&gt;. In part this may have resulted from the artists' growing discomfort with the radical abstraction of Analytic Cubism, though it could also be argued that these Synthetic experiments touched off an even more radical turn away from Renaissance depictions of space, and towards a more conceptual rendering of objects and figures. Picasso's experiments with sculpture are also included as part of the Synthetic Cubist style as they employ collaged elements.</p>
+          <p type="a_small" alt="Synthetic Cubism - Definition Page">/definition/synthetic-cubism/</p>
+        </subsection>
+        <subsection title="Crystal Cubism (1915-22)">
+          <p type="p">As a response to the chaos of war, there was a tendency among many French artists to pull back from radical experimentation; this inclination was not unique to Cubism. One art historian has described this stage of Cubism as the "end product of a progressive closing down of possibilities." In Léger's &lt;i&gt;Three Women&lt;/i&gt; (1921), for example, the depicted subjects are hard-edged rather than resembling overlapping bits of low-relief sculpture; Léger also did not attempt to show objects from various angles. Crystal Cubism is associated with Salon Cubism as well as with the works of Picasso and Braque. Crystal Cubism is part of the larger trend known as a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-interwar_classicism"&gt;Return to Order (also known as Interwar Classicism)&lt;/span&gt; that was associated with artists in the School of Paris.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="img" alt="The Cubist room at The International Exhibition of Modern Art, also known as the Armory Show, in the Art Institute of Chicago (1913)" show="1">/images20/photo/cubism_6.jpg</p>
+          <p type="p">Cubism spread quickly throughout Europe in the 1910s, as much because of its systematic approach to rendering imagery as for the openness it offered in depicting objects in new ways. Critics were split over whether Cubists were concerned with representing imagery in a more objective manner - revealing more of its essential character - or whether they were principally interested in distortion and abstraction.</p>
+          <p type="p">The movement lies at the root of a host of early-20&lt;sup&gt;th&lt;/sup&gt; century styles including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt;. Many important artists went through a Cubist phase in their development, perhaps the most notable of whom was &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; whose notorious &lt;i&gt;Nude Descending a Staircase&lt;/i&gt; (1912) garnered much attention and many negative reviews at the 1913 Armory Show in New York City.</p>
+          <p type="p">The ideas in the movement also fed into more popular phenomena, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_deco"&gt;Art Deco&lt;/span&gt; design and architecture. Later movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt; were also influenced by the Cubist use of the grid, and it is difficult to imagine the development of non-representational art without the experiments of the Cubists. Like other paradigm changing artistic movements of 20&lt;sup&gt;th&lt;/sup&gt;-century art, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop&lt;/span&gt;, Cubism shook the foundations of traditional artmaking by turning the Renaissance tradition on its head and changing the course of art history with reverberations that continue into the postmodern era.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="futurism">Unique Forms of Continuity in Space (1913)</artwork>
+    <artwork from="movement" page="de_stijl">Composition A (1920)</artwork>
+    <artwork from="movement" page="abstract_expressionism">Number 1 (Lavender Mist) (1950)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity />
+      </column>
+      <column>
+        <entity />
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity />
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Les Demoiselles d'Avignon</title>
+      <artist>Pablo Picasso</artist>
+      <year>1907</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Picasso's painting was shocking even to his closest artist friends both for its content and for its formal experimentation. The subject matter of nude women was not in itself unusual, but the fact that Picasso painted the women as prostitutes in aggressively sexual postures was novel. Their blatant sexuality was heightened by Picasso's influence from non-Western art that is most evident in the faces of three of the women, which are rendered as mask-like, suggesting that their sexuality is not just aggressive, but also primitive. The unusual formal elements of the painting were also part of its shock value. Picasso abandoned the Renaissance illusion of three-dimensionality, instead presenting a radically flattened picture plane that is broken up into geometric shards. For instance, the body of the standing woman in the center is composed of angles and sharp edges. Both the cloth wrapped around her lower body and her body itself are given the same amount of attention as the negative space around them as if all are in the foreground and all are equally important.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting was widely thought to be immoral when it was finally exhibited in public in 1916. Braque is one of the few artists who studied it intently in 1907, leading directly to his later collaboration with Picasso. Because it predicted some of the characteristics of Cubism, &lt;i&gt;Les Demoiselles&lt;/i&gt; is considered proto or pre-Cubist.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Houses at L'Estaque</title>
+      <artist>Georges Braque</artist>
+      <year>1908</year>
+      <materials>Oil on Canvas</materials>
+      <desc>In this painting, Braque shows the influence of Picasso's &lt;i&gt;Les Demoiselles&lt;/i&gt; of the previous year and the work of Paul Cézanne. From Cézanne, he adapted the uni-directional, uniform brushwork, and flat spacing, while from Picasso he took the radical simplification of form and use of geometric shapes to define objects. There is, for example, no horizon line and no use of traditional shading to add depth to objects, so that the houses and the landscape all seem to overlap and to occupy the foreground of the picture plane. As a whole, this work made obvious his allegiance to Picasso's experiments and led to their collaboration.</desc>
+      <collection>Hermann and Margrit Rupf Foundation, Bern</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Violin and Palette</title>
+      <artist>Georges Braque</artist>
+      <year>1909</year>
+      <materials>Oil on Canvas</materials>
+      <desc>By 1909, Picasso and Braque were collaborating, painting largely interior scenes that included references to music, such as musical instruments or sheet music. In this early example of Analytic Cubism, Braque was experimenting further with shallow spacing by reducing the color palette to neutral browns and grays that further flatten out the space. The piece is also indicative of Braque's attempts to show the same item from different points of view. Some shading is used to create an impression of bas-relief with the various geometric shapes seeming to overlap slightly. Musical instruments such as guitars, violins, and clarinets show up frequently in Cubist paintings, particularly in the works of Braque who trained as a musician. By relying on such repeated subject matter, the works also encourage the viewer to concentrate on the stylistic innovations of Cubism rather than on the specificity of the subject matter.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Tea Time</title>
+      <artist>Jean Metzinger</artist>
+      <year>1911</year>
+      <materials>Oil on Cardboard</materials>
+      <desc>When this painting was shown at the 1911 Salon d'Automne, the critic Andre Salmon dubbed it "The Mona Lisa of Cubism." While Picasso and Braque were dematerializing figures and objects in their works, Metzinger remained committed to legibility, reconciling modernity with classicism, thus Salmon's nickname for the work. Despite the realism of the painting, like other Cubists, Metzinger abandons the single point of view in use since the Renaissance. The female figure and the still life elements are shown from differing angles as if the artist had physically moved around the subject to capture it from different points of view at successive moments in time. The teacup is shown in both profile and from above, while the figure of the centrally positioned woman is shown both straight on and in profile. The painting was reproduced in Metzinger and Gleizes's book &lt;i&gt;Du Cubisme&lt;/i&gt; (1912) and in Apollinaire's &lt;i&gt;The Cubist Painters&lt;/i&gt; (1913). The work became better known at the time than any work by Picasso or Braque who had removed themselves from the public by not exhibiting at the Salon. For most people in the 1910s, Cubism was associated with artists like Metzinger, rather than its originators Picasso or Braque.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Ma Jolie</title>
+      <artist>Pablo Picasso</artist>
+      <year>1911-12</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				Picasso ups the ante in this work, pushing his experiments in new directions. Building on the overlapping, geometric shapes, Picasso moves further away from the Renaissance illusion of three-dimensionality and towards abstraction by reducing color and by increasing the illusion of low-relief sculpture even further than Braque did in &lt;i&gt;Violin and Palette&lt;/i&gt;. Most significantly, however, Picasso included painted words on the canvas. 
+				&lt;br/&gt;&lt;br/&gt;
+				The words, "ma jolie" not only flatten the space further, but they also liken the painting to a poster because they are painted in a font reminiscent of that used in advertising. This is the first time that an artist had so blatantly used elements of popular culture in a work of high art. This melding of high and low culture may have been influenced by the late-19&lt;sup&gt;th&lt;/sup&gt;-century posters of Henri de Toulouse-Lautrec. Though they were made as advertisements for various entertainment venues, Toulouse-Lautrec's posters were appreciated as high art, perhaps because he was himself also a painter. Further linking Picasso's work to pop culture and to the everyday, "Ma Jolie" was also the name of a popular tune at the time as well as Picasso's nickname for his girlfriend. 
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Chair Caning</title>
+      <artist>Pablo Picasso</artist>
+      <year>1912</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				By 1912, Picasso and Braque had exhausted their experiments with monochromatic color and with the illusion of low-relief sculpture across the surface of the canvas. In &lt;i&gt;Still Life with Chair Caning&lt;/i&gt;, Picasso reintroduces color and goes further into experimentation with multiple perspectives. The image depicts a tabletop at a café; Picasso shows various objects on the table from multiple points of view including the knife, pieces of fruit, and wine glass that are in the top right of the image. Combining both paint and collage, Picasso also incorporates a piece of oilcloth (a cheap tablecloth) that resembles chair caning to reference to the type of seating common in a traditional café. The work is playful in that Picasso conveys the transparent quality of the tabletop by making it appear as if the caning of the chair can be seen through the glass. The spacing in the image, however, is even flatter than in previous works with no shading of objects, thus the café table is not depicted illusionistically as if in three dimensions, but conceptually. 
+				&lt;br/&gt;&lt;br/&gt;
+				Finally, Picasso paints the words "JOU" that are both the first three letters of the French word for newspaper (Journal), thus referring both to the act of reading a newspaper at a café (the folded newspaper itself can be seen on the left), and also spell the first letters of the French word for "play", signifying the playfulness and experimental quality of the image. Not only is this the first time that collaged elements were included in a work of high art, but it has been argued that the bits of collaged newspaper reference the unstable political situation in Europe and perhaps Picasso's own anarchist tendencies. Even though this work is now synonymous with Cubist experiments, it was seen by few people at the time because Picasso did not show his works at public exhibits, but rather displayed his ideas to like-minded (avant-garde) collaborators.
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Maquette for Guitar</title>
+      <artist>Pablo Picasso</artist>
+      <year>1912</year>
+      <materials>Paperboard, paper, thread, string, twine, and coated wire</materials>
+      <desc>
+				Picasso's experiments with collaged elements encouraged him to reconsider sculpture as well. Rather than a collage, however, &lt;i&gt;Maquette for Guitar&lt;/i&gt; is an assemblage (or three-dimensional collage). While traditional sculpture was made up of a mass (or solid) surrounded by a void, using a material such as wood or marble that was then shaped by the hand of the artist, Picasso here takes pieces of cardboard, paper, string, and wire that he then folded, threaded, and glued together. This is the first time that a sculpture had been assembled from disparate parts. Rather than being a solid material, it fluidly integrates mass and its surrounding void. Picasso translated the Cubist interest in multiple perspectives and geometric form into a three-dimensional medium. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work is also groundbreaking in the history of 20&lt;sup&gt;th&lt;/sup&gt;-century sculpture in part because of Picasso's use of non-art materials that, like &lt;i&gt;Ma Jolie&lt;/i&gt;, challenge the distinction between high art and popular culture. 
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Conquest of the Air</title>
+      <artist>Roger de la Fresnaye</artist>
+      <year>1913</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				La Fresnaye's colorful and optimistic paintings did much to popularize Cubism before World War I. In &lt;i&gt;The Conquest of Air&lt;/i&gt;, his most famous work, he depicts himself with his brother Henri, sitting at a table outdoors. The yellow hot-air balloon in the distant background likely refers to the oldest balloon race in the world, the Gordon Bennett cup, which took place annually from 1906 to 1938, with breaks during the war years. The race alternated between European cities, but was held first in Paris in 1906 and again in 1913. A French crew won the race in 1912, adding to their national honor in this arena as the French had invented the hot-air balloon in 1783, no doubt explaining the celebratory French flag in the painting.
+				&lt;br/&gt;&lt;br/&gt;
+				La Fresnaye's work shows influence from both traditional Cubism in its use of geometrical forms and also from Delaunay's Orphism in its bright color and use of the circle. He was a member of La Section d'Or Cubists from 1912-1914, but after the war became a well-known proponent of more traditional realism. 
+			</desc>
+      <collection>The Museum of Modern Art, New York (Not on Display)</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Electric Prisms</title>
+      <artist>Sonia Delaunay</artist>
+      <year>1914</year>
+      <materials>Oil on canvas</materials>
+      <desc>Robert and Sonia Delaunay exhibited with the Salon Cubists, and later founded the Orphism movement that was heavily influenced by Cubism. Like all Cubists, they used geometric forms and flattened perspective to show visual manipulation of their subject, but the Delaunays in particular had metaphysical interests in color and concept, often overlapping multiple scenes and views to suggest a fourth dimension. This multiplicity of scenes (or so-called theory of simultaneity) proposed that events and objects are "inextricably connected in time and space." Electric &lt;i&gt;Prisms&lt;/i&gt; uses the sphere to represent this idea of overlap. In the work, different spheres convene into large concentric circles that are arranged to depict dynamic movement of electricity. Orphism was a short-lived movement but was a key phase in the transition from Cubism to non-representational art.</desc>
+      <collection>Centre Georges Pompidou, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Open Window, Rue Ravignan</title>
+      <artist>Juan Gris</artist>
+      <year>1915</year>
+      <materials>Oil on canvas</materials>
+      <desc>Of the Salon Cubists, Juan Gris' work is often considered closest to that of Picasso and Braque with whom Gris was in close contact beginning in 1911. By 1914, Gris had developed collage techniques in which he pasted elements from newspapers and magazines onto deconstructed, abstract scenes. His works were sometimes actual collages, but could also be paintings that resembled collages as in &lt;i&gt;Still Life with Open Window&lt;/i&gt;. In this work Gris combined interior and exterior views through interlocking elements and subtle shifts in color, including an intense blue that suffuses the work and, like Synthetic Cubism, reintroduces color to the Cubist style. A still life in the foreground features traditional elements such as a book, a carafe, and a bottle of wine on an upturned tabletop. These objects are refracted through shafts of colored light from the open window that bring the neighboring houses and trees into the composition; the interior electric light contrasts with the moonlit scene outside the window. Gris's compositions were more calculating than those of other Cubists. Every element of the grid-like composition was refined to produce an interlocking arrangement without unnecessary detail. Within the grid, Gris balances different areas of the work: light to dark, monochrome to color, and lamplight inside the room to moonlight outside. The viewer has a sense of the still life as it exists in its surroundings.</desc>
+      <collection>National Gallery, Washington DC</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Three Women</title>
+      <artist>Fernand Léger</artist>
+      <year>1921</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				In &lt;i&gt;Three Women&lt;/i&gt;, Léger updates the traditional theme of the reclining nude into a modern vocabulary that combines his various influences from Cubism and Futurism. The geometric forms of the figures indicate his Cubist sources, while his reliance on machine-like imagery is borrowed from Futurism. His pristine and colorful geometric forms are, however, much different from the faux low-relief sculptural effects used in Analytic Cubism. The shapes that make up the figures and objects, for example, do not overlap in the foreground, but are used to create an illusion of three-dimensionality. Thus, the furniture, the bodies of the women, and the spaces between them are easily distinguished.
+				&lt;br/&gt;&lt;br/&gt;
+				Léger's polished forms can be tied to the interest in classicism or "return to order" that was widespread in French art after the chaos of World War I. The machine-like precision and solidity of the objects and figures suggest Léger's faith in the modern world and the hope that technological advances and the machine age would together remake the world. Léger was badly injured in WWI, yet nevertheless presents a cheerful scene that relies on primary colors to convey his positive mindset about the benefits of modernity and technology, ultimately expressing his faith in the future.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>picasso_pablo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>braque_georges</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>leger_fernand</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gris_juan</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>delaunay_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>delaunay_sonia</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>lipchitz_jacques</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>duchamp_villon_raymond</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>metzinger_jean</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Cubism: General Overview</title>
+          <link is_inline_video="true" inline_video_type="youtube">DSZMlfm1Ln0</link>
+          <info>The quick basics</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque's Cubist Experiment: "Like mountain climbers roped together"?</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ju1HsOAtN8c</link>
+          <info>Lecture by conservators Claire Barry and Bart Devolde</info>
+        </entry>
+        <entry>
+          <title>Picasso Posse: Picasso and Braque: Inventing Cubism</title>
+          <link is_inline_video="true" inline_video_type="youtube">yJ1zcViAUBc</link>
+          <info>Philadelphia Museum's Michael Taylor discusses Georges Braque's Violin and Newspaper (1912-1913)</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Artist-Focused Videos:" class="clips">
+        <entry>
+          <title>Pablo Picasso - Cubism and more</title>
+          <link is_inline_video="true" inline_video_type="youtube">6y9R12uNMOE</link>
+          <info>Highlighted works from whole career, but emphasis on Cubism</info>
+        </entry>
+        <entry>
+          <title>Georges Braque and the Cubist Still Life (1928-1945)</title>
+          <link is_inline_video="true" inline_video_type="youtube">72MCQWzyD4E</link>
+          <info>From exhibition by Washington University in St. Louis</info>
+        </entry>
+        <entry>
+          <title>Juan Gris - Still Life with Checked Tablecloth (1915)</title>
+          <link is_inline_video="true" inline_video_type="youtube">Y87aamwHV2M</link>
+          <info>Leonard A. Lauder gifts the amazing work and it is discussed by experts</info>
+        </entry>
+        <entry>
+          <title>Fernand Leger - Contrast of Forms (1913)</title>
+          <link is_inline_video="true" inline_video_type="youtube">iKGCnjBi2sQ</link>
+          <info>MoMA's Ann Temkin discusses Braque discovering his own style</info>
+        </entry>
+        <entry>
+          <title>Robert Delauney - Red Eiffel Tower (1911-12)</title>
+          <link is_inline_video="true" inline_video_type="youtube">V8rgdJTwOJE</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Of Interest:" class="clips">
+        <entry>
+          <title>Picasso Posse: The Mona Lisa of Cubism</title>
+          <link is_inline_video="true" inline_video_type="youtube">5aN9MriMKsE</link>
+          <info>Salon Cubists recreated by Philadelphia Museum</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures:" class="clips">
+        <entry>
+          <title>Picasso and Braque Symposium: Vision and Touch in Early Cubism</title>
+          <link is_inline_video="true" inline_video_type="youtube">Zr1Pn8O2WR4</link>
+          <info>On how cues to visual and tactile experience are deliberately 'confused' in Cubist painting by art historian Christine Poggi</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque Symposium: The Different Facets of Analytic Cubism</title>
+          <link is_inline_video="true" inline_video_type="youtube">o9lkwGZN30E</link>
+          <info>By art historian Lisa Florman</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>The Cubist Painters (Documents of Twentieth-Century Art)</title>
+          <link>0520243544</link>
+          <info>By Guillaume Apollinaire</info>
+        </entry>
+        <entry>
+          <title>Cubism A&amp;I (Art and Ideas)</title>
+          <link>0714840106</link>
+          <info>By Neil Cox</info>
+        </entry>
+        <entry recommended="true">
+          <title>Picasso and the Invention of Cubism</title>
+          <link>0300094361</link>
+          <info>By Mr. Pepe Karmel</info>
+        </entry>
+        <entry>
+          <title>A Cubism Reader: Documents and Criticism, 1906-1914</title>
+          <link>0226021106</link>
+          <info>By Mark Antliff, Patricia Leighten</info>
+        </entry>
+        <entry>
+          <title>Cubism: Colour Library (Phaidon Colour Library)</title>
+          <link>0714832502</link>
+          <info>By Philip Cooper</info>
+        </entry>
+        <entry>
+          <title>Architecture and Cubism (Centre Canadien d'Architecture/Canadian Centre for Architecture)</title>
+          <link>0262523280</link>
+          <info>By Eve Blau</info>
+        </entry>
+        <entry>
+          <title>Picasso, Braque, and Early Film in Cubism</title>
+          <link>1930743734</link>
+          <info>By Tom Gunning</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artists" class="written-by" />
+    </category>
+    <category name="resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Czech Cubism Foundation</title>
+          <link>http://www.nck.cz/cesky_kubismus.php?lg=eng</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Review of "Picasso: Guitars 1912-1914" at MoMA</title>
+          <link>http://blogs.artinfo.com/modernartnotes/2011/03/picasso-guitars-3/</link>
+          <info>
+						By Tyler Green
+						&lt;br/&gt;
+						ARTINFO.com
+						&lt;br/&gt;
+						March 23, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Art in Review; 'Inheriting Cubism'</title>
+          <link>http://www.nytimes.com/2001/12/07/arts/art-in-review-inheriting-cubism.html?src=pm</link>
+          <info>
+						By Ken Johnson
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						December 7, 2001
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Picasso and Braque, Brothers in Cubism</title>
+          <link>http://www.nytimes.com/1989/09/22/arts/picasso-and-braque-brothers-in-cubism.html?src=pm</link>
+          <info>
+						By Michael Brenson
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						September 22, 1989
+					</info>
+        </entry>
+        <entry>
+          <title>Art: The Apprenticeship Of Stuart Davis as a Cubist</title>
+          <link>http://blogs.artinfo.com/modernartnotes/2011/03/picasso-guitars-3/</link>
+          <info>
+						By Roberta Smith
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						November 27, 1987
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>"Cubism" is the title of a live concert film, from 2007, by the English electronic group The Pet Shop Boys</title>
+          <link>http://en.wikipedia.org/wiki/Cubism_(video)</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

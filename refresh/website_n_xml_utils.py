@@ -4,7 +4,7 @@ import time
 
 # from models import add_record, update_record, read_records_2, read_records
 from models.models import *
-from vectorisation.vector_store_n_query import *
+# from vectorisation.vector_store_n_query import *
 from xml_filtration.format_artist_xml import *
 from xml_filtration.format_critic_xml import *
 from xml_filtration.format_definition_xml import *
@@ -30,6 +30,8 @@ def download_xml_by_id(xml_id, type):
                 # If it exists, delete the file
                 os.remove(output_file)
                 print(f"Deleted existing file: {output_file}")
+            else:
+                print("File Doesn't Exists")
             
             with open(output_file, 'wb') as file:
                 file.write(response.content)
@@ -99,9 +101,16 @@ def are_xml_files_equal(xml_id, type):
     # Read locally stored XML
     with open(local_path, 'rb') as local_file:
         local_tree = ET.ElementTree(ET.fromstring(local_file.read()))
+    
+    similarity_response = ET.tostring(online_tree.getroot()) == ET.tostring(local_tree.getroot())
+    
+    if similarity_response == True:
+        print(f"{xml_id} --> Files are Same")
+    else:
+        print(f"{xml_id} --> Files are Different")
 
     # Compare the XML structures
-    return ET.tostring(online_tree.getroot()) == ET.tostring(local_tree.getroot())
+    return similarity_response
 
 
 
@@ -160,7 +169,8 @@ def filter_and_store_paths():
 
         for path in paths:
             count += 1
-            if (count >= 2):
+            if (count >= 6): # limit and checker
+                print("\n\n Starting File No. ----------> ", count, " out of 1000.")
                 # Splitting the string using "/" as the delimiter
                 segments = path.split("/")
 
@@ -168,12 +178,16 @@ def filter_and_store_paths():
                 extracted_type = segments[1]
                 extracted_id = segments[2]
                 extracted_xml_id = convert_to_underscore(extracted_id)
+                print(f"\nType : {extracted_type} ; ID : {extracted_xml_id}")
                 if (is_value_in_csv(extracted_id) == False):
+                    print(f"\nValue : \"{extracted_xml_id}\" not Found in DB")
                     # update_record(extracted_id, str(datetime.now()), column_index)
                     if (download_xml_by_id(extracted_xml_id, extracted_type) == False):
+                        print("\nDownload Failed, Going to the Next One...")
                         continue
                     record_to_add = [extracted_type, extracted_xml_id, str(datetime.now()), " - ", " - ", "not-merged"]
                     add_record(record_to_add)
+                    print(f"\nAdded New Record for {extracted_xml_id}")
                     if extracted_type == "artist":
                         artist_xml(extracted_xml_id)
                     if extracted_type == "critic":
@@ -185,8 +199,9 @@ def filter_and_store_paths():
                     if extracted_type == "influencer":
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
-                    vectorise(extracted_xml_id, extracted_type)
-                    update_record(extracted_xml_id, str(datetime.now()), 4)
+                    print(f"\nUpdated Exisitng Record for {extracted_xml_id}")
+                    # vectorise(extracted_xml_id, extracted_type)
+                    # update_record(extracted_xml_id, str(datetime.now()), 4)
                 if (are_xml_files_equal(extracted_xml_id, extracted_type) ==  False):
                     download_xml_by_id(extracted_xml_id, extracted_type)
                     if extracted_type == "artist":
@@ -201,11 +216,11 @@ def filter_and_store_paths():
                         influencer_xml(extracted_xml_id)
                     update_record(extracted_xml_id, str(datetime.now()), 3)
                     update_record(extracted_xml_id, str(datetime.now()), 2)
-                    vectorise(extracted_xml_id, extracted_type)
-                    update_record(extracted_xml_id, str(datetime.now()), 4)
+                    # vectorise(extracted_xml_id, extracted_type)
+                    # update_record(extracted_xml_id, str(datetime.now()), 4)
                 else:
                     update_record(extracted_xml_id, str(datetime.now()), 2)
-        merge_db()
+        # merge_db()
 
 
         # # Store filtered paths in a .txt file
@@ -221,5 +236,5 @@ def filter_and_store_paths():
         return "Failure"
 
 # Example usage:
-# filter_and_store_paths()
-merge_db()
+filter_and_store_paths()
+# merge_db()

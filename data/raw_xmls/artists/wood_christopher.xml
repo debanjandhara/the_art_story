@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>wood_christopher</id>
+    <name>Christopher Wood</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1921 - 1930</years>
+    <description>The tragically short career of The British Christopher Wood produced an exquisite selection of lyrical, enigmatic, and luminous canvases.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>April 7, 1901</birthDate>
+    <birthPlace>Knowsley, Liverpool, England</birthPlace>
+    <deathDate>August 21, 1930</deathDate>
+    <deathPlace>Salisbury, Wiltshire, England</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <img_version>?1</img_version>
+    <pub_time>1/24/2019</pub_time>
+  </main>
+  <includes>
+    <include>primitivism</include>
+    <include>post_impressionism</include>
+  </includes>
+  <similar_movements>
+    <movement>primitivism</movement>
+    <movement>post_impressionism</movement>
+    <movement>st_ives_school</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>nicholson_ben</artist>
+    <artist>hepworth_barbara</artist>
+    <artist>wallis_alfred</artist>
+    <artist>nash_paul</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Dearest mother, you ask me what I am going to do: I have decided to try and be the greatest painter that has ever lived"</q>
+    <q>"I want to paint everything which touches the human being."</q>
+    <q>"I am absolutely on the verge of the real thing after what I saw &amp; learnt at Banks Head [Ben and Winifred Nicholson's house]."</q>
+    <q>"I am not surprised that no one likes [Alfred] Wallis, no one liked Van Gogh for a long time, did they?"</q>
+    <q>"I seem to live on the edge of the world. But what a world it is, I love this place [St Ives] and could stay here for ever if I had those around me for whom I care."</q>
+    <q>"Opium is the only resource of quietness which takes my mind out of that awful turmoil of ideas and colours that go on in my busy head."</q>
+  </quotes>
+  <authors>
+    <author link="s_sethi">Zaid S Sethi</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Rebecca Baillie</editor>
+  </editors>
+  <article>
+    <synopsys>The tragically short but majestic career of Christopher Wood produced an exquisite selection of lyrical, enigmatic, and luminous canvases. Tellingly, as a young man traveling through Europe in the early 1920s, Wood read and marveled over the collected letters of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent Van Gogh&lt;/span&gt;. Like Van Gogh, Wood experienced a level of over sensitivity and emotional inner turmoil that ultimately led to suicide. Before his sad death, Wood was a charming and flamboyant personality. He was one of few Englishmen who gained access to fashionable Parisian art circles; he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diaghilev_sergei"&gt;Sergei Diaghilev&lt;/span&gt;, and became great friends with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt;. Despite these lofty connections it was not until Wood returned to England, met the hard-working Ben and Winifred &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nicholson_ben"&gt;Nicholson&lt;/span&gt;, encountered the naïve pictures of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wallis_alfred"&gt;Alfred Wallis&lt;/span&gt;, and lived by the unpredictable sea, that he felt home and developed his own distinct and powerful style of painting.</synopsys>
+    <key_ideas>
+      <idea>Wood shared with the Nicholson couple an interest in still life and in surrounding landscapes. He successfully painted these subjects with a signature quality of simplicity and muted palette that also resembles the paintings of Italian painter, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morandi_giorgio"&gt;Giorgio Morandi&lt;/span&gt;. All of these artists poetically depict uncomplicated subjects - often in the style of a straightforward view through the window - as a means to paradoxically encourage reflection and to reveal great emotional depth. In this respect, Wood was particularly influenced by Winifred Nicholson's work.</idea>
+      <idea>In contrast to his great friends, the Nicholsons, Wood always remained attached to the presence of the human figure in his canvases. He included self-portraits, as well as sensitive renderings of fishermen and local folk. Indeed, ordinary working-class people are often idealized to become heroic or spiritual figures. In this respect, Wood's work has much in common with that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin's&lt;/span&gt; paintings made in Brittany, and with images by Van Gogh's made throughout his career.</idea>
+      <idea>Wood was mainly untutored and owing especially to his use of unusual perspective and bold color his work is often considered &lt;i&gt;faux naïve&lt;/i&gt;, primitive, and childlike. His work therefore resembles canvases by the influential self-taught French painter, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rousseau_henri"&gt;Henri Rousseau&lt;/span&gt;, and those of Alfred Wallis, his fellow artist based in Cornwall who only started a noteworthy art career at age seventy. Indeed it is interesting to consider Wood's work alongside that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut / Outsider Artists&lt;/span&gt;, although he himself was far too emerged in the art world to ever be defined as such.</idea>
+      <idea>Wood's late canvases create unusual juxtapositions and look forward to the onset of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;. As such Wood has much in common with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nash_paul"&gt;Paul Nash&lt;/span&gt;, a figure equally impressive but also difficult to place stylistically. Both artists interestingly appear to straggle and live between two different worlds; they initially spend time dedicated to portraying that which they can 'see' around them, be it war, Paris, or the seaside, but in their later career, they add unusual visions taken from their own hidden and interior landscapes - including sharks and zebras - to previously more typical scenes.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Christopher (also known as Kit) Wood was born John Christopher Wood on April 7, 1901 in Knowsley, near Liverpool. He was born to parents Clare and Lucius Wood; his father was a medical doctor who worked as a general practitioner.</p>
+          <p type="p">At the age of fourteen, during his school days at Marlborough College, following an accident while playing football, Wood contracted septicemia. It was whilst recovering from this illness that he started to draw, greatly encouraged by his mother.</p>
+          <p type="p">Following brief thoughts of pursuing a medical career, Wood instead started to study architecture at Liverpool University from 1918. It was here he met the renowned and successful British painter, Augustus John, and it was said to be John who encouraged Wood to become a painter.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">Wood left his architectural studies at Liverpool University after only one year. Upon the invitation of Alphonse Kahn, an art collector based in Paris, the young aspiring artist moved to France and began to study drawing at the highly reputable Académie Julian. At the age of 20, and shortly after arriving in Paris, Wood excitedly wrote to his mother reassuring her that he had found his vocation. "Dearest Mother", he wrote, "I have decided to try and be the greatest painter that has ever lived."</p>
+          <p type="p">Paris proved to be a liberation for Wood, not only because of the vibrant community of artists searching for a new direction after the devastation of the First World War, but also because of the promiscuous sexual emancipation of Paris in the 1920s which allowed Wood the freedom to explore his own ambiguous sexuality.</p>
+          <p type="p">In Paris he soon met the Chilean Diplomat, Antonio de Gandarillas, his first male lover, with whom he lived, and with whom he was able to come to terms with his bisexuality. Gandarillas, married, himself bisexual, supported Wood financially while Wood went about establishing himself in the art world. Even after their sexual relationship had ended, the two men remained close friends throughout Wood's life.</p>
+          <p type="p">Gandarillas introduced Wood to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diaghilev_sergei"&gt;Serge Diaghilev&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt;. Jean Cocteau, a fellow-homosexual and with whom Wood began to share a studio and a lover - Jean Bourgoint, the hero Paul in Cocteau's novel &lt;i&gt;Les Enfants Terribles&lt;/i&gt; - was to prove to be an important early influence on his work. Cocteau's encouragement proved invaluable, as did his love for Wood's work. Cocteau praised the immediacy of Wood's early paintings of which he went on to describe, "Before the canvases you don't think, you live. No subtle problem poses itself here. A bunch of flowers is a bunch of flowers, smell it. A street is a street, walk down it." As a more negative aspect of his influence, Cocteau is the friend of Wood credited with introducing him to using opium. Believed to have a liberating effect and to heighten artistic creativity, the drug was used by many artists at the time. Unfortunately for Wood however, he became addicted to the substance and his overuse of opium is likely to have contributed to the development of serious psychosis.</p>
+          <p type="p">Wood spent the following two years traveling around Europe and North Africa with Gandarillas, returning to England in 1924. His father's medical practice was now based in Broad Chalke in Wiltshire, and it was there, whilst visiting, that Wood completed his first major works on canvas.</p>
+          <p type="img" alt="Portrait of Constant Lambert by Christopher Wood, Oil on Canvas (1926), National Portrait Gallery, London" show="1">/images20/photo/photo_wood_christopher_1.jpg</p>
+          <p type="p">As an early measure of his success, in 1926 Wood received a commission to create designs for Constant Lambert, a young twenty-year old English composer who had been commissioned to write a ballet for Romeo and Juliet by Diaghilev. Wood's commission was secured despite competition with a selection of more established older English artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lewis_wyndham"&gt;Wyndham Lewis&lt;/span&gt; and Augustus John. Sadly, however, over a dispute with Diaghilev and Wood's refusal to compromise, his designs were never used.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Wood returned to London in 1926 where he met the English Painter, Ben Nicholson. Nicholson had recently taken over the Seven and Five Society (seven painters and five sculptors), a group of artists formed in opposition to the growing influence of European art in England. The society hadn't been very successful since its formation in the early 1920s. However, within a year of Ben Nicholson's leadership and Wood's involvement and paintings placed at the heart of its revival, the society was soon hailed by the art critic, Frank Rutter, as "the most important group of young artists with advanced ideas."</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-nicholson_ben"&gt;Ben Nicholson&lt;/span&gt; and his wife Winifred, also an artist, soon became life-long friends. It was Ben who encouraged Wood to be more daring in his work, which would lead him to develop his own distinctive naïve style. While Ben became an inspiration for his painting (although stylistically he appears to share more in common with Winifred), Winifred became a great personal friend and confidant, becoming a vital support for Wood during a failed love affair with Meraud Guinness. Meraud was an English painter who had had an enviable early training; she studied at the Slade with Henry Tonks, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-archipenko_alexander"&gt;Alexander Archipenko&lt;/span&gt; in New York, and later under the tutor ledge of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt; at the Académie Julian in Paris. Furthermore, as an heiress to a large fortune and member of the Guinness family, Wood, noted for his romantic idealism, had hoped to elope with her. Bowing to family disapproval and pressure to end the relationship, Meraud dashed all Wood's hopes. She went on to marry the Chilean artist Álvaro Guevara in 1929, although she separated from him a year later after the birth of their daughter.</p>
+          <p type="p">In 1927 Wood exhibited work alongside Ben Nicholson at the prestigious Beaux Arts Gallery in London with noted critical success all round. Feeling encouraged, Wood went on to become a member of The London Group, a group formed in 1913 by artists including Walter Sickert, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-epstein_jacob"&gt;Jacob Epstein&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lewis_wyndham"&gt;Wyndham Lewis&lt;/span&gt;. Membership of the group was important, not only for the prestige it gave Wood within the London art scene, but also for providing the chance of becoming part of an artistic movement, the aim of which was to counter what had previously been traditional institutional dominance over art in England.</p>
+          <p type="p">It was also in 1927 that Nicholson introduced Wood to art collector and enthusiast, Jim Ede, who became a great friend and collector of Wood's work. Ede went on to house his great collection of Wood's work and that of other St Ives artists, including Ben and Winifred Nicholson, at his famous Kettle's Yard Gallery, now part of the University of Cambridge.</p>
+          <p type="p">In 1928, Wood and Nicholson went on a painting expedition to Cumberland and to St Ives. It was in St Ives that they met and became ardent fans of Alfred Wallis, a primitive painter and retired fisherman based close by, whose naïve style had an important influence on Wood's work. Wallis was untrained as an artist and had started to paint in his seventies following the death of his wife. With heartfelt poignancy, he became a painter, he told Jim Ede, "for company."</p>
+          <p type="p">As well as feeling home with his new entourage of English artist friends, Wood fell in love with the Cornish landscape, and in particular with the fishing village of St Ives. Wood always said that he had Cornish ancestry on his mother's side, and believed that it was from these genetic roots from where he inherited his great and ever enduring love of the sea and of boats.</p>
+          <p type="img" alt="Portrait of &lt;i&gt;Frosca Munster&lt;/i&gt; by Christopher Wood (also known as &lt;i&gt;The Blue Necklace&lt;/i&gt;), Oil on Canvas (1928)" show="1">/images20/photo/photo_wood_christopher_2.jpg</p>
+          <p type="p">In 1928, upon returning to Paris, Wood met Frosca Munster, a Russian émigré. Even though she was married, the two started an affair, which continued until Wood's death. The couple met whenever they could, with meetings in London and Paris. Munster also stayed with Wood in St Ives whilst with Ben and Winifred Nicholson. The Tate owns a large archive of the couple's love letters and telegrams sent from Wood to Frosca, as well as other ephemera including exchanged love tokens. Frosca aptly called her lover "Kit of the Woods" paying respect to his untamable, performative, and larger than life character.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">Having by this point established a mature and developed primitive style aided by his contact with Wallis, by 1929 Wood was preparing for a solo show to be held at the Tooth's Gallery in April of that year. At the private view he met the collector and gallery owner, Lucy Wertheim. Wertheim would go on to collect a number of Wood's works as well as becoming an important champion of his work in the London art world. He acknowledged her support, commenting, "I know that my future as a painter from now on will be bound up with your own, and I shall become great through you!"</p>
+          <p type="p">Wood then spent the rest of 1929 traveling around Brittany. In May 1930, he showed his work alongside new work by Ben Nicholson at the Galerie Bernheim in Paris. Although this exhibition proved to be less of a commercial success than the artist friends had hoped, Wood remained full of energy and immediately following the exhibition went on a second trip to Brittany where he spent the next two months painting prolifically in order to create a collection of new work for another solo show with Lucy Wertheim. In July, Wertheim traveled to Paris to meet Wood and to choose paintings for the show intended to be the inaugural exhibition at her new Wertheim Gallery in London due to open in October. And although he later apologized, Wood complicated this meeting by asking for more money than Wertheim could reasonably provide.</p>
+          <p type="p">Sadly, and likely the reason for his quarrel with his gallerist, by this time, Wood had begun to suffer from acute paranoia and psychosis; he carried a revolver with him at all times. He returned to England with his paintings in August and late in the month he traveled to Salisbury to meet his mother and sister for lunch, and to show them his new work. After lunch, whilst waiting at Salisbury railway station for his train back to London, Wood tragically and purposely threw himself onto the tracks just as the train was pulling into the station. He died instantly. In deference to his mother's wishes his death was reported as an accident. The jury at the inquest, however, returned a verdict of "suicide while of unsound mind." The Coroner prosaically remarked, "the man was clearly out of his senses".</p>
+          <p type="p">Ben and Winfred Nicholson were bereft and engaged a private detective to piece together the last few days of Wood's life to find out what had led to his suicide. After receiving the private detective's first report they abandoned their investigation. Shortly after Wood's death Ben Nicholson wrote, "When you walk in the country with Christopher Wood, the fields become a much more intense green and in London the buses a much more pungent red... I miss him more than I can say. I could have parted with almost anyone but him."</p>
+          <p type="p">Most have speculated that opium was his downfall and the direct cause of his emotionally instability and paranoia. As he so eloquently wrote of his executioner in a letter to Lucy Wertheim, opium is "the only resource of quietness which takes my mind out of that awful turmoil of ideas and colors that go on in my busy head." It is said that shortly before his death he had been hallucinating and tormented by demons who were following him around; despite being a sensitive character from the beginning, such enhanced negative experiences were the direct result of his out of control addiction which ultimately caused excruciating anxiety and in turn a sudden preference to die rather than to live on.</p>
+          <p type="p">Following his death, the exhibition planned at the Wertheim Gallery for October was cancelled. A memorial exhibition for Wood was then held at the gallery in February of the following year. In 1936, a major retrospective was held at the Redfern Gallery at the New Burlington Galleries in London, and in 1938 Wood's paintings were shown at the British Pavilion at the Venice Biennale.</p>
+          <p type="p">Christopher Wood was buried at All Saints Church in Broad Chalke, Wiltshire. His gravestone was carved by the artist and sculptor Eric Gill.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Christopher Wood, Photograph by Peter North (1930)" show="1">/images20/photo/photo_wood_christopher_3.jpg</p>
+          <p type="p">Christopher Wood's legacy is born of a combination of his prodigious talent and the romance of his short life lived during the crucial 1920s, at the heart of a post war revolution in modern art. Having met and made friends with many of the great artists of the period, including Picasso, Jean Cocteau, Wyndham Lewis, Augustus John and Ben Nicholson, Wood made his own special contribution to the quintessential history of English art at this time.</p>
+          <p type="p">His ambition, which he articulated with the naïve certainty of youth when writing home to his mother, stating that he was to become the "greatest painter that ever lived". This single-minded determinism inspired an attitude of hard work and in turn resulted in his original primitive style. Alongside Winifred Nicholson and Alfred Wallis, he achieved what was a new way of looking at the world through a glass tinted with great simplicity and humility. Having absorbed what he saw in Paris in the 1920s, Wood then added to his art a particularly English lyricism, stating "the Bankshead (home to the Nicholsons) life is the painter's life". He preferred a certain basic everyday existence spent immersed in rugged landscape, rather than being sheltered by the charmed existence of Paris.</p>
+          <p type="p">Wood was never part of a mainstream art movement, although it is arguable that the St Ives Group, with whom he worked closely, are now recorded by history as being just that. Eclectic in his style, Wood gleaned inspiration from various other figurative painters including, most importantly Van Gogh, Gauguin, and Picasso. Overall, he created a very individual style, which the writer Sebastian Faulks, in an interesting non-fiction account of Wood's life called &lt;i&gt;The Fatal Englishman&lt;/i&gt; (1996), called "modernism in an English idiom, the exhilaration of something bright and joyful achieved in a mysterious and oddly menacing way." Wood's legacy is perfectly aligned to that of a cult hero. His promise, of which there was much in its intensity and dedication, is disappointing cut short by the self-destructive nature of an addict. Some may in this case long for more, but the canvases that he leaves behind provide in many respects limitless food for thought.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Beach Scene with Bathers, Pier and Ships</title>
+      <year>1925</year>
+      <materials>Oil on Panel</materials>
+      <desc>
+				This is one of the largest paintings Wood ever painted, and one of the most ambitious in that he was testing out all of the inspiration gathered and techniques learnt whilst living surrounded by an artistic community in Paris. Once complete, the work sold almost immediately to an interior designer and was reproduced at the time in the art journal &lt;i&gt;Colour&lt;/i&gt; and in &lt;i&gt;Vogue&lt;/i&gt; magazine.
+				&lt;br/&gt;&lt;br/&gt;
+				Wood described the painting to his mother in a letter, "On the left there are two women lying down in bathing costumes, one combing her hair and the second standing up against the bathing cabin in a bath gown. The sea is bright green. Three fishermen with brown bodies are pulling up a fishing net on to the shore where, at their feet is a still life of lobster (cooked!) and gaily colored fish". Already key in this painting is Wood's attraction to activity on the coastline (on the edge) as well as the notable comparison with Cezanne's iconic picture, &lt;i&gt;The Bathers&lt;/i&gt; (1898), which Wood would likely have seen in the flesh whilst in Paris.
+				&lt;br/&gt;&lt;br/&gt;
+				The joy and hive of activity shown in this painting reflects the decadent mood of Paris at the time, a well welcome antidote to the gloom and depression experienced in the city immediately following the First World War. Formed of five panels, the scenes were partially inspired by two of Diaghilev's ballet productions both first shown in 1924. One was &lt;i&gt;Le Train Bleu&lt;/i&gt;, themed around leisure activity and produced by Jean Cocteau with bathing costumes designed by Coco Chanel. The second ballet to influence Wood was called &lt;i&gt;Les Matelots (The Sailors)&lt;/i&gt;. This likely provided the direct source for the muscular male bodies at the centre of the picture all exuding "homoerotic male beauty". We also see the influence of Picasso in the classical, almost sculptural form of the female figures.
+				&lt;br/&gt;&lt;br/&gt;
+				It was this culmination of different influences, as well as creating a visual homage to the theatrical mastery of Diaghilev, which helped Wood to secure a commission to design the stage sets for a modern version of Romeo and Juliet due to be performed the following year. Wood was personally delighted by the positive response to his painting, writing to his mother, "all who have seen and whose opinion I value are surprised with its beauty and the strength of its technique."
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>China Dogs in a St. Ives Window</title>
+      <year>1926</year>
+      <materials />
+      <desc>
+				Having by this point met and become friends with Ben and Winifred Nicolson, &lt;i&gt;China Dogs in a St. Ives Window&lt;/i&gt; reveals Wood's burgeoning love for Cornwall as well an allowance for his own intuitive style to develop. Although often compared as an artist to Ben Nicholson, this canvas clearly shows that his work is stylistically more in keeping with that of Winifred's. Whilst Ben's work, even early in his career, hinted at a strong tendency towards abstraction, Wood and Winifred held tight to the depiction of objects and figures.
+				&lt;br/&gt;&lt;br/&gt;
+				Winifred typically framed her pictures using a window setting as in Wood's canvas here. Both artists apply paint lightly and with a childlike immediacy and exuberance. The image of a mother dog with her pups perhaps reflects Wood's current happy state of mind, feeling at home within a new vortex of creativity. As an artist particularly good at treating both the sky and the sea (be these at times calm, and at times unruly) Winifred Nicholson wrote of Wood that "Blue was his colour, and the evolution of the use of blue in his work is the evolution of the driving power of his life".
+			</desc>
+      <collection>Pallant House, Chichester</collection>
+    </artwork>
+    <artwork>
+      <title>Self Portrait</title>
+      <year>1927</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This self-portrait was painted upon Wood's return to Paris. It shows him wearing a harlequin patterned jumper, blue trousers and holding a brush in his hand tipped with red paint reflecting the red color in his jumper. On his right is a table with a paint box. He is seen standing on the balcony of an apartment in Passy, a district in the suburbs of Paris, overlooking a skyline of Paris. The overall color palette of blue and red is similar to that of &lt;i&gt;China Dogs in a St. Ives Window&lt;/i&gt;, and the viewer cannot help wondering if the conflict of colors reflects the conflict within the man. The blue exudes calm and hopefulness, whilst the piercing red agitates and suggests that Wood sends out a warning signal to his viewers that all is not as well as it appears.
+				&lt;br/&gt;&lt;br/&gt;
+				
+				&lt;br/&gt;&lt;br/&gt;
+				Despite struggle within, the portrait is a good example of a young artist determined and driven to succeed. By placing the color on his brush of the matching hue in his jumper, the artist also shows that he has good understanding that he is painting a picture; this is not life as it is, it is an image made by an artist. Although now relocated in spirit to Cornwall, Wood decides on the backdrop of Paris for his iconic statement self-portrait, and as such thinks of posterity and aligns himself with the great master painters already recognized and celebrated by art history. He stares out at the viewer with the confidence, determinism, and belief that he is right where he should be, at the literal heart of the art world at that time.
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, the harlequin pattern on Wood's jumper is a reference to Picasso, a friend and influential figure for Wood, who painted many harlequins and personally associated with the character. For Wood though, the harlequin pattern of his clothes also helps him to merge seamlessly with the patchwork of buildings behind him, poignantly revealing his character as an individual artist, but also as little more than a fragmentary part of the altogether much vaster terrain of life.
+			</desc>
+      <collection>Kettle's Yard, Cambridge, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Harbour in the Hills</title>
+      <year>1928</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This painting shows St Ives, with its lighthouse in the middle ground and fishing boats bouncing on a choppy sea. Blue has muddied to grey as two sailors look upon the stormy scene from the quay in the bottom right of the picture. The swirling sea is reminiscent of Van Gogh's expressive style, as is the background. Wood painted this picture during his stay at St Ives on a trip he made with Ben Nicholson in the Summer of 1928. The lighthouse is a motif to which Wood returned again and again, perhaps as a beacon of hope, but equally, the tower built to signal oncoming danger and distress.
+				&lt;br/&gt;&lt;br/&gt;
+				By this point Wood had encountered the work of Alfred Wallis, and as such the painting in some respects follows Wallis' naïve sophistication in the depiction of what he remembered of his time as a seaman, which to Wood signaled an outpouring of authentic creativity "unspoilt by academic training or civilized culture." He saw how Wallis mixed his pigments, often on the same cardboard and pieces of driftwood that he used to paint his actual pictures. Overall, the style of this painting is incredibly loose and exuberant, which feels like the gift of letting go, given by Wallis to other artists.
+				&lt;br/&gt;&lt;br/&gt;
+				Combining the two influences at work whilst making this canvas, and also giving Wallis the great credit that he deserved, Wood wrote to his friend, Jim Ede, "I am not surprised that no one likes Wallis, no one liked Van Gogh for a long time did they?"
+			</desc>
+      <collection>University of Essex, Essex, England</collection>
+    </artwork>
+    <artwork>
+      <title>The Fisherman's Farewell</title>
+      <year>1928</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This painting shows a touching scene of a fisherman saying good-bye to his family.
+				&lt;br/&gt;&lt;br/&gt;
+				In the background to the left we see fishermen ready to set sail on a fishing trip, whilst the lighthouse to the right reminds us that the scene is taking place in St Ives. Fishing trips were dangerous, but one of only a few means to provide for a family living in Cornwall. The only other industry, just as perilous, was tin mining. The ragged landscape allowed little prospect for farming, and even the prevalent industries of fishing and mining were both on the decline at this time. As such, the painting is not only a tender portrait but also a social record of economic change and financial hardship.
+				&lt;br/&gt;&lt;br/&gt;
+				In fact, the family shown in the painting is said to be a portrait of Ben and Winifred Nicholson, and their little son Jake, born the previous year. Wood had arrived with the Nicholson family to St Ives in August 1928. Wood stayed in the small town that he had fallen in love with, whilst Ben and Winifred soon moved to a cottage overlooking Porthmeor Beach so that they could be close to Alfred Wallis and visit him everyday.
+				&lt;br/&gt;&lt;br/&gt;
+				The period was immensely productive for Wood who was fervently inspired. He wrote to Winifred just before leaving for another trip to Paris, "I seem to live on the edge of the world. But what a world it is, I love this place and could stay here for ever if I had those around me for whom I care." In many ways, it seemed as though Wood himself felt part of the Nicholson family at this time.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Building the boat Tréboul</title>
+      <year>1930</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This painting shows boat builders in Place de l'Enfer near the village of Tréboul, a small fishing village on the north west coast of France, which like St Ives, looks out to the Atlantic. Painted in the last few months of his life, Wood was driven to rural themes and to isolation where he attempted to summon the energy to excise his demons. There is also the sense in this picture that Wood wants to get to the bare bones of things, to unflinchingly explore all of life's great depths.
+				&lt;br/&gt;&lt;br/&gt;
+				Indirectly, the painting bears much in common with the work of both Vincent Van Gogh and Paul Gauguin. Both of these Post-Impressionist innovators spent much time in the rural areas of France, aggrandizing the peasant and presenting themselves as spiritual and religious explorers in such scenes. Gauguin, for example, painted his own self-portrait as &lt;i&gt;The Yellow Christ&lt;/i&gt; (1889), and although not explicit, compounded by the old age and melancholy presence of the central female figure, it is hard not to identify the wooden planks in this picture with looming crucifixion and death.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting shows boat builders building a boat and the canvas appears to have been completed &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;, particularly as the same boat also appears in another canvas &lt;i&gt;The New Boat, Tréboul&lt;/i&gt;, (1930). It shows a woman in the foreground, dressed in black carrying pieces of wood, and on the right of the painting, a group of women watching the men. Wood is able to capture the harshness of lives lived in these villages. There is the sense that the women may be in mourning and that they could have lost men at sea, and yet, interestingly, they do not merely assume domestic roles. Instead, the women in the picture take an active role in providing for their families, very unlike the middle classes and aristocracy at this time.
+				&lt;br/&gt;&lt;br/&gt;
+				Jim Ede, a close friend and collector of Wood's work wrote of the painting in his book &lt;i&gt;A Way of Life (1984)&lt;/i&gt;, "skeletons of ships in process of being built, which foreshadow the skeletons of the fishermen who would take them out to sea and not return. Wives and mothers help a younger generation to build new ships of death. He has visualized it; without a shade of sentimentality." Indeed, it was Ede who acquired the work in 1930 after failing to persuade the Tate Gallery Trustees to buy it. It was also Ede who went on to organize a memorial exhibition for Wood at the Lefevre Gallery in 1932.
+			</desc>
+      <collection>Kettle's Yard, University of Cambridge, Cambridge, England</collection>
+    </artwork>
+    <artwork>
+      <title>The Sleeping Fisherman</title>
+      <year>1930</year>
+      <materials />
+      <desc>
+				Continuing with religious overtones, painted whilst in Brittany, &lt;i&gt;The Sleeping Fisherman&lt;/i&gt; gives heavy hint towards the artist's encroaching death. The fisherman appears to be trapped in his own net. He lies alone on the shoreline close to a church and in this respect seems to accept a fate of passing away. The blue loincloth - the color that Winifred so poignantly attributed to the work of Wood - is also the color associated with the Virgin Mary, and in turn recalls the story of Jesus Christ.
+				&lt;br/&gt;&lt;br/&gt;
+				The basket of fishes further asserts the parallel between the burdens of Jesus to feed the five thousand with the emotional strains felt by Wood. In style, the painting is less reminiscent with that of the St Ives School, or with the heroic Post Impressionists. Instead, the work strongly brings to mind the Symbolist canvases of Odilon Redon. The same sense found in Redon, that the depths of reflection are at once magical and haunting is certainly present here.
+			</desc>
+      <collection>Laing Art Gallery, Newcastle</collection>
+    </artwork>
+    <artwork>
+      <title>Zebra and Parachute</title>
+      <year>1930</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This painting shows a zebra standing bemused next to a flower-bed. In the background stands a now highly famous modernist building. There are lots of straight diagonal lines formed by the ramps and chimneys of the structure which align neatly with the harsh light and shade of the piece, and then in turn with the stripes of the zebra. All of these changes in perspective, as well as the dark shadow remind the viewer of Giorgio de Chirico's work. Additionally, in the sky we see a parachute from which a man hangs ominously lifeless.
+				&lt;br/&gt;&lt;br/&gt;
+				The building in the background has since been identified as the Villa Savoye designed by Le Corbusier. This building was started in 1928 and although by the time Wood painted it, much of the construction was completed, it was not actually finished until 1931. In the same style of placing an exotic creature before a famous monument, the painting has a partner piece called &lt;i&gt;Tiger and Arc de Triomphe&lt;/i&gt; (1930). The latter work was painted during Wood's final visit to Paris just one month before he died. It is also reminiscent of an earlier painting, in which the artist also combines the exotic natural world with man-made structures, bearing strong hints to the primitive style of Henri Rousseau.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Zebra and Parachute&lt;/i&gt; is also one of Wood's last paintings, and unusually shows a number of Surrealist elements. Very different from his other works, the canvas suggests the direction that Wood's art may have taken had he have lived. The career progression in the sense of moving from figurative observation to Surrealism mirrors that of his fellow Englishman, Paul Nash.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Alfred Wallis">wallis_alfred</entity>
+        <entity>picasso_pablo</entity>
+        <entity>van_gogh_theo</entity>
+        <entity>rousseau_henri</entity>
+        <entity>cocteau_jean</entity>
+      </column>
+      <column>
+        <entity alt="Alphonse Kahn">kahn_alphonse</entity>
+        <entity alt="José Antonio Gandarillas Huici">gandarillas_huici_jose_antonio</entity>
+        <entity>nicholson_ben</entity>
+      </column>
+      <column>
+        <entity>primitivism</entity>
+        <entity>post_impressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Joan Gilchrist">gilchrist_joan</entity>
+        <entity alt="Suzanne Cooper">cooper_suzanne</entity>
+        <entity alt="John James">james_john</entity>
+        <entity alt="Ian Hamilton Finlay">finlay_ian_hamilton</entity>
+      </column>
+      <column>
+        <entity alt="Lucy Wertheim">wertheim_lucy</entity>
+        <entity alt="Jim Ede">ede_jim</entity>
+      </column>
+      <column>
+        <entity>primitivism</entity>
+        <entity alt="Neo-Romanticism">neo_romanticism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Christopher Wood: An English Painter</title>
+          <link>0749002638</link>
+          <info>By Richard Ingleby</info>
+        </entry>
+        <entry>
+          <title>Christopher Wood: St. Ives Artists</title>
+          <link>1854374664</link>
+          <info>By Virginia Button</info>
+        </entry>
+        <entry>
+          <title>Cedric Morris &amp; Christopher Wood - A Forgotten Friendship</title>
+          <link>1906509182</link>
+          <info>By Nathaniel Hepburn</info>
+        </entry>
+        <entry>
+          <title>Ben Nicholson and Winifred Nicholson: Art and Life</title>
+          <link>1781300178</link>
+          <info>By Jovan Nicholson</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Dear Winifred: Christopher Wood: Letters to Winifred and Ben Nicholson 1926-1930</title>
+          <link>190659399X</link>
+          <info>By Anne Goodchild</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Christopher Wood</title>
+          <link>184822186X</link>
+          <info>By Katy Norris</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Art and Life: Ben Nicholson, Winifred Nicholson, Christopher Wood, Alfred Wallis, William Staite Murray, 1920 - 1931</title>
+          <link>https://www.dulwichpicturegallery.org.uk/whats-on/exhibitions/2014/jun/art-and-life/</link>
+          <info>Dulwich Picture Gallery</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Christopher Wood by Katy Norris review - the art of a fatal Englishman</title>
+          <link>https://www.theguardian.com/books/2016/aug/20/christopher-wood-by-katy-norris-review</link>
+          <info>
+						By Paul Laity
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						August 20, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Christopher Wood's Brief Life, Richly Expressed</title>
+          <link>https://www.nytimes.com/2016/09/08/arts/international/christopher-woods-brief-life-richly-expressed.html</link>
+          <info>
+						By Roderick Conway Morris
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						Sept. 8, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>A Painter of Mystery</title>
+          <link>https://www.independent.co.uk/arts-entertainment/a-painter-of-mystery-1620326.html</link>
+          <info>
+						By Richard Ingleby
+						&lt;br&gt;
+						The Independent
+						&lt;br&gt;
+						May 20, 1995
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>The Art of Cornwall</title>
+          <link>https://www.youtube.com/watch?v=OWGBqQC2tJg&amp;list=PLM4S2hGZDSE4g-USf3ToexmgZd3xFVToc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>A Curator's Tour - Christopher Wood: Sophisticated Primitive</title>
+          <link>https://www.youtube.com/watch?v=jmYt2kOOvW4&amp;t=140s</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Dulwich Picture Gallery 'Art and Life' Curator's Tour: St. Ives</title>
+          <link>https://www.youtube.com/watch?v=72xyAVMKd1o</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Poetry, painting and the world of Christopher Wood</title>
+          <link>https://www.apollo-magazine.com/poetry-painting-and-the-world-of-christopher-wood/</link>
+          <info>
+						By Matthew Sperling
+						&lt;br&gt;
+						Apollo International Art Magazine
+						&lt;br&gt;
+						June 27, 2016
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

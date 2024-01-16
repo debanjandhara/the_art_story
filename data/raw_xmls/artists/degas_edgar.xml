@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>degas_edgar</id>
+    <name>Edgar Degas</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1855 - 1917</years>
+    <description>Degas captured the effects of light and scenes of urban leisure, and focused on the body in unusual positions and perspectives.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>3</highlight>
+    <occupation>Painter, Sculptor, and Printmaker</occupation>
+    <nationality>French</nationality>
+    <birthDate>July 19, 1834</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>September 27, 1917</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <img_version>?2</img_version>
+    <pub_time>6/1/2011</pub_time>
+    <big_bio_box_img>Detail from &lt;i&gt;The Dance Class&lt;/i&gt; (1875)</big_bio_box_img>
+    <bio_highlight>Edgar Degas spent as much time as he could in the cafés, theatres, and dance studios of Paris, and took inspiration from the women (particularly the ballerinas) that he saw there for his Impressionist paintings.</bio_highlight>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>realism</include>
+    <include>impressionism</include>
+    <include>japonism</include>
+    <include>flaneur</include>
+  </includes>
+  <similar_movements>
+    <movement>realism</movement>
+    <movement>impressionism</movement>
+    <movement>japonism</movement>
+    <movement>post_impressionism</movement>
+    <movement>flaneur</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>manet_edouard</artist>
+    <artist>cassatt_mary</artist>
+    <artist>toulouse_lautrec_henri</artist>
+    <artist>fantin_latour_henri</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"A painting requires a little mystery, some vagueness, some fantasy. When you always make your meaning perfectly plain you end up boring people."</q>
+    <q>"Art is not what you see, but what you make others see."</q>
+    <q>"A picture is something that requires as much trickery, malice, and vice as the perpetration of crime."</q>
+    <q>"Women can never forgive me; they hate me, they feel I am disarming them. I show them without their coquetry."</q>
+    <q>"I would have been in mortal misery all my life for fear my wife might say, 'That's a pretty little thing,' after I had finished a picture."</q>
+    <q>"It is all very well to copy what one sees, but it is far better to draw what one now only sees in one's memory. That is a transformation in which imagination collaborates with memory."</q>
+    <q>"One must do the same subject over again ten times, a hundred times. In art nothing must resemble an accident, not even movement."</q>
+    <q>"No art is less spontaneous than mine. What I do is the result of reflection and study of the great masters."</q>
+    <q>"An artist must approach his work in the spirit of the criminal about to commit a crime."</q>
+  </quotes>
+  <authors>
+    <author link="wolf">Justin Wolf</author>
+  </authors>
+  <article>
+    <synopsys>Always remembered as an &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt;, Edgar Degas was a member of the seminal group of Paris artists who began to exhibit together in the 1870s. He shared many of their novel techniques, was intrigued by the challenge of capturing effects of light and attracted to scenes of urban leisure. But Degas's academic training, and his own personal predilection toward &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt;, set him apart from his peers, and he rejected the label 'Impressionist' preferring to describe himself as an 'Independent.' His inherited wealth gave him the comfort to find his own way, and later it also enabled him to withdraw from the Paris art world and sell pictures at his discretion. He was intrigued by the human figure, and in his many images of women - dancers, singers, and laundresses - he strove to capture the body in unusual positions. While critics of the Impressionists focused their attacks on their formal innovations, it was Degas's lower-class subjects that brought him the most disapproval. </synopsys>
+    <key_ideas>
+      <idea>Degas's enduring interest in the human figure was shaped by his academic training, but he approached it in innovative ways. He captured strange postures from unusual angles under artificial light. He rejected the academic ideal of the mythical or historical subject, and instead sought his figures in modern situations, such as at the ballet.</idea>
+      <idea>Degas's academic training encouraged a strong classical tendency in his art, which conflicted with the approach of the Impressionists. While he valued line as a means to describe contours and to lend solid compositional structure to a picture, they favored color, and more concentration on surface texture. As well, he preferred to work from sketches and memory in the traditional academic manner, while they were more interested in painting outdoors (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;).</idea>
+      <idea>Like many of the Impressionists, Degas was significantly influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;Ukiyo-e Japanese prints&lt;/span&gt;, which suggested novel approaches to composition. The prints had bold linear designs and a sense of flatness that was very different from the traditional Western picture with its perspective view of the world.</idea>
+      <idea>There is a very interesting and puzzling dichotomy in the way Degas approached his female subjects.  There is much evidence that he was a misogynist, and also, much to prove that he was enamored with the female form that he attempted to represent it in its most absolute state through hundreds of painstaking studies. Whatever the reality may be, his studies and output furthered the exploration of the figure and the portrait in all of the visual arts.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Edgar Degas was the eldest of five children of Célestine Musson de Gas, an American by birth, and Auguste de Gas, a banker. Edgar later changed his surname to the less aristocratic sounding 'Degas' in 1870. Born into a wealthy Franco-Italian family, he was encouraged from an early age to pursue the arts, though not as a long-term career. Following his graduation in 1853 with a baccalaureate in literature, the eighteen-year-old Degas registered at the Louvre as a copyist, which he claimed later in life is the foundation for any true artist.</p>
+          <p type="p">After a brief period at law school, he gave up on the his father's aspirations of Degas becoming a lawyer. In 1855 he was admitted to the École des Beaux-Arts in Paris, where he studied drawing under the academic artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lamothe_louis"&gt;Louis Lamothe&lt;/span&gt;, a former pupil of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt;. Degas is even later said to follow Ingres's maxim: "Draw lines, young man., draw lines." That same year, the Exposition Universelle took place, and Degas was enthralled by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet's&lt;/span&gt; Pavilion of Realism.</p>
+        </subsection>
+        <subsection title="Early Period and Training">
+          <p type="p">In 1856, when Degas was aged 22, he traveled to Naples, Italy, to visit his aunt, the Baroness Bellelli and her family. This three-year trip was an important moment in his development, and resulted in the Realist portrait &lt;i&gt;The Bellelli Family&lt;/i&gt; (1859). He spent countless hours combing the museums and galleries of Italy, carefully studying &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, among others.</p>
+          <p type="img" alt="Degas Self-portrait (1855)" show="1">/images20/photo/degas_edgar_2.jpg</p>
+          <p type="p">In 1864, while copying a picture by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-velazquez_diego"&gt;Velázquez&lt;/span&gt; at the Louvre, he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, who by chance was copying the same painting. His friendship with Manet was instrumental for Degas, and probably for Manet, and even the development of Impressionism as a whole. The outspoken, well-regarded Manet was a very different personality from the introspective, and often self-doubting Degas. But their friendship and close association lasted until the end of Manet's life and is discussed in detail in Sebastian Smee's book "The Art of Rivalry".</p>
+          <p type="p">The following year, Degas exhibited at the Paris Salon, the first of six consecutive showings, showing works such as &lt;i&gt;Édouard Manet and Mme. Manet&lt;/i&gt; and &lt;i&gt;The Orchestra of the Opera&lt;/i&gt; (both 1868-69), paintings that subtly blurred the lines between straight portraiture and genre painting. While Degas was serving with the National Guard in the Franco-Prussian War (1870-71), he realized that his eyesight was defective during rifle training. Evidence of this genetic defect can be seen even in his most celebrated paintings.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Although the 1860s was a productive period in Degas's career, his most renowned body of work was created in the 1870s. By this time he had discovered his true muse - Paris. He (much as Manet and other Impressionists) drew inspiration from its boulevards, cafés, shops, dance studios, drawing rooms, theaters, and operas. And he became well known for his close observation, devoting much time to capturing the detail of surrounding human beings. Perhaps for this reason he rejected the label 'Impressionist', believing it implied something accidental and incomplete.</p>
+          <p type="img" alt="Degas Self-portrait (1857-1858)" show="1">/images20/photo/degas_edgar_1.jpg</p>
+          <p type="p">Evidence of this can be found in seminal works such as &lt;i&gt;Foyer de la Danse&lt;/i&gt; (1872), &lt;i&gt;Musicians in the Orchestra&lt;/i&gt; (1872) and &lt;i&gt;A Carriage at the Races&lt;/i&gt; (1873). Each of these pictures also exemplify how Degas assumed unconventional points-of-view, suggesting the perspective of a distracted spectator. Yet unlike contemporaries like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Renoir&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Monet&lt;/span&gt;, Degas was not a &lt;i&gt;plein air&lt;/i&gt; painter, preferring instead the light and reliability of the studio. Incidentally, his few outdoor scenes were produced from memory, or conjured in part from his imagination. </p>
+          <p type="p">From 1872 to 1873, Degas made an extended trip to New Orleans to visit his brother René and other family members, including his uncle, who operated a failing cotton exchange. During this trip, he produced a number of important paintings, including &lt;i&gt;A Cotton Office in New Orleans&lt;/i&gt; (1873), the only one of his works to be purchased by a museum in his lifetime. Following his return home, the French Impressionists held their first group show at the Café Guerbois, in which Degas was included. Despite this association, Degas always held the other members at arm's length. He admired their work and shared many of their ideals, but he never entirely adhered to their philosophy. Nevertheless, he showed work in all but one Impressionist group show, including the final 1886 exhibition. As well, he single-handedly recruited more artists to exhibit at these shows than any other member.</p>
+          <p type="p">Degas remained a bachelor throughout his life, and had few, if any, romantic entanglements. This has fueled speculation about the rationale for his unusual and generally unflattering images of women. His intent may have been to suggest the figures caught off-guard, though feminist critics have pointed out that the effect is often degrading. Any male painter, who spends so much time (famously) depicting the female form is bound to receive his share of criticism - and the same hold true for a female that abstracts the nude male.</p>
+          <p type="img" alt="Degas Self-portrait (1857-1858)" show="1">/images20/photo/degas_4.jpg</p>
+          <p type="p">In fact, there is much to consider regarding his treatment of the female subject in his work, much of this (and the below) is wonderfully discussed in an essay on Degas by the writer and art critic Julian Barnes. For example, the detractors include the poet Tom Paulin who in 1996 said "in this exhibition are women in contorted poses ... They're like performing animals, they're like animals in the zoo." Further, the curator and historian Tobia Bezzola wrote: "It is not known whether Degas had sexual relationships with women; at any rate there is no evidence that he did .. [His] series of monotypes depicting brothel scenes is the most extreme example of the mixture of voyeurism and abhorrence with which he reacted to female sexuality."  But it is also worth remembering the usual practices of painters of his generation who tended to work from a female model, drew her in a semi-voluptious (or even pornographic) manner, and concluded (or maybe started with) a tryst of one type of another. In Degas's case, one sitter reported that "He's a strange gentleman - he spends the whole four hours of the sitting combing my hair".  That particular sitter was complaining.  Upon significant study of the hundreds of depictions women dancing, washing, brushing their hair  by Degas, an observer may well realize the painter in a more gentle light.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="&lt;i&gt;The Apotheosis of Degas&lt;/i&gt; (1885) by Edgar Degas and Walter Barnes was modeled after the painting &lt;i&gt;Apotheosis of Homer&lt;/i&gt; by Ingres.  In a joking manner, here Degas also declares his artistic lineage." show="1">/images20/photo/degas_edgar_7.jpg</p>
+          <p type="p">As the 19&lt;sup&gt;th&lt;/sup&gt; century came to a close, Degas's pace of work waned, and he began spending more time collecting the works of other artists he admired. He purchased work by contemporaries such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Pissarro&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;van Gogh&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Gauguin&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Cézanne&lt;/span&gt;, as well as older artists who had informed Degas as a young man, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Delacroix&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Ingres&lt;/span&gt;. Late works, like the bronze &lt;i&gt;Woman Rubbing Her Back with a Sponge&lt;/i&gt; (1900), is a testament to Degas's continued devotion to capturing the female form.</p>
+          <p type="p">Although Degas abandoned oil painting later in life, he continued to work in a variety of media, including pastels and photography, yet sculpture became his preferred medium as his eyesight deteriorated. He increasingly became a recluse, and most of his friendships with artists like Monet and Renoir, eventually dissolved. These ruptures were hastened by Degas's outspoken anti-Semitism, which was amplified by his stance during the infamous Dreyfus Affair. He died in 1917.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Pablo Picasso's &lt;i&gt;Nude Wringing her Hair&lt;/i&gt; (1952) borrows from Degas heavily." show="0">/images20/photo/degas_12.jpg</p>
+          <p type="p">Although Degas suffered criticism during his lifetime, by the time of his death his reputation was secure as one of the leaders of late-19&lt;sup&gt;th&lt;/sup&gt;-century French art. His distinct difference from the Impressionists, his greater tendency toward Realism, had also come to be appreciated. His standing has only increased since his death, though since the 1970s he was been the focus of a lot of scholarly attention and criticism, primarily focused around his images of women, which have been seen as misogynistic. Some have even compared his treatment of the other sex linked to his antisemitism and overall lack of moral compass.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="courbet_gustave">The Bathers (1853)</artwork>
+    <artwork from="artist" page="manet_edouard">A Bar at the Folies-Bergere (1881-82)</artwork>
+    <artwork from="artist" page="cezanne_paul">Table, Napkin, and Fruit (A Corner of the Table) (1895-1900)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>velazquez_diego</entity>
+        <entity>delacroix_eugene</entity>
+        <entity>ingres_jean_auguste_dominique</entity>
+        <entity>daumier_honore</entity>
+        <entity>courbet_gustave</entity>
+      </column>
+      <column>
+        <entity>lamothe_louis</entity>
+        <entity>manet_edouard</entity>
+        <entity>boudin_eugene</entity>
+        <entity>fantin_latour_henri</entity>
+      </column>
+      <column>
+        <entity>realism</entity>
+        <entity>romanticism</entity>
+        <entity>japonism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>gauguin_paul</entity>
+        <entity>van_gogh_vincent</entity>
+      </column>
+      <column>
+        <entity>sickert_walter</entity>
+        <entity>cassatt_mary</entity>
+        <entity>toulouse_lautrec_henri</entity>
+        <entity>monet_claude</entity>
+        <entity>renoir_pierre_auguste</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>british_impressionism</entity>
+        <entity>post_impressionism</entity>
+        <entity>symbolism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Bellelli Family</title>
+      <year>1858-67</year>
+      <materials>Oil on canvas</materials>
+      <desc>This portrait, with its subdued palette and its unconventional grouping of figures, such as the man having his back to the viewer, demonstrates the impact of Realism on the young Degas. He created it over the course of several trips to Italy, spanning 3-4 years. Each family member — his aunt, her husband and his two young cousins Giovanna and Giuliana — was sketched individually, and then organized into a family portrait, becoming more of a study of individual personalities than a study of them as a group. 
+				&lt;br/&gt;&lt;br/&gt;
+	  
+	  Degas had the chance to spend much time with his aunt and her family, but it was not an altogether happy family.  The aunt was disappointed in her husband, away from home, and mourning her father's passing.  So this early, breakthrough work is also a reflection on Degas' (relatively limitted) experience in a family setting.   Here, the father is suggested to be emotionally distant from his wife and daughters, while the mother stands dignified and decisive. Giovanna on the left is clearly the mother's favored daughter, while Giuliana, with one leg poised, is positioned just so to suggest a division in her allegiance.
+	  
+	  
+	  
+	  </desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Monsieur and Madame Édouard Manet</title>
+      <year>1868-69</year>
+      <materials>Oil on canvas</materials>
+      <desc>This unconventional portrait of Manet and his wife provides a wonderful example of Degas as the “distant spectator,” capturing a moment of solitude that the subjects might prefer go unnoticed. However, a riddle surrounds it. Degas painted it as a tribute to his friends, and it originally showed Mme. Manet playing the piano. However, some time after he had presented the portrait to them, he visited their house only to discover the painting had been mutilated and the right of the picture had been cut away. Degas was furious and removed the picture, though it was never repaired. Some scholars believe it was the depiction of the disharmony in the relationship between the couple that was the reason that Manet slashed the canvas.</desc>
+      <collection>Kitakyushu Municipal Museum of Art, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Foyer de la Danse</title>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+			There is something unique and alluring in all of Degas's studies of ballerinas, of which there are many. In &lt;i&gt;Foyer de la Danse&lt;/i&gt; he presents us with one of the unconventional perspectives that are so typical and distinctive in his work. Rather than evoke the light and atmosphere of the scene, as some of his Impressionist peers might have done, Degas has chosen to create a striking arrangement of space, one which echoes the experiences his contemporaries might have had throughout the new modern city. To achieve this, rather than compose the figures in a more orderly and centered fashion, he has dispersed them about the canvas, leaving a chair incongruously placed in the center foreground. Instead of viewing the room as a traditional box-like container for the figures, he paints it at an angle, suggesting multiple vantage points, almost as if this were an early blueprint for Cubism. The approach is characteristic of his modern, realist approach to composition.
+							&lt;br/&gt;&lt;br/&gt;
+			The author Sebastian Smee wrote that Degas had the idea "that when people were listening to music, their habitual self-consciousness switched off.  Their tendency to present themselves, and to respond defensively to their awareness of being watched, was no longer an impediment to truth-telling. They had lost the power to censor themselves. Something more essential, more truthful would emerge, and play across their faces. Degas wanted to capture that."  Indeed, often in his works music is playing, or else, for example, a woman is bathing and similarly dropping her guard. 
+		</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>A Cotton Office in New Orleans</title>
+      <year>1873</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+			Like his earlier study of the Bellelli family, &lt;i&gt;A Cotton Office in New Orleans&lt;/i&gt; is the result of several individual sketches and careful attention to detail over a length of time. In the center, reading a newspaper, is Degas's brother, Rene, and in the foreground, somberly handling a ball of cotton, is Rene's father-in-law, Michael Musson, who operated the cotton exchange. Its complex handling of deep space and multiple figures is testimony both to Degas's skill in composition, and his love of striking perspectives, something that makes his work stand out from that of many of his peers among the Realists and Impressionists. He manages to knit together the fractured space by stretching areas of white across the center of the picture, letting our eye move from the cotton on the left, through the newspaper, to the shirt of the figure on the right.
+			
+</desc>
+      <collection>Musée des Beaux-Arts, Pau</collection>
+    </artwork>
+    <artwork>
+      <title>Little Dancer of Fourteen Years</title>
+      <year>1881</year>
+      <materials>Bronze with cloth accessories</materials>
+      <desc>Originally cast in wax, with a skeleton comprised of paint brushes, Degas's study of the young ballet student Marie van Goethem was eventually cast in bronze in 1922, five years after the artist's death. In fact, 27 bronze sculptures were made. It is characteristic of a number of wax sculptures he produced after the 1860s. When he exhibited this figure at the sixth Impressionist exhibition of 1881 (the only such figure to be publicly shown), viewers were shocked by its realism. It is highly unusual in incorporating a miniature gauze skirt, silk bodice and fabric slippers, and in this respect prefigures the introduction of real objects into sculpture in the 20&lt;sup&gt;th&lt;/sup&gt; century.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>La Toilette (Nude Arranging Her Hair)</title>
+      <year>1884-86</year>
+      <materials>Pastel on paper</materials>
+      <desc>
+&lt;i&gt;La Toilette&lt;/i&gt; is typical of Degas's many nudes, and typical of an approach to the nude that made this body of work particularly controversial - both among his contemporaries and among latter-day critics. It demonstrates his tendency to capture the figure from behind, while washing; to show only a fragment of the figure in order to suggest the whole; and to place the figure in shallow space, allowing her contours to produce the strong linear design that balances the picture. Critics attacked his nudes for never having distinct faces, and seemingly to be wiping themselves as if they are not clean, as if Degas depersonalized his subjects.				
+&lt;br/&gt;&lt;br/&gt;
+Degas's interest in the nude might have been encouraged by his academic training, though his posing suggests the modern innovations of the Realists and Impressionists. Indeed when Degas exhibited a suite of pastel nudes such as this at the sixth Impressionist exhibition of 1886, critics attacked their unusual posing. The picture also demonstrates the artist's use of pastel, which he usually painted on tracing paper - the paper allowing him to produce numerous sketches that are easily manipulated across his many studies of form. </desc>
+      <collection>Pushkin Museum, Moscow</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Degas and the Dance</title>
+          <link>1885444265</link>
+          <info>By Susan Goldman Rubin</info>
+        </entry>
+        <entry>
+          <title>Degas (Basic Art)</title>
+          <link>382281136X</link>
+          <info>By Bernd Growe</info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas, Sickert and Toulouse-Lautrec: London and Paris 1870-1910</title>
+          <link>1854376349</link>
+          <info>By Anna Gruetzner Robins, Richard Thomson</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art</title>
+          <link>0812985079</link>
+          <info>By Sebastian Smee</info>
+        </entry>
+        <entry>
+          <title>The Private Collection of Edgar Degas</title>
+          <link>0300086563</link>
+          <info>By Ann Dumas</info>
+        </entry>
+        <entry>
+          <title>Degas: The Man and His Art (Abrams Discoveries)</title>
+          <link>0810928973</link>
+          <info>By Henry Loyrette</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Private Lives of the Impressionists</title>
+          <link>B000XPPVO2</link>
+          <info>By Sue Roe</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Letters of Edgar Degas</title>
+          <link>0998817511</link>
+          <info>By Theodore Reff</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Degas's Drawings of Dancers</title>
+          <link>0486406989</link>
+          <info>By Edgar Degas</info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas: Beyond Impressionism (National Gallery London Publications) </title>
+          <link>0300069790</link>
+          <info>By Mr. Richard Kendall</info>
+        </entry>
+        <entry>
+          <title>Degas</title>
+          <link>0500093415</link>
+          <info>By Werner Hofmann</info>
+        </entry>
+        <entry>
+          <title>Degas</title>
+          <link>0810981076</link>
+          <info>By Robert Gordon, Andrew Forge</info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas: A Passion for Perfection</title>
+          <link>0300228236</link>
+          <info>By Jane Munro</info>
+        </entry>
+        <entry>
+          <title>Degas, Painter of Ballerinas</title>
+          <link>1419728431</link>
+          <info>By Susan Goldman Rubin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas and the Nude</title>
+          <link>0878467734</link>
+          <info>By Xavier Rey, Anne Roquebert, George Shackelford, Lucian Freud, and Martin Gayford</info>
+        </entry>
+        <entry>
+          <title>Degas and New Orleans: A French Impressionist in America</title>
+          <link>0894940732</link>
+          <info>By Gail Feigenbaum </info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Draftsman Who Turned More and More to Dynamism</title>
+          <link>http://www.nytimes.com/2010/11/05/arts/design/05degas.html?_r=1&amp;ref=edgardegas</link>
+          <info>By Ken Johnson&lt;br/&gt;The New York Times&lt;br/&gt;November 4, 2010</info>
+        </entry>
+        <entry>
+          <title>Who's the Voyeur Now, Picasso?</title>
+          <link>http://www.nytimes.com/2010/08/27/arts/design/27picasso.html?ref=edgardegas</link>
+          <info>By Karen Rosenberg&lt;br/&gt;The New York Times&lt;br/&gt;August 26, 2010</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Sordid Truth behind Degas’s Ballet Dancers</title>
+          <link>https://www.artsy.net/article/artsy-editorial-sordid-truth-degass-ballet-dancers</link>
+          <info>By Julia Wolkoff&lt;br/&gt;Artsy&lt;br/&gt;October 1, 2018</info>
+        </entry>
+        <entry>
+          <title>Degas's Ballet Students Teach the Lessons of Their Art</title>
+          <link>http://www.nytimes.com/2008/09/03/arts/dance/03dega.html?ref=edgardegas</link>
+          <info>By Alastair Macaulay&lt;br/&gt;The New York Times&lt;br/&gt;September 2, 2008</info>
+        </entry>
+        <entry>
+          <title>Degas, Director: An Easel Becomes a Stage</title>
+          <link>http://www.nytimes.com/2005/08/05/arts/design/05cott.html?ref=edgardegas</link>
+          <info>By Holland Cotter&lt;br/&gt;The New York Times&lt;br/&gt;August 5, 2005</info>
+        </entry>
+        <entry>
+          <title>A Master's Abiding Invitation to the Dance</title>
+          <link>http://www.nytimes.com/2003/02/14/arts/art-review-a-master-s-abiding-invitation-to-the-dance.html?ref=edgardegas</link>
+          <info>By Roberta Smith&lt;br/&gt;The New York Times&lt;br/&gt;February 14, 2003</info>
+        </entry>
+        <entry recommended="true">
+          <title>Peeping at Life Through a Keyhole</title>
+          <link>http://www.nytimes.com/2003/01/26/nyregion/art-peeping-at-life-through-a-keyhole.html?ref=edgardegas</link>
+          <info>By Benjamin Genocchio&lt;br/&gt;The New York Times&lt;br/&gt;January 26, 2003</info>
+        </entry>
+        <entry recommended="true">
+          <title>Did Edgar Degas Have an Inherited Retinal Degeneration? </title>
+          <link>https://www.researchgate.net/profile/Zeynel-Karcioglu/publication/6277745_Did_Edgar_Degas_Have_an_Inherited_Retinal_Degeneration/links/57823ac008ae01f736e8e345/Did-Edgar-Degas-Have-an-Inherited-Retinal-Degeneration.pdf</link>
+          <info>
+				By Zeynel A. Karcioglu
+				&lt;br&gt;
+				Ophthalmic Genetics 
+				&lt;br&gt;
+				July 2007
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Degas in 6 Minutes: A Brief Look at His Life &amp; Approach to Art</title>
+          <link>https://www.youtube.com/watch?v=YXB187Gpz6I</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Degas Biography from Goodbye-Art Academy</title>
+          <link>https://www.youtube.com/watch?v=HUuqrLawzjo</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas, The Dance Class (Smarthistory)</title>
+          <link>https://www.youtube.com/watch?v=NigP3DjV3NY</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Edgar Degas: A Strange New Beauty</title>
+          <link>https://www.youtube.com/watch?v=DC8L2O7I0wk</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Degas’ Delightful Depictions of Dance</title>
+          <link>https://www.youtube.com/watch?v=eaOwSz_Q1S8</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Edgar Degas: The Great Impressionists (Full-length documentary)</title>
+          <link>https://www.youtube.com/watch?v=vdn_lrWS0Ng</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Two Works by Edgar Degas</title>
+          <link>https://www.youtube.com/watch?v=n-6uNyMiTOM</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>A New Look at Impressionism: Degas and the Medium of Pastel (Lecture at the Museum of Fine Arts, Boston)</title>
+          <link>https://www.youtube.com/watch?v=lUepMHPS2b8</link>
+          <info></info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

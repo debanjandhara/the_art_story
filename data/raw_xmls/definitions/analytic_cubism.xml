@@ -1,0 +1,601 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>analytic_cubism</id>
+    <name>Analytic Cubism</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>The Analytic phase of the Cubism movement focused on fracturing the depiction of subjects almost to complete abstraction.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <start>1910</start>
+    <end>1912</end>
+    <big_bio_box_img>true</big_bio_box_img>
+    <pub_time>3/26/2020</pub_time>
+  </main>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>collage</movement>
+    <movement>salon_cubism</movement>
+    <movement>orphism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>picasso_pablo</artist>
+    <artist>braque_georges</artist>
+    <artist>leger_fernand</artist>
+    <artist>delaunay_robert</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>cubism</entry>
+    <entry>collage</entry>
+    <entry>salon_cubism</entry>
+    <entry>synthetic_cubism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="picasso_pablo" alt="Pablo Picasso">"I do not believe in objects. I believe only in their relationships."</q>
+    <q author="Pablo Picasso">"A head is a matter of eyes, nose, mouth, which can be distributed in any way you like."</q>
+    <q author="Pablo Picasso">"Cubism is not either a seed or a foetus, but an art dealing primarily with forms, and when a form is realized it is there to live its own life. A mineral substance, having geometric formation, is not made so for transitory purposes, it is to remain what it is and will always have its own form."</q>
+    <q author="Georges Braque">"When objects shattered into fragments appeared in my painting about 1909, this for me was a way of getting closest to the object... Fragmentation helped me to establish space and movement in space."</q>
+    <q author="Georges Braque">"The painter thinks in terms of form and color. The goal is not to be concerned with the reconstitution of an anecdotal fact, but with constitution of a pictorial fact."</q>
+    <q author="Georges Braque">"The whole Renaissance tradition is antipathetic to me. The hard-and-fast rules of perspective which it succeeded in imposing on art were a ghastly mistake which it has taken four centuries to redress; Cezanne and after him Picasso and myself can take a lot of credit for this. Scientific perspective forces the objects in a picture to disappear away from the beholder instead of bringing them within his reach as painting should."</q>
+    <q author="Georges Braque">"Tactile space separates us from objects, as opposed to visual space, which separates objects from one another. I have spent my life trying to paint the former kind."</q>
+    <q author="Albert Gleizes and Jean Metzinger">"There are as many images of an object as there are eyes which look at it; there are as many essential images of it as there are minds which comprehend it."</q>
+    <q author="Jacques Lipchitz">"Cubism is like standing at a certain point on a mountain and looking around. If you go higher, things will look different; if you go lower, again they will look different. It is a point of view."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>
+			In 1920 the leading promoter of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque's&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso's&lt;/span&gt; work, Daniel-Henry Kahnweiler, published his book &lt;i&gt;Der Weg zum Kubismus&lt;/i&gt; (&lt;i&gt;The Rise of Cubism&lt;/i&gt;). It would become the first authoritative text on Cubist history and practice and it was here that the term Analytic Cubism was first introduced. Cubism was a movement that ran for close to two decades, but historians have tended to single out for special consideration its two most important phases: the Analytic phase (1910-12) and the subsequent &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetic_cubism"&gt;Synthetic phase&lt;/span&gt; (1912-14). 
+			&lt;br/&gt;&lt;br/&gt;
+			Analytic Cubism defines a style of Cubism that fractured the subject into multi-layered, angular, surfaces that brought still lifes and portraiture close to a point of total &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_art"&gt;abstraction&lt;/span&gt;. Following a two-year period of experimentation where Cubist artists took their lead from the faceted landscapes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, Picasso and Braque retreated to the studio where, over the ensuing two years, they honed the style of Analytic Cubism. The cadre of Cubist painters, meanwhile, have been put by critics into one of two camps: the "Gallery Cubists", namely Picasso and Braque, and a "second tier", the so-called "Salon Cubists", namely &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gleizes_albert"&gt;Albert Gleizes&lt;/span&gt;. Gris, however, would command equal status with Picasso and Braque when the Synthetic phase came to the fore. 
+		</synopsys>
+    <key_ideas>
+      <idea>At a time when &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; had "progressed" from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; into the mainstream, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt; was ruling the Salons, Picasso and Braque instigated an avant-gardist movement that would all but insist that the viewer re-evaluate the status of art. Using multiple perspectives to produce images that featured only snatched glimpses of everyday objects, the phase of Analytic Cubism initiated a way of thinking about art that went beyond the limits of fixed perspective compositions.</idea>
+      <idea>Analytic Cubism brought a higher level of cognitive engagement to art. In a conscious decision to distinguish itself from the seductive styles of the Impressionists and the Fauves, Analytic Cubism's preference was for a limited range of colors and tones. Excessive color would have only served as a distraction from a style of art that was intent of encouraging the viewer/reader to analyse, rather than simply experience, art.</idea>
+      <idea>In order to keep one foot rooted in realms of reality, Analytic Cubism introduced into its system of geometric grids and planes what Picasso called "attributes". Attributes were the fragments or details of everyday life; points of illusionistic reference that made the image aspects of the image accessible (realistically rendered) and thereby stopping the work from drifting into pure abstraction.</idea>
+      <idea>Considered to be somewhat deferential to Braque and Picasso, the so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubists&lt;/span&gt; were nevertheless instrumental in broadening the appeal of Cubism beyond an elite class of art critics. Important historical figures such as Delaunay and Gris employed some of the techniques of Analytic Cubism but brought to their canvases a more luminous and energetic use of color. Through works such as Delaunay's &lt;i&gt;Windows Series&lt;/i&gt; and Gris's &lt;i&gt;Pears and grapes on a table&lt;/i&gt; their contribution allowed for a more wistful quality to impact on an art practice that had become, in the hands of Braque and Picasso, a strictly analytical practice.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="The Trailblazers: Cézanne and Seurat">
+          <p type="img" alt="Paul Cézanne, &lt;i&gt;La Carrière de Bibémus&lt;/i&gt; (1898-1900) exemplifies the emphasis on volumetric form in his later work." show="1">/images20/photo/photo_analytic_cubism_1.jpg</p>
+          <p type="p">Before &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Braque&lt;/span&gt; had (seemingly) single-handedly reinvented approaches to pictorial perspective, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; had been the primary influence on the exploration of artistic form and plasticity. During the late 1800's Cézanne began to represent the landscape through spheres, cones and cylinders allowing for the various perspectives of the picture plane to lead the eye towards a dedicated focal point. As &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gleizes_albert"&gt;Albert Gleizes&lt;/span&gt; wrote in &lt;i&gt;Du Cubisme&lt;/i&gt; (1912), Cézanne's work, "proves without doubt that painting is not - or not any longer - the art of imitating an object by lines and colors, but of giving plastic [solid, but alterable] form to our nature".</p>
+          <p type="img" alt="Georges Seurat's &lt;i&gt;Le Chahut&lt;/i&gt; (1889-1890) uses a limited palette and notably flattens the pictorial plane." show="1">/images20/photo/photo_analytic_cubism_2.jpg</p>
+          <p type="p">The work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt;, noted primarily for its expansive color palette and flattened depth of field, was influencing, albeit indirectly, the development of Cubism. As art historian Robert Herbert observed, "With the advent of monochromatic Cubism in 1910-1911, questions of form displaced color in the artists' attention, and for these [artists] Seurat was more relevant. Thanks to several exhibitions, his paintings and drawings were easily seen in Paris, and reproductions of his major compositions circulated widely among the Cubists". Viewing color as an independent formal element (as Seurat had) was consistent with Analytic Cubism's emphasis on composition and tone as separate elements. As Braque later confirmed, "we succeeded in dissociating color from form, in putting it on a footing independent of form, for that was the crux of the matter. Color acts simultaneously with form, but has nothing to do with form". Seurat's emphasis on flat linear compositions, created by fracturing the image into small dots of coloring, applied according to the current color theory, did, however, make a more obvious impression on the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubists&lt;/span&gt;; especially in the works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Gris&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Delaunay&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Picasso and Braque">
+          <p type="img" alt="Georges Braque's &lt;i&gt;Mandora&lt;/i&gt; (1909-10) is an early example of Analytic Cubism." show="1">/images20/photo/photo_analytic_cubism_3.jpg</p>
+          <p type="p">In 1907 &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; painted his radical proto-Cubist work, &lt;i&gt;Las Demoiselles d'Avignon&lt;/i&gt;. That same year &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Braque&lt;/span&gt;, who was already experimenting with the multiple-perspective approach of Cézanne, was introduced to Picasso (by Kahnweiler) and their historical collaboration had commenced in earnest. The two men forged a seven year relationship that was based both on a close friendship and a bitter professional rivalry. As Picasso stated, "Almost every evening, either I went to Braque's studio or Braque came to mine. Each of us had to see what the other had done during the day".</p>
+          <p type="p">The two men came from quite different backgrounds: Braque's father was a painter and decorator who encouraged his son into the family business while Picasso's father was an academic painter who tutored his son in drawing. The two men had very different personalities too, Braque being a fiercely private individual who shunned publicity and remained married to the same woman his entire life; Picasso, who is often considered the first "celebrity" artist, was an egotistical, outspoken and unpredictable man who refused to settle for long on a single woman or a specific painting style. The two artists would, despite their differences, enjoy a period of extraordinarily productive collaboration that was unequalled in modern art, but which was ended, rather abruptly, in the fall of 1914 when Braque enlisted to the French Army as part of the war effort. (After the war the two artists never resumed their friendship and would even exchange barbs in public.)</p>
+        </subsection>
+        <subsection title="The Dealer: Daniel-Henry Kahnweiler">
+          <p type="img" alt="Pablo Picasso's &lt;i&gt;Portrait of Daniel-Henry Kahnweiler&lt;/i&gt; (1910). The artists homage to his early benefactor." show="1">/images20/photo/photo_analytic_cubism_4.jpg</p>
+          <p type="p">Through his promotion of the Cubists, Kahnweiler would come to be recognized as one of the most important art dealers of modern times. By 1907 the German had already acquired paintings by Braque, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;André Derain&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_vlaminck_maurice"&gt;Maurice de Vlaminck&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_dongen_kees"&gt;Kees van Dongen&lt;/span&gt; for his &lt;i&gt;Galerie Kahnweiler&lt;/i&gt; (he was also a close personal friend of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Matisse&lt;/span&gt; but his work commanded prices that were out of Kahnweiler's reach). A second ex-patriot living in Paris, Wilhelm Uhde, told Kahnweiler of a painting that had left him shocked. On his friend's advice, Kahnweiler visited Picasso's studio where he became mesmerized by &lt;i&gt;Les Demoiselles d'Avignon&lt;/i&gt; (as it was named later).Though initially reluctant to sell, Picasso was won over by the German's genuine enthusiasm for his work and Kahnweiler would duly became the principle dealer for the Cubists, handling works by Picasso, Braque, Leger and Gris.</p>
+          <p type="p">In 1914 Kahnweiler, who had till now naively refused to accept that France and Germany could possibly go to war, found himself an "official" enemy of France. His gallery was seized by the French state and the German fled with his family to Switzerland. On returning to Paris after the war he was forced to stand by and watch as the French state auctioned off his inventory as "war booty" with hungry dealers buying up the works at bargain prices (Braque had become so incensed at this travesty he actually attacked one of the unscrupulous dealers in the auction room). Kahnweiler would open a new galley (under a sponsors name), and he took on French citizenship but, being of Jewish ancestry, he had to flee the capital once more with the onset of the Nazi occupation. In the intervening years, however, Kahnweiler had delivered what would be his lasting gift to the Cubist movement: &lt;i&gt;The Rise of Cubism&lt;/i&gt; (1920), a book which set the template for the movement's theory and practice. Indeed, &lt;i&gt;The Rise of Cubism&lt;/i&gt; became a source book for the development of Modern art history and had a profound impact on the seminal text, &lt;i&gt;Cubism and Abstract Art&lt;/i&gt; (1936), by the art historian, and first director of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-museum_of_modern_art"&gt;Museum of Modern Art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barr_alfred"&gt;Alfred Barr&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Trends">
+        <subsection title="Attributes">
+          <p type="img" alt="In Braque's &lt;i&gt;Man with a Guitar Céret&lt;/i&gt;, (1911-1912) various real details - six lines, a round circle, and a musical scroll - make the subject recognizable." show="1">/images20/photo/photo_analytic_cubism_5.jpg</p>
+          <p type="p">Analytic Cubism obscures, or hides, the subject of the work within the boundaries of a canvas that only reveals its origins by means of fragments or small clues. Picasso called these clues "attributes"; those being (in Picasso's words), "the few points of reference designed to bring one back to virtual reality [and which are] recognizable to anyone". Kahnweiler preferred the term "real details" to describe fragments of pipes, bottles, guitar strings and so on, that allowed the viewer to "construct the finished object in [their own] mind" and from whence he or she might then come to appreciate "an intensity of which no illusionistic art is capable". "Attributes", or "real details", would, from around 1911, even accommodate lettering. As art historian Jack Flam observed, "The appearance or words in Cubist paintings introduced passages of relative clarity into imagery that was [otherwise] often difficult to make out".</p>
+        </subsection>
+        <subsection title="Synecdoche and Metonymy">
+          <p type="p">A synecdoche is a literary or visual device in which a letter, a word or a part description represents the bigger whole: "glasses" are spectacles and "wheels" may be used to describe one's whole car, for instance. A metonymy (which will often overlap with symbolism) is similar to Synecdoche but in this case a written or pictorial abbreviation does not belong directly to the thing it stands in for: for example "the Oval Office is busy" (the "Oval Office" standing in for the people who work in it) or "let me lend a hand" (meaning "let me help"). The idea of the synecdoche and metonymy sat well with the goals of Analytic Cubism because it insisted that the viewer must engage with the artwork at a cognitive level if they are to make sense of it as a whole.</p>
+          <p type="p">Sometimes a synecdoche was employed at a personal, playful, level as, for instance, by Picasso in his &lt;i&gt;Violin, Wineglass, Pipe and Anchor&lt;/i&gt; (1912). At the top of the canvas, the artist paints a "W" and "BO" which act as a synecdoche for "WILBROURG", a nickname given to Braque by Picasso (Braque would sometimes even sign his name as "Wilberg"). The nickname "WILBROURG" was in fact a synecdoche in its own right since it referred to the pioneer of aviation, Wilbur Wright. The lettering offered confirmation of the fact that the two painters would often playfully call themselves the Wright Brothers after the famous aviators. Just below the "W" and "BO", meanwhile, Picasso paints "MA JO[LIE]" which, as an indirect reference, functions as a metonym that represents his nickname for his girlfriend "Eva" and also a popular hall room song.</p>
+        </subsection>
+        <subsection title="The Pun">
+          <p type="p">
+						In the same vein as the synecdoche and the metonym, Picasso explored the idea of the pun. A pun is a jest that exploits potential misunderstandings between words that are alike but have different meanings. &lt;i&gt;In The Scallop Shell: (Notre Avenir est dans l'Air)&lt;/i&gt; (1912), for instance, Picasso represents a café scene - scallop shells, a wineglass, a pipe tobacco, the corner of an aviation journal - from a visit with Braque to the coastal town of Le Havre (Braque's birthplace). On the right of the image, however, Picasso has painted the letters "JOU" (he had used these letters previously in other image combinations too). "JOU" is a slang abbreviation that could derive from any of the following: 
+						&lt;br/&gt;
+						Jou(ailler): to play a musical instrument badly
+						&lt;br/&gt;
+						Jou(asse): the initial rush of taking drugs
+						&lt;br/&gt;
+						Jou(er): to act the fool
+						&lt;br/&gt;
+						Jou(eur): a participant in a game
+						&lt;br/&gt;
+						Jou(jou): a plaything (toy) 
+						&lt;br/&gt;
+						Jou(issance): reach orgasm (to come)
+						&lt;br/&gt;
+						Referring to Picasso's use of the pun, art historian Francis Frascina noted "we see evidence of a sign system which undermines existing expectations of stable meaning" suggesting, in other words, that the onus is on the viewer of the work to make their own sense of these puns. Indeed, recognizing a pun, and then trying to guess at the artist's intention, was in effect just one more means of prompting an act of analytic cognition from their viewer.
+					</p>
+        </subsection>
+        <subsection title="Color and the Salon Cubists">
+          <p type="img" alt="Jean Metzinger's &lt;i&gt;Deux Nus&lt;/i&gt; (&lt;i&gt;Two Nudes&lt;/i&gt;) (1910-1911) was shown at the 1911 Salon des Indépendants." show="1">/images20/photo/photo_analytic_cubism_6.jpg</p>
+          <p type="p">The Salon Cubists - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gleizes_albert"&gt;Albert Gleizes&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_fauconnier_henri"&gt;Henri Le Fauconnier&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt; - earned their name due to their numerous exhibitions at Paris Salons. However, following Kahnweiler's &lt;i&gt;Rise of Cubism&lt;/i&gt;, which identified Picasso and Braque as the rightful fathers of Cubism, the works of the Salon Cubists were relegated to a secondary position by critics (though their output has been reassessed with art historians such as Christopher Green suggesting that the demotion the group to a "satellite role" has proven to be a "profound mistake").</p>
+          <p type="p">In 1911 the group exhibition in Salle 41 at the Salon des Indépendants (in what became known as the "Cubist room") proved a roaring success and launched Cubism on the international stage. In the following year, Metzinger and Gleizes published &lt;i&gt;Du Cubisme&lt;/i&gt;, the first theoretical paper and aesthetic defence of Cubism through which they advocated the analytic method of "moving around the object" in order to create a "total image" in the mind of the viewer. However, while Picasso, Braque and the Salon Cubists were united in their preference for multiple picture planes and facets, the Salon Cubists chafed at the restrictive palette (the "muddy colors" as they called them) and duly employed a more expansive range of colors.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">By 1912, Braque and Picasso had instigated the new phase of Synthetic Cubism as they lessened, or rather "de-emphasized", the fragmentation of the image while incorporating real materials, such as oilcloth or rope into their artworks. Yet, at different points in their careers, both men would continue painting works informed by the principles of Analytic Cubism. The Salon Cubists also evolved: Delaunay launched &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt; emphasizing bright, fractured shapes; Leger created his distinctive cylindrical forms dubbed Tubism; while Metzinger, Gleizes, and others created pure abstract works that emphasized the flat pictorial plane.</p>
+          <p type="img" alt="Left unfinished, Pablo Picasso's &lt;i&gt;Girl with a Mandolin (Fanny Tellier)&lt;/i&gt; (1910) is a transitional work between early Cubism and Analytic Cubism." show="1">/images20/photo/photo_analytic_cubism_7.jpg</p>
+          <p type="p">For its part, the fractured forms and planes of Analytic Cubism put in place many of the foundations of twentieth-century modernism. It directly influenced the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-italian_futurism"&gt;Italian Futurism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt; and, later, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-purism"&gt;Purism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;de Stijl&lt;/span&gt;, and informed innovations in sculpture and the architecture of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt;. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg's&lt;/span&gt; &lt;i&gt;Decline of Cubism&lt;/i&gt; (1948) emerged a key text in acknowledged the historical importance of the whole history of the Cubist movement. As he said, "Cubism is still the only vital style of our time, the one best able to convey contemporary feeling, and the only one capable of supporting a tradition which will survive into the future and form new artists". The fractured, multi-dimensional, feature of Cubism - which reached its apex in the near abstract Analytic phase - also informed on other arts, notably in the films of Sergei M. Eisenstein and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt; and the writings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_gertrude"&gt;Gertrude Stein&lt;/span&gt;, Blaise Cendars, and William Faulkner.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Violin and Palette</title>
+      <use_big_image>true</use_big_image>
+      <artist>Georges Braque</artist>
+      <year>1909</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Art critic Roberta Smith observed that Braque's contribution to Cubism can be traced back to "his early training in his father's trade [...] which included sign painting and the painting of imitation wood and marble". His "apprenticeship" was, according to Smith, "clearly the basis for his interest in what he called the 'tactile' or 'manual' space of a painting". For his part, Braque explained that "When fragmented objects appeared in my painting around 1909 [as they do here] it was a way for me to get as close as possible to the object as painting allowed". 
+				&lt;br/&gt;&lt;br/&gt;
+				In what can be cited as a prototype of Analytic Cubism, Braque paints multiple picture planes in order to fracture and distort images of a violin, a palette, and sheet music. The arrangement of the objects emphasizes the canvas's vertical axis, while the limited color palette stresses (rather than distracts from) the overlapping forms, creating a density that seems somehow tactile. Braque would further emphasize the breaking down of the subject in this way it works such as &lt;i&gt;Piano and Mandola&lt;/i&gt; (1909-10) which was described by art historian Jan Avgikos as, "an otherwise energized composition of exploding crystalline forms". 
+				&lt;br/&gt;&lt;br/&gt;
+				According to art historian Francis Frascina, Braque and Picasso's still lifes become "more difficult to decipher without knowledge of the systematic [language] that the artists appear to be using [and for] many Modernists, the works are on the 'threshold' of a formal development to abstraction", even though the artists themselves were seeking a "realistic orientation" through their work. We find clear evidence of this at the upper left of &lt;sup&gt;Violin and Palette&lt;/sup&gt;, where we notice that Braque has painted a &lt;i&gt;trompe-l'oeil&lt;/i&gt; nail, from which hangs the palette of the work's title. It is an illusionist technique that serves to illustrate the contrast between the nascent Analytical Cubism as measured against the traditions of single-perspective illusionism. 
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Daniel-Henry Kahnweiler</title>
+      <artist>Pablo Picasso</artist>
+      <year>1910</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Broken down into planes and facets, and rendered in a limited palette of gray, black, white, and brown, we can begin to put together an image of Picasso's sitter (the art dealer Daniel-Henry Kahnweiler). The viewer can discern his clasped hands at the bottom of the frame, the knot of his tie, and the almost geometric intersection of the bridge of the nose with the eyebrows. Due to the intricacy of the overlapping opaque and transparent planes and the limited color palette the central subject takes on a kind of density that dissolves at the edges into the abstract background. As art critic Jonathan Jones put it, the famous art dealer "haunts [the painting] like a shadow of himself, a nuclear ghost imprinted in space [...] It is not a picture of him. And yet he is fully there, his identity glimpsed with a strange warm intimacy through the shattered glass of the modernist age". 
+				&lt;br/&gt;&lt;br/&gt;
+				Jones said this work was "Revolutionary and discomforting" and a masterpiece that brought on "a comprehensive dismantling of traditional portraiture" that was "intangible" and "indescribable". The difficulty in deciphering these near-abstract artworks, however, prompted several critics to refer to Analytic Cubism as a hermetic practice. This concept relates to the idea that the language of Analytic Cubism was so revolutionary it had no precedence in art history and was so airtight (so hermetic) it had to be learned from scratch. At the same time, what Picasso called "attributes," such as the wave of hair and the clasped hands (the more highly discernible aspects of the image), helped the viewer by anchoring the subject to reality giving her or him an initial point of reference; giving the viewer "something to build on", in other words. 
+			</desc>
+      <collection>The Art Institute of Chicago, Illinois</collection>
+    </artwork>
+    <artwork>
+      <title>Nus dans la forêt (Nudes in the Forest)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Fernand Léger</artist>
+      <year>1909-11</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Employing a somber palette of gray, white, grayish blue and green, this work is a complex and energetic layering of conic, cylindrical, and tubular planes. Léger described it in fact as a "battle of volumes" explaining that "I thought that I shouldn't give it any color. The volumes alone were enough". Though it is a landscape, which places it closer generically to the early phase of "Cézannian" Cubism, the painting is in keeping with the Analytic preference for a restricted color palette and a willingness to test the limits of figurative art. As if solving a picture puzzle, the trained eye eventually discerns the three nudes, one standing at the right and left and the other reclining on the ground in the center, and the resemblance of some tubular shapes to the trunks and roots of trees. 
+				&lt;br/&gt;&lt;br/&gt;
+				Léger's works take Cézanne's vision of a natural world composed of cones, spheres, or cylinders as the basis for a distinctive approach that also accommodates the mechanized forms of the modern world. Léger became associated with the Salon Cubists under whose auspices his idiosyncratic Analytic approach became a vital part of its aesthetic and theoretical explorations. As contemporary art critic Nechvatal put it, "Léger's early Cubist works are full of astonishing, automated, compulsive, and practically cinematic stutter effects". Léger subsequently developed his use of cylindrical and tubular shapes and a progressively bolder color palette to develop a signature style that became known as "Tubism". Nechvatal added, "his brand of Cubism evolved into an automaton-esque figurative style distinguished by his focus on cylindrical forms. These cylindrical android figures express a synchronization between human and machine that is most relevant today". 
+			</desc>
+      <collection>Kröller-Müller Museum, Otterlo, Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Banderillas</title>
+      <artist>Georges Braque</artist>
+      <year>1911</year>
+      <materials>Oil and charcoal with sand on canvas</materials>
+      <desc>
+				Braque painted this work in Céret, a village in the French Pyrenees, where he spent the summer of 1911 with Picasso. He recalled that during this period the two artists worked so closely together they often could not tell who had painted which work. Indeed, Braque later described how ''Picasso and I said things to one another that will never be said again [...] that no one will be able to understand". Given its subject matter - the complex intersection of multiple planes and angular shapes here evoke &lt;i&gt;banderillas&lt;/i&gt;, the spiked sticks used in bullfighting - one might be forgiven for thinking that this piece was in fact painted by the Spaniard Picasso. Braque, a Frenchman, was not a fan of bullfighting but it is thought that the painting was conceived by him as a tribute to his close companion. 
+				&lt;br/&gt;&lt;br/&gt;
+				Historically the work is most noteworthy, however, because of the introduction of lettering and sand. As Braque stated: "I started to introduce letters into my pictures [since being two-dimensional they] were forms which could not be deformed". Letters therefore exist "outside three-dimensional space [and] their inclusion in a picture allowed a distinction to be made between [three-dimensional] objects which were situated in space and those which belonged outside space". In addition to the text, Braque includes sand (thereby incorporating another reference to the tangible world) to create texture and to emphasize the fact that a painting is a two-dimensional &lt;i&gt;material&lt;/i&gt; object. As a result, this work can be classed as an early precursor of his and Picasso's move towards Synthetic Cubism which went much further in incorporating everyday materialist elements into their artworks. 
+				&lt;br/&gt;&lt;br/&gt;
+				The reluctance of the two men to let their works slip into pure-abstraction - to always declare in some way its links to a tangible reality - is not to suggest that their paintings were impersonal or lacked the element of intuition. It was in this aspect that the art historian Francis Frascina connects with the French philosopher Henri Bergson. According to Frascina, Bergson had had "an enormous cultural impact in France and beyond", promoting his ideas through prestigious public speaking events and through numerous books and articles. As Frascina noted: "Bergson's philosophy was profoundly anti-materialist and idealist. He claimed that 'reality' was that which 'we all seize from within,' that it is made up of each individual's experience and intuition of the world rather than external objectivity or 'simple analysis'". 
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>"Ma jolie"</title>
+      <artist>Pablo Picasso</artist>
+      <year>1911-12</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In its catalogue, the Museum of Modern Art in New York describes Picasso's painting as "A kind of stand-in for the woman who can barely be seen [and as such it is] one of the most complex, abstract, and esoteric images of its day". With its dark palette and its complex layering of multi-fractured planes, this work's analysis of pictorial space obscures its representational and anecdotal content. Only the density of the triangular forms in the center of the canvas, the six lines representing the guitar's strings, and the inclusion of a treble clef at the lower center, subtly suggest the subject of this deconstructed portrait. Indeed, the portrait is only made legible because of, in Frascina's words, "A narrow pyramidal 'scaffold' structure of the central figure [that] 'anchors' the faceted planes". At the bottom of the frame, meanwhile, the words, "Ma jolie", or "my pretty girl", reference both a refrain in a popular music hall song and the nickname of Picasso's lover, Marcelle Humbert. Yet the dark palette and aggressive fragmentation undercuts any sense of romantic or personal feeling, as the work becomes what Picasso called "a sum of destructions", a reference possibly to the move from Analytic to the more comprehensible Synthetic Cubism. 
+				&lt;br/&gt;&lt;br/&gt;
+				Veering once more towards abstraction, yet tethered tangentially to the representational, this work does indeed exemplify Picasso's "high" Analytic method. The famous art historian E. H. Gombrich had summed up the artist's goals when he wrote: Picasso "assumed that [the public] did not come to his pictures to receive elementary information. He invited them to share with him in this sophisticated game of building up the idea of a tangible solid object out of the few fragments on his canvas". He continued by saying that "artists of all periods have tried to put forward their solution of the essential paradox of painting, which is that it represents depth on a surface. Cubism was an attempt not to gloss over this paradox but rather to exploit for new effects". Yet coming as it did towards the end of a two year period of fervent creative endeavour, &lt;i&gt;"Ma jolie"&lt;/i&gt; represents the apotheosis of Analytic Cubism; that is representative of a stylistic high point from whence the move towards Synthetic Cubism was all-but necessitated in the name of seeking out "new effects".
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>La Femme au Cheval (Woman with Horse)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Jean Metzinger</artist>
+      <year>1911-12</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Metzinger's painting conforms to many of the stylistic preferences - multiple planes, volumetric, both rectilinear and curvilinear, forms - one would expect of an Analytic work. The nude herself is viewed both frontally and in profile while the horse is painted as if looking down from above. In the foreground, fragmented objects, including a vase and various fruits and plants are presented from multiple viewpoints too. But, as was typical amongst the Salon Cubists, color plays a stronger narrational role in this composition. Here for instance the brown shadows and luminosity of the figure and the warm grays of the horse bleed into the more subdued tones at the edges which evoke a forest setting. We even find dashes of luminous blue to represent the forest flowers. 
+				&lt;br/&gt;&lt;br/&gt;
+				Exhibited at both the Salon des Indépendants and Salon de la Section d'Or, this work was acclaimed by many, including Apollinaire, who subsequently included it in his only book &lt;i&gt;The Cubist Painters, Aesthetic Meditations&lt;/i&gt; (1913). Metzinger was also central in developing the theoretical foundations of Cubism; his idea of the "total image" grounding it in the multiple subjective visions of the viewer. This work later even played a small role in the development of 20th century science when, in 1932, the noted Danish physicist Niels Bohr purchased the painting seeing it as the artistic expression and inspiration for his theory of quantum mechanics. 
+			</desc>
+      <collection>Statens Museum for Kunst, Copenhagen</collection>
+    </artwork>
+    <artwork>
+      <title>Windows Open Simultaneously (First Part, Third Motif)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Robert Delaunay</artist>
+      <year>1912</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Delaunay was considered one of the leading Salon Cubists following his exhibition, with Metzinger, Gleizes, Léger and Le Fauconnier, at the Salon des Indépendants in 1911. Though it is easy to discern the influence of the Analytical model in his near abstract, multi-planed view of the Eifel Tower, it is as much about the seductiveness (anathema to Braque and Picasso) of color. In this work, overlapping luminous planes, refracting bright colors bring the work close to abstraction, though one can finally discern the Eiffel Tower fusing at the center of the canvas. The composition's implicit geometric grid, fragmented through facets of color varying in tones and translucency, takes on an energetic fluidity; almost as if looking through the viewfinder of a kaleidoscope. As art historian Gordon Hughes wrote, Delaunay's &lt;i&gt;Windows&lt;/i&gt; series demonstrates, "that vision, all appearances to the contrary, is precisely not like a window" while critic Bibiana Obler went further, suggesting that "Delaunay's paintings aim to incite awareness of the mediated processes of vision".
+				&lt;br/&gt;&lt;br/&gt;
+				Delaunay's emphasis upon vibrant color, and what he called the "simultaneity" of modern experience (whereby the eye is asked to process a multiplicity of colors and shapes), were innovative additions to the development of Cubism and helped widen its popularity with the general public. This work also points towards Delaunay's transition to full abstraction, later named Orphism. Delaunay's work proved highly influential and informed works by the likes of Franz Marc, Paul Klee, Auguste Macke, and many others. 
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>picasso_pablo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>braque_georges</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gris_juan</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>metzinger_jean</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>leger_fernand</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>delaunay_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gleizes_albert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Picasso and Braque's Cubist Experiment: "Like mountain climbers roped together"?</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ju1HsOAtN8c</link>
+          <info>
+						2012
+						&lt;br/&gt;
+						Lecture by conservators Claire Barry and Bart Devolde
+						&lt;br/&gt;
+						Santa Barbara Museum of Art
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque Symposium: The Different Facets of Analytic Cubism</title>
+          <link is_inline_video="true" inline_video_type="youtube">o9lkwGZN30E</link>
+          <info>
+						Lecture by Lisa Florman
+						&lt;br/&gt;
+						Santa Barbara Museum of Art
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque Symposium: Un-Self-Contained</title>
+          <link is_inline_video="true" inline_video_type="youtube">N3rzpzssQeU</link>
+          <info>
+						Lecture by Charles Palermo
+						&lt;br/&gt;
+						Santa Barbara Museum of Art
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cubism: The Collaboration of Picasso &amp; Braque 2014</title>
+          <link is_inline_video="true" inline_video_type="youtube">5N3s5jdUVFo</link>
+          <info>
+						Lecture by Leonard Lauder
+						&lt;br/&gt;
+						Aspen Institute
+					</info>
+        </entry>
+        <entry>
+          <title>Reasonable Cubism - Salon Cubists, Albert Gleizes Man on a Balcony</title>
+          <link is_inline_video="true" inline_video_type="youtube">QJh3DxGHlKs</link>
+          <info>
+						Lecture by Michael Taylor
+						&lt;br/&gt;
+						Philadelphia Museum of Art
+					</info>
+        </entry>
+        <entry>
+          <title>The Mona Lisa of Cubism Jean Metzinger Tea Time</title>
+          <link is_inline_video="true" inline_video_type="youtube">5aN9MriMKsE</link>
+          <info>
+						Lecture by Michael Taylor
+						&lt;br/&gt;
+						Philadelphia Museum of Art
+					</info>
+        </entry>
+        <entry>
+          <title>The Steins Collect: Matisse, Picasso, and the Parisian Avant-Garde 2012</title>
+          <link is_inline_video="true" inline_video_type="youtube">dmR-JjBqiLg</link>
+          <info>Lectures by Emily Braun, Wanda M. Corn, Edward M. Burns, Richard L. Feigen</info>
+        </entry>
+        <entry>
+          <title>The Cubist Cosmos - From Picasso to Léger / Kunstmuseum Basel</title>
+          <link is_inline_video="true" inline_video_type="youtube">bf6CP7z0ick</link>
+          <info>2019</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>The Story of Art</title>
+          <link>B01FOCMRIQ</link>
+          <info>By E. H. Gombrich</info>
+        </entry>
+        <entry recommended="true">
+          <title>Picasso and Braque: Pioneering Cubism</title>
+          <link>https://www.moma.org/documents/moma_press-release_327550.pdf</link>
+          <info>By William Rubin</info>
+        </entry>
+        <entry>
+          <title>Primitivism, Cubism, Abstraction: The Early Twentieth Century</title>
+          <link>0300055161</link>
+          <info>By Francis Frascina</info>
+        </entry>
+        <entry>
+          <title>Cubism and its histories (Critical Perspectives in Art History)</title>
+          <link>0719050049</link>
+          <info>By David Cottington</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cubism: The Leonard A. Lauder Collection</title>
+          <link>0300208073</link>
+          <info>By Jack Flam</info>
+        </entry>
+        <entry>
+          <title>Cubism (Art of Century)</title>
+          <link>1844847497</link>
+          <info>By Dorothea Elmert and Guillaume Apollinaire</info>
+        </entry>
+        <entry>
+          <title>Picasso's Paintings, Watercolors, Drawings and Sculpture. A Comprehensive Illustrated Catalogue, 1885 1973: Analytic Cubism, 1909-1912</title>
+          <link>1556603312</link>
+          <info>By The Picasso Project, Alan Hyman, and Pablo Picasso</info>
+        </entry>
+        <entry>
+          <title>The Cubist Painters (Documents of Twentieth-Century Art) Paperback</title>
+          <link>0520243544</link>
+          <info>By Guillaume Apollinaire and Peter Read</info>
+        </entry>
+        <entry>
+          <title>A Cubism Reader: Documents and Criticism, 1906-1914</title>
+          <link>0226021106</link>
+          <info>By Mark Antliff and Patricia Leighten</info>
+        </entry>
+        <entry>
+          <title>Important Modern Paintings. Tremaine Collection</title>
+          <link>B002NNO210</link>
+          <info>By Christie's</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>All about cubism</title>
+          <link>https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism</link>
+          <info>Tate</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cubism</title>
+          <link>https://www.metmuseum.org/toah/hd/cube/hd_cube.htm</link>
+          <info>
+						By Sabine Rewald
+						&lt;br&gt;
+						Metropolitan Museum of Art
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Georges Braque and Pablo Picasso</title>
+          <link>https://news.masterworksfineart.com/2017/07/11/georges-braque-and-pablo-picasso</link>
+          <info>
+						MFA Masterworks
+						&lt;br&gt;
+						July 11, 201
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>After him, who?</title>
+          <link>https://www.theguardian.com/artanddesign/2005/may/07/art1</link>
+          <info>
+						By Alex Danchev
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						May 7, 2005
+					</info>
+        </entry>
+        <entry>
+          <title>The Other Father of Cubism</title>
+          <link>https://www.nytimes.com/2011/10/14/arts/design/georges-braque-pioneer-of-modernism-review.html</link>
+          <info>
+						By Roberta Smith
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						October 13, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Is Braque Finally Coming Out of Picasso's Shadow?</title>
+          <link>https://news.artnet.com/exhibitions/is-braque-finally-coming-out-of-picassos-shadow-38488</link>
+          <info>
+						By Coline Milliard
+						&lt;br&gt;
+						ArtNet News
+						&lt;br&gt;
+						June 13, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Development Issues: Georges Braque at Acquavella Galleries</title>
+          <link>https://artcritical.com/2011/11/10/braque/</link>
+          <info>
+						By David Carrier
+						&lt;br&gt;
+						Artcritical
+						&lt;br&gt;
+						November 10, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso, Braque, and Early Film in Cubism</title>
+          <link>https://brooklynrail.org/2017/09/criticspage/Picasso-Braque-and-Early-Film-in-Cubism-September-2017</link>
+          <info>
+						By Bernice Rose
+						&lt;br&gt;
+						Brooklyn Rail
+						&lt;br&gt;
+						September, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>ART VIEW; JUAN GRIS: THE OTHER CUBIST</title>
+          <link>https://www.nytimes.com/1983/10/23/arts/art-view-juan-gris-the-other-cubist.html</link>
+          <info>
+						By John Russell
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						October 23, 1983
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Complete History of Cubism in One Blockbuster Exhibition</title>
+          <link>https://hyperallergic.com/478612/the-complete-history-of-cubism-in-one-blockbuster-exhibition/</link>
+          <info>
+						By Joseph Nechvatal
+						&lt;br&gt;
+						Hyperallergic
+						&lt;br&gt;
+						January 7, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Fernand Léger and the Rise of the Man-Machine</title>
+          <link>https://hyperallergic.com/391612/fernand-leger-centre-pompidou-metz/</link>
+          <info>
+						By Joseph Nechvatal
+						&lt;br&gt;
+						Hyperallergic
+						&lt;br&gt;
+						July 24, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Stealing beauty</title>
+          <link>https://www.theguardian.com/artanddesign/2006/mar/15/art</link>
+          <info>
+						By Andrew Meldrum
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						March 15, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Portrait of Ambroise Vollard, Picasso (1910)</title>
+          <link>https://www.theguardian.com/culture/2002/nov/30/art</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						November 30, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso Portraits review - tame exhibition sells his radical genius short</title>
+          <link>https://www.theguardian.com/artanddesign/2016/oct/04/picasso-portraits-review-national-portrait-gallery-london-exhibition</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						October 4, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Carl Einstein, Daniel Henry Kahnweiler, Cubism, and the Visual Brain</title>
+          <link>https://www.academia.edu/4981162/Carl_Einstein_Daniel-Henry_Kahnweiler_Cubism_and_the_Visual_Brain</link>
+          <info>
+						By Charles W. Haxthausen
+						&lt;br&gt;
+						Article, issue #2
+						&lt;br&gt;
+						June 12, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>A Review of Gordon Hughes's Resisting Abstraction: Robert Delaunay and Vision in the Face of Modernism 2014</title>
+          <link>http://www.caareviews.org/reviews/2741#.XjnkuhNKiYU</link>
+          <info>
+						By Bibiana Obler
+						&lt;br&gt;
+						February 16, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque, Brothers in Cubism</title>
+          <link>https://www.nytimes.com/1989/09/22/arts/picasso-and-braque-brothers-in-cubism.html</link>
+          <info>
+						By Michael Brenson
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						September 22, 1989
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>On "Cubism" in context</title>
+          <link>http://www.peterbrooke.org.uk/a&amp;r/Du%20Cubisme/contents</link>
+          <info>
+						By Peter Brooke
+					</info>
+        </entry>
+        <entry>
+          <title>Three wise men, two worlds, and one idea</title>
+          <link>https://www.independent.co.uk/arts-entertainment/three-wise-men-two-worlds-and-one-idea-1280320.html</link>
+          <info>
+						By Professor Arthur I. Miller
+						&lt;br&gt;
+						Independent
+						&lt;br&gt;
+						February 23, 1997
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

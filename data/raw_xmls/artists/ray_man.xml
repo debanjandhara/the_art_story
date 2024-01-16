@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>ray_man</id>
+    <name>Man Ray</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1915 - 1976</years>
+    <description>Man Ray is most remembered for his enigmatic Dada and Surrealist photographs, but has also created iconic paintings and sculptures.</description>
+    <barnebys_item>156</barnebys_item>
+    <use_big_images>false</use_big_images>
+    <highlight>5</highlight>
+    <occupation>Photographer, Sculptor, Painter, and Filmmaker</occupation>
+    <nationality>American</nationality>
+    <birthDate>August 27, 1890</birthDate>
+    <birthPlace>Philadelphia, Pennsylvania</birthPlace>
+    <deathDate>November 18, 1976</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <img_version>?2</img_version>
+    <art_type>Art</art_type>
+    <pub_time>1/21/2012</pub_time>
+    <big_bio_box_img>Man Ray in Paris (1934)</big_bio_box_img>
+    <bio_highlight>Keeping his upbringing and past a mystery, Man Ray thought of himself as a modern day "Thoureau breaking free of all ties and duties to society," an approach he expanded into the avant-garde art world, presenting himself as an "enigma," with an eye toward creating provocative art.</bio_highlight>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>cubism</include>
+    <include>dada</include>
+    <include>surrealism</include>
+    <include>dada_and_surrealist_photography</include>
+    <include>surrealist_sculpture</include>
+  </includes>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>dada</movement>
+    <movement>surrealism</movement>
+    <movement>dada_and_surrealist_photography</movement>
+    <movement>surrealist_sculpture</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>duchamp_marcel</artist>
+    <artist>picabia_francis</artist>
+    <artist>picasso_pablo</artist>
+    <artist>dali_salvador</artist>
+    <artist>miller_lee</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Nature does not create works of art. It is we, and the faculty of interpretation peculiar to the human mind, that see art."</q>
+    <q>"To create is divine, to reproduce is human."</q>
+    <q>"I paint what cannot be photographed, that which comes from the imagination or from dreams, or from an unconscious drive. I photograph the things that I do not wish to paint, the things which already have an existence."</q>
+    <q>"A camera alone does not make a picture. To make a picture you need a camera, a photographer and above all a subject. It is the subject that determines the interest of the photograph."</q>
+    <q>"A creator needs only one enthusiast to justify him."</q>
+    <q>"I would photograph an idea rather than an object, a dream rather than an idea."</q>
+    <q>"It has never been my object to record my dreams, just the determination to realize them."</q>
+    <q>"Don't put my name on it. These are simply documents I make."</q>
+    <q>"Regardless of the form in which it is ultimately presented, the object is intended to amuse, encourage, bore, be thought-provoking, but never to arouse admiration for the technical perfection usually called for by a work of art. I say, the world is full of extraordinary craftsmen, but there are only a few practical dreamers"</q>
+    <q author="Fashion Reporter Woody Hochswender">"Man Ray's work came out of an era when photographers painted with light. There is a stillness about his fashion photography ... His women never look into the camera. They seem to be in no particular space or place. They look chipped out of marble."</q>
+  </quotes>
+  <authors>
+    <author link="jung">Jin Jung</author>
+  </authors>
+  <article>
+    <synopsys>Man Ray's career is distinctive above all for the success he achieved in both the United States and Europe. First maturing in the center of American modernism in the 1910s, he made Paris his home in the 1920s and 1930s, and in the 1940s he crossed the Atlantic once again, spending periods in New York and Hollywood. His art spanned painting, sculpture, film, prints and poetry, and in his long career he worked in styles influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;. He also successfully navigated the worlds of commercial and fine art, and came to be a sought-after fashion photographer. He is perhaps most remembered for his photographs of the inter-war years, in particular the camera-less pictures he called 'Rayographs', but he always regarded himself first and foremost as a painter.</synopsys>
+    <key_ideas>
+      <idea>Although he matured as an abstract painter, Man Ray eventually disregarded the traditional superiority painting held over photography and happily moved between different forms. Dada and Surrealism were important in encouraging this attitude; they also persuaded him that the idea motivating a work of art was more important than the work of art itself.</idea>
+      <idea>For Man Ray, photography often operated in the gap between art and life. It was a means of documenting sculptures that never had an independent life outside the photograph, and it was a means of capturing the activities of his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; friends. His work as a commercial photographer encouraged him to create fine, carefully composed prints, but he would never aspire to be a fine art photographer in the manner of his early inspiration, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt;.</idea>
+      <idea>&lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt; once described Man Ray as a 'pre-Surrealist', something which accurately describes the artist's natural affinity for the style. Even before the movement had coalesced, in the mid 1920s, his work, influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, had Surrealist undertones, and he would continue to draw on the movement's ideas throughout his life. His work has ultimately been very important in popularizing Surrealism.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Man Ray was born as Emmanuel Radnitzky in 1890 to a Russian-Jewish immigrant family in Philadelphia. His tailor father and seamstress mother soon relocated the family to the Williamsburg neighborhood of Brooklyn, New York, where Ray spent most of his childhood. His family changed their surname to Ray due to the fear of anti-Semitism. His name evolved to Man Ray after shortening his nickname, Manny, to Man. He kept his family background secret for most of his career, though the influence of his parents' occupations is evident in many of his works.</p>
+          <p type="p">In high school, Ray learned freehand drawing, drafting and other basic techniques of architecture and engineering. He also excelled in his art class. Though he hated the special attention from his art teacher, he still frequented art museums and studied the works of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; on his own. Such self-motivation from the early age proved to be a solid grounding for the versatility he showed throughout his artistic career. Upon graduating from high school in 1908, he turned down a scholarship to study architecture, and began pursuing his career as an artist.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">In his studio at his parents' house, he worked hard towards becoming a painter while taking odd jobs as a commercial artist. He familiarized himself with the world of art by frequenting art galleries and museums in New York City and became attracted to contemporary avant-garde art from Europe. In 1912, he enrolled in the Ferrer School and began developing as a serious artist. While studying at this school that was founded by libertarian ideals, he met his first influential teachers and artists like Robert Henri, Samuel Halpert, Max Weber, and Adolf Wolff and was surrounded by those with anarchist ideas, which helped shape his own ideology.</p>
+          <p type="p">After briefly sharing a small studio in Manhattan with Adolf Wolff, Man Ray moved to an artist colony in New Jersey in the spring of 1913 just across the river from Manhattan. He shared a small shack with Samuel Halpert, who inspired Ray as a painter to develop ideas and techniques that would later become a foundation for his career. During this time, he frequented the 291 Gallery in New York City. Ray developed a close personal relationship with the gallery owner and photographer, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt;, who introduced Ray to the medium. Ray met a Belgian poet, Adon Lacroix (aka Donna Lecoeur) in New York, and they married in 1914. In 1915, Ray met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; who was visiting the colony with collector &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arensberg_walter"&gt;Walter Arensberg&lt;/span&gt; and they soon developed a lasting friendship. This new friendship helped define Ray's interest in the subject of movement and guided his focus to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;.</p>
+          <p type="p">In the early period of Ray's career, he painted in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; style. His first solo show at the Daniel Gallery in 1915 featured thirty paintings and a few drawings. The paintings were a mixture of semi-representational landscapes and abstract paintings of "Arrangements of Forms"; these abstract works showed his developing interest in analytical and cerebral method of working. By this time, he had more inventory of works in his studio than he could keep track of. He started photographing his paintings as documentation and experimenting with the camera as an artistic tool.</p>
+          <p type="p">With Duchamp, Ray made multiple attempts to promote Dada in New York. They founded the Society of Independent Artists in 1916 and published a single issue of &lt;i&gt;New York Dada&lt;/i&gt; in 1920. In the same year they founded the Société Anonyme, Inc. with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dreier_katherine"&gt;Katherine Dreier&lt;/span&gt;, a prominent art collector. Societe Anonyme was the first museum to devote itself to displaying and promoting modern art in America, preceding The Museum of Modern Art by nine years. However, due to the lack of public enthusiasm for Dada art in New York, and his failed marriage to his first wife, Ray was despondent. With encouragement from Duchamp, Ray moved to Paris in 1921.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Man Ray Photo" show="1">/images20/photo/ray_man_22.jpg</p>
+          <p type="p">Ray lived for the next 18 years in the Montparnasse where he met important thinkers and artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-joyce_james"&gt;James Joyce&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_gertrude"&gt;Gertrude Stein&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-artaud_antonin"&gt;Antonin Artaud&lt;/span&gt;. He also met a famous performer, Kiki of Montparnasse, who became his lover and frequent subject in his work for six years. His most influential works such as &lt;i&gt;Indestructible Object (or Object to Be Destroyed), Noire et Blanche (Black and White), Glass Tears,&lt;/i&gt; and most of his Rayographs, as well as his fashion photography for &lt;i&gt;Vogue&lt;/i&gt; and &lt;i&gt;Vanity Fair&lt;/i&gt; were produced during this time.</p>
+          <p type="p">In 1929 Man Ray hired &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miller_lee"&gt;Lee Miller&lt;/span&gt; as an artist assistant. She soon became his lover and the subject in his photographs for three years. Together, they reinvented 'solarization', a photographic process that records images on the negative reversing dark with light and vice versa.</p>
+          <p type="p">While trying to develop his photographs in the dark room, Ray accidentally discovered a technique called 'shadowgraph' or 'photogram', a process also known as camera-less photography using light sensitive paper. He dubbed this style 'Rayogram' or 'Rayograph'. He explored this technique for more than 40 years, in the process creating many of his most important works including two portfolio books entitled &lt;i&gt;Champs delicieux&lt;/i&gt; and &lt;i&gt;Electricite&lt;/i&gt;.</p>
+          <p type="img" alt="Ady Fidelin, Max Ernst, Leonora Carrington, Man Ray (1939) - photo by Lee Miller" show="1">/images20/photo/ray_man_2.jpg</p>
+          <p type="p">Though many of his famous works are in the field of photography, he worked in a variety of media, including painting, writing and film. Between 1923 and 1929 he directed multiple avant-garde short films and collaborated on films with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernard Léger&lt;/span&gt;. He also collaborated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eluard_paul"&gt;Paul Eluard&lt;/span&gt; to make the books &lt;i&gt;Facile&lt;/i&gt; and &lt;i&gt;Les Mains Libres&lt;/i&gt;.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="img" alt="Man Ray Portrait" show="0">/images20/photo/ray_man_3.jpg</p>
+          <p type="p">In 1940, Ray was forced to leave France because of the war, and moved to Los Angeles where he met his last wife, Juliet Browner. They married in 1946.</p>
+          <p type="p">In the fall of 1944, Ray had his first retrospective at the Pasadena Art Institute, showcasing his paintings, drawings, watercolors and photographs from his thirty-year span as an artist. He had a successful career as a photographer while in Hollywood, but he felt the city lacked stimulus and the kind of appreciation he desired. Even though he was back home in the U.S., Ray thought American critics could not understand him, believing his ability to go from one medium to another and his success in commercial photography confused them.</p>
+          <p type="p">Ray longed to go back to Montparnasse where he felt at home, eventually returning in 1951. Upon his arrival, he began writing his autobiography to explain himself to the people who he alleged misunderstood and misrepresented his work. The resulting &lt;i&gt;Self-Portrait&lt;/i&gt; was published in 1963.</p>
+          <p type="p">Right up until his death at the age of 86, he continued working on new paintings, photographs, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collages&lt;/span&gt; and art objects. He died of a lung infection in 1976.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Though often shadowed by his lifelong friend and collaborator, Marcel Duchamp, Man Ray played a major role in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; movements in America as well as in Europe. His multiple attempts to promote avant-garde art movements in New York widened the horizons of the American art scene. His serious yet quirky imagery has influenced a broad audience through different iterations of his work in pop culture. Many of his important works were donated to museums around the world through a trust set up by his wife before her death in 1991. Most importantly, his process-oriented art making and versatility have influenced a number of modern and contemporary artists, from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kosuth_joseph"&gt;Joseph Kosuth&lt;/span&gt;, who like Ray strove to continually blur the boundaries between artistic disciplines.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="duchamp_marcel">Fountain (1917)</artwork>
+    <artwork from="artist" page="dali_salvador">Great Masturbator (1929)</artwork>
+    <artwork from="artist" page="picabia_francis">Très rare tableau sur la terre (Very Rare Picture on the Earth) (1915)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>rodin_auguste</entity>
+        <entity>matisse_henri</entity>
+      </column>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>picabia_francis</entity>
+        <entity>picasso_pablo</entity>
+        <entity>dali_salvador</entity>
+        <entity>stieglitz_alfred</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>dada</entity>
+        <entity>surrealism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>brandt_bill</entity>
+        <entity>warhol_andy</entity>
+        <entity>moholy_nagy_laszlo</entity>
+        <entity>penn_irving</entity>
+        <entity>avedon_richard</entity>
+      </column>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>miller_lee</entity>
+        <entity>abbott_berenice</entity>
+      </column>
+      <column>
+        <entity>modern_photography</entity>
+        <entity>abstract_photography</entity>
+        <entity>pop_art</entity>
+        <entity>conceptual_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>L'Enigme d'Isidore Ducasse (The Enigma of Isidore Ducasse)</title>
+      <year>1920</year>
+      <materials>Object wrapped in felt and string</materials>
+      <desc>This early, assisted readymade (a found object slightly altered) was created a year before Man Ray left for France. Marcel Duchamp's influence and assistance are evident in this Dada object, in which a sewing machine is wrapped in an army blanket, and tied with a string. The title comes from French poet Isidore Ducasse (1846-70) and the imagery comes from a quote in his book &lt;i&gt;Les Chants de Maldoror&lt;/i&gt; (1869): 'Beautiful as the chance meeting, on a dissecting table, of a sewing machine and an umbrella'. Chance effects were important to the Dada artists, and the piece is very much in that spirit, but it also prefigures the Surrealists' interest in revealing the creative power of the unconscious. The original object was created and then dismantled after the photograph was taken. Ray did not reveal the 'enigma' under the felt and intended the photograph as a riddle for the viewers to solve with the title providing a hint.</desc>
+      <collection>National Gallery of Australia, Parkes (reconstructed in 1971)</collection>
+    </artwork>
+    <artwork>
+      <title>Le Cadeau (The Gift)</title>
+      <year>1921</year>
+      <materials>Iron and tacks</materials>
+      <desc>This piece was made in the afternoon on the opening day of Man Ray's first solo show in Paris. It was intended as a gift to the gallery owner, the poet Philippe Soupault, and Ray added it to the show at the last minute. But the object received much attention and disappeared at the end of the opening.
+			&lt;br/&gt;&lt;br/&gt;
+			Another assisted readymade, Ray took a simple utilitarian object, an iron, and made it evoke different qualities by attaching the tacks. Hence the tacks, which cling and hold, contrast with the iron, which is meant to smoothly glide, and both are rendered useless.
+			</desc>
+      <collection>The Museum of Modern Art, New York (replica of the lost original)</collection>
+    </artwork>
+    <artwork>
+      <title>Rayography (The Kiss)</title>
+      <year>1922</year>
+      <materials>Gelatin silver print (photogram)</materials>
+      <desc>
+				This is one of Man Ray's earliest Rayograms, a process by which objects are laid directly on to a photo-sensitive paper then exposed to light. To create this particular picture, he transferred the silhouette of a pair of hands to the photographic paper then repeated the procedure with a pair of heads (his and his then lover's, Kiki de Montparnasse).
+				&lt;br/&gt;&lt;br/&gt;			
+				Rayograms gave Man Ray an opportunity to be in direct contact with his work and react to his creations immediately by adding one layer upon the next layer. He used inanimate objects as well as his own body to create his earlier pictures, and the pictures sometimes have an autobiographical quality, with many of his photographs portraying his lovers.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Objet à détruire (Object to be Destroyed)</title>
+      <year>1923</year>
+      <materials>Metronome with cutout photograph of eye on pendulum</materials>
+      <desc>The piece was first intended as a silent witness in Ray's studio - watching him paint. He had the original idea that "a painter needs an audience, so I also clipped a photo of an eye to the metronome's swinging arm to create the illusion of being watched as I painted." Thus the sculpture served as a silent and constant observer of the artist working.
+	  
+	  		&lt;br/&gt;&lt;br/&gt;
+			
+	  In the second, 1932 version, Ray substituted the eye of the photographer Lee Miller, his former lover, after she left him and married a successful Egyptian businessman. He wanted to attack Miller by "breaking her up" in his works that feature her, and thus this second version was accompanied by the following instructions: "Cut out the eye from a photograph of one who has been loved but is seen no more. Attach the eye to the pendulum of a metronome and regulate the weight to suit the tempo desired. Keep going to the limit of endurance. With a hammer well-aimed, try to destroy the whole at a single blow." It was later reconstructed, made into multiples, and renamed &lt;i&gt;Indestructible Object&lt;/i&gt;.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Le Violon d'Ingres (The Violin of Ingres)</title>
+      <year>1924</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Inspired by Jean-Auguste-Dominique Ingres's &lt;i&gt;La Grande Baigneuse&lt;/i&gt;, Ray used Kiki de Montparnasse wearing a turban as a model for this piece. He transformed the female body into a musical instrument by painting sound-holes on her back, playing with the idea of objectification of an animate body. Throughout his career Man Ray was fascinated with juxtaposing an object with a female body. 
+				&lt;br/&gt;&lt;br/&gt;
+				Ingres's works were admired by many surrealist artists, including Ray, for his representation of distorted female figures. Ingres's well-known passion for the violin created the colloquialism in French, &lt;i&gt;'violon d'Ingres'&lt;/i&gt;, meaning a hobby. Many describe &lt;i&gt;Le Violon d'Ingres&lt;/i&gt; as a visual pun, depicting his muse, Kiki, as Ray's &lt;i&gt;'violon d'Ingres.'&lt;/i&gt; 
+				&lt;br/&gt;&lt;br/&gt;	
+				This image is one of many of Man Ray's photographs that have gone on to have a rich afterlife in popular culture. F-holes have become a popular tattoo design amongst musicians, and fashion designers like Viktor and Rolf referenced the image to create their spring 2008 collection. 
+			</desc>
+      <collection>J. Paul Getty Museum, Los Angeles</collection>
+    </artwork>
+    <artwork>
+      <title>Noire et Blanche (Black and White)</title>
+      <year>1926</year>
+      <materials>Gelatin silver print</materials>
+      <desc>This photograph of Kiki de Montparnasse's head next to an African ceremonial mask bears a title that references both the black and white process of photography as well as skin color. It was created at a time when African art and culture was much in vogue. The oval faces of the two almost look identical in their serene expressions, but he contrasts her soft pale face with the shiny black mask. He simplifies the conflict of society into a problem of lighting and imagery in aesthetics - one oval next to another oval; one laying on its side contrasted with another that is erect; one lit from above and the other from the side.</desc>
+      <collection>J. Paul Getty Museum, Los Angeles</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Les Larmes (Glass Tears)</title>
+      <year>1932</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Looking almost like a film still, this cropped photograph demonstrates Man Ray's interest in cinematic narrative. The model's eyes and mascara-coated lashes are looking upward, invoking the viewers to wonder where she's looking and what is the source of her distress. The piece was created soon after the artist's break-up with his assistant and lover, Lee Miller. Ray created multiple works in an attempt to "break her up" as a revenge on a lover who left him (similar to &lt;i&gt;Indestructible Object&lt;/i&gt;).
+			</desc>
+      <collection>J. Paul Getty Museum, Los Angeles</collection>
+    </artwork>
+    <artwork>
+      <title>A l'heure de l'observatoire: Les Amoureux (Observatory Time: The Lovers)</title>
+      <year>1936</year>
+      <materials />
+      <desc>One of Man Ray's most memorable paintings, &lt;i&gt;Observatory Time&lt;/i&gt;, is featured in this black-and-white photograph, along with a nude. It includes a depiction of the lips of his departed lover, Lee Miller, floating in the sky above the Paris Observatory. In the photograph, the nude is lying on her side on a sofa underneath the painting, with a chessboard at her feet. &lt;i&gt;Observatory Time&lt;/i&gt; hints at what the woman might be dreaming: a nightmare or an erotic fantasy. The lips in the picture were an inspiration for the logo of &lt;i&gt;The Rocky Horror Picture Show&lt;/i&gt;, and many other pop culture iconic images. The chessboard appears in many of the artist's works - Duchamp, Picabia and Man Ray all loved playing chess. And Man Ray considered a grid of squares, "the basis for all art... it helps you to understand the structure, to master a sense of order." He also made chess set designs and photographs of chessboards, pieces and players.</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Man Ray: American Artist</title>
+          <link>030681014X</link>
+          <info>By Neil Baldwin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Man Ray</title>
+          <link>8857209741</link>
+          <info>By Guido Comis, Marco Franciolli</info>
+        </entry>
+        <entry>
+          <title>Man Ray/Lee Miller: Partners in Surrealism</title>
+          <link>1858945577</link>
+          <info>By Phillip Prodger</info>
+        </entry>
+        <entry>
+          <title>Man Ray in Paris</title>
+          <link>1606060600</link>
+          <info>By Erin C. Garcia</info>
+        </entry>
+        <entry>
+          <title>Man Ray, African Art, and the Modernist Lens</title>
+          <link>081667017X</link>
+          <info>By Wendy A. Grossman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="autobiography" class="biography">
+        <entry>
+          <title>Self Portrait: Man Ray</title>
+          <link>0821224743</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="selected books by artist" class="written-by">
+        <entry recommended="true">
+          <title>Man Ray: La Photographie N'Est Pas L'Art</title>
+          <link>3902675306</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>In Focus: Man Ray: Photographs From the J. Paul Getty Museum</title>
+          <link>0892365110</link>
+          <info>By Katherine Ware</info>
+        </entry>
+        <entry>
+          <title>Man Ray: Unconcerned But Not Indifferent</title>
+          <link>8496466809</link>
+          <info>By John P. Jacob</info>
+        </entry>
+        <entry recommended="true">
+          <title>Photographs by Man Ray: 105 Works, 1920-1934</title>
+          <link>0486238423</link>
+          <info>By Man Ray</info>
+        </entry>
+        <entry recommended="true">
+          <title>Man Ray: Portraits. Hollywood-Paris-Hollywood</title>
+          <link>3829605404</link>
+          <info>By Clement Cheroux</info>
+        </entry>
+        <entry>
+          <title>Man Ray: Photography and Its Double</title>
+          <link>3927258660</link>
+          <info>By Alain Sayag, Emmanuelle De I'Ecotais</info>
+        </entry>
+        <entry>
+          <title>Man Ray: Women</title>
+          <link>8889431326</link>
+          <info>By Valerio Deho</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>The Man Ray Trust</title>
+          <link>http://www.manraytrust.com/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>ICP 1998 Man Ray Exhibit website</title>
+          <link>https://www.icp.org/browse/archive/constituents/man-ray?all/all/all/all/0</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Photo Library of Man Ray's work</title>
+          <link>http://www.manray-photo.com/catalog/index.php</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Letters and Writings By or Addressed to the Artist</title>
+          <link>http://library.getty.edu/cgi-bin/Pwebrecon.cgi?BBID=367488</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Mercurial Jester, Revealing and Concealing</title>
+          <link>http://www.nytimes.com/2009/11/20/arts/design/20ray.html?_r=2</link>
+          <info>
+						By Karen Rosenberg
+						&lt;br/&gt;
+					The New York Times
+					&lt;br/&gt;
+					November 19, 2009					
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Getty Acquires Man Ray Archive</title>
+          <link>https://www.artinamericamagazine.com/news-features/news/getty-acquires-man-ray-archive/</link>
+          <info>
+						By Stephanie Cash
+						&lt;br/&gt;
+					Art in America
+					&lt;br/&gt;
+					December 15, 2011				
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art Review; Emmanuel Radnitsky, Before He Was Man Ray</title>
+          <link>http://www.nytimes.com/2003/03/07/arts/art-review-emmanuel-radnitzky-before-he-was-man-ray.html?src=pm</link>
+          <info>
+						By Grace Glueck
+						&lt;br/&gt;
+					The New York Times
+					&lt;br/&gt;
+					March 7, 2003				
+					</info>
+        </entry>
+        <entry>
+          <title>Art in Review; Marcel Duchamp/Man Ray</title>
+          <link>http://www.nytimes.com/2000/02/18/arts/art-in-review-marcel-duchamp-man-ray.html?src=pm</link>
+          <info>
+						By Ken Johnson
+						&lt;br/&gt;
+					The New York Times
+					&lt;br/&gt;
+					February 18, 2000			
+					</info>
+        </entry>
+        <entry>
+          <title>Man Ray Without The Secrets</title>
+          <link>http://www.nytimes.com/1998/05/14/arts/man-ray-without-the-secrets.html?src=pm</link>
+          <info>
+						By Alan Riding
+						&lt;br/&gt;
+					The New York Times
+					&lt;br/&gt;
+					May 14, 1998			
+					</info>
+        </entry>
+        <entry>
+          <title>Review/Art; Man Ray's Beginnings</title>
+          <link>http://www.nytimes.com/1989/01/06/arts/review-art-man-ray-s-beginnings.html?src=pm</link>
+          <info>
+						By Michael Kimmelman
+						&lt;br/&gt;
+					The New York Times
+					&lt;br/&gt;
+					January 6, 1989			
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="interviews" class="transcripts">
+        <entry>
+          <title>Man Ray interview</title>
+          <link>http://www.archive.org/details/AlliesAtTheCoast</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="multimedia" class="clips">
+        <entry recommended="true">
+          <title>A video explaining his process "Rayograph" by MoMA's curator</title>
+          <link>http://www.moma.org/explore/multimedia/audios/29/735</link>
+          <info>MoMA Multimedia</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Photographer Man Ray - A Film by Jean-Paul Fargier (1932)</title>
+          <link>https://www.youtube.com/watch?v=s8gJJaUuWco</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>"Crimes against Photography": Man Ray and the Rayograph</title>
+          <link>https://www.youtube.com/watch?v=2umyxWJslJY</link>
+          <info>
+				Overview of the artist - an animated story
+		  </info>
+        </entry>
+        <entry recommended="true">
+          <title>The Adventure of Photography - The Surrealists</title>
+          <link>https://www.youtube.com/watch?v=aSKHW-7FssY</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Les Mystères du Château du Dé (1929)</title>
+          <link>https://www.youtube.com/watch?v=V6bSygUuU9o</link>
+          <info>
+				The Mysteries of the Chateau of Dice is a 1929 film directed by Man Ray
+		  </info>
+        </entry>
+        <entry>
+          <title>Retour a la raison (1923)</title>
+          <link>http://www.youtube.com/watch?v=3nrGKWMaX-4</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="tv documentary" class="clips">
+        <entry recommended="true">
+          <title>PBS American Masters: "Prophet of the Avant-Garde"</title>
+          <link>http://www.pbs.org/wnet/americanmasters/episodes/man-ray/prophet-of-the-avant-garde/510/</link>
+          <info>September 17, 2005</info>
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Character called "Man Ray" in SpongeBob SquarePants</title>
+          <link>http://spongebob.wikia.com/wiki/Man_Ray</link>
+          <info />
+        </entry>
+        <entry>
+          <title>"Lips (Heure de l'Observatoire)" was the inspiration for the logo of The Rocky Horror Picture Show</title>
+          <link>http://www.imdb.com/media/rm618110720/tt0073629</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

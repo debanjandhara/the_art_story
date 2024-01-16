@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>gericault_theodore</id>
+    <name>Théodore Géricault</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1808 - 1824</years>
+    <description>Gericault's radical subjects, fusion of classical forms, and attraction to the sublime and the horrific make him an important Romantic artist.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>5</highlight>
+    <nationality>French</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>September 26, 1791</birthDate>
+    <birthPlace>Rouen, France</birthPlace>
+    <deathDate>January 26, 1824</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <pub_time>9/16/2017</pub_time>
+  </main>
+  <includes>
+    <include>romanticism</include>
+    <include>naturalism</include>
+    <include>the_sublime_in_art</include>
+  </includes>
+  <similar_movements>
+    <movement>romanticism</movement>
+    <movement>naturalism</movement>
+    <movement>the_sublime_in_art</movement>
+    <movement>neoclassicism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>daumier_honore</artist>
+    <artist>delacroix_eugene</artist>
+    <artist>constable_john</artist>
+    <artist>aivazovsky_ivan</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"The truly gifted individual does not fear obstacles, because he knows that he can surmount them; indeed they often are an additional asset; the fever they are able to excite in his soul is not lost; it even often becomes the cause of the most astonishing productions."</q>
+    <q>"Now I wanted and get constantly lost. It is in vain that I seek to hold on to something; nothing is solid, everything escapes me, everything deceives me. Our hopes and our remains are, down here, only vain chimeras, and our successes mere ghosts that we think we have grasped. If there is something certain for us on earth, it is our sufferings. Suffering is real, pleasures are only imaginary."</q>
+    <q>"With the brush we merely tint, while the imagination alone produces color."</q>
+    <q>"Is it not dangerous to have students study together for years, copying the same models and approximately the same path?"</q>
+  </quotes>
+  <authors>
+    <author link="di_palma">Jessica DiPalma</author>
+  </authors>
+  <article>
+    <synopsys>Géricault's short career had a huge impact on the history of modern art and the evolution of French 19&lt;sup&gt;th&lt;/sup&gt; century painting in particular. His radical choice of subjects taken from contemporary life, his fusion of classical forms with an atmospheric, painterly style, his passion for horses, his attraction to sublime and horrific subjects, and his compassion for the weak and vulnerable in society make him a singularly complex artist, but one who helped set the path for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romanticism's&lt;/span&gt; emphasis on emotion and subjectivity. His most famous work, &lt;i&gt;The Raft of the Medusa&lt;/i&gt;, was a watershed moment in the history of modern art, as it married the immediacy of current events and an eyewitness sensibility with the traditional, monumental format of a grand Salon painting. Much of Gericault's work relied on keen observation, social awareness and at times a politically engaged view of the world around him. Indeed, a unique combination of realism and raw emotion can be seen in many of his works, including the late series of monomaniacs and his earlier "portraits" of guillotined heads.</synopsys>
+    <key_ideas>
+      <idea>Gericault's art was utterly contemporary in its attention to current events and the realities of the human condition. He depicted dramatic scenes from real life on a monumental scale and found inspiration as a draughtsman in the most humble subjects. This can be seen in his colossal canvas, &lt;i&gt;The Raft of the Medusa&lt;/i&gt;, his lithographs of London's poor and his late portraits of the criminally insane.</idea>
+      <idea>Though he absorbed the lessons of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt; was particularly important - Géricault's use of brisk, energetic brushstrokes and contrasting light effects created atmospheric scenes which broke free from the refined &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Néoclassical&lt;/span&gt; style of painting.</idea>
+      <idea>Much of Gericault's art typifies what we now think of as Romantic, with its attention to the exotic, the emotional, and the sublime. This can be seen in part as a reaction to the earlier Neoclassicism of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;David&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Ingres&lt;/span&gt;, which embodied Enlightenment values of order and reason. With Gericault, the individual artist's subjective, emotional response is what counts, a concept that would carry forward into the 20&lt;sup&gt;th&lt;/sup&gt; century.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Jean-Louis-André-Théodore Géricault was the only child of wealthy, conservative parents. His father was a lawyer and his mother's family were tobacco growers. When he was four his family moved to Paris, which allowed Géricault to be educated in the most prestigious schools. At age fifteen, his drawing talent was recognized and he began to seriously study art.</p>
+          <p type="p">Géricault's early years were not without loss. His mother died in 1808, even before he graduated from secondary school. The death of his grandmother four years later resulted in his being left a significant annuity that would allow him to live comfortably and gave him the independence to pursue his art without any financial worries.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Géricault painted many horses, and later, he is to have said of his tutor Vernet: 'a single one of my horses would have devoured six of his'" show="1">/images20/photo/photo_gericault_theodore_111aa.jpg</p>
+          <p type="p">Géricault was fortunate to have trained with Pierre Bouillon and Carle Vernet before joining the École des Beaux-Arts, where he studied under Pierre-Narcisse Guérin. To avoid his son being conscripted into the army, in 1812 Géricault's father paid for a man to go into military service in his son's stead. This postponement of duty allowed the young artist time to create his painting &lt;i&gt;Charging Chasseur&lt;/i&gt; (1812), which brought him both recognition and an award when presented at the Salon of 1812.</p>
+          <p type="p">Though Géricault was serious in his studies, he often tried to escape the studio to draw horses (a great passion of his). He was eventually expelled from Guérin's studio after an innocent fight with other students, during which he threw a pail of water that accidentally fell on his teacher's head.</p>
+          <p type="p">In 1814 Géricault joined the Third Brigade of the First Company of the Royal Musketeers and served for a year. The prestige and romance associated with this position must have appealed to the artist, who was generally recognized as stylish, handsome and self-aware. He was even known to use paper curlers to make his naturally straight hair more fashionably wavy, though he kept this a secret.</p>
+          <p type="p">As with many young artists of this period, Géricault competed for the coveted Prix de Rome, which included a paid study period in Italy. Though he failed to win the prize, he decided to travel to Italy on his own. While there he discovered the art of Michelangelo and the Baroque, both of which would have a profound influence on his own work, both in his figural representations and his dramatic use of light and dark. The trip also offered him a means of avoiding the complications of an affair he was having with his uncle's young wife.</p>
+          <p type="p">While in Italy Géricault made it his aim to study the great masters, adopting a strict and serious program for himself. He outlined his goals thus: "To draw and paint after the great Old Masters. - Read and compose - Anatomy. Antiques - Music - Italian. [...] Concern myself only with the style of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; and compose, without going out and always alone." Nonetheless, he was also fascinated with everyday life in Italy, and followed accounts of Italian bandits, outlaws and peasants, all of which inspired some of his best works of the period. Gericault slowly began to move away from the traditional classical themes that were popular in French artmaking at the time and to adopt a more modern approach to painting that involved creating dramatic, compositionally complex narratives with a heightened use of color and light. This marks the beginning of the movement known as Romanticism, of which Géricault was an important early member.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Gericault's Romanticism was in full swing when he returned to Paris in 1817, as can be seen in his large-scale landscape paintings depicting the times of the day, &lt;i&gt;Morning&lt;/i&gt;, &lt;i&gt;Noon&lt;/i&gt;, and &lt;i&gt;Evening&lt;/i&gt;, all completed in 1818. These works were commissioned by his uncle - the same uncle whose wife Gericault was having an affair with. When she bore an illegitimate son in August 1818 his uncle refused the works and they stayed in the artist's studio until his death. The fact that Géricault fathered a child out of wedlock would be kept a family secret until it was discovered by scholars in 1976.</p>
+          <p type="p">During his short career Géricault created groups of works focused on particular themes, including horses, scenes of military battle and soldiers, Latin American and Spanish revolutionary figures, and finally Orientalist subjects. These themes fit well within the Romantic approach to artmaking which so influenced Géricault's contemporaries.					Indeed, many of the early proponents of the Romantic style, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-scheffer_ary"&gt;Ary Scheffer&lt;/span&gt;, Paul Huet, and Léon Cognet, studied, like Géricault, in the studio of Guérin. Despite the Neoclassical influence of their master, they pioneered a style which celebrated emotions and ideals such as freedom, heroism, loss, and wonder. The emphasis on human emotions and the search for exotic or contemporary subject matter were tantamount for the poets, writers, musicians, and artists associated with the movement that was later named Romanticism.</p>
+          <p type="p">As with his fellow Romantics, Géricault was attracted to sublime and often horrific subjects. Some have caricatured Géricault as a brooding figure who was fascinated by the sight of violence, mental illness, and death, but it is more likely that these subjects provided fertile ground to push the boundaries of his artistic expression. In her book on Gericault, Nina Athanassoglou-Kallmyer described the artist as "unfettered by prejudices and rules, and bent on the contemporary, horrific beauty ... of Romantic modernism."</p>
+          <p type="p">Gericault applied his interest in macabre subjects to a contemporary subject in his most famous work, &lt;i&gt;The Raft of the Medusa&lt;/i&gt; (1818-1819). Providing one of the clearest and best examples of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-french_romanticism"&gt;French Romanticism&lt;/span&gt;, the work dealt with the highly controversial shipwreck of the French ship the &lt;i&gt;Méduse&lt;/i&gt; (Medusa). Géricault was so focused on creating this work that it is believed that he shaved his cherished hair, knowing his vanity would prevent him from wanting to abandon his studio to appear in public.</p>
+          <p type="p">Following the polarized reception of &lt;i&gt;The Raft of the Medusa&lt;/i&gt; at the 1819 Salon Géricault travelled to England, where he stayed for more than a year. He briefly returned to Paris in the middle of his sojourn stopping on the way in Brussels to visit the great Neoclassical painter, Jacques-Louis David, who was living there in exile. Gericault suffered ill health while in England, including bouts of sciatica (exacerbated by horse riding), pneumonia, and depression (the latter may have included a failed suicide attempt). However, despite these maladies, Gericault greatly enjoyed wandering the streets of London, as he describes in a letter to a friend: "for relaxation, [I] wander about the streets which are so full of constant movement and variety that you would never leave them, I am sure." He fully immersed himself in London life, socializing with English artists, attending boxing matches, riding horses, and even maintaining a light-hearted affair with an upper-class British lady about whom he wrote: "she calls me the god of painting and she adores me as such." He was, however, also moved by the plight of the English poor and created a series of lithographs on the subject, as well as other prints featuring English country life and sporting events. Indeed, Gericault experimented widely during his career with the relatively new medium of lithography, and became quite skilled as a printmaker. Monopolizing on the French interest in English life (there was a vogue for all things English in France at the time), upon returning from London in December 1821, Géricault continued to create works with English themes that found a ready audience in France.</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="img" alt="Portrait of Gericault by Horace Vernet (c.1822-23)" show="1">/images20/photo/photo_gericault_theodore_111.jpg</p>
+          <p type="p">Despite having achieved great artistic success, the last years of Géricault's life were troubled. After returning from London, he invested in an industrial plan to create a factory which was to produce artificially manufactured stone. The plan failed and resulted in financial hardship with the loss of economic stability he had thus far relied upon. In addition, his health continued to degrade, he fell into a depression, and he began exhibiting destructive behavior. It is perhaps this darkening of his mood which inspired his last great works, the &lt;i&gt;Monomaniacs&lt;/i&gt;: a series of haunting portrait paintings of the mentally ill. Of the ten originally painted works, five are accounted for today. They were discovered years after the artist's death in 1863 in the attic of a house in Germany by art critic Louis Viardot.</p>
+          <p type="p">During the last days of his life, Géricault had to have a tumor on his lower spine removed which was the result of three horse riding accidents that occurred in the spring of 1822. Forever interested in the body as a source of artistic inspiration, he refused anesthesia so that he could see, with the aid of a mirror, the elements of his body as the surgeon performed the operation. Géricault soon died of his numerous illnesses. His friend and admirer Ary Schefffer recorded the scene in his painting &lt;i&gt;The Death of Géricault&lt;/i&gt; (1824).</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Tomb of Gericault in Père Lachaise Cemetery, Paris. Sculpture by Antoine Étex (c.1839-40)" show="1">/images20/photo/photo_gericault_theodore_112.jpg</p>
+          <p type="p">Géricault's impressive approach to artmaking helped to shape the Romantic art movement. His choice of modern subject matter, coupled with the use of complex poses and dramatic light effects inspired the work of future Romantic painters such as Eugène Delacroix and Ary Sheffer. Like them, Géricault mined the depths of the human psyche, using the physical body as the outward symbol of the (often degraded) soul. In popular perception Gericault has come to exemplify the notion of the "Romantic" artist in a broader sense. Known for his highly individualistic and courageous creative spirit, but also for the suffering and torment he endured, Gércault's somewhat sentimentalized legacy can be found in the tragic portrayal of such artists as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modigliani_amedeo"&gt;Amadeo Modigliani&lt;/span&gt;.</p>
+          <p type="p">&lt;i&gt;The Raft of the Medusa&lt;/i&gt; has become one of the legendary paintings of the Modern period. Sandra Cinto, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-muniz_vik"&gt;Vik Muniz&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-saul_peter"&gt;Peter Saul&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stella_frank"&gt;Frank Stella&lt;/span&gt; are just some of the artists who have drawn direct inspiration from that epic painting.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Charging Chasseur</title>
+      <year>1812</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				As reflected in the title, Géricault's &lt;i&gt;Charging Chasseur&lt;/i&gt; is a large-scale portrait featuring an officer in the French Imperial Guard charging away from the viewer. In the background a battle scene suggests that retreat is underway. The officer is a real life figure, Alexandre Dieudonné, who was a friend of the artist. He is depicted twisting backwards, sword ready, in a dramatically contorted pose.
+				&lt;br/&gt;&lt;br/&gt;
+				Military figures were among the artist's favorite themes with this being one of his earliest and yet most important examples. The work also utilizes another favored subject of the artist, the horse, which he returned to throughout his career. Part of what makes this painting interesting is the scene Géricault chose to depict. This is not a moment of military victory as was commonly depicted by the Neoclassical artists of the period; rather everything about the narrative depicted implies that the battle is about to be lost. The officer seems to look back in sad resignation. Instead of an idealized scene created using Ancient Roman or Greek motifs, as was common in the French Neoclassical style, Géricault chose to depict a romanticized scene full of drama. The tension is enhanced by bold color choices and varied light effects. His depiction reinforces the Romantic idea of the hero who, rather than seen triumphing, is shown struggling, brooding or sad in the face of uncertain fate. 
+				&lt;br/&gt;&lt;br/&gt;
+				The choice of subject could be seen as slightly ironic, given that his father had found a way to get him out of military service. Perhaps the work was an attempt to give visual form to the military drama that Géricault so admired but had not yet seen first hand. Whatever the work's motivations, it helped to launch Géricault's career and was well received when it was exhibited at the 1812 Paris Salon.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Male 'académie' Seated and Seen from Behind</title>
+      <year>c.1816</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Géricault painted this work at the beginning of his career while training in the studio of the French Academy painter Pierre-Narcisse Guérin. This complex, atmospheric composition shows off the young artists ambition. The male nude, viewed from behind, is twisted across the canvas. The tension in his intertwined feet unfurls progressively as the eye ascends towards the figure's right hand. The work is dark and brooding other than the whites and yellows of the figure's flesh.
+				&lt;br/&gt;&lt;br/&gt;
+				While the depiction of the nude was nothing new - nude studies or &lt;i&gt;académies&lt;/i&gt; were an essential part of an artist's training - the manner in which Géricault rendered the subject already shows how revolutionary his approach to artmaking would be throughout his tragically short career. Conventional student studies of the male nude would have included a traditional, frontal pose set in a studio. This is abandoned entirely by Géricault who places the figure in a landscape and experiments with a radical way of presenting the body that allows for an exploration of his already developed understanding of anatomy. The dramatic contrapposto of the male nude also seems to presage the artist's later interest in Michelangelo and the expressive possibilities inherent in the body itself. In addition, the moody deployment of light and shade was unlike other student &lt;i&gt;académies&lt;/i&gt; of the period. Through this work we can anticipate the development of Romanticism.
+				&lt;br/&gt;&lt;br/&gt;
+				The work was not enthusiastically accepted by Géricault's teacher. Guérin was known to constantly criticize the artist for what he considered his unrealistic depiction of form and use of color. About these studies he chastised Géricault by stating, "your colors are not realistic ... all these chiaroscuro contrasts would lead me to think that you always paint under the moonlight; as for your &lt;i&gt;académies&lt;/i&gt; they resemble nature as much as a violin case resembles a violin."
+			</desc>
+      <collection>Collection of Musée des Beaux-Arts, Rouen, Rouen, France</collection>
+    </artwork>
+    <artwork>
+      <title>Cattle Market</title>
+      <year>c.1817-20</year>
+      <materials>Oil on paper marouflé on canvas</materials>
+      <desc>
+				A small work, Géricault's &lt;i&gt;Cattle Market&lt;/i&gt; depicts the scene of a cattle market in an Italian country setting. In the foreground are three men, barely dressed, wrestling with cattle that are resisting their impending slaughter. In the right foreground one of the men has managed to wrestle one bull to the ground with the help of a dog, which he seems to be restraining from attack. In the background, beneath a blue, cloud-filled sky a nude wall and a simple building are depicted, beyond which an idealized landscape sets the scene.
+				&lt;br/&gt;&lt;br/&gt;
+				Géricault's years in Italy, beginning in 1816, made a strong impression on the young artist. He enjoyed the scenes of Italian life and was intrigued by peasant life and folklore. That interest manifests itself in this painting which depicts a famous tourist attraction, the buying and slaughtering of cattle in the outdoor market near the Piazza del Popolo in Rome. 
+				&lt;br/&gt;&lt;br/&gt;
+				While still young the artist shows his skill in capturing the human form in complex poses and compositions. In fact, the work shows off the artist's eagerness to test and hone his skills. He has shifted the urban location to a country locale perhaps to enhance the dramatic impact of the scene; he experiments with classical elements by depicting the men nude in an Ancient Roman style that reflects the Classical emphasis of the artistic climate in Italy. Nonetheless, Géricault would not adopt this approach in his later works and so the painting is a rare example of a more classical style.
+			</desc>
+      <collection>Collection of Fogg Art Museum, Cambridge, Massachusetts</collection>
+    </artwork>
+    <artwork>
+      <title>Evening</title>
+      <year>1818</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Géricault's &lt;i&gt;Evening&lt;/i&gt; is a pastoral landscape painting of an idealized Italianate setting. Two solitary figures appear in the foreground of a central opening, from which the composition guides the eye down the river, then up to the medieval village and finally across the viaduct and towards the sunset on the left.
+				&lt;br/&gt;&lt;br/&gt;
+				This is one of a series of Italian landscapes each featuring a time of day. The paintings are perhaps a sort of visual declaration of Géricault's regret at leaving Italy to return home to Paris. These works combine the classical influence of Claude Lorrain and Nicolas Poussin with the emotional, dramatic mood indicative of the burgeoning Romantic style Géricault would soon embrace.
+				&lt;br/&gt;&lt;br/&gt;
+				Rejected by his uncle, for whom they were made (after he discovered Géricult's affair with his wife), the artist kept these paintings in his studio until his death. In a letter to a friend he wrote of his sadness during this period, stating "Now I wander and get constantly lost. It is in vain that I seek to hold on to something; nothing is solid, everything escapes me, everything deceives me." In these paintings Géricault began to use color, light, and atmospheric compositions in order to express his state of mind. 
+			</desc>
+      <collection>Collection of Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Raft of the Medusa</title>
+      <year>1818-19</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The epic painting &lt;i&gt;The Raft of the Medusa&lt;/i&gt; features a gruesome mass of figures afloat at sea, some dead, some struggling for life, in a tangled mass positioned on a crudely-made raft. The only African figure on the raft waves a cloth at the top of a pile of a few men who are struggling to get the attention of a ship in the distance (located on the far right of the horizon line). The sail of the raft is billowing in the wind while being tossed about a choppy ocean beneath a stormy sky. Géricault paid great attention to the details in this work. He even sketched severed body parts in order to make the work as authentic as possible. 
+				&lt;br/&gt;&lt;br/&gt;
+				The subject depicted is the artist's dramatic interpretation of the events beginning on July 2, 1816, when a French navy frigate crashed on its way the create colonies in West Africa. The appointed governor of the colony and the top ranking officers in the party left on the ship's six lifeboats leaving the remaining 147 passengers to be crowded onto a hastily made raft. When the raft proved too cumbersome, in a horrific act of cowardice and fear, the ship's leader cut the ropes to the raft. Left to fend for themselves the passengers eventually resorted to cannibalism. When rescued thirteen days later by a passing British ship, only fifteen men were left alive, of whom five died before they were able to reach land. When the public learned of this, it became an international tragedy and a searing indictment of the current French government. The decision to paint a scene from contemporary history - one that was utterly of the moment - brought instant attention to this work, particularly as Gericault translated it in a manner befitting classical history painting (large-scale, with heroic and tragic elements). The painting shocked the public and divided critics at the 1819 Salon. Nonetheless, its powerful subject matter and dramatic style attracted great attention to the artist, who was subsequently given the opportunity to exhibit &lt;i&gt;The Raft&lt;/i&gt; in London and Dublin.
+				&lt;br/&gt;&lt;br/&gt;
+				This work is a key example of Romantic painting. In creating the work Géricault showed a complexity of composition and an almost unsettling portrayal of reality that differed from anything that had been seen before. Delacroix's &lt;i&gt;Liberty Leading the People&lt;/i&gt; (1830) borrows heavily from the style and composition while contemporary artists, including Frank Stella, Peter Saul, and Jeff Koons, have taken direct inspiration from this work, which has achieved the status of an artistic icon.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Guillotined Heads</title>
+      <year>c.1818-20</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Gericault's &lt;i&gt;Guillotined Heads&lt;/i&gt; presents a gruesome depiction of death and decay. The female head on the left has pallid white skin and closed eyes, while the male head is depicted with its mouth and eyes open staring vacantly past the viewer. The jagged, rough marks on the neck reveal the brutal and painful death these figures suffered at the guillotine. Here Gericault shows his brilliant mastery of chiaroscuro, seen in the contrasts of dark and light throughout the composition. The loose brushstrokes used to render both the faces and the cloth add to the work's dramatic appeal.
+				&lt;br/&gt;&lt;br/&gt;
+				Severed limbs and body parts are the most striking subject in Géricault's &lt;i&gt;oeuvre&lt;/i&gt;. The five works he created in this style are considered to be studies for the figures he would render in his most famous work, &lt;i&gt;The Raft of the Medusa&lt;/i&gt; (1818-1819). Always striving for authenticity, the artist actually kept dead body parts of victims of the guillotine in his studio. Gériault's use of horrific subject matter was first and foremost an artistic means of pushing the boundaries, but also the vehicle of a political message. By so clearly depicting the savagery involved in the use of the guillotine and presenting it in such a direct and confrontational way, Géricault is visually speaking out against this barbaric form of punishment which had been used widely during the Bourbon Restoration.
+			</desc>
+      <collection>Collection of Nationalmuseum, Stockholm, Sweden</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Mustapha</title>
+      <year>c.1819-20</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This is an important example of the many fine portraits Géricault created throughout his career. The subject was a real Turkish man named Mustapha who had been shipwrecked in France. The artist met him while walking the neighborhood streets of Paris and asked him to be his servant and model. 
+				&lt;br/&gt;&lt;br/&gt;
+				A key aspect of the Romantic movement was the full embrace of exotic "oriental" themes in art. As with many artists of the period, Géricault was interested in the world beyond western Europe. The artist desired to make a visit to the Holy Land so that he could experience the Middle East in all its sounds, sights, and interactions, however, he never did so and therefore relied on what he read, the works he collected with related subjects, and most importantly, his servant Mustapha. Géricault led the way for Orientalist artists such as Eugène Delacroix, Léon Cognet, and Eugène Fromentin, whose travels in Northern Africa formed an essential part of their inspiration.
+			</desc>
+      <collection>Collection of Musée des Beaux-Arts et d'Archéologie, Besançon, France</collection>
+    </artwork>
+    <artwork>
+      <title>The Piper</title>
+      <year>1821</year>
+      <materials>Lithograph</materials>
+      <desc>
+				&lt;i&gt;The Piper&lt;/i&gt; provides a detailed rendering of a blind man wearing ragged clothes including an oversized, worn coat and boots. He plays a bagpipe as he walks through an empty and run-down London street, alone except for a small dog who walks behind him tethered to a leash.
+				&lt;br/&gt;&lt;br/&gt;
+				While perhaps best known for his paintings, Géricault was also a great draughtsman and lithographer. This work is an important example of the impact that the artist's 1819 and 1820 trips to England had on his career. While he greatly enjoyed the leisure activities and interactions British high society had to offer, he was also struck by the wide disparity that existed between the wealthy and the poor. He created a series of lithographs that detail the struggles and desperation faced by London's poor.
+			</desc>
+      <collection>Collection of Bibliothèque nationale de France, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>The Monomaniac of Gambling</title>
+      <year>c.1821-23</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Monomaniac of Gambling&lt;/i&gt; features an elderly, haggard woman, with an ill-fitting brown coat. The white of her shirt, barely visible beneath her coat, matches the scarf tied around her head. A crutch resting in her lap is positioned in the lower right of the canvas. 
+				&lt;br/&gt;&lt;br/&gt;
+				The painting is from a series of portraits Géricault made before his death depicting mentally ill men and women who had succumbed to various vices. Here, an insane elderly female has suffered the effects of a gambling addiction. As a result of her gambling she lost her money and security and was pushed over the brink of sanity. 
+				&lt;br/&gt;&lt;br/&gt;
+				Many reasons have been proposed as to why Géricault may have created these works, including his own failing mental health, the depression he was suffering from, or perhaps simply a commission by the psychiatrist Dr Georget. The portraits are important examples of the artist grappling with social issues in his art. They also provide a fine example of the Romantic approach to artmaking. The entire work is rendered in shades of loosely applied browns which add to the overall impression of dejection and misfortune. Nonetheless, a glow from an unknown light source illuminates the woman's face. As a viewer we are drawn to her and can see the vacant stare we associate with the mentally ill. The influence of the artist on younger Romantic painters can be seen in Eugène Delacroix's depiction of the mentally ill Italian poet &lt;i&gt;Tasso in the Hospital of Santa Anna, Ferrara&lt;/i&gt; (1824). The &lt;i&gt;Monomaniac&lt;/i&gt; series directly influenced contemporary artist Marlene Dumas, who created two similar portraits in her unique style - &lt;i&gt;Obsessiver Neid&lt;/i&gt; (2011) and &lt;i&gt;Militaristischer Monomane&lt;/i&gt; (2013) - inspired by Géricault's &lt;i&gt;The Monomaniac of Envy (The Hyena)&lt;/i&gt; (1821-23) and &lt;i&gt;The Monomaniac of Military Grandeur&lt;/i&gt; (1821-23).
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity>michelangelo</entity>
+        <entity>caravaggio</entity>
+        <entity>goya_francisco</entity>
+        <entity alt="Pierre-Narcisse Guérin">guerin_pierre_narcisse</entity>
+        <entity alt="Anne-Louis Girodet">girodet_anne_louis</entity>
+      </column>
+      <column>
+        <entity alt="Laurent-Théodore Biett">biett_laurent_theodore</entity>
+        <entity alt="James William Bullock">bullock_james_william</entity>
+        <entity alt="Pierre-Marie-Alexandre Dumoutier">dumoutier_pierre_marie_alexandre</entity>
+      </column>
+      <column>
+        <entity>classical_greek_and_roman_art</entity>
+        <entity alt="Pre-Romanticism">pre_romanticism</entity>
+        <entity>neoclassicism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>delacroix_eugene</entity>
+        <entity alt="Léon Riesener">riesener_leon</entity>
+        <entity alt="Ary Scheffer">scheffer_ary</entity>
+        <entity>turner_jmw</entity>
+        <entity>ernst_max</entity>
+      </column>
+      <column>
+        <entity alt="James William Bullock">bullock_james_william</entity>
+        <entity alt="Charles Clément">clement_charles</entity>
+        <entity alt="Théodore Lebrun">lebrun_theodore</entity>
+        <entity alt="Louis Viardot">viardot_louis</entity>
+      </column>
+      <column>
+        <entity>romanticism</entity>
+        <entity>realism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Géricault: His Life and Work</title>
+          <link>0801414687</link>
+          <info>By Lorenz E. A. Eitner</info>
+        </entry>
+        <entry recommended="true">
+          <title>Théodore Géricault</title>
+          <link>0714844004</link>
+          <info>By Nina Athanassoglou-Kallmyer</info>
+        </entry>
+        <entry recommended="true">
+          <title>Keeping an Eye Open - Géricault: Catastrophe into Art</title>
+          <link>1101874783</link>
+          <info>					By Julian Barnes					&lt;br&gt;					One Chapter on the background and analsis of &lt;i&gt;The Raft of the Medusa&lt;/i&gt;					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="art works" class="artwork">
+        <entry>
+          <title>Portraits of the Insane: Théodore Géricault and the Birth of the Subject of Psychotherapy</title>
+          <link>1782202471</link>
+          <info>By Robert Snell</info>
+        </entry>
+        <entry recommended="true">
+          <title>Théodore Géricault: Images of Life and Death</title>
+          <link>3777420689</link>
+          <info>By Gregor Wedekind and Max Hollein</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Why Géricault's &lt;i&gt;The Raft of the Medusa&lt;/i&gt; Captured the Minds of Frank Stella, Jeff Koons, Max Ernst, and So Many More</title>
+          <link>https://www.artsy.net/article/artsy-editorial-why-has-this-painting-inspired-so-many-contemporary-artists</link>
+          <info>
+						Artsy
+						&lt;br&gt;
+						November 25, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Marlene Dumas and the Monomaniacs of Géricault</title>
+          <link>https://www.youtube.com/watch?v=m_BdpHukZL4</link>
+          <info>Contemporary artist Marlene Dumas discusses the impact of Géricault's portraits of the insane on her own work</info>
+        </entry>
+        <entry>
+          <title>Théodore Géricault - Famous Painters Bios - Wiki Videos by Kinedio</title>
+          <link>https://www.youtube.com/watch?v=cl0NMzlM0yg</link>
+          <info>Brief discussion of the life and work of Géricault</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Gericault Film</title>
+          <link>https://www.youtube.com/watch?v=lAgl2FM5Tyo</link>
+          <info>This video clip provides a brief discussion of Théodore Géricault's &lt;i&gt;The Raft of the Medusa&lt;/i&gt; in the format of a movie trailer utilizing clips from contemporary films</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

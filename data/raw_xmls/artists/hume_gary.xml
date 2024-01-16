@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>hume_gary</id>
+    <name>Gary Hume</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1988 - Present</years>
+    <description>Gary Hume is a Young British Artist who focused on abstract, minimal, and often wryly narrative visual artworks.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>May 9, 1962</birthDate>
+    <birthPlace>Tenterden, Kent, England</birthPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <art_type>Art</art_type>
+    <pub_time>11/15/2018</pub_time>
+  </main>
+  <includes>
+    <include>young_british_artists</include>
+    <include>post_minimalism</include>
+  </includes>
+  <similar_movements>
+    <movement>young_british_artists</movement>
+    <movement>post_minimalism</movement>
+    <movement>neo_expressionism</movement>
+    <movement>post_minimalism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>lucas_sarah</artist>
+    <artist>hirst_damien</artist>
+    <artist>emin_tracey</artist>
+    <artist>whiteread_rachel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"A painting should be tough; it should have muscle, but I have to find some tenderness in it, too. There has to be that dynamic."</q>
+    <q>"People constantly describe me as a formalist or even a minimalist, but I'm not really bothered with the rules of painting or the history of painting. My approach is that everything is mine. I take what I can use from wherever, and then I forget where I've taken it from. But there is no point me making anything that looks like anyone else's."</q>
+    <q>"One drawing demands to become a painting, so I start to work on that, and then the painting might demand something else. Then the painting might say, 'I want a companion, and the companion should be like this,' so I have to find that, either by drawing it myself or locating the image."</q>
+    <q>"I don't make political work. I don't make work that criticises the state. I make as human work as I can."</q>
+    <q>"It's not part of my ambition to become fabulously rich. My plan was always to make my pictures, and hopefully people would buy them, and then I'd buy a studio, buy a house, help friends out, do bits and bobs - but I've no idea after that."</q>
+    <q>"I want to paint something that's gorgeous, something that's perfect. So that it's full of sadness."</q>
+    <q>"I'd like to give people leaden boots in galleries, so they'd be a bit slower in front of my paintings. And that's because I spend so much time looking at them. I can look at them a long, long time without getting bored. I disappear."</q>
+    <q>"I like things that are just about to go. Everything's leaving. Death is never far away from me. When you make something, death can't help but be in it."</q>
+    <q>"If I'm feeling desperate, I'll go out image-hunting. I'll go to news agents and stand at the rack flicking through magazines or go to second-hand bookshops. And then, bit by bit, like concrete poetry, I start to realise that I am drawn to particular things, and then I start wondering why that is."</q>
+    <q>"Small paintings can be fantastic. But you can't often get a narrative out of a small painting. In any case, museums are huge places, and you want to take up some space."</q>
+    <q>"I'm more and more fascinated in my own work. I work from 10 A.M. until about 9 P.M., but it's not an obsession, it's a pleasure. There's never enough time."</q>
+    <q>"Sometimes I can see the whole painting from the outset in my mind's eye. But more often than not, that idea doesn't last the duration of the painting. Sometimes it comes out easy, just as I had envisaged. But that is reasonably rare."</q>
+    <q>"The door paintings ... they aren't really a door, they are a couple meeting in a hospital corridor, knowing that one of them is going to die."</q>
+    <q>"Line and colour are crucial."</q>
+    <q>"Sometimes if I run out of colour I will go into a litter bin and grab the litter and then go and make all those colours."</q>
+    <q>"I wanted to make a painting love light - I don't paint light, I don't do light effects, but I want it."</q>
+    <q>"But ... in the end it's what the painting looks like ... I'm a slave to it."</q>
+    <q>"It's the great pleasure and pain of life that you really are stuck as yourself and however much you wish you were capable of making someone else's work, you can't. So you don't."</q>
+  </quotes>
+  <authors>
+    <author link="lesso">Rosie Lesso</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Lewis Church</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Gary Hume is a British artist whose membership of the notorious &lt;span class="marked_text chart-tooltip-target-top tooltip_id-young_british_artists"&gt;Young British Artists (YBA)&lt;/span&gt; movement in the 1990s first brought his paintings to public attention. But unlike several of his YBA contemporaries, Hume avoided much of the extreme partying and tabloid notoriety that characterized the movement throughout the decade by preferring to focus on the development of his abstract, minimal, and often wryly narrative visual artworks. Using broad planes of color and household gloss paint to suggest familiar objects (such as hospital doors), his artwork came to be championed by international art dealers like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-saatchi_charles"&gt;Charles Saatchi&lt;/span&gt; as an innovative contemporary minimalism.
+			&lt;br/&gt;&lt;br/&gt;
+			Hume later moved away from this established and commercially successful abstract formula in order to explore new modes of representation, foregrounding more recognizable objects and imagery within his paintings and branching out into sculpture and photography. No matter what the medium though, Hume's work uses abstraction to ask subtle questions about the world around his viewers, the cultures invisible to those embedded within them, and the nature of visual representation.
+		</synopsys>
+    <key_ideas>
+      <idea>Hume's work is inherently &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodern&lt;/span&gt; in its influence by, and combination of aspects of, several different art-historical precedents. It combines ideas of audience engagement and relation with the art object drawn from early 20&lt;sup&gt;th&lt;/sup&gt; century &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, images of recognisable and familiar objects that reflect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;, and formal aesthetic experimentation and visual subversion with roots in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-op_art"&gt;Op-Art&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_geo"&gt;Neo-Geo&lt;/span&gt; artistic movements.</idea>
+      <idea>The choice of materials in Hume's work is both technical and conceptual. Through industrial and household gloss paint, the materials most often associated with his practice, he is able to reproduce a high depth of color field and shine, allowing the viewer to see themselves literally reflected within his abstract paintings. But these paints also suggest industrial activity and institutional conformity, as well as accessibility and familiarity. They therefore embody conceptually ideas that Hume represents abstractly, such as the ubiquity of institutional design (as in his images of hospital doors).</idea>
+      <idea>Hume produces art in easily discernible series of work, creating a number of pieces that adhere to a particular set of rules or formal principles before abandoning those in favour of his next project series. This process of focused experimentation and development has remained characteristic of his activity since his time as a student at Goldsmiths University in the 1990s.</idea>
+      <idea>Related to this process is Hume's remarkably driven and un-self-conscious character, producing artworks with little regard for fashion or commercial success. This is most apparent in his early commitment to abstract painting, but also to his later move away from it. Hume has throughout his career shifted gears, embarking on new projects outside of the strict limits he had previously placed on himself and often against the advice of gallerists or peers.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Gary Hume was born in 1962 in Tenterden, a leafy middle-class town near Ashford in the English county of Kent. He says that he often felt attuned to the natural rhythms of the countryside around him, recalling, "I love to see a wood full of bluebells. Growing up in the Kent countryside, I have special memories of this brief annual spectacle." He was the second youngest in a family of five siblings, raised by his mother alone, after his father left when Hume was 18 months old. His mother worked as a National Health Service (NHS) surgery manager but also had a love for art and poetry. As Hume recalls, "My mum always liked poetry, and she had pictures on the wall, so there was this visual stuff around."</p>
+          <p type="p">Hume only met his father once as an adult, and the two never formed a relationship. He said of his father, "He just went off. He had whole tribes of families all over the place ... he was a criminal. A con man." Instead he continued to develop his close bond to his mother, one founded on respect and admiration and which has continued into his adult years.</p>
+          <p type="p">Hume attended Homewood School in Tenterden, but left at 16 with no formal qualifications. On tentatively deciding to work in film he went door-to-door around London's Soho until he finally found employment as an assistant film editor, but did not stay long after realising, "I couldn't really work with anyone. I knew my ideas were better." He struggled to find his place for the next few years, living on unemployment benefits and taking on short-term labouring jobs, where he learnt precision skills that would feed into his later paintings. At age 20 he experienced a revelation when he started attending life drawing classes in Camden and discovered not only an ability to draw but a passion to make art, which he funded by posing as a live model. He said, "My desire to be an artist really came out of being broke and unemployed and incapable of holding a job down. That's what it was driven by for sure."</p>
+          <p type="p">On deciding to pursue art full-time Hume spent two years on a day course in London earning enough academic qualifications to go to college, before receiving a grant to study art at Liverpool Polytechnic in 1984. During this time Hume's former girlfriend gave birth to his son in London and he was determined to be there for his child, so he arranged a transfer to study at Goldsmiths in London citing "personal reasons."</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="img" alt="&lt;i&gt;Freeze&lt;/i&gt; opening party in London's Docklands, 1988, showing (left to right), Ian Davenport, Damien Hirst, Angela Bulloch, Fiona Rae, Stephen Park, Anya Gallaccio, Sarah Lucas and Gary Hume">/images20/photo/photo_hume_gary_1.jpg</p>
+          <p type="p">Moving to study at Goldsmiths in 1985 was a breakthrough for Hume, as it was the time where he found his purpose as an artist and a group of peers to support his activities. He was taught at the institution by Michael Craig-Martin, who told his students that "anything goes", and insisted that Hume and his fellow undergraduates see themselves as artists, not students. This professionalism set them on an early path to success. Amongst his fellow students were &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collishaw_mat"&gt;Mat Collishaw&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lucas_sarah"&gt;Sarah Lucas&lt;/span&gt;, founding members of the highly influential Young British Artists movement.</p>
+          <p type="p">Despite the attraction of the intellectual freedoms at Goldsmiths Hume struggled financially, recalling, "I lived on nothing for years - squatted where I lived and where I worked, stole electricity, made things from stuff I found in skips, used paper that had been discarded - you do everything you can do to keep going and not have to get a job."</p>
+          <p type="p">While a student he experimented with a range of derivative styles influenced by various artists including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuys&lt;/span&gt;. Hume was in a relationship with Lucas for 7 years and she remembers him vividly as a student, "He was easily the least self-conscious person there. He started working in his studio oblivious to what anyone else was doing. I remember seeing these exploding glass panels of blood, and thinking, 'Well, he's a relief.'"</p>
+          <p type="p">At Goldsmiths Hume was torn between his conflicting interest in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-judd_donald"&gt;Donald Judd's&lt;/span&gt; polished &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schnabel_julian"&gt;Julian Schnabel's&lt;/span&gt; more emotive &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionism&lt;/span&gt;. He eventually found a middle ground with his &lt;i&gt;door paintings&lt;/i&gt;, images which combined the geometric patterns of hospital doors with narrative content revealed through their titles. They were painted with industrially produced, household gloss paint, for which Hume says, "I found that gloss paint suited me entirely, and its qualities still intrigue me. It's viscous and fluid and feels like a pool. It's highly reflective, which means there are layers of looking. You look at the picture, and you look at the surface, then you look at the reflection in the surface behind you, then you look at yourself."</p>
+          <p type="p">On graduating in 1988 Hume took part in the iconic Freeze exhibition with a group of his Goldsmiths friends including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lucas_sarah"&gt;Sarah Lucas&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collishaw_mat"&gt;Mat Collishaw&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fairhurst_angus"&gt;Angus Fairhurst&lt;/span&gt; and Damien Hirst. Orchestrated by Hirst, the show took place in an empty London Port Authority building in London's Docklands and attracted significant attention, an event that was instrumental in the development of the YBA movement.</p>
+          <p type="img" alt="Gary Hume at the French House Dining Room in London, photographed by Johnnie Shand Kydd, 1996">/images20/photo/photo_hume_gary_2.jpg</p>
+          <p type="p">The doors Hume exhibited in Freeze led to almost instant success; London art dealer Charles Saatchi bought a series and commissioned another four, and a series of solo exhibitions and private sales in London followed. The success Hume and his fellow YBAs found at such an early age was unprecedented. It brought with it money and fame, and many of the YBAs became notorious for their wild, reckless partying. But Hume remained at a slight distance from these activities due to his commitment to his young son. His unwavering determination to be a painter also set him apart from many in the group, who experimented with unconventional materials and deliberately shocking subject matter.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Between 1988 and 1992 Hume focussed almost exclusively on painting door patterns. Although he garnered commercial and critical success, he felt increasingly restricted by the limitations he imposed on himself. In 1992, halfway through a door painting he stopped, realising he could not finish it. He said on reflection, "I didn't really have any choice but to stop. It would have been braver to have carried on with the doors and be bored for the rest of my life for the sake of a few quid ... you'd have to have given up passion and the desire to create to become a slave." During this time Hume was living with fellow artist Sarah Lucas, who was receiving international praise for her gritty, honest works and Hume seemed to feel the need to channel the same authenticity into his own.</p>
+          <p type="p">Karsten Schubert, Hume's dealer in London was unimpressed with the new work Hume initially tried to promote, describing it as, "figurative work with lots of paintings of Madonnas and rather hideous wire mesh sculptures." The two ended their working relationship and Schubert recalled, "It took him two years to pull it all together. It was a very brave and anxious moment when he took that radical step."</p>
+          <p type="img" alt="Gary Hume photographed in his East London studio by Johnnie Shand Kydd in 1999">/images20/photo/photo_hume_gary_3.jpg</p>
+          <p type="p">Hume's crisis over his new direction reached a peak when he filmed himself sitting in the bathtub titled &lt;i&gt;Me as King Cnut&lt;/i&gt; in 1994, sitting fully dressed in a bath tub wearing a Burger King crown. The title was a play on the tale of King Canute, remembered conversely as both a joker and a sage. Hume likened himself to the King, saying, "I felt either I'm a total fool to do this, or I'm wise."</p>
+          <p type="p">In 1995 Hume exhibited his new work for the first time in a solo exhibition at the Kunsthalle in Berne, to great acclaim. New York dealer Matthew Marks said, "Someone bought a painting for £6000. I was totally shocked; it was the first time anyone had bought one of the paintings in his new style. I thought 'Oh my God, that's it'." The paintings revealed a range of semi-representational motifs, painted in a distinctive, graphic style that has been likened to work by many of his contemporaries including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-opie_julian"&gt;Julian Opie&lt;/span&gt;, Patrick Caulfield, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-katz_alex"&gt;Alex Katz&lt;/span&gt;. Reminiscent of some work by Andy Warhol, everyday pop imagery came to the fore but was interpreted through a more abstract, Minimalist visual language. In the following years Hume met and married the artist Georgie Hopton and the two established a home in Hoxton in London, where his son would often stay. In 1996 he was shortlisted for the Turner Prize, he won the Jerwood Painting Prize in 1997 and represented Britain at the Venice Biennale in 1999. In 2001 he was elected a member of the Royal Academy in London.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Gary Hume working in his Hoxton studio photographed by James Hunkin in 2002">/images20/photo/photo_hume_gary_4.jpg</p>
+          <p type="p">By the late 1990s Hume had firmly established his career as an artist in Europe and The United States, earning enough money from the sale of paintings to set up a second home in upstate New York. He currently spends time in his second home for about a third of the year, where he and his wife live and work and the rest of the time in his home in Hoxton, London.</p>
+          <p type="img" alt="Gary Hume in his studio in Hoxton in 2013 photographed by Daniel Lynch">/images20/photo/photo_hume_gary_5.jpg</p>
+          <p type="p">Living in a new country had a marked effect on the material Hume imbedded into his paintings. The American landscape has proved influential, and he spends time doing what he calls "slow walks" where he can stop, wait and look around, then walk a bit more, searching for material to abstract. He is fascinated by the overwhelming wilderness saying, "it really is indifferent to my existence - it just does not care." In the United States Hume is also fascinated by the culture surrounding cheerleaders, considering their roles as sexual objects, prizes, trophies and athletic, abstract shapes. Although predominantly a painter, he has created a series of cheerleader-related sculptures using found elements and shop mannequins, as well as a series of prints in various techniques.</p>
+          <p type="p">Hume's mother's health began to deteriorate, a subject he has explored in his recent &lt;i&gt;Mum&lt;/i&gt; series. In painting his mother's struggles with dementia alongside scenes recollected from his own childhood he reveals a new sense of intimacy not previously as apparent in his earlier works.</p>
+          <p type="p">In 2012, Hume was reunited with several old acquaintances when he was invited to design a poster for the London Paralympics, along with his contemporaries Michael Craig-Martin, Tracey Emin and Bob and Roberta Smith.</p>
+          <p type="img" alt="The Paralympic poster unveiling in 2012, (left to right) Martin Creed, Rachel Whiteread, Tracey Emin, Gary Hume, and Fiona Banner">/images20/photo/photo_hume_gary_6.jpg</p>
+          <p type="p">Hume continues to live and work between London and New York today and is represented by Matthew Marks Gallery in New York. He views his work as an ongoing process of development and discovery as he explains, "I'm probably not going to develop to a final state as an artist. Like, become better and better, more and more refined. Become 'pure.' I don't think that's going to happen to me, because I don't really see that as something I want to explore."</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Gary Hume in his studio in 2017">/images20/photo/photo_hume_gary_7.jpg</p>
+          <p type="p">Gary Hume is recognized today as a key figure in the YBA (Young British Art) movement that emerged in the 1990s in London. Like many of his fellow YBAs, Hume integrated aspects of ordinary life into his artworks with an anti-establishment, rebel spirit that breathed new life into the then floundering British art scene. In regular pop-up exhibitions they developed a savvy business model, raising high market prices for their artworks and leading to the emergence of a whole series of contemporary art galleries including Victoria Miro, Sadie Coles and White Cube, many of which are still important to the London arts scene today.</p>
+          <p type="p">Writer Dave Hickey has likened Hume's paintings to those of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-katz_alex"&gt;Alex Katz&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caulfield_patrick"&gt;Patrick Caulfield&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kelly_ellsworth"&gt;Ellsworth Kelly&lt;/span&gt;, Kenny Prince and Jack Wesley, "an elite group" who are "abstractionists of everyday life", or artists who nod towards the spare simplicity of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt; while turning their heads back again to focus on the stuff in their daily lives. Hickey wrote, "All of their work retains some residual signifier of quotidian existence as a mark of courtesy, as a sign of its willingness to play well with others."</p>
+          <p type="p">Hume continued to make paintings at a time when other mediums were more fashionable, blazing the way for the next generation to explore a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_minimalism"&gt;Post-minimalist&lt;/span&gt; language in two dimensions. Chantal Joffe's figurative paintings of women share Hume's simplified language and closely cropped compositions while Tony Swain's paintings exist in the same in-between space as Hume's, where real objects begin to dissolve into abstract shape and pattern, leaving only a trace of their true identity. Tomma Abts' abstract paintings are even more indecipherable, though they share the same penchant for unusual colors and areas of raised, textured paint, to remind the viewer that they are still objects as well as pictures.</p>
+          <p type="p">Hume's alternative use of household paints has also shifted contemporary attitudes towards painting and diverse artists have pursued experimental techniques, from Peter Doig's expressive landscapes that layer glossy household paints over oil, to Inka Essenhigh's cartoon-like language that merges the matt surface of oil with the patent sheen of enamel.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Girl Boy, Boy Girl</title>
+      <year>1991</year>
+      <materials>Enamel paint on board</materials>
+      <desc>
+				In this work two upright painted panels sit side by side. One is red, the other an off-white shade of magnolia. Each is painted with a high gloss finish, reflecting the room around them and the viewers looking at the work, and are decorated with geometric shapes and two dark circles resembling round windows into another space, or a pair of eyes looking back at the viewer.
+				&lt;br/&gt;&lt;br/&gt;
+				These paintings were made early in Hume's career, as part of his 'door series'. The first set he painted were based on the geometric patterns and shapes of the double-hinged swing doors at St Bartholemew's Hospital in East London, with porthole windows and kick or push plates below them. As he developed the series the designs of the doors changed, but they were always intended to resemble industrial doors, painted with the same factory produced gloss paint in synthetic, clinical colors. The original idea for the &lt;i&gt;door paintings&lt;/i&gt; came from an NHS poster Hume saw in a Bupa advertisement in the newspaper. He said, "There were these depressed people in a depressed NHS hospital, and in the background was this modernist door - clear, perfectly designed, functional, democratic. I saw it and thought ... 'there it is - I can paint that. It's perfect.'"
+				&lt;br/&gt;&lt;br/&gt;
+				As a young artist Hume was influenced by the geometric language of Minimalism, and even more so by Color Field Painting, but he was searching for a way to bring conceptual meaning back to this abstraction. His paintings of hospital doors were the first of their kind to blend modernist simplicity with narrative content, inviting viewers to consider where the doors might lead, or what might be happening behind them. He chose hospital doors due to their class-less democracy, representing the place where many of us will enter, leave, and are otherwise connected to the world we live in.
+			</desc>
+      <collection>Saatchi Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Tony Blackburn</title>
+      <year>Tony Blackburn</year>
+      <materials>Gloss and matt paint on panel</materials>
+      <desc>
+				Here a dark, three leafed clover is offset in dramatic contrast against a yellow and lilac backdrop. A black halo is carefully placed behind the leaf to resemble smooth hair or a helmet, suggesting the clover might represent a featureless face.
+				&lt;br/&gt;&lt;br/&gt;
+				According to Hume this minimal painting depicts the well-known British radio DJ Tony Blackburn, whose distinctive black hairstyle from his 1960s heyday is captured here. The painting was made during a turning point in Hume's career, when he abandoned his signature geometric &lt;i&gt;door paintings&lt;/i&gt; and was searching for a new style. One of the first new subjects he painted was a three leafed clover. He said, "That was my beginning really ... (I thought) I'll rename the three-leaf clover as a lucky talisman."
+				&lt;br/&gt;&lt;br/&gt;
+				The motif was later translated into figurative imagery, as seen here, in a distinctive new abstract style. Hume has since made a number of uncanny and enigmatic portraits of figures from public life like this one, including Kate Moss, Michael Jackson and Angela Merkel. Like Andy Warhol, his Pop art predecessor, Hume has mingled in celebrity circles and is particularly interested in capturing the fragile essence of the person behind the public charade. Whitechapel Gallery director Iwona Blazwick describes how the barest minimum of information triggers recognition in his portraits, "these images have transcended the person, they have become universal, they are mass produced, in a way they are no longer quite human... but they are instantly and globally recognisable."
+			</desc>
+      <collection>Saatchi Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Love Loves Unlovable</title>
+      <year>1994</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				Two black, silhouetted figures face one another in separate panels, each surrounded by acid-bright floral patterns. The panels are mirror images, re-creating the strange symmetry of a Rorschach test. It is as if one figure is gazing across into his reflection, but it is unclear which panel reveals the real person and which is the mirage. The combination of black silhouette and flattened floral pattern recalls Asian prints and decorative paintings, as well as Henri Matisse's decorative collages. The diptych format here also resembles Hume's earlier &lt;i&gt;door paintings&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting was one of the first Hume made after abandoning his well-known &lt;i&gt;door paintings&lt;/i&gt; and was beginning to explore a range of imagery with greater narrative content. In 1991 the artist encountered the Marble Athletes in Mussolini's Olympic Stadium in Rome, which he later integrated into a series of new paintings. Hume said, "One half of the painting mirrors the other, as though this Narcissus (is) locked in contemplation of his own beauty."
+				&lt;br/&gt;&lt;br/&gt;
+				The artist made this painting during a significant period of self-evaluation, when he was reconsidering the kind of artist he wanted to be. The figurative imagery in this work acts like a self-portrait, which he made in order to try and accept a new version of himself. Hume said, "Loving yourself ... is to love the most undesirable person around, because you know your fears and doubts more than anyone else's. I saw (this) as a passivist painting, loving the unlovable other." Echoing his earlier work, the high gloss surface of the painting reflects the person viewing the painting, inviting them to be a part of the work, and to consider their own reflection looking back at them.
+				&lt;br/&gt;&lt;br/&gt;
+				Hume said, "The surface is all you get of me." With such high-shine surfaces he draws attention to his paintings as flat objects rather than illusionistic spaces, where the light is reflected on the surface rather than emanating from within, revealing an ongoing interest in Minimalist art, which has continued to influence Post-minimalist painters working today including Ian Davenport and Callum Innes.
+			</desc>
+      <collection>Saatchi Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Water Painting</title>
+      <year>1999</year>
+      <materials></materials>
+      <desc>
+				A series of white, linear outlines of naked women are set against a green backdrop. The lines weave in and out of one another to create a complex and intricate web suggesting movement. The women are drawn in a range of sizes and scales, adding to the sense of energy within the canvas and making it difficult to distinguish one from another.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting is one of a series of &lt;i&gt;Water Paintings&lt;/i&gt; made in 1999, each of which features outlines of women against a monochrome background that seem to flow across the surface of the paintings like water. Hume copied photographs of his wife Georgie Hopton and his friend Zoe to produce the series, blending elements of the two women together to create an idealized series of forms. He described the painting as an embodiment of how he looks at and experiences women, flowing with sexual possibilities, saying it is, "as if we have entered a zone of desire and the experience of a body".
+				&lt;br/&gt;&lt;br/&gt;
+				When producing all his paintings Hume traces images from photographs onto acetate before projecting the outlines onto a panel and filling in the shapes between them with paint. With this series he chose to leave the lines on the panel rather than fill them in, stating, "I became excited by the line and thought now [that] I see it I'd better use it."
+				&lt;br/&gt;&lt;br/&gt;
+				Although the subject matter of idealized female forms is centuries old, Hume has updated the genre by foregrounding a sense of energy and movement, a woman who is active and assertive rather than passive and submissive. This vitality can also be seen in the work of many contemporary painters including Cecily Brown and Jenny Saville. Hume has long been an admirer of Brice Marden's work and the influence of his later drawings and paintings can also be seen here, with the same fluid, linear patterns sweeping past our eyes.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>American Tan I</title>
+      <year>2007</year>
+      <materials></materials>
+      <desc>
+				This work consists of two disembodied athletic limbs that bend open into the space around them as if caught mid-action. They are precariously balanced on a small pedestal, with a visible crack down the centre where they have been joined together.
+				&lt;br/&gt;&lt;br/&gt;
+				Hume is best known for his high gloss, semi-abstract paintings, but he has also made a smaller number of sculptures, including this work. He said, "I've always tried to make sculptures but I'm not as relaxed with it as I am with painting ... I have an ongoing battle with it." This sculpture was made after the artist had bought a second home in Upstate New York, where he continues to spend part of the year living and working. There he was particularly attracted to the image of American cheerleaders, both their young, tanned, athletic bodies, but also with their status as powerful symbols of American patriotism and pride. He has since made a series of sculptures and paintings which resemble the movement, energy and sexuality of cheerleaders, including this work. It is part of a group of playful sculptures made from the arms of shop mannequins, joined together to look like legs. He said, "Two arms that look like legs have a proportion that becomes elegant, there is a nice swell."
+				&lt;br/&gt;&lt;br/&gt;
+				Much like his paintings, this sculpture concisely brings together a range of references with a careful sleight of hand. The synthetic sheen of the mannequin's skin resembles the glossy surface of his paintings, drawing attention to the superficiality of cheerleaders, while the crack down the centre of the legs creates an uncomfortable sexual tension. This sense of unease is further exemplified by the lack of body, hands or feet, resembling dismembered torsos by Hans Bellmer and Louise Bourgeois, but Hume's sculpture is made contemporary through current cultural references and modern, manufactured materials. He creates a conflict here between desire, sex and repulsion, recurring themes which exist within many of his artworks.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Red Barn Door</title>
+      <year>2008</year>
+      <materials></materials>
+      <desc>
+				&lt;i&gt;Red Barn Door&lt;/i&gt; is a red monochrome painting on two flanking panels of aluminium. As the title suggests it depicts the color, shape and design of an American red barn door, with a series of geometric patterns that resemble wooden planks. The 'z' shape linear design is raised slightly from the surface while vertical strips are painted with a thin line of gold paint.
+				&lt;br/&gt;&lt;br/&gt;
+				Hume made this painting at his studio in upstate New York, where he tends to live for around a third of the year with his wife Georgie Hopton. The image reflects his ongoing fascination with American culture and society, which art historian David Anfam has referred to as a "transatlantic romance". The painting can be compared with Hume's &lt;i&gt;door paintings&lt;/i&gt; of the early 1990s which reproduced institutional doors from hospitals, a style which he abandoned in 1992. He said, "I wanted to own them again and to see what would happen if I painted another one ... It gave me permission to use any mark that I've ever used. There doesn't have to be a closure of my ideas or my methods."
+				&lt;br/&gt;&lt;br/&gt;
+				When painted onto a large panel and hung on the wall, Hume's &lt;i&gt;Red Barn Door&lt;/i&gt; is reminiscent in appearance to older, modernist abstract painting, particularly those of Color Field painters like Ad Reinhart and Mark Rothko. While Hume echoes their vocabulary he is also keen to bring his viewer back to the real world, reminding them that what is depicted is real, its likeness painted with the high gloss paint of industry and manufacture. He thereby straddles a middle ground between abstraction and figuration, saying, "I like abstract formalism, but I also like picture making." Unlike his earlier &lt;i&gt;door paintings&lt;/i&gt; which came from cold, clinical institutions, &lt;i&gt;Red Barn Door&lt;/i&gt; is warm and inviting, suggesting rural domesticity.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Bloom</title>
+      <year>2016</year>
+      <materials>Enamel on Aluminium</materials>
+      <desc>
+				&lt;i&gt;Bloom&lt;/i&gt; is a rich, sumptuous and dark image with delicate linear areas of relief spread across the black surface to describe petals and a cropped leaf motif. The shiny surface creates a synthetic, impenetrable veneer which both entices the viewer to become lost in its glossy appearance but also invites the contemplation of their own image in its reflection back.
+				&lt;br/&gt;&lt;br/&gt;
+				Hume has painted floral motifs like this one throughout his career, sometimes merged with figurative elements and at other times veering closer to pure abstraction. This recent painting exemplifies his dual interest in desire and repulsion; the intricate floral pattern has a decorative, oriental quality but the shiny black surface and areas of relief create a gothic, foreboding unease. As with many of his floral paintings the motif is closely cropped, making it hard to decipher any exact information. Hume said with many of his works, "the painting doesn't really fit on the canvas."
+				&lt;br/&gt;&lt;br/&gt;
+				Over the years he has developed a unique technical process for creating ridges in paintings, explaining that "the ridges are formed by applying masking tape and draft excluder and building up the edge with several coats of primer. The tape and excluder are then cut away. The gloss colour is applied in one or two layers."
+				&lt;br/&gt;&lt;br/&gt;
+				There is an ongoing reference to the natural world in Hume's practice, but his choice of synthetic colors and industrial gloss paint serve as reminders that his images are far removed from studies of nature. Instead they take on a synthetic quality that suggests the increasing artificiality of the modern world, where we are surrounded by lurid advertisements, hard plastics and shiny metals.
+			</desc>
+      <collection>Matthew Marks Gallery</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>warhol_andy</entity>
+        <entity>judd_donald</entity>
+        <entity>schnabel_julian</entity>
+        <entity>marden_brice</entity>
+        <entity>craig_martin_michael</entity>
+      </column>
+      <column>
+        <entity>lucas_sarah</entity>
+        <entity>hirst_damien</entity>
+        <entity alt="Fiona Rae">rae_fiona</entity>
+        <entity>emin_tracey</entity>
+        <entity>whiteread_rachel</entity>
+      </column>
+      <column>
+        <entity>neo_geo</entity>
+        <entity>minimalism</entity>
+        <entity>neo_expressionism</entity>
+        <entity>young_british_artists</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Ian Davenport">davenport_ian</entity>
+        <entity alt="Tony Swain">swain_tony</entity>
+        <entity alt="Jim Lambie">lambie_jim</entity>
+        <entity>peyton_elizabeth</entity>
+        <entity alt="Chantal Joffe">joffe_chantal</entity>
+      </column>
+      <column>
+        <entity>doig_peter</entity>
+        <entity>saville_jenny</entity>
+        <entity alt="Fiona Rae">rae_fiona</entity>
+        <entity>landy_michael</entity>
+        <entity>barney_matthew</entity>
+      </column>
+      <column>
+        <entity>post_minimalism</entity>
+        <entity alt="The Glasgow Miracle">the_glasgow_miracle</entity>
+        <entity alt="Second Wave YBAs">second_wave_ybas</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Gary Hume</title>
+          <link>1904212611</link>
+          <info>By Jason Beard</info>
+        </entry>
+        <entry>
+          <title>Gary Hume</title>
+          <link>1849761434</link>
+          <info>By Katharine Stout</info>
+        </entry>
+        <entry>
+          <title>Gary Hume - the Wonky Wheel</title>
+          <link>1880146711</link>
+          <info>By Graham Bader</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gary Hume (New Art Up-Close 1)</title>
+          <link>0954636503</link>
+          <info>By David Barrett</info>
+        </entry>
+        <entry>
+          <title>Gary Hume and Fiona Rae</title>
+          <link>095274533X</link>
+          <info>By Sarah Kent</info>
+        </entry>
+        <entry>
+          <title>Gary Hume</title>
+          <link>9072251237</link>
+          <info>By Francesco Bonami, Alexander Van Grevenstein and Aloys Van Den Berg</info>
+        </entry>
+        <entry>
+          <title>Gary Hume</title>
+          <link>8476646844</link>
+          <info>By Andrea Rose and Lluis Monreal</info>
+        </entry>
+        <entry>
+          <title>Bird Has a Yellow Beak: Gary Hume</title>
+          <link>3883758035</link>
+          <info>By Kunsthaus Bregenz, Kay Heymer, Rudolf Sagmeister, Eckhard Scneider</info>
+        </entry>
+        <entry>
+          <title>Gary Hume - the Indifferent Owl</title>
+          <link>1906072566</link>
+          <info>By Fred Moten and Bill Brown</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Gary Hume: Flashback</title>
+          <link>1853322997</link>
+          <info>By Dave Hickey</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: Mum</title>
+          <link>1944929150</link>
+          <info>By Alexander Nagel</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gary Hume: Yardwork</title>
+          <link>1880146533</link>
+          <info>By Dave Hickey</info>
+        </entry>
+        <entry>
+          <title>Door Paintings: Gary Hume</title>
+          <link>1901352382</link>
+          <info>By Suzanne Cotter, Thomas Lawson, Andrew Nairne, Allia Ali</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gary Hume (British Council)</title>
+          <link>0863554121</link>
+          <info>By Andrea Rose, Adrian Searle</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: American Tan</title>
+          <link>190607206X</link>
+          <info>By Ulrich Loock and David Anfam</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: A Cat on a Lap</title>
+          <link>B01FEOHF4U</link>
+          <info>By Ulrich Loock and Iwona Blazwick</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: Paintings</title>
+          <link>3857801018</link>
+          <info>By Gregor Muir</info>
+        </entry>
+        <entry>
+          <title>Gary Hume 2002</title>
+          <link>0954236327</link>
+          <info>By Angus Cook</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Gary Hume Artist Page at The Royal Academy, London, featuring a video, articles and images</title>
+          <link>https://www.royalacademy.org.uk/art-artists/name/gary-hume-ra</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Painting Now: Brice Marden and Gary Hume in Conversation with Tim Marlow at the Royal Academy in London, a recording of the event on September 30 2017</title>
+          <link>https://www.royalacademy.org.uk/event/painting-now-brice-marden-gary-hume</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Matthew Marks Gallery, New York, Gary Hume artist page</title>
+          <link>https://www.matthewmarks.com/new-york/artists/gary-hume/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Gary Hume and the Intertwined Histories of YBAs and White Cube</title>
+          <link>https://www.artsy.net/article/editorial-gary-hume-and-the-intertwined-histories-of</link>
+          <info>
+						By Artsy Editors
+						&lt;br&gt;
+						Artsy.net 
+						&lt;br&gt;
+						Aug 6 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Patrick Caulfield / Gary Hume, Tate Britain, London, UK</title>
+          <link>https://frieze.com/article/patrick-caulfield-gary-hume</link>
+          <info>
+						By Dan Fox
+						&lt;br&gt;
+						Frieze Magazine 
+						&lt;br&gt;
+						Oct 17 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Shut That Door: Gary Hume Feature</title>
+          <link>https://frieze.com/article/shut-door</link>
+          <info>
+						Frieze Magazine
+						&lt;br&gt;
+						5 June 1993
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gary Hume: "I couldn't hold down a job, that's why I became an artist"</title>
+          <link>https://www.theguardian.com/artanddesign/2013/may/18/gary-hume-tate-britain-interview</link>
+          <info>
+						Interview with Sean O'Hagan
+						&lt;br&gt;
+						The Observer 
+						&lt;br&gt;
+						May 18 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: The-half-an-hour-a-day-man</title>
+          <link>https://www.theguardian.com/artanddesign/2012/jan/17/gary-hume-yba-interview</link>
+          <info>
+						By Alex Needham
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						Jan 17 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Gary Hume Loves His Mother. His Art is a Valentine to Her.</title>
+          <link>https://www.nytimes.com/2017/10/27/arts/gary-hume-mother-art.html</link>
+          <info>
+						By Barbara Pollack
+						&lt;br&gt;
+						By Barbara Pollack 
+						&lt;br&gt;
+						Oct 27 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: The Indifferent Owl</title>
+          <link>https://www.telegraph.co.uk/culture/art/art-features/9033978/Gary-Hume-The-Indifferent-Owl-White-Cube-Hoxton-Square-and-Masons-Yard.html</link>
+          <info>
+						By Alastair Sooke
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						Jan 23 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Gary Hume: the doors that unhinged the establishment</title>
+          <link>https://www.telegraph.co.uk/culture/art/3554260/Gary-Hume-the-doors-that-unhinged-the-establishment.html</link>
+          <info>
+						By Alastair Sooke
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						June 14 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Profit and Gloss</title>
+          <link>https://www.theguardian.com/artanddesign/2008/oct/12/gary.hume</link>
+          <info>
+						By Lynn Barber
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 12 2008
+					</info>
+        </entry>
+        <entry>
+          <title>The Comeback King</title>
+          <link>https://www.telegraph.co.uk/culture/4721576/The-comeback-king.html</link>
+          <info>
+						By Rose Aidin
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						Feb 10 2001
+					</info>
+        </entry>
+        <entry>
+          <title>Little Promises</title>
+          <link>https://www.theguardian.com/artanddesign/2002/sep/07/art.artsfeatures</link>
+          <info>
+						By Dominic Murphy
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 7 2002
+					</info>
+        </entry>
+        <entry>
+          <title>In the studio with Gary Hume RA</title>
+          <link>https://www.royalacademy.org.uk/article/in-the-studio-with-gary-hume-ra</link>
+          <info>
+						By Fiona Maddocks
+						&lt;br&gt;
+						RA Magazine 
+						&lt;br&gt;
+						November 10 2011
+					</info>
+        </entry>
+        <entry>
+          <title>"It's like making a garden" - Gary Hume RA on printmaking</title>
+          <link>https://www.royalacademy.org.uk/article/magazine-gary-hume-prints</link>
+          <info>
+						By Amy Macpherson
+						&lt;br&gt;
+						RA Magazine 
+						&lt;br&gt;
+						February 17 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Finding Meaning in the Mundane: A Midcareer Survey of Gary Hume Paintings</title>
+          <link>https://www.nytimes.com/2013/06/21/arts/design/a-midcareer-survey-of-gary-hume-paintings.html</link>
+          <info>
+						By Carol Vogel
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						June 20, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Gary Hume keeps it in the family at Sprüth Magers' newly revamped London gallery</title>
+          <link>https://www.wallpaper.com/art/gary-hume-sprueth-magers-refurbishment</link>
+          <info>
+						By Charlotte Jansen
+						&lt;br&gt;
+						Wallpaper Magazine
+						&lt;br&gt;
+						Oct 4 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Gary Hume in conversation with Iwona Blazwick, Director of The Whitechapel Gallery at the Royal Academy in 2014</title>
+          <link>https://www.youtube.com/watch?v=iZNvL7oaRw0</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Gary Hume discusses his work, filmed July 2013 at Hume's London studio in conjunction with "The Wonky Wheel" at Matthew Marks Gallery, New York.</title>
+          <link>https://www.youtube.com/watch?v=bv8K7eL5N3g</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Gary Hume studio visit, made by TateShots</title>
+          <link>https://www.youtube.com/watch?v=hlN8RPvUWO0</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Film about "Beauty", Solo Exhibition by Gary Hume, PinchukArtCentre</title>
+          <link>https://www.youtube.com/watch?v=3rH0J4SfnnM</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>A description of Patrick Caulfield and Gary Hume at Tate Britain by ArtFundUK, 2013</title>
+          <link>https://www.youtube.com/watch?v=BM34JysCI_s</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Gary Hume discusses his exhibition 'Flashback' at Jerwood Gallery, Hastings in 2012, along with general ideas about painting and sculpture</title>
+          <link>https://www.royalacademy.org.uk/art-artists/name/gary-hume-ra</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

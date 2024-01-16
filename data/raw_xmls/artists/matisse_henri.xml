@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>matisse_henri</id>
+    <name>Henri Matisse</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1889 - 1954</years>
+    <description>Matisse is the colorist of the 20th century whose expressive or decorative, but often monumental, paintings revolutionized Modern Art.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>3</highlight>
+    <occupation>Painter, Draftsman, and Collagist</occupation>
+    <nationality>French</nationality>
+    <birthDate>December 31, 1869</birthDate>
+    <birthPlace>Le Cateau-Cambresis, Picardy, France</birthPlace>
+    <deathDate>November 3, 1954</deathDate>
+    <deathPlace>Nice, France</deathPlace>
+    <image_desc>true</image_desc>
+    <bio_three_img>true</bio_three_img>
+    <big_bio_box_img>Detail of &lt;i&gt;La danse (I)&lt;/i&gt; (1909) by Henri Matisse</big_bio_box_img>
+    <bio_highlight>Matisse meticulously experimented with art, trying and retrying ideas saying: "I have always tried to hide my efforts and wished my works to have a light joyousness of springtime which never lets anyone suspect the labors it has cost me."</bio_highlight>
+    <pub_time>10/21/2011</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>fauvism</include>
+    <include>neo_impressionism</include>
+    <include>post_impressionism</include>
+    <include>primitivism</include>
+  </includes>
+  <similar_movements>
+    <movement>fauvism</movement>
+    <movement>neo_impressionism</movement>
+    <movement>post_impressionism</movement>
+    <movement>primitivism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>braque_georges</artist>
+    <artist>derain_andre</artist>
+    <artist>picasso_pablo</artist>
+    <artist>barr_alfred</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"What I dream of is an art of balance, of purity and serenity, devoid of troubling or depressing subject-matter, an art which could be for every mental worker, for the businessman as well as the man of letters, for example, a soothing, calming influence on the mind, something like a good armchair which provides relaxation from physical fatigue."</q>
+    <q>"Exactitude is not truth."</q>
+    <q>"Do you find perfect correspondence between the nature of the drawing and the nature of the painting? In my opinion, they seem totally different from each other, absolutely contradictory. One, the drawing, depends on linear or sculptural plasticity, and the other, the painting, depends on colored plasticity."</q>
+    <q>"What interests me most is neither still life or landscape, but the human figure. It is that which best permits me to express my so-to-speak religious awe towards life."</q>
+    <q>"That paper cut-out, the kind of volute acanthus that you see on the wall up there, is a stylized snail. First of all, I drew the snail from nature, holding it between two fingers; drew and drew. I became aware of an unfolding. I formed in my mind a purified sign for a shell. Then I took the scissors."</q>
+    <q>"An artist must possess Nature. He must identify himself with her rhythm, by efforts that will prepare the mastery which will later enable him to express himself in his own language."</q>
+  </quotes>
+  <authors>
+    <author link="brucker">Julia Brucker</author>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <article>
+    <synopsys>Henri Matisse is widely regarded as the greatest colorist of the 20&lt;sup&gt;th&lt;/sup&gt; century and as a rival to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; in the importance of his innovations. He emerged as a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt;, and first achieved prominence as the leader of the French movement &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;. Although interested in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, he rejected it, and instead sought to use color as the foundation for expressive, decorative, and often monumental paintings. As he once controversially wrote, he sought to create an art that would be "a soothing, calming influence on the mind, rather like a good armchair." Still life and the nude remained favorite subjects throughout his career; North Africa was also an important inspiration, and, towards the end of his life, he made an important contribution to collage with a series of works using cut-out shapes of color. He is also highly regarded as a sculptor.</synopsys>
+    <key_ideas>
+      <idea>Matisse used pure colors and the white of exposed canvas to create a light-filled atmosphere in his Fauve paintings. Rather than using modeling or shading to lend volume and structure to his pictures, Matisse used contrasting areas of pure, unmodulated color. These ideas continued to be important to him throughout his career.</idea>
+      <idea>His art was important in endorsing the value of decoration in modern art. However, although he is popularly regarded as a painter devoted to pleasure and contentment, his use of color and pattern is often deliberately disorientating and unsettling.</idea>
+      <idea>Matisse was heavily influenced by art from other cultures. Having seen several exhibitions of Asian art, and having traveled to North Africa, he incorporated some of the decorative qualities of Islamic art, the angularity of African sculpture, and the flatness of Japanese prints into his own style.</idea>
+      <idea>Matisse once declared that he wanted his art to be one "of balance, of purity and serenity devoid of troubling or depressing subject matter," and this aspiration was an important influence on some, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt;, who looked to art to provide shelter from the disorientation of the modern world.</idea>
+      <idea>The human figure was central to Matisse's work both in sculpture and painting. Its importance for his Fauvist work reflects his feeling that the subject had been neglected in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;, and it continued to be important to him. At times he fragmented the figure harshly, at other times he treated it almost as a curvilinear, decorative element. Some of his work reflects the mood and personality of his models, but more often he used them merely as vehicles for his own feelings, reducing them to ciphers in his monumental designs.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Henri-Emile-Benoit Matisse was born to middle-class parents Emile-Hippolyte-Henri Matisse, a grain and hardware merchant, and Anna Heloise Gerard. He grew up in Bohain-en-Vermandois and went to school at the College de Saint Quentin, before moving to Paris to study law. In 1889, he returned to Saint-Quentin as a law clerk, though he found the job tedious and complained of anxiety. Later that year he contracted appendicitis and spent several months at home recovering. During that time, at the age of 20, he discovered the welcome isolation and freedom of painting.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Struck by his new passion, Matisse left for Paris again in 1891, this time to study art. He failed the entrance exams for the École des Beaux Arts, but unofficially joined the studio of French symbolist painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moreau_gustave"&gt;Gustave Moreau&lt;/span&gt; in 1892. Moreau told his students, "Colors must be thought, dreamed, imagined." This Symbolist attitude toward painting contributed to Matisse's expressive use of color. In 1894, Matisse unexpectedly had a daughter, Marguerite, with his lover, Caroline Joblaud. After finally being accepted to the École des Beaux Arts in 1895, he continued to study with Moreau until 1898. Many styles influenced the painter during these years, from the academic still lifes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chardin_jean_baptiste_simeon"&gt;Jean-Baptiste-Simeon Chardin&lt;/span&gt; to the loose brushwork of the Impressionists.</p>
+          <p type="img" alt="Henri and Amélie Matisse around the time of their marriage (1898)" show="1">/images20/photo/matisse_3.jpg</p>
+          <p type="p">In 1898, having ended his relationship with Caroline, Matisse married Amelie Parayre. Moreau died while the couple was abroad for their honeymoon, and Matisse struggled to find another teacher. He was also faced with the challenge of raising three children - he and his wife had two sons, Jean in 1899 and Pierre in 1900. Despite their financial struggles, Matisse began his lifelong collection of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde art&lt;/span&gt;, purchasing &lt;i&gt;Three Bathers&lt;/i&gt; (1879-82) by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; from the gallery of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vollard_ambroise"&gt;Ambroise Vollard&lt;/span&gt;. Influenced by the Post-Impressionists' use of color, and the writing of art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-signac_paul"&gt;Paul Signac&lt;/span&gt;, Matisse moved past his Impressionist exploration.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Henri Matisse Self-Portrait in a Striped T-shirt (1906)" show="1">/images20/photo/matisse_35.jpg</p>
+          <p type="p">Matisse spent summer 1905 in Collioure, working with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;André Derain&lt;/span&gt; to create a new style of pure colors and bright light. The new style became known as Fauvism, after critic Louis Vauxcelles described the arrangement of works at the Salon d'Automne in 1905 - an important showcase for the new movement - as "Donatello among the wild beasts [fauves]." Matisse was soon known as the Fauvists' leader in the press, called "chief fauve" by Louis Vauxcelles and other critics. The Fauvist movement, though short-lived, forged one of modern art's two directions. In 1905, Matisse met Pablo Picasso at the studio of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_gertrude"&gt;Gertrude Stein&lt;/span&gt;. The two artists began a lifelong friendship and rivalry, each artist representing a possible direction modern art could take after the death of Paul Cézanne. While Picasso deconstructed objects into Cubist planes, Matisse sought to construct an object's form through color.</p>
+          <p type="p">By 1907, painters were no longer working in the Fauve style, not even Matisse. He moved on to create simplified forms against flat planes of color. His interest in sculpture intensified as well, especially North African work, probably due to his experiences on a 1906 trip to Algeria. He used sculpture to resolve pictorial problems, especially those relating to the figure. He also acquired the support to open an art school in 1908, teaching approximately eighty students over three years. And he gained patronage from collectors of avant-garde art, including the Russian collector &lt;span class="marked_text chart-tooltip-target-top tooltip_id-shchukin_sergei"&gt;Sergei Ivanovich Shchukin&lt;/span&gt;, who eventually owned dozens of his paintings.</p>
+          <p type="img" alt="Henri Matisse Self-Portrait (1918)" show="1">/images20/photo/matisse_4.jpg</p>
+          <p type="p">From 1911 to 1916, Matisse focused on depicting the human figure in interior spaces decorated with Eastern rugs and souvenirs. While he was not drafted during World War I, the seriousness of world events affected his painting, muting his palette. Towards the end of the war, however, he returned to his bright colors, leading to his "Nice period" from 1917 to 1930. Many of these paintings make use of the white of the exposed canvas to suggest the bright light of southern France.</p>
+          <p type="p">In 1930, Matisse went through a time of artistic crisis and transition. Dissatisfied with the conservative direction of his work, he traveled first to Tahiti, then to America three times in three years. He spent much less energy on easel painting, instead experimenting with book illustration, tapestry design, and glass engraving. In 1931, he was commissioned to create a mural for the Barnes Foundation in Pennsylvania, which he completed in 1933.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="p">Matisse's separation from his wife in 1939, the arrival of World War II, and ill health, all added to Matisse's anxiety over the direction of his work. After major surgery in 1941, he was confined to a wheelchair. He turned to drawing and paper cut-outs, media that were physically more manageable and offered new potential for expression. Paper cut-outs symbolized for Matisse the synthesis of drawing and painting.</p>
+          <p type="p">The paper cut-outs encouraged Matisse to simplify forms even further, distilling the object's "essential character" until it became a symbol of itself. He used the paper cut-out technique to design stained glass windows for the Chapelle du Rosaire in Vence, France, and as a medium in its own right in large-scale works. With the help of assistants, Matisse was able to continue working through his illness. On November 3, 1954, Matisse died of a heart attack.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="The Musée Matisse in Nice welcomes visitors and has a major collection of teh master's work" show="1">/images20/photo/matisse_5.jpg</p>
+          <p type="p">Scholars in the 1950s described Matisse and Fauvism as a precursor of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; and much of modern art. Several Abstract Expressionists trace their lineage to him, though for different reasons. Some, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-krasner_lee"&gt;Lee Krasner&lt;/span&gt;, are influenced by his various media; Matisse's paper cut-outs inspired her to cut up her own paintings and reassemble them. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color field painters&lt;/span&gt;, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noland_kenneth"&gt;Kenneth Noland&lt;/span&gt;, were taken with his broad fields of bright color, as in the &lt;i&gt;Red Studio&lt;/i&gt; (1911). &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diebenkorn_richard"&gt;Richard Diebenkorn&lt;/span&gt;, on the other hand, was more interested in how Matisse created the illusion of space and the spatial tension between his subject matter and the flat canvas. Others, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-motherwell_robert"&gt;Robert Motherwell&lt;/span&gt;, did not show Matisse's influence directly in their artwork, but were influenced by his view of painting color and form. Matisse's art continues to beguile not only artists, but also collectors, who have bought his paintings for as much as $17 million. And as several recent and upcoming blockbuster exhibitions suggest, he continues to be a favorite of the public worldwide.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="cezanne_paul">Table, Napkin, and Fruit (A Corner of the Table) (1895-1900)</artwork>
+    <artwork from="artist" page="gauguin_paul">Vision After the Sermon (Jacob's Fight with the Angel) (1888)</artwork>
+    <artwork from="artist" page="picasso_pablo">Les Demoiselles d'Avignon (1907)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>gauguin_paul</entity>
+        <entity>picasso_pablo</entity>
+      </column>
+      <column>
+        <entity>bergson_henri</entity>
+        <entity>marquet_albert</entity>
+        <entity>stein_leo</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>post_impressionism</entity>
+        <entity>cubism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>dufy_raoul</entity>
+        <entity>picasso_pablo</entity>
+        <entity>dove_arthur</entity>
+        <entity>motherwell_robert</entity>
+        <entity>diebenkorn_richard</entity>
+      </column>
+      <column>
+        <entity>shchukin_sergei</entity>
+        <entity>greenberg_clement</entity>
+        <entity>barr_alfred</entity>
+      </column>
+      <column>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>expressionism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Luxe, Calme, et Volupte</title>
+      <year>1904-05</year>
+      <materials>Oil on canvas</materials>
+      <desc>The title of this painting is taken from the refrain of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire's&lt;/span&gt; poem, &lt;i&gt;Invitation to a Voyage&lt;/i&gt; (1857), in which a man invites his lover to travel with him to paradise. The landscape is likely based on the view from Paul Signac's house in Saint-Tropez, where Matisse was vacationing. Most of the women are nude (in the manner of a traditional classical idyll), but one woman - thought to represent the painter's wife - wears contemporary dress. This is Matisse's only major painting in the Neo-Impressionist mode, and its technique was inspired by the Pointillism of Paul Signac and Georges Seurat. He differs from the approach of those painters, however, in the way in which he outlines figures to give them emphasis.</desc>
+      <collection>Musée National d'Art Moderne, Paris</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>The Woman with a Hat</title>
+      <year>1905</year>
+      <materials>Oil on canvas</materials>
+      <desc>Matisse attacked conventional portraiture with this image of his wife. Amelie's pose and dress are typical for the day, but Matisse roughly applied brilliant color across her face, hat, dress, and even the background. This shocked his contemporaries when he sent the picture to the 1905 Salon d'Automne. Leo Stein called it, "the nastiest smear of paint I had ever seen," yet he and Gertrude bought it for the importance they knew it would have to modern painting.</desc>
+      <collection>The San Francisco Museum of Modern Art</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Joy of Life (Le Bonheur de Vivre)</title>
+      <year>1905-06</year>
+      <materials>Oil on canvas</materials>
+      <desc>During his Fauve years Matisse often painted landscapes in the south of France during the summer and worked up ideas developed there into larger compositions upon his return to Paris. &lt;i&gt;Joy of Life&lt;/i&gt;, the second of his important imaginary compositions, is typical of these. He used a landscape he had painted in Collioure to provide the setting for the idyll, but it is also influenced by ideas drawn from Watteau, Poussin, Japanese woodcuts, Persian miniatures, and 19&lt;sup&gt;th&lt;/sup&gt;-century Orientalist images of harems. The scene is made up of independent motifs arranged to form a complete composition. The massive painting and its shocking colors received mixed reviews at the Salon des Ind&amp;#233;pendants. Critics noted its new style -- broad fields of color and linear figures, a clear rejection of Paul Signac's celebrated Pointillism.</desc>
+      <collection>The Barnes Foundation, Merion, Pennsylvania</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Blue Nude (Souvenir de Biskra)</title>
+      <year>1907</year>
+      <materials>Oil on canvas</materials>
+      <desc>Matisse was working on a sculpture, &lt;i&gt;Reclining Nude I&lt;/i&gt;, when he accidentally damaged the piece. Before repairing it, he painted it in blue against a background of palm fronds. The nude is hard and angular, both a tribute to C&amp;#233;zanne and to the sculpture Matisse saw in Algeria. She is also a deliberate response to nudes seen in the Paris Salon - ugly and hard rather than soft and pretty. This was the last Matisse painting bought by Leo and Gertrude Stein.</desc>
+      <collection>The Baltimore Museum of Art, The Cone Collection</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>The Back I</title>
+      <year>1908-09</year>
+      <materials>Bronze</materials>
+      <desc>Although Matisse is known above all as a painter, sculpture was also important to him, and he was particularly inspired by Auguste Rodin, whom he visited in his studio in 1900. &lt;i&gt;The Back I&lt;/i&gt; is the first of a series of four large relief sculptures that Matisse worked on between 1909 and 1931, all of which are significantly innovative. Conventionally, the background of a relief sculpture is regarded as a virtual plane, a kind of imaginary space that the viewer fills in with his own notions. But in &lt;i&gt;The Back&lt;/i&gt; series, Matisse suggested that the backdrop was fashioned from the same heavy material as the figure itself. Throughout the series, the figure is progressively simplified and further identified with the background. The motif was possibly first inspired by a figure in a painting by Cézanne that Matisse owned.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Moroccans</title>
+      <year>1915-16</year>
+      <materials>Oil on canvas</materials>
+      <desc>Matisse planned this picture as early as 1913, and it recalls visits made to Morocco around this time. A figure sits on the right with a back to us, fruit lies in the left foreground, and a mosque rises in the background beyond a terrace. Matisse said that he occasionally used black in his pictures in order to simplify the composition, though here it undoubtedly also recalls the stark shadows produced by the strong sunshine in the region. Like &lt;i&gt;Bathers by a River&lt;/i&gt; (1917), &lt;i&gt;The Moroccans&lt;/i&gt; was significantly influenced by Picasso's Cubism, and some have even compared it to Picasso's &lt;i&gt;Three Musicians&lt;/i&gt; (1921). Although it employs the same brilliant color as much of Matisse's work, its use of abstract motifs and rigid diagrammatic composition is unusual, and has attracted considerable speculation. Rather than use the scene as an opportunity for decoration, it is as if Matisse has tried to find the means to chart and map it.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Bathers by a River</title>
+      <year>1917</year>
+      <materials>Oil on canvas</materials>
+      <desc>Matisse regarded this picture as one of the most important in his career, and it is certainly one of his most puzzling. He worked on it at intervals over eight years, and it passed through a variety of transformations. The painting evolved out of a commission from Matisse's Russian patron, Sergei Shchuckin, for two decorative panels on the subjects of dance and music, and, initially, the scheme for the picture resembled the idyllic scenes he had previously depicted in paintings such as &lt;i&gt;Joy of Life&lt;/i&gt; (1905-06). However, his transformations gradually turned it into more of a confrontation with Cubism, and it is for this reason that the picture has been the subject of intense scrutiny. Although Matisse rejected Cubism, he certainly felt challenged by it, and this picture - along with many he painted from 1913 to 1917 - seems to be influenced by the style, since it is very unlike his previous, more decorative work. It is far more concerned with faithful representation of the structure of the human figure, and its position in space. The painting might be compared to &lt;i&gt;The Backs&lt;/i&gt; series (1909-31), which also preoccupied Matisse the years he was working on &lt;i&gt;Bathers&lt;/i&gt;, since both address the problem of depicting a three-dimensional figure against a flat background.</desc>
+      <collection>The Art Institute of Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>The Dance II</title>
+      <year>1932</year>
+      <materials>Oil on canvas</materials>
+      <desc>Albert Barnes, a doctor and art lover, commissioned Matisse in 1931 to paint a mural for the main hall of his gallery housing works by Vincent van Gogh, Paul Cézanne, and others. Matisse created a maquette for the mural out of cut paper, which he could rearrange as he determined the composition. However, the finished work was too small for the space due to being given incorrect measurements. Rather than add a decorative border, Matisse decided to recompose the entire piece, resulting in a dynamic composition, in which bodies seem to leap across abstracted space of pink and blue fields.</desc>
+      <collection>Barnes Foundation, Merion, Pennsylvania</collection>
+    </artwork>
+    <artwork>
+      <title>Blue Nude II</title>
+      <year>1952</year>
+      <materials>Gouache-painted paper cut-outs</materials>
+      <desc>
+				Matisse completed a series of four blue nudes in 1952, each in his favorite pose of entwined legs and raised arm. Matisse had been making cut-outs for eleven years, but had not yet seriously attempted to portray the human figure. In preparation for these works, Matisse filled a notebook with studies. He then created a figure that is abstracted and simplified, a symbol for the nude, before incorporating the nude into his large-scale murals.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>The Unknown Matisse</title>
+          <link>0375711333</link>
+          <info>By Hilary Spurling</info>
+        </entry>
+        <entry>
+          <title>Matisse the Master: A Life of Henri Matisse: The Conquest of Colour, 1909-1954</title>
+          <link>0375711538</link>
+          <info>By Hilary Spurling</info>
+        </entry>
+        <entry>
+          <title>Matisse And Picasso: The Story Of Their Rivalry And Friendship</title>
+          <link>081339046X</link>
+          <info>By Jack Flam</info>
+        </entry>
+        <entry>
+          <title>Matisse in the Studio</title>
+          <link>0878468439</link>
+          <info>By Ellen McBreen and Helen Burnham </info>
+        </entry>
+        <entry recommended="true">
+          <title>In Montmartre: Picasso, Matisse and the Birth of Modernist Art</title>
+          <link>1594204950</link>
+          <info>By Sue Roe</info>
+        </entry>
+        <entry>
+          <title>Henri Matisse (Critical Lives)</title>
+          <link>1789143810</link>
+          <info>By Kathryn Brown</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Matisse's "Notes of a Painter": Criticism, Theory, and Context, 1891-1908</title>
+          <link>0835717437</link>
+          <info>By Roger Benjamin</info>
+        </entry>
+        <entry>
+          <title>Jazz</title>
+          <link>080761291X</link>
+          <info>By Henri Matisse, Riva Castleman</info>
+        </entry>
+        <entry>
+          <title>Matisse on Art</title>
+          <link>0520200322</link>
+          <info>By Henri Matisse, Jack Flam</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse: The Books</title>
+          <link>022675054X</link>
+          <info>By Louise Rogers Lalaurie </info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Henri Matisse: A Retrospective</title>
+          <link>0500092311</link>
+          <info>By John Elderfield</info>
+        </entry>
+        <entry>
+          <title>Matisse: A Retrospective</title>
+          <link>0517032929</link>
+          <info>By Jack Flam</info>
+        </entry>
+        <entry recommended="true">
+          <title>Henri Matisse: The Cut-Outs</title>
+          <link>0870709151</link>
+          <info>By Karl Buchberg, Nicholas Cullinan, and Jodi Hauptman</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse in the Barnes Foundation: 3 Vol. Set</title>
+          <link>050023941X</link>
+          <info>By Yve Alain-Bois</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse</title>
+          <link>3836529041</link>
+          <info>By Volkmar Essers</info>
+        </entry>
+        <entry>
+          <title>Matisse and Decoration</title>
+          <link>0300135645</link>
+          <info>By John Klein</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse: From Color to Architecture</title>
+          <link>0810955822</link>
+          <info>By Rene Percheron and Christian Brouder</info>
+        </entry>
+        <entry>
+          <title>Matisse: Printmaker</title>
+          <link>8417769145</link>
+          <info>By Jean Fisher</info>
+        </entry>
+        <entry>
+          <title>Matisse: His Art and His Public</title>
+          <link>0870704699</link>
+          <info>By Alfred Hamilton Barr Jr.</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse: In Search of True Painting</title>
+          <link>0300184972</link>
+          <info>By Rebecca Rabinow and Dorthe Aagesen </info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse</title>
+          <link>0847805468</link>
+          <info>By Pierre Schneider</info>
+        </entry>
+        <entry>
+          <title>Inside Matisse: Understanding Henri Matisse</title>
+          <link>1980633479</link>
+          <info>By Spatio Temprey</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Henri Matisse: A Master of the Modern Era</title>
+          <link>https://www.youtube.com/watch?v=HWjhgnZ4nl4</link>
+          <info>BBC Documentary with Alastair Sooke</info>
+        </entry>
+        <entry recommended="true">
+          <title>Henri Matisse vs. Pablo Picasso: MoMA curators interview (2003)</title>
+          <link>https://www.youtube.com/watch?v=BeLCM-0WROo</link>
+          <info>Charlie Rose interviews curators Kirk Varnedoe and John Elderfield about the exhibition "Matisse Picasso"</info>
+        </entry>
+        <entry>
+          <title>Henri Matisse: A Cut Above the Rest</title>
+          <link>https://www.youtube.com/watch?v=G4NHDpaQW9s</link>
+          <info>BBC Documentary with Alastair Sooke</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse: “For Me It’s Always New” (Lecture) - Museum of Fine Arts, Boston</title>
+          <link>https://www.youtube.com/watch?v=B7D08Qj3MvY</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Chatting with Henri Matisse: The Lost 1941 Interview - Getty Research Institute</title>
+          <link>https://www.youtube.com/watch?v=UOgrH9PxjCs</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse: Line, Color, Action (Lecture) - Mount Holyoke College</title>
+          <link>https://www.youtube.com/watch?v=NK3eAaF1vTA</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Henri Matisse Understanding Modern Art - The Arts Hole</title>
+          <link>https://www.youtube.com/watch?v=z4jSchxv6t4</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Henri Matisse: The Cut-Outs - ArtFundUK</title>
+          <link>https://www.youtube.com/watch?v=rLgSd8ka0Gs</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Henri Matisse in 60 Seconds - Royal Academy of Arts</title>
+          <link>https://www.youtube.com/watch?v=kRkdY8VQx1c</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Becoming Matisse - BBC</title>
+          <link>https://www.youtube.com/watch?v=UwGt_Yugp0w</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Matisse and the Nun</title>
+          <link>http://www.artnews.com/2005/12/01/matisse-and-the-nun/</link>
+          <info>
+					By Rebecca Spence 
+					&lt;br&gt;
+					ARTnews 
+					&lt;br&gt;
+					December 1, 2005
+					</info>
+        </entry>
+        <entry>
+          <title>Meet the Meticulous Mob of "Wild Beast" Matisse</title>
+          <link>http://www.observer.com/2001/11/meet-the-meticulous-mob-of-wild-beast-matisse/</link>
+          <info>
+					By Hilton Kramer
+					&lt;br&gt;
+					The New York Observer
+					&lt;br&gt;
+					November 19, 2001 
+					</info>
+        </entry>
+        <entry>
+          <title>Kenneth Noland on Matisse's The Snail (1953)</title>
+          <link>http://www.telegraph.co.uk/culture/4726026/Artists-on-art.html</link>
+          <info>
+					Interview by Martin Gayford
+					&lt;br&gt;
+					The Telegraph
+					&lt;br&gt;
+					October 13, 2001 
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matisse at the Modern</title>
+          <link>https://frieze.com/article/matisse-modern</link>
+          <info>
+						Frieze Magazine
+						&lt;br&gt;
+						January - February 1993 
+					</info>
+        </entry>
+        <entry>
+          <title>Matisse and His Models</title>
+          <link>https://www.smithsonianmag.com/arts-culture/matisse-and-his-models-70195044/</link>
+          <info>
+				By Hilary Spurling
+				&lt;br&gt;
+				Smithsonian Magazine 
+				&lt;br&gt;
+				October 2005
+			</info>
+        </entry>
+        <entry>
+          <title>Henri Matisse: ‘Is Not Love the Origin of All Creation?’</title>
+          <link>https://artreview.com/henri-matisse-love-origin-creation-1954-archive-looking-life-eyes-child/</link>
+          <info>
+				By Henri Matisse
+				&lt;br&gt;
+				ArtReview 
+				&lt;br&gt;
+				February 6, 1954
+			</info>
+        </entry>
+        <entry>
+          <title>How Henri Matisse Revolutionized Traditional Art and His Influence on Modern Art</title>
+          <link>https://mymodernmet.com/henri-matisse-modern-art/</link>
+          <info>
+				By Emma Taggart 
+				&lt;br&gt;
+				My Modern Met 
+				&lt;br&gt;
+				March 31, 2021
+			</info>
+        </entry>
+        <entry>
+          <title>Matisse &amp; Picasso</title>
+          <link>https://www.smithsonianmag.com/arts-culture/matisse-picasso-75440861/</link>
+          <info>
+				By Paul Trachtman
+				&lt;br&gt;
+				Smithsonian Magazine 
+				&lt;br&gt;
+				February 2003
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="articles">
+        <entry>
+          <title>The Unknown Matisse...</title>
+          <link>http://www.abc.net.au/radionational/programs/booktalk/the-unknown-matisse/3627290</link>
+          <info>
+					Transcript of interview with biographer Hilary Spurling 
+					&lt;br&gt;
+					ABC Radio National
+					&lt;br&gt;
+					August 5, 2005 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Henri Matisse, The Snail, 1953</title>
+          <link>http://www.tate.org.uk/context-comment/audio/modern-paint-podcast-henri-matisse</link>
+          <info>Tate Modern: Modern Paint Podcast</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

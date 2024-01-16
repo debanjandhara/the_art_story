@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>gainsborough_thomas</id>
+    <name>Thomas Gainsborough</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1744 - 1788</years>
+    <description>The British Thomas Gainsborough achieved fame for his outstanding innovations and techniques in both landscape and portraiture. </description>
+    <use_big_images>true</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>May 14, 1727</birthDate>
+    <birthPlace>Sudbury, England</birthPlace>
+    <deathDate>August 2, 1788</deathDate>
+    <deathPlace>London, England</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <img_version>?1</img_version>
+    <pub_time>11/24/2017</pub_time>
+    <cname>Gainsborough</cname>
+  </main>
+  <includes>
+    <include>rococo</include>
+    <include>realism</include>
+    <include>romanticism</include>
+    <include>neoclassicism</include>
+    <include>british_art</include>
+    <include>grand_manner</include>
+  </includes>
+  <similar_movements>
+    <movement>rococo</movement>
+    <movement>realism</movement>
+    <movement>romanticism</movement>
+    <movement>neoclassicism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>constable_john</artist>
+    <artist>reynolds_joshua</artist>
+    <artist>van_dyck_anthony</artist>
+    <artist>murillo_bartolome_esteban</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"One part of a picture ought to be like the first part of a tune; that you can guess what follows, and that makes the second part of the tune and so I've done."</q>
+    <q>"You please me by saying that no other fault is found in your picture than the roughness of the surface for that part being of use in giving force to the effect at a proper distance, and what a judge of painting knows an original from a copy by; in short being the touch of the pencil, which is harder to preserve than smoothness."</q>
+    <q>"Everyone knows that the grand style must consist in plainness and simplicity, and that silks and stains, pearls and trifling ornaments would be as hurt full to simplicity as flourishes in a Psalm Tune; but fresco would no more do for portraits than an Organ would please ladies in the hands of Fischer; there must be variety of lively touches and surprising effects to make the heart dance, or else they had better be in church - so in portrait painting there must be a luster and finishing to bring it up to individual life."</q>
+    <q>"Do you really think that a regular composition in the Landskip way should even be fill'd with history, or any figure bus such as fill a space (I won't say stop a gap) or create a little business for the eye to be drawn from the trees in order to return to them with more glee."</q>
+  </quotes>
+  <authors>
+    <author link="di_palma">Jessica DiPalma</author>
+  </authors>
+  <editors>
+    <editor link="iyengar">Rohini Iyengar</editor>
+  </editors>
+  <article>
+    <synopsys>Thomas Gainsborough achieved name and fame as the best-known English artist of the 18&lt;sup&gt;th&lt;/sup&gt; century for his outstanding innovations and techniques in both landscape and portraiture. Having been introduced to the Rococo style of art in the early part of his career, Gainsborough's works echoed luxury and leisure of aristocratic society through contemporary fashion. But his most influential works were ones of idealized pastoral life in the rural countryside, which would be taken further by the modern artists of Romanticism. With his exceptional abilities and passion for landscapes he exerted a powerful sway over the British School of painting and earned a reputation as an artist of national significance.</synopsys>
+    <key_ideas>
+      <idea>Exuding an affinity for Rococo stylistics, Gainsborough's portraiture was replete with lyricism and elegance that was a perfect way to depict the opulence of his upper class clientele.</idea>
+      <idea>Gainsborough made conscious efforts at subverting the mainstream trends by displaying tendencies of deviation and social satire. For instance, in the work &lt;i&gt;Mr. and Mrs. Andrews&lt;/i&gt;, the viewer's presence is not only acknowledged but the figures are also portrayed with uncanny expressions to powerfully convey the condescending attitude of the aristocratic society.</idea>
+      <idea>Disregarding the conventions of patron selection, Gainsborough opened up the genre of portraiture even to the socially controversial personalities. This concept would be taken to the next level by the Realists.</idea>
+      <idea>With his unconventional ways of painting that employed allegory and idealism, his works presented a departure from dominant academic tradition of history painting and thereby became an inspiring source for artists of Romanticism.</idea>
+      <idea>The poetic delineation of nature and the rural folk therein was a unique aesthetic developed by Gainsborough and in this respect he is absolutely a leader of British School of landscape painting as well as a precursor for artists like John Constable.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Thomas Gainsborough was the youngest son of John and Mary Gainsborough. Of his ten siblings, it was Thomas who had shown interest in painting early in life. His desire for portraiture and landscapes began to surface when he was barely ten years old. Knowledge of textures and fabrics that he had gained by observing textiles in the cloth industry where his father worked, as a weaver and wool handler, was put to best use by him for the costumes of his portrait subjects.</p>
+          <p type="p">Childhood, for the artist, was not idealistic in that his father's fortune in business began to fail in 1733 when he went bankrupt and was forced to take up a job as a postmaster. At this time even his older brother, known as "scheming Jack", was unstable as well as working on unsuccessful inventions and relying on his siblings to support his plans. Then, the family had to depend on a wealthy cousin's mercy and help in order to continue living in their comfortable home.</p>
+          <p type="p">As he grew up, Gainsborough would turn to his other, more reliable siblings, his elder sisters Sarah and Mary who were milliners and his Methodist Minister brother Humphrey for familial support. His brother was inclined to become a man of faith when he was young as his mother Mary's family was anchored in Methodism and the artist once famously stated "I generally view my works on a Sunday thereupon, I never touch."</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="The Gainsborough House, childhood home of artist and now a museum and gallery. Located in Sudbury, Suffolk, England" show="1">/images20/photo/photo_gainsborough_thomas_1.jpg</p>
+          <p type="p">Gainsborough's formal training in art began in 1740, when his father sent him to London to study under the tutelage of artist Hubert François Gravelot. Rooted in Rococo tradition, Gravelot's drawings and engravings were highly refined. Having been familiarized with the Rococo style of art, Gainsborough eventually enrolled at the tuition-free academy in St. Martin's Lane where he was taught by the school's leader, William Hogarth. Knowledge that he acquired here had a lasting impact on his career as an artist.</p>
+          <p type="p">Following a successful beginning when he was just seventeen in 1744, he was able to establish a studio in London. By 1746 he was working on commissioned projects from home. His career prospered further that year due to his marriage with an independently wealthy bride who was an illegitimate daughter of the third Duke of Beaufort. As such she was entitled for an annuity that brought stability to the artist and allowed him to pursue his work unencumbered.</p>
+          <p type="p">In 1749, upon moving to Suffolk with his wife, Gainsborough painted many canvases depicting friends and family including his wife and children in addition to portrait commissions. In one such portrait of his daughters, Mary, born in 1750 (his first child with the same name died in infancy about two years earlier) and Margaret, who was born in 1752 are shown at play. Although, he was not very passionate about portraiture, he liked to study animal forms and often included pets with their masters in portraits.</p>
+          <p type="p">When he moved to Ipswich in 1752, his career further propelled as he began to receive important commissions from the aristocracy. Owing to his strong interest in music, he opted for membership in the Ipswich Music Club, which helped his profession by bringing in new friends and commissions. His friendship with Captain Philip Thicknesse, a witty writer, resulted in an early anecdote of his talent to create effects of &lt;i&gt;trompe l'oeil&lt;/i&gt;. As Thicknesse wrote: "One day while taking a stroll in the country I was struck by what appeared to be a sad man leaning against a garden wall. Upon approaching closer, I realized that it was a painting made by Gainsborough to trick those who passed by".</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Gainsborough's career truly flourished when he relocated to Bath in 1759. Practice of portraiture won him accolades of important commissions from the aristocratic and elite residents of the town. It was an encouragement to the artist who until then could not wholeheartedly appreciate portraiture as a genre. But now, he began to learn more about it from the works of Flemish Baroque painter, Anthony van Dyke. In his portraits of these high society clients, he incorporated intricate details of contemporary fashion and clothing, recalling his family's association with the textile industry. With relation to portraits of women, Gainsborough took extra care to imbue characteristics of humanity and tenderness as well as a sense of covert sensuousness, which perhaps was due to his affinity with and appreciation for the works of Peter Paul Rubens.</p>
+          <p type="p">Even as he gained reputation through portraits, his true passion for landscapes continued. His excellence in this genre can be discerned throughout his career and he painted more than one hundred such works after arriving in Bath. According to the artist, he painted "portraits for money, and landscapes because he loved them". He wanted to be considered first and foremost as a landscape painter. Having developed a unique style in this field of painting, he became a leader of the distinct British School of landscape art.</p>
+          <p type="p">Gainsborough's success as an artist was largely due to his innovative technique along with an individualistic approach to subject matter that differentiated him from his peers and staunch rivals. He was an unrelenting soul, constantly in search of new ways of art making or seeking to improvise the existing methods. In this regard, he explored the effects of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chiaroscuro_tenebrism_sfumato"&gt;chiaroscuro&lt;/span&gt; using candlelight. He developed a light box, a device that could be used to view shadows and transparencies while painting his subjects. Further, color rendered in loose brushstrokes that offered a better view from an appropriate distance was his specialty. For, he felt that it was important for the spectators to gauge the effort that went into the making of an artwork; he referred to this as "the touch of the pencil". This idea and its associated technical breakthrough is a precursor to the aesthetic innovations of early modern artists such as, the Impressionists.</p>
+          <p type="p">From about 1761 he began to send his works to the Society of Arts exhibition, which is now the Royal Society of Arts, in London. Gainsborough was one of the earliest members of this Society. The following year a press review of his work appeared in the London press. He was invited to become a founding member of the Royal Academy in 1768. His participation in the Royal Academy's annual exhibitions since then gained him a national reputation.</p>
+          <p type="p">A serious illness befell the artist in 1763, which would weaken his health for the rest of his life. This condition is believed to be the consequence of his dalliances with women about which he admitted (quite derogatorily) that he was "deeply schooled in petticoats,". In all probability then, he had contacted a venereal disease. In spite of this, his loyal and dedicated wife nursed him through this. What followed was a very brief phase of self-reproach: in one reflective instance he wrote: "I shall never be a quarter good enough for her if I mend a hundred degrees."</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="p">By 1774 when Gainsborough moved to London, he had approached the last years of his career. The practice that he began in London was at a location within a convenient proximity to St. James' Place and the residences of many members of the aristocracy. The artist eventually settled in the part of Schomberg House in Pall Mall where he established his studio and a gallery to exhibit his works. His neighbor James Christie, the founder of Christie's Auction House, became a close friend. Their friendship was also of mutual benefit professionally in that Gainsborough had an opportunity to paint the auctioneer's portrait and he in turn received expert advice on the paintings he was working on.</p>
+          <p type="p">Living and working in this part of London also made his works noticeable by the Royal Family along with King George III, who not only admired his paintings but also preferred him over his arch rival, Joshua Reynolds, for a commission to paint the King and Queen. In fact Queen Charlotte liked the artist so much that she owned twenty-two of his works on paper. Gainsborough cherished this court patronage and also came to be known as "Apollo of the Palace." Although he remained a favorite painter of the Royal Family, in 1784 when Allan Ramsay, the court painter died, the King appointed Joshua Reynolds to the position leading to a friction in the relationship between him and the sovereigns. His rivalry with Reynolds also brought him in conflict with the Royal Academy, as the latter was also the Academy's President. Consequently, Gainsborough withdrew from exhibitions on more than one occasion when his instructions regarding the way he wanted his works to be hung were not followed.</p>
+          <p type="p">Personal disappointments and tragedies marked the last phase of Gainsborough's life.</p>
+          <p type="p">Ladies in his family disapproved moving to London and as a result his wife fell into depression and his daughters began behaving in an unstable manner. His daughter, Mary eloped with a German musician, Johann Christian Fischer, only to return in six months as her marriage was short lived due to his unpleasant nature. Gainsborough was deeply saddened when his daughter eventually became mentally unsound.</p>
+          <p type="p">When the artist sensed an aberration in his neck in 1785, it was diagnosed as cancer. Gainsborough however, euphemistically referred to it as "Lieutenant Colonel" as it commanded and took control over his life. Realizing the imminence of death, his artistic urge propelled him to make the most out of the fading time. What followed was the creation of his two great masterpieces, &lt;i&gt;Market Cart&lt;/i&gt; (1786) and &lt;i&gt;The Woodman&lt;/i&gt; (1787) (now lost). The artist passed away in 1788 at the age of sixty-one and was buried according to his wish at his family church of St. Anne at Kew.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Statue of Thomas Gainsborough, Sudbury, Suffolk, England" show="0">/images20/photo/photo_gainsborough_thomas_2.jpg</p>
+          <p type="p">Within his country, Thomas Gainsborough contributed to the development of a national approach to subject matter and as such became one of the founders of the British School of art. Allan Cunningham wrote on this aspect in his book &lt;i&gt;The Lives of the Most Eminent British Painters thus&lt;/i&gt;, "A deep human sympathy unites us with his pencil, and this is not lessened because all his works are stamped with the image of old England; his paintings have a national look." Unique as he was with his ground breaking approach to subject matter, he has helped shape and influence the work of modern artists including James Abbott McNeill Whistler, Joseph Mallord William Turner and John Constable. In this connection Constable once stated that, "I see Gainsborough in every hedge and hollow tree" of his paintings.</p>
+          <p type="p">William Vaughan described his art making approach as "spontaneous and intuitive side of his art", which get reflected through the nuances of expression in portraiture and in the loose suggestive brushstrokes that animate his landscapes. His discerning ways were fully grasped and recognized only in the later decades in the course of development of modern art. Critic Roger Fry, for instance, has identified him as one of the artists who laid foundation for the early modernist movement of Impressionism.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="romanticism">The Hay Wain (1821)</artwork>
+    <artwork from="artist" page="turner_jmw">Slave Ship (Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On) (1840)</artwork>
+    <artwork from="artist" page="whistler_james_abbott_mcneill">Symphony in White, No.1: The White Girl (1862)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Cornard Wood, near Sudbury, Suffolk</title>
+      <year>1748</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Amidst the abundance of beautiful trees in the peaceful free woodlands, rural folk are seen moving across a serpentine path that activates the deep stillness of the woods. 
+				&lt;br/&gt;&lt;br/&gt;
+				Laid out from the left foreground, this alley introduces the viewer to a woodcutter, a worker on a short break from shoveling who is perhaps, conversing with a seated young lady. Upon moving further a man is seen treading along, with a bundle on his back and at a distance is a man riding a horse towards the church that is faintly visible at the end of the trail. On the right side of this road is a pond that quietly runs through the dense trees and foliage. 
+				&lt;br/&gt;&lt;br/&gt;
+				Gainsborough was perhaps, one of the earliest artists to have conveyed a statement against urban development via a retreat into nature through landscape painting. Having spent his later life in Bath and the city of London, although his desire for the country side never ceased, it seems he hoped for a better quality of rural life when he said, "We must jog on and be content with the jingling of bells, only damn it! I hate the dust! the kicking up of the dust, and being confined in harness to follow the track, while others ride in the wagon, under cover, stretching their legs in the straw at ease, and gazing at green trees and blue skies."
+				&lt;br/&gt;&lt;br/&gt;
+				An interesting latest development related to this work is the discovery of a study sketch in 2017 that was one of the twenty-six drawings in the Royal Collection at Windsor Castle. These were earlier incorrectly attributed to another artist, Sir Edwin Landseer.
+				&lt;br/&gt;&lt;br/&gt;
+				This drawing provides an insight into the process of working of the creative mind of the artist in that Gainsborough makes a plan, a perfect blueprint by composing the trees on a grid to help him progress with the final painting based on this schema. 
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Mr. and Mrs. Andrews</title>
+      <year>c.1750</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In the middle of the 18&lt;sup&gt;th&lt;/sup&gt; century, a recently married wealthy couple wanted to commemorate their status by commissioning this art work. On the extreme left is Mr. Robert Andrews, while Mrs. Frances Andrews is seated on a bench. They are dressed in the costumes that reflect contemporary English aristocratic life style. Elements in the surrounding landscape of Auberies, Andrews' estate in Sudbury, convey that the vast land in their control is also used for producing wheat and includes a sheep farm. Facility with modern means of farming it seems has provided Mr. Andrews with enough leisure for other pursuits of interest as he is here shown sporting a typical hunting hat and clasps a rifle under his right arm. An elaborate 'Mantua' gown of light blue in which the lady appears was an outfit to be worn for ceremonies at court. 
+				&lt;br/&gt;&lt;br/&gt;
+				Displaying their opulence, the couple seems to be looking at the spectators as if in a conversation. For, this work can be categorized as a 'conversation piece', a genre of informal group portraits of people in discussion, usually ignorant of the viewer, which was popular in 18&lt;sup&gt;th&lt;/sup&gt; century England. However, this work is unusual and deviates from that tradition in more ways than one, for instance Mr. and Mrs. Andrews are clearly acknowledging the presence of the artist as viewer. Also, Gainsborough aligns the man and wife on to the left to give more space for landscape, unlike such works that emphasized the sitters and placed them in the center. This distinction explains the artist's penchant for landscape on the one hand and yet the importance of portraiture as it was his primary source of income. 
+				&lt;br/&gt;&lt;br/&gt;
+				Further, there is something uncanny about their facial expression, which has been an issue of debate among art historians and critics. In this regard, critic John Berger opines that the grim faces of the couple was intended by the artist to make a statement about the egoistic attitude of the wealthy landowners. Some others disagree with this explanation due to the fact that the artist knew the duo personally in that Mrs. Andrew's father had helped John Gainsborough when he went bankrupt. This was reason enough for their scornful looks, particularly in the context of a class-conscious society as has been interpreted by author William Vaughn, "in her eyes, Thomas Gainsborough was the son of a charity case. The artist knew those looks this couple were giving him and recorded them with characteristic exactness." The presence of the dog that glances at them not only intensifies their condescension but also adds a pinch of sarcasm.
+				&lt;br/&gt;&lt;br/&gt;
+				Any extent of interpretation seems inadequate when confronted with a blank space in the painting. An unfinished area of canvas on the lady's lap where her hands rest heightens the mystery. 
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>The Painter's Daughters Chasing a Butterfly</title>
+      <year>c.1756</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				As the title suggests, the work portrays Thomas Gainsborough's daughters, five-year old Mary and her three year old sibling, Margaret. It is as if the artist anxiously wanted to capture a moment that was part of a swift movement like chasing a butterfly in which his two charming little daughters were engrossed.
+				&lt;br/&gt;&lt;br/&gt;
+				This is one of the earliest of the many portraits featuring his daughters that he painted throughout his career. Gainsborough observed his children with a child-like curiosity and enthusiastically wished to record their precious moments. It is perhaps, for this reason that the portrait here appears to be unfinished like a study that was part of a series of works depicting his children engaged in different activities. One very distinguishing aspect about this work is that, though it seems to be a literal depiction, it unfolds itself to possibilities of metaphorical interpretation. As a child's act of chasing a butterfly could relate to the dangers associated with the pursuit of earthly desires and resultant vanities. From this vantage point, the work stands out as a rare example of allegorical representation in the artist's entire &lt;i&gt;oeuvre&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				It becomes evident from this painting that despite being reluctant towards portraiture, Gainsborough excelled in the genre when he painted portraits of people with whom he was emotionally attached. However, later in life when he aspired that his children too should get trained as artists, they rebelled. He expressed his dismay with the attitude of his daughters thus: "But these fine ladies and their tea drinkings, dancings, husband huntings and such will fob me out of the last ten years, and I fear miss getting husbands too."
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Ann Ford (Later Mrs. Philip Thicknesse)</title>
+      <year>1760</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This Thomas Gainsborough's portrait features the young Miss. Ann Ford, who would be future wife of the artist's friend Philip Thicknesse who was an up-and-coming musician and a well-known beauty. Here, she is shown seated in a regal posture as she gently rests her left elbow on a table and above a pile of sheet music. Her knowledge of playing several fretted string musical instruments becomes evident by the presence of a cittern that lies cradled on her lap and the viola da gamba that is shown in the background. Due to his personal interest Gainsborough frequented centers of music, where in all probability he would have met Ann Ford. 
+				&lt;br/&gt;&lt;br/&gt;
+				Significance of this work lies in the fact that it was the first full length portrait after Gainsborough moved to Bath and hence, he intended to demonstrate excellence in portraiture so as to attract further such commissioned work. Exemplary as the work is with regard to the artist's attention to minute details of fabric patterns, textures and of jewelry or accessories, it is comparable to the works of another important portrait artist from England, Anthony van Dyke. 
+				&lt;br/&gt;&lt;br/&gt;
+				Dressed in a rich white brocade silk garment of sophisticated workmanship complimented by a black beaded choker around her neck and matching wrist bands, she exudes sensuous elegance with her legs crossed.
+				&lt;br/&gt;&lt;br/&gt;
+				As in so many of his works, Gainsborough makes it a point to extract the sitter's personality by not only providing details of their hobbies and profession but also via the postures and expression. In this context, Ann Ford's portrait highlights her liberal and modern outlook by representing her in a pose involving multiple body bends. What emerges from this stance is a seductive curvy contour, which is enhanced by the crossing of her legs that was considered inappropriate for women of polite society. By picturing her in this way the artist reveals her rebellious character as she had decided to go against her father's (a respectable lawyer) wish to perform in public for which he even had her arrested.
+				&lt;br/&gt;&lt;br/&gt;
+				Although Ann Ford was a controversial musician, her portrait contributed positively towards the artist's reputation. One notable member associated with the royal family referred to the painting as, "a most extra-ordinary figure, handsome and bold; but I should be very sorry to have any one I loved set forth in such a manner." 
+			</desc>
+      <collection>Collection of Cincinnati Art Museum, Cincinnati, Ohio</collection>
+    </artwork>
+    <artwork>
+      <title>The Blue Boy</title>
+      <year>1770</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A young boy dressed in glistening blue satin stands with a left foot placed slightly forward and the left arm resting on his waist as he gazes directly at the viewer displaying majestic poise. Adding to the charm and ease of his posture is the way he loosely holds a black hat with white feathers. Titled rather literally, &lt;i&gt;The Blue Boy&lt;/i&gt; is the first try that Gainsborough takes at presenting a full length portrait in a van Dyke-style costume, that is, knee breeches and a slashed doublet along with a laced collar. He is positioned against a landscape that applies nature based abstraction with simplified trees and stormy skies. It may be true that Gainsborough learnt from the style of master artists, but it is also equally a fact that he did not conform to conventions in creating his own compelling way of executing portraits, thereby strengthening his position as a revolutionary artist.
+				&lt;br/&gt;&lt;br/&gt;
+				Gainborough's modernity comes to the fore with his innovative use of color. His treatment of blue as the main color to define the subject of the painting goes against the established conventions of Western traditions where a warm color scheme was considered most effective to advance the subject of the work, while the blues and greens, often in horizontal orientation, were believed to be receding colors suitable for the background. Disproving this theory, Gainsborough successfully employs blue as the focal color with a vertical placement.
+				&lt;br/&gt;&lt;br/&gt;
+				Controversy around the motive behind creating this work points in the direction of a deliberate attempt at contradicting a statement made by his rival Joshua Reynolds regarding color. This is a source of debate as the statement made by Reynolds seems to have been made years after the painting was finished. Regardless of the motive, in creating a work that moves beyond the canons of a historical portrait Gainsborough transcends prior norms. He supported this when he stated, "Sir Joshua either forgets, or does not choose to see that his instruction is all adapted to form the history painter, which he must know there is no call for in this country." 
+				&lt;br/&gt;&lt;br/&gt;
+				By rejecting the redundant notions of historical painting, Gainsborough's works created a new way of envisioning what a portrait could be and laid the foundation for future generations of modern artists. His influence can be seen in the works of Jacques-Louis David and continued to inspire other modern artists such as James Abbott McNeill Whistler who learnt from Gainsborough's technique and created a portrait of a young girl, Eleanor Leyland, in 1879 that he referred to as a "Blue Girl" (now destroyed). This work has also appeared in the modern consumer culture of mainstream society by way of being depicted on British cookie packages. Also, it was selected by the Walt Disney Company for their "Gallery of Old Masters" as one of the works, which was reproduced by replacing Donald Duck as the boy.
+			</desc>
+      <collection>Collection of Huntington Library, Art Collections and Botanical Gardens, San Marino, California</collection>
+    </artwork>
+    <artwork>
+      <title>Mountain Landscape with Shepherd</title>
+      <year>1783</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Thomas Gainsborough's &lt;i&gt;Mountain Landscape with Shepherd&lt;/i&gt; features a shepherd tending his sheep on the banks of a pond amidst hilly as well as mountainous terrain. 
+				&lt;br/&gt;&lt;br/&gt;
+				Moving beyond a lush array of trees would open up the background further to the soft pastel tones of blues, violets, yellows, and grays that subtly blend the mountains into the cloudy sky.
+				&lt;br/&gt;&lt;br/&gt;
+				This landscape painting marks a departure for the artist from his previous focus on naturalism with more exact depictions of locations. It was an intentional shift that went against the demands of artists including that of his contender, Joshua Reynolds who continued to support traditional methods of practice with relation to subject matter.
+				&lt;br/&gt;&lt;br/&gt;
+				The story about the making of this painting unfolds an interesting methodology applied by the artist in that he constructed a model landscape in his studio by the creative use of disparate materials like cork, sand, clay, moss and in this case, even vegetables such as broccoli. Thus, Gainsborough was able to see the simplified versions of larger natural elements in the most ordinary organic things that he found around him. He used milk to represent a pond; a broccoli floret could be a model for a tree and the like. This idea is somewhat similar to how Cézanne would revolutionize painting in the late-19&lt;sup&gt;th&lt;/sup&gt; century and early-20&lt;sup&gt;th&lt;/sup&gt; century - that every object in nature could be likened to a more basic, geometric form.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Georgiana, Duchess of Devonshire</title>
+      <year>c.1785</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Lady Georgiana Cavendish, the fifth Duchess of Devonshire gazes out of the picture frame straight at the viewer, who is then further captivated by her tantalizing half-smile. Frills of her white silken gown match with the shiny curls of her hair that cascades down her shoulders and back, while being partially tucked under a very large black hat with a white ribbon. In one arm she holds a blooming rose and in the other a pink rose bud is held between her delicate fingers. The artist paints her face in the center of the canvas, but creates a dynamic balance by showing her in three-fourth profile.
+				&lt;br/&gt;&lt;br/&gt;
+				In the Grand Manner of portraits, of which this work is exemplary, a style Gainsborough began to develop as early as the mid-1750s and for which he was best known. Although he also painted many portraits of men in this manner, his earned the larger reputation of being a painter of "fashionable women." With his highly painterly approach to the subject he could imbue an air of aristocratic high society to all women sitters irrespective of their status or standing in life.
+				&lt;br/&gt;&lt;br/&gt;
+				At the time of the painting, the Duchess of Devonshire was a political activist and was in the center of controversy with regard to the Whig party campaign in 1784 when scandalous rumors of her trading votes for kisses created a flutter. Despite the defamation and ridicule in which her career was caught up, she continued undaunted with her activism to support the party that was anti-crown and promised liberty against tyranny. 
+				&lt;br/&gt;&lt;br/&gt;
+				Her radical attitude matched with Gainsborough's liberal choice of subjects for portraits in this work. Focus on such contentious personalities as subjects for portraiture would be taken to new heights following exemplary works such as this one.
+			</desc>
+      <collection>Devonshire Collection, Chatsworth, England</collection>
+    </artwork>
+    <artwork>
+      <title>Mr and Mrs William Hallett, 'The Morning Walk'</title>
+      <year>1785</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Thomas Gainsborough's &lt;i&gt;The Morning Walk&lt;/i&gt; features a well-dressed, high society couple on a stroll through the countryside in the manner of a 'conversation piece'. The couple is oblivious of the viewer and engrossed among themselves holding arm in arm and looking towards something in the distance off to their right. On the bottom left of the canvas is a small white Spitz dog that looks up enthusiastically at the duo. It seems to be wagging its tail as it paces along next to Elizabeth Stephen who is wearing an ivory silk frilly dress with a suitable black hat that has a white bow and feathers. On her left walking adjacent to her is a man in a black silk velvet frock suit and white stockings. The lady and the gentleman, Mr. and Mrs. William Hallett, had recently married leading many to believe that they have been depicted in their wedding clothes. 
+				&lt;br/&gt;&lt;br/&gt;
+				Painted during the last years of his life when he was settled in London, this work demonstrates Gainsborough's fully developed aesthetic maturity in making detailed portraits of important people. Extolling the wealth and social status of his sitters through the extravagance of their costumes was the artist's &lt;i&gt;forte&lt;/i&gt;. This work is one such example that captures the couple at their best during a happy phase of their life (the joyful time was short lived as the man would lose all their riches in gambling). 
+				&lt;br/&gt;&lt;br/&gt;
+				The significance of this work is also due to its illusion of movement. By synchronizing the impression of motion at different levels - the figures depicted in mid-stroll, the frills of Mrs. Hallett's dress, the curling fur of the dog, and the wavy tree branches, Gainsborough sets an example that many would follow and emulate.
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>The Market Cart</title>
+      <year>1786</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A pastoral scene, Thomas Gainsborough's &lt;i&gt;The Market Cart&lt;/i&gt;, depicts a family, traveling on a cart down a tree-lined diagonal path from left towards the right foreground of the canvas. A mother and child are seated on the cart, while a man, a toddler, and dog walk alongside the cart as it slowly maneuvers through the uneven alley amid towering oak trees and under the approaching umbrella of silvery clouds. 
+				&lt;br/&gt;&lt;br/&gt;
+				The farming community and their sustenance depended on the markets. Such markets gradually became more common even before the beginning of modern society. At about the time when this work was painted it was the dawn of great movements like Agricultural Revolution that was a couple of decades ahead of the Industrial Revolution in the late-18&lt;sup&gt;th&lt;/sup&gt; century. These social changes altered the concept of rural farming and eventually transformed it to become more productive and powerful. Steady alterations took shape in the farming practices that included crop rotation, new machinery, and an increase in capital investments. Steep rise in crop yields, displacement of labor force from farmlands to service oriented work and industry were a few major consequences of this changing landscape of Great Britain. On the negative side of this progress were the male workers in search of earning a living, who had to sustain themselves with activities like threshing, woodcutting, mowing, and collecting faggots. Gainsborough realized this hard work of day laborers and added a woodcutter in the shadow of the trees on the right foreground gathering faggots a year after it was painted and first exhibited.
+				&lt;br/&gt;&lt;br/&gt;
+				Although farmer's lives were not easy at this time, the rapid changes led to high hopes for the farming community and therefore, '&lt;i&gt;The Market Cart&lt;/i&gt;' is set in an idealized landscape exploring prosperity and locates itself within the paradigm of Romanticism, perhaps as a precursor to it. In this context, the work assumes significance as it lays foundation for the next generation of modern artist's like Joseph Mallord William Turner, David Wilke, and John Constable. The latter, when speaking of Gainsborough's influences said, "The stillness of noon, the depths of twilight, and the dews and pearls of morning, are all to be found on the canvases of this most benevolent and kind-hearted man. On looking at them, we find tears in our eyes, and know not what brings them."
+				&lt;br/&gt;&lt;br/&gt;
+				With this, the last landscape work of his life and career, Gainsborough returned to depicting the English countryside. However, on a personal note for an ailing Gainsborough, a longing and nostalgia for the rural landscape from where he began his journey as an artist may have prompted this metaphorical representation of the cart returning home at the end of the day.
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Cottage Girl with Dog and Pitcher</title>
+      <year>1785</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A young cottage girl holding a dog in her left arm and a pitcher in her right is portrayed by Thomas Gainsborough here. Clad in ragged clothes, this poor girl is wandering along with her pet pal on bare feet, may be in search of food and water. A deep sense of melancholy is brought to surface when she stares with her dull, downcast eyes at a distant object outside the picture frame. Cloudy skies add to this gloomy mood and hold a sway over the trees to wave an air of desolation.
+				&lt;br/&gt;&lt;br/&gt;
+				Created at the end of his career, this painting is one among the variety of "fancy pictures" by the artist. But, it can even be subsumed within the category of his allegorical paintings in which he associates the girl, lost in wilderness and evokes pity, with his own daughter who had lost her senses. Gainsborough excelled in romanticized depictions of children, youth, and lovers in rural settings. These paintings are idealized representations that create a poetic view of rural innocence at a time when ill effects of urban expansions were consciously felt by many people. 
+				&lt;br/&gt;&lt;br/&gt;
+				These works are more romanticized and narrative when compared to many other portraits he had created during his career. Artist and writer William Hazlitt recognized this when he stated that these works were not mere representations of nature as much as they were examples of "nature sitting for its portrait." Perhaps ironically, these were the works that his rival Reynolds, admired most as he was less successful in these types of paintings. He even bought one for his own collection and stated, "In his fancy pictures, when he had fixed on his object of imitation, whether it was the mean and vulgar form of a woodcutter, or a child of an interesting character, as he did not attempt to raise the one, so neither did he lose any of the natural grace and elegance of the other."In their own day these works were highly regarded and considered progressive, innovative approaches to subject matter. Through such pioneering efforts, Gainsborough helped shape the foundation towards the development original ideas in the arts.
+			</desc>
+      <collection>Collection of National Gallery of Ireland, Dublin, Ireland</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Anthony van Dyck">van_dyck_anthony</entity>
+        <entity alt="Hubert François Gravelot">gravelot_hubert_francois</entity>
+        <entity alt="Francis Hayman">hayman_francis</entity>
+        <entity alt="William Hogarth">hogarth_william</entity>
+        <entity alt="Joshua Reynolds">reynolds_joshua</entity>
+      </column>
+      <column>
+        <entity alt="Karl Friedrich Abel">abel_karl_friedrich</entity>
+        <entity alt="Johann Christian Bach">bach_johann_christian</entity>
+        <entity alt="James Christie">christie_james</entity>
+        <entity alt="Allan Cunningham">cunningham_allan</entity>
+        <entity alt="Joshua Kirby">kirby_joshua</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>realism</entity>
+        <entity>rococo</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>constable_john</entity>
+        <entity alt="Francis Hayman">hayman_francis</entity>
+        <entity alt="Thomas Lawrence">lawrence_thomas</entity>
+        <entity alt="Joshua Reynolds">reynolds_joshua</entity>
+        <entity>whistler_james_abbott_mcneill</entity>
+      </column>
+      <column>
+        <entity alt="Karl Friedrich Abel">abel_karl_friedrich</entity>
+        <entity alt="Johann Christian Bach">bach_johann_christian</entity>
+        <entity alt="James Christie">christie_james</entity>
+        <entity alt="Allan Cunningham">cunningham_allan</entity>
+        <entity alt="Joshua Kirby">kirby_joshua</entity>
+      </column>
+      <column>
+        <entity alt="British School">british_school</entity>
+        <entity>realism</entity>
+        <entity>rococo</entity>
+        <entity>romanticism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Gainsborough</title>
+          <link>050020358X</link>
+          <info>By William Vaughn</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>The Letters of Thomas Gainsborough</title>
+          <link>030022303X</link>
+          <info>Edited by John Hayes</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>The Art of Thomas Gainsborough</title>
+          <link>B001U1AFF8</link>
+          <info>By Michael Rosenthal</info>
+        </entry>
+        <entry>
+          <title>Thomas Gainsborough and the Modern Woman</title>
+          <link>1904832857</link>
+          <info>By Benedict Lea</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Gainsborough's House</title>
+          <link>http://www.gainsborough.org</link>
+          <info>Museum dedicated to Thomas Gainsborough located in his childhood home in Sudbury, United Kingdom</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Gainsborough's Landscape, Holburne Museum, Bath - Review</title>
+          <link>http://www.telegraph.co.uk/culture/art/art-reviews/8832456/Gainsboroughs-Landscape-Holburne-Museum-Bath-review.html</link>
+          <info>
+						The Telegraph
+						&lt;br&gt;
+						October 17, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Thomas Gainsborough sketches newly discovered at Windsor Castle</title>
+          <link>https://www.theguardian.com/culture/2017/jul/09/thomas-gainsborough-sketches-newly-discovered-at-windsor-castle</link>
+          <info>
+						The Guardian
+						&lt;br&gt;
+						July 9, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>The Nomadic Eye: Traveling through Thomas Gainsborough's Landscape</title>
+          <link>https://www.youtube.com/watch?v=vAqylWeRius</link>
+          <info>This video is a recording of a lecture Mark Hallett gave on December 9, 2015 at The Morgan Library &amp; Museum focused on Gainsborough's landscape works</info>
+        </entry>
+        <entry>
+          <title>Thomas Gainsborough sketches discovered at Windsor Castle - BBC News</title>
+          <link>http://www.bbc.com/news/av/entertainment-arts-40535231/thomas-gainsborough-sketches-discovered-at-windsor-castle</link>
+          <info>This brief news clip discusses the amazing 2017 discovery of twenty-five sketches by Thomas Gainsborough which were found in the royal art collection at Windsor Castle</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Donald Duck as Gainsborough's Blue Boy Painting in the Disney Store, June 2005</title>
+          <link>http://www.ipernity.com/doc/laurieannie/24423735</link>
+          <info>This link shows a reproduction of Thomas Gainsborough's The Blue Boy featuring Donald Duck as the boy which was displayed at the World of Disney Store in New York City</info>
+        </entry>
+        <entry>
+          <title>15 Things You Might Not Know About The Blue Boy</title>
+          <link>http://mentalfloss.com/article/67427/15-things-you-might-not-know-about-blue-boy</link>
+          <info>
+						Mental Floss, August 25, 2015
+						&lt;br&gt;
+						This article includes a discussion of some of the ways Thomas Gainsborough's The Blue Boy (1770) has been referenced in popular culture including in F.W. Murnau's 1919 film Der Knabe in Blau (The Boy in Blue) in which a boy is dressed as a copy of the one depicted in Gainsborough's painting; and in the 2012 Quentin Tarantino film, Django Unchained in which actor Jamie Foxx's character walks around in a blue suit inspired by the costume worn by the boy in Gainsborough's painting
+					</info>
+        </entry>
+        <entry>
+          <title>Thomas Gainsborough painting, which appeared in James Bond movie Skyfall, allegedly slashed at National Gallery</title>
+          <link>http://www.eadt.co.uk/news/thomas-gainsborough-painting-which-appeared-in-james-bond-movie-skyfall-allegedly-slashed-at-national-gallery-1-4938112</link>
+          <info>
+						East Anglican Daily Times, March 19, 2017
+						&lt;br&gt;
+						This article discusses the damage done to Thomas Gainsborough's painting The Morning Walk (1785) which was featured in a scene with Daniel Craig in the James Bond movie Skyfall
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

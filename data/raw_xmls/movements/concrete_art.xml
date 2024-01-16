@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>concrete_art</id>
+    <name>Concrete Art</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1930 - 1959</years>
+    <description>Concrete artists based their compositions on mathematical and scientific formulas, rejecting any semblance of naturalistic subject matter.</description>
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1930</start>
+    <end>1959</end>
+    <pub_time>3/25/2019</pub_time>
+  </main>
+  <similar_artists>
+    <artist>van_doesburg_theo</artist>
+    <artist>mondrian_piet</artist>
+    <artist>gabo_naum</artist>
+    <artist>clark_lygia</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>constructivism</movement>
+    <movement>bauhaus</movement>
+    <movement>concrety_poetry</movement>
+    <movement>international_style</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>concrety_poetry</entry>
+    <entry>constructivism</entry>
+    <entry>bauhaus</entry>
+    <entry>international_style</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="van_doesburg_theo" alt="Theo van Doesburg">"A pictorial element has no other meaning than 'itself' and thus the picture has no other meaning than 'itself'."</q>
+    <q author="Theo van Doesburg">"The work of art must be entirely conceived and formed by the mind before its execution. It must receive nothing from nature's given forms, or from sensuality, or sentimentality."</q>
+    <q author="Wassily Kandinsky">"'Concrete Art' is in full development, above all in the free countries, and the number of young artists participating in the 'movement' increases in these countries. The future!"</q>
+    <q author="Max Bill">"Human thinking in general (and mathematical thinking in particular) need, in the face of the unlimited, a visual support. This is where art comes in."</q>
+    <q author="Max Bill">"Concrete art holds an infinite number of possibilities."</q>
+    <q author="Max Bill">"Such constructions are developed only on the basis of their given conditions and without any arbitrary attempt to modify them for reasons of proportion. With this method once the basic theme has been chosen - whether it be simple or complex - an infinite number of very different developments can be evolved according to individual inclination and temperament."</q>
+    <q author="Max Bill">"This method of thus developing and transforming a fundamental idea - a theme - into a variety of expressive forms derived from the theme itself is used by various artists in the realm of concrete art."</q>
+    <q author="Tomás Maldonado">"Every time I was working on something I used to wonder when I finished what were going to be the effects in other areas of thinking: .... General culture, sociology, philosophy, and politics too."</q>
+    <q author="Arte Madí Group, 1947">"Madí rises up, validating man's steady, absorbing desire to invent and construct objects with the absolute values of the eternal; together with humanity in its struggle to construct a new classless society that liberates the energy and dominates in every sense space, time and matter."</q>
+    <q author="Ferreira Gullar">"We use the term 'neo-concrete' to differentiate ourselves from those committed to non-figurative 'geometric' art (neoplasticism, constructivism, suprematism, the school of Ulm) and particularly the kind of concrete art that is influenced by a dangerously acute rationalism."</q>
+    <q author="Ferreira Gullar">"We do not conceive of art either as a 'machine' or as an 'object' but as a quasi-corpus, that is, an entity whose reality is not exhausted in the external relationships of its elements; an entity that, though analytically divisible into its parts, only gives itself up fully to a direct, phenomenological approach."</q>
+  </quotes>
+  <authors>
+    <author link="thomas">Greg Thomas</author>
+  </authors>
+  <article>
+    <synopsys>Concrete Artists, following in the footsteps of movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt;, offered an art entirely divorced from realistic subject-matter, based around precise and preemptive compositional structures, many of which represented mathematical or scientific formulas. In practical terms, Concrete Art was a movement of the mid-twentieth century: though it was given impetus by a manifesto penned by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_doesburg_theo"&gt;Theo van Doesburg&lt;/span&gt; in 1930, the term was popularized over the following two decades by the Swiss artist and designer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bill_max"&gt;Max Bill&lt;/span&gt;. By the 1950s, Concrete Art had grown into an internationally prevalent and immediately recognizable style, spreading outwards from its initial bases in France and Switzerland to find fertile ground all over Europe and, most significantly, in Latin America. The emergence of Neo-Concretism in Brazil in 1959 arguably signalled the demise of Concrete Art, but movements across a range of media, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic Art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hard_edge_painting"&gt;Hard-Edged Painting&lt;/span&gt;, and Concrete Poetry, continued to bear the trace of its influence.</synopsys>
+    <key_ideas>
+      <idea>One of the ideas underpinning the development of Concrete Art was that the artwork should refer to nothing other than itself: that is, that it should not represent external reality in any way. As van Doesburg put it in his "Basis of Concrete Painting", "[a] pictorial element has no other meaning than 'itself' and thus the picture has no other meaning than 'itself'." This emphasis is related to - but distinguished from - that of abstract art in the broader sense, wherein the initial stimulus for a painting and sculpture is often an external object or scene.</idea>
+      <idea>In practice, Concrete Art's emphasis on non-representation meant that it often turned to intangible subject-matter such as mathematical and algebraic formulas and scientific theories for inspiration. In the Allianz Group fronted up by Max Bill in 1930s Switzerland, for example, artists would create paintings in which every possible visual combination of a pre-determined number of compositional elements was presented on the canvas, in fulfilment of a mathematical formula. Other artists such as Bill himself produced paintings and sculptures which visualized modern scientific theories such as space-time relativity. Though much abstract art had been moving in this direction since the 1910s, it was the Concrete Artists who brought to full realization the idea that a painting could represent, say, an algebraic formula rather than a person or an object.</idea>
+      <idea>Like its ancestral movements Constructivism and De Stijl, Concrete Art transcended medium boundaries. Its most famous exponent Max Bill was an industrial designer and architect as well as a painter; in Latin America, the example of the Concrete Art movement inspired the development of modernist architecture, culminating in the construction of Brasília during 1956-60. At the root of this interdisciplinary agenda was the idea that the movement should proceed from compositional principles so elemental and universal that they could be applied to any medium.</idea>
+      <idea>Though it divested itself of the task of representation, Concrete Art was deeply engaged with the social realities of its time, and often implicitly political. From its original base in Switzerland - a country whose neutrality during World War II ensured the movement's early survival - it grew to comprise an international language of visual symbols and logic, which spoke to a post-1945 desire to rebuild international cultural relations. In Brazil and Argentina in the 1940s-50s, Concrete Art became the symbol of an idealistic youth culture that sought to reconstruct society on more rational, humane lines.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Constructivism">
+          <p type="p">Concrete Art can trace its origins back to the early-twentieth-century movement of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;, which in turn cannot be discussed in isolation from the invigorating effects of the 1917 Russian Revolution. Since the late 1900s, Russian artists such as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-malevich_kasimir"&gt;Kazimir Malevich&lt;/span&gt;, and various individuals attached to movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rayonism"&gt;Rayonism&lt;/span&gt;, Neo-Primitivism, and Cubo-Futurism, had been undertaking exercises in breaking down the picture plane and redefining sculptural form. This aim was shared with other movements across Europe, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, but in the febrile political atmosphere of Russia in the mid-1910s it was increasingly pegged to a revolutionary political agenda. Non-figurative representation was seized on as a metaphor for the revolutions in thought and perception that the Revolution would usher in.</p>
+          <p type="p">Amongst the many artists central to this yoking together of revolutionary and artistic sentiment were the sculptor &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gabo_naum"&gt;Naum Gabo&lt;/span&gt;, his brother &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pevsner_antoine"&gt;Antoine Pevsner&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stepanova_varvara"&gt;Varvara Stepanova&lt;/span&gt; and her husband &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodchenko_alexander"&gt;Alexander Rodchenko&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tatlin_vladimir"&gt;Vladimir Tatlin&lt;/span&gt;. As significant as the revolutionary impetus of their work - and closely related to it - was a current of logical, scientific, anti-emotional thought. To these artists, non-figurative expression became a way of representing the objective scientific and mathematical forces that configured the universe's appearance to the naked eye. By representing those forces, their artworks would become the talismans around which Soviet society and psychology would construct itself. In their 1920 statement "The Realistic Manifesto", Gabo and Pevsner asserted: "we construct our work as the universe constructs its own, as the engineer constructs his bridges, as the mathematician his formula of the orbits". This basic sentiment remained at the core of much Concrete Art.</p>
+        </subsection>
+        <subsection title="De Stijl and Neo-Plasticism">
+          <p type="p">While Constructivism was being defined and debated in Russia, a group of artists based in the Netherlands were developing a geometrical abstraction of similar import, though with a more spiritual, less explicitly politicized value. Chief amongst them was the Dutch painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian&lt;/span&gt;, who, during the 1900s-10s, was influenced first by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Seurat's&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pointillism"&gt;Pointillism&lt;/span&gt; and then by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Braques's&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytical_cubism"&gt;Analytical Cubism&lt;/span&gt;. Attracted to artistic styles that proposed universally applicable principles of composition - and committed to the logical dissection of the picture plane - he fell increasingly under the sway of the Theosophical movement. In particular, he was inspired by the Neo-Platonist mathematician M.H.J. Schoenmaker, who in his 1916 text &lt;i&gt;Principles of Plastic Mathematics&lt;/i&gt; had proposed a system of mathematical forms underlying all perceptible reality, consisting of contrasting horizontals and verticals and the three primary colors.</p>
+          <p type="img" alt="Piet Mondrian's &lt;i&gt;Composition with Large Red Plane, Yellow, Black, Gray, and Blue&lt;/i&gt; (1921) sums up many of the principles of Neo-Plasticism" show="1">/images20/photo/photo_concrete_art_1.jpg</p>
+          <p type="p">The following year Mondrian, along with the Dutch artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_doesburg_theo"&gt;Theo van Doesburg&lt;/span&gt;, Vilmos Huszár and Bart van der Leck, and the architects J.J. Oud, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rietveld_gerrit"&gt;Gerrit Rietveld&lt;/span&gt; and Robert van 't Hoff, founded the journal &lt;i&gt;De Stijl&lt;/i&gt;. It was dedicated to the newfound principles of abstraction that Mondrian had discovered in theosophical theory and mathematics, and which other group members had reached independently. Pioneered by Mondrian and dubbed "Neo-Plasticism", the style promoted in the journal was based on a strict, non-symmetrical arrangement of vertical and horizontal elements, with the color-palette restricted to black, white, red, yellow and blue. The aim, in short, was to forge a universal language for art that could unite peoples and cultures in the wake of the First World War. Like Constructivism in Russia, this new style was intended to transcend medium boundaries, with comparable principles being applied to design and architecture.</p>
+          <p type="p">If Constructivism supplied the political and rational vigor of the Concrete Art movement, Neo-Plasticism provided an underlying spiritual impetus, while still being rooted in a utopian social vision, and in comparable principles of rational, geometrical abstraction. In practical terms, debates in and around the &lt;i&gt;De Stijl&lt;/i&gt; grouping gave rise to the coinage of the term Concrete Art, as its most outspoken member Theo van Doesburg became increasingly frustrated with the strict formalism of Mondrian, and hunted out new forms and terminologies.</p>
+        </subsection>
+        <subsection title="Theo Van Doesburg at the Bauhaus">
+          <p type="img" alt="Van Doesburg's &lt;i&gt;Simultaneous Counter-composition&lt;/i&gt; (1929)" show="1">/images20/photo/photo_concrete_art_2.jpg</p>
+          <p type="p">Amongst the sources of friction in the Neo-Plasticist movement during the early 1920s was that Theo van Doesburg was increasingly engaged with the ideology of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; school. Formed in Weimar in 1919 by the architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, the Bauhaus had by the early 1920s become the principle outpost of Constructivist aesthetics in Europe, particularly after &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moholy_nagy_laszlo"&gt;László Moholy-Nagy&lt;/span&gt; took over the school's "basic course" in 1923. Van Doesburg gave lectures on De Stijl at the Bauhaus in 1921, and in 1922 moved to Weimar to integrate himself with the faculty. He was considered too dogmatic by Gropius to be offered a teaching post, but based himself near the institution, teaching interested students about Constructivism, Dada and De Stijl.</p>
+          <p type="p">During 1912-14, Mondrian had lived in Paris, and in 1919 he returned there. In 1923 van Doesburg left Weimar for the French capital to be closer to him, but their physical proximity - previously, they had never actually lived near to one another - led to animosity. Introverted and esoteric, Mondrian was often affronted by the pugnacious, extroverted van Doesburg.</p>
+          <p type="p">Van Doesburg was also becoming increasingly frustrated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_plasticism"&gt;Neo-Plasticism's&lt;/span&gt; insistence on the exclusive use of primary colors and straight lines. In 1926, he developed a style called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-elementarism"&gt;Elementarism&lt;/span&gt; which introduced diagonals and mixed colors into the compositional lexicon: his &lt;i&gt;Simultaneous Counter-Composition&lt;/i&gt; (1929-30) gives a sense of the distinctions which had emerged within the movement around &lt;i&gt;De Stijl&lt;/i&gt; by that time. Mondrian, for his part, seceded from the group in protest.</p>
+          <p type="p">Nonetheless, Mondrian and van Doesburg remained in Paris for the remainder of the 1920s, and it was partly their presence there which meant that the most vital developments in geometrical abstraction during that decade occurred within the city, culminating in the publication of Van Doesburg's "Basis of Concrete Painting" in 1930, just a year before his death.</p>
+        </subsection>
+      </section>
+      <section title="Key themes">
+        <subsection title="Art Concret: Movement, Magazine and Manifesto">
+          <p type="img" alt="Theo van Doesburg's “Basis of Concrete Painting” as it appeared in Art Concret in (1930)" show="1">/images20/photo/photo_concrete_art_5.jpg</p>
+          <p type="p">As well as hosting a burgeoning abstract art movement, Paris in the 1920s was the center of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, spearheaded by the writer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;, which had emerged partly from the anti-rationalist spirit of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;. Combining Dada's love of the inexplicable and other-worldly with an increasingly realistic method of representation, Surrealism stood for all that artists such as Mondrian and van Doesburg opposed. It was partly from this sense of collective opposition that various new groupings emerged in the late 1920s, committed to the cause of a rational, abstract art.</p>
+          <p type="p">In 1929, the Uruguayan artist Joaquín Torres-García and the Belgian painter Michel Seuphor formed the group Cercle et Carré. Their aim was to bring together all artists committed to rational geometrical abstraction under an inclusive banner, but the dogmatic van Doesburg, who had initially been involved in discussions about the founding of the group, felt that it should be guided by more stringent principles. To that end, he formed the short-lived rival collective Art Concret, and in the single issue of its journal, &lt;i&gt;Art Concret&lt;/i&gt; (1930), published what has since become known as the foundational document of Concrete Art:</p>
+          <p type="p">We declare:</p>
+          <p type="p">1.	Art is universal.</p>
+          <p type="p">2.	The work of art must be entirely conceived and formed by the mind before its execution. It must receive nothing from nature's given forms, or from sensuality, or sentimentality.</p>
+          <p type="p">We wish to exclude lyricism, dramaticism, symbolism, etc.</p>
+          <p type="p">3.	The picture must be entirely constructed from purely plastic elements, that is, planes and colors. A pictorial element has no other meaning than "itself", and thus the picture has no other meaning than "itself".</p>
+          <p type="p">4.	The construction of the picture, as well as its elements, must be simple and visually controllable.</p>
+          <p type="p">5.	Technique must be mechanical, that is, exact, anti-impressionistic.</p>
+          <p type="p">6.	Effort for absolute clarity.</p>
+          <p type="p">"Basis of Concrete Painting" (1930) is a typically terse, polemical tract, calling in effect for a synthesis of all previous movements towards the rational expression of non-naturalistic subject-matter. Espousing a universal compositional language freed from emotional, spiritual, and subjective impulses, van Doesburg laid the groundwork for a movement that would divorce itself entirely from the expression of perceptual reality or symbolic meaning. Concrete Art was to be a language of pure form, signifying nothing more itself, defined on universally intuitable and logical principles. At the root of this ideal were both the rational and political idealism of Russian Constructivism and the esotericism of De Stijl.</p>
+          <p type="p">In 1931, van Doesburg died of a heart attack, aged just 47. His manifesto thus stands as an unrealized statement of intent, and it was down to a younger generation of artists to bring his vision of Concrete Art to fruition. One of van Doesburg's last acts was to help found the group Abstraction-Création, which incorporated Cercle et Carré and Art Concret, uniting the sparring factions in Paris's community of abstract artists.</p>
+        </subsection>
+        <subsection title="Max Bill and the Allianz Group">
+          <p type="img" alt="Max Bill in 1970" show="1">/images20/photo/photo_concrete_art_3.jpg</p>
+          <p type="p">Following Theo van Doesburg's death, a figurehead was needed to spearhead the nascent Concrete Art movement. Although both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans (Jean) Arp&lt;/span&gt; penned their own manifestos for concrete art (in 1938 and 1942 respectively) it was necessary for this figure to emerge from the younger generation of abstract artists. Such a figure emerged in Switzerland in the form of the artist and polymath Max Bill. Born in 1908, Bill had studied at the Bauhaus during 1927-29, learning from artists including Wassily Kandinsky, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klee_paul"&gt;Paul Klee&lt;/span&gt;, and, most significantly, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-albers_josef"&gt;Josef Albers&lt;/span&gt;. In 1929, Bill moved to Zurich to set up a studio, focusing on sculpture, painting and architecture while he earned money as a designer.</p>
+          <p type="p">Influenced by his Bauhaus tutors, Bill sought through his work to express scientific and mathematical formulas in intuitive and tangible forms, expressing as little as possible of his own emotional investment in his work, and eschewing 'subject-matter'. In this sense, his work was quintessentially Concrete. Nonetheless, Bill was twenty-five years younger than van Doesburg, and had no strong personal connection to him. His seizure on the term "Concrete Art" represented an act of homage, even appropriation. Still, it was primarily through Bill's endeavors over the next two decades that Concrete Art found widespread recognition and acceptance.</p>
+          <p type="p">In 1937, Bill formed the Allianz group to promote Concrete Art, along with the artists Richard Paul Lohse and Leo Leuppi. The group held its first show in Basel that year, and subsequent exhibitions were mounted across Switzerland during the late 1930s and early 1940s. Switzerland's neutrality during the Second World War ensured the group's continued productivity while artists and writers fled from violence and persecution in nearby countries.</p>
+          <p type="p">Some of the group's work - like Bill's &lt;i&gt;Endless Ribbon&lt;/i&gt; series of Möbius strip sculptures - aimed to express the new scientific theories which defined modernity, such as space-time relativity. Others, like Lohse, used methodical visual arrangements to draw out all the possible visual expressions of a mathematical or algebraic formula. In all cases, the compositional aesthetic was meticulously neat, and the work entirely divorced from 'reality' as such. At the same time, the Allianz artists were interested in exploring tonal harmonies, and their work is often vibrantly colorful as compared to that of the &lt;i&gt;De Stijl&lt;/i&gt; artists, for example. In the context of the Second World War, Concrete Art also had an implicit political impetus: in attempting to define a universally intuitable visual language, Concrete Artists were attempting to lay the groundwork for intercultural dialogue and empathy.</p>
+          <p type="p">From the 1940s onwards, Bill increasingly turned his attention to commercial and industrial design, following in the footsteps of the Constructivists, who had sought to merge artistic expression with functional craftsmanship. In 1944 Bill cemented his own reputation and that of the movement by staging the first international exhibition of Concrete Art in Basel, by which time the style was spreading across Europe and beyond.</p>
+        </subsection>
+        <subsection title="Developments in Europe, 1945-60">
+          <p type="p">By the mid-1940s, groups influenced by Bill and the Allianz group's variant of Concrete Art had sprung up all over the world. These groups emerged organically, from a range of regional and national contexts, and expressed a huge range of creative impulses. But they were all buoyed by the internationalism of the post-war years, and united by an underlying interest in non-figurative expression, as well as an investment in science, maths and logic.</p>
+          <p type="p">Limiting our focus to Europe, we can posit at least eight groups to emerge between the end of the Second World War and 1960. The earliest of these included Linien 2, founded in 1947 in Copenhagen, Movimento Arte Concreta, founded in Milan in 1948, Group Exat 51, founded in Zagreb in 1951, and Group Espace, founded in Paris in the same year. Amongst the significant artists of the post-war period to attach their names to these groups were the Danish Ib Geertsen, the Italian Alberto Magnelli (a former member of Abstraction-Création), and the sometime &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_sonia"&gt;Sonia Delaunay&lt;/span&gt;.</p>
+          <p type="img" alt="Catalogue for the first exhibition of the Salon des Réalités Nouvelles (1946)" show="1">/images20/photo/photo_concrete_art_4.jpg</p>
+          <p type="p">Paris remained a center of activity, with the first significant exhibition of Concrete Art following the Second World War held at the Gallerie René Drouin in 1945. This exhibition included the work of pioneers of Neo-Plasticism and other proto-Concrete movements, such as César Domela and Jean Gorin, exemplifying the tendency of Concrete Artists and theorists to claim developments prior to 1930 as steps in the advancement of the genre. In 1946, the Salon des Réalités Nouvelles was founded as a successor institution to the Abstraction-Création group: the new, Paris-based gallery promoted what it called "concrete art, non-figurative or abstract art".</p>
+          <p type="p">In a sense, the Concrete Art movement in post-war Europe occupied a liminal space between a range of more famous contemporary genres, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-op_art"&gt;Op Art&lt;/span&gt;, and the last vestiges of pre-war geometrical abstraction. As such, it never developed the coherent character that it would elsewhere: specifically in the resurgent post-war cultures of Latin America.</p>
+        </subsection>
+        <subsection title="Developments in Latin America, 1945-60">
+          <p type="img" alt="Joaquin Torres Garcia's &lt;i&gt;Pintura Constructiva 6&lt;/i&gt; (1929). Garcia returned to his native Uruguay in the 1930s and helped to spearhead the early development of concrete art in Latin America." show="1">/images20/photo/photo_concrete_art_6.jpg</p>
+          <p type="p">We might posit various reasons why the most significant developments in Concrete Art between the end of the Second World War and the start of the 1960s occurred in Latin America. One may be the newfound confidence that the major economies of Latin America, including Brazil and Argentina, had assumed in the aftermath of the war in Europe, shielded from its long-term effects while benefiting from the wartime economy. These countries had also welcomed an influx of European artists and theorists fleeing the conflict, while the appropriation of Realist and folk-art by authoritarian governments in Mexico and elsewhere led to a flight from an art of 'easy messages'. Since the 1930s, artists like Joaquín Torres-García (co-founder of Cercle et Carré) in Uruguay and Emilio Pettoruti in Argentina, had also been pioneering a regional traditional of geometrical abstraction.</p>
+          <p type="p">An important early event in the emergence of Latin-American Concrete Art was the publication of the single-issue art journal &lt;i&gt;Arturo&lt;/i&gt; in Buenos Aires in 1944, leading to formation of the Asociación Arte Concreto-Invencíon in the city the following year, and the Arte Madí group in 1946. Both groups were heavily influenced by De Stijl and European Concrete aesthetics, and both were committed to an art of pure geometrical abstraction. However, in Latin America Concrete Art also inherited something of the political vigor of the Russian Constructivist vanguard, its products often intended to stand for new forms of social and political organization. The continent was, after all, undergoing a period of rapid industrial, technological and social development; as such, Concrete Art became an ambitious, future-oriented genre.</p>
+          <p type="img" alt="Gyula Kosice's &lt;i&gt;Monument to Democracy&lt;/i&gt;, installed in Buenos Aires in 2000. Kosice was a founding member of the Arte Madí collective" show="1">/images20/photo/photo_concrete_art_7.jpg</p>
+          <p type="p">The Asociación Arte Concreto-Invencíon was co-founded by Tomás Maldonado, a committed Marxist who believed that the logical forms of Concrete Art could form the basis for new models of societal organization and new psychological paradigms. As such, the Asociación artists - including Maldonado, Manuel Espinosa, Alfredo Hlito, Enio Iommi, Raúl Lozza and Lidy Prati - remained committed to a number of tight creative constraints. The Arte Madí artists - Gyula Kosice, Rhod Rothfuss and Carmelo Arden Quin - were also committed to the expression of modern life through Concrete Art. But their forms were more playful than those of the Asociación artists, moving more freely into the realms of sculpture, Kinetic and Light Art, and influencing the later emergence of Neo-Concretism in Brazil.</p>
+          <p type="p">Following the emergence of the Arte Madí and Arte Concreto-Invencíon groups, similar collectives sprang up elsewhere, such as the Grupo de Arte No Figurativo in Montevideo, Uruguay, the Grupo Frente in Rio de Janeiro, and Grupo Ruptura in São Paulo. All three were formed in 1952, a year after a major retrospective of Max Bill's work in São Paulo had cemented his reputation amongst Latin-American Concretists. The latter two groups proved particularly influential on subsequent developments in Concrete Art. Grupo Frente included the artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-clark_lygia"&gt;Lygia Clark&lt;/span&gt;, Hélio Oiticica and Lygia Pape, all of whom were involved in the conceptualization of Neo-Concretism at the close of the decade. The Grupo Ruptura, meanwhile, laid the foundations for the emergence of Concrete Poetry - a kind of visual poetry influenced by Concrete Art - through their creative exchanges with the poets of São Paulo's Noigandres collective.</p>
+          <p type="p">The construction of Brazil's new capital Brasília, during 1956-60, on principles strongly influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt; architecture, Constructivism, and the country's emergent Concrete Art movement, shows the significance of the movement in Latin America. It was here, and not in Europe, that the principles of Concrete Art were most strikingly advanced at mid-century.</p>
+        </subsection>
+        <subsection title="The Hochschule für Gestaltung">
+          <p type="img" alt="The Hoschschule für Gestaltung campus, designed by Max Bill" show="1">/images20/photo/photo_concrete_art_8.jpg</p>
+          <p type="p">The most significant late development in Concrete Art in Europe was probably the formation of the Hochschule für Gestaltung in Ulm, West Germany in 1953. Co-founded by Max Bill and Inge Scholl, sister of the murdered White Rose Movement leaders Hans and Sophie Scholl, the HfG was established as a successor institute to the Bauhaus, which had closed under Nazi pressure in 1933. As such, it was committed both to the cultural and moral rebirth of Germany and to advancing the principles of abstract art, functional design, and architecture. Again, the aesthetics of Concrete Art were integrated with a progressive political agenda.</p>
+          <p type="p">Though the school had closed by 1968, many artists connected to the Concrete Art movement, including Tomás Maldonado and Josef Albers, were involved in designing or teaching courses at Ulm, and so the influence of Concrete Art was impressed upon a further generation of designers, architects, and artists. As such, and because of the HfG's interdisciplinary approach, the principles of Concrete Art remained in fruitful dialogue with functional design and architecture even at this late stage of its evolution. Nowhere is this more evident than in the design of the HfG campus itself by Max Bill, on principles strongly influenced by his aesthetic as an artist, and by International Style architecture.</p>
+          <p type="p">The poet Eugen Gomringer also worked at the school, as a secretary to Bill (who was the Hochschule's first rector). In 1955, Gomringer hosted the Brazilian poet Décio Pignatari, a representative of the São Paulo based Noigandres group. This resulted in the development of Concrete Poetry, which took on its own tenor and character as it merged with developments in late Anglo-American literary modernism, serving as one of the Concrete Art movement's lasting legacies.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="Neo-Concretism">
+          <p type="img" alt="Hélio Oiticica's installation at the Inhotim Institute in Brumadinho, Brazil" show="1">/images20/photo/photo_concrete_art_9.jpg</p>
+          <p type="p">With the inauguration of the São Paulo Biennial in 1951 and the mounting of a National Exhibition of Concrete Art in São Paulo in 1956, Brazil had established itself as one of the centers of the modern art-world, and of the Concrete Art movement in particular.</p>
+          <p type="p">However, by the close of the 1950s, many Brazilian artists felt that Concrete Art had become inordinately narrow and inadvertently colonialist in its outlook, binding itself to strict rules of composition that were overly invested in rationalism, and tethered to the pre-war achievements of European artists. A number of artists involved in the Grupo Frente, including Lygia Clark, Lygia Pape, and Hélio Oiticica began producing artworks more governed by intuitive, phenomenological interactions with materials and space, inviting more creative interactions with the viewer.</p>
+          <p type="p">Their sentiments found collective expression through the writing of a poet, Ferreira Gullar, who was himself frustrated with the rationalistic approach of the Noigandres Concrete Poets Augusto and Haroldo de Campos and Décio Pignatari. In 1959, with the support of Pape, Clark, Oiticica and others, he published a "Neo-Concrete Manifesto" in the &lt;i&gt;Jornal do Brasil&lt;/i&gt;, in response to an exhibition of Neo-Concrete Art recently staged in Rio de Janeiro:</p>
+          <p type="p">We use the term "neo-concrete" to differentiate ourselves from those committed to non-figurative "geometric" art (Neoplasticism, Constructivism, Suprematism, the School of Ulm) and particularly the kind of concrete art that is influenced by a dangerously acute rationalism.</p>
+          <p type="p">The Neo-Concrete movement was short-lived, as by the 1960s its founding members were moving into event-based and conceptual practices, but its influence has, ironically, been far more widely felt than the movement it supplanted. In placing the affective, sensory relationship between viewer and artwork at the center of its concerns, it predicted and helped to bring about a more general sea-change in modern art from the 1960s onwards; it was particularly analogous to the contemporaneous development of Minimalism in North America.</p>
+        </subsection>
+        <subsection title="Kinetic Art">
+          <p type="p">If Concrete Art in post-war Europe represented a reaffirmation of the principles of geometric abstraction within painting and sculpture, Kinetic Art - and the overlapping movement of Op Art - represented the extension of Constructivist principles into the realm of moving objects. Like Neo-Concretism, its heyday occurred around the time that the Concrete Art movement was waning. Nonetheless, it developed partly through dialogue with the older movement, and can be seen as an aspect of its legacy</p>
+          <p type="p">By the 1950s, artists such as Victor Vasarely in France and Alexander Calder in the USA (and, slightly later, Bridget Riley in England) had applied their fascination with logical constructive principles and non-figurative form to artworks which gave the impression of motion, or which literally moved. In extending the artwork in time as well as space, they applied concrete principles of construction to a new dimension of expression, breaking down the established boundaries of geometrical abstraction.</p>
+          <p type="p">Other artists, such as the French-Hungarian Nicholas Schöffer, produced Kinetic works powered by computers that would move in response to external stimuli - such as his &lt;i&gt;CYSP 1&lt;/i&gt; (1956) - heralding the emergence of Systems Art and Cybernetic Art. Concrete and Constructivist principles were extended into the realm of semi-autonomous machines, presented &lt;i&gt;as&lt;/i&gt; artworks, or even as artists (&lt;i&gt;CYSP 1&lt;/i&gt; famously performed in a ballet). In the face of such developments, Concrete Art seemed increasingly staid in its ambitions. Nonetheless its advances prefigured and inspired those of Kinetic Art, which also drew in Concrete Artists such as Gyula Kosice.</p>
+        </subsection>
+        <subsection title="Concrete Poetry">
+          <p type="img" alt="Décio Pignatari's concrete poem “Bebe Coca Cola” (1957) offers an ironic commentary on North-American consumerism. The word “cola” mutates into the word “cloaca”, associated with waste and excrement." show="1">/images20/photo/photo_concrete_art_10.jpg</p>
+          <p type="p">Like Constructivism, Concrete Art was intended to define compositional principles so elementary that they would transcend medium boundaries. One aspect of this vision was realised in the mid-1950s through the emergence of Concrete Poetry. Through the collective endeavors of the Swiss poet Eugen Gomringer - based at the Hochschule für Gestaltung in Ulm - and the Brazilian poets of the Noigandres collectives (consisting of the brothers Augusto and Haroldo de Campos and Décio Pignatari), a style of poetry was defined that spread across continents, and which responded to the compositional advances of Concrete Art. The first manifesto of Concrete Poetry was written by Gomringer in 1954, though its tenets were firmly established by the Noigandres's "Pilot Plan for Concrete Poetry" in 1958.</p>
+          <p type="p">The aim of Concrete Poetry was that words would be used in the same ways as the compositional elements of a Concrete Artwork, referring to nothing more than the compositional logic of the poem itself, and often presented in visual patterns borrowed from Concrete Art. Though this proved an almost impossible aim to realise in the long term, Concrete Poetry nonetheless inspired an international movement, with more clusters of Concrete Poets appearing across the world during the 1950s-60s - and in more locations - than had cells of Concrete Artists during the 1940s-50s.</p>
+          <p type="p">Between 1968 and 1970, three major anthologies of Concrete Poetry appeared, signalling both the high-water mark and beginning of the end of the Concrete Poetry movement. Like the Concrete Art movement, its achievements had by this point been redefined by artists frustrated with the inherent limits of its rationalist programme.</p>
+        </subsection>
+        <subsection title="Developments in North America, 1950s-60s">
+          <p type="p">In 1950s America, a number of artists and sculptors turned against the romantic angst and mythologization of the individual that characterized its most successful post-war export, Abstract Expressionism. Many of these artists looked back to the examples of De Stijl and Constructivism for an artistic style based on more rational, impersonal principles. Since the 1930s, the USA had also welcomed a number of émigrés from Europe schooled in the principles of geometrical abstraction, such as Josef Albers, who left Germany following the closure of the Bauhaus under Nazi pressure in 1933.</p>
+          <p type="p">Though Concrete Art was never as coherent and dynamic a movement in North America as in South America, individual artists such as Charles Biederman made distinctive contributions to the development of geometric abstraction in the 1940s-50s. Josef Albers's tenure as head of the painting programme at Black Mountain College from 1933 to 1949 also ensured that principles of logical, non-figurative composition influenced the development of North-American painting at mid-century.</p>
+          <p type="p">Moreover, in a number of native North-American movements, particularly Hard-Edged Painting, we can sense a fascination with the internal dynamics of composition, an emphasis on clarity of form, and a rejection of the artist's individual emotional imprint, bearing the mark of Concrete Art's influence. Through this development and many others, including the emergence of North-American Minimalism in the early 1960s, the influence of Concrete Art resonates through the subsequent development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodern art&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Composition with Red, Blue, and Yellow</title>
+      <use_big_image>true</use_big_image>
+      <artist>Piet Mondrian</artist>
+      <year>1930</year>
+      <materials>Oil and paper on canvas</materials>
+      <desc>
+				Though this painting was not conceived as a work of Concrete Art, Mondrian's vision of a universal compositional language rooted in a minimum of elements - horizontal and vertical black lines framing squares of white, red, yellow, and blue - summed up the spirit of Concretism &lt;i&gt;avant-la-lettre&lt;/i&gt;. Moreover, the earliest works of Concrete Art were imbued with the spirit of Neo-Plasticism, and took their impetus from a manifesto penned by Mondrian's sometime compatriot Theo van Doesburg in 1930. In 1960, Max Bill mounted the exhibition Konkrete Kunst in Zurich in order to celebrate 50 years of Concrete Art's development, suggesting that the movement's primary polemicist was happy to incorporate early twentieth-century artists into its heritage.
+				&lt;br/&gt;&lt;br/&gt;
+				A quintessential work of mid-century Concrete Art will often consist in the methodical visual expression of a mathematical formula. In a comparable spirit, Mondrian's &lt;i&gt;Composition with Red Blue and Yellow&lt;/i&gt; was intended to express the mathematical forces underpinning all of sensory reality. In particular, the early development of Neo-Plasticism was heavily influenced by the theosophist and mathematician M.H.J. Schoenmaker's 1916 text &lt;i&gt;Principles of Plastic Mathematics&lt;/i&gt;, in which he declared: "[t]he two fundamental and absolute extremes that shape our planet are: on the one hand the line of the horizontal force, namely the trajectory of the Earth around the Sun, and on the other vertical and essentially spatial movement of the rays that issue from the center of the Sun...the three essential colors are yellow, blue, and red."
+				&lt;br/&gt;&lt;br/&gt;
+				We can see the results of this statement borne out in Mondrian's ascetic, non-symmetrical construction, in which abstract compositional elements come to stand for the essence of all life, while eschewing all specific subject-matter. In the works of Concrete Art produced in Europe and Latin America over the coming decades, this principle would be redefined through a more materialist worldview, and through more vibrant combinations of color and shape.
+			</desc>
+      <collection>National Museum, Belgrade, Serbia</collection>
+    </artwork>
+    <artwork>
+      <title>Variation 14</title>
+      <artist>Max Bill</artist>
+      <year>1938</year>
+      <materials>15 lithographs</materials>
+      <desc>
+				In 1934, Max Bill, then in the early stages of defining the Concrete Art movement, began a series of artworks based on a simple geometrical exercise. He created an unfinished equilateral triangle whose third side would protrude out at a different angle to create a square, whose fourth side would protrude out at a different angle to create a pentagon, and so on (potentially &lt;i&gt;ad infinitum&lt;/i&gt;, though Bill's formula stopped at the octagon). This simple mathematical principle was used as the basis for a series of lithographs which expressed the concept in a number of different ways: for example, by creating circles connecting up the shape's implied corners. In 1938 he published the series, asserting in his introduction to the &lt;i&gt;Variations&lt;/i&gt; that "concrete art holds an infinite number of possibilities", even though "[s]uch constructions are developed only on the basis of their given conditions and without any arbitrary attempt to modify them."
+				&lt;br/&gt;&lt;br/&gt;
+				This, in a nutshell, sums up the spirit of Concrete Art. Artworks were to be created which would express nothing more than the logic of their own creation, and yet within these rigid compositional constraints, as Bill put it, "an infinite number of very different developments can be evolved according to individual inclination and temperament." The large-scale series was a primary vehicle for this idea, and Bill created many serial works throughout his life, &lt;i&gt;Fifteen Variations on a Single Theme&lt;/i&gt; (1934-38) being the first. This particular series also reflects his keen interest in color combinations. He had studied at the Bauhaus in the late 1920s under Josef Albers, the primary theorist of color in twentieth-century art. As vital to this work as its playful exploitation of geometrical constraints are the risks taken with tonal harmonies, with purples, oranges, greens, and pinks introduced into the primary color-palette in a number of the variations.
+				&lt;br/&gt;&lt;br/&gt;
+				In 1937, during the creation of his &lt;i&gt;Fifteen Variations&lt;/i&gt;, Bill founded the Allianz group of Concrete Artists in Switzerland, with compatriots including Richard Paul Lohse and Leo Leuppi. The Allianz Group was the first of many such Concrete Art collectives to spring up across the world during the 1930s-50s. Indeed, Concrete Art became as defined by its collectivist, internationalist spirit as by its commitment to compositional formulas.
+			</desc>
+      <collection>Daimler-Chrysler Collection, Berlin</collection>
+    </artwork>
+    <artwork>
+      <title>Endless Ribbon</title>
+      <use_big_image>true</use_big_image>
+      <artist>Max Bill</artist>
+      <year>c. 1953-56</year>
+      <materials>Bronze</materials>
+      <desc>
+				Max Bill was a sculptor, architect, and industrial designer as well as a painter. Indeed, his creative career, like that of his Argentine peer Tomás Maldonado, marked a gradual movement away from the canvas towards evermore large-scale and functional realisations of his principles. An early staging post on this journey was the creation in 1935 of his first &lt;i&gt;Endless Ribbon&lt;/i&gt; sculpture, a later recreation of which is shown here. Based on the principle of the Möbius strip - a ribbon whose two surfaces run into each other - the series would occupy Bill continuously until his death in 1994, incorporating works in paper, metal, and stone.
+				&lt;br/&gt;&lt;br/&gt;
+				In 1935, Bill was invited to design a sculpture to hang above an electric fireplace, potentially to be rotated gently by the upwards surge of hot air. He struck on the idea of a ribbon-shape whose opposing sides would merge with one another, mesmerized by this neat visual evocation of a mathematical conundrum. It was only after the work's completion that viewers informed him of its connection both to the Möbius strip and to the traditional figure-of-eight symbol for infinity. It is also easy to see the work as speaking to the recent discovery of space-time relativity, whereby two seemingly separate aspects of reality were revealed to be intimately related and interdependent.
+				&lt;br/&gt;&lt;br/&gt;
+				If Concrete Art on the page was defined by playful, permutational works, in three dimensions it had the capacity to express mathematical and scientific concepts with a more singular and static grandeur. In later years, South American artists such as Gyula Kosice would advance this project by producing Kinetic Artworks influenced by the spirit of Concretism. Bill's &lt;i&gt;Endless Ribbon&lt;/i&gt; stands at the forefront of such advances, evoking timeless and contemporary themes with an imposing grace.
+			</desc>
+      <collection>Middelheim Open Air Sculpture Museum, Antwerp, Belgium</collection>
+    </artwork>
+    <artwork>
+      <title>Squares Formed by Color Groups</title>
+      <artist>Richard Paul Lohse</artist>
+      <year>1944</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				In this quintessential work of mid-century Concrete Art, Richard Paul Lohse, one of the co-founders of the Allianz Group, uses the canvas to express various visual possibilities of a methodical compositional formula. The canvas comprises a 4x4 grid of squares, each square consisting of three further, rectangular strips, with five different colors (blue, green, orange, pink, yellow) used to fill those strips, blue to appear in every square, the other four colors in every other. Further, complex principles of rearrangement and repetition define the terms of each color's appearance across the grid. The final effect of this formulaic process is, oddly enough, not stultifying but enticing, evoking something of the pleasure taken in pure logic and pattern, while eschewing all figurative content and precise suggestion of individual emotion.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Zurich in 1902, Lohse trained as an advertising artist and graphic designer before co-founding the Allianz Group in 1937 with Leo Leuppi and Max Bill. 1943 marked a breakthrough year for Lohse, as he began to develop a range of algebraic systems through which he could compose his artworks. Some expressed in visual form the equivalent of the 'magic square' (a grid filled with numbers in which all possible horizontal and vertical sums add up to the same total). Others, like this piece, are based on a compositional logic requiring more concerted deciphering. Like Bill and the other Allianz artists, Lohse was also interested in exploring new color combinations; in this work we can sense the palette of Neo-Plasticism being expanded in exciting new ways, perhaps expressing something of the vibrancy of modern commercial design and advertising.
+				&lt;br/&gt;&lt;br/&gt;
+				Lohse was also a politically committed artist, involved in the resistance movement during the Second World War. As such, he believed in the power of art's universal languages to foster intercultural harmony. Writing in 1988, artist Donald Judd surmised that "[t]he attitudes implicit in Lohse's work, including strong and still radical ideas about society, are very interesting, both as to what is older and what newer....In Lohse's work there is the end of the European compositional tradition, a good end, and also there is the beginning of much that is still beginning to develop."
+			</desc>
+      <collection>Richard Paul Lohse Foundation, Zurich</collection>
+    </artwork>
+    <artwork>
+      <title>Desarrollo del Triángulo</title>
+      <artist>Tomás Maldonado</artist>
+      <year>1949</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This characteristic early work of Latin-American Concrete Art suggests the influence both of Max Bill's grid and systems-based composition and the spiritual abstraction of Wassily Kandinsky (who penned his own manifesto for "Concrete Art" in 1938). The title of the work translates as "Development of a Triangle", and we can almost 'read' the painting, starting at top-left, as a series of developments within a single line, dividing and diverging to form a number of triangular or proto-triangular shapes as it descends the canvas. As a co-founder of the Asociación Arte Concreto-Invencíon in Buenos Aires in 1945, Tomás Maldonado was associated with that wing of the Argentine movement that remained more committed to the compositional constraints and formulas of European predecessors such as Mondrian and van Doesburg. Nonetheless, the "system" underpinning this composition seems loose and improvisational, suggesting the scope for imaginative play within the limits Maldonado set himself.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Buenos Aires in 1922, Maldonado rose to prominence through his co-editorship of the journal &lt;i&gt;Arturo&lt;/i&gt; in 1944, the creative collaborations around which led to the founding of the Concreto-Invencíon and Arte-Madí groups over the following two years. Maldonado's artistic sensibility was entwined with his Marxist politics, and his sense that art ought to serve a functional purpose in society ultimately led him to abandon art for industrial design, just as his European peer Max Bill did. By this point Maldonado was working with Bill as one of the original faculty members of the Hochschule für Gestaltung in Ulm. Maldonado later recalled that it was his desire to assist with the reconstruction of war-ravaged Germany that compelled him to abandon painting in favour of more socially useful pursuits.
+				&lt;br/&gt;&lt;br/&gt;
+				Maldonado is best remembered today for his achievements as a designer and teacher at Ulm: through his work devising the school's "foundational course" he assumed a similar relationship to Bill, the school's rector, as László Moholy-Nagy had to Walter Gropius at the Bauhaus. However, Maldonado's early work as a painter and polemicist played a vital role in sparking off the Concrete Art movement in Latin America. His return to painting in the final two decades of his life shows how creatively significant it remained for him throughout his career.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Pintura Madí</title>
+      <artist>Rhod Rothfuss</artist>
+      <year>1948</year>
+      <materials>Enamel on wood</materials>
+      <desc>
+				Rhod Rothfuss's &lt;i&gt;Madí Painting&lt;/i&gt; epitomizes the spirit of the eponymous group that he co-founded with Gyula Kosice and Carmelo Arden Quin in 1946. An irregularly shaped wooden board serves as the canvas, adorned with wild, mobile-seeming shapes, picked out in bright enamel. Though certainly a work of geometrical abstraction, &lt;i&gt;Pintura Madí&lt;/i&gt; epitomizes the more anarchic spirit of the Arte Madí group as compared to Maldonado and the Concreto-Invencíon collective. Lines are more likely to be slant, with shapes echoing the seemingly random dimensions of the canvas, suggesting a creative process more open to chance and coincidence.
+				&lt;br/&gt;&lt;br/&gt;
+				Born, like his Madí-group compatriot Carmelo Arden Quin, in Uruguay, Rothfuss moved to Buenos Aires in 1942, and was involved in producing the single issue of &lt;i&gt;Arturo&lt;/i&gt; in 1944. After an initial period of collaboration with the Concreto-Invencíon artists, the two Uruguayan painters seceded, along with the Hungarian-born Gyula Kosice to form a group dedicated to the more ludic possibilities of Concretism. Quin and Rothfuss's work from the 1940s to the 1960s bears striking resemblances, suggesting a crucible of collective activity. Quin, like Rothfuss, created boldly colorful works on irregular wooden canvases suggesting a passing debt to the legacy of Central-American Muralism. Kosice, meanwhile, was an early innovator in Kinetic and Mechanical Art.
+				&lt;br/&gt;&lt;br/&gt;
+				Rothfuss died in 1969, by which time the Madí group's initial period of creative ferment had come to an end. But its legacy had already been felt in the emergence of Neo-Concretism in Brazil at the close of the 1950s. This reflected a yearning amongst some South-American artists for a more intuitive, playful creative process than the constraints of Concretism yet allowed.
+			</desc>
+      <collection>Museum of Latin American Art, Buenos Aires</collection>
+    </artwork>
+    <artwork>
+      <title>Ulmer Hocker</title>
+      <use_big_image>true</use_big_image>
+      <artist>Max Bill</artist>
+      <year>1954</year>
+      <materials>Wood</materials>
+      <desc>
+				In many ways, Concrete Art remained more restricted to the traditional media of fine art - painting, sculpture - than its ancestral movement, Constructivism. While Constructivist artists such as Alexander Rodchenko always yearned to integrate art with functional design, Concrete Art was more likely to concern itself with the visual expression of abstract mathematical formulas, in an effort to remove itself entirely from the realm of figurative representation. Its "function", in this sense, was to assume a kind of autonomous presence in the world rather than to perform a useful task. But this was not always the case: many Concrete Artists, including the grandfather of the movement Max Bill, were also prolific industrial and commercial designers.
+				&lt;br/&gt;&lt;br/&gt;
+				In the world of functional design, the goal Concrete Artists were more likely to set themselves was how to solve a given design problem using the minimum number of functional elements and constructive maneuvers. Nowhere is this ideal borne out more clearly than in the design of Bill's iconic &lt;i&gt;Ulm Stool&lt;/i&gt;, created in 1954 for the students and faculty of the new Hochschule für Gestaltung. Intended to double as a wall-mounted storage unit, it is a masterwork of mid-century modernist design, achieving with an absolute minimum of physical parts and simplicity of construction in a versatile and functional form.
+				&lt;br/&gt;&lt;br/&gt;
+				If the influence of Concrete Art in the world of painting and sculpture was in the emergence of Neo-Concretism and Minimalism in the 1960s, its legacy in the world of design can still be felt. It was at Ulm that the first examples of what we now call flat-pack furniture were created, for example, while its unprecedented focus on ergonomics and visual semiotics continues to inform commercial product design.
+			</desc>
+      <collection>Museum für Gestaltung, Zürich</collection>
+    </artwork>
+    <artwork>
+      <title>Silencio</title>
+      <artist>Eugen Gomringer</artist>
+      <year>1953</year>
+      <materials />
+      <desc>
+				Eugen Gomringer's famous poem "Silence" - reprinted in a range of languages including Spanish, German, English and Hebrew since its composition in 1953 - represents an early attempt to resolve a seemingly impossible conundrum: how to bring the non-representative quality of Concrete Art to the medium of language. Words, more than visual or sculptural forms, must by definition refer to something other than themselves: so in attempting to make Concrete Poems, writers such as Gomringer were in a sense forced to reframe the terms of the problem. Works like &lt;i&gt;Silence&lt;/i&gt; became exercises in exacting linguistic minimalism, radically reducing the semantic components used to convey their themes: in this case the idea or feeling of silence. At the same time, Concrete Poems assumed something of the visual or sculptural presence of Concrete Art through their appearance on the page: in grid-like or permutational patterns which drew attention to words and letters as &lt;i&gt;things in themselves&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in 1925, the Swiss-Bolivian poet Eugen Gomringer was working at the Hochschule für Gestaltung in Ulm as secretary to Max Bill in 1955 when he established the international Concrete Poetry movement via long-distance communication with the Brazilian poets of the Noigandres group. Like Gomringer, the Brazilian poets had been forging the creative principles underpinning Concrete Poetry since the start of the decade, but their collective coinage of the term prompted the emergence of an international literary movement, spreading from South America to Japan. While the Noigandres poets were politically motivated and rationalist in their outlook, Gomringer's work generally offered a more spiritual, meditative vision.
+				&lt;br/&gt;&lt;br/&gt;
+				The task that the first Concrete Poets set themselves - to bring to language the same clarity of form as a Concrete Artwork - ultimately proved to be nearly impossible. Nonetheless, the melding of Concrete Art's aesthetics with the literary heritage which its newfound advocates could draw on, resulted in a unique and fruitful development within the genre. Eugen Gomringer himself remains active, at 94, as the head of the Institut für Konstruktive Kunst und Konkrete Poesie in Rehau, Germany.
+			</desc>
+      <collection>Konstellationen. Bern: Spiral Press, 1953</collection>
+    </artwork>
+    <artwork>
+      <title>Bicho-Maquete 320</title>
+      <artist>Lygia Clark</artist>
+      <year>1964</year>
+      <materials>Aluminium</materials>
+      <desc>
+				Lygia Clark's &lt;i&gt;Bichos&lt;/i&gt; series (sometimes translated as "Little Beasts") are generally dated to the period between 1960 and 1964, shortly after Clark attached herself to the "Neo-Concrete" movement. A series of palm-sized sculptures constructed from hinged planes of aluminium, they are designed to be manipulated in the hand by the viewer. In these works, the principles of Concrete Art are pushed to a point of creative rupture. Though remaining (almost) in the realm of non-figurative abstraction, the construction process proceeds from an intuitive, sensory engagement with material and shape rather than a rational mathematical formula, while the viewer's (literal, physical) interaction with the work becomes vital to its final form, as they move the hinges and flaps to find a favorable position.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Belo Horizonte, Brazil in 1920, Clark was involved with Lygia Pape and Hélio Oiticica in the formation of the Carioca art collective Grupo Frente in 1952. This, along with the formation in the same year of the Ruptura group in São Paulo, signified the emergence of a coherent Concrete Art movement in Brazil. But Clark and her colleagues were more inclined towards phenomenological, non-rational engagement with their materials and structures than Ruptura artists such as Geraldo de Barros. They were also more interested in the creative role of the viewer. Acting on these principles, at the close of the decade, Clark began exhibiting works such as the &lt;i&gt;Bichos&lt;/i&gt; under the banner of "Neo-Concretism". One significant expression of her movement away from the strict abstraction of early Brazilian Concretism is the readmission of figurative suggestion into this work. Describing her army of little sculptures as beasts or critters, she likened the aluminium hinges to back-bones, as if endowing them with the pulse or spark of organic life.
+				&lt;br/&gt;&lt;br/&gt;
+				In the years following the demise of the Concrete Art movement, Clark and her Neo-Concretist peers have ironically achieved far greater fame than the artists whose orthodoxy they supplanted. Clark's ideas of viewer-interaction and sensory hermeneutics, interdisciplinarity and the endless slippage of meaning from viewer to viewer, have proved more amenable to the landscape of subsequent contemporary art than the earnest rationalism of some of her peers. It goes without saying that her work also has value in kicking against an ideal of rational impersonality defined - as such ideals generally are - by male artists. Nonetheless, her work still emerged from, and stands as a monument to, the creative vigor of Concrete Art.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>van_doesburg_theo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>mondrian_piet</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bill_max</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>lohse_richard_paul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>maldonado_tomas</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>rothfuss_rhod</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gomringer_eugen</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>clark_lygia</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Border Blurs: Concrete Poetry in England and Scotland</title>
+          <link>1789620260</link>
+          <info>By Greg Thomas (He is also the writer of this The Art Story page)</info>
+        </entry>
+        <entry recommended="true">
+          <title>After Constructivism</title>
+          <link>030019577X</link>
+          <info>By Brandon Taylor (New Haven CT: Yale University Press, 2014)</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Tradition of Constructivism</title>
+          <link>0306803968</link>
+          <info>By Stephen Bann (ed.) (New York: Viking, 1974)</info>
+        </entry>
+        <entry>
+          <title>De Stijl</title>
+          <link>0500202400</link>
+          <info>By Paul Overy (London: Thames and Hudson, 1991)</info>
+        </entry>
+        <entry>
+          <title>Max Bill: Endless Ribbons</title>
+          <link>3716512346</link>
+          <info>By Jacob Bill (ed.) (Salenstein: Benteli Verlag, 1999)</info>
+        </entry>
+        <entry>
+          <title>Richard Paul Lohse: Colour Becomes Form</title>
+          <link>1870280598</link>
+          <info>By Norbert Lynton (London: Annely Juda, 1997)</info>
+        </entry>
+        <entry>
+          <title>Art in Latin America: The Modern Era, 1820-1980</title>
+          <link>0300045611</link>
+          <info>By Dawn Ades (ed.) (London: South Bank, 1989)</info>
+        </entry>
+        <entry>
+          <title>Tomás Maldonado in Conversation with María Amalia García</title>
+          <link>0982354436</link>
+          <info>By María Amalia García et al (eds.) (New York: Colección Patricia Phelps de Cisneros, 2011)</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ulm Design: The Morality of Objects</title>
+          <link>0262121476</link>
+          <info>By Herbert Lindinger (ed.) (Cambridge MA: MIT Press, 1990)</info>
+        </entry>
+        <entry>
+          <title>Lygia Clark: The Abandonment of Art</title>
+          <link>0870708902</link>
+          <info>By Cornelia H. Butler et al. (eds.) (New York: Museum of Modern Art, 2014)</info>
+        </entry>
+        <entry>
+          <title>An Anthology of Concrete Poetry</title>
+          <link>098513643X</link>
+          <info>By Emmett Williams (ed.) (New York: Something Else, 2013 [reprint of 1968 original])</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Max Bill Foundation</title>
+          <link>https://www.bill-stiftung.ch/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The Richard Paul Lohse Foundation, Zurich</title>
+          <link>https://www.lohse.ch/entry_e.html</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Walking on a Möbius Strip: The Inside/Outside of Art in Brazil</title>
+          <link>http://www.bauhaus-imaginista.org/articles/3822/walking-on-a-mobius-strip/pt?0bbf55ceffc3073699d40c945ada9faf=09f00ccdc33b8c30637e6667ed8c266</link>
+          <info>
+						By Luiza Proença
+						&lt;br&gt;
+						Bauhaus Imaginista 
+						&lt;br&gt;
+						2018
+					</info>
+        </entry>
+        <entry>
+          <title>Art Review: Gathering Up the Rich Strands of the Brazilian Avant-Garde</title>
+          <link>https://www.nytimes.com/1995/01/20/arts/art-review-gathering-up-the-rich-strands-of-the-brazilian-avant-garde.html</link>
+          <info>
+						By Pepe Karmeljan
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						20 January 1995
+					</info>
+        </entry>
+        <entry>
+          <title>Exhibition: The Concrete Invention</title>
+          <link>http://www.artnexus.com/Notice_View.aspx?DocumentID=26309&amp;lan=es&amp;x=1</link>
+          <info>
+						By Carlos Jiménez
+						&lt;br&gt;
+						ArtNexus 89 
+						&lt;br&gt;
+						2013
+					</info>
+        </entry>
+        <entry>
+          <title>Concrete Art in Argentina</title>
+          <link>http://cvaa.com.ar/04ingles/02dossiers_en/concretos_en/03_definicion_en.php</link>
+          <info>
+						By Adriana Lauria
+						&lt;br&gt;
+						Centro Virtual de Arte Argentina 
+						&lt;br&gt;
+						2003
+					</info>
+        </entry>
+        <entry>
+          <title>The Uses of Art: Little Beasts</title>
+          <link>http://theamericanreader.com/the-uses-of-art-little-beasts/</link>
+          <info>
+						By Sal Randolph
+						&lt;br&gt;
+						The American Reader 
+						&lt;br&gt;
+						2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Neo-Concretism and Minimalism: On Ferreira Gullar's Theory of the Non-Object</title>
+          <link>https://core.ac.uk/display/30315461</link>
+          <info>
+						By Michael Asbury. In Cosmopolitan Modernisms, ed. Kobena Mercer
+						&lt;br&gt;
+						Cambridge: MIT Press
+						&lt;br&gt;
+						2005
+					</info>
+        </entry>
+        <entry>
+          <title>Contemporary Brazilian Artists at Home with Neo-Concretists</title>
+          <link>https://hyperallergic.com/230689/contemporary-brazilian-artists-at-home-with-neo-concretists/</link>
+          <info>
+						By Elisa Wouk Almino
+						&lt;br&gt;
+						Hyperallergic
+						&lt;br&gt;
+						20 August 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>What is Concrete Poetry?</title>
+          <link>http://blogs.getty.edu/iris/what-is-concrete-poetry/</link>
+          <info>
+						By Christina Aube and Nancy Perloff
+						&lt;br&gt;
+						The Iris: Behind the Scenes at the Getty
+						&lt;br&gt;
+						23 March 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Noigandres Poets and Concrete Art</title>
+          <link>http://www.lehman.cuny.edu/ciberletras/v17/cluver.htm</link>
+          <info>
+						By Claus Clüver
+						&lt;br&gt;
+						Ciberletras 17
+						&lt;br&gt;
+						2007
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Max Bill and Georges Vantongerloo: A Lasting Friendship</title>
+          <link>https://www.youtube.com/watch?v=LxhdnQwB2VY</link>
+          <info>Hauser &amp; Wirth</info>
+        </entry>
+        <entry>
+          <title>Tomás Maldonado in conversation with María Amalia García</title>
+          <link>https://www.coleccioncisneros.org/publications/tom%C3%A1s-maldonado-conversation-withen-conversaci%C3%B3n-con-mar%C3%ADa-amalia-garc%C3%ADa</link>
+          <info>Colección Cisneros</info>
+        </entry>
+        <entry>
+          <title>Composicíon, de Tomás Maldonado [In Spanish]</title>
+          <link>https://www.youtube.com/watch?v=lo-q1lyftEI</link>
+          <info>Film &amp; Arts</info>
+        </entry>
+        <entry>
+          <title>Hochschule für Gestaltung Ulm 1953-1968 [German-language newsreel and archive footage of the HfG]</title>
+          <link>https://www.youtube.com/watch?v=kevz5hjmYpU</link>
+          <info>InfolioTV</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

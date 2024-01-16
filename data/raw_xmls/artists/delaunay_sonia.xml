@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>delaunay_sonia</id>
+    <name>Sonia Delaunay</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1906 - 1979</years>
+    <description>Sonia Delaunay was one of the primary propagators of Orphism and early abstraction, later developing an entire career in textile design.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter, Textile Designer, Fashion and Costume Designer</occupation>
+    <nationality>Ukrainian-born French</nationality>
+    <birthDate>November 14, 1885</birthDate>
+    <birthPlace>Odesa, Ukraine</birthPlace>
+    <deathDate>December 5, 1979</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <art_type>Art</art_type>
+    <pub_time>8/17/2016</pub_time>
+  </main>
+  <includes>
+    <include>cubism</include>
+    <include>salon_cubism</include>
+    <include>orphism</include>
+  </includes>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>salon_cubism</movement>
+    <movement>orphism</movement>
+    <movement>proto_feminist_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>tzara_tristan</artist>
+    <artist>albers_anni</artist>
+    <artist>schapiro_miriam</artist>
+    <artist>apollinaire_guillaume</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"the infinite combinations of color have a poetry and a language much more expressive than the old methods"</q>
+    <q>"Everything is feeling, everything is real joy. Color brings me joy."</q>
+    <q>"Color is the skin of the world."</q>
+    <q>"Up to the present, painting has been nothing but photography in color, but the color was always used as a means of describing something. Abstract art is a beginning towards freeing the old pictorial formula. But the real new painting will begin when people understand that color has a life of its own, that the infinite combinations of color have a poetry and a language much more expressive than the old methods. It is a mysterious language in tune with the vibrations, the life itself, of color. In this area, there are new and infinite possibilities."</q>
+    <q>"If one does it well and it is not expensive, one could work all the time at couture."</q>
+    <q>"I have had three lives: one for Robert, one for my son and grandsons, a shorter one for myself. I have no regrets for not having been more concerned with myself. I really didn't have the time."</q>
+    <q>"Abstract art is only important if it is the endless rhythm where the very ancient and the distant future meet."</q>
+    <q>"Just as, in written poetry, it is not the way the words are put together that counts, but the mystery of creation that gives, or does not give, an emotion...so with colors, it is poetry and the mystery of an inner life that emerges, radiates and communicates. On that basis, we can freely create a new language."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="igra">Caroline Igra</editor>
+  </editors>
+  <article>
+    <synopsys>Sonia Delaunay's career spanned the European continent, allowing her to reap the riches of the exciting advances by many &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; art groups. Born and raised in Russia, she was educated in Germany and then France, making Paris her home just as modern art was finding a new way to find meaningful subject matter not dependent on realistic depictions of the world. Sonia was one of the primary propagators of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt; (a movement founded by her husband Robert), a theory wedding color to form in order to achieve visual intensity on the surface of the canvas. Delaunay extended the visual exploration of this theory to a range of fields beyond painting, developing an entire career in textile design.</synopsys>
+    <key_ideas>
+      <idea>By matching primary and secondary colors (red with green, yellow with purple, and blue with orange) to create a kind of visual vibration, Robert Dulaunay developed a new type of expressive, abstract paintings. He called this exploration "Simultaneous Contrast," but the movement became officially known as Orphism and Sonia was one of its chief practitioners.</idea>
+      <idea>The Delaunay couple used Orphism to create non-objective imagery, the significance of which was based on the intensity of the expression that they could create with color on the surface of the canvas. They placed lines of primary color beside those of secondary color, understanding that the scientific effect on the eye of such combinations would result in art that could be just as scintillating to the viewer as those depicting a standard view of reality such as a figure reclining on a couch. Their efforts produced a body of work that forced the viewer to experience their pieces visually - yet powerfully.</idea>
+      <idea>Sonia Delaunay's exploration of expressive color in the field of textile design differentiates her significantly from other members of the contemporary avant-garde. Besides designing, making, and selling garments in her own fashion boutique, she was responsible for costume design in a range of the performing arts including theatre and dance. She ended up creating a line of textiles so significant that it was picked up by one of the biggest fabric manufacturers in Europe.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Sonia Delaunay was born Sara Élievna Stern, the youngest of three children, to impoverished Jewish parents in Odesa, Ukraine. At five, she was sent to live with her mother's well-off brother, Henri Terk, and his wife in St. Petersburg, Russia. Although her mother never allowed a legal adoption, Delaunay thought of them as her family and took the name Sofia Terk, using "Sonia" as a nickname. She received a good education, had access to great art collections, and traveled Europe spending summers in Finland. At sixteen, Delaunay's art teacher noticed her talent and encouraged her uncle and aunt to send her to Germany for further art training.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Sonia Delaunay Biography" show="0">/images20/photo/photo_delaunay_1.jpg</p>
+          <p type="p">Eighteen-year-old Sonia began her studies at the Academy of Fine Arts in Karlsruhe in 1904. After two years in Germany, Delaunay moved to Paris to study at the Academie de la Palette. On December 5, 1908 she married her friend Wilhelm Uhde, an art dealer, ensuring that her family wouldn't be able to force her to come home while also covering for Uhde's homosexual lifestyle. Uhde gave Delaunay her first one-person show in 1908 featuring numerous portrait studies that demonstrated the early influence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvists&lt;/span&gt; like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt; and introduced her to important art and literary figures, including, in 1909, her future husband, Robert Delaunay.</p>
+          <p type="p">Sonia married Robert on November 15, 1910 after amicably divorcing Uhde, and their son Charles was born in January 1911. The two were to become one of the art world's most important partnerships, co-founding Orphism, a variation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; art composed of abstract forms of vibrant color.</p>
+          <p type="p">Although Delaunay's early work was in the field of painting, the creation of a patchwork quilt for her son instigated an entirely different direction to her work. She assembled the quilt according to a style she'd seen years earlier in Russia, laying scraps of fabric one beside the other. She was fascinated by the effects of the colors created from these strips once removed from their original context. This interesting discovery, coupled with Robert's interest in chemist Eugène Chevreul's theories on color, led the two to create works based on simultaneous color relationships known as Simultanism and soon enough Delaunay began to apply simultaneously contrasted colors not only to paintings, such as &lt;i&gt;Bal Bullier&lt;/i&gt; (1912-13), but also to objects, such as cushions, boxes, and clothing.</p>
+          <p type="p">Delaunay's refusal to distinguish between the worlds of fine art and crafts, and her friendships with the creative people who gathered at her home on Sundays, resulted in rich a career that included exciting collaborations. Her friendship with poet Blaise Cendrars, for example, led to the creation of a series of "poem-paintings," including &lt;i&gt;La Prose du Transsibérienn et de la petite Jehanne de France&lt;/i&gt; (1913).</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Delaunay wearing Casa Sonia creations, Madrid (c.1918-20)" show="1">/images20/photo/photo_delaunay_2.jpg</p>
+          <p type="p">Delaunay traveled extensively throughout her life, each location influencing her work. While in Madrid in 1917, she began to design costumes for a production of &lt;i&gt;Cléopâtre&lt;/i&gt;. This was just the first of what would become a number of ballet and theatrical performances for which she would provide designs. The following year she opened a design and fashion shop known as &lt;i&gt;Casa Sonia&lt;/i&gt;. Never favoring one artistic pursuit over another, she described these diverse endeavors as, "noble work, as much as a still-life or a self-portrait."</p>
+          <p type="p">Between the years 1918 and 1935, Delaunay painted very little, devoting herself to parenting and trying to make a living in order to support Robert's artistic career. She opened a fashion shop featuring her designs in Paris in 1921 which quickly attracted glamorous customers such as Hollywood actress Gloria Swanson. Delaunay's fabric designs became so popular that she eventually started her own company with Jacques Herm in 1924 and began a relationship with the Holland-based department store Metz &amp; Co. the following year that would last more than three decades. A growing interest in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; art movement led to a fashion collaboration with poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt;, creating "dress-poems" with designs featuring color combinations inspired by his words.</p>
+          <p type="p">Delaunay returned to painting in 1937 when she and Robert were asked to decorate two buildings for the Paris Exposition Internationale des Arts et Techniques dans la Vie Moderne. The murals she created for this commission were well received. After Robert's death in 1941 things became very difficult and Delaunay survived by selling both her own designs and Robert's paintings. Being of Jewish heritage she was forced to move frequently during the war, worried that she would be arrested. There was an occasion, in Cannes, when she was questioned regarding her middle name, "Stern." Apparently she stood her ground and, refusing to show fear, succeeded in boarding her train and escaping capture. Delaunay was acutely aware of the war, frequently hearing gunfire and watching German troop activity from as close as just outside her hotel windows.</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="img" alt="Sonia Delaunay Portrait" show="0">/images20/photo/photo_delaunay_3.jpg</p>
+          <p type="p">At the end of the war, in 1944, Delaunay returned to Paris, intent on assuring that Robert's artistic legacy received proper recognition. When she was confident that this goal had been met she finally began to focus on her own art, concentrating primarily on painting with a series of gouaches in the 1950s called &lt;i&gt;Rhythme coloré&lt;/i&gt;. The series explored the power of color, and the inherent rhythm in their combination on the canvas.</p>
+          <p type="p">In 1964 Delaunay met author and poet Jacques Damase who would eventually become her partner, nurturing her late career by arranging numerous gallery exhibitions as well as the 1967 retrospective of almost 200 works at France's Musée Nationale d'Art Moderne.</p>
+          <p type="p">Near the end of her life, Delaunay's work achieved both acknowledgement in her own country as well as global attention. As a measure of goodwill, French President Pompidou even gifted U.S. President Richard Nixon her painting &lt;i&gt;Rhythme-couleur No. 1633&lt;/i&gt; (1969).</p>
+          <p type="p">In 1978, a year before she passed away, she helped design costumes for a performance of the play &lt;i&gt;Six Characters in Search of an Author&lt;/i&gt; and finally published her autobiography. Having made an impact on both the art and fashion worlds, it was fitting that she chose to be buried in a dress that Hubert de Givenchy had designed for her to wear while attending a reception for England's Queen Elizabeth.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Orphism inspired artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klee_paul"&gt;Paul Klee&lt;/span&gt; to explore the effect of non-objective colored shapes. Later, proponents of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-op_art"&gt;Op art&lt;/span&gt; movement, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-riley_bridget"&gt;Bridget Riley&lt;/span&gt;, used color and shape to create optically-charged movement and vibration in their works that have connections to Delaunay's explorations. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic&lt;/span&gt; movement artists, such as Yaacov Agam and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-calder_alexander"&gt;Alexander Calder&lt;/span&gt;, continued this investigation in the third dimension in their sculptural constructions as well. Delaunay's textile designs extended the range of her influence into fashion, home decor and the theater. Her ability to introduce art into regular life by creating and wearing clothing, and living in spaces that were of her own design, can be seen as an early form of performance art, inspiring contemporary artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abramovic_marina"&gt;Marina Abramovic&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Nu jaune (Yellow Nude)</title>
+      <year>1908</year>
+      <materials>Oil paint on canvas,</materials>
+      <desc>&lt;i&gt;Nu jaune&lt;/i&gt; or &lt;i&gt;Yellow Nude&lt;/i&gt; exemplifies how Delaunay's earliest works were quite influenced by Fauve artists like Matisse and Post-Impressionists such as Gauguin. At this point in her career she had not yet abandoned figurative subjects. The depiction of this nude woman, propped up on one elbow, resting her head in her hand, her hips tilted slightly toward the viewer, is provocative and fits in well with the other images of prostitution by avant-garde artists. Nevertheless Sonia's version denies the viewer access, her gaze averted and her elbow forbiddingly locked. Although the colors are unrealistic, they are rich and jewel-toned, setting a standard for the rest of her career.</desc>
+      <collection>Collection of Musée des Beaux-Arts de Nantes, Nantes, France</collection>
+    </artwork>
+    <artwork>
+      <title>Le Bal Bullier (Bal Bullier)</title>
+      <year>1913</year>
+      <materials>Oil on paint on mattress ticking</materials>
+      <desc>
+				This image offers an excellent example of Orphism, the expressive combination of color and form that dominated much of her career. The row of dancers spread out under dome lights positively bursts with patches of vibrant primary and secondary colors, illustrating her interest in the simultaneous color theory espoused by mid-19&lt;sup&gt;th&lt;/sup&gt; century chemist Chevreuil. This theory explored the visual effect of combining a primary color with a secondary; a technical discovery that enabled artists to intensify the colors of their creations solely by manipulating the placement of color on the canvas, without consideration to subject matter. Twelve feet long, this painting was the largest of four versions and the first work exploring contrasting colors (blues and oranges, for example, placed side by side for maximum intensity) on such a large-scale. The Bal Bullier dance hall on the boulevard Saint-Michel in Paris was a gathering place for avant-garde literary and art figures as well as students. Sonia and Robert were frequent attendees and there is no question that her depiction was inspired by her own experience. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Le Bal Bullier&lt;/i&gt; exemplified Orphism perfectly by allowing the placement of color on the canvas to create both movement and energy. The bodies of the dancers are broken into abstract areas of bright color, which cause a kind of flickering reaction in the viewer, forcing him to work his way across the canvas and take in the spectacle described. To maximize this effect Delaunay sets the dancers against a background where color is treated in just the same way, a red next to a green, a yellow next to a purple-blue, perfectly capturing the excitement and energy of this famous dance hall. Although there is no attempt to present the world inside the hall with precision or photographic reality, the experience of those dancers under the bright lights, swirling around in couples, or as individuals, is absolutely captured. 
+			</desc>
+      <collection>Collection of Centre Pompidou, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Simultaneous dress</title>
+      <year>1913</year>
+      <materials>Fabric patchwork</materials>
+      <desc>
+				Delaunay's passion for exploring the way complementary colors (one primary with one secondary) reacted to one another, was not contained to fine art. In fact, she boldly applied this expressive technique to areas in which artistic exploration was formerly not noted, such as the world of fashion and home décor. She eventually built a career on designing fashions for dresses, driving caps, swimsuits, shoes, and scarves. This dress is of particular importance because it was one of the earliest examples of her unique "simultaneous" dresses. 
+				&lt;br/&gt;&lt;br/&gt;
+				The dress is created by sewing together oddly shaped pieces of fabric in non-uniform size and color. The color scheme, similar to one she developed in her paintings, manages to encapsulate a full range, including all the primaries (red, blue, and yellow) and secondaries (green, orange, and purple). Black, noted in the bunched fabric that wraps around the back and the collar, is used to contain the explosion of color. The artist designed this type of dress for her friends, most certainly enhancing the visual effect of the dancers at the Bal Bullier. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>La prose du Transsibérien et de la Petite Jehanne de France</title>
+      <year>1913</year>
+      <materials />
+      <desc>Delaunay's long-format illustration of Blaise Cendrars' poem &lt;i&gt;La prose du Transsibérien et de la Petite Jehanne de France&lt;/i&gt; (&lt;i&gt;Prose of the Trans-Siberian and of Little Jehanne of France&lt;/i&gt;) can be considered a "simultaneous book." Describing the poet's 1905 journey on the Trans-Siberian Railway with Jeanne, a French prostitute, the two-meter long book, pleated in the manner of an accordion, exhibits the artist's technique of manipulating color for maximum expression. Patches of non-uniformly shaped color and text printed in different colors (not the expected black) and typefaces, guide the reader around the text and reflect the mood and content of Cendrars' poem. The planned print run of 150 copies was purposefully meant to reach 300 feet high (if all copies are connected end-to-end) - the height of the Eiffel Tower.</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Prismes électriques (Electric Prisms)</title>
+      <year>1914</year>
+      <materials>Oil paint on canvas</materials>
+      <desc>
+				A celebration of color, Sonia Delaunay's painting &lt;i&gt;Prismes électriques&lt;/i&gt; is focused around two large overlapping circles created by arcs or curved forms of primary and secondary colors placed one beside the other. The remainder of the canvas is covered by other areas of color noted in a variety of shapes both geometric, such as arcs, rectangles, and oval-like shapes, more abstract and all connected as if sewn together like a tapestry. 
+				&lt;br/&gt;&lt;br/&gt;
+				This work also exemplifies the way that life influenced Delaunay's art. Apparently she and Robert were walking down the boulevard Saint-Michel when they came upon newly installed electric lamplights. Both artists tried to recreate the impressive glow from these new inventions in their artwork. In this painting we see how Sonia tried to replicate the way these artificial lights cast colors onto the sidewalk beneath with by sketching rapid, semi-circular colored lines. Sonia's efforts elucidates Chevreuil's claim that the manipulation of color can produce light on the canvas; that the combination of two colors can create a brighter effect or alternatively, a darker one.
+			</desc>
+      <collection>Collection of Centre Pompidou, Paris, France</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Robes simultanées (trois femmes, forms, couleurs) (Simultaneous Dress [Three Women, Forms, Colors])</title>
+      <year>1925</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Delaunay's &lt;i&gt;Robes simultanées (trois femmes, forms, couleurs)&lt;/i&gt; (1925) depicts three dressed mannequin-like, featureless forms. The figure on the left wears a dress comprised of interlocking rows of blue and white triangles; the middle figure's dress has a pattern of lines that bend at right angles, creating rectangular shapes on the bodice and skirt of the dress while leaving a rust-red colored square in the place of a belt buckle. The left figure wears a black dress with a ruffled skirt that creates a jagged silhouette. Delaunay's colors are earth tones as well as primaries. The figures stand on a blue carpet with a red-lined border in front of a trifold dressing screen wherein each panel has a different color scheme (three to reflect the number of mannequins depicted).
+				&lt;br/&gt;&lt;br/&gt;
+				Delaunay's career went well beyond the visual arts, including the design of interior decor, fashion, and fabric. This work directly refers to her activity as a fashion designer, showing the way that these arts intersect: art inspiring fashion and fashion inspiring art. The intersection between art and design can be noted in her work on &lt;i&gt;Casa Sonia&lt;/i&gt; (1918), the set and costume design of Tristan Tzara's &lt;i&gt;Le Cœur à Gaz&lt;/i&gt; (1923) and her textiles, which sold worldwide.
+			</desc>
+      <collection>Collection of Museo Thyssen-Bornemisza, Madrid, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>Design 1044, fabric sample, Metz &amp; Co.</title>
+      <year>1931</year>
+      <materials>Cotton georgette</materials>
+      <desc>
+				&lt;i&gt;Design 1044&lt;/i&gt; illustrates Delaunay's work in textile design. This light cotton fabric pattern is composed of overlapping oblong shapes of varying widths in shades of blue and green, broken up here and there with a pale yellow. The shapes are outlined in white, allowing the original color of the cloth to show through, and the overall pattern resembles the petals of a flower.
+				&lt;br/&gt;&lt;br/&gt;
+				Textile design was an important aspect of Delaunay's career. Although she had already designed and sold fabrics of her own design in 1925 when she met Joseph de Leeuw, owner and director of the Holland based department store Metz &amp; Co., the friendship quickly developed into a business collaboration resulting in hundreds of fabric designs and lasting through the 1950s. Delaunay would produce designs, such as this one, in a number of different color combinations; beyond the present one there is a version in red and orange palette, another in blue and purple, and one in brown and tan. Delaunay's work in this field elevated the field of fabric design to high art. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Hélice (Propeller)</title>
+      <year>1937</year>
+      <materials>Tempera paint on canvas</materials>
+      <desc>
+				This large-scale painting measures almost twenty-three feet long and ten feet high and features a three-blade propeller anchored by a series of circles of various bands of color. Surrounding the propeller are depictions of mechanisms including gears and levers, metal disks, and wires in bright colors that project from a blue background composed of other, fainter, painted circles. 
+				&lt;br/&gt;&lt;br/&gt;
+				This painting is one of a series that Sonia Delaunay made for the Exposition Internationale des Arts et Techniques dans la Vie Moderne, an international exposition that took place in Paris in 1937. The commission marked her return to painting, garnered her a great deal of attention, and secured her financial security. Delaunay exhibited this work in the air travel pavilion alongside others she prepared on the same theme. The artist also created two works for the pavilion devoted to railroads, altogether creating a body of work celebrating the major advancements in transportation that had been made in recent years. Although focusing on the element important to the theme, in this case the propeller of a plane, Delaunay's passion for color and shape is apparent in this work: the mechanisms are rendered in vibrant shades, unlike those found in real life, on a background of colorful circles. 
+			</desc>
+      <collection>Skissernas Museum - Museum of Artistic Process and Public Art, Lund, Sweden</collection>
+    </artwork>
+    <artwork>
+      <title>Rythme (Rhythm)</title>
+      <year>1938</year>
+      <materials>Oil paint on canvas</materials>
+      <desc>
+				Delaunay's &lt;i&gt;Rythme (Rhythm)&lt;/i&gt; is of particular importance because it was created for and exhibited at the 15&lt;sup&gt;th&lt;/sup&gt; annual Salon des Tuileries exhibit in Paris in 1938. The artist's participation in this exhibit proved her inclusion within a group of artists representing modern art in France. This large-scale painting measures more than seventeen by nineteen feet and, like her other works, features circles of bright primary colors as well as black and white. Layers of semi-circle arcs are unevenly positioned one beside the other, forming a line of disjointed circles along a central axis. A section of interlocking black and white triangles and diamonds ground this series of half-circles on one side, connecting with the black of the large circle surrounding the colorful central shape to create a balance across the canvas. 
+				&lt;br/&gt;&lt;br/&gt;
+				Beginning in the 1930s Delaunay began to explore the subject of "rhythms." She was fascinated by the rhythm created by placing colors side by side, complementing and contradicting one another. As can be seen in this image, sometimes the colors blend together and make a larger shape (as with the circles on the top center of the canvas) while other times they work against each other (noted in the way some of the circles on the lower half of the canvas seem to break apart from each other). Delaunay captures the visual rhythm created by the moving or shifting of colors, as well as their interplay across the canvas. The artist described the process she underwent in exploring color as a "period of scales to discover harmonies and dissonances that give colors a life of their own, investing them with a pulse and vibrations which, when later put in order, become rhythms."
+			</desc>
+      <collection>Collection of Musée d'Art Moderne de la Ville de Paris, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Rhythme colore (Colored Rhythm)</title>
+      <year>1968</year>
+      <materials>Oil paint on canvas</materials>
+      <desc>
+				Here the canvas is clearly split into two sections. The left third of the canvas is filled with the familiar motif of multi-colored, semi-circular arcs lined up one beside the other to form layers of circles. The remaining two thirds are filled primarily with vertical rectangles of varying sizes and colors. The artist leaves faint traces of the circle shapes (a continuation of one yellow and then white arc that extends into this side from the left section of the canvas and then seems to fade into the rectangles) as well as a thick bold black semi-circle positioned within a white rectangle in the center, to provide almost an anchor for the rhythm of the various areas. 
+				&lt;br/&gt;&lt;br/&gt;
+				Thirty years after her first exploration of colored rhythm painting, there is a new development of geometric shape in her work. The rectangular shapes diminish the fluidity of the circular shapes. This change indicates the way she continued to explore her fascination with this theme throughout her career. As she wrote, "For me, the abstract and the sensual should come together. Breaking away from the descriptive line did not mean becoming sterile." 
+			</desc>
+      <collection>Collection of Museum Ludwig, Cologne, Germany</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="matisse_henri">Bathers by a River (1917)</artwork>
+    <artwork from="artist" page="braque_georges">Houses of l'Estaque (1908)</artwork>
+    <artwork from="artist" page="delaunay_robert">Simultaneous Windows (2nd Motif, 1st Part) (Les fenêtres simultanées [2e motif, 1re partie]) (1912)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>delaunay_robert</entity>
+        <entity>matisse_henri</entity>
+        <entity>van_gogh_vincent</entity>
+      </column>
+      <column>
+        <entity>apollinaire_guillaume</entity>
+        <entity>cendrars_blaise</entity>
+        <entity>tzara_tristan</entity>
+        <entity>uhde_wilhelm</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>dada</entity>
+        <entity>fauvism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>anuszkiewicz_richard</entity>
+        <entity>arp_hans</entity>
+        <entity>delaunay_robert</entity>
+        <entity>klee_paul</entity>
+        <entity>abramovic_marina</entity>
+      </column>
+      <column>
+        <entity>apollinaire_guillaume</entity>
+        <entity>cendrars_blaise</entity>
+        <entity>tzara_tristan</entity>
+        <entity>uhde_wilhelm</entity>
+      </column>
+      <column>
+        <entity>abstract_art</entity>
+        <entity>cubism</entity>
+        <entity>dada</entity>
+        <entity>kinetic_art</entity>
+        <entity>op_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Sonia Delaunay: Artist of the Lost Generation</title>
+          <link>B00U6UZ72K</link>
+          <info>By Axel Madsen</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay: The Life of an Artist, A Personal Biography Based on Unpublished Private Journals</title>
+          <link>0810932229</link>
+          <info>By Stanley Baron and Jacques Damase</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="art works" class="artwork">
+        <entry recommended="true">
+          <title>Sonia Delaunay</title>
+          <link>1849763178</link>
+          <info>By Anne Montfort</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay, a Retrospective</title>
+          <link>0914782320</link>
+          <info>By Sherry A. Buckberrough</info>
+        </entry>
+        <entry>
+          <title>Sonia Delaunay: Art Into Fashion</title>
+          <link>379135020X</link>
+          <info>Introduction by Elizabeth Morano</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Tate Modern; information on about Delaunay's life and exhibitions at the museum</title>
+          <link>http://www.tate.org.uk/whats-on/tate-modern/exhibition/ey-exhibition-sonia-delaunay/delaunay-introduction</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>See How Avant-Garde Art and Fashion Collided in '20s Paris At This Lively Sonia Delaunay Retrospective</title>
+          <link>http://www.forbes.com/sites/jonathonkeats/2014/11/11/see-how-avant-garde-art-and-fashion-collided-in-20s-paris-at-this-lively-sonia-delaunay-retrospective/#78125eea1763</link>
+          <info>
+						By Jonathon Keats
+						&lt;br&gt;
+						Forbes 
+						&lt;br&gt;
+						November 11, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay's Fabric and Feminism</title>
+          <link>http://www.anothermag.com/fashion-beauty/7273/sonia-delaunays-fabric-and-feminism</link>
+          <info>
+						By Olivia Singer
+						&lt;br&gt;
+						Anothermag.com 
+						&lt;br&gt;
+						April 14, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay review - the woman who made color dance gets a knockout show</title>
+          <link>https://www.theguardian.com/artanddesign/2015/apr/13/sonia-delaunay-tate-modern-london-review</link>
+          <info>
+						By Adrian Searle
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						April 13, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>We Must Not Be Isolated</title>
+          <link>https://frieze.com/article/we-must-not-be-isolated</link>
+          <info>
+						By Ali Smith
+						&lt;br&gt;
+						Frieze.com 
+						&lt;br&gt;
+						October 10, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Sonia Delaunay</title>
+          <link>https://www.youtube.com/watch?v=SIlDZzCVtjM</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Sonia Delaunay</title>
+          <link>https://www.youtube.com/watch?v=dEWqlNckUzs#t=1.87020377</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Sonia Delaunay (1885-1979) et Jacques Dutronc - 1968</title>
+          <link>https://www.youtube.com/watch?v=YSfPMPOodOY</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay - Mademoiselle Y</title>
+          <link>https://www.youtube.com/watch?v=bjEOn4NG1R8</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry recommended="true">
+          <title>Caroline de Maigret - Being Sonia Delaunay</title>
+          <link>https://www.youtube.com/watch?v=4C0lCtXeJsY</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

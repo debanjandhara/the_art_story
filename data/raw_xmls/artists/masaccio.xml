@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>masaccio</id>
+    <name>Masaccio</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1422 - 1428</years>
+    <description>Masaccio was the first great painter of the Quattrocento period of the Renaissance recreating lifelike figures with a convincing sense of three-dimensionality.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>Florentine</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>December 21, 1401</birthDate>
+    <birthPlace>Castel San Giovanni di Altura, Italy</birthPlace>
+    <deathDate>1428</deathDate>
+    <deathPlace>Rome, Italy</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>10/19/2018</pub_time>
+  </main>
+  <includes>
+    <include>early_renaissance</include>
+    <include>the_sublime_in_art</include>
+  </includes>
+  <similar_movements>
+    <movement>early_renaissance</movement>
+    <movement>the_sublime_in_art</movement>
+    <movement>bloomsbury_group_artists</movement>
+    <movement>high_renaissance</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>della_francesca_piero</artist>
+    <artist>giotto</artist>
+    <artist>fra_angelico</artist>
+    <artist>donatello</artist>
+  </similar_artists>
+  <quotes></quotes>
+  <authors>
+    <author link="kent">Jacqueline Kent</author>
+  </authors>
+  <article>
+    <synopsys>Masaccio is often credited as the first truly Renaissance artist. A tragically early end to his life cut short his progress, yet his outstanding work altered the course of Western art. The Early Renaissance was a time of cultural flourishing in Florence, and Masaccio was able to take advantage of the significant patronage of the arts among the nobility, who were keen to show off their wealth and prestige in the form of alter-pieces and friezes decorating private chapels. Little is known about his life; what we do know is that his work was unlike that of any other artist working in Florence at the time, following a rational approach that would come to characterize the broader Renaissance.</synopsys>
+    <key_ideas>
+      <idea>One of the most significant innovations in art - and no less architecture and engineering - during the Renaissance, was the use of linear perspective to create the illusion of depth in a two-dimensional rendering. Masaccio took inspiration from the architectural drawings of Filippo Brunelleschi, who had rediscovered the concept of perspective, lost since Ancient Roman and Greek times, and applied it to painting, altering the course of Western art.</idea>
+      <idea>By taking the principles of perspective from architecture, and the study of light and form from sculpture, and applying them to painting, Masaccio created works of remarkable realism, that were completely different to any other painting of the time. His religious figures appear as solid objects in three-dimensional space. In this way they occupy an extension of the viewer's world, as if behind a pane of glass, rather than a wholly separate, pictorial plane as in Medieval art.</idea>
+      <idea>The realism of Masaccio's paintings not only demonstrates the scientific principles which were key to the development of the Renaissance, it brings the holy persons closer to the viewer, and makes them appear more human, establishing a change in the relationship between the people and their God.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Early Years ">
+          <p type="p">Masaccio was born Tommaso di Ser Giovanni di Simone Cassai in the winter of 1401 in a town close to Florence. His father was Ser Giovanni di Simone Cassai, a notary, and his mother Monna Iacopa, the daughter of an innkeeper. Masaccio and his brother Giovanni both became painters, though neither of their parents had been artists. Their grandfather, however, was a maker of wooden cabinets (&lt;i&gt;cassoni&lt;/i&gt;), which were often painted, and the family name Cassai comes from the word for "carpenter" in Italian. Giovanni continued work on such objects throughout his artistic career, earning him the nickname &lt;i&gt;lo Scheggia&lt;/i&gt; (the splinter) on account of this, as well as his slim build.</p>
+          <p type="p">Masaccio was apparently artistically inclined from childhood. He became known as, "Masaccio", meaning "clumsy Tom", because he did not pay any attention to people, politics, or his own personal appearance, preferring to focus on his art. With whom Masaccio trained is unknown, although it is likely that he would have taken up an apprenticeship in his teenage years, as was customary for young artists at the time. A century later, the early art historian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt; claimed that 'some figures made by him in his earliest childhood still survived in Masaccio's hometown, although any such paintings have now been lost.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1422 he joined a specialist Florentine painting guild, Florentine Arte dei Medici e Speziali, indicating that he was working as an independent artist in the city by this time. The exact date of Masaccio's move to Florence is unknown, and could have been as early as the occasion of his mother's second marriage in 1412.</p>
+          <p type="img" alt="Portrait of Masaccio from Giorgio Vasari's &lt;i&gt;Lives of the Artists&lt;/i&gt; (c.1568)" show="1">/images20/photo/photo_masaccio_1.jpg</p>
+          <p type="p">Not much more is known until, around 1423, he travelled to Rome with Masolino, an artist he would collaborate with throughout his career. There he studied the classical statues, whose forms he would begin to incorporate into his painting as he moved away from the then popular &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_art_and_architecture"&gt;Gothic style&lt;/span&gt;. Upon his return, he began work on a number of panel altarpieces for churches in Florence, some with Masolino. The arts in Florence were thriving, and during this time Masaccio was exposed to the work of artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brunelleschi"&gt;Brunelleschi&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-donatello"&gt;Donatello&lt;/span&gt;. Brunelleschi, an architect, had "discovered" the concept of linear perspective, which had a major impact on Masaccio's work, and the influence of Donatello's sculpture is evident in the "sculptural" depiction of figures in Masaccio's mature works.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">Masaccio's growing prestige reached a peak in 1425, as he joined Masolino to paint a series of frescoes to decorate the Brancacci Chapel in the church of Santa Maria del Carmine in Florence. These monumental frescoes would prove to be some of the most important of his career, featuring scenes from the bible that he painted to accompany those done by Masolino. When Masolino travelled to Hungary later that year, the decoration was left to Masaccio alone. He continued work on it for some time, even returning to the chapel in between working on other commissions. During this time, Masaccio began to receive other prestigious commissions, most notably for the fresco in the church of Santa Maria Novella.</p>
+          <p type="p">Masaccio travelled to Rome in 1428, where he died in the second half of the year at the age of just 26. The circumstances surrounding his death remain mysterious. A rather dramatic account reports that he was poisoned by a rival artist (not impossible given the intense competitiveness of the art world at the time), although many now believe he died of the plague. In any case, as Brunelleschi said, in the death of Masaccio "we have had a very great loss".</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Despite his short career, Μassacio proved himself to be one of the most important artists of the Early Renaissance. He is often seen as one of the first artists of the Renaissance proper, and his works were studied and used as inspiration by those in the movement after him such as Fillipo Lippi, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fra_angelico"&gt;Fra Angelico&lt;/span&gt; and Andrea del Castagno. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-della_francesca_piero"&gt;Piero della Francesca&lt;/span&gt; was particularly influenced by his use of linear perspective, and later in the Renaissance &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo Da Vinci&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt; were all influenced by his sculptural depiction of the human form. Masaccio has rightly been heralded as one of the most important figures in the history of Western painting, introducing the perspective and naturalism that would characterise the art of the Renaissance, and continue to dominate Western European art until the late 19&lt;sup&gt;th&lt;/sup&gt; century.</p>
+          <p type="p">It is a testament to Masaccio's virtuosity that his influence did not die out with the Renaissance, or with the artistic upheavals of the late 19&lt;sup&gt;th&lt;/sup&gt; and early 20&lt;sup&gt;th&lt;/sup&gt; centuries, which began to challenge naturalism and perspective. Several members of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bloomsbury_group_artists"&gt;Bloomsbury Group&lt;/span&gt;, a close-knit artistic community active in the first half of the 20&lt;sup&gt;th&lt;/sup&gt; Century, sketched his works in the Brancacci Chapel, studying his use of light to create solid sculptural forms. Of the Bloomsbury Group, his influence can be seen most clearly in the figurative paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-grant_duncan"&gt;Duncan Grant&lt;/span&gt;, who spent two years in Italy between 1902-3 copying Masaccio. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-spencer_stanley"&gt;Stanley Spencer&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guston_philip"&gt;Philip Guston&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-balthus"&gt;Balthus&lt;/span&gt; also took inspiration from him, as did the artists of Pittura Metafisica, an Italian precursor to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, who looked to Masaccio for his use of form and linear perspective, as well as his role in their Italian artistic heritage. This is best seen in the paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt;, who incorporated both one-point perspective and the 'sculptural forms' - appearing as literal sculptures - from Masaccio into his own work.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>San Giovenale Triptych</title>
+      <year>1422</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				This is the earliest known work by Masaccio, dated April 23&lt;sup&gt;rd&lt;/sup&gt; 1422 in the inscription running along the bottom edge of the three panels. It was commissioned by the Vanni Castellani family of Florence and originally resided in the church of San Lorenzo, before being moved to San Giovenale. It was designed as an altarpiece, presumably for a secondary chapel of the church, with the customary scene of the Virgin and Child on its central panel. On the left wing are Saint Bartholomew and Saint Blaise, and on the right are Saint Antony and Saint Juvenal (or San Giovenale), all of whom are identified by name labels in the inscription below.
+				&lt;br/&gt;&lt;br/&gt;
+				The way the figures are depicted shows the profound influence of Giotto, the artist who had been at the forefront of the Renaissance a century earlier. However, the way the Virgin's throne recedes into the background, placing the figures in a realistic space behind the picture plane shows an innovative use of perspective, which was distinctly modern for the time. The simplicity of the forms and composition, along with this realistic space, show that Masaccio was already moving away from the International Gothic style, rejecting the elaborate decoration and implausible pictorial space favored by artists such as Lorenzo Monaco and Gentile da Fabriano. This early painting contains elements of the linear perspective and compositional unity that would come to characterize his future works. The inscription at the bottom is the first known example of the use of modern letters, as opposed to gothic script.
+			</desc>
+      <collection>Museo Masaccio, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Madonna and Child with St Anne</title>
+      <year>1424-25</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				This panel, again showing the Virgin and child, this time with her mother sitting behind her, is thought to have been a collaboration with Masolino. According to Giorgio Vasari, it originally stood in the church of San Ambrogio in Florence right next to the entrance of the nuns' quarters. This seems a suitable setting for this painting focusing on the Virgin and her mother St Anne, as they were considered to be models for an ideal Christian woman. The intricate damask fabric held behind St Anne may reference the likely patron of the panel, Nofri Buonamici, who was a weaver of silk.
+				&lt;br/&gt;&lt;br/&gt;
+				Whilst some parts of this painting still show the more Gothic hand of Masolino, Massacio's innovative painting style is nonetheless evident. It is visible particularly in the Christ child, who has been depicted not as a Gothic cherub but as a realistic infant. One can also see how Masaccio painted the figures as if they were illuminated by one real light source to the left, rather than the all-encompassing glow found in Gothic painting. Whilst the rounded figures show some influence from Donatello, one can also see in this panel the development of Masaccio's own individual style.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>Payment of the Tribute Money</title>
+      <year>1425-27</year>
+      <materials>Fresco</materials>
+      <desc>
+				This fresco scene is one of several depicting scenes from the life of St Peter, painted by Masaccio in collaboration with the painter Masolino in the Brancacci Chapel of Santa Maria del Carmine in Florence. Masolino, who had already been working on the chapel for a few years, eventually abandoned the work, as did Masaccio when he left for Rome, where he died in 1428, and it was eventually completed by Filipino Lippi between 1481 and 1485. Although disastrous fires and additions by later artists have caused serious losses, the frescoes that survive are recognized as some of the most important in Florence.
+				&lt;br/&gt;&lt;br/&gt;
+				This section shows Christ and his disciples in Capernicum, where they are required to pay tax. In the centre Christ and his disciples are confronted by the tax collector, on the left the fisherman Peter collects gold from the mouth of a fish, as instructed by Christ, and on the right Peter hands over the money.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting exemplifies Masaccio's skilful use of perspective - atmospheric perspective in the mountains to the left, and linear perspective in the building to the right,a technique that would have a significant influence on later Renaissance artists such as Piero della Francesca and Paolo Uccello. The technical excellence of this painting has been studied and sketched by countless artists, from Michelangelo to Philip Guston. Masaccio was one of the first artists to use naturalism and perspective in this way, creating a space so realistic that the picture plane appears more as a window than a flat surface. The figures' poses emulate classical statues, and their draped clothing is reminiscent of that worn by classical philosophers. Though the painting has a narrative subject, Masaccio has focused on the harmonious arrangement of figures rather than the storyline. Art Historian Richard Offner suggests that the meaning of the painting is found "in the degree in which [the figures] reflect a universal order"; in other words the composition reflects the balance and organisation bestowed on nature by God.
+			</desc>
+      <collection>Santa Maria del Carmine, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Expulsion from Eden</title>
+      <year>1425-27</year>
+      <materials>Fresco</materials>
+      <desc>
+				One of the best-known scenes painted by Masaccio, this fresco forms part of the cycle he painted in the Brancacci Chapel. It depicts the moment Adam and Eve were cast out of the Garden of Eden after committing the Original Sin.
+				&lt;br/&gt;&lt;br/&gt;
+				Unlike many of Masaccio's other paintings, this fresco focuses not on space and perspective but rather on the emotional weight of the scene. The sense of anguish in the faces and poses of Adam and Eve was innovative for a scene that had always been treated with expressionless gravity in medieval depictions. In contrast to the painting of the Temptation of Adam and Eve, painted in the same chapel by Masolino, Masaccio's painting emphasises the reality of human agony implicit to the story. Academic Sally Munt writes of the painting, "I find in it a strange, almost uncanny hopefulness, that intimations of beauty can be seen amongst such anguish". The novel expression of emotion in this painting made it hugely influential during the Renaissance, even inspiring Michelangelo's depiction of the scene in the Sistine Chapel. This "beautiful liveliness in the likeness of nature", as described by Giorgio Vasari, was taken partly from the study of classical sculpture. Eve's pose is the classical &lt;i&gt;Venus Pudica&lt;/i&gt;, an unclothed woman shown with her hands covering her private parts, whilst Adam's torso may well have been inspired by the famous Apollo Belvedere statue in the Vatican. The painting demonstrates Masaccio's involvement in the new humanist movement in Florence which valued the study of ancient artists and philosophers. This painting has continued to be of interest to artists up to the present day, with the figures reappearing in works such as Fred Tomaselli's &lt;i&gt;Expulsion&lt;/i&gt; (2000).
+			</desc>
+      <collection>Church of Santa Maria Novella, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>Predella Panel, The Pisa Altarpiece</title>
+      <year>1426</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				This is a panel from the lower edge of an altarpiece, known as the 'predella', commissioned for the church of Santa Maria del Carmine in Pisa. The altarpiece was unfortunately taken apart, and to date only eleven panels can be conclusively attributed to it. The central panel depicts the Virgin and Child. This section shows two dramatic and violent spectacles of martyrdom from the New Testament. Each scene is separated by a band of gold leaf. On the left, St Peter is nailed to a crucifix. He asked to be crucified upside down so that he would not be undeservingly compared with Christ. On the right, St John the Baptist is about to be beheaded by King Herod's men at the request of Salome.
+				&lt;br/&gt;&lt;br/&gt;
+				The scene on the left demonstrates Masaccio's skilful use of linear perspective, right down to the foreshortening of the halo of St Peter. The action appears to take place in a space behind the picture plane, and the figures within this space appear as solid three-dimensional objects. The two men on either side of St Peter appear to lean forward in space, out towards the viewer, as they hammer in the nails on the cross.
+			</desc>
+      <collection>Staatliche Museen, Berlin</collection>
+    </artwork>
+    <artwork>
+      <title>The Holy Trinity</title>
+      <year>c. 1424-27</year>
+      <materials>Fresco</materials>
+      <desc>
+				This fresco, painted on the walls of Santa Maria Novella in Florence, is considered to be Masaccio's masterpiece. The patrons who commissioned the work are shown kneeling at the forefront of the painting, however they cannot be identified with certainty. The painting depicts the crucifixion of Christ, with the customary figures of the Virgin and St John at the foot of the cross. However, the scene defies Renaissance convention in so many ways that it has remained an enigma, despite being studied by scholars for hundreds of years. The painting is known as &lt;i&gt;The Holy Trinity (Santa Trinità)&lt;/i&gt;  due to its depiction of Christ with God behind him, and the white dove of the Holy Spirit hovering between their heads. Although a figurative depiction of God was not a religious taboo at the time, he would usually have been depicted in a non-earthly realm, representing the heavens, rather than in the concrete space of the church.
+				&lt;br/&gt;&lt;br/&gt;
+				The rendering of three-dimensional space in this painting is often considered to represent the pinnacle of Masaccio's technical mastery. The perspective is so accurate that modern scholars have been able to digitally construct the fictional space depicted in the painting as a 3D model. The fine draughtsmanship that allowed Masaccio to create such a realistic space gives the sense that the crucifixion is taking place right in front of the viewer's eyes, in the church itself. This lends the image an immediacy that instantly connects the viewer with Christ's suffering, not only as a God but as a fellow person.
+				&lt;br/&gt;&lt;br/&gt;
+				The image mirrors an earlier painting, &lt;i&gt;The Virgin and Child with St Anne&lt;/i&gt;, in which the Mother of God is shown with her own mother standing behind her. The depiction of God as a Father, standing behind his son, allows the viewer to relate to the Holy Trinity on a more human level, a radical act at a time in which the Catholic Church had a strict hierarchy that insisted the public could only connect with God through priests chosen by the Church. It is suggestive of the new humanist phase in art and philosophy that was beginning to be ushered in with the Early Renaissance. The fictional architecture of the space does however incorporate degrees of separation. God is above and behind Jesus, who is above the saints, the donors are close to God by virtue of their generosity to the church, and the viewer stands below the scene looking in. At eye level, and 'beneath' the paintings fictional ground, is a naturalistic image of a tomb with a skeleton lying on top of it. Carved into the tomb in Italian is the phrase "I was once what you are, and what I am you shall be". This speaks directly to the viewer of their mortality, as they gaze up at the image of Christ dying for their salvation.
+				&lt;br/&gt;&lt;br/&gt;
+				Called "one of the groundbreaking works of the early Renaissance" by Art Historian Richard Viladesau, this work has continued to captivate artists since it was first painted, with Francis Bacon taking inspiration from its composition for his &lt;i&gt;Painting&lt;/i&gt; (1946).
+			</desc>
+      <collection>Church of Santa Maria Novella, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>giotto</entity>
+        <entity alt="Andrea Orcagna">orcagna_andrea</entity>
+      </column>
+      <column></column>
+      <column>
+        <entity alt="Brunelleschi">brunelleschi</entity>
+        <entity alt="Masolino">masolino</entity>
+        <entity>donatello</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Piero della Francesca">della_francesca_piero</entity>
+        <entity>michelangelo</entity>
+        <entity>da_vinci_leonardo</entity>
+        <entity>balthus</entity>
+        <entity>morandi_giorgio</entity>
+      </column>
+      <column>
+        <entity>bloomsbury_group_artists</entity>
+        <entity alt="Pittura Metafisica">metafisica_pittura</entity>
+      </column>
+      <column>
+        <entity alt="Masolino">masolino</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Florence and the Renaissance: The Quattrocento</title>
+          <link>2879390214</link>
+          <info>
+						By Alain Lemaître
+						&lt;br&gt;
+						1995
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Masaccio; Saint Andrew and the Pisa Altarpiece</title>
+          <link>http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892362863.pdf</link>
+          <info>
+						By Eliot Rowlands
+						&lt;br/&gt;&lt;br/&gt;
+						2003
+					</info>
+        </entry>
+        <entry>
+          <title>The Cambridge Companion to Masaccio</title>
+          <link>0521669413</link>
+          <info>
+						By Diane Ahl
+						&lt;br/&gt;&lt;br/&gt;
+						2002
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Masaccio, biography and artworks</title>
+          <link>http://www.travelingintuscany.com/art/masaccio.htm</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Parts of The Pisa Polyptych by Masaccio</title>
+          <link>http://www.andrewgrahamdixon.com/archive/itp-72-parts-of-the-pisa-polyptych-by-masaccio.html</link>
+          <info>
+						By Andrew Graham Dixon
+						&lt;br&gt;
+						Sunday Telegraph 
+						&lt;br&gt;
+						September 2&lt;sup&gt;nd&lt;/sup&gt;, 2001
+					</info>
+        </entry>
+        <entry>
+          <title>Masaccio and the Holy Trinity</title>
+          <link>http://vanderbilthistoricalreview.com/masaccio/</link>
+          <info>
+						By Mark Michael Astarita
+						&lt;br&gt;
+						Vanderbilt Historical Review 
+						&lt;br&gt;
+						September 30&lt;sup&gt;th&lt;/sup&gt;, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Charles Saatchi's Great Masterpieces: the painter who inspired da Vinci and Michelangelo</title>
+          <link>https://www.telegraph.co.uk/art/artists/charles-saatchis-great-masterpieces-painter-inspired-da-vinci/</link>
+          <info>
+						By Charles Saatchi
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						September 5&lt;sup&gt;th&lt;/sup&gt;, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Empire of the Eye: The Magic of Illusion: The Trinity - Masaccio</title>
+          <link>https://www.youtube.com/watch?v=G6A9Mg3yAu0</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

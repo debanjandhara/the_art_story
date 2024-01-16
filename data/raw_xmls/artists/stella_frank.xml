@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>stella_frank</id>
+    <name>Frank Stella</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1958 - Present</years>
+    <description>Frank Stella transformed the gestural brushwork and existential angst of Abstract Expressionism into works that offered dynamism, tactility, and scale.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>2</highlight>
+    <occupation>Painter and Printmaker</occupation>
+    <nationality>American</nationality>
+    <birthDate>May 12, 1936</birthDate>
+    <birthPlace>Malden, Massachusetts</birthPlace>
+    <pub_time>1/21/2012</pub_time>
+  </main>
+  <includes>
+    <include>minimalism</include>
+    <include>hard_edge_painting</include>
+    <include>post_painterly_abstraction</include>
+  </includes>
+  <similar_movements>
+    <movement>minimalism</movement>
+    <movement>hard_edge_painting</movement>
+    <movement>post_painterly_abstraction</movement>
+    <movement>washington_color_school</movement>
+    <movement></movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>judd_donald</artist>
+    <artist>andre_carl</artist>
+    <artist>kelly_ellsworth</artist>
+    <artist>andre_carl</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I like real art. It's difficult to define REAL but it is the best word for describing what I like to get out of art and what the best art has. It has the ability to convince you that it's present - that it's there. You could say it's authentic... but real is actually a better word, broad as it may be."</q>
+    <q>"What you see is what you see."</q>
+    <q>"A sculpture is just a painting cut out and stood up somewhere."</q>
+    <q>"Making art is complicated because the categories are always changing. You just have to make your own art, and whatever categories it falls into will come later."</q>
+    <q>"I think that many gestures artists make, gestures that seem casual and improbable but surprisingly effective in making art, can be made available to architecture."</q>
+    <q>"Painting is a flat surface with paint on it."</q>
+    <q>"You can only take advantage of those gifts that you really have - that are part of your character, and you're lucky to be born with those gifts. I have a gift for structure, and the strength of all the paintings I made in the sixties lay in their organization, their sense of what pictorial structure could be."</q>
+    <q>"The crisis of abstraction followed from its having become mired in the sense of its own materiality, the sense that the materials of painting could and should dictate its nature.  That's not enough, and the belief that it was killing painting."</q>
+  </quotes>
+  <authors>
+    <author link="gershman">Rachel Gershman</author>
+  </authors>
+  <article>
+    <synopsys>In 1959, Frank Stella gained early, immediate recognition with his series of coolly impersonal black striped paintings that turned the gestural brushwork and existential angst of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; on its head. Focusing on the formal elements of art-making, Stella went on to create increasingly complicated work that seemed to follow a natural progression of dynamism, tactility, and scale: first, by expanding his initial monochrome palette to bright colors, and, later, moving painting into the third dimension through the incorporation of other, non-painterly elements onto the canvas. He ultimately went on to create large-scale freestanding sculptures, architectural structures, and the most complex work ever realized in the medium of printmaking. Stella's virtually relentless experimentation has made him a key figure in American modernism, helping give rise to such developments as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_painterly_abstraction"&gt;Post-Painterly Abstraction&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>A decisive departure from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, Stella's &lt;i&gt;Black Paintings&lt;/i&gt; series consists of precisely delineated parallel black stripes produced by smoothly applied house paint. The striped pattern serves as a regulating system that, in Stella's words, forced "illusionistic space out of the painting at a constant rate." This device was intended to emphasize the flatness of the canvas and prompt the viewer's awareness of painting as a two-dimensional surface covered with paint - thereby overturning the notion of painting as window onto three-dimensional space that emerged in the Renaissance and dominated the medium for many centuries thereafter.</idea>
+      <idea>Created according to a predetermined, circumscribed system imposed by the artist, the &lt;i&gt;Black Paintings&lt;/i&gt; served as an important catalyst for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; art of the 1960s. Similar to Stella's parallel stripes and smooth handling of paint, Minimalist artists created abstract works characterized by the use of repeated geometric, industrial-appearing shapes stripped of all thematic or emotional content.</idea>
+      <idea>Stella was an early practitioner of nonrepresentational painting, rather than artwork alluding to underlying meanings, emotions, or narratives, and has remained one to this day. Working according to the principle of "line, plane, volume, and point, within space," Stella focuses on the basic elements of an artwork - color, shape, and composition. Over time, Stella succeeded in dismantling the devices of three-dimensional illusionism; his shaped canvases underscored the "object-like" nature of a painting, while his asymmetrical &lt;i&gt;Irregular Polygons&lt;/i&gt; explored the tension between the arrangement of colors on the flat surface of the canvas as well as the optical effect of the advancing and receding forms.</idea>
+      <idea>Baroque artists such as the early-17&lt;sup&gt;th&lt;/sup&gt;-century Italian painter Caravaggio developed illusionistic "tricks" that convincingly suggested that their subjects emerged out of the canvas and into the space of the viewer. Several centuries later, Stella took such innovations one step further by literally extending painting into the third dimension in his painterly reliefs, which entered the viewer's space with their incorporation of protruding materials.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Frank Stella was born the oldest of three children to first-generation Italian-American parents. In his sophomore year of high school at Phillips Academy in Andover, Massachusetts, he began learning to paint from the abstractionist Patrick Morgan, who taught there. Stella continued taking art courses at Princeton University, while earning a degree in history. His Princeton professors, painter Stephen Greene and art historian William Seitz, introduced Stella to the New York art world by bringing him to exhibitions in the city, thereby shaping his earliest artistic aesthetic.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Frank Stella Painting Stripes">/images20/photo/stella_2.jpg</p>
+          <p type="p">These trips to New York galleries exposed Stella to artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kline_franz"&gt;Franz Kline&lt;/span&gt;, and, most critical for Stella's subsequent development, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt;, whose geometric paintings of flags and targets inspired Stella's work during his Princeton years. After graduating, Stella moved to the Lower East Side of New York, where he set up a studio in a former jewelry store. Almost immediately, the young artist attracted significant amounts of attention from the art world. Deploying a monochromatic palette and flat application of paint, his early work signaled a break from the thick, gestural brushstrokes of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;. Stella famously called a painting "a flat surface with paint on it - nothing more," reflecting his view of art as an end in itself rather than a representation of emotional, intellectual, or physical states. With emphasis on form rather than content, his early paintings are often credited with launching &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;. For his first major series, the stark &lt;i&gt;Black Paintings&lt;/i&gt; (1958-60), Stella covered canvases with black house paint, leaving unpainted pinstripes in repetitive, parallel patterns. At only 23 years old, he gained instant recognition for these groundbreaking works. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-museum_of_modern_art"&gt;The Museum of Modern Art&lt;/span&gt; included four in its 1959-60 exhibition &lt;i&gt;Sixteen Americans&lt;/i&gt;, and purchased one for its permanent collection. That same year, famed gallery owner &lt;span class="marked_text chart-tooltip-target-top tooltip_id-castelli_leo"&gt;Leo Castelli&lt;/span&gt; began representing Stella.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Frank Stella Biography">/images20/photo/stella_3.jpg</p>
+          <p type="p">From his &lt;i&gt;Black Paintings&lt;/i&gt;, Stella moved onto the &lt;i&gt;Aluminum Paintings&lt;/i&gt; (1960) and the &lt;i&gt;Copper Paintings&lt;/i&gt; (1960-61), for which he created his own geometrically shaped canvases, challenging the traditional rectangular format. Much of his work at this time drew on the stripe motif first deployed in the &lt;i&gt;Black Paintings&lt;/i&gt;, but he soon began to embrace complex circular motifs as well as a brighter palette, especially in the &lt;i&gt;Irregular Polygon&lt;/i&gt; (1965-67) and &lt;i&gt;Protractor&lt;/i&gt; (1967-71) series. During this period, Stella also began delving into printmaking, an aspect of his work he has passionately pursued throughout his career.</p>
+          <p type="p">In 1970, Stella was the youngest artist to have a retrospective at New York's Museum of Modern Art, and then, receiving a second retrospective 17 years after - the first living artist to earn the latter distinction. Following this exhibition, Stella again explored new artistic avenues, this time incorporating &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt; and relief into his paintings - an extension of the layered bands of color in his previous works. For the &lt;i&gt;Polish Village&lt;/i&gt; series (1970-73), he attached paper, felt, and wood to the canvas. And building on this trajectory, the later &lt;i&gt;Indian Bird&lt;/i&gt; series (1977-79) featured an &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;assemblage&lt;/span&gt; of painted aluminum forms protruding from the wall, reflecting his growing interest in three-dimensionality and dynamic textures. He continued pushing the idea, creating sculptural works marked by elaborate tangles of curves, spirals, and loops - pieces whose exuberance present a stunning contrast to the more somber &lt;i&gt;Black Paintings&lt;/i&gt; that had first brought him into the public eye. Yet for Stella, even these highly sculptural works are still paintings; he asserts, "A sculpture is just a painting cut out and stood up somewhere."</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Frank Stella Photo">/images20/photo/stella_4.jpg</p>
+          <p type="p">In the 1980s and 1990s, Stella expanded his three-dimensional paintings into increasingly explosive, vividly colored, and multifaceted pieces, while continuing his work in printmaking. His series based on Herman Melville's &lt;i&gt;Moby-Dick&lt;/i&gt; includes works of many techniques, from metal reliefs to giant sculptures to mixed-media prints combining diverse processes such as woodblock printing, etching, and hand-coloring. After moving in the direction of freestanding bronze and steel sculptures, Stella's work then expanded to encompass architectural structures, illustrating his statement, "It's hard not to think about architecture when you've gone from painting to relief to sculpture." These works include an aluminum band shell in Miami (1999) and a monumental sculpture, &lt;i&gt;Prinz Friedrich von Homburg, Ein Schauspiel, 3X&lt;/i&gt; (1998-2001), situated on the lawn of the National Gallery of Art in Washington, D.C. Currently living and working in New York, Stella continues to create large-scale sculptures, as well as designs for potential architectural projects.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Stella is one of the greatest living artists whose impact is felt in the work of many contemporary American artists and styles. Although he never regarded himself as a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt;, Stella's &lt;i&gt;Black Paintings&lt;/i&gt; secured their creator's place in art history by inspiring such artists as Carl Andre to create sculptural objects stripped of expressive content and marked by their industrial appearance and seemingly anonymous handling of repeated geometric forms. Stella's color variations, exploration of circular motifs, and shaped canvases influenced artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noland_kenneth"&gt;Kenneth Noland&lt;/span&gt; and served as a catalyst for such developments as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_painterly_abstraction"&gt;Post-Painterly Abstraction&lt;/span&gt;.</p>
+          <p type="p">Art critics and theorists took much from Stella's work as well. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; famously said, "Where the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; created an illusion of space into which one could imagine walking, the illusion created by a Modernist is one into which one can look, can travel through, only with the eye." Greenberg derived his concepts of flatness, the integrity of the picture plane, and optical integrity from the work of Stella and other modernists of the time. Stella's ideas also inspired other major theorists of the period such as Carl Andre, Donald Judd, and Michael Fried.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="pollock_jackson">Mural (1943)</artwork>
+    <artwork from="artist" page="newman_barnett">Vir heroicus sublimis (1950-51)</artwork>
+    <artwork from="artist" page="johns_jasper">Flag (1954-55)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>pollock_jackson</entity>
+        <entity>newman_barnett</entity>
+        <entity>johns_jasper</entity>
+        <entity>hofmann_hans</entity>
+        <entity>caravaggio</entity>
+      </column>
+      <column>
+        <entity>greenberg_clement</entity>
+        <entity>meier_richard</entity>
+        <entity>johnson_philip</entity>
+      </column>
+      <column>
+        <entity>abstract_expressionism</entity>
+        <entity>minimalism</entity>
+        <entity>color_field_painting</entity>
+        <entity>pop_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>gehry_frank</entity>
+        <entity>libeskind_daniel</entity>
+        <entity>lewitt_sol</entity>
+        <entity>flavin_dan</entity>
+      </column>
+      <column>
+        <entity>judd_donald</entity>
+        <entity>andre_carl</entity>
+      </column>
+      <column>
+        <entity>minimalism</entity>
+        <entity>post_painterly_abstraction</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Marriage of Reason and Squalor, II</title>
+      <year>1959</year>
+      <materials>Enamel on canvas</materials>
+      <desc>Belonging to the artist's groundbreaking series &lt;i&gt;Black Paintings, The Marriage of Reason and Squalor&lt;/i&gt; is composed of black inverted parallel U-shapes containing stripes separated by thin lines of unpainted canvas. The repeated geometric pattern, in combination with the work's lack of figuration or expressive brushwork, prompts the viewer's recognition of it as a flat surface covered with paint, rather than a depiction of something else, upending the centuries-long concept of painting as window onto illusionistic three-dimensional space. The &lt;i&gt;Black Paintings&lt;/i&gt;' stark simplicity, impersonal handling of the medium, and use of repeated geometric forms made them enormously influential on the emergence of Minimalism, whose practitioners likewise pursued the viewer's pure interaction with the art object. Along with three other of the &lt;i&gt;Black Paintings&lt;/i&gt;, this work was included in the seminal MoMA exhibition &lt;i&gt;Sixteen Americans&lt;/i&gt;. As if denying the painting's evocative title, Stella issued his famous maxim "What you see is what you see," in relation to this painting.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Harran II</title>
+      <year>1967</year>
+      <materials>Polymer and fluorescent polymer paint on canvas</materials>
+      <desc>In his exploration of formal issues, Stella habitually worked in series, developing increasingly complicated variations on selected themes. In contrast to the monochrome &lt;i&gt;Black Paintings&lt;/i&gt;, the &lt;i&gt;Protractor&lt;/i&gt; series, to which &lt;i&gt;Harran II&lt;/i&gt; belongs, deploys a vivid palette and composition consisting of rectangular shapes superimposed on curving and circular forms. As in &lt;i&gt;The Marriage of Reason and Squalor, Harran II&lt;/i&gt;'s stripes emphasize the flatness of the composition, reminding the viewer that a painting is merely canvas covered with paint. This concept is reinforced by the use of the shaped canvas, which, challenging the conventional rectangular format, further denies the painting's status as illusionistic window and enhances its "object-like" quality. &lt;i&gt;Harran II&lt;/i&gt; - whose title comes from the name of an ancient city in Asia Minor - invites parallels with sculpture as well as architecture. Measuring a massive 10 x 20 feet, the work is architectural in scale, while its composition was based on the semicircular drafting tool for measuring and constructing angles.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Michapol I</title>
+      <year>1971</year>
+      <materials>Mixed media on canvas</materials>
+      <desc>The shaped canvas recurs in the works of Stella's &lt;i&gt;Polish Village&lt;/i&gt; series, to which &lt;i&gt;Michapol I&lt;/i&gt; belongs. Each composition is developed from color variations and interlocking geometric forms influenced in part by Russian Constructivism. Also inspired by Polish synagogues of the 17&lt;sup&gt;th&lt;/sup&gt; through the 19&lt;sup&gt;th&lt;/sup&gt; centuries, the works of the &lt;i&gt;Polish Village&lt;/i&gt; series are large-scale collages, in which the artist pasted felt, paper, and wood onto the stretched canvas. Despite their sculptural qualities, Stella described the impulse behind &lt;i&gt;Michapol I&lt;/i&gt; and the other works of the series as "pictorial."</desc>
+      <collection>The Museum of Contemporary Art, Los Angeles</collection>
+    </artwork>
+    <artwork>
+      <title>Shoubeegi</title>
+      <year>1978</year>
+      <materials>Enamel and glitter on metal</materials>
+      <desc>The present piece is part of Stella's &lt;i&gt;Indian Bird&lt;/i&gt; series, in which the artist further expanded the category of "painting." Stella deployed painted curlicue aluminum forms that jut out into the viewer's space - increasing the works' object-like nature and diminishing their appearance as paintings hanging on a wall. Stella's use of assembled parts and three-dimensional elements notwithstanding, he still regarded the &lt;i&gt;Indian Bird&lt;/i&gt; series - at the time his most sculptural work - as consisting of paintings or painted reliefs. Seen by some at the time as "disco-like," the series' garishly colorful palette - produced by adhering particles of metal shaving or ground glass to a first layer of color, which were then painted or stained over - was also new to his &lt;i&gt;oeuvre&lt;/i&gt;. Stella began the series during his 1977 stay in Ahmedabad, naming the individual works after birds found on the Indian subcontinent.</desc>
+      <collection>San Francisco Museum of Modern Art, San Francisco</collection>
+    </artwork>
+    <artwork>
+      <title>The Fountain</title>
+      <year>1992</year>
+      <materials>Print, relief, intaglio, stencil, collage and hand-coloring</materials>
+      <desc>In the &lt;i&gt;Fountain&lt;/i&gt;, Stella further explores the boundaries between artistic media. Although mural-sized, the piece - measuring 7 x 23 feet - is not a painting, but a print. The &lt;i&gt;Fountain&lt;/i&gt; is Stella's most extensive work on paper to date and his culminating achievement in the medium of printmaking - a vital aspect of Stella's work since the 1960 - utilizing seven processes and sixty-one different colors. The piece belongs to a large, diverse series Stella created between 1985 and 1997 based on Herman Melville's &lt;i&gt;Moby Dick&lt;/i&gt;. As such, for Stella it constitutes an homage of sorts to Abstract Expressionism, a number of whose artists also created works inspired by Ahab's epic struggle with the whale. Fittingly, and in keeping with the nonrepresentational nature of Stella's work, &lt;i&gt;The Fountain&lt;/i&gt; is abstract, reflecting Stella's goal of conveying both a sense of motion and the power of the story, rather than the specific narrative.</desc>
+      <collection>National Gallery of Australia, Canberra</collection>
+    </artwork>
+    <artwork>
+      <title>Prinz Friedrich von Homburg, Ein Schauspiel, 3X</title>
+      <year>1998-2001</year>
+      <materials>Stainless steel, aluminum, painted fiberglass and carbon fiber</materials>
+      <desc>Given Stella's creation of numerous, at times large-scale, paintings with protruding three-dimensional elements, the production of freestanding sculptures or architectural structures might have seemed the next logical step for the artist. &lt;i&gt;Prinz Friedrich von Homburg, Ein Schauspiel, 3X&lt;/i&gt; is just that - a massive composition whose spiraling forms and clusters continues the visual lexicon of the artist's painterly reliefs. Sitting outside the National Gallery of Art, it is one of Stella's first monumental works - weighing in just under ten tons and measuring an enormous 31 x 39 x 34 feet. The title comes from the name of a play by the 18&lt;sup&gt;th&lt;/sup&gt;-century German playwright Heinrich von Kleist about love and war.</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Frank Stella: American Abstract Artist</title>
+          <link>1861713169</link>
+          <info>By James Pearson</info>
+        </entry>
+        <entry recommended="true">
+          <title>Frank Stella: The Museum of Modern Art</title>
+          <link>B000NXGTQ8</link>
+          <info>By William S. Rubin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Three American Painters: Kenneth Noland, Jules Olitski, Frank Stella</title>
+          <link>B000KTMRZM</link>
+          <info>By Michael Fried</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artwork" class="artwork">
+        <entry recommended="true">
+          <title>Frank Stella: Irregular Polygons</title>
+          <link>0944722393</link>
+          <info>By Brian P. Kennedy</info>
+        </entry>
+        <entry>
+          <title>Frank Stella: 1970-1987</title>
+          <link>0870705997</link>
+          <info>By William Rubin, Frank Stella</info>
+        </entry>
+        <entry>
+          <title>Frank Stella 1958</title>
+          <link>0300109172</link>
+          <info>By Harry Cooper, Megan R. Luke</info>
+        </entry>
+        <entry>
+          <title>The Prints of Frank Stella: A Catalogue Raisonne</title>
+          <link>0933920407</link>
+          <info>By Frank Stella, Richard H. Axsom</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Frank Stella: Painting into Architecture</title>
+          <link>0300131488</link>
+          <info>By Mr. Paul Goldberger</info>
+        </entry>
+        <entry>
+          <title>Frank Stella: Working Space</title>
+          <link>0674959612</link>
+          <info>By Frank Stella</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Frank Stella Collection at MoMA</title>
+          <link>http://www.moma.org/collection/artist.php?artist_id=5640</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Frank Stella: The Guggenheim Collection Online</title>
+          <link>https://www.guggenheim.org/artwork/artist/frank-stella</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>American Artists Must Fight for Resale Rights</title>
+          <link>https://groups.yahoo.com/neo/groups/TheLACollective/conversations/messages/970</link>
+          <info>
+						By Frank Stella
+						&lt;br/&gt;
+						The Art Newspaper
+						&lt;br/&gt;
+						August 4, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sightlines: Frank Stella</title>
+          <link>http://blogs.wsj.com/magazine/2010/03/15/sightlines-frank-stella/tab/slideshow/</link>
+          <info>
+						WSJ. Magazine
+						&lt;br/&gt;
+						March 15, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Abstraction Without Boundaries</title>
+          <link>http://www.artnet.com/magazineus/features/kuspit/frank-stella11-3-09.asp</link>
+          <info>
+						By Donald Kuspit
+						&lt;br/&gt;
+						Artnet
+						&lt;br/&gt;
+						November 3, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Art in Review; Frank Stella: Polychrome Relief at Paul Kasmin Gallery</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=9503E2DA133AF933A05753C1A96F9C8B63&amp;ref=frankstella</link>
+          <info>
+						By Roberta Smith
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						October 30, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Beyond Paintbrush Boundaries: Imagining Structures in 3-D</title>
+          <link>http://www.nytimes.com/2007/05/04/arts/design/04stel.html?ref=frankstella</link>
+          <info>
+						By Roberta Smith
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						May 4, 2007
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts">
+        <entry>
+          <title>Frank Stella interview: the bigger picture</title>
+          <link>http://www.telegraph.co.uk/culture/art/8781715/Frank-Stella-interview-the-bigger-picture.html</link>
+          <info>
+						By Alastair Sooke
+						&lt;br/&gt;
+						The Telegraph (UK)
+						&lt;br/&gt;
+						September 24, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Frank Stella</title>
+          <link>http://bombsite.com/issues/71/articles/2296</link>
+          <info>
+						By Saul Ostrow
+						&lt;br/&gt;
+						BOMB
+						&lt;br/&gt;
+						Spring 2000
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry recommended="true">
+          <title>Frank Stella on Painting and Art</title>
+          <link>http://onpoint.wbur.org/2011/05/25/frank-stella</link>
+          <info>
+						On Point with Tom Ashbrook
+						&lt;br/&gt;
+						WBUR Boston
+						&lt;br/&gt;
+						May 25, 2011
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>BMW Art Car by Frank Stella "The Hard Edge"</title>
+          <link>http://www.youtube.com/watch?v=Z12r1X1RVE4</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Frank Stella on shaping the canvas, from SFMOMA</title>
+          <link>http://www.youtube.com/watch?v=MK9FgEODF4o</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Frank Stella: Irregular Polygons at Toledo Museum of Art</title>
+          <link>http://www.youtube.com/watch?v=lgaPuHDV8v0</link>
+          <info>Featuring Museum Director Brian Kennedy</info>
+        </entry>
+        <entry>
+          <title>Master Series: An Evening with Frank Stella</title>
+          <link>http://www.youtube.com/watch?v=W9qL6XVtPZM</link>
+          <info>With TMA Director Brian Kennedy and Art Critic Tyler Green</info>
+        </entry>
+        <entry>
+          <title>Stella on Art: A Conversation at Dartmouth</title>
+          <link>http://www.youtube.com/watch?v=RQ96tl-bfHE</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Frank Stella discusses his work - 1972</title>
+          <link>http://www.youtube.com/watch?v=cN_rRCfRdmQ&amp;feature=related</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item></a_item>
+      <a_image></a_image>
+      <a_name></a_name>
+    </poster>
+  </posters>
+</data>

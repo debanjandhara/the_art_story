@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>barney_matthew</id>
+    <name>Matthew Barney</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1987 - Present</years>
+    <description>Matthew Barney creates films based on performance and body art, most notably in his Drawing Restraint series and the five-film Cremaster Cycle.</description>
+    <art_description>Important art &amp; artworks analysis by Matthew Barney including: Drawing Restraint, The Cremaster Cycle, Blood of Two, River of Fundament, Redoubt &amp; more in Video Art &amp; Performance Art.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>American</nationality>
+    <occupation>Sculptor, Photographer, Film Director, and Performance Artist</occupation>
+    <birthDate>March 25, 1967</birthDate>
+    <birthPlace>San Francisco, California</birthPlace>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>Posters for the Barney exhibition at San Francisco MOMA in 2016. Barney is now a world-renowned artist - this level of popularity took many years to achieve.</bio_highlight>
+    <pub_time>5/4/2020</pub_time>
+  </main>
+  <includes>
+    <include>video_art</include>
+    <include>performance_art</include>
+    <include>body_art</include>
+    <include>installation_art</include>
+    <include>identity_art</include>
+  </includes>
+  <similar_movements>
+    <movement>video_art</movement>
+    <movement>performance_art</movement>
+    <movement>body_art</movement>
+    <movement>installation_art</movement>
+    <movement>identity_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>viola_bill</artist>
+    <artist>abramovic_marina</artist>
+    <artist>anderson_laurie</artist>
+    <artist>export_valie</artist>
+  </similar_artists>
+  <quotes>
+    <q>"My addiction has to do with performance, with creating a very real situation and then dealing with all the physical problems surrounding it."</q>
+    <q>"Right from the start I wanted to put my body into my work."</q>
+    <q>"Art needs to be defended. It's fragile. If a work is shown too many times, something gets stolen from it. You come to it with preconceptions, or you get tired of it. And it's the same with an artist. So I try to protect myself and my work. I want there to be a fraction of the art that even I don't understand."</q>
+    <q>"Being in fashion was useful to me because I know how people can be used up, how they're hot and then they become yesterday's news. I find this curious, the way energy dissipates from a source through that kind of exploitation -- and I want to figure out how to make it into art."</q>
+    <q>"The way that I deal with narrative isn't exactly linear. Sometimes it involves feeling something, sometimes it involves presence - in the way that sculpture has presence."</q>
+    <q>"I find meaning for myself in surrender, in artistic surrender. I find it very attractive to have to surrender to something. I guess I am attracted to things I cannot understand intellectually but only viscerally. I can't make work any other way. It's the only way I can do it."</q>
+    <q>"I'm an obsessive. For sure. But there is part of it that is therapeutic, too. I might be in trouble if I could not exercise that level of obsession. It kind of keeps me stable."</q>
+    <q>"I think my habit as an artist is something like a hunter gatherer, going out to places and gathering the narratives and materials that I need to bring back to the studio to distill down into the work."</q>
+  </quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>One of the most important figures in the contemporary art world, and known primarily for large-scale film projects, including his career-defining &lt;i&gt;Cremaster Cycle&lt;/i&gt;, Barney has proved one of the most daring and ambitious (and divisive) American artists to gain fame from the late-twentieth century onward. His works, which blend &lt;span class="marked_text chart-tooltip-target-top tooltip_id-video_art"&gt;Video Art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance Art&lt;/span&gt;, and sculptural installations, are concerned with physical movement (sport and choreographed dance) and they carry deep thematic undercurrents of sexual and bodily excess. Barney's work, which provokes psychological fantasies that many (indeed, most) find deeply challenging, is dense with references to training camps and medical apparatus, allusions to anatomical movement, the history of art, and the iconography, history, and mythology of ancient cultures. Barney is a strong advocate of collaboration (which he attributes to his early success in team sports), but the fact that he avoids self-publicity and unnecessary media attention (unlike &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt; to whom he is sometimes compared) has added to his substantial cult following.</synopsys>
+    <key_ideas>
+      <idea>By unanimous consensus, Barney's most important work is his five-film, seven-hour, &lt;i&gt;Cremaster Cycle&lt;/i&gt;. Presented on a sweeping, operatic-like scale, and produced over a period of some eight years, many cite the &lt;i&gt;Cremaster Cycle&lt;/i&gt; as one of the greatest achievements in American art. Combining sculpture, drawing and installation the films create an expansive self-contained world that art critic Johnathan Jones suggests blend elements of T.S. Eliot's poem &lt;i&gt;The Wasteland&lt;/i&gt; with the &lt;i&gt;Star Wars&lt;/i&gt; cycle. &lt;i&gt;Variety&lt;/i&gt; backed up the &lt;i&gt;Cycle's&lt;/i&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodern&lt;/span&gt; credentials when it summed up &lt;i&gt;Cremaster 3&lt;/i&gt; as "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-bosch_hieronymus"&gt;Hieronymus Bosch&lt;/span&gt; by way of Busby Berkeley".</idea>
+      <idea>Barney's &lt;i&gt;Drawing Restraints&lt;/i&gt; series drew on his early years as an athlete. Adopting the metaphor "athlete as artist", his series brought a unique biological perspective to the crowded ideological sphere of gender and body politics in contemporary art. Applying the principle that to achieve its maximum capacity the muscle must first be stretched to near breaking point, Barney tied himself down to a fixed point in a hybridized space (such as a gymnasium) before climbing and reaching over or around physical obstructions and props to draw and write on surfaces such as walls and ceilings.</idea>
+      <idea>Barney has spoken of the concept of "situation" - a raw, non-gendered, sexual energy "without discipline or direction". Through his art, he has related this to his desire to obliterate the cultural tensions between the male and female sexes. Though gender determination is a dominant theme in contemporary art, Barney's work has allowed his viewer to search beyond the fixed parameters of liberal politics and to allow for a mediation on the relationship between sexual desire, self-discipline, and artistic productivity.</idea>
+      <idea>In an extension of his interest in "situation", Barney has explored the extremes of rebirth and regeneration in a way that tested even the liberal tastes of the contemporary art world. In his infamous &lt;i&gt;River of Fundament&lt;/i&gt;, Barney pushed his viewers' mental (rather than muscular) endurance by asking them to confront human waste, not, as he says, as a shock tactic, but rather as a legitimate subject for philosophical meditation. Indeed, in Barney's vision, "bodily functions are interchangeable with the primordial ooze of the earth".</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Matthew Barney, and his older sister Tracy, were born to Robert Barney, a catering services administrator, and Marsha Gibney, a painter specializing in what she called "biomorphic abstraction". The family lived in San Francisco until Matthew was seven years old when his father's work saw the family relocate to Boise, Idaho. Matthew completed elementary, middle, and high school in Boise.</p>
+          <p type="p">During high school, Barney excelled at sports and made the wrestling and football teams. He recognized that his early involvement in team sports influenced the collaborative nature of his artistic practice. As he said, sports present "a situation where there's a frame around the world and that world has everything - violence, victory, loss. That was the beginnings of what has become an aesthetic system that's very similar: anything can happen within the frame. It's what's outside the frame that's scary".</p>
+          <p type="p">When Barney was twelve his parents divorced and his mother moved to New York City. Young Matthew made frequent trips to visit her there, and it was in New York that he developed an interest in the Contemporary art scene. He says that it was from his mother that he became aware "that art could be a viable path", adding that "It wasn't so much the actual paintings, though. It was these books that were lying around about body performance artists in the Sixties. It was the body that fascinated me - in sport and in art. The limits, the possibilities of the body".</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">In 1985, Barney attended Yale University on a football scholarship, with plans to study pre-med &lt;i&gt;in lieu&lt;/i&gt; of a career as a plastic surgeon. After two semesters, he changed his major to art. His peers at Yale recognized his artistic talent, and petitioned for him to be allowed to participate in the university's graduate art program while still an undergraduate. He created his earliest works while at Yale, and exhibited his thesis project, a performance/installation titled &lt;i&gt;Field Dressing&lt;/i&gt; (1989), in the university's Payne Whitney Athletic Complex. He selected the gymnasium, rather than a more conventional exhibition space, as it seemed better suited to his performance, which involved carrying out an athletic workout routine. With this work, he sought to explore concepts of physicality, fetishization, and endurance, in both sports and artistic practice.</p>
+          <p type="p">After graduating from Yale in 1989, Barney moved to New York, where he used a studio space in Brooklyn for a short time. He then moved to a studio on Leroy street in Greenwich Village, which he shared with sculptor Michael Rees (whom he had befriended while at Yale). Once in New York, Barney was recruited as a catalog model by the Click modelling agency (whose clients included Ralph Lauren and J. Crew), and he used the money he earned from modelling to finance his artistic pursuits. He remarked that ''When I was modelling, I found it interesting that you could step outside yourself and let yourself be used as a coat hanger or puppet, especially in the performance sense: to let your body be a tool, to leave the body in the work and not really to occupy your body when you are performing''.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Barney participated in several group shows at the Althea Viafora gallery in New York in 1990, and then presented his first solo show in 1991 at the Barbara Gladstone Gallery. Gladstone recalls "I heard about him from a friend who suggested I go to his studio. It was immediately apparent to me he was doing something new and brave, using non-art materials such as plastic and petroleum jelly. His whole way of thinking about his work was so thought-out [...] It was incredibly impressive".</p>
+          <p type="p">As art critic Jerry Saltz recalls, the debut show presented Barney "in embryonic form yet with all the aspects of his art foreshadowed". The show featured sculptures (of athletic equipment like dumbbells and blocking tackles cast in wax, petroleum jelly, and tapioca), and various videos featuring Barney engaging in such performative actions as "pumping a hydraulic jack into his own abdomen," "[evacuating] his oral and anal cavities as pearls emerge from his mouth and rectum", and "being repeatedly attacked by a menacing football player".</p>
+          <p type="p">Not unsurprisingly, Barney's show met with mixed reviews. &lt;i&gt;The New York Times&lt;/i&gt; referred to it as "an extraordinary first show", for which visitors were seen lining up around the block. Other critics recognized the influence of boundary-pushing &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance&lt;/span&gt; artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-acconci_vito"&gt;Vito Acconci&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-burden_chris"&gt;Chris Burden&lt;/span&gt;. Art critic Lane Relyea concluded that, "Odds are Barney's never met a boundary he didn't want to violate; besides suspending, contorting, and poking himself, he's often shown crossdressing as well". Other critics, however, took offence at the gratuitousness of Barney's work, with Hilton Kramer writing in the &lt;i&gt;New York Observer&lt;/i&gt; that "there is now almost nothing that someone won't do in public in the name of art, no matter how stupid or nasty", while John Haber called it "one of the silliest exhibitions in living memory".</p>
+          <p type="p">In addition to his solo shows, Barney participated in several exhibitions and biennials in the United States and Europe throughout the 1990s. He said of his early success, "It felt like things were moving faster than I could keep up with. I was 24 and I didn't really understand what was going on. I made a conscious decision to take something on that I knew would slow everything down. That's how the &lt;i&gt;Cremaster&lt;/i&gt; series came about". The art critic Sebastian Smee would later reflect that "Many hated the '&lt;i&gt;Cremaster&lt;/i&gt;' extravaganza [but] if you were interested in contemporary art, you saw it, and the obligation to form a response suggested that something important had come into the world".</p>
+          <p type="img" alt="The renowned singer Björk, pictured here at the Cannes Film Festival around the time that she and Barney began dating. " show="1">/images20/photo/photo_barney_matthew_1.jpg</p>
+          <p type="p">Around the turn of the century, Barney became romantically involved with Icelandic singer Björk and the couple lived for a time in a penthouse co-op in Brooklyn Heights. Björk once described her first encounter with Barney's work as "the closest thing to seeing my dreams" and the pair began collaborating. The couple had a daughter, Isadora, in 2002, and, three years later, they collaborated on &lt;i&gt;Drawing Restraint 9&lt;/i&gt;, a feature-length film set abroad a Japanese whaling ship in which the singer acted, and for which she recorded a soundtrack. The couple separated in 2013 and there followed a difficult custody battle (Björk's 2015 album &lt;i&gt;Vulnicura&lt;/i&gt; was inspired by the breakup, which she describes as "the most painful thing" she has ever experienced). For Barney, meanwhile, the breakup of their relationship roughly coincided with the release in 2014 (following a seven year production period) of &lt;i&gt;River of Fundament&lt;/i&gt;, a near six-hour film that took the form of a three-act opera with a score provided by Barney's longtime musical collaborator, Jonathan Bepler. It would prove to be Barney's most controversial work to date.</p>
+          <p type="img" alt="Barney photographed in conversation with Guggenheim curator Nancy Spector, discussing his work and the ways he has been inspired by Joseph Beuys." show="1">/images20/photo/photo_barney_matthew_2.jpg</p>
+          <p type="p">Since 2014, Barney has operated out of a studio in Long Island City, Queens. However, he remains passionate about the outdoors, and enjoys camping in the Sawtooth Mountains in the summer months. He notes that the outdoors gives him a great deal of pleasure when he has the opportunity to bring his daughter along and to share with her the landscape in which he grew up. Around 2016, he even set up a second studio on a property he purchased in Idaho. Indeed, the wilderness of the Sawtooth mountains of Idaho would provide the setting for his last project, &lt;i&gt;Redoubt&lt;/i&gt; (2019).</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Referred to by some as a "superstar", and a highly prominent artist of his generation, Barney remains a divisive figure within the contemporary art world. Having built his reputation as a performance artist, he has made film his primary medium. Indeed, he has been credited with "reinstating" film's role within contemporary art. Avant-gardists - ranging from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bunuel_luis"&gt;Luis Buñuel&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt; to Maya Deren; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-paik_nam_june"&gt;Nam June Paik&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; - have pushed the boundaries of film experimentation and have helped pave the way for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-video_art"&gt;Video Art&lt;/span&gt; and other new media movements, but Barney's films, which incorporate performance, drawing, sculpture, still photography and choreographed performance, set a new standard in terms of budget, operatic scale and sheer ambition (not to mention questions of taste). Like no other artist before him, he has tested his audience in terms of the excessive duration of his works and objectionable imagery that would otherwise belong to the world of extreme pornography.</p>
+          <p type="p">Whatever one's aesthetic or moral judgement, there can be no dispute that his work is uncompromising and impudent, and he has come closer than most to dismantling the barrier between popular culture and the rarefied world of the contemporary art scene. As the art critic Sebastian Smee summed up, "More than anyone else, Barney yanked video art out of the &lt;i&gt;cul-de-sac&lt;/i&gt; it had created for itself. He reunited the medium with performance, sculpture, drawing and architecture, and made it a natural vehicle for the most ambitious new art. In the process, his influence spread beyond art. It is hard to imagine, for instance, Lady Gaga's groundbreaking early videos (e.g. 'Bad Romance') without the macabre and queasy-making theatricality of Barney's '&lt;i&gt;Cremaster&lt;/i&gt;' films".</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Drawing Restraint 2</title>
+      <year>1988</year>
+      <materials>5:01 Minute Video</materials>
+      <desc>
+				The &lt;i&gt;Drawing Restraint&lt;/i&gt; series was a long-term project that Barney began in 1987 while still an undergraduate at Yale. The earliest in the series (&lt;i&gt;Drawing Restraint&lt;/i&gt; 1-6, produced between 1987-89) brought together drawing, photography and video performance in a way that reflected Barney's preoccupation with hypertrophy; that being the idea that athletic physicality and strength is built up through muscle resistance. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Drawing Restraint 2&lt;/i&gt; was a gymnasium-based performance in which the artist made artistic "marks" on walls and ceiling while tethered to a ramp with bungee cords. Through this experiment, Barney had effectively confronted the time-honoured maxim that the best art is a spontaneous, reflexive, activity. By applying the idea of hypertrophy to artistic growth - be that physical, cultural or spiritual - he explored the concept that the "strongest" artists (like the strongest athletes) should have to overcome self-imposed obstacles in order to create something "higher"; something more "powerful". The resultant video recording, drawings and "set" (featuring various items of gym apparatus) exist as an archive of the performance. Fellow artist Sophie Arkette observed that "These works do not refer to something static, a composed form, but reveal the way one action precipitates another in the course of making a work [...] What is crucial in the life of a work is the attempt at doing something regardless of outcome. In this sense, [Barney's] ethos is akin to that of experimental work of the 60s and 70s". 
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Drawing Restraint 7</title>
+      <year>1993</year>
+      <materials>Three-channel video, video monitors, steel, and internally lubricated plastic, and fluorescent light fixtures</materials>
+      <desc>
+				Having begun (with &lt;i&gt;Drawing Restraint 1-6&lt;/i&gt;) to experiment with video installation, &lt;i&gt;Drawing Restraint 7&lt;/i&gt; marked a transitional moment in a series Barney and through video installation he was able to make "stories rather than documenting real actions". Despite its formal differences, however, &lt;i&gt;Drawing Restraint 7&lt;/i&gt; continued to explore the concept of creative growth by overcoming external and self-imposed restrictions. Drawing Restraint 7 also deals with one of Barney's other preoccupations, namely Western culture's obsession with the idea of masculinity as performance that sates from ancient Greece to the present. In the video, actors wearing heavy make-up, cumbersome prosthetics, and costumes, play the roles of satyrs engaged in seemingly futile physical activities, such as chasing their own tails, or attempting to draw while wrestling in the confined space of the backseat of a limousine. 
+				&lt;br/&gt;&lt;br/&gt;
+				As Barney moved forward with the series (reaching &lt;i&gt;Drawing Restraint 19&lt;/i&gt; in 2013), he continued to place the body in a central role. Describing the series as a whole as "an endless loop between desire and discipline", the work explores the ritualistic processes of creation through a range of materials, settings, and characters. Art critic Quinn Latimer said of the &lt;i&gt;Drawing Restraint&lt;/i&gt; series that by "delineating evermore elaborate contests of physical strength and psychological willpower against resistance at turns physical, sexual, architectural, cultural, oceanic or spiritual, the series resembles the endless tragicomic trials of a Greek demigod, or its most contemporary incarnation, the athlete [...] the body and its tribulations are central to his practice [and] his thoroughly Postmodern work furthers one of the oldest art-historical traditions: figuration".
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Cremaster Cycle</title>
+      <year>1994-2002</year>
+      <materials>Video/Film</materials>
+      <desc>
+				Barney's magnum opus, &lt;i&gt;The Cremaster Cycle&lt;/i&gt;, is comprised of five high-budget, films. Here he employs the narrative modes of mythology, history, and (auto) biography to explore complex biological, artistic, geological, and geographical themes. The films make use of dense, surrealistic and highly-sexualized imagery, married with vividly-colored and elaborate props, make-up, prosthetics, and costumes. They are filmed in locations ranging from a palace in Budapest, the Isle of Man, and the salt flats of Utah - meanwhile actors in the series include Ursula Andress, the sculptor Richard Serra, the athlete Aimee Mullins and the writer Norman Mailer. The film's also star chorus girls, tap dancers, Canadian Mounties, the Mormon Tabernacle Choir, helicopter pilots, bee trainers, and heavy metal bands.
+				&lt;br/&gt;&lt;br/&gt;
+				Viewed in order, the films follow the embryonic process of sexual differentiation, beginning in &lt;i&gt;Cremaster 1&lt;/i&gt; with the "ascended" or undifferentiated state, and ending in &lt;i&gt;Cremaster 5&lt;/i&gt; at the most "descended" or differentiated state, about nine weeks after conception, when the male sex is fully realized. For Barney, the films simultaneously allude to the process of creative development. He explains that &lt;i&gt;Cremaster 1&lt;/i&gt; represents the spark of an idea; &lt;i&gt;Cremaster 2&lt;/i&gt; is the rejection of the idea; &lt;i&gt;Cremaster 3&lt;/i&gt; is the artist falling in love with the idea; &lt;i&gt;Cremaster 4&lt;/i&gt; is panic at the knowledge that the idea is about to come to fruition; and &lt;i&gt;Cremaster 5&lt;/i&gt; is the final resolution.
+				&lt;br/&gt;&lt;br/&gt;
+				Barney, however, produced and released the five films non-chronologically, beginning with &lt;i&gt;Cremaster 4&lt;/i&gt; (1994), followed by &lt;i&gt;Cremaster 1&lt;/i&gt; (1995), &lt;i&gt;Cremaster 5&lt;/i&gt; (1997), &lt;i&gt;Cremaster 2&lt;/i&gt; (1999), and ending with &lt;i&gt;Cremaster 3&lt;/i&gt; (2002). This discontinuity would seem to underscore Barney's view that these processes (the biological process of becoming, and the artistic process of creating) are complex and non-linear. Even though each film follows a different set of mythological and historical characters, they continually cross-reference (they are "inter-textual" in other words). The production designer Matthew D. Ryle asserts that "anyone can access [the films] from any point; from fashion, horror movies, architecture, drawing, photography, football, plastics - or just story-telling". But not everyone was won-over by Barney's extravagant vision, with arts journalist Matt Turner describing the series as "an exhausting experience, demonstrating a weirdness that is wearying, a dedication to provocation that comes to feel laborious, and much material that feels like baggage". 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Cremaster 3</title>
+      <year>2002</year>
+      <materials>Film</materials>
+      <desc>
+				&lt;i&gt;Cremaster 3&lt;/i&gt;, the last to be filmed in the cycle, has no dialogue, and with a running time in excess of three hours, it is by far the longest (the others lasting roughly one hour each). A mythical, surrealist fantasy, it features a battle between Barney (the "Entered Apprentice") and a series of evil forces (such as "the Order of the Rainbow Girls", a half-cheetah-half-woman creature and some classic Chrysler motorcars), and is played out across five attention-grabbing locations: the Chrysler Building and the Guggenheim Museum in New York, the Saratoga Springs Racetrack in upstate New York, the Giant's Causeway in Ireland, and Fingal's cave on the Scottish Isle of Staffa. 
+				&lt;br/&gt;&lt;br/&gt;
+				For the art critic Jonathan Jones, &lt;i&gt;Cremaster 3&lt;/i&gt; was "the first truly great piece of cinema to be made in a fine art context since Dali and Bunuel filmed &lt;i&gt;Un Chien Andalou&lt;/i&gt; in 1929" while adding that it is "one of the most imaginative and brilliant achievements in the history of avant-garde cinema". Jones picked out a scene at the Saratoga Springs Racetrack where a "gorgeously filmed" shot, composed in the early morning mist, slowly zooms in to reveal, not galloping thoroughbreds, but the "putrefying carcasses [of] zombie horses". For Jones this scene directly recalled the decayed donkey that is splayed out on top of the piano (being towed by two priests) in Dali and Bunuel's surrealist masterpiece. 
+				&lt;br/&gt;&lt;br/&gt;
+				When &lt;i&gt;Cremaster 3&lt;/i&gt; opened at the Guggenheim Museum as part of "an elaborate sequence of drawings, photographs and sculptures made from Vaseline, plastic and metal", the exhibition's curator, Nancy Spector spoke of the completed &lt;i&gt;Cremaster&lt;/i&gt; cycle as a "self-enclosed aesthetic system". Recalling that exhibition, Smee noted that "it was hard not to marvel at Barney's genius for finding coherent forms for the cascading flow of his ideas and his ability to make unfashionable subjects (Norman Mailer! The life cycle of bees! Freemasons!) feel urgently alive". For his part, Jones concluded his article by stating that the film itself was "in another league from the video and film installations that have become so central to contemporary art, which function, and only aspire to function, in museums, protected from the dirty mayhem of mainstream cinema".
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Blood of Two</title>
+      <year>2009</year>
+      <materials>Performance</materials>
+      <desc>
+				This site-specific performance was created by Barney in collaboration with American visual artist Elizabeth Peyton for the inauguration of the new DESTE Foundation Project Space, housed in the former slaughterhouse on Hydra Island in Greece. The piece drew inspiration from the local natural environment and the population (their culture, tradition, religion, and ritual). Three months prior to the performance, a heavy bronze and glass vitrine was submerged in the sea by a group of divers, in a small cove near the Project Space. The vitrine contained five collaborative drawings produced by Barney and Peyton in pencil and blood, showing animals, agricultural scenes, and mythological figures, as well as a bronze book.
+				&lt;br/&gt;&lt;br/&gt;
+				At dawn on the day of the performance, local fishermen retrieved the heavy vitrine from the water and carried it up a narrow staircase to the road. Next, the carcass of a dogfish shark (referencing fishing traditions and religious imagery) was laid atop the vitrine. The vitrine and shark were then placed in a wooden cart, pulled by a horse to the site of the former slaughterhouse, accompanied by a procession of human participants. Once inside the slaughterhouse, the head fisherman opened the vitrine, allowing the seawater to pour out dramatically onto the floor, and revealing the artistic contents hidden inside. The bronze book had developed an aquamarine patina, during its three months underwater. The shark was later cooked and fed to visitors. The video of this performance was just one of several artworks (including sculptures by Barney and paintings by Peyton) that comprised the inaugural exhibition of the Project Space, which was supported by the Municipality of Hydra and Hydra's Ecologist Society. 
+				&lt;br/&gt;&lt;br/&gt;
+				The art critic Chris Bors described &lt;i&gt;Blood of Two&lt;/i&gt; as "a ritualistic artwork that encompasses local customs without succumbing to the tropes of cultural tourism". Indeed, he points out that the event borrowed from a local Easter tradition that "inaugurated the traditional Miaoulia festival, honouring those who fought in the Greek Revolution [during] the war for independence from Turkey, which began in 1821". Bors also pointed out that while they "remained true to their own visual languages", Barney and Peyton had managed to put to one side their excessive and romantic (respectively) tendencies to "engage the people of Hydra and the island's history, making them participants rather than viewers [in an] anthropological, experiential project in tune with [Hydra's] distinctive setting". 
+			</desc>
+      <collection>Deste Foundation Project Space, Hydra Island, Greece</collection>
+    </artwork>
+    <artwork>
+      <title>River of Fundament</title>
+      <year>2007-14</year>
+      <materials>Film</materials>
+      <desc>
+				This near six-hour film, which takes the form of a three-act opera, was inspired by Norman Mailer's 700-page historical novel &lt;i&gt;Ancient Evenings&lt;/i&gt; (1983). Mailer's novel, which met with critical derision on its release, deals with ancient Egyptian history and mythology, death and reincarnation, and sexuality. Featuring a cast including Maggie Gyllenhaal, Elaine Stritch, Salman Rushdie, Debbie Harry, YouTube "beatboxer" Ryan Robinson and Paul Giamatti, &lt;i&gt;River of Fundament&lt;/i&gt; draws upon and reconstructs &lt;i&gt;Ancient Evenings&lt;/i&gt;, simultaneously incorporating the modern history of the rise and fall of the American car industry. Automotive processes are presented with what art critic Adrian Searle calls "the character of rites and rituals," such as scenes in which a car is dismembered in a Los Angeles showroom, and subsequently smelted in Detroit.
+				&lt;br/&gt;&lt;br/&gt;
+				The film also includes a number of explicit sexual scenes that Searle describes as "hard to take". In one scene, a man, whose penis is covered in human excrement and gold leaf, engages in anal sex. In another, a woman copulates with a car engine, and in yet another, two women engage in sexual play with a dildo that appears to be made of feces. For both Mailer and Barney, feces represent both death and fertility. Barney cites Maggie Nelson's 2011 book &lt;i&gt;Art of Cruelty&lt;/i&gt; as a significant influence upon his view of such "extreme images", explaining that "I think my interest in [explicit scenes] has nothing at all to do with political provocation. I think it has to do with taking a kind of fundamental, albeit extreme, action and trying to naturalize it into the context of the narrative, or into what's happening on screen. And so in some way it's about trying to remove its shock value".
+				&lt;br/&gt;&lt;br/&gt;
+				Art critic Sebastian Smee described the film as "disgusting, dazzling and weirdly great" but that, ultimately, the film was "close to unbearable". He argued that people were often uneasy about celebrating Barney's work because it came with "a realization that giving oneself over to his aesthetic was like joining a cult" [...] If you believe, it's like baptism: You are absorbed into an intellectually stimulating subculture where everything makes more and more sense the deeper you delve. If you don't - if you think the work solipsistic, its relationship to reality fragile - you save yourself a lot of trouble. But you also miss out on the fun".
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Redoubt</title>
+      <year>2017-19</year>
+      <materials>Film</materials>
+      <desc>
+				&lt;i&gt;Redoubt&lt;/i&gt; ("American Redoubt" is a conservative libertarian movement, established in 2011, that seeks to establish Idaho, Montana and Wyoming as safe havens for conservative Christians and Jews in the event of catastrophe) offers a contemporary take on mythology which Barney combines here with another of his preoccupations: humanity's relationship with the natural world; in this case the wilderness of the Sawtooth mountains of Idaho (the area where Barney grew up). With an experimental score by Johnathan Bepler, the two-hour-plus, dialogue-free film blends the ancient myth of Diana and Actaeon with contemporary American issues, including gun ownership, paranoia of the government, and the reintroduction of wolves into the Sawtooth range after their close call with extinction (around the time of Barney's childhood). 
+				&lt;br/&gt;&lt;br/&gt;
+				Debruge argues that the use of drone cameras in the film "is suitably otherworldly, suggesting a point of view that alternates between the hunter and the hunted from the film's opening shots, alternating between a bloody animal carcass as seen from above and a skyward-pointing view of the bird of prey circling overhead". Debruge notes too, that, with only six human characters, the film's focus remains on the natural landscape, thus presenting the "human characters as trespassers into this snowy 'virgin' territory"; an idea reflected in the fact that the protagonist, Diana, and her two attendants, are also virgins. 
+				&lt;br/&gt;&lt;br/&gt;
+				Smee picked up on a talk given by Barney at Yale to mark the event of an exclusive screening of his film. Barney had spoken to his "converted" audience about "a kind of yearning one has to have a functionality to what one's doing - for the works to have some function". Smee, while sympathizing with Barney's view, argued that art is not (or should not be) a "teaching tool" and when it does "function" in this way the art and its audience become "too self-enclosed". Smee surmised, however, that Barney was mindful of his own predicament but that his "endlessly curious intelligence reaches out to the world in all its complexity". In fact, Smee suggested that the more "ingeniously elaborated and dazzlingly executed his work" the less considered it becomes and "the more bizarre, eccentric and nakedly pointless it appears".
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity alt="Norman Mailer">mailer_norman</entity>
+        <entity>beuys_joseph</entity>
+        <entity>serra_richard</entity>
+        <entity>kubrick_stanley</entity>
+      </column>
+      <column>
+        <entity alt="Jonathan Bepler">bepler_jonathan</entity>
+        <entity>peyton_elizabeth</entity>
+        <entity alt="Michael Rees">rees_michael</entity>
+        <entity alt="Björk">bjork</entity>
+      </column>
+      <column>
+        <entity>performance_art</entity>
+        <entity>identity_art</entity>
+        <entity>video_art</entity>
+        <entity>surrealism</entity>
+        <entity>earth_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Kanye West">west_kanye</entity>
+        <entity>bickerton_ashley</entity>
+      </column>
+      <column>
+        <entity alt="Jonathan Bepler">bepler_jonathan</entity>
+        <entity>peyton_elizabeth</entity>
+        <entity alt="Michael Rees">rees_michael</entity>
+        <entity alt="Björk">bjork</entity>
+      </column>
+      <column>
+        <entity>performance_art</entity>
+        <entity alt="Identity art">identity_art</entity>
+        <entity>video_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Matthew Barney: OTTO Trilogy</title>
+          <link>0300223692</link>
+          <info>By Matthew Barney, Nancy Spector, Maggie Nelson</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Matthew Barney: River of Fundament</title>
+          <link>0847842584</link>
+          <info>By Okwui Enwezor</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney: The Cremaster Cycle</title>
+          <link>0810969351</link>
+          <info>By Nancy Spector and Neville Wakefield</info>
+        </entry>
+        <entry>
+          <title>Subliming Vessel: The Drawings of Matthew Barney</title>
+          <link>0847839761</link>
+          <info>By Klaus Kertess, Roni Horn, and Adam Phillips</info>
+        </entry>
+        <entry>
+          <title>Matthew Barney: Drawing Restraint Vol.2</title>
+          <link>4900728144</link>
+          <info>By Itsuko Hasegawa</info>
+        </entry>
+        <entry>
+          <title>Matthew Barney: Contemporary Mythologies</title>
+          <link>8877572353</link>
+          <info>By Alberto Barbera, Olga Gambari, Beatrice Merz, and Guido Curto</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Official website for Barney's Drawing Restraint series</title>
+          <link>http://drawingrestraint.net/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Official website for Barney's Cremaster Cycle series</title>
+          <link>http://www.cremaster.net/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Official website for Barney's River of Fundament series</title>
+          <link>http://www.riveroffundament.net/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>The Importance of Matthew Barney</title>
+          <link>https://www.nytimes.com/1999/10/10/magazine/the-importance-of-matthew-barney.html</link>
+          <info>
+						By Michael Kimmelman
+						&lt;br&gt;
+						The New York Times Magazine 
+						&lt;br&gt;
+						October 10, 1999
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney takes aim at the great American pastime</title>
+          <link>https://variety.com/2019/film/reviews/film-review-matthew-barneys-redoubt-1203389141/</link>
+          <info>
+						By Peter Debruge
+						&lt;br&gt;
+						Variety 
+						&lt;br&gt;
+						October 30, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Matthew Barney</title>
+          <link>https://gladstonegallery.com/sites/default/files/MB_Artforum_12.16.pdf</link>
+          <info>
+						By Alex Kitnick
+						&lt;br&gt;
+						Artforum 
+						&lt;br&gt;
+						December 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Matthew Barney: Gladstone Gallery</title>
+          <link>https://gladstonegallery.com/sites/default/files/Artforum_Dec2011_1.pdf</link>
+          <info>
+						By Jeffrey Kastner
+						&lt;br&gt;
+						Artforum 
+						&lt;br&gt;
+						December 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Matthew Barney, Gladstone</title>
+          <link>https://gladstonegallery.com/sites/default/files/ArtInAmerica_Dec_11.pdf</link>
+          <info>
+						By David Ebony
+						&lt;br&gt;
+						Art in America 
+						&lt;br&gt;
+						December 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Artifacts: Matthew Barney</title>
+          <link>https://gladstonegallery.com/sites/default/files/T%20Magazine_Sept_11.pdf</link>
+          <info>
+						By Linda Yablonsky
+						&lt;br&gt;
+						New York Times Style Magazine 
+						&lt;br&gt;
+						September 26, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Imported From Detroit</title>
+          <link>https://gladstonegallery.com/sites/default/files/New%20York%20Magazine_Sept11.pdf</link>
+          <info>
+						By Jerry Saltz
+						&lt;br&gt;
+						New York Magazine 
+						&lt;br&gt;
+						September 23, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney: The Cremaster Cycle</title>
+          <link>https://brooklynrail.org/2003/04/art/matthew-barney-the-cremaster-cycle</link>
+          <info>
+						By Daniel Baird
+						&lt;br&gt;
+						The Brooklyn Rail 
+						&lt;br&gt;
+						Spring 2003
+					</info>
+        </entry>
+        <entry>
+          <title>Review: Matthew Barney takes to nature to ask his big questions in 'Redoubt'</title>
+          <link>https://www.latimes.com/entertainment-arts/movies/story/2020-01-23/redoubt-review-matthew-barney</link>
+          <info>
+						By Robert Abele
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						January 23, 2020
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney, Barbara Gladstone Gallery, October 19 - November 16, 1991</title>
+          <link>https://www.erudit.org/en/journals/etc/1992-n19-etc1087480/35946ac/</link>
+          <info>
+						By Steven Kaplan
+						&lt;br&gt;
+						ETC 
+						&lt;br&gt;
+						Summer 1992
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The myth-maker: Matthew Barney's beautiful, disturbing Cremaster Cycle is the first great fusion of art and cinema since Un Chien Andalou</title>
+          <link>https://www.theguardian.com/film/2002/oct/16/artsfeatures</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 16, 2002
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney</title>
+          <link>https://frieze.com/article/matthew-barney-1</link>
+          <info>
+						By Quinn Latimer
+						&lt;br&gt;
+						Frieze 
+						&lt;br&gt;
+						September 2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Who wants to join the cult of video artist Matthew Barney?</title>
+          <link>https://www.washingtonpost.com/entertainment/museums/who-wants-to-join-the-cult-of-video-artist-matthew-barney/2019/03/08/05806ece-3f81-11e9-9361-301ffb5bd5e6_story.html</link>
+          <info>
+						By Sebastian Smee
+						&lt;br&gt;
+						The Washington Post 
+						&lt;br&gt;
+						March 8, 2019
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney &amp; Elizabeth Peyton: Blood of Two</title>
+          <link>https://static1.squarespace.com/static/55b14dc9e4b05fd0faed3a68/t/55ba7d3ae4b0acc41761c60a/1438285114424/BloodofTwo_Bors.pdf</link>
+          <info>
+						By Chris Bors
+						&lt;br&gt;
+						Artreview 
+						&lt;br&gt;
+						Spring 2010
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Interview with Matthew Barney</title>
+          <link>https://www.youtube.com/watch?v=6FzboAx8yZc</link>
+          <info>Plot TV Oslo</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney: Redoubt at UCCA</title>
+          <link>https://www.youtube.com/watch?v=Ff8BI5ijLt8</link>
+          <info>Action Media</info>
+        </entry>
+        <entry recommended="true">
+          <title>Interview: Matthew Barney's River of Fundament</title>
+          <link>https://www.youtube.com/watch?v=1nCJ5iz2B-E</link>
+          <info>Pitchfork</info>
+        </entry>
+        <entry recommended="true">
+          <title>REDOUBT Trailer</title>
+          <link>https://www.youtube.com/watch?v=Kn3txBj6hyY</link>
+          <info>Film Forum</info>
+        </entry>
+        <entry recommended="true">
+          <title>Matthew Barney &amp; Elizabeth Peyton - Blood of Two</title>
+          <link>https://www.youtube.com/watch?v=qskTrcDf-KM</link>
+          <info>DESTE Foundation</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

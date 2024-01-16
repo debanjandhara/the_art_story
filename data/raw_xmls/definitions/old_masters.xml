@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>old_masters</id>
+    <name>Old Masters</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>The term Old Masters refers to eminent European artists from the Renaissance through to early modernism.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <start>c. 1300</start>
+    <end>c. 1800</end>
+    <pub_time>3/10/2020</pub_time>
+  </main>
+  <similar_movements>
+    <movement>high_renaissance</movement>
+    <movement>dutch_golden_age</movement>
+    <movement>renaissance_humanism</movement>
+    <movement>baroque_art_and_architecture</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>da_vinci_leonardo</artist>
+    <artist>rembrandt_van_rijn</artist>
+    <artist>durer_albrecht</artist>
+    <artist>velazquez_diego</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>high_renaissance</entry>
+    <entry>dutch_golden_age</entry>
+    <entry>renaissance_humanism</entry>
+    <entry>romanticism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="degas_edgar">"The air we see in the paintings of the old masters is never the air we breathe."</q>
+    <q author="Leonardo da Vinci">"Poor is the pupil who does not surpass his master."</q>
+    <q author="Francisco Goya">"I have had three masters, Nature, Velasquez, and Rembrandt."</q>
+    <q author="Pablo Picasso">"Disciples be damned... It's only the masters that matter. Those who create..."</q>
+    <q author="Jean-Auguste-Dominique Ingres">"Make copies, young man, many copies. You can only become a good artist by copying the masters. "</q>
+    <q author="Kazimir Malevich">"I recommend that you should work actively... and study the artistic structures of Rubens, Rembrandt, Titian, Watteau, Poussin, and other painters, even Chardin, where he is an artist. Study very closely their dabbing manner of execution and try to copy a small piece of canvas, just one square inch."</q>
+    <q author="Frank Lloyd Wright">"Respect the masterpiece. It is true reverence to man. There is no quality so great, none so much needed now."</q>
+    <q author="Film Director Martin Scorese">"I always tell the younger filmmakers and students: Do it like the painters used to... Study the old masters. Enrich your palette. Expand the canvas. There's always so much more to learn."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>The term Old Master is used to identify an eminent European artist from the approximate period 1300 to 1800 and includes artists from the Early Renaissance through to the Romantic movement. The expression can also be used to refer to the artwork produced by one of these artists, most commonly oil paintings or frescos, but also drawings and prints. The term was used widely from the 18&lt;sup&gt;th&lt;/sup&gt; century and this can be placed in the context of the rise of the European art academies and galleries at this period, who, through collection and education policies, codified what was seen as 'good' historical art and consequently created the modern idea of the Old Master. As with any concept that encompasses such a broad range of art and artists, there is some significant debate as to the exact criteria that defines an Old Master, particularly regarding the date range included and the necessary skill level or renown of the artist.</synopsys>
+    <key_ideas>
+      <idea>Originally a master artist or craftsman was an individual who had been fully trained in the guild system, and had progressed to working independently, often taking on pupils of their own. This differs from the modern iteration of the term in which artists worked outside of the guilds or in other, more modern, contexts (for example, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;) can also be classed as Old Masters (or sometimes refered to as "Modern Masters"). As in its previous usage, however, the term continues to denote a level of quality.</idea>
+      <idea>The most famous works by Old Masters are characterized by innovation in technique and style as well as a drive to create believable figures and landscapes through the realistic representation of perspective and proportion.</idea>
+      <idea>From the 18&lt;sup&gt;th&lt;/sup&gt; century, copying the works of Old Masters became the baseline for art education and students were expected to become proficient in this before being allowed to draw from life. This consolidated the importance of the Old Masters and placed them in a position of reverence.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Medieval Guilds">
+          <p type="p">Beginning in the 11&lt;sup&gt;th&lt;/sup&gt; century, guilds were community-based organizations that held a monopoly on a trade or craft, and by the 12&lt;sup&gt;th&lt;/sup&gt; century they had developed a strict process of advancement. Beginning as an apprentice, entrants would work and study under the direction of a master, an exemplary craftsman, for several years before completing a qualifying work to be certified as a journeyman. Once a journeyman's certificate had been earned, he could freely travel outside the geographical range of his own guild and learn from other masters. Eventually, often after years of study, a journeyman could become a master, but only after completing a 'masterpiece' that was approved by all the masters of the guild. Scottish guild documents contain the first recorded use of "masterstik" (an old Scots word which now translates as masterpiece) in 1570, and the British playwright Ben Jonson used the derivation "masterpiece" in 1605. These master craftsmen rarely signed their works and, as a result, many remain anonymous. Later art historians, identifying a unique style, have tended to name them after the location of their work (the Master of Flémalle) or after a specific piece (the Master of the Brunswick Diptych).</p>
+          <p type="img" alt="Rogier van der Weyden's Saint Luke Drawing the Virgin (c. 1435-40) was painted for the chapel of the painters' guild in Brussels." show="1">/images20/photo/photo_old_masters_1.jpg</p>
+          <p type="p">Northern Europe led the way in developing guilds for painters and the first recorded example is the guild of Saint Luke, which was founded in Antwerp in 1382. The guild took its name from Christ's disciple who, according to tradition, painted the first likeness of the Virgin Mary. In other areas, such as in Florence, painters could join the guild of Doctors and Apothecaries, as apothecaries supplied the materials for making paint. They could also join the Compagnia di San Luca (Company of Saint Luke) founded in 1349, a loosely organized confraternity rather than a guild. Despite these variances, throughout Europe, workshops run by a master artist became the dominant mode for art production and the way to obtain an education in art. The noted Italian artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giotto"&gt;Giotto&lt;/span&gt; is thought to have become an apprentice at the age of ten to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cimabue"&gt;Cimabue&lt;/span&gt;, the leading 13&lt;sup&gt;th&lt;/sup&gt; century master. The tradition of learning from a master continued into the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; and beyond, as shown by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo's&lt;/span&gt; apprenticeship with Domenico Ghirlandaio and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci's&lt;/span&gt; early study with Andrea del Verrocchio, whose Florentine workshop, as art historian Arturo Galansino noted, shaped "generations of artists".</p>
+        </subsection>
+        <subsection title="Art Academies">
+          <p type="p">Art academies played a dominant role in establishing the concept of Old Masters, as they developed a curriculum that emphasized imitating their works, as well as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;classical Greek and Roman art&lt;/span&gt;. The first academy was founded by Cosimo I de 'Medici in Florence in 1562 at the suggestion of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt;, himself an artist and is also considered to be the first art historian. The Accademia e Compagnia delle Arti del Disegno (Academy and Company for the Arts of Drawing) had a dual role, providing an education in the arts as well as overseeing the production of artwork in the city. Along with imitating classical works and the works of those Renaissance masters, who were recognized as equaling or surpassing the classical era, students studied geometry, anatomy and ideas of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance_humanism"&gt;Renaissance Humanism&lt;/span&gt;. The Florentine Academy became the model for subsequent academies, most notably the Accademia di San Luca, founded in the Rome in 1577.</p>
+          <p type="img" alt="Antoine Watteau's Pilgrimage to Cythera (1717) is both a celebrated Rococo masterpiece and his reception piece for the French Academy, painted upon graduating." show="1">/images20/photo/photo_old_masters_2.jpg</p>
+          <p type="p">When the French King Louis XIV founded the Académie royale de peinture et de sculpture in 1648 under the influence and leadership of Charles le Brun, it was modeled upon the Accademia di San Luca in Rome and adopted a strict approach to teaching. Students first studied drawing, copying prints of classical Greek sculpture or Renaissance Old Masters, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;da Vinci&lt;/span&gt;, and Leonardo. Then they studied figurative drawing, copying either classical sculptures or plaster casts, before they could draw from life, sketching a male model. They also studied geometry and anatomy and only after several years were they allowed to paint.</p>
+          <p type="p">In 1667 the Academy held its first public art exhibition, or Salon. Although initially focused on displaying the work of recent graduates, these annual exhibitions began to include the work of other artists. Over time, the acceptance of paintings into the Salon developed into a prerequisite for artistic success and rejection could ruin a career. The Academy consequently became the arbiters of artistic taste, dictating subject matter, style and even the use of color. This created a genre of painting known as Academic Art, which was heavily informed by the work of the Old Masters. Subsequent national academies, such as the Royal Academy of Art in London and the Royal Danish Academy of Fine Arts adopted the French model, with the result that academic painting dominated Western art, until the early 19&lt;sup&gt;th&lt;/sup&gt; century when &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realist&lt;/span&gt; artists began to rebel against the system.</p>
+          <p type="p">In line with these changes in teaching and display, the first recorded use of the term Old Master with its current meaning can also be traced to this period. In 1696, John Evelyn, a noted British diarist, wrote, "My L: Pembroke.shewed me divers rare Pictures of very many of the old &amp; best Masters, especially that of M: Angelo... &amp; a large booke of the best drawings of the old Masters." Evelyn's use of Old Master in this way suggests that it was already a well understood concept by the end of the 17&lt;sup&gt;th&lt;/sup&gt; century.</p>
+        </subsection>
+        <subsection title="Women as Old Masters">
+          <p type="img" alt="Sofonisba Anguissola's Self-portrait with Bernardino Campi (1559), portraying her teacher painting a portrait of her and challenging gender norms, pioneered the double portrait." show="1">/images20/photo/photo_old_masters_3.jpg</p>
+          <p type="p">As art critic Scott Reyburn wrote in 2018, "Unlike contemporary art, old masters (as the terminology implies) also have the problem of being a rigid, male-dominated canon". Yet, from the time of the Renaissance, master artists included women, even though they had to negotiate artistic and societal resistance. Whilst some medieval guilds had an exclusively female membership and others apprenticed women in various crafts and trades, Renaissance Italy discouraged the acceptance of women as apprentices in painting, effectively cutting them off from an artistic career. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-anguissola_sofonisba"&gt;Sofonisba Anguissola&lt;/span&gt; established a rare precedence when she joined Bernardino Campi's workshop around 1546. Praised by Michelangelo, she went on to international success, working for the Duke of Milan before becoming an official painter for King Phillip II in Spain. Her example and her work influenced artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_dyck_anthony"&gt;Anthony van Dyck&lt;/span&gt; who credited her with having taught him art's "true principles".</p>
+          <p type="p">Despite Anguissola's example, most women obtained their art training through a family workshop. For instance, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerist&lt;/span&gt;, Lavinia Fontana, was taught by her father, as were the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; masters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gentileschi_artemisia"&gt;Artemisia Gentileschi&lt;/span&gt; and Elisabetta Sirani. These artists influenced their contemporaries and subsequent artists, as well as pioneering new opportunities for women. The sole financial supporter of her extended family, Fontana was the first woman career artist, and Gentileschi was the first to become a member of Florence's Accademia di Arte del Disegno. Sirani established the first school of painting for women, which was attended by the noted artists Veronica Fontana, Lucrezia Scarfaglia, and Ginevra Cantofoli.</p>
+          <p type="img" alt="Élisabeth Louise Vigée Le Brun's Self-portrait in a Straw Hat (c.1782) is a vibrant self-portrait, conveying her social standing and her artistic mastery." show="1">/images20/photo/photo_old_masters_4.jpg</p>
+          <p type="p">In the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo&lt;/span&gt; period, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vigee_le_brun_elisabeth_louise"&gt;Élisabeth Louise Vigée Le Brun&lt;/span&gt; was famous for her vibrant portraits, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kauffman_angelica"&gt;Angelica Kauffman&lt;/span&gt; became a leading master of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassical&lt;/span&gt; era, known for her history paintings. Le Brun was an official artist of the French court, and Kauffman was a founding member of the London Royal Academy. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leyster_judith"&gt;Judith Leyster&lt;/span&gt; was highly successful during the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dutch_golden_age"&gt;Dutch Golden Age&lt;/span&gt;. Following her death, however, most of her works were attributed to either her husband Jan Miense Molenaer or to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hals_frans"&gt;Frans Hals&lt;/span&gt;. Her work was only correctly attributed in 1893. By the 19&lt;sup&gt;th&lt;/sup&gt; century, many women masters were forgotten; their work was not exhibited and they were often left out of art history. The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminist_art"&gt;Feminist Movement&lt;/span&gt; in the 1970s did much to rediscover many of these pioneers, although as Sotheby's noted during their 2019 "The Female Triumphant" sale during Masters Week, "Nearly 50 years later, the stories of the remarkable women who did break boundaries to achieve artistic acclaim are just beginning to be told".</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Trends">
+        <subsection title="Innovation">
+          <p type="img" alt="Leonardo da Vinci's iconic The Last Supper (1495-1498), an innovative study of perspective and human interaction." show="1">/images20/photo/photo_old_masters_5.jpg</p>
+          <p type="p">Due to the extensive time covered, the term Old Master encompasses a diverse range of styles and movements. Throughout the period, however, the fundamental approach to Western art was representational. As a result the classical principles of proportion and perspective remained dominant. The most famous Old Masters were tireless innovators, developing or elevating new techniques, stylistic elements, and subject matter. Da Vinci's oil paintings were celebrated for their original use of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chiaroscuro_tenebrism_sfumato"&gt;chiaroscuro&lt;/span&gt; and his invention of sfumato, the use of many layers of glaze to create subtle tonal gradations, whilst &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bruegel_the_elder_pieter"&gt;Pieter Breughel the Elder's&lt;/span&gt; works elevated genre scenes and landscapes to high art. The desire to equal and surpass previous masters also drove the development of new stylistic approaches. Some scholars view Mannerism's innovative use of elongated shapes and flattened space to produce new and powerful images as compelled by the desire to escape the tight rules of symmetry and ratio displayed by da Vinci, Michelangelo, and Raphael, and other High Renaissance artists.</p>
+        </subsection>
+        <subsection title="Old Master Prints">
+          <p type="img" alt="Master of the Playing Card's The Queen of Flowers (c. 1435-40) " show="1">/images20/photo/photo_old_masters_6.jpg</p>
+          <p type="p">An old master print generally refers to a print made from the early 1400s to 1830 either by an old master artist as an original work of art or as a means of reproducing artworks for wider dissemination. The Master of the Playing Cards, an anonymous German engraver from the early 1400s, is described by the Metropolitan Museum of Art as "the first great figure in the history of engraving". His name is derived from 77 surviving prints, depicting a set of playing cards, the earliest known set of intaglio plates.</p>
+          <p type="img" alt="Andrea Mantegna's The Battle of the Sea Gods (c. 1475), an engraving and dry point print, influenced Dürer's equally renowned print, Sea Monster (c.1498)." show="1">/images20/photo/photo_old_masters_7.jpg</p>
+          <p type="p">Printmaking, a dominant art mode in Northern Europe by 1430, quickly spread throughout the rest of Europe. In Italy, it was adopted by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_mantegna_andrea"&gt;Andrea Mantegna&lt;/span&gt;, who was one of the first Italian painters to use engraving for the creation of original work as opposed to a medium for reproduction. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer's&lt;/span&gt; international reputation was based primarily upon his innovative prints, which reached a wide audience throughout Europe and had an enormous impact on his contemporaries. By the 16&lt;sup&gt;th&lt;/sup&gt; century, many artists including Raphael, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, and Perugino had become interested in printmaking, particularly prints that reproduced their paintings and made the images more easily available throughout Europe.</p>
+        </subsection>
+        <subsection title="Little Masters">
+          <p type="img" alt="Influenced by Polidoro de Caravaggio's marble friezes, Hans Sebald Beham's Hercules fighting against the Centaurs (1542) is a richly detailed scene within just a 2 x 3 inch size" show="1">/images20/photo/photo_old_masters_8.jpg</p>
+          <p type="p">The term Little Masters describes a German group of engravers who, working from around 1525 to 1550, created miniature prints. Sometimes no larger than postage stamp size, these works were celebrated for their fine detail. Albrecht Dürer and Italian Renaissance artists influenced most of the leading members of the group, including Albrecht Altdorfer, Hans Sebald Beham, Barthel Beham, George Penz, and Heinrich Aldegraver. They depicted scenes from the Bible and classical mythology, landscapes, and scenes of peasant life, combining the refinement of Italian art with German design. In Germany these small prints were much in demand by nobility and wealthy merchants who displayed them in Kunstkammers, or curiosity cabinets.</p>
+        </subsection>
+        <subsection title="Drawing">
+          <p type="img" alt="Lucas van Leyden's A Young Man Standing (c. 1494-1533) exemplifies the Dutch tradition of presenting drawings as finished works in their own right." show="1">/images20/photo/photo_old_masters_9.jpg</p>
+          <p type="p">Drawing was an essential part of guild training, as students were expected to master it before moving onto painting. The wider use and production of drawings by Old Masters, however, tended to reflect more localized trends. In Protestant Holland, where art was made for the wealthy middle classes, sketches of genre scenes and landscapes were seen as art in themselves, whereas in Italy, where the Catholic Church commissioned most art, drawings were often preliminary studies or cartoons for large frescos. As drawings and cartoons were portable, they were often the available examples of master works and studied and imitated by art students throughout Europe. Museums, such as the British Museum, the Louvre, and the Rijksmuseum, built extensive collections of drawings, and art auction houses often feature sales of Old Master drawings. As drawings by exemplary Old Masters are infrequently available, works by lesser-known Old Masters have become highly valued. In 2018 Christie's sold a figure study by Lucas van Leyden for almost 11.5 million pounds. As art historian Furio Rinaldi noted, making "Van Leyden, alongside Raphael...only the second Old Master artist ever to have a drawing sell for more than £10,000,000".</p>
+        </subsection>
+        <subsection title="Art Museums">
+          <p type="img" alt="Raphael's Sistine Madonna (1512) is the centerpiece of the Gemäldegalerie Alte Meister's collection." show="1">/images20/photo/photo_old_masters_10.jpg</p>
+          <p type="p">From the 18&lt;sup&gt;th&lt;/sup&gt; century, museums played a leading role in promoting Old Masters, as they based their collections on these works. Known for its Old Masters collection, Dresden's Gemäldegalerie Alte Meister, (Old Master Picture Gallery) is one of the earliest. The King of Poland, August the Strong, began collecting notable European works in the late 17&lt;sup&gt;th&lt;/sup&gt; century, and the collection expanded under the direction of his son August III to include Dutch, Flemish, and German masters. Visiting the museum in 1768, the German writer Wolfgang von Goethe exclaimed, "I entered this shrine, and my amazement exceeded any preconceived idea". The museum became a model for museums that opened in the late 18&lt;sup&gt;th&lt;/sup&gt; century, such as the Musée du Louvre (1793). Visitors were primarily drawn from the upper classes but also included students and artists who wanted to study and copy the collection's masterworks. This is demonstrated by the Louvre's policy of setting aside five out of every ten days for artists.</p>
+        </subsection>
+        <subsection title="Art Auction Houses">
+          <p type="img" alt="Thomas Rowlandson and Augustus Charles Pugin's engraving in Microcosm of London (1808) depicts an auction of Old Masters at Christie's." show="1">/images20/photo/photo_old_masters_11.jpg</p>
+          <p type="p">Demand by museums and collectors for works by Old Masters played an important role in the rise of art auction houses. The earliest auction houses emerged in Sweden, with the Stockholm Auktionsverk founded in 1674, and the Uppsala auktionskammar in 1731. London followed soon after with Baker and Leigh, which later became Sotheby's, founded in 1744, and Christie's in 1766. Continuing into the modern era, these auction houses have expanded internationally, with offices in major cities around the world.</p>
+          <p type="img" alt="Previously thought to be a copy painted by his school of followers, Salvator Mundi (c.1500) was attributed to Leonardo da Vinci after extensive research and restoration." show="1">/images20/photo/photo_old_masters_12.jpg</p>
+          <p type="p">In the contemporary art market, as New York Times critic Scott Reyburn notes, "one of the biggest challenges facing the art world...[is]...How can interest in older art be sustained when so much more attention is focused - and so much more money is spent - on contemporary works?" To draw attention to the Old Masters, auction houses hold events like Old Masters week to highlight the works, though, as many of the eminent works are already housed in museums, the offerings are often of lesser-known artists. As Reyburn described in summer 2017, "Last week in London, Sotheby's and Christie's evening sales offered a combined total of 131 pictures by artists born before 1850. More than half of them were either unknown, or unknown to anyone who had not studied art history." When, rarely, a work by a famous Old Master does come up for auction, it, not only, drives prices but also becomes a cultural phenomenon. In New York in 2017 Christie's sold Leonardo da Vinci's Salvator Mundi (c. 1500) for a record-breaking $450.3 million.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">As art historian Nancy Locke wrote, "The list of famous artists whose documented admiration of, and copies after the Old Masters is endless; Landseer after Rubens; John Singer Sargent after Velasquez; Henri Fantin Latour after Titian and Veronese, Géricault after Caravaggio and earlier; Watteau after Titian, Van Dyck after Tintoretto, Matsys after Raphael, to name but a few." Yet, even though art students still study and imitate the Old Masters today, the strict curriculum of the academy began to fall out of favor in the 1800s, as Realism, the first modern movement, emphasized observation of nature and realistic depictions of working class life.</p>
+          <p type="p">Even so, leading artists have continued to return to the Old Masters, often referencing them in their own works. Manet's Olympia (1863) referenced Titian's Venus of Urbino (1538), and Degas often visited the Louvre to copy and sketch the works of Ingres and Poussin. As Nancy Locke wrote, Paul Cézanne "felt a deep reverence for certain artists in the Louvre, and frequently turned to them for inspiration and guidance, even in his maturity". Cézanne, as Locke noted, "wrestled with his predecessors on the way to transforming them" and 20&lt;sup&gt;th&lt;/sup&gt; century modern art movements were often marked by a drive to supersede, reconfigure, or actively reject the influence of past masters. Picasso, for instance, devoted a huge amount of time to reworking Cranach, Velázquez, Delacroix, Manet, and Degas. In 1919 Marcel Duchamp's defaced a reproduction of the Mona Lisa (1503-1507) with a mustache, to produce L.H.O.O.Q., whilst Andy Warhol's The Birth of Venus (1984) was a cropped and flattened close-up of Botticelli's work.</p>
+          <p type="p">In the 1970s the emerging Feminist Art movement challenged the tradition of the Old Masters, arguing the emphasis had erased women artists from art history, education, and patronage. Linda Nochlin's "Why Have There Been No Great Women Artists?" (1971) questioned the traditional assumption that great masters were exclusively European ma, while the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guerrilla_girls"&gt;Guerrilla Girls&lt;/span&gt; in the 1980s challenged art museums to exhibit more women artists, including those like Judith Leyster and Artemisia Gentileschi, renowned as masters in their own eras but subsequently erased.</p>
+          <p type="p">Subsequent artists have continued to reconfigure the Old Masters. As art critic Magda Mihalska wrote, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sherman_cindy"&gt;Cindy Sherman's&lt;/span&gt; Old Masters (1989-1990) series of thirty-five photographs "blends Post-Modern consciousness with timeless masterpieces (or tropes that they represent) of European masters". &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wiley_kehinde"&gt;Kehinde Wiley&lt;/span&gt;, as art critic Anne Quito noted, "Cribbing from titans of Western art like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;...creates hyper-realistic portraits, imbuing his subjects with the similar air of dignity or vainglory found in old paintings". On the other hand, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chapman_jake_and_dinos"&gt;Chapman Brothers&lt;/span&gt;, directly altered original artwork including a rare set of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goya_francisco"&gt;Francisco Goya's&lt;/span&gt; prints in Insult to Injury (2004).</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Expulsion from the Garden of Eden</title>
+      <artist>Masaccio</artist>
+      <year>1426-1427</year>
+      <materials>Fresco</materials>
+      <desc>
+				This early Old Master work, part of Masaccio's fresco cycle in the Brancacci Chapel, depicts a nude Adam and Eve, their body language and facial expressions conveying shame and anguish, as they are driven from the garden of Eden. From the arch behind them black lines depict the voice of God while above the arch an angel, dressed in red and carrying a black sword, energetically drives them forward. Both the lines depicting the voice of God and the sword are made of silver, though it has tarnished over time. The influence of classical sculpture is evident in the proportions of both figures, while Eve's arms covering her breasts and pubic area specifically evokes the Venus Pudica pose, which was widely used by later artists. In his depiction of Adam, Masaccio was also influenced by Donatello's Crucifix (1412-13) in the Santa Croce church, known for its realistic depiction.
+				&lt;br/&gt;&lt;br/&gt;
+				Painting the first nudes since the Roman era, Masaccio's innovations, realistic figuration and linear perspective, created a new aesthetic. As 16&lt;sup&gt;th&lt;/sup&gt; century painter, Giorgio Vasari wrote, Masaccio brought "into light the modern style that has been followed ever since by all artists" Direct influences can be seen in the work of Fra Filippo Lippi, Sandro Botticelli, da Vinci (who called Masaccio's figures "perfect"), and Michelangelo as well as later names including John Ruskin, Joshua Reynolds, and the sculptor Henry Moore. As contemporary art historian Keith Christiansen noted, "the methods Masaccio employed on the walls of the Brancacci Chapel did indeed become the basis of art training throughout Europe". 
+			</desc>
+      <collection>Church of Santa Maria Novella, Florence, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Mona Lisa (La Giaconda)</title>
+      <artist>Leonardo da Vinci</artist>
+      <year>1503-1507</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				Probably the most famous and most recognizable of paintings, this Renaissance portrait depicts a woman whose mysterious smile and identity has fascinated scholars and viewers for centuries. In its techniques and its treatment of the subject matter, Leonardo's work was radically innovative. Previously female portraits, usually commissioned by male family members, depicted the sitter in profile and emphasized her social status, and suitability as a wife, by attention to her finery and jewelry. Da Vinci's pioneering use of sfumato, the application of multiple thin layers of glaze, creates the work's soft tonal transitions and gradations between light and shadow. This, along with his knowledge of anatomy and mastery of perspective, creates the realism of the piece. As Giorgio Vasari wrote, "As art may imitate nature, she does not appear to be painted, but truly of flesh and blood. On looking closely at the pit of her throat, one could swear that the pulses were beating." 
+				&lt;br/&gt;&lt;br/&gt;
+				Landscape becomes a focus of the work, rather than a mere backdrop, as its features, rendered in aerial perspective, resemble realistic landscape forms but, taken altogether, evoke an imagined world. As Louvre curator, Jean-Pierre Cuzin wrote, "The background may be a representation of the universe, with mountains, plains and rivers. Or possibly it is both reality and the world of dream. One could suppose that the landscape doesn't exist, that it is the young woman's own dream world." 
+				&lt;br/&gt;&lt;br/&gt;
+				Though most scholars believe he began painting the work in Florence around 1500, da Vinci subsequently took the work with him to France and worked on it until his death. As Cuzin wrote "The entire history of portraiture afterwards depends on the Mona Lisa. If you look at all the other portraits - not only of the Italian Renaissance, but also of the seventeenth to nineteenth centuries - if you look at Picasso, at everyone you want to name, all of them were inspired by this painting. Thus it is sort of the root, almost, of occidental portrait painting." Da Vinci's techniques of chiaroscuro, sfumato, linear perspective, and aerial perspective, and his use of composition, became foundational to subsequent artists. Due to his equally celebrated scientific discoveries, inventions, and observations (recorded in his notebooks) he was viewed as the exemplary Renaissance man, a master in all that he attempted.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Creation of Adam</title>
+      <artist>Michelangelo</artist>
+      <year>1508-1512</year>
+      <materials>Fresco</materials>
+      <desc>
+				This iconic work, part of the famous fresco cycle Michelangelo painted on the Sistine Chapel, depicts the moment when God, shown in a cloud of angels and cherubim on the right, conveys the spark of life to Adam, nude and reclining on the left. Influenced by classical Greek and Roman sculptures, Michelangelo's figures are both idealized and sculptural, elevating the nude, which in previous Christian art had been employed only to depict Adam and Eve, in shame, as they were driven out of paradise. 
+				&lt;br/&gt;&lt;br/&gt;
+				Here, he creates a powerful image of male beauty, which influenced both artistic treatments and cultural beliefs, reflected in the 20&lt;sup&gt;th&lt;/sup&gt; century by Pope John Paul II's comment, "The Sistine Chapel is precisely - if one may say so - the sanctuary of the theology of the human body." 
+				&lt;br/&gt;&lt;br/&gt;
+				Pope Julius II commissioned the painting of the ceiling of the Sistine Chapel in 1507. The result was immediately hailed as an age-defining masterpiece and was an early exemplar of history painting. Michelangelo was also noted for his innovative compositions including the use of foreshortening, a vibrant color palette, and dynamic movement. In the 17&lt;sup&gt;th&lt;/sup&gt; century the emerging art academies defined history painting as one of the highest forms of art. Copying Old Master works in the genre was emphasized in the educational process and many artists travelled to Rome to study the work. Michelangelo's depiction of the human form greatly influenced Titian, Bernini, Rubens, Rodin and Paul Cézanne amongst others.
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>Knight, Death, and the Devil</title>
+      <artist>Albrecht Dürer</artist>
+      <year>1513</year>
+      <materials>Engraving</materials>
+      <desc>
+				This large print, along with Saint Jerome in His Study (1514) and Melacholia I (1514), is one of Dürer's Meisterstiche, or master engravings. An equestrian knight, dressed in armor, and carrying a lance, its tip wrapped in a foxtail, fills the picture, as he rides resolutely through a craggy and desolate landscape. He looks sternly forward, not looking at Death, on a horse to his right, who exhorts him or the goat-headed Devil who follows behind him. His faithful dog runs alongside. The work is profoundly allegorical, from the skull on the ground in front of the horse to the hourglass that Death holds, and is perhaps based upon the Renaissance Humanist Erasmus's Instructions for the Christian Soldier (1504), which said, "In order that you may not be deterred from the path of virtue because it seems rough and dreary ... and because you must constantly fight three unfair enemies - the flesh, the devil, and the world... Look not behind thee." Dürer's own title for the work was simply the Reuter (Rider), reflecting his emphasis on the knight as a heroic figure. 
+				&lt;br/&gt;&lt;br/&gt;
+				Durer devoted his life to producing proportionally accurate depictions of people and animals and is thought to have been influenced by his studies of the equestrian statues of the Italian Old Masters, including Donatello's Gattamelata (1453) or Leonardo's 1490 designs for an equestrian statue that was never completed. Giorgio Vasari said that Durer's master engravings were "of such excellence that nothing finer can be achieved". Durer was extremely innovative in his printmaking, expanding its tonal and narrative range, elevating it to an art form in its own right and influencing subsequent artists, notably the Little Masters. Additionally, his prints were reproduced and distributed throughout Europe, making them one of the first examples of mass-produced art. As a result, artists including Raphael, Titian, and Parmigianino began to collaborate with printmakers to promote and distribute their work. 
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Hunters in the Snow</title>
+      <artist>Pieter Bruegel the Elder</artist>
+      <year>1556</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				This landscape shows three hunters, along with their hunting dogs, as they trudge through the snow on a hill overlooking a small village, where on the frozen river and large ponds villagers are skating. Presenting a compelling view of rural life, the work employs a masterly sense of composition, as the diagonal created by the hunters' dark outlined figures is echoed in the diagonal of black tree trunks that descend down the hill. This line can be seen to continue across the white strip of land between the ponds to the rugged peaks in the distance. This work is one in a series that Breughel painted depicting the seasons, but as art historian Jacob Wisse noted, "Though rooted in the legacy of calendar scenes, Brueghel's emphasis is not on the labors that mark each season but on the atmosphere and transformation of the landscape itself. These panoramic compositions suggest an insightful and universal vision of the world." 
+				&lt;br/&gt;&lt;br/&gt;
+				Breughel's works informed the development of landscape and also genre art, as his scenes depicting ordinary life were studied for his use of linear perspective, bold outlines, and repeating triangular shapes. He influenced the artists of the Northern European Renaissance and of the Dutch Golden Age, as well as later artists such as Camille Pissarro and Vincent Van Gogh. As contemporary art critic Jonathan Jones wrote, "Scenes such as The Hunters in the Snow seem to sum up the very nature of life on earth in their geographical sweep and anthropological scope. Like Shakespeare, he can capture the theatre of life."
+			</desc>
+      <collection>The Kunsthistorisches Museum, Vienna, Austria</collection>
+    </artwork>
+    <artwork>
+      <title>The Supper at Emmaus</title>
+      <artist>Caravaggio</artist>
+      <year>1601</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This work depicts the moment when the resurrected Christ reveals his identity to two of his disciples at Emmaus. Placed as if in a small, candlelit tavern, the scene emphasizes the moment of revelation. Christ, his face and body illuminated, is depicted gesturing to the viewer, while the disciples react physically, one with arms extended in astonishment and the other as if about to rise from his chair. Although he didn't invent the technique, Caravaggio mastered and popularized chiaroscuro, making it a dominant stylistic element in his paintings and using it to increase the drama and movement of his work. He also focused on creating realistic figures, rather than idealizing them, a technique that made him controversial in some religious circles.
+				&lt;br/&gt;&lt;br/&gt;
+				Groups of artists, such as the Utrecht Caravaggisti, imitated Caravaggio's use of chiaroscuro and his emphasis on dramatic moments and he also influenced Rubens, Vermeer, Rembrandt, and Velázquez. As art historian Bernard Berenson wrote, "With the exception of Michelangelo, no other Italian painter exercised so much influence". The modern art critic Roberto Longhi noted, "Ribera, Vermeer, La Tour and Rembrandt could never have existed without him. And the art of Delacroix, Courbet and Manet would have been utterly different."
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Las Meninas</title>
+      <artist>Diego Velázquez</artist>
+      <year>1656</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This intricate composition depicts the Infanta Margaret Theresa attended by her entourage, including two maids of honor, a chaperone, a bodyguard, two dwarfs, and a mastiff. To the left, Velazquez portrays himself painting onto a large canvas and in the background a mirror reflects the King and Queen who appear to be standing in the same position as the viewer. Alternatively, it has been posited that the reflection is of the painting on which Velazquez works. Nominally, a portrait of the Infanta, this work is a complex exploration of the phenomenon of visual perception which raises questions about reality and illusion in art.
+				&lt;br/&gt;&lt;br/&gt;
+				The Baroque artist Luca Giordano described the work as representing the "theology of painting," whilst in 1827 the painter, Thomas Lawrence said it evoked "the true philosophy of the art". The work has continued to preoccupy and provoke contemporary thought. The noted philosopher Michael Foucault wrote, "We are looking at a picture in which the painter is in turn looking out at us. A mere confrontation, eyes catching one another's glance, direct looks superimposing themselves upon one another as they cross. And yet this slender line of reciprocal visibility embraces a whole complex network of uncertainties, exchanges, and feints." Foucault saw the work as presaging a new way of thought, occupying a point between the classical and the modern, as he said, "representation, freed finally from the relation that was impeding it, can offer itself as representation in its pure form".
+				&lt;br/&gt;&lt;br/&gt;
+				The work had an influence on subsequent artists, including Francisco Goya, John Singer Sargent, Pablo Picasso, Salvador Dalí, Richard Hamilton, as well as contemporary video artist, Eve Sussman, who decontextualized it. Édouard Manet was to call Velázquez, "the painter of painters," and Picasso painted fifty-eight interpretations of Las Meninas in a 1957 series, as he exhaustively studied its form, movement, and color. 
+			</desc>
+      <collection>Prado, Madrid, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>Self Portrait at the Age of 63</title>
+      <artist>Rembrandt van Rijn</artist>
+      <year>1669</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This self-portrait depicts the artist in three-quarter view, facing towards the viewer. Against the dark background, only his furrowed, aging face is illuminated, revealing the wrinkles beneath his eyes and the blemishes on his forehead. As art critic Hilton Cramer noted, the "thickly painted surfaces...are the perfect pictorial correlative" for his "existential candor". Using a deep chiaroscuro, the face is divided between light and shadow by the ridge of the nose, an identifying characteristic of Rembrandt's style. 
+				&lt;br/&gt;&lt;br/&gt;
+				A leading Baroque painter in the Dutch Golden age, Rembrandt was celebrated for his portraits, his Biblical and classical scenes, allegories, landscapes, genre paintings, and his powerful engravings and etchings. Yet after his death, as art historian Mark Hudson notes, "for almost 200 years...no one was much interested in the art of Rembrandt...the very qualities we admire in him - the earthy truth to physical reality, the directness with which the human presence is put in front of us, the almost edibly palpable feeling for light and shade - were antithetical to the self-conscious classical refinement that dominated critical values in the late 17&lt;sup&gt;th&lt;/sup&gt; and 18&lt;sup&gt;th&lt;/sup&gt; centuries." 
+				&lt;br/&gt;&lt;br/&gt;
+				Rembrandt was rediscovered in the late-1800s, with the result that he became one of the pre-eminent Old Masters to influence the modern era. His numerous self-portraits, were particularly influential, due to the significant number that he produced throughout his lifetime. Cézanne sketched his Bathsheba at Her Bath (1654), Vincent van Gogh called Rembrandt "a magician", Auguste Rodin described him as a "colossus of art", and Pablo Picasso was to say, "every painter takes himself for Rembrandt". Later artists, including Frank Auerbach and Francis Bacon were deeply influenced by what Auerbach called Rembrandt's "raw truth" and his handling of paint, using thick impasto and expressive loose brushwork. As Hudson wrote, "Yet it is also the trajectory we expect art to take: away from tightness, order and control, towards expressivity and abstraction. As Rembrandt invents himself in paint, so he invents Modern Art as he goes."
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>masaccio</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>da_vinci_leonardo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>michelangelo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>durer_albrecht</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bruegel_the_elder_pieter</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>caravaggio</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>velazquez_diego</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>rembrandt_van_rijn</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Modern Painters, Old Masters: The Art of Imitation from the Pre-Raphaelites to the First World War</title>
+          <link>0300222750</link>
+          <info>By Elizabeth Prettejohn</info>
+        </entry>
+        <entry>
+          <title>New Light On Old Masters (Gombrich on the Renaissance)</title>
+          <link>0714829897</link>
+          <info>By E.H.Gombrich</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Gemäldegalerie Alte Meister website</title>
+          <link>https://gemaeldegalerie.skd.museum/en/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Gemäldegalerie Alte Meister</title>
+          <link>https://artsandculture.google.com/partner/gemaldegalerie-alte-meister-old-masters-picture-gallery</link>
+          <info>Google Arts and Culture</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>For Old Masters It's All About the Name</title>
+          <link>https://www.nytimes.com/2014/07/14/arts/international/with-old-masters-the-brand-is-king.html</link>
+          <info>
+						By Scott Reyburn
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						July 14, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Selling Old Masters Now Requires Learning New Tricks</title>
+          <link>https://www.nytimes.com/2017/07/07/arts/old-masters-london.html</link>
+          <info>
+						By Scott Reyburn
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						July 7, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Teacher of the Old Masters</title>
+          <link>https://www.wsj.com/articles/teacher-of-the-old-masters-11552055881</link>
+          <info>
+						By Brenda Cronin
+						&lt;br&gt;
+						Wall Street Journal
+						&lt;br&gt;
+						March 8, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>The Artists Who Learnt from the Old Masters</title>
+          <link>https://www.sothebys.com/en/articles/the-artists-who-learnt-from-the-old-masters</link>
+          <info>
+						By Chloe Stead
+						&lt;br&gt;
+						Aug 22, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Why Rembrandt Is Considered One of Art History's Most Important Old Masters</title>
+          <link>https://mymodernmet.com/rembrandt-artwork/</link>
+          <info>
+						By Kelly Richman-Abdou
+						&lt;br&gt;
+						mymodernmet
+						&lt;br&gt;
+						March 9, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Paul Cézanne Revered the Old Masters, yet Influenced Waves of Modernists</title>
+          <link>https://www.neh.gov/humanities/2015/januaryfebruary/feature/the-museumgoer</link>
+          <info>
+						By Nancy Locke
+						&lt;br&gt;
+						National Endowment of Humanities
+						&lt;br&gt;
+						January/February 2015, Volume 36, Number 1
+					</info>
+        </entry>
+        <entry>
+          <title>The painter who remixes classical European art with black urban youth</title>
+          <link>https://qz.com/375262/the-painter-who-remixes-classical-european-art-with-black-urban-youth/</link>
+          <info>
+						By Anne Quito
+						&lt;br&gt;
+						Quartz
+						&lt;br&gt;
+						April 3, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Cindy Sherman vs Old Masters</title>
+          <link>https://www.dailyartmagazine.com/cindy-sherman-old-masters/</link>
+          <info>
+						By Magda Mihalska
+						&lt;br&gt;
+						Daily Art Magazine
+						&lt;br&gt;
+						May 8, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>A Chapel in Florence Reveals Its Wonders Anew</title>
+          <link>https://www.nytimes.com/1990/06/09/arts/a-chapel-in-florence-reveals-its-wonders-anew.html</link>
+          <info>
+						By Clyde Haberman
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						June 9, 1990
+					</info>
+        </entry>
+        <entry>
+          <title>Some Observations on the Brancacci Chapel Frescoes after Their Cleaning</title>
+          <link>https://www.jstor.org/stable/884614?seq=1#page_scan_tab_contents</link>
+          <info>
+						By Keith Christiansen
+						&lt;br&gt;
+						The Burlington Magazine
+						&lt;br&gt;
+						Vol. 133, No. 1054 (Jan., 1991), pp. 4-20 
+					</info>
+        </entry>
+        <entry>
+          <title>A Look at Botticelli's "The Birth of Venus" in Pop Culture</title>
+          <link>https://www.artsy.net/article/artsy-editorial-botticellis-birth-venus-pop-culture</link>
+          <info>
+						By Abigail Cain
+						&lt;br&gt;
+						Artsy
+						&lt;br&gt;
+						Jul 26, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Rembrandt showed us what it feels like to be inside the human skin</title>
+          <link>https://www.telegraph.co.uk/culture/art/art-news/10180623/Rembrandt-showed-us-what-it-feels-like-to-be-inside-the-human-skin.html</link>
+          <info>
+						By Mark Hudson
+						&lt;br&gt;
+						Telegraph
+						&lt;br&gt;
+						July 15, 2103
+					</info>
+        </entry>
+        <entry>
+          <title>Rembrandt Painted Himself With Total Lack of Vanity</title>
+          <link>https://observer.com/1999/07/rembrandt-painted-himself-with-total-lack-of-vanity/</link>
+          <info>
+						By Hilton Kramer
+						&lt;br&gt;
+						Observer
+						&lt;br&gt;
+						July 26, 1999
+					</info>
+        </entry>
+        <entry>
+          <title>The "Little Masters" in the Exhibition of Early German Prints</title>
+          <link>https://www.jstor.org/stable/4423595?seq=1#metadata_info_tab_contents</link>
+          <info>
+						By H.R.S.
+						&lt;br&gt;
+						Museum of Fine Arts Bulletin
+						&lt;br&gt;
+						Vol. 11, No. 64 (Aug., 1913)
+					</info>
+        </entry>
+        <entry>
+          <title>Once Overlooked, Female Old Masters Take Center Stage</title>
+          <link>https://www.sothebys.com/en/articles/once-overlooked-female-old-masters-take-center-stage</link>
+          <info>
+						By Sotheby's
+						&lt;br&gt;
+						January 25, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>How Old Masters Sales Are Like the Tortoise and the Hare</title>
+          <link>https://www.nytimes.com/2018/12/07/arts/auctions-old-masters.html</link>
+          <info>
+						By Scott Reyburn
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						December 7, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>'Draw and don't waste time'. Lessons from Michelangelo and the Old Masters</title>
+          <link>https://www.apollo-magazine.com/how-to-learn-drawing-from-michelangelo/</link>
+          <info>
+						By Isabel Seligman
+						&lt;br&gt;
+						Apollo Magazine
+						&lt;br&gt;
+						August 15, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>'My highlight of 2018' - A drawing by Lucas van Leyden</title>
+          <link>https://www.christies.com/features/My-Highlight-of-2018-a-Lucas-van-Leyden-drawing-9622-1.aspx</link>
+          <info>
+						By Christie's
+						&lt;br&gt;
+						December 13, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Collecting Guide: Old Master drawings</title>
+          <link>https://www.christies.com/features/Old-Master-Drawings-Collecting-Guide-7455-1.aspx</link>
+          <info>
+						By Christie's
+						&lt;br&gt;
+						December 28, 2018
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>An Introduction to Old Master Drawings</title>
+          <link>https://www.youtube.com/watch?v=CrVRIWw3PA8</link>
+          <info>Christie's</info>
+        </entry>
+        <entry>
+          <title>Highlights from Old Masters Week 2011</title>
+          <link>https://www.youtube.com/watch?v=D0_yfVesZC4</link>
+          <info>Sotheby's</info>
+        </entry>
+        <entry>
+          <title>History of Taste: Claude and the Old Masters</title>
+          <link>https://www.youtube.com/watch?v=f0mW7JNtlhc</link>
+          <info>National Gallery</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

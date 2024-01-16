@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>cunningham_merce</id>
+    <name>Merce Cunningham</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1939 - 2009</years>
+    <description>Cunningham created dance productions that confounded and delighted viewers - embracing chance and allowing dancers more artistic and personal autonomy.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>American</nationality>
+    <occupation>Dancer and Choreographer</occupation>
+    <birthDate>April 16, 1919</birthDate>
+    <birthPlace>Centralia, Washington, U.S.</birthPlace>
+    <deathDate>July 26, 2009</deathDate>
+    <deathPlace>New York, New York</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>3/25/2019</pub_time>
+    <img_version>?2</img_version>
+    <big_bio_box_img>Louis Stevenson's photo of Merce Cunningham Dance Company's &lt;i&gt;Springweather and People&lt;/i&gt; (1955). Pictured: Merce Cunningham and Carolyn Brown.</big_bio_box_img>
+    <bio_highlight>Dancer Valda Setterfield once said: "Merce was like the sun. He had the most astonishing power – and if you got too close, or stayed a little too long, well, you might get burned." But this "rail-thin, zen-like powerhouse" was also a titan of dance who changed choreography forever.</bio_highlight>
+  </main>
+  <includes>
+    <include>abstract_dance_movement</include>
+    <include>neo_dada</include>
+    <include>performance_art</include>
+    <include>queer_art</include>
+    <include>postmodernism</include>
+  </includes>
+  <similar_movements>
+    <movement>neo_dada</movement>
+    <movement>performance_art</movement>
+    <movement>queer_art</movement>
+    <movement>postmodernism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>cage_john</artist>
+    <artist>de_kooning_elaine</artist>
+    <artist>rauschenberg_robert</artist>
+    <artist>johns_jasper</artist>
+    <artist>nauman_bruce</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Dancing is a spiritual exercise in a physical form"</q>
+    <q>"If a dancer dances - Which is not the same as having theories about Dancing Or Wishing To Dance Or Trying To Dance Or Remembering In His Body Someone Else's Dance - But If The Dancer Dances, Everything Is There. . . Our Ecstasy In Dance Comes From The Possible Gift Of Freedom, The Exhilarating Moment That This Exposing Of The Bare Energy Can Give Us. What Is Meant Is Not License, But Freedom..."</q>
+    <q>"The secret of flight is this -- you have to do it immediately, before your body realizes it is defying the laws."</q>
+    <q>"I remember one morning getting up at dawn. There was such a sense of possibility. You know, that feeling. And I ... I remember thinking to myself: So this is the beginning of happiness, this is where it starts. And of course there will always be more...never occurred to me it wasn't the beginning. It was happiness. It was the moment, right then."</q>
+    <q>"There is a beauty in the world, though it's harsher than we expect it to be."</q>
+    <q author="cage_john">"[Cunningham is] less like an object and more like the weather.  Because in an object, you can tell where the boundaries are, but in the weather it's impossible to say when something begins or ends."</q>
+  </quotes>
+  <authors>
+    <author link="de_orellana">Tally de Orellana</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			One of the most innovative artists of the 20&lt;sup&gt;th&lt;/sup&gt; century, Merce Cunningham employed a range of tactics to create his sometimes difficult dance productions that confounded and delighted viewers. Often working with his life partner, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; composer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cage_john"&gt;John Cage&lt;/span&gt;, Cunningham banished dance's traditional reliance on emotive narrative and instead infused it with a sense of the everyday and ordinary. Embracing chance and allowing dancers more autonomy and choice, Cunningham's dances are grounded in the random and unexpected but can also reveal deep meditations on human relationships and how we exist in the world at large.
+			&lt;br/&gt;&lt;br/&gt;
+			Working on the edges of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-happenings"&gt;Happenings&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fluxus"&gt;Fluxus&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt;, Cunningham's collaborative practice led him to work with some of the most innovative musicians, including Pauline Oliveros, David Tudor, and LaMont Young, as well as artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-paik_nam_june"&gt;Nam June Paik&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nauman_bruce"&gt;Bruce Nauman&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morris_robert"&gt;Robert Morris&lt;/span&gt;. Inhabiting this intermedia landscape for so many decades, Cunningham's influence can be felt in many corners of the art world.
+		</synopsys>
+    <key_ideas>
+      <idea>Mostly defying categories, Cunningham was a central participant in the group of Neo-Dadaist artists that included John Cage, Robert Rauschenberg, and Jasper Johns. Taking cues from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, these artists used found objects to critique high and traditional notions of art and often parodied the self-expression of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;. Additionally, Cunningham incorporated the performative aspects of Happenings and Fluxus to push the boundaries of dance.</idea>
+      <idea>Perhaps inspired by John Cage, Cunningham largely relied on chance to choreograph his dances. Using playing cards, tossing coins, or sometimes consulting the &lt;i&gt;I-Ching&lt;/i&gt;, an ancient Chinese text used for divination, Cunningham would order and arrange movements, sometimes employing ordinary actions, into a dance. According to Cunningham, chance freed his imagination and let him work outside of cultural clichés.</idea>
+      <idea>At heart, Cunningham's practice was collaborative. Often he called on musicians and contemporary artists to create scores, set designs, and costumes for his dances. Drawing on Cunningham's interest in chance, the choreographer, musician, and artist would work separately with only the barest structure known to each, and only at the end would the full scope of the production come into focus.</idea>
+      <idea>Over the decades, Cunningham employed new technologies and media into his dances, including electronic music, video, motion sensors, and computer programs. In doing so, he explored and expanded the scope of what dance was capable of doing and reimagined the human body in the process.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Merce Cunningham, born Mercier Philip Cunningham in Centralia, a small town in the state of Washington, was the son of a lawyer Clifford D. Cunningham and Mayme Joach Cunningham. While Merce was still a baby, C. D. Cunningham prosecuted members of the radical labor union, the Industrial Workers of the World, for their participation in the Centralia Massacre (an incident between two groups - veterans and industrial workers - that turned violent).</p>
+          <p type="p">Merce described his mother Mayme Joach Cunningham as endowed with "an enormous energy and quite independent spirit," and she would often travel the world, leaving her sons to the care of her husband. Both his older and younger brothers followed their father's steps in the legal profession, one becoming a lawyer and, the other, a judge. Merce, on the other hand, manifested a precocious interest towards dance from a very young age. In spite of being born into a family with no particular awareness of the arts, Merce's family did not stop him from pursuing his creative career. In his own words, "My father said, 'If you want to do it, fine. All you have to do is work at it.'" Growing up in Centralia, he was nurtured by its small community where he first shone at the local level and where his talent was increasingly celebrated.</p>
+        </subsection>
+        <subsection title="Early training and work">
+          <p type="p">Cunningham began studying dance at the age of 12, taking tap dance classes from a local teacher, Mrs. Maude Barrett. Energetic and spiritual, Barrett transmitted to young Cunningham a life changing passion for dance. Merce recalled, "I had a marvelous tap-dancing teacher when I was in high school. She had an extraordinary sense of rhythm and a brilliant performing energy." After high school, from 1937 to 1939, he attended the Cornish School of Fine and Applied Arts in Seattle, where he would be exposed to the wide spectrum of the arts: from drama to dance and music.</p>
+          <p type="p">Cunningham's original intention was to study acting, but he soon found drama overly restraining. Dance, however, provided him with a certain flare of ambiguity, an outlet for endless exploration of space and movement. Cunningham was an enthusiastic and relentless pupil, eager to explore the limits of dance. In the summer of 1939, following one of his teachers, Cunningham frequented Mills College in Oakland, California, where he met the most outstanding modern dancers of the century including Charles Wideman, Doris Humphrey, Hanya Holm, and Martha Graham. Later in December of that same year, he met the young composer John Cage, who had been hired at the Cornish School of Fine Art as the accompanist for the dance department and who would eventually become his life-long partner.</p>
+          <p type="p">In spite of the fact that Cunningham's father was initially hesitant to support his son's dancing career, Merce moved to New York City the following September to work in Martha Graham's dance company on Broadway. He danced as a soloist for six years, and following his stubborn and relentless creative drive, he also started performing his own choreographed pieces. Most importantly, while working with the Martha Graham Company, he presented his first New York solo concert with composer John Cage in April 1944. Not only did the two become lovers, but they collaborated on multiple productions and developed and promoted new forms of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance art&lt;/span&gt;. Cunningham and Cage fostered a collaborative, multidisciplinary, and performative art that denied existing traditions and structures and promoted an alternative creative New York arts scene that would be the foundation for the first forays into what would come to be known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodernism&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Initially, Cage's music offered to Cunningham a framework in which to work, but after 1950, they both began exploring the notion of chance, which they increasingly incorporated into their work. Not only would they use various chance methods to determine notes and dance moves, but sometimes they would only combine the final choreography and music on the day of the actual performance, forcing the dancers to improvise their movement. Cunningham explained: "Movement has its own life...it doesn't need something else with it. When John and I first thought of separating the dance and the music, it was very difficult, because people had this idea about the music supporting the dance rhythmically. I can remember so clearly - in one piece I had made some kind of very big movement, and there was no sound at all, but right after it came this incredible sound on the prepared piano, and I understood that these two separate things could make something that could not have happened any other way."</p>
+          <p type="img" alt="UNTITLED [MERCE (III)] (1953)" show="1">/images20/photo/photo_cunningham_merce_1.jpg</p>
+          <p type="p">Further developing this intense artistic and emotional partnership, both Cunningham and Cage started teaching at the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-black_mountain_college"&gt;Black Mountain College&lt;/span&gt;, an alternative liberal arts school in North Carolina in 1952. There, they met painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, then a student at Black Mountain, who would go on to design the costumes, lights, and sets for the productions of the Merce Cunningham Dance Company, which he formed in 1953.</p>
+          <p type="p">Both Cage and Cunningham developed an interest in the work of Antonin Artaud, the groundbreaking French poet and dramatist, which encouraged them to push their collaboration towards the ideas of theater. Theater didn't need to be based on the script, as Cage explained, "It needn't determine the other actions, that sounds, that activities, and so forth, could all be free rather than tied together; so that rather than the dance expressing the music or the music expressing the dance, that the two could go together independently, neither one controlling the other."</p>
+          <p type="p">Cage's and Cunningham's experimental collaborations perplexed most audiences, but soon their reputations began to grow. The poet David Wagoner wrote in 1966, after seing a performance at the Seattle Center Playhouse, "It soon became apparent, in the midst of dizzying light effects and the raucous static of electronic devices, why few people remain neutral in their feeling for this avant-garde group ... They are not only breaking fresh ground, but breaking fresh eardrums."</p>
+          <p type="img" alt="Robert Rauschenberg's &lt;i&gt;Interscape Mirage (2000)&lt;/i&gt; - Stage set designed for Merce Cunningham's &lt;i&gt;Interscape&lt;/i&gt;. Cunningham, along with Cage and Rauschenberg, pioneered a queer visual vocabulary in the middle of the 20&lt;sup&gt;th&lt;/sup&gt; century." show="1">/images20/photo/photo_cunningham_merce_2.jpg</p>
+          <p type="p">Cunningham had the ability to transform normal actions into the unexpected. Just as his contemporaries Cage and Rauschenberg were doing, he would use facets of the everyday to transform them into unique pieces. In many of his choreographies, he interspersed pedestrian movements within more traditional ballet techniques. Such techniques paralleled much of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kaprow_allan"&gt;Allan Kaprow's&lt;/span&gt; "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-happenings"&gt;happenings&lt;/span&gt;" as well as the more internationally dispersed Fluxus performances. Cunningham's sense of individuality and humanness separated his work from more orthodox approaches to dance and has been recognized by a number of critics as propelling what has been called the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-queer_art"&gt;Queer Art movement&lt;/span&gt;. His collaborative practice as well as his ability "to transform normativity into the unexpected," in critic Zachary Small's words, are tenets of Queer Art practice. In describing the intermedia of performance, John Cage said, "It's not starting from an idea. Not starting even from the expression of the same feeling nor an exposition of the same idea but rather simply being together in the same place at the same time and leaving space around each art so that neither art has to glue itself to a particular." The abolition of hierarchies and the non-imposition of reason or norms are also central to Cunningham's dances and foster a queer aesthetic.</p>
+        </subsection>
+        <subsection title="Late period and death">
+          <p type="p">Cunningham was passionate about technological advancements. Throughout his entire career, he explored new technologies which he would directly apply to his choreographies. Having been interested in film and video throughout the 1970s, in 1989 Cunningham began experimenting with a computer choreography software program called Life Forms to choreograph his productions. His interest in new techniques led him to create multimedia settings and decors.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="&lt;i&gt;Untitled (Cunningham Dancers)&lt;/i&gt; is a 1961 photograph by artist Robert Rauschenberg" show="1">/images20/photo/photo_cunningham_merce_3.jpg</p>
+          <p type="p">It is difficult to frame Cunningham's legacy in specific terms due to the nature of his work and the fact that he developed his art through numerous collaborations. He never left a tangible piece to exhibit within a specific space but rather a new vision of the potential of dance and movement. "You don't have this thing that you can hang on a wall or put on your desk. It's not a solid object. You don't have a script," explained art historian Sally Sommer; "You are passing on this ephemeral and fragile thing that is an idea that lives only at the moment that it is performed and then it's gone. It's like you're passing on air."</p>
+          <p type="p">Cunningham upset the basic notion of dance as the receptacle of a narrative based on drama and emotion and moved dance towards an abstract practice. This transformation of dance situates him within the company of the 20th century's most influential artists who set the way for postmodernism, from choreographers Mark Morris, Beth Gill, and Twyla Tharp to avant-garde stage directors such as Robert Wilson and performance artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-anderson_laurie"&gt;Laurie Anderson&lt;/span&gt;.</p>
+          <p type="p">Cunningham's collaborative method, developed after several years of sharing programs and shaping dance and music pieces with John Cage and Robert Rauschenberg, inspired countless other collaborations, including &lt;i&gt;Available Light&lt;/i&gt; (1983), a performance that united composer John Adams, architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gehry_frank"&gt;Frank Gehry&lt;/span&gt;, and choreographer Lucinda Childs.</p>
+          <p type="p">Productive thinker and restless choreographer, Cunningham worked until his death in 2009 at age 90. The Merce Cunningham Dance Company did not die with the passing of its founder. Its groundbreaking fundamentals, most notably the precept that movement should reflect and comment on the music rather than accompany it, continues to remain a focal point. The company continued touring, unveiling Cunningham's broad repertory and taking it to cities worldwide. Bringing the desire to open up Cunningham's work to the wider public, in 2008, the company asked dancer Nancy Dalva to produce a web series entitled &lt;i&gt;Mondays with Merce&lt;/i&gt;, featuring numerous interviews as well as performances and behind-the-scene shots.</p>
+          <p type="p">Cunningham's works have since then been danced by numerous companies, including the New York City Ballet, American Ballet Theatre, the Paris Opera Ballet, and France's Theatre du Silence. Among his many honors are the British awards, Chevalier de la Legion d'Honneur, Kennedy Center Honors, National Medal of Arts, Italy's Porselli Prize, and New York City's Handel Medallion.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="ono_yoko">Bag Piece (1964)</artwork>
+    <artwork from="movement" page="fluxus">Licking Piece (1964)</artwork>
+    <artwork from="artist" page="paik_nam_june">TV Bra for Living Sculpture (1975)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Sixteen Dances for Soloist and Company of Three</title>
+      <year>1951</year>
+      <materials />
+      <desc>
+				&lt;i&gt;Sixteen Dances for Soloist and Company of Three&lt;/i&gt; is an essential piece in Cunningham's career, as it was the first time Cunningham employed the use of chance operations in choreographing the production. The dance explores the nine permanent emotions of Indian aesthetics: anger, humour, sorrow, the heroic, the odious, the wondrous, fear, the erotic, and tranquility. Chance dictated the order of appearance of the emotions as well as the order of discrete moves performed by the dancers. Seven of the nine emotions are represented in solos where the body of the dancer temporarily becomes an expressive medium. The last two emotions, however, the erotic and tranquility, are represented by a duet and a quartet, respectively.
+				&lt;br/&gt;&lt;br/&gt;
+				John Cage composed the score &lt;i&gt;Sixteen Dances&lt;/i&gt; for piano and a small orchestra to accompany, and as was often the case, the two worked independently. For each pair of dances, the musicians played eight sounds and then changed the sounds for the next pair, with the effect being that the music sounded totally different at the end of the dance from the way it began. The interdisciplinary nature of the production juxtaposes chance, movement, and sound explorations to create a "chance ballet."
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Variations V</title>
+      <year>1965</year>
+      <materials />
+      <desc>
+				&lt;i&gt;Variations V&lt;/i&gt; embodies the ultimate intermedia collaborative artwork. The collaboration between Cunningham and various artists mixes dance, lighting installations, video, and sound. In many senses, &lt;i&gt;Variations V&lt;/i&gt; moves beyond dance into a multimedia spectacle. The backdrop of the stage featured a collaged film projection by Stan VanDerBeek and overlaid TV distortions by Fluxus artist Nam June Paik. These visual aspects alone had the power to challenge the viewer's sense of perception. To stimulate the senses even further, as dancers neared one of the 12 poles positioned on the stage, the dancer would trigger a sound that would then be manipulated by the musicians John Cage and David Tudor in the 1965 production. Cunningham envisioned a non-narrative dance that establishes a relation between the dancers and their visual and sonic environment. The corporeal movements of the dancers, instead of reflecting and illustrating a pre-established narrative, activate the composition that the spectators hear.
+				&lt;br/&gt;&lt;br/&gt;
+				Cunningham subtly inserted Duchampian references into &lt;i&gt;Variations V&lt;/i&gt; through what he calls "non-dance" activities. At various points, Cunningham potted a plant, Dancer Carolyn Brown smashed the pot, while another dancer wrapped a towel around her hair. Both the pot and the towel were connected to microphones and captured the sounds made by these everyday activities. Professor and author Mark Franko links Cunningham's interest in these everyday movements to the Duchampian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt; by arguing "that bodies in ordinary motion are dance readymades." While paying homage to Marcel Duchamp, the Dada-ist instagator of so much later Conceptual art, Cunningham also pioneers a path incorporating video and sound to create a multisensory experience.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Story</title>
+      <year>1963</year>
+      <materials />
+      <desc>
+				In &lt;i&gt;Story&lt;/i&gt;, Cunningham collaborated with Japanese composer Toshi Ichiyanagi, who had studied with John Cage and who was married to Fluxus artist Yoko Ono. Cunningham employed chance to arrange the eighteen sections composed of a series of solos, duos, and trios, but importantly his collaboration with Robert Rauschenberg brought an innovative and unorthodox use of costumes and sets to the production. While Cunningham and Rauschenberg had collaborated in the past, in &lt;i&gt;Story&lt;/i&gt;, Cunningham wanted to further break down the connections between art and life. In designing the sets, Rauschenberg used found objects in the local theater where the piece was performed. According to the Rauschenberg Foundation, "When he could not locate sufficient supplies, Rauschenberg improvised 'living sets.' In Venice, for example, he had an Italian stagehand sweep the stage throughout the performance and in four performances at London's Phoenix Theater, Rauschenberg sat onstage and painted a picture, titled &lt;i&gt;Story&lt;/i&gt;." Similarly, the costumes consisted of basic leotards for the male and female dancers that would be supplemented with second-hand clothes and found items.
+				&lt;br/&gt;&lt;br/&gt;
+				The open-form of the choreography, the changing order of the dances, and the sustained sound composition by Ichiyanagi created an open-ended story that could be retold and interpreted in countless ways. Rauschenberg's interest in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;assemblage&lt;/span&gt; sculpture further underscored Cunningham's interest in chance and the incorporation of everyday life into dance.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Canfield</title>
+      <year>1969</year>
+      <materials />
+      <desc>
+				Named after a card game of solitaire, Cunningham choreographed &lt;i&gt;Canfield&lt;/i&gt; using a deck of playing cards. Assigning a motion to each card and fast and slow movements to the red and black suits, the order of actions was then randomized as cards were chosen. Like many of his dances, &lt;i&gt;Canfield&lt;/i&gt; focuses the audience's attention on the moment. Cunningham said, "You have to love dancing to stick to it. It gives you nothing back, no manuscripts to store away, no paintings to show on walls and maybe hang in museums, no poems to be printed and sold - nothing but that single fleeting moment when you feel alive." Focusing on the moment creates a direct connection between the dancer and the viewer, while maintaining a constant feeling of apprehension and suspense.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Canfield&lt;/i&gt; was made in collaboration with American composer and electronic music pioneer Pauline Oliveros who wrote the sound score and Minimalist sculptor Robert Morris who designed the set. Morris began his artistic career as a dancer and set designer. For Canfield, he created a 25-foot tall column adorned with airplane runway lights that moved across the stage. The dancers wore reflective leotards so they would shimmer when hit by the light. The result of Morris's design, with its glaring lights, was that much of the dance happened in the darkness. Viewers too were left in the dark, anticipating the movement of the dancers. As curator Mary Coyne explains, this collaboration was "a key project within the artist's interest in the spatial and psychological relationship between dancer, viewer, and object."
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Doubletoss</title>
+      <year>1993</year>
+      <materials />
+      <desc>
+				The first dance choreographed after John Cage's death, Cunningham created in &lt;i&gt;Doubletoss&lt;/i&gt; a sense of duality. Critic Deborah Jowit thought the binary was representative of "the dead and the living, often close together," and critic Jack Anderson saw it as duality of "earthy and airy." Originally conceived as two separate dances, Cunningham tossed a series of coins to determine the movements for each dance but then chose to combine the dances into a single production.
+				&lt;br/&gt;&lt;br/&gt;
+				Cunningham designed the set and costumes for the dance himself, and appropriately, each dancer had two costumes, the first being causal clothing and the second more ghostly, white body tights underneath black netting. Similarly, the stage was also divided by a see-through black scrim that the dancers would move around. Dancers in different costumes moved differently; those in simple clothing, according to Anderson, "tend[ed] to move in a firm, deliberate manner. Others, with black netting over their leotards, dart[ed] quickly and airily and occasionally retreat[ed] behind a scrim at the back of the stage, as if gathering in their own private domain." And importantly, the dancers sometimes traded costumes, thus dancing in each role. The composer Takehisa Kosugi's electronic score of sounds and chirps added to the enchantment of the production.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Interscape</title>
+      <year>2000</year>
+      <materials />
+      <desc>
+				In &lt;i&gt;Interscape&lt;/i&gt;, Cunningham reprised John Cage's 1991 score for a solo cello and enlisted his long-time friend and collaborator Robert Rauschenberg to design the costumes and the set. The piece offers a visually striking scenario to the viewer: the front curtain is a photomontage of black and white images while the backdrop features the same images in color, which he titled &lt;i&gt;Interscape Mirage&lt;/i&gt;. Rauschenberg maximized the visually stimulating effect by dressing the dancers in bright, variously colored leotards. As usual, Rauschenberg and Cunningham worked separately, but Cunningham explained, "Light or luminosity is created by the way elements are juxtaposed. They become reflective and a radiance comes from putting different things together." This radiant light was at the heart of all of Cunningham's collaborations.
+				&lt;br/&gt;&lt;br/&gt;
+				Cunningham planned the choreography as a series of duets and trios, and occassionally, larger groups leap across the stage. Recurring gestures, such as linking arms, back to back dancing, and shifting weight, appear as a series of compositional themes, but the dancers' movements rarely align in visual harmony. As critic Sid Smith described, "Overriding &lt;i&gt;Interscape&lt;/i&gt; is an insistence that life is mostly disjointed, unbalanced and not pretty. Symmetry erupts only in flashes." Longer than many of his other choreographies, &lt;i&gt;Interscape&lt;/i&gt; offers a deeper vision on the variety of chance operations and unexpected moments.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>graham_martha</entity>
+        <entity>duchamp_marcel</entity>
+      </column>
+      <column>
+        <entity>cage_john</entity>
+        <entity>tudor_david</entity>
+        <entity>de_kooning_elaine</entity>
+        <entity>guston_philip</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>surrealism</entity>
+        <entity>neo_dada</entity>
+        <entity alt="New Media">new_media</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Mark Morris">morris_mark</entity>
+        <entity alt="Beth Gill">gill_beth</entity>
+        <entity alt="Robert Wilson">wilson_robert</entity>
+      </column>
+      <column>
+        <entity>rauschenberg_robert</entity>
+        <entity>johns_jasper</entity>
+        <entity>morris_robert</entity>
+        <entity>nauman_bruce</entity>
+      </column>
+      <column>
+        <entity>conceptual_art</entity>
+        <entity>minimalism</entity>
+        <entity>performance_art</entity>
+        <entity alt="American Modern Dance">american_modern_dance</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Merce Cunningham: Common Time</title>
+          <link>1935963147</link>
+          <info>By Fionn Meade and Joan Rothfuss</info>
+        </entry>
+        <entry>
+          <title>Between You and Me: Queer Disclosures in the New York Art World</title>
+          <link>0822334984</link>
+          <info>By Gavin Butt</info>
+        </entry>
+        <entry>
+          <title>Merce Cunningham: Fifty Years</title>
+          <link>0893816248</link>
+          <info>By David Vaughan</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Changes: Notes on Choreography</title>
+          <link>B000OK5X8A</link>
+          <info>By Merce Cunningham</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Merce Cunningham: The Modernizing of Modern Dance</title>
+          <link>0415965756</link>
+          <info>By Roger Copeland</info>
+        </entry>
+        <entry>
+          <title>Merce Cunningham: Creative Elements</title>
+          <link>3718658348</link>
+          <info>By David Vaughan</info>
+        </entry>
+        <entry recommended="true">
+          <title>Merce Cunningham: Dancing in Space and Time</title>
+          <link>0306808773</link>
+          <info>By Richard Kostelanetz</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Cunningham Fund (official website)</title>
+          <link>https://mercecunningham.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Interscape, 2000 | Robert Rauschenberg Foundation</title>
+          <link>https://www.rauschenbergfoundation.org/art/archive/photo1269</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>"He said two things to me in five years. And one was thanks for the cheese" – Merce Cunningham remembered</title>
+          <link>https://www.theguardian.com/stage/2019/apr/15/merce-cunningham-dance-centenary-pupils-recall-teacher</link>
+          <info>
+						By  Lyndsey Winship
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						April 15, 2019
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cage and Cunningham, Reunited, Restaged: Cage and Cunningham at the Baryshnikov Arts Center</title>
+          <link>https://www.nytimes.com/2012/03/24/arts/dance/cage-and-cunningham-at-the-baryshnikov-arts-center.html</link>
+          <info>
+						By Alastair Macaulay
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						March 23, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Ten Things You Might Not Know About Merce Cunningham</title>
+          <link>http://www.anothermag.com/art-photography/8514/ten-things-you-might-not-know-about-merce-cunningham</link>
+          <info>
+						By Maisie Skidmore
+						&lt;br&gt;
+						AnOther Magazine 
+						&lt;br&gt;
+						March 23, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Why Can't the Art World Embrace Robert Rauschenberg's Queer Community?</title>
+          <link>https://www.artsy.net/article/artsy-editorial-art-embrace-robert-rauschenbergs-queer-community</link>
+          <info>
+						By Zachary Small
+						&lt;br&gt;
+						Artsy 
+						&lt;br&gt;
+						May 19, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Thinking Body, The Moving Mind: What I Learned From Merce Cunningham About Psychology</title>
+          <link>https://www.psychologytoday.com/us/blog/psychoanalysis-30/201201/the-thinking-body-the-moving-mind-what-i-learned-merce-cunningham</link>
+          <info>
+						By Susan Kolod, Ph.D.
+						&lt;br&gt;
+						Psychology Today 
+						&lt;br&gt;
+						January 01, 2012
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Must Identity Movements Self-Destruct? A Queer Dilemma</title>
+          <link>https://www.jstor.org/stable/3096854?seq=1#page_scan_tab_contents</link>
+          <info>
+						By Joshua Gamson
+						&lt;br&gt;
+						Social Problems 
+						&lt;br&gt;
+						August 1995
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>John Cage, Sixteen Dances</title>
+          <link>https://www.youtube.com/watch?v=34cZOF6qswU</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Variations V</title>
+          <link>https://vimeo.com/85158350</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

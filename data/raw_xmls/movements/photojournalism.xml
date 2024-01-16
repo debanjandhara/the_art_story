@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>photojournalism</id>
+    <name>Photojournalism</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1853 - Present</years>
+    <description>Photojournalism conveys the urgency of current news stories through pictures, in a style that may also be well-qualify as art.</description>
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1853</start>
+    <art_type>Photos</art_type>
+    <pub_time>3/25/2019</pub_time>
+    <big_bio_box_img>Detail of &lt;i&gt;D-Day from the Boat&lt;/i&gt; by photojournalist Herman V. Wall.</big_bio_box_img>
+    <bio_highlight>The role of the photojournalist can be incredibly dangerous. More than 1,000 photojournalists have died internationally since 1992 as they risk attack, retribution and kidnap to present the world with powerful images from the front line of conflict and danger. </bio_highlight>
+  </main>
+  <similar_artists>
+    <artist>cartier_bresson_henri</artist>
+    <artist>beaton_cecil</artist>
+    <artist>weegee</artist>
+    <artist>capa_robert</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>documentary_photography</movement>
+    <movement>straight_photography</movement>
+    <movement>fashion_photography</movement>
+    <movement>social_realism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>straight_photography</entry>
+    <entry>social_realism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="mccullin_don" alt="Don McCullin">"Photography for me is not looking, it's feeling. If you can't feel what you're looking at, then you're never going to get others to feel anything when they look at your pictures."</q>
+    <q author="Don McCullin">"I only use a camera like I use a toothbrush. It does a job."</q>
+    <q author="James Nachtwey">"To create pictures powerful enough to overcome the diluting effects of the mass media, to shake people out of their indifference."</q>
+    <q author="James Nachtwey">"To create pictures powerful enough to overcome the diluting effects of the mass media, to shake people out of their indifference."</q>
+    <q author="David Seymour">"We are only trying to tell a story. Let the 17th-century painters worry about the effects. We've got to tell it now, let the news in, show the hungry face, the broken land, anything so that those who are comfortable may be moved a little."</q>
+    <q author="Robert Capa">"Go forward with the label of photojournalist and keep the rest in your heart."</q>
+    <q author="Robert Capa">"If your pictures are not good enough, you are not close enough."</q>
+    <q author="Henri Cartier-Bresson">"To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event as well as of a precise organization of forms, which give that event its proper expression."</q>
+    <q author="Henri Cartier-Bresson">"I am a visual man. I watch, watch, watch. I understand things through my eyes."</q>
+    <q author="Josef Koudelka">"You cannot rely on your memories - but you can rely on your pictures."</q>
+    <q author="Josef Koudelka">"For me, it was just important to photograph what I was part of."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Though one might be forgiven for sometimes confusing it with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-documentary_photography"&gt;Documentary&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-street_photography"&gt;Street Photography&lt;/span&gt;, Photojournalism possesses a vitality and a force all of its own. At its most rudimentary, Photojournalism is the practice of conveying the urgency of current news stories through pictures. It is true that a photojournalistic image can sometimes be left to speak for itself, but more usually it develops a narrative in conjunction with a written text; a comingling, in other words, of photography and journalism. Photojournalism is the lifeblood of the daily press, but it is associated predominantly with the rise of dedicated photo magazines and their preference for the so-called "photo-essay".
+			&lt;br/&gt;&lt;br/&gt;
+			Photojournalism deals with important, or newsworthy, subject matter, and its two overarching themes are world events and social injustice. Given, moreover, that photojournalists are usually committed to exposing wrongs, photojournalism is predicated on an unwritten code of practice that states that - if it is to adhere to the very highest standards of journalistic objectivity - the image must not be staged or manipulated. These rules are easier to apply to live action photography, however, and in actual practice the codes of practice can be bent where the urgency of the situation has demanded it. And while photojournalistic images tend to be very much "of the moment," Photojournalism has become instrumental in how we have come to view the last 170 years of world history.
+		</synopsys>
+    <key_ideas>
+      <idea>At basis, Photojournalism performs an important civic duty. Based on the premise that one always trusts the evidence of one's own eyes, it is Photojournalism's job to inform the public by showing the world "how it is in reality." The image, therefore, confirms the content of any accompanying written text (or vice-versa indeed).</idea>
+      <idea>It is true that some exceptional photojournalists have achieved the status of "artists" - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lange_dorothea"&gt;Dorothea Lange&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothstein_arthur"&gt;Arthur Rothstein&lt;/span&gt; for instance - but typically Photojournalism does not sit comfortably within the sphere of modern &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_photography"&gt;art photography&lt;/span&gt;. Photojournalists are more likely to earn the respect of their peers and the public as intrepid buccaneers willing to put their own safety at risk in order to capture the truest images.</idea>
+      <idea>Since they can both aim at exposing social and/or humanitarian injustices, Photojournalism can certainly qualify as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-documentary_photography"&gt;Documentary Photography&lt;/span&gt;. But unlike documentary, photojournalism tends to be investigative and unrehearsed. Photojournalism relies very much on an opportunistic snapshot principle for its effect whereas Documentary Photography is more typically the result of planning and considered composition.</idea>
+      <idea>The photojournalist seeks to capture a moment - or a split second (the "decisive moment" as Henri Cartier-Bresson called it) - that would have, without their daring and endeavour, gone unnoticed. There is then sometimes a guerrilla element to photojournalism, especially so where the photojournalist is operating incognito or within a war zone.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="img" alt="1843, Henry Fox Talbot uses his Calotype camera to “inform the public” on the construction of The Nelson Column monument in London's Trafalgar Square." show="1">/images20/photo/photo_photojournalism_1.jpg</p>
+          <p type="p">The first cameras were seen as little more than machines for documenting reality. Early pioneers such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daguerre_louis"&gt;Louis Daguerre&lt;/span&gt; and Henry Fox-Talbot used their cameras to either produce studio portraits or to photograph public spaces and landmarks and the realization that photography could be used to inform the public emerged soon thereafter. The first true Photojournalism, however, is usually attributed to Carol Szathmari and Roger Fenton who used their cameras to document the Crimean War (1853-56). Szathmari, a Romanian painter, became a war photographer when, on his own initiative, he outfitted a wagon with a dark room and headed first to the banks of the Danube River, and onward then, to other Crimean battlefields. He exhibited approximately 200 war photographs at the 1855 Paris World Exhibition to great acclaim and was subsequently appointed Court Painter and Photographer for Romania in 1863.</p>
+          <p type="img" alt="Roger Fenton photographs his colleague Marcus Sparling seated on Fenton's mobile darkroom in Crimea in 1854." show="1">/images20/photo/photo_photojournalism_2.jpg</p>
+          <p type="p">In 1854, meanwhile, the British photographer, Roger Fenton, urged by Prince Albert and the British Secretary of War, headed for Crimea. The British government hoped that photographic images might boost the people's moral support for the unpopular war effort. Fenton's desolate landscape, &lt;i&gt;The Valley of the Shadow of Death&lt;/i&gt;, became his most famous photograph. The location, near Sevastopol, was known as "The Valley of Death" after the elite British Light Brigade sustained heavy casualties when ordered to charge a heavily fortified Russian position that overlooked the valley. Fenton's image resonated with the British public as did his panoramic images. For the latter, Fenton had set up a camera in a chosen location and then rotated it for a series of shots which rendered - in pictures - the experience being on the front lines. Fenton's photographs appeared in the &lt;i&gt;Illustrated London News&lt;/i&gt; in 1855 and were also put on public display widely throughout England. Fenton also presented his work to Queen Victoria, the French Emperor Napoleon III, and other royal dignitaries who quickly realized the important role Photojournalism could play in forming a national consciousness.</p>
+        </subsection>
+        <subsection title="The American Civil War and Matthew Brady">
+          <p type="img" alt="Matthew Brady with members of his photographic team pictured while covering the American Civil War." show="1">/images20/photo/photo_photojournalism_3.jpg</p>
+          <p type="p">Matthew Brady was an acclaimed New York portrait photographer and one of the first to launch his own studio in 1845. The outbreak of the American Civil War in 1861 created a new demand amongst his clients for photographs of conscripted relatives leading Brady to develop an interest in war photography.</p>
+          <p type="p">It was President Abraham Lincoln no less who granted Brady permission to travel to battle scenes (with the caveat that Brady cover his own expenses). Brady assembled a team of 24 photographers whose photographs of the First Battle of Bull Run became especially well known, with several being published in &lt;i&gt;Harper's Weekly&lt;/i&gt;. Though they offended the tastes of the public at large, &lt;i&gt;The New York Times&lt;/i&gt; commented that "The faithful camera...has written the true history of the war. It is not merely what these representations are to us, but what they will be to those who come after us."</p>
+        </subsection>
+        <subsection title="Social Documentary">
+          <p type="p">At the start of the 1860s, a major trend in Photojournalism emerged with the camera being employed as a tool to highlight the plight of the poor and needy in industrial societies. Having travelled with his camera throughout Southeast Asia and China (the idea of colonial photography, and the colonial "postcard" in particular, becoming a field of photography in its own right), the Englishman John Thomson returned home in 1872 when he used his camera to expose social inequalities in Victorian England. His famous collection, &lt;i&gt;Street Life in London&lt;/i&gt;, comprised of 37 photographs, was supported by essays by Adolph Smith Headingly and is often cited as among the first to match written essays with photographic images.</p>
+          <p type="img" alt="In 1877 Jacob Riis used his camera to expose a world of crime and poverty of New York City's East Side slum district." show="1">/images20/photo/photo_photojournalism_4.jpg</p>
+          <p type="p">In the United States meanwhile the photographer Jacob Riis (know as an innovator in flash photography) documented the grave living conditions in the tenements of New York City. A Danish émigré, Riis found work as a journalist, a newspaper editor, and a police reporter and was a strong advocate of social reform. Eighteen of his photographs appeared in a photo essay "How the Other Half Lives" in &lt;i&gt;Scribner Magazine'&lt;/i&gt;s 1889 Christmas edition and included images like &lt;i&gt;Bandit's Roost&lt;/i&gt; (1888), which depicts a number of shadowy men standing along a narrow street which was located in the most crime-ridden area of New York City.</p>
+        </subsection>
+        <subsection title="The “Golden Age” of Photojournalism">
+          <p type="p">The work of Fenton, Brady, Thompson, Riis and the like helped establish the conventions of Photojournalism. And though it is problematic to speak of a "golden age" for a genre that tends to focus on human suffering, the so-called "golden age" of Photojournalism began, nevertheless, around 1930. Lasting a period of roughly 30 years, it has come to be considered exceptional because it gave rise to several noted photographers who between them helped expand the genre by exploiting innovations in camera technology. The "golden age" also coincided with the rise of popular photographic magazines like &lt;i&gt;LIFE, Look&lt;/i&gt;, &lt;i&gt;Regards&lt;/i&gt;, and &lt;i&gt;Paris Match&lt;/i&gt; all of which carried the work of distinguished photojournalists.</p>
+          <p type="p">The development of portable cameras with faster exposure times, including the Filmo 70 16mm movie camera and the 35mm Leica, gave photographers more mobility and a better chance of capturing live action. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-capa_robert"&gt;Robert Capa&lt;/span&gt; became the pre-eminent war photographer of his generation and remains best known internationally for &lt;i&gt;The Falling Soldier&lt;/i&gt; (1936); a photograph that caught the instant when a Republic soldier in the Spanish Civil War was felled by an enemy bullet. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt;, meanwhile, earned the title of "father of Photojournalism" thanks to his uncanny ability to freeze noteworthy events in what became known as his "decisive moment". The Frenchman covered occasions ranging from the coronations of King George VI and Queen Elizabeth II, to the Occupation and Liberation of France during and after World War II.</p>
+        </subsection>
+        <subsection title="Social Documentary in the 1930s">
+          <p type="p">In the 1930s, Social Documentary was an expansive artistic movement that welcomed photojournalists into its ranks. Between 1935 and 1944 Photojournalism in the US was exemplified by projects undertaken under the auspices of the Farm Security Administration (FSA). The purpose of the FSA project was to highlight rural (rather than urban) poverty and it brought international recognition to the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lange_dorothea"&gt;Dorothea Lange&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-evans_walker"&gt;Walker Evans&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothstein_arthur"&gt;Arthur Rothstein&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-parks_gordon"&gt;Gordon Parks&lt;/span&gt;. Major national disasters like the Dust Bowl drought and the Great Depression, events driven by weather patterns and economic situations respectively, were shown through the personal impact they had had on individuals. The success of the FSA project was such that magazines such as &lt;i&gt;LIFE&lt;/i&gt; employed staff photographers such as Margaret Bourke-White to cover events of national significance (such as the flooding of Louisville, Kentucky in 1935).</p>
+        </subsection>
+        <subsection title="World War II">
+          <p type="p">Following the rise of Nazism, photojournalists turned primarily towards documenting the turmoil of WWII. Bourke-White was the only Western photographer to witness the German attack on Moscow - known as the "Battle of Moscow" - in 1941 and she was the first woman to accompany US Air Corps crews on bombing missions in 1942. She also travelled with General Patton through Germany as his armies liberated a number of concentration camps. Between 1941- 46, Robert Capa (the Hungarian had relocated to New York from Paris where he had been a colleague of Cartier-Bresson) worked as a freelance photographer and war correspondent for &lt;i&gt;LIFE&lt;/i&gt; and &lt;i&gt;Collier's&lt;/i&gt; magazine. He was the only official American photographer to accompany the Allied troops on the D-Day landings and he also covered Allied victories in North Africa, and the Allied seizure of Leipzig, Nuremberg, and Berlin.</p>
+        </subsection>
+        <subsection title="The Magnum Photographic Agency">
+          <p type="p">In 1947, Capa, Cartier-Bresson, George Rodger, William Vandivert and David "Chim" Seymour formed a photographic cooperative that gave its members the freedom to photograph (and to own the copyright of) what they saw rather than be beholden to the demands of magazine editors. Magnum's mission statement proclaimed to "feel the pulse of the times," and it launched a number of long-running photographic projects including &lt;i&gt;People Live Everywhere&lt;/i&gt;, &lt;i&gt;Youth of the World&lt;/i&gt;, &lt;i&gt;Women of the World&lt;/i&gt; and &lt;i&gt;The Child Generation&lt;/i&gt;. Photographic coverage of geographical areas was split meanwhile among the core group: Roger covered Africa and the Middle East; "Chim" covered Europe; Cartier-Bresson covered China and India while America became Vandivert's territory. Capa was the exception, more a free-roaming figure was who would work worldwide. Each of the photographers became associated with their coverage of subsequent events, as was the case for instance with Cartier-Bresson who covered the assassination and funeral of Mahatma Gandhi in 1949.</p>
+        </subsection>
+        <subsection title="Technology and Innovation">
+          <p type="p">Given the need for long exposure times, and the need to place their camera on a tripod, the early war photographs by the likes of Fenton and Brady were of a somewhat static quality. Their images were largely restricted to pictures of military camps, generals in their tents, or decimated battlefields. The photographs of Thomson and Riis also lacked any real sense of mobility but their capacity to shoot in under lit urban environments was made possible by the development of a flash mechanism. The pocket Kodak was available from the late nineteenth century but lacked professional quality. That was remedied between the mid-1920s and mid-1930s when the Leica 35mm compact and the Filmo 70 16mm movie cameras brought with them a new sense of liberation. War photojournalists like Gerda Taro and Robert Capa could film battle scenes as they happened, and photographic coverage of conflict, whether war or civil unrest, began to dominate the news.</p>
+          <p type="p">Technology has continued to change Photojournalism with the development of the smart phone and the ability to upload images almost instantaneously to the web. The &lt;i&gt;New York Times&lt;/i&gt; and &lt;i&gt;Washington Post&lt;/i&gt; both ran headline images taken by ordinary citizens on their camera phones during the 2005 London bombing. In 2013 the &lt;i&gt;Chicago Tribune&lt;/i&gt; laid off their photojournalistic staff, including John H. White whose work had previously won a Pulitzer prize, and began using freelance photographers who were trained to use an iPhone. Due to the technology of the camera phone, a new kind of everyman-photojournalist has resulted.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Trends">
+        <subsection title="The “Photo-essay”">
+          <p type="p">With the rise of many photo magazines, and the overall turn of the medium to a greater reliance on imagery, the so-called "photo-essay" became a popular method for covering news and human interest stories. On the one hand, photo-essays focused on events of national significance; on the other, photo-essays reflected a humanist perspective (and sometimes the two would overlap). Most of the noted photojournalists working in the mid-to-late-twentieth century - including W. Eugene Smith, Cartier-Bresson, Dorothea Lange, and more recently, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koudelka_josef"&gt;Josef Koudelka&lt;/span&gt;, Sebastião Salgado, and Gabriela Iturbide - have worked (or continue to work) at one time or another in the photo-essay format. When &lt;i&gt;LIFE&lt;/i&gt; magazine suspended publication in 1972, various critics felt that the photo-essay was dead, but, in fact, it has remained a viable form, though more so in book publications and exhibitions.</p>
+        </subsection>
+        <subsection title="Standards in Photojournalism">
+          <p type="img" alt="Steve McCurry's famous 1984 cover for National Geographic - which McCurry allegedly had to reshoot, literally making the train go back as the first shot was not sharp enough." show="1">/images20/photo/photo_photojournalism_5.jpg</p>
+          <p type="p">Given its integral relationship with journalism, Photojournalism came under the rule of the same ethical codes. In the years following World War II, quality Photojournalism insisted on a number of stipulations: no posing or posturing, no artificial lighting, no manipulation of the scene, and no darkroom manipulation beyond cropping or lightening and darkening. All manipulation cast aspersions upon the status of the photograph and, by extension, the reputation of the photographer. In the modern era, early examples of Photojournalism (including Fenton's &lt;i&gt;Valley of the Shadow of Death&lt;/i&gt;) have been subject to revision as questions concerning image authenticity have become more pressing.</p>
+          <p type="p">The matter of truthfulness continues to be a professional concern in contemporary Photojournalism. However, the pressure to act as an objective onlooker has often been at odds with the photographer's humanitarian instincts. The South African photographer Kevin Carter became well known for his &lt;i&gt;The Vulture and the Little Girl&lt;/i&gt; (1993) that shows a famine stricken Sudanese child (who was in fact a boy) being stalked by a vulture. When the image appeared in &lt;i&gt;The New York Times&lt;/i&gt;, there was a justifiable public outcry as many readers felt that Carter had a moral duty to go to the child's aid (which he did) &lt;i&gt;before&lt;/i&gt; taking his photograph.</p>
+        </subsection>
+        <subsection title="Issues of Censorship and Risk">
+          <p type="p">Photojournalists are faced with the same fundamental problem as street photographers: that being the moral quandary of exploiting the lives of strangers for their own gain. However, those in conflict zones will often encounter people suffering in the most wretched of situations, and where that is the case, then the photojournalist can rationalize their actions given that they have undertaken to bring a particular human or political crisis to the attention of the wider world. Yet what is truly unique to the photojournalist covering political unrest or war is the element of personal risk from imprisonment and even injury or death. Indeed, Capa, Taro, and "Chim" all died while photographing combat situations. There can be a psychological cost too. Carter, stating in his suicide note that he was "haunted by the vivid memories," took his own life just four months after winning the 1994 "Pulitzer Prize for Feature Photography" for &lt;i&gt;The vulture and the little girl&lt;/i&gt;.</p>
+          <p type="p">Reporting on the death in Syria of the American foreign affairs correspondent and British journalist Marie Colvin in 2016, Tom Seymour of &lt;i&gt;The Guardian&lt;/i&gt; noted that, since 1992, some 1,197 photojournalists had lost their lives in conflict situations. Seymour had put this depressing statistic down to the fact that all the major news publications had closed down their foreign bureaus and had come to "rely more and more on independent photographers working without the backing of a large organisation and on a shoestring budget" with the result that photojournalists were now even "targeted as enemy combatants."</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="New Journalism">
+          <p type="p">In 1973 Tom Wolfe edited the anthology &lt;i&gt;The New Journalism&lt;/i&gt;, a term coined by Wolfe to describe a style of journalism that reported on a broad range of subject matter over an extended period of time. New Journalism, sometimes referred to as "literary journalism," could be less objective and adopt an experiential or interpretative approach to factual material. Examples of "New Photojournalism" can be found in the photo-essay approach of Eugene and Aileen Smith's &lt;i&gt;Minamata&lt;/i&gt; (1975), which documented the effects of methyl-mercury poisoning on inhabitants of the Japanese village of the same name, and Lauren Greenfield' s &lt;i&gt;Girl Culture&lt;/i&gt; (2002) which explores the lives of modern American girls through the theme of identity and self-image.</p>
+          <p type="p">Mary Ellen Mark's &lt;i&gt;Streetwise&lt;/i&gt; (1988) meanwhile started as commissioned project but Mark struck up an intense relationship with the street children of Seattle, one of whom was a thirteen-year-old prostitute nicknamed "Tiny." Indeed, having turned down her offer of adoption, Mark consistently returned to photograph her "confidant and friend" until the photographer's death in 2015.</p>
+        </subsection>
+        <subsection title="Photojournalism and Visual Culture">
+          <p type="p">At its most rudimental, Photojournalism is a means of telling news stories with pictures. It is then highly problematic to talk of Photojournalism as art. And yet, &lt;i&gt;like art&lt;/i&gt;, photojournalism has the power to transform the way people see the world. It is true that several noted photojournalists have been trailblazers in other photographic movements. Cartier-Bresson's work, as both a photojournalist and street photographer, set the standard for both fields for several decades, while iconic images produced in the name of the FSA saw the likes of Walker Evans, Gordon Parks, and Dorothea Lange attain the status of artist. However, Photojournalism has provided inspiration for artists working in the late-1970s and 1980s such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-levine_sherrie"&gt;Sherrie Levine&lt;/span&gt; whose conceptual art directly copied Evan's iconic image of Allie Mae Burroughs. Levine, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sherman_cindy"&gt;Cindy Sherman&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-prince_richard"&gt;Richard Prince&lt;/span&gt;, used photography to examine the codes of representation and meaning through manipulation and appropriation of existing material including Photojournalism. Their work became landmarks of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodernism&lt;/span&gt;. Other artists, including Sam Samore, Anne Collier, and Simon Brann Thorpe, have also drawn upon the history of Photojournalism to inform their art. Thorpe's &lt;i&gt;Toy Soldier No. 61 The Falling Soldier&lt;/i&gt; (2015), for instance, references Capa's &lt;i&gt;Falling Soldier&lt;/i&gt; in a project where real soldiers posed as plastic toy soldiers in the Sahara Desert as a way of exploring forgotten conflicts (in the Western Sahara in this instance) and how modern spectators have become desensitized by exposure to so many images of death and suffering.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="documentary_photography">Addie Card, 12 years. Spinner in North Pormal Cotton Mill (1910)</artwork>
+    <artwork from="artist" page="sander_august">Matter (c. 1925-7)</artwork>
+    <artwork from="artist" page="frank_robert">Trolley - New Orleans (1955)</artwork>
+  </similar_artworks>
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Valley of the Shadow of Death</title>
+      <use_big_image>true</use_big_image>
+      <artist>Robert Fenton</artist>
+      <year>1885</year>
+      <materials>Salted paper print</materials>
+      <desc>
+				Fenton's image, which depicts a ravine in a desolate landscape beneath a bleak empty sky, is populated only with cannonballs. Strewn along the road on the right, and filling the ditch between the road and two paths on the left, the cannonballs are meant to represent British casualties of the Crimean war. The perspective of the photograph, looking up toward the sloping hills and around the incline of the road, captures something of the sense of hopelessness at being trapped in a valley under enemy fire from above. As Fenton described it: "the sight passed all imagination: round shot and shell lay like a stream at the bottom of the hollow all the way down, you could not walk without treading upon them."
+				&lt;br/&gt;&lt;br/&gt;
+				This barren war landscape would have resonated with the British national consciousness. Most had heard the story of "The Charge of the Light Brigade," an elite cavalry unit that sustained heavy casualties when ordered to charge through the Valley of the Shadow of Death toward fortified Russian artillery on October 25, 1854. The event was commemorated in a poem of the same title by Alfred Lord Tennyson, the poet laureate. The location in this photograph is of a similar but different ravine, and the image came to represent the heroism and tragedy of war.
+				&lt;br/&gt;&lt;br/&gt;
+				It transpired, however, that Fenton photographed the ravine on two separate occasions. Subsequently, controversy developed as to whether some of the cannonballs were placed to make a better second image. Thus, while the image remains of great historical significance, it is also attended by the issue of authenticity which underscores all judgements on the value of Photojournalism.
+			</desc>
+      <collection>J. Paul Getty Museum, Los Angeles California</collection>
+    </artwork>
+    <artwork>
+      <title>A Harvest of Death, Gettysburg, Pennsylvania, July 4, 1863</title>
+      <use_big_image>true</use_big_image>
+      <artist>Timothy H. O'Sullivan</artist>
+      <year>1863</year>
+      <materials>Albumen silver print</materials>
+      <desc>
+				This image, possibly the best known of Brady's Civil War photographs, depicts dead soldiers scattered on the battlefield after the Battle of Gettysburg, which took place between July 1-3, 1863. The photograph was included in Alexander Gardner's, &lt;i&gt;Photographic Sketch Book of the War&lt;/i&gt; (1866), with text that read: "it was, indeed, a 'harvest of death' that was presented; hundreds and thousands of torn Union and rebel soldiers - although many of the former were already interred - strewed the now quiet fighting ground." The image was preceded by Gardner's hope that "Such a picture conveys a useful moral: It shows the blank horror and reality of war, in opposition to its pageantry. Here are the dreadful details! Let them aid in preventing such another calamity."
+				&lt;br/&gt;&lt;br/&gt;
+				During the Civil War, though photographs were taken of the dead, sometimes even in the stages of decomposition, newspapers and journals refused to publish them. It was only in books like Gardner's that the images were available to the public. Viewers, used to heroic depictions of war presented in paintings, were shocked by images like this one. The collected works showed the power of photography to depict history in the making. As &lt;i&gt;The New York Times&lt;/i&gt; said of the book, "The faithful camera [...] has written the true history of the war."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Crawlers</title>
+      <use_big_image>true</use_big_image>
+      <artist>John Thomson</artist>
+      <year>1877</year>
+      <materials>Woodbury type</materials>
+      <desc>
+				This picture depicts a destitute middle-aged woman holding a sleeping child on her lap, as she rests on a doorstep. &lt;i&gt;The Crawlers&lt;/i&gt; was intended to communicate the dire situation of London's poor and to advocate a call for social change. The image was one of 36 published in &lt;i&gt;Street Life in London&lt;/i&gt; (1877) with the writer Adolphe Smith Headingly's text relating the story of how the woman, through circumstances beyond her control, "descended penniless into the street." Using photographs to uphold the arguments presented by the text, the book helped pioneer the concept of the photo-essay.
+				&lt;br/&gt;&lt;br/&gt;
+				Thomson and Smith were both social reformers and hoped that their work would convince their readers that homelessness was "often, the result of unfortunate circumstances and accident." The image conveys the woman's exhaustion and also her solicitude for the child. In their introduction to the book, the co-authors championed "the precision of photography" and its ability to "present true types of the London poor and [to] shield us [the authors] from accusations of either underrating or exaggerating individual peculiarities of appearance."
+			</desc>
+      <collection>Victoria and Albert Museum, London England</collection>
+    </artwork>
+    <artwork>
+      <title>Farmer and Sons Walking in the Face of a Dust Storm, Cimarron County, Oklahoma, April 1936</title>
+      <use_big_image>true</use_big_image>
+      <artist>Arthur Rothstein</artist>
+      <year>1936</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This iconic image depicts Arthur Cobel, a farmer and his two sons walking toward their simple shack in a dust storm on the Southern Plains of Oklahoma. The dust is so dense that the horizon is a blur, and the accumulated sand has built up in drifts so that the fence posts are now shorter than the young boy who runs along behind (with his hands protecting his face from the dust). Rothstein said of this photograph, "It was a picture that had a very simple kind of composition, but [...] it showed an individual in relation to his environment."
+				&lt;br/&gt;&lt;br/&gt;
+				Arthur Rothstein was the first photographer appointed by the Farm Security Administration (FSA), a project that was meant to build support for the social reforms of the Roosevelt Administration. Here he documents the devastating effects of the Dust Bowl of the 1930s, a phenomenon caused by a combination of a severe drought and over farming, that lasted eight years and devastated livestock and crops. Rothstein's career extended over some five decades. Working for &lt;i&gt;Look&lt;/i&gt; magazine first as a photographer, and subsequently as its director of photography, in later years he became a respected teacher who schooled the renowned filmmaker Stanley Kubrick.
+			</desc>
+      <collection>Amon Carter Museum, Fort Worth, Texas</collection>
+    </artwork>
+    <artwork>
+      <title>The Falling Soldier</title>
+      <artist>Frank Capa</artist>
+      <year>1936</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				As its original title confirms, Capa's most iconic image captures the "moment of death." The falling soldier is a loyalist militiaman fighting the Spanish Civil War and he has been struck in the forehead by a bullet; he falls backwards as his own rifle slips from his hand. Prior to Capa's photograph, war photography had often depicted stationary scenes of armaments, encampments, or the aftermath of battles. Shockingly brutal in its depiction of the realities of war, &lt;i&gt;The Falling Soldier&lt;/i&gt; (originally titled: &lt;i&gt;Loyalist Militiaman at the Moment of Death, Cerro Muriano, September 5, 1936&lt;/i&gt;) earned Capa the accolade "the greatest war photographer in the world" and duly set a new standard for authentic war photography.
+				&lt;br/&gt;&lt;br/&gt;
+				As Photojournalism emphasizes the accurate depiction of newsworthy events, questions of authenticity (more so than artistic merit) are of crucial importance. Thus, a hint of controversy developed around the identity of the soldier, the precise location of the photograph, and the circumstances under which it was taken. It wasn't until the 1990s that the man's identity was confirmed by his surviving brother, and military accounts recording the event of the man's death confirmed the picture's authenticity. However, other controversies persist around the potentially disconcerting effects of the photojournalistic image itself and how it impacts on the lives of the people it directly affects. These were not issues that concerned Cartier-Bresson who viewed Capa, with whom he later cofounded the Magnum agency in 1947, as a mentor and a voice of conscience.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Louisville Flood</title>
+      <artist>Margaret Bourke-White</artist>
+      <year>1937</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Bourke-White began her career in the early 1930s, and in 1937 when the Ohio River flooded Louisville Kentucky, she was sent to the area as a staff photographer for &lt;i&gt;LIFE&lt;/i&gt; magazine. Documenting what was one of the largest natural disasters in the history of the United States, Bourke-White's images offered a commentary on racial and economic inequity. This photograph depicts African-Americans queuing outside a flood relief agency in front of a billboard that depicts a cheerful white middle-class family in their car. The billboard's heading "World's Highest Standard of Living," and the slogan "There's no way like the American Way," can be treated with ironic scepticism given the reality that is playing out in front of the billboard.
+			</desc>
+      <collection>Whitney Museum of American Art, New York New York</collection>
+    </artwork>
+    <artwork>
+      <title>FRANCE. Normandy. June 6th, 1944. US troops assault Omaha Beach during the D-Day landings (first assault)</title>
+      <artist>Robert Capa</artist>
+      <year>1944</year>
+      <materials>Film negative</materials>
+      <desc>
+				This photograph captures a single instance of the D-Day invasion as Allied forces came ashore during the Normandy beach landing. The image focuses on a single soldier, who lies prone in the water as he looks towards shore, his gun extended in front of him. In the background, troop carriers can be seen, and objects - perhaps dead soldiers - float in the water. The blurriness of the photo, due to the photographer's position in the water, and the terror of being under artillery fire himself, conveys the utter chaos of the scene. Capa took over a hundred photos of the D-Day invasion, but a processing accident at &lt;i&gt;LIFE&lt;/i&gt; magazine's London darkroom destroyed all but eleven of them. Dubbed the &lt;i&gt;Magnificent Eleven&lt;/i&gt;, the images inspired Steven Spielberg's 1998 movie &lt;i&gt;Saving Private Ryan&lt;/i&gt;. The film represented the Omaha Beach assault through a 27 minute opening sequence that many critics consider to be the most realistic depiction of battle ever produced.
+				&lt;br/&gt;&lt;br/&gt;
+				Capa was the foremost war photographer of his generation, and perhaps, of the entire 20&lt;sup&gt;th&lt;/sup&gt; century. His work exemplified the exacting standards expected of photojournalists and this was acknowledged by the Overseas Press Club of America who awarded the annual Robert Capa Gold Medal for overseas coverage "requiring courage and enterprise" in his honor from 1955. Capa himself was killed in 1954 while photographing the Indochine War in Vietnam.
+			</desc>
+      <collection>International Center of Photography/Magnum Photos</collection>
+    </artwork>
+    <artwork>
+      <title>Shanghai 1948</title>
+      <artist>Henri Cartier-Bresson</artist>
+      <year>1948</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Cartier-Bresson travelled to China in 1948 on an assignment with &lt;i&gt;LIFE&lt;/i&gt; magazine. He was tasked with photographing the transition from the Kuomintang government to the People's Republic, led by the Communist Chairman Mao. In this claustrophobic and turbulent scene a group of Chinese people tries to form a line outside of a bank (just outside of the picture's frame on the right). Some huddle or cling for physical stability to the people around them while others jostle forward. Others are seen climbing the building behind the crowd mass. Tightly framed, the image conveys a sense of panic and desperation. The cause of the crush was a currency crash that rendered paper money worthless and the ruling Kuomintang government promised to give forty grams of gold to each effected citizen. Cartier-Bresson called it "The Gold Rush" and described how "Outside the banks on the Bund vast queues have formed, spilling over into the neighboring streets and blocking the traffic. About ten people must have died in the crush [...] Some people waited more than 24 hours to try and exchange their banknotes."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York New York</collection>
+    </artwork>
+    <artwork>
+      <title>A Disturbed Child in a Warsaw Orphanage</title>
+      <artist>David Seymour</artist>
+      <year>1948</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Already well known for his photographs of the Spanish Civil War (where he worked alongside Capa) David "Chim" Seymour was a Polish Jew and the first official UNICEF photographer to document the plight of children who had become refugees or orphans after World War II. This image depicts Terezka, a traumatized girl of seven or eight, who, having grown up in a concentration camp, was moved to a home for mentally disturbed children in Warsaw. Terezka had been asked to draw a picture of "home" and produced a frenzied scribble that was matched by her agitated expression. "Chim's" UNICEF photographs were published in &lt;i&gt;LIFE&lt;/i&gt; magazine in 1948 with the caption for this image reading: "Children's wounds are not all outward. Those made in the mind by years of sorrow will take years to heal."
+				&lt;br/&gt;&lt;br/&gt;
+				"Chim's" friend, and cofounder of Magnum, Henri Cartier-Bresson suggested that "Chim" had "picked up his camera the way a doctor takes his stethoscope out of his bag, applying his diagnosis to the condition of the heart." Cartier-Bresson's assessment might have had special resonance for this image given that "Chim" had learned the details of his own parents' deaths in a Warsaw ghetto while on the UNICEF assignment. This photograph, selected by Edward Steichen for his world famous exhibition &lt;i&gt;The Family of Man&lt;/i&gt; in 1955, became one of his best known. "Chim" was killed during a photo assignment while he was covering the armistice of the 1956 Suez War.
+			</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Aid from the Padre, June 4, 1962</title>
+      <artist>Hector Rondón Lovera</artist>
+      <year>1962</year>
+      <materials>Film negative</materials>
+      <desc>
+				This photograph depicts Navy chaplain Luis Padilla, himself under threat of sniper fire, holding a wounded man in the street during a Venezuelan revolt. The padre had gone out into the streets to give last rites to the dying man, when the photographer, also under fire, took this shot. The background, depicting a closed up carnicería - which in Spanish translates to "butcher's shop" or "slaughter and carnage" - brings added poignance to the image.
+				&lt;br/&gt;&lt;br/&gt;
+				Lovera was working for &lt;i&gt;La Republica&lt;/i&gt;, the Venezuelan newspaper, when he took this photograph - one of a series in the city of Puerto Cabello, home of Venezuela's largest naval base. Through the selfless humanitarianism of the solitary padre, the image represents both the best and worst of the human condition and the photograph was named the World Press Photo of the Year in 1962 and won the Pulitzer Prize for Photography a year later. The photograph also influenced Norman Rockwell's &lt;i&gt;Murder in Mississippi&lt;/i&gt; (1964).
+			</desc>
+      <collection>World Press Photo Archive</collection>
+    </artwork>
+    <artwork>
+      <title>Czechoslovakia, August 1968</title>
+      <artist>Josef Koudelka</artist>
+      <year>1968</year>
+      <materials>Film negative</materials>
+      <desc>
+				To take this image, Koudelka asked an unnamed passer-by to position himself in order to show the exact moment the Soviets invaded Prague in 1968. Koudelka, a theatre photographer, had never photographed news events before, but in the week following the invasion he took over 5000 photographs of the widespread revolt of anti-Soviet activists. He was shot at and pursued by soldiers but managed to arrange for his photographs to be smuggled out to the country and sent to Magnum. The images then appeared in the British &lt;i&gt;Sunday Times&lt;/i&gt; and &lt;i&gt;LIFE&lt;/i&gt; magazine in America. The published photographs were attributed to someone known only as PP (for "Prague Photographer") in order to avoid personal reprisals.
+				&lt;br/&gt;&lt;br/&gt;
+				Ultimately, Koudelka left his native country for a life of exile. He became one of the most noted photojournalist of his generation, and published his first book &lt;i&gt;Gypsies&lt;/i&gt; in 1975 and &lt;i&gt;Exiles&lt;/i&gt; in 1988, both of which reflect on the themes of homelessness, exile, and the life of the outsider. This work, however, exemplified the idea of photojournalist as personal witness and the risks that that might entail.
+			</desc>
+      <collection>Magnum Photos</collection>
+    </artwork>
+    <artwork>
+      <title>Mourning a brother killed by a Taliban rocket, Afghanistan</title>
+      <artist>James Natchwey</artist>
+      <year>1996</year>
+      <materials>Silver gelatin print</materials>
+      <desc>
+				Natchwey is one of the best-known contemporary photojournalists and war photographers. He has been awarded the Robert Capa Gold Medal five times, and the World Press Photo Award twice. He has covered armed conflicts since 1981 when he was assigned to Northern Ireland, and has been a contracted photographer with &lt;i&gt;Time&lt;/i&gt; since 1984. This image originated in his coverage of the war of Afghanistan in the 1990s and depicts a local woman in mourning. She is shrouded in a burka reaching out to touch the tombstone of her brother's grave in a cemetery in Afghanistan. The horizon is cut off in order to emphasize a desolate landscape littered haphazardly with similar headstones.
+				&lt;br/&gt;&lt;br/&gt;
+				In his work, Natchwey emphasizes the role of photojournalist as objective witness: "There's a vital story to be told" he said and he has used his camera to tell the story of war, famine, social unrest, the AIDS epidemic in Africa, and the worldwide epidemic of drug resistant tuberculosis. Committed in principle to Capa's famous maxim "If your pictures are not good enough, you are not close enough," Natchwey is noted among photojournalists for the intimacy of his images. In 2001 a documentary film about him, &lt;i&gt;War Photographer&lt;/i&gt;, was nominated for an Academy Award as best documentary.
+			</desc>
+      <collection>Museum of Art and Photography, Bangalore India</collection>
+    </artwork>
+    <artwork>
+      <title>America 1968 Baltimore Riots</title>
+      <artist>Devin Allen</artist>
+      <year>2015</year>
+      <materials>Film negative</materials>
+      <desc>
+				This photograph shows a young black man running down the middle of the street, while being pursued by dozens of policemen. Having grown up in West Baltimore, Allen was 26 years old when he took this and other images documenting the riots following the death of Freddie Gray while in police custody. The image captures something of the intensity of the hostilities while working also as a commentary on contemporary race relations.
+				&lt;br/&gt;&lt;br/&gt;
+				Inspired by Gordon Parks and Andy Warhol, Allen had previously explored street photography and portraiture. He posted his images on Instagram where they were shared widely on Twitter and other social media platforms. Finally they featured on CNN and the BBC news channels. Indeed, this image became &lt;i&gt;Time&lt;/i&gt;'s cover image (on April 25, 2015) and he was only the third amateur photograph to be featured on its cover. The cultural critic John Logan noted that in the age of social media the "documentary images of this civil rights era [had become transformed through] first-person dispatches," though whether that is necessarily a positive step forward for Photojournalism is open to question.
+			</desc>
+      <collection>National Museum of African American History &amp; Culture, Washington DC</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>cartier_bresson_henri</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>weegee</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>capa_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bourke_white_margaret</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>koudelka_josef</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>lange_dorothea</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>miller_lee</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>beaton_cecil</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>evans_walker</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Power of Photojournalism 1/2‬</title>
+          <link is_inline_video="true" inline_video_type="youtube">XONXeUndHl8</link>
+          <info>
+						By Reynolds Journalism Institute
+					</info>
+        </entry>
+        <entry>
+          <title>Magnum Photos -The Changing of a Myth</title>
+          <link is_inline_video="true" inline_video_type="youtube">AOHmvL5KeXw</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Photojournalism</title>
+          <link>http://stories.gettyimages.com/tag/photojournalism/</link>
+          <info>
+						By the Getty
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Artist Specific Videos" class="clips">
+        <entry>
+          <title>Henri Cartier-Bresson "Pen, Brush and Camera" 1998 Full Length‬</title>
+          <link is_inline_video="true" inline_video_type="youtube">ei45S87R2dk</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>D-Day: Behind Robert Capa's Photo Of Normandy Beach | 100 Photos | TIME</title>
+          <link is_inline_video="true" inline_video_type="youtube">wISNDLNiNrg</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Robert Capa - the rare 1947 radio interview</title>
+          <link is_inline_video="true" inline_video_type="youtube">MYe4ynXnqug</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Margaret Bourke=White: Great Woman Photographer</title>
+          <link is_inline_video="true" inline_video_type="youtube">TbLytLCZroc</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Josef Koudelka: The Art of Photography</title>
+          <link is_inline_video="true" inline_video_type="youtube">CVNZNi8gXp8</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Arthur Rothstein: photography, art and propaganda in The New Deal</title>
+          <link is_inline_video="true" inline_video_type="youtube">BAdXBYT367k</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Chim: UNICEF's first international photographer</title>
+          <link is_inline_video="true" inline_video_type="youtube">lo-NujpaBbk</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Photography of Timothy H. O'Sullivan</title>
+          <link is_inline_video="true" inline_video_type="youtube">eqklwtqzc28</link>
+          <info />
+        </entry>
+        <entry>
+          <title>China Through the Lens of John Thomson 1868-1872 An Overview</title>
+          <link is_inline_video="true" inline_video_type="youtube">FYN6sow0FXs</link>
+          <info>By GW Museum and Textile Museum</info>
+        </entry>
+        <entry>
+          <title>Matthew Brady's Vision</title>
+          <link is_inline_video="true" inline_video_type="youtube">koLnFvPaya0</link>
+          <info>By Smithsonian Magazine</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Photojournalism: 150 Years of Outstanding Press Photography</title>
+          <link>1847326366</link>
+          <info>By Rueul Golden</info>
+        </entry>
+        <entry>
+          <title>Robert Capa: The Definition Edition</title>
+          <link>0714844497</link>
+          <info>By Richard Whelam</info>
+        </entry>
+        <entry>
+          <title>Mathew Brady: Illustrated History of the Civil War</title>
+          <link>051711979X</link>
+          <info>By Mathew Brady</info>
+        </entry>
+        <entry>
+          <title>Magnum: Fifty Years at the Front Line of History: The Story of the Legendary Photo Agency</title>
+          <link>0802136532</link>
+          <info>By Russell Miller</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Henri Cartier-Bresson Foundation</title>
+          <link>http://www.henricartierbresson.org/en/</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Magnum Photos</title>
+          <link>http://pro.magnumphotos.com</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Matthew Brady page, Library of Congress</title>
+          <link>http://www.loc.gov/pictures/collection/cwp/bradynote.html</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Josef Koudelka page, Magnum Photos</title>
+          <link>https://pro.magnumphotos.com/C.aspx?VP3=CMS3&amp;VF=MAGO31_10_VForm&amp;ERID=24KL535C7T</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Robert Capa page, Magnum Photos</title>
+          <link>https://pro.magnumphotos.com/C.aspx?VP3=CMS3&amp;VF=MAGO31_10_VForm&amp;ERID=24KL535353</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Devin Allen website</title>
+          <link>http://devinallenphotography.com</link>
+          <info />
+        </entry>
+        <entry>
+          <title>James Nachtwey website</title>
+          <link>http://www.jamesnachtwey.com</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>A terrible beauty: Robert Fenton</title>
+          <link>http://www.tate.org.uk/context-comment/articles/terrible-beauty</link>
+          <info>
+						By Simon Grant
+						&lt;br&gt;
+						By Tate Etc. 
+						&lt;br&gt;
+						September 1, 2005
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Unraveling a 70-Year-Old Photographic Mystery</title>
+          <link>http://time.com/4735368/tereska-david-chim-seymour/</link>
+          <info>
+						By Carole Naggar
+						&lt;br&gt;
+						Time magazine 
+						&lt;br&gt;
+						Apr 12, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Chim: A Vivid Retrospective of Europe</title>
+          <link>https://lens.blogs.nytimes.com/2013/01/17/chim-a-vivid-retrospective-of-europe/</link>
+          <info>
+						By Peter Van Agtmael
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						 Jan. 17, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Revisiting the Valley of the Shadow of Death</title>
+          <link>https://carefullyaimeddarts.wordpress.com/2009/06/22/fenton-deal-ristelhueber-tillim/</link>
+          <info>
+						By Carefully Aimed Darts
+						&lt;br&gt;
+						June 22, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>40 years on: the exile comes home to Prague</title>
+          <link>https://www.theguardian.com/artanddesign/2008/aug/24/photography</link>
+          <info>
+						By Sean O'Hagan
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						August 23, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>All Cameras Are Good Cameras</title>
+          <link>https://www.buzzfeed.com/johnlingan/how-one-photo-in-baltimore-changed-devin-allens-life?utm_term=.lkD7A5mDM#.ujPljdG54</link>
+          <info>
+						By John Logan
+						&lt;br&gt;
+						Buzzfeed 
+						&lt;br&gt;
+						November 13, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>A Life in Photography: Don McCullin</title>
+          <link>https://www.theguardian.com/culture/2010/may/22/don-mccullin-southern-frontiers-interview</link>
+          <info>
+						By Nicholas Wroe
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 21, 2010
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

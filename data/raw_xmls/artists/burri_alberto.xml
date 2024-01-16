@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>burri_alberto</id>
+    <name>Alberto Burri</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1946 - 1995</years>
+    <description>Burri was a pre-eminent Italian painter and sculptor whose multi-layered canvasses focused on experimentation and process rather than personal experience.</description>
+    <art_description>Important art &amp; artworks analysis by Alberto Burri including: Cretto of Burri in Performance Art &amp; Body Art.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Italian</nationality>
+    <occupation>Multi-media Artist</occupation>
+    <birthDate>March 12, 1915</birthDate>
+    <birthPlace>Città di Castello, Perugia, Umbria, Italy</birthPlace>
+    <deathDate>February 15, 1995</deathDate>
+    <deathPlace>Nice, France</deathPlace>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>An artwork, in Buri's view, must speak for itself. "The words" of the critics, he insisted, "don't mean anything to me; they talk around the picture", and as an artist, "what I have to express appears in the picture [and for] the rest I have nothing to add".</bio_highlight>
+    <pub_time>11/9/2020</pub_time>
+  </main>
+  <includes>
+    <include>art_informel</include>
+    <include>body_art</include>
+    <include>earth_art</include>
+  </includes>
+  <similar_movements>
+    <movement>art_informel</movement>
+    <movement>earth_art</movement>
+    <movement>art_brut_and_outsider_art</movement>
+    <movement>modern_sculptors</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>manzoni_piero</artist>
+    <artist>fontana_lucio</artist>
+    <artist>beuys_joseph</artist>
+    <artist>dubuffet_jean</artist>
+  </similar_artists>
+  <quotes>
+    <q>"My works are not paintings but cuts of reality."</q>
+    <q>"'Our stability is but balance, and our wisdom lies in masterful administration of the unseen'. These lines are striking to me because they are the essence of my way of making paintings. And even though it is a definition used by a scientist to talk about science, it is extremely well suited to the world of painting."</q>
+    <q>"The words don't mean anything to me; they talk around the picture. What I have to express appears in the picture. With the other elements it is involved in a whole chain of pulls and tensions. But this is only the architectonic structure. For the rest I have nothing to add."</q>
+    <q>"Form and Space! Form and Space! The end. There is nothing else. Form and space!"</q>
+    <q>"For a long time I have wanted to explore how fire consumes, to understand the nature of combustion, and how everything lives and dies in combustion to form a perfect unity."</q>
+  </quotes>
+  <authors>
+    <author link="weinberg">Robert Weinberg</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Burri was, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fontana_lucio"&gt;Lucio Fontana&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manzoni_piero"&gt;Piero Manzoni&lt;/span&gt;, one of the pre-eminent Italian multi-media artist of the twentieth century. While the American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; was headed in the direction of "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-action_painting"&gt;Action Painting&lt;/span&gt;, Burri pursued a more studied approach to abstract art. His preference for raw materials, which carried the influence by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt; and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut movement&lt;/span&gt;, saw Burri combine the domains of painting and relief sculpture. Commentators have been inclined to interpret his course canvases as symbolic of his gruelling experiences as a medical officer in the Italian army, and, subsequently, as a POW. But Burri, who had described himself as a "polymaterialist", always maintained that his art was about experimentation and process rather than personal experience. As his international reputation climbed, Burri turned to colored industrial materials and he developed the technique of "painting with combustion"; a process by which he created torched wood veneers, welded steel reliefs and compositions of melted and charred plastic. Burri also fostered an interest in cracked surfaces which reached its high point with his monumental &lt;i&gt;Grande cretto&lt;/i&gt; project; an undertaking that, though only completed after his death, sits proudly on the Sicilian landscape as one of the largest &lt;span class="marked_text chart-tooltip-target-top tooltip_id-land_art"&gt;Land Art&lt;/span&gt; works ever realized.</synopsys>
+    <key_ideas>
+      <idea>Burri made his first impact on the post war art world through his abstract &lt;i&gt;Catrami&lt;/i&gt; (&lt;i&gt;Tars&lt;/i&gt;) series for which he used tar resins both as a base and as a color (black). Though the works were non-figurative, Burri was unique amongst abstract artists because he was considered a "realist". He earned this distinction because he used real, or every-day, materials - such as hessian sacking, sand and crushed pumice stone - to bring his coarsely textured canvases to life.</idea>
+      <idea>Applying tar-like substances as one might apply impasto oils, Burri sought to explore what type of effects could be achieved by using a single monochrome color. By gorging and scraping his thick painted surfaces, Burri was effectively excavating the very medium he was working with, showing a way in which the artist could approach the canvas as a means of blurring the dividing line between painting and sculpture.</idea>
+      <idea>Unlike other post-war abstract painters who focused on spontaneity and self-expression, Burri adopted a strictly methodical approach to his work. His work was the first to explore the organic decay and hazardous destruction of materials and his sculptured canvases proved so innovative he made friends of two seminal American artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-twombly_cy"&gt;Cy Twombly&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, both of whom exchanged creative ideas with the Italian.</idea>
+      <idea>Through works such as &lt;i&gt;Gobbi&lt;/i&gt;, Burri brought together painting and sculpture, inserting hidden, but protruding, objects behind the canvases as a means of disturbing and distorting the two-dimensional picture surface. His use of found objects to create collages saw him aligned with the methods of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetic_cubism"&gt;Synthetic Cubism&lt;/span&gt; but Burri's works went beyond synthesis by pushing the &lt;i&gt;physical&lt;/i&gt; limits of the two-dimensional surface.</idea>
+      <idea>Burri developed a fascination with combustion and fire's power to consume materials. Having begun by using his flame to "stitch" metal plates together, Burri quickly turned his oxyacetylene torch on to surfaces of wood and plastic. He formed blackened and rippling textures that revealed how the skin of materials succumbed to the destructive force of fire. He had succeeded, therefore, in turning something destructive (fire) into something creative (art).</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Alberto Burri was born in 1915 in Città di Castello, Perugia in the Umbria region of Italy. His father, Pietro, was a wine merchant and his mother, Carolina, was an elementary school teacher. From an early age, Burri demonstrated a passion for drawing and a desire to understand the works of the great &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; masters, and especially &lt;span class="marked_text chart-tooltip-target-top tooltip_id-della_francesca_piero"&gt;Piero della Francesca&lt;/span&gt;, whom he admired above all others. He also studied geometry and Greek, a language in which he became fluent. He continuing to read classical Greek literature throughout his life.</p>
+          <p type="p">Between 1934 and 1939, Burri trained at the University of Perugia, specialising in tropical medicine and graduating as a doctor in1940, shortly before Italy entered the Second World War. He volunteered for the Italo-Ethiopian war, and then in October 1940, he was called up for frontline service as a combat medic, serving in campaigns in the Balkans, Ethiopia and Libya. Even though he was a man of few words, it is known that the effects of war, and especially the death of his younger brother Vittorio on the Russian front in 1943, left him with deep psychological scars.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Alberto Burri (far left) pictured with fellow fascist soldiers during the Italo-Ethiopian War. Photo courtesy Mariella Andreoli, Città di Castello, Italy" show="0">/images20/photo/photo_burri_alberto_1.jpg</p>
+          <p type="p">On 8 May 1943, Burri's unit in Tunisia was captured by the British. Once turned over to the Americans, he was transported to a prisoner-of-war camp in Hereford, Texas, which housed some 3000 Italian officers. Among his fellow prisoners were academics, architects, and the artist Dino Gambetti, founder of the &lt;i&gt;Sintesi&lt;/i&gt; group. It was Gambetti who encouraged Burri to take up art as his chosen leisure activity as offered by the YMCA. He said later, "I painted every day [...] it was a way of not having to think about the war and everything around me". Restricted in his access to arts materials, Burri made use of objects he found in the camp including sackcloth and recycled industrial and commercial canvas. He was a resourceful man who, when he ran out of white paint turned to toothpaste, for instance. Among his early works were views of the desert captured from behind the wire fences that contained him and his compatriots.</p>
+          <p type="p">Following his repatriation in February 1946, Burri, prompted by his musician cousin, set up a studio in Rome. This went against the wishes of his parents who urged him to practice medicine and paint as a pastime ("I will not be a Sunday painter", he protested). Burri created figurative paintings through thick chromatic marks and, having made contact with institutions that were dedicated to reviving the visual arts after the war, his first solo exhibition took place at &lt;i&gt;Galleria La Margherita&lt;/i&gt; in Rome during July 1947. His move into abstraction burgeoned following a visit to Paris where he was inspired by the tar-paper collages of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet's&lt;/span&gt; paintings on coarse bitumen backgrounds. During this period Burri also showed works with the Rome Art Club where he was exposed to &lt;i&gt;arte polimaterica&lt;/i&gt; (multi-media art).</p>
+          <p type="p">Milton Gendel, the American critic, described Burri as "a funny character". He was a reserved, solitary and intensely private person who rarely gave interviews or socialized with other artists. Details of his life are thus limited to the progression of his work dating from the late 1940s. Between 1948 and 1950, he continued experimenting with unorthodox materials such as tar, sand, zinc, pumice, Aluminium dust and Polyvinyl chloride glue. In 1948 he produced &lt;i&gt;Nero 1&lt;/i&gt; (&lt;i&gt;Black 1&lt;/i&gt;); for the artist himself, a career milestone and the first in a series of important monochrome works.</p>
+          <p type="p">For his first collection of 1949, Burri employed a jute sack; a lasting memento of his incarceration. Burri himself emphatically rejected the idea, put by several commentators, that his &lt;i&gt;Sacchi&lt;/i&gt; (&lt;i&gt;Sacks&lt;/i&gt;) were a metaphor for violated flesh, with the stitching representing the surgeon's art of suture: "In reality, there is no relation whatsoever between my work as a doctor and my work as an artist," he insisted, "I never had, as some have hypothesized and written, flashbacks of any kind about gauze, blood, wounds or other stuff". The Curator Natasha Kurchanova observed indeed that "Burri's awareness of the dominant currents in contemporary art led to a visible transformation in materials themselves and in the way he used them, despite the fact that the focus on the physicality of the painting's support [remained the] constant throughout the artist's career. In the immediate postwar period", she continued, "his art reflected the strong influence of Jean Dubuffet and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;art brut&lt;/span&gt; in the use of raw or shapeless materials, such as tar, pumice stone or burlap bags whose unformed and uncontrolled quality was manifest in the work".</p>
+          <p type="p">Taking inspiration from the mixed-media abstractions of Enrico Prampolini, Burri developed his &lt;i&gt;Catrami&lt;/i&gt; (&lt;i&gt;Tars&lt;/i&gt;) series in which he used tar both as a base and as a color. Evaluating his &lt;i&gt;Catrami&lt;/i&gt; for the Guggenheim, curator Emily Braun argues that though "there are no figurative images or descriptive realism in his work", Burri still ranks as a realist because his work "intends the realism of facts - factual materials, things in the real world that he brings together and puts before our eyes". Indeed, he would also combine sacking and cloth, roughly stitched together against a black or dark red ground, visible through tears and burn holes, creating, in his own words, "a whole chain of pulls and tensions".</p>
+          <p type="p">Further explorations of this type followed with materials including bark, linen, corrugated cardboard, sheet and rusty metal, crushed stone, charred wood, and artificial packaging material. These items were often deliberately damaged to endow them with an expressive quality. In his &lt;i&gt;Bianchi&lt;/i&gt; (&lt;i&gt;Whites&lt;/i&gt;) (1949) series, meanwhile, Burri brought white "into its own"; that is, as a color, a process and as a material. Varying tones, textures and finishes were created with the artist's fingers, a palette knife, or a trowel on cotton duck, muslin, or linen fabric. The &lt;i&gt;Sacchi&lt;/i&gt; and &lt;i&gt;Bianchi&lt;/i&gt; pieces started to bring Burri acclaim. His incorporation of a portion of the American flag in &lt;i&gt;SZ1 Sacco di Zucchero&lt;/i&gt; (&lt;sup&gt;Sack of Sugar 1&lt;/sup&gt;) (1949) was thought by some to have anticipated &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; though, once more, Burri rejected the idea that one should read any social or symbolic meaning into his work (and that somehow the work was a commentary on contemporary America).</p>
+          <p type="p">As his career developed, Burri's synthetic approach became more pronounced. The dripped and concreted &lt;i&gt;Muffe&lt;/i&gt; (&lt;i&gt;moulds&lt;/i&gt;) series resemble bacterial invasion, soil, or mould, with Burri recreating the organic materials by mixing ground pumice stone with paint, mineral particles, and synthetic resins. Thick in relief, the &lt;i&gt;Muffe&lt;/i&gt; also suggest aerial views, maps or the dry landscapes familiar to him from time spent in Africa and the Texas Panhandle (though presumably the artist would have rejected such a hypothesis). Retreating for several months to a shepherd's hut at an isolated spot in the mountains near his hometown of Perugia, Burri began to create his first "swellings" by inserting two small branches between the stretcher and the canvas. In these works, which he called &lt;i&gt;Gobbi&lt;/i&gt; (&lt;i&gt;Hunchbacks&lt;/i&gt;), Burri was able to distort the picture plane by creating a protruding surface. He developed this technique by replacing the branches with bent metal rods.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">By 1950 Burri was creating assemblages out of burlap sacks and white household linens. His work was not met with public approval in Italy, however. He was rejected by the Venice Biennale in 1952, but his fortunes changed when the founder of the Spatialism movement, the Argentine-Italian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fontana_lucio"&gt;Lucio Fontana&lt;/span&gt;, endorsed his work by purchasing the first piece Burri ever sold, &lt;i&gt;Studio per lo Strappo&lt;/i&gt; (&lt;i&gt;Study for the Rip&lt;/i&gt;) (1952).</p>
+          <p type="p">His assemblages started to bring him recognition on the international stage and Burri held his first solo exhibitions in the United States in 1953 at the Allan Frumkin Gallery, Chicago, and the Stable Gallery, New York. His work also featured in Younger European Painters: A Selection (1953-54) at the Guggenheim Museum, while his &lt;i&gt;Gobbi&lt;/i&gt; series was featured in the influential ARTnews magazine in 1954. Burri's close relationship with the US was cemented when he met Minsa Craig, an American ballet dancer and student of Martha Graham. They married on 15 May 1955 in Westport, Connecticut.</p>
+          <p type="p">Around the same time, Burri started to experiment with fire as a means of creating original works. His controlled burnt paper works were used as illustrations for a book of poems by Emilio Villa while Burri's &lt;i&gt;Legni&lt;/i&gt; (&lt;i&gt;Woods&lt;/i&gt;) series (1955) saw him develop a new technique of scarring birch or oak, which was buckled and distorted by an oxyacetylene torch. In 1957 he went on to modify the surface of plastic with a blowtorch to create a painterly, mark-making technique which he called &lt;i&gt;Combustioni&lt;/i&gt; (&lt;i&gt;Combustions&lt;/i&gt;). Kurchanova suggested that the artist's subconscious was at work and these pieces were the direct result of Burri's experiences of war and his subsequent incarceration. She remarked that the series "reveals that trauma never ends. The charred, burnt, pierced and otherwise violated pieces of plastic were made into painting by a creative act of a man who was never trained in this profession, but turned to it by default: there was simply no better way for him to live through the end of the world as he knew it".</p>
+          <p type="p">Also in 1957, Burri was subject of a midcareer retrospective at the Carnegie Museum of Art in Pittsburgh by which time his work had attracted the interest of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;. The American made two excursions to Burri's studio in Rome and took inspiration from the Italian's transformation of found materials into dynamic compositions. The two artists exchanged works and, on his return home, Rauschenberg reportedly threw some of his own works into the Arno River so he could start painting afresh. It is thought that Burri had given Rauschenberg the impetus to begin work on his famous "Combines" series. For his part, Burri, who was fond of shooting and hunting, used Rauschenberg's works as targets for skeet (clay pigeon) shooting, mischievously claiming he intended to increase the level of art in Rauschenberg's paintings.</p>
+          <p type="img" alt="&lt;i&gt;Grande Ferro M5&lt;/i&gt; (&lt;i&gt;Large Iron M5&lt;/i&gt;) (1958). Fondazione Guido ed Ettore De Fornaris, Galleria d'Arte Moderna e Contemporanea di Torino" show="0">/images20/photo/photo_burri_alberto_2.jpg</p>
+          <p type="p">A series of reliefs, made from cold-rolled steel called &lt;i&gt;Ferri&lt;/i&gt; (&lt;i&gt;Irons&lt;/i&gt;), saw Burri cutting and welding his materials. With works such as &lt;i&gt;Grande Ferro M5&lt;/i&gt; (1958), Burri transformed steel sheets into imposing reliefs by "stitching" his metal planes together with a welding torch. Art critics Enrico Crispolti and Nello Ponente interpreted the &lt;i&gt;Ferri&lt;/i&gt; as representing in some way Burri's (humanity's) struggle with life but the artist preferred to see them as purely materialistic. The Ferri, said Burri, were "also sculpture. What I have sought to draw out of them is only their property. Iron, for example, suggested a sense of hardness, weight, sharpness. I was not interested in representing iron. It was immediately obvious that the material was iron. I wanted instead to explain what iron was capable of".</p>
+          <p type="p">Burri also created compositions from melted and charred plastic known as &lt;i&gt;Combustioni plastiche&lt;/i&gt; (&lt;i&gt;Plastic combustions&lt;/i&gt;), exposing various materials to different speeds of flame from torches and lamps. Holes were burned to open up a rich spatial network within the layers of plastic. This hybrid of painting and sculpture represented a very physical form of creative destruction: "He used fire to penetrate material, to go through it and transform it. It was a violent act comparable to birth", said one critic. But generally speaking the Italian public was slow to warm to him. A major exhibition of Burri's work at Rome's &lt;i&gt;Galleria Nazionale d'Arte Moderna&lt;/i&gt; in 1959 was so controversial - reviews carried derogative titles such as "Burri Patches a Picture" or "The Doctor-Painter Sticks to Sutures" - it prompted a government investigation. One Italian art collector reacted to the suggestion that he might purchase a Burri with horror: "Painting? Filthy sacks! Mould! Garbage!".</p>
+          <p type="img" alt="Burri pictured in 1962 working on &lt;i&gt;Grande Plastica&lt;/i&gt; project" show="0">/images20/photo/photo_burri_alberto_3.jpg</p>
+          <p type="p">Burri and Craig wintered in Los Angeles every year between 1963 until 1991. He developed a fascination with the mud flats of Death Valley National Park and was inspired specifically by the naturally fractured floor of the desert. This led him to create the &lt;i&gt;Cretti&lt;/i&gt; (&lt;i&gt;Cracks&lt;/i&gt;) series using a special mixture of kaolin, resins and pigment which he then dried the surface of the painting in front of an oven. The series, usually painted entirely white or black, highlighted the sculptural relief caused by the cracking with the surface of the works recalled the glaze deterioration of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Master&lt;/span&gt; paintings.</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="img" alt="Minsa Craig's dance piece &lt;i&gt;November Steps&lt;/i&gt;, Triennale di Milano, 1972 with designs by Burri" show="0">/images20/photo/photo_burri_alberto_4.jpg</p>
+          <p type="p">Burri also created stage sets for &lt;i&gt;La Scala&lt;/i&gt;, Milan and other theatres, working on designs for plays, ballet and opera. The most important of these was &lt;i&gt;Spirituals&lt;/i&gt;, Morton Gould's ballet held at &lt;i&gt;La Scala&lt;/i&gt; in 1963. Later, in 1973, Burri designed sets and costumes for November Steps, a production conceived of by his wife with a score by the Japanese composer Toru Takemitsu. In it, the dancers interacted with a film excerpt of Burri's &lt;i&gt;Cretti&lt;/i&gt; being created. His &lt;i&gt;Plastiche&lt;/i&gt; were also used to dramatic effect in plays such as &lt;i&gt;Tristan and Iseult&lt;/i&gt;, performed in 1975 at the &lt;i&gt;Teatro Regio&lt;/i&gt; in Turin.</p>
+          <p type="p">Towards the end of 1970s, Burri featured in a number of retrospectives, one of which, in 1977-78, made its way across the United States and culminated with an exhibition at the Guggenheim in New York. Burri's art grew in scale too with the 1979 cycle of paintings, &lt;i&gt;Il Viaggio&lt;/i&gt; (&lt;i&gt;The Journey&lt;/i&gt;), retracing, through ten monumental compositions, the key moments of his artistic development.</p>
+          <p type="p">In 1985, 27 years after the Sicilian town of Gibellina was reduced to a pile of rubble in an earthquake, the mayor of the town invited artists and architects to the area with the aim of creating commemorative installations. Burri proposed compressing the old city's remains and covering them with iron and cement. &lt;i&gt;Grande Cretto Bianco&lt;/i&gt; (&lt;i&gt;Great White Crack&lt;/i&gt;) extended over an area of some 85,000 square meters making it one of the largest works of art ever realized. Effectively covering most of the flattened town with white concrete, the cracks between the slabs of concrete are large enough to walk between - thereby creating an expansive labyrinthine structure. The curator Rita Salerno explained that the "80 thousand square meters [sic] of white concrete and detritus recounts the tale of a city wiped from the world's maps" and that the "white lanes that today can be walked - much like deep wounds in the Earth - are the same that were once found in the historic town before the earthquake".</p>
+          <p type="p">In the final series of his life, Burri paid homage to the decorations in the basilica of &lt;i&gt;San Vitale&lt;/i&gt; in Ravenna. Through the combination of gold and black, Burri evoked the glass mosaics of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-byzantine_art"&gt;Byzantine&lt;/span&gt; monument. Gold, Burri said, "is the perfect material. In Chinese the same character, &lt;i&gt;chin&lt;/i&gt;, means both gold and metal. Gold shines resplendent as the light. In India it is called 'mineral light'. The sign of enlightenment and absolute perfection, the images of Buddha are made of gold, just as the flesh of the pharaohs is gold". The resultant series, &lt;i&gt;Oro e Nero&lt;/i&gt; (&lt;i&gt;Gold and Black&lt;/i&gt;), was donated to The &lt;i&gt;Uffizi Gallery&lt;/i&gt; in Florence.</p>
+          <p type="img" alt="Alberto Burri, photographed by Nanda Lanfranco" show="1">/images20/photo/photo_burri_alberto_5.jpg</p>
+          <p type="p">In 1981, Burri acquired a home in Beaulieu, near Nice in the south of France. In his final years, he began to make use of Celotex, an industrial mixture of wood production scraps and adhesives, used for insulation boards, creating works based on a clear geometrical structure. As part of the foundation he established in 1978, Burri designed his own museum in Città di Castello's &lt;i&gt;Palazzo Albizzini&lt;/i&gt;, which opened in 1981. In 1990 Burri produced his last public art when works painted on flayed fiberboard went on permanent display in a complex of former tobacco-drying sheds known as the &lt;i&gt;Ex Seccatoi del Tabacco&lt;/i&gt;. Burri died February 15&lt;sup&gt;th&lt;/sup&gt;, 1995 in Nice.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Burri had a profound influence on artists of his own time and of later generations. His penetration of the canvas into three-dimensions paved the way for the Spatialist slashes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fontana_lucio"&gt;Lucio Fontana&lt;/span&gt;, while the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera movement&lt;/span&gt; took on Burri's use of everyday materials, leaving traces of the physical and chemical transformations of nature in their works. Burri's use of fire connects him to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klein_yves"&gt;Yves Klein&lt;/span&gt; and the Zero Group while photographs of him shooting at a beer-can, and the subsequent exhibition of the punctured can, link Burri to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-saint_phalle_niki_de"&gt;Niki de Saint Phalle&lt;/span&gt;. His desire to transform materials also resonated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuys&lt;/span&gt;, who met with Burri in &lt;i&gt;Città di Castello&lt;/i&gt; in 1980 (Beuys himself had a traumatic experience during the war). &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kiefer_anselm"&gt;Anselm Kiefer's&lt;/span&gt; highly textured surfaces, meanwhile, incorporate cracks and branches to reflect societal trauma - and certainly remind the viewer of Burri (although no documentation of formal link exists).</p>
+          <p type="p">His contribution to the arts was acknowledge in his own lifetime both by Italy and America through, respectively, the Legion of Honour and the title Order of Merit of the Italian Republic, and as honorary member of the American Academy of Arts and Letters. The difficulty in defining Burri in terms of the major trends in modernism has resulted in him being dismissed by some as "an artist of the periphery". But most recently, his indelible contribution to late-twentieth-century abstraction was confirmed through the 2015 major retrospective exhibition Alberto Burri: The Trauma of Painting curated by Emily Braun for the Solomon R. Guggenheim Museum and, in the following year, &lt;i&gt;Burri Lo spazio di Materia tra Europa e USA&lt;/i&gt; at &lt;i&gt;Città di Castello&lt;/i&gt; (his place of birth). Both exhibitions celebrated the radical changes in traditional Western painting, collage and sculpture initiated by Burri.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Catrame 2</title>
+      <year>1949</year>
+      <materials />
+      <desc>
+				The &lt;i&gt;Catrami&lt;/i&gt;, or tars, were Burri's first series of paintings that explored the properties and tones of the color black . Covering his canvas with tar, and tar-like substances, Burri, in the description offered by the Guggenheim, "gouged and scraped the dense, viscous material into rich relief topographies of cavities and scabs, incising the surface with grid lines, sometimes adding pumice stone for texture or drips of black enamel paint". 
+				&lt;br/&gt;&lt;br/&gt;
+				Here the image appears like a collage, juxtaposing the manmade biomorphic shapes with the scaly, apparently random, impasto textures within them. Close inspection reveals a sense of movement and incongruity, displaying Burri's ability to transform the mundane into something fascinating, primeval and alive. Though abstract, the &lt;i&gt;Catrami&lt;/i&gt; helped define a new sense of realism. Curator, Emily Braun, observed that Burri's "early compositions look like a collage. It's as if he cut out shapes and glued them onto a flat plane [...] He's focusing our attention on the materials themselves: all of their innate qualities, what makes them alive or what makes them seemingly abject or unpleasant but ultimately quite beautiful. And this focus on what they're made of and how he makes them is what we call a material - and process -based realism".
+				&lt;br/&gt;&lt;br/&gt;
+				It is an interesting footnote to record that beneath &lt;i&gt;Catrame 2's&lt;/i&gt; thick tar surface, conservation scientists working at the Guggenheim in New York "discovered a colorful figurative painting from an earlier period" and another on the verso, or reverse, of Burri's canvas.
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>Biancho (White)</title>
+      <year>c.1949</year>
+      <materials />
+      <desc>
+				Following immediately on from his black tar &lt;i&gt;Catrami&lt;/i&gt; works, Burri turned his attention to exploring the properties of white. His new project was rooted in his fascination with Renaissance art, the white ground of frescoes, and the gesso layer underlying paintings. This example, one of his first &lt;i&gt;Bianchi&lt;/i&gt;, explores the variety of shades, textures and effects that can be achieved with white alone (and small traces of black from the base of a paint can). Burri swirls and drips the pigment, mixing it with sand or crushed pumice stone, spreading it with his fingers, a knife or a trowel, leaving the expressive, physical process of making the image exposed. Braun suggests that with this piece, Burri "makes us aware of all of the different applications of the white paint" and that Burri turns his painting into "this scruffy, eloquent thing [with] lumpy, paint trickled, lathered, smeared, dripped, and transferred".
+				&lt;br/&gt;&lt;br/&gt;
+				While it was never been formally acknowledged by the American artist himself, the &lt;i&gt;Bianchi&lt;/i&gt; seems likely to have made an impact on the development of the art of Cy Twombly, who visited Burri's studio during this period and saw his works at Rome's &lt;i&gt;Obelisco Gallery&lt;/i&gt;. Twombly later returned to live in Rome where he recreated, in works that carried echoes of Burri's &lt;i&gt;Bianchi&lt;/i&gt;, the effects of the Mediterranean sun on crumbling, bleached surfaces.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Rosso Gobbo (Red Hunchback)</title>
+      <year>1953</year>
+      <materials />
+      <desc>
+				In the series labelled &lt;i&gt;Gobbi&lt;/i&gt; (&lt;i&gt;Hunchbacks&lt;/i&gt;), Burri wedged objects - such as tree branches or metal rods - behind the canvas, causing distortions to the image surface and straining the canvas to create a prominent hump. The taut picture plane is thus put under physical stress, bent out of shape and thrust forward towards the viewer. Burri termed this the "invasive space" technique. In this fine example of painting merging with sculpture, two fabric scraps stuck to the vermilion background and three punctured circles accentuate the protrusions created by the unseen curved metal rod. The damage that Burri inflicts upon his materials places him at odds with the flatness and aspirations towards purity of much modern painting. The &lt;i&gt;Gobbi&lt;/i&gt; seem to continue a logical progression from Burri's earliest abstract works in which he was arranging his colours and forms so that they appeared to exist on different levels. One might call this as a philosophical reversal of Synthetic Cubism's attempt to capture multiple planes from a single viewpoint, despite the similar use of collaged scraps and printed materials. 
+				&lt;br/&gt;&lt;br/&gt;
+				It has often been suggested that the contrasting elements - stitched sacking so prevalent in its use for sandbags and carrying supplies, the black reminiscent of charred buildings, and red with its connotations of blood - reference Burri's training as a doctor and the traumatic experience of front line military service. According to curator James Johnson Sweeney, Burri "transforms rags into a metaphor for bleeding human flesh, breathes life into the inanimate materials which he employs, making them live and bleed". For Sweeney, the "picture is human flesh, the artist a surgeon". It was not, however, a reading endorsed by Burri who said "I have worked with a big red space that is expanding forward and in all directions. With the other elements it is involved in a whole chain of pulls and tensions. But this is only the architectonic structure. For the rest I have nothing to add". Burri may (unconsciously) also be referencing a rich tradition in Italian art, translating the red, black and gold of Renaissance drapery into a meditation upon the trauma of post-War Italy. However one wishes to interpret it, the work, like so much of Burri's output, is a merging of both painting and sculpture; the abstract and the figurative. "It is a picture, or better yet, the fiction of a picture", wrote the critic Giulio Carlo Argan, "a sort of reversed &lt;i&gt;trompe l'oeil&lt;/i&gt; in which the picture no longer imitates reality but reality imitates a picture". 
+				&lt;br/&gt;&lt;br/&gt;
+				Still struggling to garner the approval of the Italian critics or public, Burri's fortunes received a welcome fillip from Lucio Fontana who was the first significant figure to endorse Burri's work by purchasing a piece from the same series. Indeed, in the 2000 exhibition, "Against Nature", featuring Burri, Fontana and Pierre Manzoni, New York's Sperone Westwater Gallery stated in their press release that the three men formed an informal group of Italian artists who were "searching for truth in new places" and that, between them, the men located this "truth" in "materials that came from urban and industrial refuse". It was "through these new materials - polyester, cotton fibers, cut canvas, burlap, glue, neon, glass etc. - [that] the canvas became a theatrical place where a new pictorial space could emerge".
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Combustione legno (Wood combustion)</title>
+      <year>1955</year>
+      <materials />
+      <desc>
+				Artists such as the Anselm Kiefer had, like Burri, produced densely textured works that incorporated found organic materials (such as straw) and metals to create bleak and haunting war images. But whereas Kiefer was willing to directly address the legacy of Germany's recent history, and the ruins and debris which were the aftermath of the Second World War, Burri, despite his own first-hand experiences of that war, insisted that his art was purely formal and it was a misguided critic who searched his canvases for his attitude towards social or political matters. Burri stated of &lt;i&gt;Combustione legno&lt;/i&gt; that "[f]or a long time I have wanted to explore how fire consumes, to understand the nature of combustion, and how everything lives and dies in combustion to form a perfect unity". With this in mind he produced his &lt;i&gt;Combustioni legni&lt;/i&gt; which are made of wood veneer panels that the artist then transformed using an oxyacetylene torch. Under the flame of his torch, the material is aged and blackened to create something that feels somewhat sinister, like a forest at night or perhaps a door to an ancient dungeon. 
+				&lt;br/&gt;&lt;br/&gt;
+				Burri's flame has not only blackened, but warped the wood creating an undulating surface that reflects light unevenly. There are glimpses of the natural wood around the holes suggestive of wounds while also clearly conveying that the material has been acted upon by a destructive, more powerful, force. According to Sweeney, with the introduction of fire, the interaction between the artist and the material is laid bare in the image: Burri "plays in it: plays with the material he employs, allows them to play with him, to collaborate in the final expression, even to dictate some of the forms", he wrote. Braun adds that "Despite the precarious quality, and the fact that the material itself seems to crumble apart or want to fall away, it's held together structurally and visually by an underlying grid. The wood combustions really are the most ordered of all of Burri's series because he bought the veneer in sheets. Wood itself is solid and flat, and he builds the composition around that".
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Combustione Plastica: Sion, Le Couvent Des Capucins</title>
+      <year>1967</year>
+      <materials>Plastic, Combustion on iron stretcher</materials>
+      <desc>
+				One of his later additions to his &lt;i&gt;Combustione Plastici&lt;/i&gt; is Burri's rhomboidal window for the Swiss convent, &lt;i&gt;Couvent des capucins&lt;/i&gt;, situated in the pre-historic province of Sion. Built in 1631, the medieval building was re-designed by the Venetian architect Mirco Ravanne between 1962 and 1968. Because of Ravenne's involvement, the Brutalist project caught the attention of a number of experimental artists including Buri, Kengiro Azuma and Antoni Tapies. Ravanne already held works by Burri in his private art collection, and saw &lt;i&gt;Combustione Plastica&lt;/i&gt; as a means of bringing a deep sense of reflective spirituality to the reconstructed convent. 
+				&lt;br/&gt;&lt;br/&gt;
+				Positioned in the apse where one traditionally finds an effigy of Christ on the cross, the plastic window sits above the candles that burn below it, giving the impression that they have burned the window. Despite the artist's insistence that his work was resolutely materialist - "Form and Space! Form and Space! The end. There is nothing else" being Burri's oft-quoted maxim - its presence in a convent cannot help but imbue the work with a profound spiritual resonance. The burned holes represent the wounds on Christ's body but the life-giving light that shines through them suggest a force for healing. The window thus symbolizes the Christian ideal of hope and rebirth. The convent's own online publicity suggests that "The uniqueness of this artwork lays in its inner paradox, i.e. in being in-between life and death, health and illness, optimism and nihilism. For all these reasons, &lt;i&gt;Combustione Plastica&lt;/i&gt; stands out as a masterpiece that is profoundly conceptual but also pragmatically ground-rooted".
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Grande Cretto Bianco (Cretto of Burri)</title>
+      <use_big_image>true</use_big_image>
+      <year>1985 - 2015</year>
+      <materials />
+      <desc>
+				With the &lt;i&gt;Grand Cretto Bianco&lt;/i&gt;, Burri created a sacred work of Land Art realized on the site of the lost Sicilian town of Gibellina. Originally an agricultural settlement dating back to medieval times, it was expanded in the late-fourteenth century by a Sicilian nobleman named Manfredi Chiaramonte and over the centuries grew to become home to a population of around 100,000 mostly poor, working families. On 15 January 1968, a devastating earthquake struck Sicily's Belice Valley, completely destroying the historic center of Gibellina and six neighbouring villages. The tremor claimed the lives of at least 200 locals, injured another 1,150, and left near on 100,000 homeless. While a new city was soon under construction about 20 km from the devastation, the ruins of the old Gibellina remained untouched. What was left was an abandoned site strewn with rubble, broken glass, twisted metal, broken toys, smashed cars, torn books and clothes, and all manner of other debris. 
+				&lt;br/&gt;&lt;br/&gt;
+				On the invitation of the mayor, Ludovico Corrao, Burri visited the new Gibellina with a view to creating municipal art works. Once he arrived, however, Burri observed that "the new city was nearly complete and full of new pieces" and asked Corrao if they might visit the site of the old town instead. On their arrival, Burri stated that he "almost felt like crying" before the idea came to him: "here I could do something ... This is what I would do: we compact the ruins - which are a problem for everyone - we reinforce them well, and with concrete, we create an immense white crack as a permanent symbol of what happened here". It proved an enormous (not to mention costly) undertaking and, with the full support of the mayor (sadly neither Burri or Corrao would see the work's completion), Burri enlisted the services of the Italian military and local construction companies who, between them, compacted the rubble and detritus and enclosed it in metal nets. The project, which began in 1985, was interrupted after four years, leaving close to a third of the surface area still uncovered. The completed structure was finally inaugurated on 17 October 2015; the centenary of Burri's birth. 
+				&lt;br/&gt;&lt;br/&gt;
+				At approximately 85,000 square metres, &lt;i&gt;Grande Cretto Bianco&lt;/i&gt; remains one of the largest works of all landscape art; an indelible memorial that the curator Rita Salerno calls "the most beautiful slab of concrete in the world". Salerno explained that as a "piece of public art, the intent was to construct a communal identity for local residents and Italians as a whole, crafting a monument reflecting profound cultural and social values". It was under this initiative that Burri's structure, whose vast "cracks" invite visitors to wander amongst the entombed ruins, was complemented by the &lt;i&gt;Great Cretto of Gibellina Museum&lt;/i&gt; ("the museum recovers, conserves, and communicates the memory of Gibellina") which opened in May 2019. The museum's "Assessor of Culture", Tanino Bonifacio, offered a fitting eulogy to Burri himself when he said of &lt;i&gt;Grande Cretto Bianco&lt;/i&gt;, it is "a place for narration and knowledge where life once flourished, now conserving its memory: what was once a tabernacle of death, today welcomes a monument generating life".
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity>dubuffet_jean</entity>
+        <entity>prampolini_enrico</entity>
+        <entity>miro_joan</entity>
+        <entity>picasso_pablo</entity>
+        <entity>schwitters_kurt</entity>
+      </column>
+      <column>
+        <entity alt="Dino Gambetti">gambetti_dino</entity>
+        <entity alt="Ettore Colla">colla_ettore</entity>
+        <entity alt="James Johnson-Sweeney">johnson_sweeney_james</entity>
+        <entity alt="Nuvola">nuvola</entity>
+      </column>
+      <column>
+        <entity>renaissance</entity>
+        <entity>dada</entity>
+        <entity>synthetic_cubism</entity>
+        <entity>futurism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>beuys_joseph</entity>
+        <entity>rauschenberg_robert</entity>
+        <entity>twombly_cy</entity>
+        <entity>klein_yves</entity>
+        <entity>saint_phalle_niki_de</entity>
+      </column>
+      <column>
+        <entity>fontana_lucio</entity>
+        <entity>manzoni_piero</entity>
+        <entity>beuys_joseph</entity>
+        <entity alt="Mirco Ravanne">ravanne_mirco</entity>
+      </column>
+      <column>
+        <entity>arte_povera</entity>
+        <entity>neo_dada</entity>
+        <entity>nouveau_realisme</entity>
+        <entity>post_minimalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Alberto Burri - His Thoughts, His Words</title>
+          <link>1980438129</link>
+          <info>By Alberto Burri with Stefano Zorzi</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Burri</title>
+          <link>B000KUXHXC</link>
+          <info>By C. Brandi</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: The Trauma of Painting</title>
+          <link>0892075236</link>
+          <info>Edited by Emily Braun and Megan M.Fontanella</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri - Black works: Cellotex 1972-1992</title>
+          <link>8857220036</link>
+          <info>By Massimo Di Carlo and Laura Lorenzoni.</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri</title>
+          <link>0974960780</link>
+          <info>By Germano Celant</info>
+        </entry>
+        <entry>
+          <title>Albert Burri: Il grande cretto di Gibellina</title>
+          <link>8898756682</link>
+          <info>By Massimo Recalcati</info>
+        </entry>
+        <entry>
+          <title>Catalogue Raisonee</title>
+          <link>8899523045</link>
+          <info>By Alberto Burri</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Against Nature: Alberto Burri, Lucio Fontana, Piero Manzoni</title>
+          <link>https://www.speronewestwater.com/exhibitions/against-nature/installations</link>
+          <info>
+						14 September - 28 October 2000
+						&lt;br&gt;
+						Sperone Westwater, New York
+					</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: The Trauma of Painting</title>
+          <link>http://exhibitions.guggenheim.org/burri/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Fondazione Burri</title>
+          <link>https://www.fondazioneburri.org/en/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Alberto Burri: The Trauma of Painting</title>
+          <link>https://www.studiointernational.com/index.php/alberto-burri-the-trauma-of-painting-review-guggenheim-museum</link>
+          <info>
+						By Natasha Kurchanova
+						&lt;br&gt;
+						Guggenheim Museum, New York 
+						&lt;br&gt;
+						9 October 2015 - 6 January 2016
+					</info>
+        </entry>
+        <entry>
+          <title>CRETTO OF BURRI: a journey to the Cretto of Burri by Alberto Burri</title>
+          <link>https://www.elledecor.com/it/best-of/a28424585/cretto-of-burri-gibellina-history/</link>
+          <info>
+						By Rita Salerno 
+						&lt;br&gt;
+						Elle Decor 
+						&lt;br&gt;
+						July 11, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: 'Artist, poet, and creator of the new'</title>
+          <link>https://www.christies.com/features/Alberto-Burri-artist-guide-8859-3.aspx</link>
+          <info>
+						Christies
+						&lt;br&gt;
+						March 20, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>'I will not be a Sunday painter': Alberto Burri Makes a Picture, in 1954</title>
+          <link>https://www.artnews.com/art-news/retrospective/i-will-not-be-a-sunday-painter-alberto-burri-makes-a-picture-in-1954-5102/</link>
+          <info>
+						By Milton Gendel 
+						&lt;br&gt;
+						ARTnews 
+						&lt;br&gt;
+						December 1954
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Alberto Burri: Exhibition at the Guggenheim</title>
+          <link>https://www.youtube.com/playlist?list=PLWt9nvDxzGOrLCbatUdFTZvvo1aJIwloq</link>
+          <info>A series of eight informative videos in which curator Emily Braun introduces Alberto Burri: The Trauma of Painting, a 2015 retrospective exhibition at the Solomon R. Guggenheim Museum, New York.</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: 'Artist, Poet and Creator of the New'</title>
+          <link>https://www.youtube.com/watch?v=klIpRwGZ5gY</link>
+          <info>An introduction made by Christies auction house to Burri's transformation of art with his use of unconventional materials.</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri</title>
+          <link>https://www.youtube.com/watch?v=PCbU88rRkPo</link>
+          <info>In this historic 1960 film, Burri is shown for the first time working on his Combustioni.</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: A Symposium</title>
+          <link>https://www.youtube.com/watch?v=5asS21ob7Hk</link>
+          <info>Concurrent with the Guggenheim Museum's 2015 retrospective, this symposium addressed the exhibition itself as well as Burri's work in the context of post-war and contemporary art.</info>
+        </entry>
+        <entry>
+          <title>Artisti del '900 - Alberto Burri</title>
+          <link>https://www.youtube.com/watch?v=Dp-s6LdBy0A</link>
+          <info>An Italian introduction to Burri's art, researching into the use of unusual materials. With comments by Philippe Daverio and Maurizio Calvesi.</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: The Colour of Silence</title>
+          <link>https://www.youtube.com/watch?v=RlpQqIpohzE</link>
+          <info>A glimpse of Burri creating graphic works between 1965 and 1985.</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Film: Il Deserto Rosso (1964) by Michelangelo Antonioni</title>
+          <link>https://www.facebook.com/watch/live/?v=323453405286544&amp;ref=watch_permalink</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Music: Homage to Burri for flute, bass clarinet and violin by Salvatore Sciarrino</title>
+          <link>https://www.youtube.com/watch?v=8yG3uyTPV9U</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Fashion: Omaggio a Burri (1969) by Roberto Capucci</title>
+          <link>https://www.inexhibit.com/marker/rome-roberto-capucci-maxxi-exhibition-bellissima/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Fashion: Laura Biagiotti 2017/2018 Fall Winter collection</title>
+          <link>https://www.youtube.com/watch?v=wehk4v2831s</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Official posters for the 1990 FIFA World Cup:</title>
+          <link>https://www.pinterest.co.uk/pin/804033339698055410/?nic_v2=1aDXduipU</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

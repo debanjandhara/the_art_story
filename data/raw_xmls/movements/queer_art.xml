@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>queer_art</id>
+    <name>Queer Art</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1870 - present</years>
+    <art_title>Queer Art - Important Pieces</art_title>
+    <description>"Queer Art" became a powerful political and celebratory term to describe the art and experience of gay, lesbian+ people.</description>
+    <art_description>Famous artists, representations, and provocations in the category of Queer Art; with analysis, achievements, and overall contributions to visual culture.</art_description>
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1870</start>
+    <art_type>Art</art_type>
+    <bio_highlight>Gay photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mapplethorpe_robert"&gt;Robert Mapplethorpe&lt;/span&gt; died of AIDS related complications in 1989. But when the Corcoran Gallery of Art in Washington, D.C. cancelled the artist’s retrospective a few months later, hell broke loose. Protesters gathered outside the gallery, holding placards and shouting. And they projected the artist’s images onto the museum’s walls. In this and many other ways, Queer Art took representations of the gay experience and made it into art. And when it was prevented from doing that, artists and supporters defiantly fought back.</bio_highlight>
+    <pub_time>12/23/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>cahun_claude</artist>
+    <artist>bacon_francis</artist>
+    <artist>hockney_david</artist>
+    <artist>mapplethorpe_robert</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>identity_art</movement>
+    <movement>performance_art</movement>
+    <movement>postmodernism</movement>
+    <movement>lgbt_artists</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>identity_art</entry>
+    <entry>performance_art</entry>
+    <entry>postmodernism</entry>
+    <entry>lgbt_artists</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="warhol_andy" alt="Andy Warhol">"If I went to a lady of the night, I'd probably pay her to tell me jokes."</q>
+    <q author="Francis Bacon">"I feel ever so strongly that an artist must be nourished by his passions and his despairs. These things alter an artist whether for the good or the better or the worse."</q>
+    <q author="Catherine Opie">"There's a certain kind of equality I'm trying to create, which is what I believe American democracy is about"</q>
+    <q author="Gluck">"No prefix, suffix, or quotes"</q>
+    <q author="David Hockney">"Gay men today want to be ordinary - they want to fit in. Well, I didn't care about that. I didn't care about fitting in. Everywhere is so conservative."</q>
+    <q author="David Wojnarowicz">"Hell is a place on earth. Heaven is a place in your head."</q>
+    <q author="Alex Pilcher">"Works of art sometimes help us to feel less out of place in the world. Alongside queer novels, films, poems and songs, art has played its part in nurturing the self-awareness and confidence of queer people around the world."</q>
+    <q author="Richard Meyer">"Attempts to trouble the conventions of gender and sexuality to highlight the performative aspects of identity and to oppose the tyranny of 'the normal' are woven into the historical fabric of homosexuality and its representation."</q>
+  </quotes>
+  <authors>
+    <author link="ingram">Sarah Ingram</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Any art that can be considered "queer" refers to the re-appropriation of the term in the 1980s, when it was snatched back from the homophobes and oppressors to become a powerful political and celebratory term to describe the experience of gay, lesbian, bisexual, transgender, and intersex people. Adhering to no particular style, for over more than a century, Queer Art has used photography, portraiture, abstract painting, sculpture, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt; to explore the varieties and depths of queer identity.
+			&lt;br/&gt;&lt;br/&gt;
+			While homosexuality has a long history, the modern sense of the term is relatively new. Since the late 19&lt;sup&gt;th&lt;/sup&gt; century, cultural and legal responses to homosexuality have evolved, but it was only in the second half of the 20&lt;sup&gt;th&lt;/sup&gt; century that many of the laws criminalizing homosexual acts were overturned. It wasn't until the late 20&lt;sup&gt;th&lt;/sup&gt; century that homosexuality was no longer considered a pathology by psychiatrists, and it wasn't until the 21&lt;sup&gt;st&lt;/sup&gt; century that marriage rights were granted to same-sex couples. Throughout all of these circumstances, Queer Art has addressed these issues covertly and overtly, insisting on a voice in the art world that routinely suppressed it.
+		</synopsys>
+    <key_ideas>
+      <idea>Because of the early criminalization of homosexual acts and the social stigma connected to homosexuality, much Queer Art employs coded visual language that would not arouse suspicion among the general public but would allow those familiar with the tropes of the subculture to glean the hidden meaning.</idea>
+      <idea>With the rise of activism in the wake of the Civil Rights protests and the AIDS epidemic, Queer Art became more frank and political in its subject matter, forcing the viewers to recognize queer culture and to underscore the institutional inequities and hypocrisy that fueled homophobia.</idea>
+      <idea>The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-identity_politics"&gt;Identity Politics&lt;/span&gt; surrounding Queer Art has sparked much debate, with some artists embracing Identity Politics and other eschewing it as not important for their work. The shifting nature of identities in particular and changing contexts has induced much questioning in queer communities and produced a myriad of answers.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="p">Before 1861, the death penalty existed for people convicted of gay sexual acts in England and Wales. Laws were slightly more liberal in parts of Europe, but in United States, those found guilty of sodomy could be punished by mutilation in some states. Such consequences meant that any references to homosexuality in art had to be heavily hidden. British art critic Laura Cumming explains how desires in early art could be easily spotted by those in the know: "Bee-stung lips, bare breasts, togas slipping discreetly from shoulders and eyes half-closed in ecstasy. By invoking the classical tradition of same-sex love, artists could paint Sappho embracing Erinna and David strumming Jonathan's harp and speak surreptitiously to particular viewers."</p>
+          <p type="p">A discussion of the queer experience in relation to art history can begin in 1870 when for the first time a paper by German psychiatrist Carl Friedrich Otto Westphal considered the experience of "contrary sexual feeling" in which two people were dealing with what would later come to be known as homosexuality. Michel Foucault describes this as the birth of the homosexual as an identity, rather than a set of conditions. He wrote in the &lt;i&gt;History of Sexuality&lt;/i&gt; (1976), "The sodomite had been a temporary aberration; the homosexual was now a species," hinting at a future where the queer experience would become an important branch of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-identity_politics"&gt;Identity Politics&lt;/span&gt;.</p>
+          <p type="img" alt="&lt;i&gt;Portrait of Oscar Wilde&lt;/i&gt; (1895) by Henry de Toulouse-Lautrec, painted the night before Wilde's trial, shows the writer's flamboyant personality but also the anxiety and fear about what lay ahead." show="1">/images20/photo/photo_queer_art_1.jpg</p>
+          <p type="p">Two-and-a-half decades later, in 1895, the British author and playwright &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wilde_oscar"&gt;Oscar Wilde&lt;/span&gt; was sent to prison for two years after he was convicted of sodomy, and the trials helped shape an emergent identity of the homosexual artist. An examination of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-toulouse_lautrec_henri"&gt;Henri de Toulouse-Lautrec's&lt;/span&gt; portrait shows that the queer experience is not limited to people from homosexual backgrounds. While the subject of the painting is a homosexual artist, Toulouse-Lautrec himself was not, but his disability and height made him an outsider who could sympathize with Wilde's position. Art historian Richard Meyer explains, "As Lautrec's portrait suggests, the dialogue between art and queer culture cannot be confined to homosexual artists. Shifting constructions of desire and deviance have shaped modern art in ways that extend beyond sexual biography or individual preference."</p>
+        </subsection>
+        <subsection title="Coded Art">
+          <p type="p">Dismissive of the gay experience, history and criticism of the past deliberately concealed artists' sexuality. The Tate's Alex Pilcher writes, "Important biographical information about artists has too often been excised altogether, downplayed or else interpreted in terms that fit with a presumption of heterosexuality. The same-sex partner becomes the 'close friend.' The artistic comrade is made out as the heterosexual love interest....Be prepared to find gay artists diagnosed as 'celibate,' 'asexual,' or 'sexually confused.'"</p>
+          <p type="p">A shift in culture began in the inter-war period as greater acceptance was seen in artistic urban centers. Paris and Berlin became home to literary groups where homosexuality was no longer seen as a sin. The roaring twenties saw speakeasies open in Harlem and Greenwich Village that welcomed gay and lesbian clients. Cafes and bars in Europe and Latin America, Granada, Moscow, Mexico City, and Warsaw became host to artistic groups which helped integrate gay men into mainstream cultural development.</p>
+          <p type="p">Despite the increased openness of certain urban societies, the artists of the time learned to develop visual codes to signify queerness in clandestine ways, which were left open to viewers' interpretation. Art historian Andrew Graham-Dixon, for instance, said &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns'&lt;/span&gt; very famous monochrome encaustic &lt;i&gt;White Flag&lt;/i&gt; (1955) was a statement about being a gay man in a restrictive American society. He wrote, "He was in a relationship with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt; but if he admitted he was gay he could go to jail. With &lt;i&gt;White Flag&lt;/i&gt; he was saying America 'was the land where...your voice cannot be heard. This is the America we live in; we live under a blanket. We have a cold war here. This is my America.'"</p>
+          <p type="p">In 1962, the United States began to decriminalize sodomy, and in the United Kingdom by 1967 the new Sexual Offences Act meant consensual sex between men was no longer illegal. But societal pressures remained and many LGBTQ men and women faced intense pressure to remain "in the closets." Such pressures were exacerbated by actions of censorship such as the Hollywood Production Code which banned depictions of "sex perversion" from films made and distributed in the United States up until 1968.</p>
+        </subsection>
+        <subsection title="Visibility">
+          <p type="p">The Stonewall riots in 1969 changed everything. In the early hours of June 28, the New York City Police raided the Stonewall Inn, a gay club in Greenwich Village. This action sparked a riot that turned into six days of protests and violent clashes which became the catalyst for the gay rights movement in the United States and across the world. This pivotal movement saw a shift in gay liberation, and people were encouraged to "come out" of the closets. Artists were inspired to use their work to discuss their sexual identity and to document and celebrate depictions of the queer experience.</p>
+          <p type="p">The first Pride Parade was held a year after the uprising, and marches are now held every year all over the world. Placards and posters became an important tool as gay activist art sought to change the world. One such sign proclaimed, "I am your worst fear. I am your worst fantasy," positioning homosexuality as a site of both anxiety and fascination.</p>
+        </subsection>
+        <subsection title="The AIDS Crisis and Culture Wars in the 1980s">
+          <p type="p">Gay identity became the site of a new battle in the 1980s with the onset of the AIDS crisis. The deadly disease ravaged the gay and arts communities. Many artists became activists, demanding that their plights be heard by the government and medical institutions alike. On both sides of the Atlantic, right wing journalists and tabloid newspapers whipped up anxiety about the transmission of HIV by scapegoating gay men.</p>
+          <p type="p">Controversy then erupted in the United States when certain conservative elected officials objected that money from a National Endowment for the Arts grant went to Queer artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mapplethorpe_robert"&gt;Robert Mapplethorpe&lt;/span&gt; and Karen Finley. Culture wars broke out as the conservative right attempted to eliminate funding of controversial art. US law prevented any federal money being used to "promote, encourage or condone homosexual activities," which also led to the defunding of AIDS programs. In 1987, the central government in the UK banned local councils from using public funds to "promote homosexuality" or a "pretended family relationship."</p>
+          <p type="p">Queer theorist Paula Tredichler said the 1980s saw two epidemics of significance: "One epidemic was called AIDS, and it raised the stakes of homosexual visibility to a matter of life and death. The other was the word 'queer.' It spread from closets to the streets, from sensationalized exposes to countercultural magazines, from bars to zines, from alternative galleries and to the occasional museum. Naturally, the concept insinuated itself into the academy."</p>
+          <p type="p">The term "queer" was re-appropriated as a matter of pride. Its spirit of social deviance and lack of clear definition enabled it to be used as an umbrella term, including all the groups referred to under the lesbian, gay, bisexual, transgender, queer or questioning, and intersex umbrella. As Alex Pilcher says: "The label has a history of being spoken in hatred - many of us remember being on the receiving end of it as a term of abuse - but from the mid 1980s onwards there has been a defiant move to reclaim the word."</p>
+        </subsection>
+        <subsection title="Identity Politics">
+          <p type="p">As right wing, conservative and religious groups tried to suppress the queer voice in public, a new anti-authoritarian political and cultural wave began. Identity Politics refers to the formation of social groups in which people of specific backgrounds united to fight for their specific interests and common causes without regard to wider political organizations. In gay communities, this meant people were encouraged to come out to their friends and families and make their voices heard by taking part in protests, marches, and direct action. The accompanying art was loud, confrontational and asked questions about what art should be and who should make it. Activist group the Gay Liberation Front proposed gay identity as a revolutionary form of social and sexual life that would reinvent traditional systems of sex and gender. More recently, however critics have questioned the validity of Identity Politics that casts the self or group as an identity defined by its opposition to an "other."</p>
+        </subsection>
+        <subsection title="Feminism">
+          <p type="p">Queer Art has had an important role in subverting repressive gender norms. The work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cahun_claude"&gt;Claude Cahun&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gluck"&gt;Gluck&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-opie_catherine"&gt;Catherine Opie&lt;/span&gt; can be seen to operate within a strongly &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminism"&gt;feminist&lt;/span&gt; framework, as the artists seek to dismantle patriarchal notions of femininity. Judith Butler, leading feminist theorist, wrote, "A feminist view argues that gender should be overthrown, eliminated or rendered fatally ambitious precisely because it is always a sign of subordination for women." Queer Art then can be seen to dance along a parallel line as it works to dismantle oppressive patriarchal norms. The feminist movement also provided practical support to the Queer movement in the form of health activism, as the AIDS crisis saw important information about the disease and its transmission withheld from gay communities. As critic Catherine Lord says, "Much of the historical research, cultural analysis and legal defense that laid the groundwork for a sex-positive queer culture during the AIDS crisis was instigated by the queer leather community and pro-porn lesbians and feminists."</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Painting">
+          <p type="p">The raw expression invited by the medium of painting has allowed portraiture to become a space for the queer artist to explore notions of love and sexuality. From the covertly sexual works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sargent_john_singer"&gt;John Singer Sargent&lt;/span&gt; to the more open and defiant male nudes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rivers_larry"&gt;Larry Rivers&lt;/span&gt;, painting has provided a venue for the sensual element of the queer experience to be explored.</p>
+          <p type="p">British painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hockney_david"&gt;David Hockney's&lt;/span&gt; images of men in showers and swimming pools show the celebration of gay love on canvas. Art historian Richard Meyer writes, "In responding to the academic requirement for life painting, Hockney insists on the importance of the artist's desire for the naked body he depicts. Far from a dispassionate study of the human figure as an ensemble of volumetric forms (it's only a sphere, a cylinder, a cone), Hockney proposes a necessary link between artistic achievement and sexual attraction."</p>
+        </subsection>
+        <subsection title="Murals, Graffiti, and the Public Space">
+          <p type="img" alt="AIDS Quilt at 2012 International AIDS Conference in Washington DC" show="1">/images20/photo/photo_queer_art_2.jpg</p>
+          <p type="p">Sculpture provided a way for the queer experience to be literally brought out of the closet and into the street, as in the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-segal_george"&gt;George Segal's&lt;/span&gt; &lt;i&gt;Gay Liberation&lt;/i&gt;, which was installed across the street from the old Stonewall Inn in Greenwich Village. The AIDS Memorial Quilt is a still-growing piece of public art where people can commemorate via quilt squares loved ones lost to the disease. The Names Project, as it became known, was conceived by gay rights activist Cleve Jones in San Francisco. When it was first displayed for the first time on the National Mall in Washington, D.C., during the 1987 National March on Washington for Lesbian and Gay Rights, it covered a space larger than a football field. Today, more than 48,000 people have added panels honoring the names of their lost friends, and it has germinated into different incarnations around the world, won a Nobel Peace Prize nomination, and raised $3 million for AIDS service organizations.</p>
+          <p type="p">In the face of centuries of repression, the public space became an important new venue for gay artists to display their work. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-holzer_jenny"&gt;Jenny Holzer&lt;/span&gt; would hang her photocopied &lt;i&gt;Truism&lt;/i&gt; posters around New York in the late 1970s. A few years later &lt;span class="marked_text chart-tooltip-target-top tooltip_id-haring_keith"&gt;Keith Haring&lt;/span&gt; would use advertising panels for his street art, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wojnarowicz_david"&gt;David Wojnarowicz&lt;/span&gt; spray-painted graffiti on the Chelsea piers in the early eighties. Artists proclaimed they would no longer be closeted, and the progressive city of New York provided the perfect gallery.</p>
+          <p type="p">Activist artists aim to create art that is a form of political or social currency, actively addressing cultural power structures rather than representing them or simply describing them. By taking on the conservative right in the Culture Wars, queer artists had no choice but to become activists as they fought for knowledge, fairness, and representation. Feminist graffiti from the 1970s, as shown in Jill Posener's photographs, proved a vital influence for gay activism.</p>
+          <p type="p">In London, Posener produced images of "refacings" of the spaces of public advertising that would go on to influence Queer Art. One advert, claiming, "We can improve your nightlife," had the witty missive spray-painted beneath: "Join Lesbians United." A Fiat ad claimed, "If this were a lady it would get its bottom pinched," to which Posener added, "If this woman were a car, she'd run you down."</p>
+          <p type="p">Critic Catherine Lord explained, "With their cheap, sly, hit-and-run tactics, such activists refused the mass-media definition of 'success,' working their alterations on a precise and local level. The interventions nudged cultural politics out of the realm of...positive imaging of identity and turned subcultural representation into a matter of scanning between the lines and reading the writing on the wall."</p>
+          <p type="p">And San Francisco, Los Angeles, and New York City have become huge urban canvases for self-labeled "queer street artists" like Jeremy Novy, Homo Riot, and Jilly Ballistic to fight homophobia by claiming a share of ownership in public space.</p>
+        </subsection>
+        <subsection title="Photography">
+          <p type="p">Photography has provided a fertile ground to subvert "normalized" notions of love and sexuality and to bring what has traditionally been considered "deviant" into the light, thus bestowing it new agency. Whether they are &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leibovitz_annie"&gt;Annie Leibovitz's&lt;/span&gt; images of the dying Susan Sontag, or &lt;span class="marked_text chart-tooltip-target-top tooltip_id-opie_catherine"&gt;Catherine Opie's&lt;/span&gt; images of gay and lesbian domesticity, photography has proven a powerful medium to explore the queer experience. But it also found real power in subverting images from the AIDS crisis, during which the right-wing press would revel in publishing pictures of emaciated victims to point the blame at those it said were responsible for spreading the disease. Queer artists and photographers would reel against this, presenting their subjects in colorful, celebratory and defiant lights.</p>
+        </subsection>
+        <subsection title="Other Visual Art">
+          <p type="p">Other artists took on conventions and laws that prevented them from exhibiting more overt or graphic scenes in a public space by creating more subtle, coded works. Visual artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gonzalez_torres_felix"&gt;Félix González-Torres&lt;/span&gt; insisted on his right to place explicit sexual figuration in the public sphere. In his 1991 work &lt;i&gt;Untitled (Portrait of Ross in LA)&lt;/i&gt;, the artist poured an enormous pile of brightly colored candies into a corner and invited viewers to take pieces of the candy. The pile of candy weighed exactly 175 pounds - the "ideal" weight of his lover. Those that ate the sweets had been seduced into swallowing queer intimacy. It becomes a work of performance art, where the viewer unwittingly becomes the actor.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">In a 1991 essay, Judith Butler argued that homosexual identity can never become a stable entity. She wrote, "Conventionally, one comes out of the closet [...] so we are out of the closet, but into what? What new unbounded spatiality?...Curiously, it is the figure of the closet that produces this expectation, and which guarantees its dissatisfaction. For being 'out' always depends to some extent on being 'in;' it gains its meaning only within that polarity." Contemporary artists such as Keltie Ferris interrogate this identity that can only be measured against something it is not. In &lt;i&gt;Gaydar&lt;/i&gt; (2014), Ferris offers no visual clues as to her sexuality, but the title acts as a rejoinder to society's fascination with her identity.</p>
+          <p type="p">A queer reading of the work is made difficult in the light of recent approaches to criticism which have tried to divorce art from the personality of the artist. As Alex Pilcher explains, "The meanings of an artwork are no longer credited exclusively to the artist's intentions; the active role of the spectator and the context of viewing are now accorded more clout....When even erotic, figurative art is hard to characterize as queer without falling back on biographical data, abstraction tests queer art history to the limit."</p>
+          <p type="p">The redefinition of the word "queer" has now reached a turning point, argue Richard Meyer and Catherine Lord. With its new-found acceptance, it now runs the risk of being recuperated as "little more than a lifestyle brand or niche market" - what was once deviant is now mainstream, thus destabilizing its future.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="cahun_claude">Untitled (Self-Portrait with Mirror) (undated)</artwork>
+    <artwork from="movement" page="identity_art">Dinner Party (1974-9)</artwork>
+    <artwork from="artist" page="haring_keith">Untitled (1982)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Self Portrait</title>
+      <artist>Claude Cahun</artist>
+      <year>1927</year>
+      <materials>Photographic print</materials>
+      <desc>
+				In this carefully posed &lt;i&gt;Self Portrait&lt;/i&gt; the artist sits on a chair with legs crossed, facing the viewer. Dressed as a weightlifter, Cahun holds a dumbbell. Nipples drawn on the long-sleeve top give the impression that Cahun is bare chested. Written across the artist's shirt are the words: "I am in training. Don't kiss me." This deliberately and playfully contradicts the lips drawn beneath the assertion, the hearts Cahun painted onto the leggings and cheeks, and the painted, puckered lips. Cahun expression is camp, playful, and the posture is jaunty.
+				&lt;br/&gt;&lt;br/&gt;
+				Born Lucy Renee Mathilde Schwob, the French photographer, writer and political activist chose the name Claude Cahun after a number of different iterations before concluding "neuter is the only gender that always suits me". With gender playing such a huge role in how we understand ourselves in society, transgender variance is an important subject for Queer Art. Before the late-twentieth century, non-binary identities are hard to spot or understand, but Claude Cahun changed all that, creating, along with partner Marcel Moore, a subversive body of work that explored new possibilities for gender, sexuality, and personal identity.
+				&lt;br/&gt;&lt;br/&gt;
+				French writer and Surrealist André Breton recognized Cahun as "one of the most curious spirits of our time" in the way Cahun rejected categorization as either a woman, lesbian, or artist. Cahun consciously played with masculine and feminine stereotypes to destabilize accepted gender norms. In the portrait series Cahun transmutes from one version of herself to another, bringing both personal and political agency that has traditionally been denied to marginalized groups.
+				&lt;br/&gt;&lt;br/&gt;
+				Cahun died at the age of 60 and fell into obscurity but was rediscovered in the 1990s. Alex Pilcher explains, "A generation schooled in queer and postmodern thought rushed to embrace the forgotten artist as a prophet. Though Cahun's literary works and surrealist constructions are impressive, the artist's cult following is a response to the extraordinary self-portraits in which genders are swapped and mixed. This 'weightlifter' photograph has become one of the most revered (and regularly impersonated) queer icons of the twentieth century."
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Medallion (YouWe)</title>
+      <artist>Gluck</artist>
+      <year>1936</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This double portrait shows two women's faces in profile. The gray background gives the piece a powerful, somber tone. All that is visible beyond the head and shoulders of the figures is a low, green horizon. The artist is in the foreground, her focused and intense expression clearly one of a painter at work. Her hair is dark, cropped, and masculine. She wears no makeup or jewelry. Behind her and looking up as if to the stars in the darkening night is her lover, Nesta Oberma. Her profile, highlighted and tempered with a brighter palette mirrors the artist. The composition evokes a sense of strength, power, and permanence.
+				&lt;br/&gt;&lt;br/&gt;
+				Gluck was born Hannah Gluckstein, but she built an androgynous identity by insisting upon "no prefix, suffix or quotes" around her gender-neutral name. The painter, who became known for her still lifes, portraits, and landscapes, defiantly rejected societal pressure by wearing fastidiously tailored men's clothes and closely cut hair.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Medallion&lt;/i&gt; was a radical portrait to release in 1936. The artist referred to it as the couple's "marriage" picture, decades before gay marriage would become an accepted norm. She called the public declaration of love her "YouWe" picture, adding, "Now it is out and to the rest of the Universe I call Beware! Beware! We are not to be trifled with." But the significance of the work was not discussed at the time. Male homosexuality was a criminal offense and there was no acceptable vocabulary for being lesbian or transgender. As Richard Meyer and Catherine Lord suggest, "Importantly, the painting's focus on their heads not only romanticizes the merging of two like spirits but also restricts the field of signifiers of lesbian visuality."
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Two Figures</title>
+      <artist>Francis Bacon</artist>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this work, whitish-blue bodies wrestle on top of rumpled sheets. The powerfully rendered male figures are bulky and rawly expressed. The power of movement is emphasized by the minimal black background, and the dynamic brushwork around the faces distorts the men's expressions, leaving it hard to tell whether their faces are twisted in expressions of pain, anguish, or rapture.
+				&lt;br/&gt;&lt;br/&gt;
+				This piece was among the darkest and most powerful of Bacon's work. It was inspired by late 19&lt;sup&gt;th-&lt;/sup&gt;century photographs by Eadweard Muybridge of two men wrestling, but here the tangled sheets atop the bed make the homosexual meaning clear. This work was problematic for curators, and it had to be shown out of public view at London's Hanover Gallery, most likely due to the figurative hint of an erect penis. Later, police were called to investigate Bacon's work on grounds of obscenity. Howe says, "Bacon was probably aware that he was building upon aesthetic tropes of classical wrestling used since the nineteenth century as cover emblems of homosexuality.. The uniqueness of Bacon's approach to the subject is that he captured a moment of violent tenderness and intimacy through figurative rupture, the sensations and atmosphere of the clandestine sexual experience symptomatic of his own desire and time."
+				&lt;br/&gt;&lt;br/&gt;
+				Much of Bacon's work was based on people he met in bars and clubs of London's Soho, an important locus for the queer community, and an area the artist called "the sexual gymnasium of the city." Bacon was an openly gay man, and as a teenager he was thrown out of the family home when he was caught trying on his mother's underwear. His autobiographical paintings provided a space where he could exorcise his demons; his life was shrouded in sadness, and in 1971, his lover of eight years, George Dyer, committed suicide in their shared hotel room.
+				&lt;br/&gt;&lt;br/&gt;
+				The male nude was an important motif in Queer Art, as artists sought to present alternative versions of love and sexuality. In Bacon's work however, queer theorist Catherine Howe says, "The male body is both venerated and reduced to the status of animal; restricted yet liberated from societal conventions of desire." He would explore the wrestlers theme in different incarnations throughout the decades. The subject provided a perfect disguise for the sexual act, allowing the queer experience a respectable critical interpretation at the time.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>We Two Boys Together Clinging</title>
+      <artist>David Hockney</artist>
+      <year>1961</year>
+      <materials>Oil on Board</materials>
+      <desc>
+				In this work, two figures embrace in the center of the canvas, kissing as one's arm encircles the other. The abstract style robs the figures' gender, identity, and facial features to a certain extent, but script written around the two bodies reads, "We two boys together clinging." The paint marks are rough and expressive, contrasting with a calming color palette of blues, whites, rose pinks, and reds. Elsewhere around the canvas, words, numbers, and horizontal lines resembling an empty musical staff can be seen. The text suggestively appears to be graffiti on a public bathroom wall.
+				&lt;br/&gt;&lt;br/&gt;
+				During a time when one had to be careful about openly sharing one's sexuality, Hockney described his work as "homosexual propaganda." His work was especially daring, as he explored notions of gay sexuality in painting before sodomy was decriminalized in the United Kingdom in 1967. Queer theorist Catherine Howe explains that Hockney often borrowed imagery from physique magazines, which while ostensibly about men's sports were catering to homosexual men.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting was produced at the beginning of Hockney's career and represents a marked difference from what would become his more realist style. The almost child-like technique was suggested to him by the French artist Jean Dubuffet. He produced it towards the end of his second year at the Royal College of Art. Hockney's work is a powerful declaration of independence; neither his artistic style nor his sexuality will be dictated. His British Pop art later provided a space where he could deliberately break rules, simultaneously deconstructing linear perspective along with accepted societal expectations.
+			</desc>
+      <collection>National Portrait Gallery London</collection>
+    </artwork>
+    <artwork>
+      <title>Jim and Tom, Sausalito</title>
+      <artist>Robert Mapplethorpe</artist>
+      <year>1977</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				In this photograph, two of Mapplethorpe's friends engage in a carefully staged and intimate sexual act. The man on the left leans back into the shadow as he urinates into the other's mouth. His face is concealed behind a gimp mask, while his penis is clear in the light. The man on the right is closed-eyed, submissive, kneeling on the floor. A shaft of light is carefully placed to highlight his face and his lover's penis.
+				&lt;br/&gt;&lt;br/&gt;
+				Mapplethorpe's photography depicting still lifes of flowers, celebrity and Royal Family portraiture, and pictures of children are well-loved, but his powerful and subversive images of homoerotic subjects are most notable in their power to dramatically alter perceptions and push boundaries. Mapplethorpe, fascinated by the male gaze on the male body, brought underground queer culture of the 1970s and 1980s into the public eye. He produced provocative male nudes, explicit sex scenes, and erotic portraits of leather-clad men in sadomasochistic scenarios. It was work that captured social change in real life and brought the gay experience into the light for all to see - encouraging members of the gay community to come out of the shadows.
+				&lt;br/&gt;&lt;br/&gt;
+				Mapplethorpe was central in the fight to make the queer experience recognizable as political identity, and his work was famously caught up in the Culture Wars when in 1989 the Corcoran Gallery of Art cancelled a major Mapplethorpe show just weeks before it was due to start. Mapplethorpe politicized the physical body; he used images of the body to reassert his and other gay artists' right to exhibit images of the gay experience in public view. The value of this was made clear after the artist's death in 1989 from AIDS-related complications when US politician Jesse Helms said Mapplethorpe's work was a "threat to American values." His work highlighted the homophobia that reached into the highest ranks of American power.
+			</desc>
+      <collection>Los Angeles County Museum, USA</collection>
+    </artwork>
+    <artwork>
+      <title>Gay Liberation</title>
+      <use_big_image>true</use_big_image>
+      <artist>George Segal</artist>
+      <year>1979</year>
+      <materials>Bronze covered in white lacquer</materials>
+      <desc>
+				In this work, two life-size couples are relaxed in each other's company in the public space. A pair of men stand, talking casually, as one affectionately places his hand on the other's back. Nearby two women sit on a bench, one resting her hand on the other's thigh as they look eye to eye. The work is placed in a park, opposite the Old Stonewall Inn, a gay bar in Greenwich Village and the site of the Stonewall riots in 1969 - one of the most important events in the gay liberation movement.
+				&lt;br/&gt;&lt;br/&gt;
+				Using orthopedic bandages dipped in plaster, New York artist George Segal constructed haunting and memorable life-sized models which he seated at lunch counters, poised on street corners, or waiting in train stations. In doing so, he made sculpture that wasn't separated from the viewing public by a plinth or pedestal, allowing viewers a closer look and a more immersive experience.
+				&lt;br/&gt;&lt;br/&gt;
+				While created in 1979, the work wasn't installed until 1992, and one made for Los Angeles was not accepted by the city. Critic Catherine Lord explains, "In 1980, 'public' signified audiences identified by race, class and ethnicity, rather than sexuality. At the time, gays and lesbians were seldom named as either producers or consumers of their own public culture."
+				&lt;br/&gt;&lt;br/&gt;
+				The whitewashing effect of the work presents a blank canvas, onto which the viewer can add their own experience, but it also gives a ghostly feeling. The work caused consternation at the time as many felt the work should have been produced by a gay or lesbian artist. Detractors argued the whiteness of the sculpture suggested Caucasian individuals, thus whitewashing the role people of color played in gay liberation. Some also suggested that the anonymity of the figures depersonalized the very real stories of the people who fought for their rights outside the Stonewall Inn.
+				&lt;br/&gt;&lt;br/&gt;
+				In 2015, the sculptures were vandalized (or improved - depending on one's viewpoint) when two of the figures were painted brown and wigs and colorful costumes added. The anonymous protesters said they did so in honor of the people of color who led the movement. "What we did was rectification, not vandalism. Those statues are bronze (brown) underneath the layer of white paint - the symbolism behind that is infuriating."
+			</desc>
+      <collection>Greenwich Village, New York</collection>
+    </artwork>
+    <artwork>
+      <title>One Day This Kid...</title>
+      <artist>David Wojnarowicz</artist>
+      <year>1990</year>
+      <materials>Photostat mounted on board</materials>
+      <desc>
+				A black and white image of the artist as a child looks out at the viewer. Smiling and innocent, the subject looks like any other ordinary child growing up in the 1960s. It is taken from a personal photo but blown up, newspaper-style, removing elements of intimacy and placing it within a political, public context. The figure is entirely surrounded by text that discuss the gay experience and the myriad ways society will attempt to oppress it. Statements that include "This kid will be faced with electro-shock, drugs and conditioning therapies in laboratories" paint a grim picture for the child's future. The words crowd him, filling the frame, oppressively at odds with the boy's youthful, optimistic expression.
+				&lt;br/&gt;&lt;br/&gt;
+				The piece combines the personal and political in a powerful way that counteracts conservative representations of queer art of previous years. Newspapers and the right wing press had aggressively presented gay love as a dangerous perversion, particularly during the AIDS crisis. This piece however places it back in the realm of the ordinary, the final line reminding the viewer that gay love is as physical as heterosexual desire. The work's colorless composition and clear black text enabled it to be copied and shared widely, and it has since been circulated online and throughout bookstores across the United States and beyond. It has become a powerful icon for gay rights, a tool of activism, and one of Wojnarowicz's most well-loved works.
+				&lt;br/&gt;&lt;br/&gt;
+				Curator Clare Barlow, says: "Queer theory of the early 1990s radically critiqued concepts of gender and sexual identity, and suggested new methodologies that privilege transgression, subversion and the unsettling of established norms." With this work we see Wojnarowicz flip notions of normalcy on their head to point the finger at a prejudicial and unjust social order powerfully stating that the problem is not with the child who is born genetically different from his peers but with an unjust society that persecutes difference.
+			</desc>
+      <collection>Whitney Museum of American Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Melissa &amp; Lake</title>
+      <artist>Catherine Opie</artist>
+      <year>1998</year>
+      <materials>Chromogenic photographic print</materials>
+      <desc>
+				Two women's bodies face one another as their faces turn to the camera. To the left stands a woman with cropped hair in a white shirt and black bow tie. She holds her partner's shoulder with one hand, while the woman in the green shirt clasps her waist. Their serious faces are half lit, giving the piece a dramatic feel, but they are in an ordinary domestic setting.
+				&lt;br/&gt;&lt;br/&gt;
+				Catherine Opie, who has described herself as a "kind of twisted social documentary photographer," made a career exploring the world and people around her. This work was part of &lt;i&gt;Domestic&lt;/i&gt;, a body of photographs she took during a road trip, to better understand the lives of ordinary lesbian American couples. Opie began her career shooting powerful and subversive portraits of cross dressing, sadomasochism, and the leather community. Later, she wanted to present ordinary pictures of queer life as a retort to the notion that the gay lifestyle was somehow deviant, and in doing so she produced insightful and intimate portraiture that has been wholly absent from mainstream media. In this way, her work aligns with the trajectory of Feminist art, whose goal, as artist Suzanne Lacy declared, was to "influence cultural attitudes and transform stereotypes."
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Gender Trouble&lt;/i&gt;, Judith Butler's 1990 feminist text, sought to uncover the ways in which the very thinking of what is possible in gendered life is foreclosed by certain habitual and violent presumptions. She looked at how the gay experience impacted gender norms, asking for example, why do some butch lesbians who become parents become "dads" and others become "moms"? We see such questions at play in Opie's work, as she presents differing, subverted and updated images of gender, maternity, partnership, and domesticity.
+				&lt;br/&gt;&lt;br/&gt;
+				Critic Liz Kotz wrote of Opie's work that "there is no text, no artist's statement, and a refusal to read and hence 'frame' these images for the viewer." Opie's social documentary, although produced out of a spirit to tell the stories of the oppressed and underrepresented, does not shout and confront like previous works of the genre. Rather it is quiet and inviting, asking the viewer to understand from a different experience the realities of universal notions of love and family.
+			</desc>
+      <collection>The Guggenheim Museum, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>cahun_claude</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gluck</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bacon_francis</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hockney_david</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>mapplethorpe_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>segal_george</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>wojnarowicz_david</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>opie_catherine</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>aguilar_laura</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>abbott_berenice</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>arbus_diane</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bailey_david</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>beardsley_aubrey</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>beaton_cecil</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bonheur_rosa</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>brooks_romaine</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cadmus_paul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cage_john</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cunningham_merce</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cassils</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>demuth_charles</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gonzalez-torres-felix</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>haring_keith</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>jarman_derek</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>de_lempicka_tamara</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tillmans_wolfgang</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tooker_george</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>wood_grant</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Art and Homosexuality</title>
+          <link>0195399072</link>
+          <info>
+						By Christopher Reed
+						&lt;br&gt;
+						May 2011
+					</info>
+        </entry>
+        <entry>
+          <title>A Hidden Love: Art and Homosexuality</title>
+          <link>3791327046</link>
+          <info>
+						By Dominique Fernandez
+						&lt;br&gt;
+						June 1, 2002
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art and Queer Culture</title>
+          <link>0714849359</link>
+          <info>
+						By Catherine Lord and Richard Meyer
+						&lt;br&gt;
+						April 2, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>A queer little history of art</title>
+          <link>1849765030</link>
+          <info>
+						By Alex Pilcher
+						&lt;br&gt;
+						October 10, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Hide/Seek: Difference and Desire in American Portraiture</title>
+          <link>1588342999</link>
+          <info>
+						By Jonathan D. Katz and David Ward
+						&lt;br&gt;
+						November 2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Queer British Art 1861 - 1967</title>
+          <link>1849764522</link>
+          <info>
+						Edited by Clare Barlow
+						&lt;br&gt;
+						October 10, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Very Queer Street Art Movement Is Spreading Across the US</title>
+          <link>https://hyperallergic.com/447507/queer-street-art-usa/</link>
+          <info>
+						By Paige Towers
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						June 15, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>David Wojnarowicz was a poet, a fighter, a hustler, a survivor</title>
+          <link>https://www.theartnewspaper.com/review/david-wojnarowicz-was-a-poet-a-fighter-a-hustler-a-survivor</link>
+          <info>
+						By Brian Allen
+						&lt;br&gt;
+						The Art Newspaper 
+						&lt;br&gt;
+						August 9, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Gluck And Her No Prefix, No Suffix Queer Art</title>
+          <link>http://www.dailyartmagazine.com/gluck-and-her-queer-art/</link>
+          <info>
+						By Magda Michalska
+						&lt;br&gt;
+						The Daily Art Magazine 
+						&lt;br&gt;
+						February 21, 2018
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>How Identity Politics Conquered the Art World</title>
+          <link>http://www.vulture.com/2016/04/identity-politics-that-forever-changed-art.html</link>
+          <info>
+						By Jerry Saltz
+						&lt;br&gt;
+						Vulture 
+						&lt;br&gt;
+						April 21, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Queer British Art 1861-1967 review: indifferent shades of gay</title>
+          <link>https://www.theguardian.com/artanddesign/2017/apr/09/queer-art-tate-britain-review-laura-cumming</link>
+          <info>
+						By Laura Cumming
+						&lt;br&gt;
+						The Observer 
+						&lt;br&gt;
+						April 9 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>100 years of gay art history, from repression to liberation</title>
+          <link>https://www.youtube.com/watch?v=9RfKDpTgDP8</link>
+          <info>Tate Britain gallery exhibition exploring Queer British Art.</info>
+        </entry>
+        <entry>
+          <title>An examination of David Hockney's We Two Boys Together Clinging</title>
+          <link>https://www.youtube.com/watch?v=ZK9usLgKmX0</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Francis Bacon - BBC Documentary</title>
+          <link>https://www.youtube.com/watch?v=19G8z0c73f4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>I, you, we. Biographer Cynthia Carr examines the work of David Wojnarowicz</title>
+          <link>https://www.youtube.com/watch?v=FkJfrAVCFTo</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Robert Mapplethorpe: Sex, Portraits and Flowers</title>
+          <link>https://www.youtube.com/watch?v=sSpED6xtTuA</link>
+          <info>ABC New's retrospective look at the life and work of American photographer Robert Mapplethorpe.</info>
+        </entry>
+        <entry>
+          <title>Tate documentary on the photography and portraiture of Catherine Opie</title>
+          <link>https://www.youtube.com/watch?v=Wm_b7tNRdHU</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>"We Created A Movement." George Segal on the Stonewall Riots.</title>
+          <link>https://www.youtube.com/watch?v=b7ZZzg6a9Lo</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

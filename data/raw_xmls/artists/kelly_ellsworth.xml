@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>kelly_ellsworth</id>
+    <name>Ellsworth Kelly</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1948 - 2015</years>
+    <description>Kelly challenges the dynamic relationships between shape, form and color by creating irregularly shaped canvases, layered reliefs, and flat sculptures.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>3</highlight>
+    <occupation>Painter and Sculptor</occupation>
+    <nationality>American</nationality>
+    <birthDate>May 31, 1923</birthDate>
+    <birthPlace>Newburgh, New York</birthPlace>
+    <deathDate>December 27, 2015</deathDate>
+    <deathPlace>Spencertown, New York</deathPlace>
+    <art_type>Art</art_type>
+    <pub_time>6/1/2011</pub_time>
+  </main>
+  <includes>
+    <include>minimalism</include>
+    <include>hard_edge_painting</include>
+    <include>post_painterly_abstraction</include>
+  </includes>
+  <similar_movements>
+    <movement>minimalism</movement>
+    <movement>hard_edge_painting</movement>
+    <movement>post_painterly_abstraction</movement>
+    <movement>abstract_expressionism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>martin_agnes</artist>
+    <artist>rosenquist_james</artist>
+    <artist>lichtenstein_roy</artist>
+    <artist>frankenthaler_helen</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I have worked to free shape from its ground, and then to work the shape so that it has a definite relationship to the space around it; so that it has a clarity and a measure within itself of its parts (angles, curves, edges and mass); and so that, with color and tonality, the shape finds its own space and always demands its freedom and separateness."</q>
+    <q>"When I see a white piece of paper, I feel I've got to draw. And drawing, for me, is the beginning of everything."</q>
+    <q>"Geometry is moribund. I want a lil and joy to art."</q>
+    <q>"I'm constantly investigating nature - nature, meaning everything."</q>
+    <q>"The form of my painting is the content. My work is made of single or multiple panels: rectangle, curved or square. I am less interested in marks on the panels than the "presence" of the panels themselves. In "Red, Yellow, Blue," the square panels present color. It was made to exist forever in the present; it is an idea and can be repeated anytime in the future."</q>
+    <q>"I think that if you can turn off the mind and look only with the eyes, ultimately everything becomes abstract."</q>
+    <q>"I am not interested in painting as it has been accepted for so long-to hang on the walls of houses as pictures. To hell with pictures-they should be the wall."</q>
+  </quotes>
+  <authors>
+    <author link="gershman">Rachel Gershman</author>
+  </authors>
+  <article>
+    <synopsys>Ellsworth Kelly has been a widely influential force in the post-war art world. He first rose to critical acclaim in the 1950s with his bright, multi-paneled and largely monochromatic canvases. Maintaining a persistent focus on the dynamic relationships between shape, form and color, Kelly was one of the first artists to create irregularly shaped canvases. His subsequent layered reliefs, flat sculptures, and line drawings further challenged viewers' conceptions of space. While not adhering to any one artistic movement, Kelly vitally influenced the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hard_edge_painting"&gt;Hard-edge painting&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop art&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>Kelly intends for viewers to experience his artwork with instinctive, physical responses to the work's structure, color, and surrounding space rather than with contextual or interpretive analysis. He encourages a kind of silent encounter, or bodily participation by the viewer with the artwork, chiefly by presenting bold and contrasting colors free of gestural brushstrokes or recognizable imagery, panels protruding gracefully from the wall, and irregular forms inhabiting space as confidently as the viewer before them.</idea>
+      <idea>Real-life observations are the backbone of Kelly's abstraction works, which are replications of the shapes, shadows, and other visual sensations he experiences in the world around him. As did the early-20&lt;sup&gt;th&lt;/sup&gt;-century &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaists&lt;/span&gt;, Kelly delights in the spontaneous, the casual, and the ephemeral means of finding such &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt; subjects.</idea>
+      <idea>The subtle fluctuation between the meditative, decorative and industrial in much of Kelly's work can be traced in part to this design training in art school. In this sense, Kelly continues &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse's&lt;/span&gt; lyrical and decorative ideal of creating an art of visual serenity, even as the painted motif is now reduced to its simplest and sometimes most mysterious configuration. The special camouflage unit of which Kelly was a part during his service in World War II, and the principles of visual scrambling he undertook, has also contributed greatly to Kelly's intense visual motifs.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in Newburgh, New York in 1923, Ellsworth Kelly was the second of three boys. He grew up in northern New Jersey, where he spent much of his time alone, often watching birds and insects. These observations of nature would later inform his unique way of creating and looking at art. After graduating from high school, he studied technical art and design at the Pratt Institute from 1941-1942. His parents, an insurance company executive and a teacher, were practical and supported his art career only if he pursued this technical training. In 1943, Kelly enlisted in the army and joined the camouflage unit called "the Ghost Army," which had among its members many artists and designers. The unit's task was to misdirect enemy soldiers with inflatable tanks. While in the army, Kelly served in France, England and Germany, including a brief stay in Paris. His visual experiences with camouflage and shadows, as well as his short time in Paris strongly impacted Kelly's aesthetic and future career path.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Ellsworth Kelly early years" show="0">/images20/photo/kelly_ellsworth_1.jpg</p>
+          <p type="p">After his army discharge in 1945, Kelly studied at the Boston Museum of the Fine Arts School for two years, where his work was largely figurative and classical. In 1948, with support from the G.I. Bill, he returned to Paris and began a six-year stay. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; was taking shape in the U.S., but Kelly's physical distance allowed him to develop his style away from its dominating influence. He enrolled at the École des Beaux-Arts, saying at that point, "I wasn't interested in abstraction at all. I was interested in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt;." &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanesque_art"&gt;Romanesque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-byzantine_art"&gt;Byzantine&lt;/span&gt; art appealed to him, as did the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; method of automatic drawing and the concept of art dictated by chance.</p>
+          <p type="p">While absorbing the work of these many movements and artists, Kelly has said, "I was deciding what I didn't want in a painting, and just kept throwing things out - like marks, lines and the painted edge." During a visit to the Musée d'Art Moderne in Paris, he paid more attention to the museum's windows than to the art on display. Directly inspired by this observation, he created his own version of these windows. After that point, he has said, "Painting as I had known it was finished for me. Everywhere I looked, everything I saw, became something to be made, and it had to be made exactly as it was, with nothing added." This view shaped what would become Kelly's overarching artistic perspective throughout his career, and his way of transforming what he saw in reality into the abstracted content, form, and colors of his art.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Ellsworth Kelly Biography" show="0">/images20/photo/kelly_3.jpg</p>
+          <p type="p">After being well received within the Paris art world, Kelly left for New York in 1954, at the height of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;. While his work markedly differed from that of his New York colleagues, he said, "By the time I got to New York I felt like I was already through with gesture. I wanted something more subdued, less conscious.. I didn't want my personality in it. The space I was interested in was not the surface of the painting, but the space between you and the painting." Although his work was not a reaction to Abstract Expressionism, Kelly did find inspiration in the large scale of the Abstract Expressionist works and continued creating ever-larger paintings and sculptures.</p>
+          <p type="p">In New York City, while creating canvases with precise blocks of solid color, he lived in a community with such artists as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosenquist_james"&gt;James Rosenquist&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-youngerman_jack"&gt;Jack Youngerman&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-martin_agnes"&gt;Agnes Martin&lt;/span&gt;. The Betty Parsons Gallery gave Kelly his first solo show in 1956. In 1959, he was part of the Museum of Modern Art's major &lt;i&gt;Sixteen Americans&lt;/i&gt; exhibition, alongside &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stella_frank"&gt;Frank Stella&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;.</p>
+          <p type="p">His rectangular panels gave way to unconventionally shaped canvases, painted in bold, monochromatic colors. At the same time, Kelly was making sculptures comprised of flat shapes and bright color. His sculptures were largely two-dimensional and shallow, more so than his paintings. Conversely, in the paintings he was experimenting with relief. During the 1960s, Kelly began printmaking as well. Throughout his career, frequent subjects for his lithographs and drawings have been simple, lined renditions of plants, leaves and flowers. In these works, as with his abstracted paintings, Kelly placed primary importance in form and shape.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">In 1970, Kelly moved to upstate New York. Over the next two decades, he made use of his bigger studio space by creating even larger multi-panel works and outdoor steel, aluminum and bronze sculptures. He also adopted more curved forms in both canvas shapes and areas of precisely painted color. In addition to creating totemic sculptures, Kelly began making publicly commissioned artwork, including a sculpture for the city of Barcelona in 1978 and an installation for the United States Holocaust Memorial Museum in Washington, D.C. in 1993. In 2013 President Barack Obama presented Kelly with the National Medal of Arts.
+					</p>
+          <p type="p">
+					 Towards the end of the artist’s life he was in ill health, hampered by an oxygen tank, the need for which he is quoted as saying was because of "the turpentine," which prevented him from working on his "big paintings." However, Kelly continued to paint and innovate until his death.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Ellsworth Kelly Photo" show="0">/images20/photo/kelly_4.jpg</p>
+          <p type="p">When Kelly returned to the United States from Paris in 1954, he joined a new wave of American painters coming of age in the wake of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, many wishing to turn away from the New York School's preoccupation with inner, ego-based psychological expression toward a new mode of working with broad fields of color, the empirical observation of nature, and the referencing of everyday life. Kelly was increasingly influential during the early 1960s and 1970s among his own circle, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-indiana_robert"&gt;Robert Indiana&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-martin_agnes"&gt;Agnes Martin&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosenquist_james"&gt;James Rosenquist&lt;/span&gt;. He also provided an example of abstract, scaled-down visual reflection to evolving &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; sculptors such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-judd_donald"&gt;Donald Judd&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-andre_carl"&gt;Carl Andre&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-serra_richard"&gt;Richard Serra&lt;/span&gt;. More recently, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sultan_donald"&gt;Donald Sultan's&lt;/span&gt; schematic, abstract still lifes of fruit, flowers, and other everyday subjects clearly owe a debt to Kelly's example, as does the work of many graphic designers of the postwar period.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="cezanne_paul">Mont Sainte-Victoire (c.1905)</artwork>
+    <artwork from="artist" page="picasso_pablo">Large Nude in a Red Armchair (1929)</artwork>
+    <artwork from="artist" page="klee_paul">Affected Place [&lt;i&gt;Betroffener Ort&lt;/i&gt;] (1922)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>klee_paul</entity>
+        <entity>picasso_pablo</entity>
+        <entity>brancusi_constantin</entity>
+        <entity>arp_hans</entity>
+      </column>
+      <column>
+        <entity>martin_agnes</entity>
+        <entity>rosenquist_james</entity>
+        <entity>youngerman_jack</entity>
+      </column>
+      <column>
+        <entity>romanesque_art</entity>
+        <entity>byzantine_art</entity>
+        <entity>surrealism</entity>
+        <entity>neo_plasticism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>indiana_robert</entity>
+        <entity>serra_richard</entity>
+        <entity>flavin_dan</entity>
+        <entity>judd_donald</entity>
+      </column>
+      <column>
+        <entity>lichtenstein_roy</entity>
+        <entity>martin_agnes</entity>
+        <entity>rosenquist_james</entity>
+      </column>
+      <column>
+        <entity>color_field_painting</entity>
+        <entity>post_painterly_abstraction</entity>
+        <entity>hard_edge_painting</entity>
+        <entity>pop_art</entity>
+        <entity>minimalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Colors for a Large Wall</title>
+      <year>1951</year>
+      <materials>Oil on canvas, mounted on 64 joined panels. Dimensions: 94 1/2 x 94 1/2 inches. Photo by courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>The large-scale Colors for a Large Wall is one of Kelly's early forays into multi-panel paintings, a fundamental motif throughout his career. Colors for a Large Wall helped introduce his deeply held view of paintings as objects; not only was this painting an object in itself, but it was comprised of many smaller objects (panels) supposedly having come together in chance collision. In this work, Kelly covered each of the 64 square canvases in a single color and fused them together based on a collage study he had arbitrarily arranged. Much of Kelly's subsequent work stemmed from this painting, as he continued to juxtapose panels of differing sizes, shapes, colors and materials in innumerable variations.</desc>
+      <collection>The Museum of Modern Art, New York. Gift of the artist, 1969</collection>
+    </artwork>
+    <artwork>
+      <title>Cite</title>
+      <year>1951</year>
+      <materials>Oil on wood, twenty joined panels. Dimensions: 58 1/2 x 70 3/4 inches. Photo by Jerry L. Thompson, courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>In Paris, artists such as John Cage and Hans Arp encouraged Kelly to experiment with the idea of chance in his artwork. For Cite, Kelly cut a black and white brushstroke drawing into twenty squares and randomly rearranged the pieces. He then turned this composition upside down and painted it onto twenty wood panels. After rearranging it once more, he connected the panels into the final painting. Although his artistic decisions ultimately dictate the final composition, Kelly's use of chance partially disconnects him from the resulting work. Such efforts to reduce the artist's emotions, influence, or individual marks have been important facets of Kelly's artwork, suggesting that all apparently "controlled" creativity is always partly a matter of an artist's making the most of chance collisions with unexpected and impersonal forces.</desc>
+      <collection>San Francisco Museum of Modern Art, The Doris and Donald Fisher Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Red Blue Green</title>
+      <year>1963</year>
+      <materials>Oil on canvas. Dimensions: 83 5/8 x 135 7/8 inches. Photo courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>Kelly put great emphasis on the tensions between the 'figure' and the 'ground' in his paintings, aiming to establish dynamism within otherwise flat surfaces. In Red Blue Green, part of his crucial series exploring this motif, Kelly's sharply delineated, bold red and blue shapes both contrast and resonate with the solid green background, taking natural forms as inspiration. The relationship between the two balanced forms and the surrounding color anticipates the powerful depth that defined Kelly's later relief paintings. Therefore, these works serve an important bridge connecting his flat, multi-panel paintings to his sculptural, layered works.</desc>
+      <collection>The Museum of Contemporary Art San Diego, gift of Dr. and Mrs. Jack M. Farris</collection>
+    </artwork>
+    <artwork>
+      <title>Black over Blue</title>
+      <year>1963</year>
+      <materials>Painted aluminum. Dimensions: 81 3/4 x 64 x 7 inches. Photo by Jerry L. Thompson, courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>Upon returning to New York after six influential years in Paris, Kelly progressed beyond his multiple-panel paintings to reliefs. Black over Blue, first exhibited in the Betty Parsons Gallery, reflects his recurring interest in both layered works and non-traditionally shaped canvases. His paintings are often hung away from the wall, giving them a three-dimensional, sculptural quality. In fact, the painting's interaction with the wall was a strong focus for Kelly. In Black over Blue, the curved, black panel extends beyond the confines of the rectangular blue canvas, making the surrounding wall an essential part of the composition. Wall, artwork, and space itself become nearly equally important aspects of the viewer's experience, finally leading to a heightened awareness of one's own body as a similar, energized "gesture" in the same architectural setting.</desc>
+      <collection>San Francisco Museum of Modern Art, The Doris and Donald Fisher Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Creueta del Coll</title>
+      <year>1987</year>
+      <materials>Weathering steel. Dimensions: 390 x 330 x 5 1/4 inches. Photo courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>During the 1970s and 1980s, inspired by his move to the pastoral upstate New York, Kelly began expanding his use of the curve and making large, totem-like sculptures - many designed to be displayed outdoors. The 12-foot tall, slightly curving Creueta del Coll reflects both of these important new directions in his work.Kelly created a highly abstracted version of a specific, recognizable form - in this case, an ancient Greek statuary form known as kouros, or male youth. Like many of Kelly's sculptures, this one and a half inch-thick piece painted matte-black is very flat and has a two-dimensional quality. He encouraged his viewers to question traditional perspectives by creating sculptural paintings that might sit on the floor and flat sculptures that lean against a wall.</desc>
+      <collection>City of Barcelona, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>Red Diagonal</title>
+      <year>2007</year>
+      <materials>Oil on canvas, two joined panels. Dimensions: 84 1/4 x 109 3/8 x 2 5/8 inches. Photo by Jerry L. Thompson, courtesy of the artist. ©Estate of Ellsworth Kelly</materials>
+      <desc>In the 1990s, Kelly further developed the possibilities of the relief and continues expanding on this motif today. Red Diagonal employs a striking, geometric construction that echoes the forms created by his earlier panels attached side-by-side. At the same time, these layered pieces extend away from the wall, cutting into the viewer's space. His careful placement of the overlapping canvases creates precise, yet varying shapes in both the positive and negative space.</desc>
+      <collection>The Art Institute of Chicago, promised gift of Donna and Howard Stone Collection</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Ellsworth Kelly</title>
+          <link>1854376306</link>
+          <info>By Christoph Grunenberg</info>
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly</title>
+          <link>B000WW61V8</link>
+          <info>By John Coplans</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Ellsworth Kelly: 1954, Drawings on a Bus</title>
+          <link>3865214150</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>Ellsworth Kelly: The Early Drawings</title>
+          <link>1891771078</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly: A Retrospective</title>
+          <link>0810968975</link>
+          <info>By Ellsworth Kelly, Diane Waldman</info>
+          <pdflink source="gugenheim">https://archive.org/stream/ellswo00kell#page/n0/mode/2up</pdflink>
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly in San Francisco</title>
+          <link>0520237846</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Ellsworth Kelly: Red Green Blue--Paintings and Studies, 1958-1965</title>
+          <link>0934418624</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly in Dallas (Dallas Museum of Art Publications)</title>
+          <link>0300106076</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites about artist" class="websites">
+        <entry>
+          <title>Matthew Marks Gallery</title>
+          <link>http://www.matthewmarks.com/artists/ellsworth-kelly/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Classic Sleeper</title>
+          <link>http://www.time.com/time/magazine/article/0,9171,907908,00.html</link>
+          <info>September 17, 1973&lt;br/&gt;&lt;i&gt;Time&lt;/i&gt;&lt;br/&gt;By Robert Hughes</info>
+        </entry>
+        <entry>
+          <title>Dangerous Curves</title>
+          <link>http://www.newyorker.com/archive/1996/11/04/1996_11_04_112_TNY_CARDS_000375837</link>
+          <info>November 4, 1996&lt;br/&gt;&lt;i&gt;The New Yorker&lt;/i&gt;&lt;br/&gt;By Simon Schama</info>
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly's Journey, From All Angles</title>
+          <link>http://www.nytimes.com/2003/05/04/arts/art-architecture-ellsworth-kelly-s-journey-from-all-angles.html</link>
+          <info>May 4, 2003&lt;br/&gt;&lt;i&gt;The New York Times&lt;/i&gt;&lt;br/&gt;By Jeffrey Kastner</info>
+        </entry>
+        <entry recommended="true">
+          <title>From Paris to New York, Ellsworth Kelly is the king of color</title>
+          <link>http://www.gg-art.com/news/read.php?newsid=13934</link>
+          <info>June 11, 2008&lt;br/&gt;&lt;i&gt;The Times of London&lt;/i&gt;&lt;br/&gt;By Mark Rappolt</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Discussion of Kelly's work</title>
+          <link>http://www.youtube.com/watch?v=0Yavd7p74Os</link>
+          <info>August 12, 2008 - Tate Shots Issue 7</info>
+        </entry>
+        <entry>
+          <title>Interview with Ellsworth Kelly</title>
+          <link>http://www.youtube.com/watch?v=YaIH4H7gFQY</link>
+          <info>June 4, 2008 - Vernissage TV</info>
+        </entry>
+        <entry>
+          <title>Ellsworth Kelly on Abstraction</title>
+          <link>https://www.sfmoma.org/watch/ellsworth-kelly-explains-abstraction/</link>
+          <info>The artist discusses his approach in a SFMoMA short video		  </info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>kusama_yayoi</id>
+    <name>Yayoi Kusama</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1950 - Present</years>
+    <description>Yayoi Kusama used her hallucinations and personal obsessions as fodder for unparalled prolific artistic output in various disciplines.</description>
+    <use_big_images>false</use_big_images>
+    <barnebys_item>141</barnebys_item>
+    <highlight>1</highlight>
+    <occupation>Painter, Sculptor, Photographer, Installation, Performance, and Conceptual Artist</occupation>
+    <nationality>Japanese-American</nationality>
+    <birthDate>March 22, 1929</birthDate>
+    <birthPlace />
+    <img_version>?1</img_version>
+    <art_type>Art</art_type>
+    <pub_time>4/18/2017</pub_time>
+    <hero>true</hero>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>Yayoi Kusama’s installation and sculptural works are inspired and informed by her memories of childhood abuse, repression, and trauma, and her ongoing experiences with mental disorder and sexual anxiety.</bio_highlight>
+	<custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>conceptual_art</include>
+    <include>pop_art</include>
+    <include>minimalism</include>
+    <include>feminist_art</include>
+    <include>performance_art</include>
+  </includes>
+  <similar_movements>
+    <movement>conceptual_art</movement>
+    <movement>pop_art</movement>
+    <movement>minimalism</movement>
+    <movement>feminist_art</movement>
+    <movement>performance_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>judd_donald</artist>
+    <artist>hesse_eva</artist>
+    <artist>warhol_andy</artist>
+    <artist>schneemann_carolee</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"My artwork is an expression of my life, particularly of my mental disease."</q>
+    <q>"I am just another dot in the world."</q>
+    <q>"My art originates from hallucinations only I can see. I translate the hallucinations and obsessional images that plague me into sculptures and paintings. All my works in pastels are the products of obsessional neurosis and are therefore inextricably connected to my disease."</q>
+    <q>"I fight pain, anxiety, and fear every day, and the only method I have found that relieves my illness is to keep creating art. I followed the thread of art and somehow discovered a path that would allow me to live."</q>
+    <q>"I wanted to start a revolution, using art to build the sort of society I myself envisioned."</q>
+    <q>"I don't consider myself an artist; I am pursuing art in order to correct the disability which began in my childhood."</q>
+    <q>"I did not have any purpose. I felt that art and life were useless. I painted boredom, which is more important in life than the effect of sunlight, which [is what] the Impressionists painted."</q>
+    <q>"I want to become more famous, even more famous."</q>
+    <q>"One day, I suddenly looked up to find that each and every violet had its own individual, human-like facial expression, and to my astonishment they were all talking to me. Suddenly things would be flashing and glittering all around me. So many different images leaped into my eyes that I was left dazzled and dumbfounded."</q>
+    <q>"If it were not for art, I would have killed myself a long time ago."</q>
+  </quotes>
+  <authors>
+    <author link="davis">Katelyn Davis</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Yayoi Kusama's life is a poignant testament to the healing power of art as well as a study in human resilience. Plagued by mental illness as a child, and thoroughly abused by a callous mother, the young artist persevered by using her hallucinations and personal obsessions as fodder for prolific artistic output in various disciplines. This has informed a lifelong commitment to creativity at all costs despite the artist's birth into a traditional, female-effacing Japanese culture and her career's coming of age in the male-dominated New York art scene. Today, Kusama reigns as one of the most unique and famous contemporary female artists, operating from her self-imposed home in a mental hospital.</synopsys>
+    <key_ideas>
+      <idea>When Kusama began to see hallucinations as a child, her way of coping with the bizarre phenomena was to paint what she saw. 
+	  She says that art became her way to express her mental disease, as most notably is seen in her &lt;i&gt;Infinity Net&lt;/i&gt; paintings based on repetitive patterns and her installations in which she creates elaborate environments overrun with polka dots or tiny points of light.</idea>
+      <idea>In much the same fashion as Kusama uses art to process hallucinations, she also uses her work to confront personal phobias, especially a fear of sex stemming from a witnessing of her father's womanizing. This reveals itself through her "compulsion" soft sculptures and furniture pieces covered in myriad phallic forms.</idea>
+      <idea>Her familiarity with fighting for her life, and her compassion for others involved in causes against injustice, led Kusama to briefly associate with many subcultural movements of her time such as the hippie culture of the 1960s and the feminist movement.</idea>
+      <idea>For Kusama, artmaking became an essential survival mechanism. It was her sole tool for making sense of a world in which she dwelt on the periphery of normative experience, and as a result became the very thing that allowed her to assimilate successfully into society.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood/Education">
+          <p type="p">Born in 1929 in Matsumoto, Japan, Kusama grew up as the youngest of four children in an affluent family. However, her childhood was less than idyllic. Her parents were the product of a loveless, arranged marriage. Her absent father, emasculated by the fact that he had to take his wife's surname as a condition of marrying into the wealthy family, spent most of his time away from home womanizing, leaving his angry wife to physically abuse and emotionally torment her youngest child. She would often send her daughter to spy on her father's sexual exploits, the mental trauma of which caused Kusama to have a permanent aversion to sex and the male body.</p>
+          <p type="p">At the age of ten Kusama began experiencing vivid hallucinations in which flowers would speak to her and patterns in fabric would come to life and consume her. She began to draw these visions as a therapeutic outlet, providing her with solace and control over the anxiety that tormented her. When Kusama was 13 years old she was sent to work in a military factory sewing parachutes for Japan's World War II efforts. Her adolescent years were spent in the darkness of the factory listening to air-raid sirens and the sounds of army planes flying overhead. The horrors of war would have a lasting effect on her, leading Kusama to create numerous anti-war works, and to also value individual and creative freedom. Her experience at the factory also provided her with the utilitarian ability to sew, which would prove useful when she began creating her soft sculptures in the 1960s.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Disobeying her mother, who wanted her to simply be an obedient housewife, Kusama studied art in Masumoto and Kyoto. During this time in Japan, there was a movement to reject the influences of Western culture so Kusama was forced to only study Nihonga, which consisted of creating paintings using 1000 years old traditional Japanese techniques and materials. Her artistic talent was apparent at even a young age, and Kusama's work was shown in exhibitions all over Japan.</p>
+          <p type="p">However, the stifling conservative Japanese culture and her abusive mother proved too much for Kusama, and in 1957 she moved to the United States, settling in New York City in 1958. Before she left, Kusama's mother handed her some money and told her "to never set foot in her house again." In response, Kusama angrily destroyed hundreds of her works.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Yayoi Kusama Biography" show="0">/images20/photo/photo_kusama_yayoi_1.jpg</p>
+          <p type="p">Once in the United States, Kusama was free to explore her artistic expression that was censored while living in Japan. "For art like mine, [Japan] was too small, too servile, too feudalistic, and too scornful of women. My art needed a more unlimited freedom, and a wider world." With the help of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-okeeffe_georgia"&gt;Georgia O'Keeffe&lt;/span&gt;, with whom Kusama had started a correspondence and friendship with while still in Japan, she was able to secure exhibitions and some sales, leading to interest in her work right from the start. But there was also a fascination with the foreign artist herself, and she struck up a deep relationship with fellow &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-judd_donald"&gt;Donald Judd&lt;/span&gt;, who admired her work so much that he purchased one of her first &lt;i&gt;Infinity Net&lt;/i&gt; paintings. The middle-aged &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;assemblage&lt;/span&gt; artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cornell_joseph"&gt;Joseph Cornell&lt;/span&gt; was also infatuated with Kusama, often writing her love letters and sketching her in the nude. Because of her anxieties and fear of sex, both relationships, while very close, were strictly platonic. Cornell shared her sexual aversion and Kusama once remarked that "(Cornell) hated sex. That's why we got along so well." Kusama and Cornell developed such a close bond that when he died in 1972 she began creating &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collages&lt;/span&gt; to both honor his work and cope with his passing.</p>
+          <p type="img" alt="Kusama’s Ascension of Polkadots on the Trees at the Singapore Biennale 2006." show="1">/images20/photo/photo_kusama_yayoi_4.jpg</p>
+          <p type="p">During this time Kusama worked feverishly, fully embracing the hedonist, free-spirited hippie culture of the 1960s, which also included protesting war, patriarchy, and capitalist society. Combining these themes with her own intimate anxieties, she created art that was deeply personal, but also spoke to the injustices of the times. Critics didn't know what to make of this innovative art, and soon the struggling artist went from obscurity to notoriety. Her fame rivaled that of some of the most famous &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop artists&lt;/span&gt;, and Kusama enjoyed the attention. Judd once recalled that while at a friend's house, Kusama grabbed a pregnant cat and sucked one of its nipples in order to draw attention to herself. Yet, this unapologetic and admitted quest for fame might also be seen as an effort to boldly self-validate her existence and to claim her identity in opposition to the obstacles placed upon her by her family's early denial of her career and her battle with mental illness.</p>
+          <p type="img" alt="Yayoi Kusama Photo" show="0">/images20/photo/photo_kusama_yayoi_2.jpg</p>
+          <p type="p">Kusama's artistic output during this 15-year period was prolific and diverse, experimenting with various mediums such as drawing, painting, sculpture, performance, fashion, writing, and installation. She would sometimes work up to 50 hours without rest. Eventually the workload coupled with a lack of financial security and Cornell's death took its toll, and in 1973 she moved back to Japan to seek treatment for her mental exhaustion and declining physical health. She began focusing on her surreal writing and avant-garde clothing line. In 1977, after being diagnosed with obsessive-compulsive neurosis, Kusama checked herself in to the Seiwa Mental Hospital and has been living and working there by choice ever since.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Yayoi Kusama enjoys the spotlight, and is usually seen in her signature red wig and polka-dot clothing." show="1">/images20/photo/photo_kusama_yayoi_5.jpg</p>
+          <p type="p">When Kusama moved back to Japan in the early 1970s she was all but forgotten by the Western art world. Even in Japan she was mostly known for her violence-soaked writings. That changed in 1993 when she was invited to represent Japan at the 45&lt;sup&gt;th&lt;/sup&gt; Venice Biennale. The acclaimed installation of one of her &lt;i&gt;Infinity Mirror Rooms&lt;/i&gt; containing dotted pumpkins, coupled with the artist's performances alongside the exhibition, renewed the interest and appreciation for her work, along with the interest in the quirky artist herself. Kusama still seeks the limelight and continues to insist on being photographed with her work. Wearing her signature red wig and polka dot garments of her own making, Kusama's personality has become just as infatuating as her art.</p>
+          <p type="p">In 2008, one of Kusama's &lt;i&gt;Infinity Nets&lt;/i&gt;, the same one once owned by Judd, set new art auction price records for a living female artist and led to collaborations with luxury fashion retailers, like Marc Jacobs and Louis Vuitton. The woman, whose art once protested capitalism and materialism, now fully embraces it.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">More important than the impact her diverse work has on the art market is its influence on other artists and movements, which spans generations. Her work inspired Pop artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminist_art"&gt;Feminist&lt;/span&gt; artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schneemann_carolee"&gt;Carolee Schneemann&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance&lt;/span&gt; artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ono_yoko"&gt;Yoko Ono&lt;/span&gt;, and contemporary artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;. Her far-reaching influence can be attributed to the fact that Kusama has always been a step ahead of her time, with her art being at the forefront of major artistic movements. And yet because her art making is so personal, and both a symptom and cure for her mental illness, it doesn't fit neatly into any of these defined movements. As fellow Pop artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-oldenburg_claes"&gt;Claes Oldenburg&lt;/span&gt; states, "(Kusama) didn't have the kind of mind that identified with movements. She just went her own way." To this day, she represents herself as a lone wolf most comfortable with being known as independently avant-garde.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>The Woman</title>
+      <year>1953</year>
+      <materials>Tempera and acrylic on paper</materials>
+      <desc>
+				When Kusama moved to the United States, the first works she exhibited were her watercolors. These works on paper showed the artist breaking free from the traditional Japanese artistic practices she was taught as a child and embracing Western artistic influences, especially in regards to abstraction. &lt;i&gt;The Woman&lt;/i&gt; is one of these earlier abstract works. The watercolor depicts a singular biomorphic form with subtle dots in the center floating in a seemingly black abyss. The form is reminiscent of female genitalia with red spikes surrounding it. The overall effect of the work is aggressive and bizarre, showing signs of Kusama's struggles with mental illness and anxiety towards sex. 
+				&lt;br/&gt;&lt;br/&gt;
+				From a very young age, Kusama experienced hallucinations in which a single pattern would engulf everything in her field of vision. As Kusama explains, "one day I was looking at the red flower patterns of the tablecloth on a table, and when I looked up I saw the same pattern covering the ceiling, the windows and the walls, and finally all over the room, my body, and the universe. I felt as if I had begun to self-obliterate, to revolve in the infinity of endless time and the absoluteness of space, and be reduced to nothingness." These themes of self-obliteration and representation of the infinite would become an obsession for Kusama as she attempted to represent what she believed to be her alternate reality. Her use of dots became the manifestation of this effort and has become the defining motif in her work.
+			</desc>
+      <collection>The Blanton Museum (Texas)</collection>
+    </artwork>
+    <artwork>
+      <title>No. F</title>
+      <year>1959</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Kusama's &lt;i&gt;Infinity Net&lt;/i&gt; series marks the beginning of a radical shift in her work from the singular abstract, biomorphic forms she painted during her youth to the more obsessive, repetitive works that would define her career. They also showcase the way she used art to process her mental illness. We can see through her own words, a sense of what these paintings accomplished for the artist: "With just one polka dot, nothing can be achieved. In the universe, there is the sun, the moon, the earth, and hundreds of millions of stars. All of us live in the unfathomable mystery and infinitude of the universe. Pursuing philosophy of the universe through art under such circumstances has led me to what I call stereotypical repetition."
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;No. F&lt;/i&gt; is one of Kusama's first works from the celebrated series. From a distance the subtle painting looks delicate and monochromatic, but when viewed up close, the complexities of the canvas's surface become apparent. The bluish-grey underlay is almost completely obscured by small, white semi-circles, which consume the entire canvas and only allow the gray underlay to be visible in the form of tiny dots. The organic arched shapes all curve in the same direction, creating an undulating net that would continue on indefinitely if not for the edge of the canvas. As Kusama explains, "without beginning, end, or center. The entire canvas would be occupied by [a] monochromatic net. This endless repetition caused a kind of dizzy, empty, hypnotic feeling." This hypnotic feeling is furthermore translated to the viewer, as they are invited into the artist's mind. The thick build-up of the top layer of white paint also adds texture to the work, while the repetitive crescent shapes create an optically mesmerizing pattern that is neither random nor systematic, but instead reminiscent of things found in the natural world, such as atoms and cells. Although the obsessive and time-consuming &lt;i&gt;Nets&lt;/i&gt; were painstaking to create, they proved therapeutic for the artist.
+				&lt;br/&gt;&lt;br/&gt;
+				Begun in the late 1950s, the series coincided with Kusama's move from her oppressive homeland to New York, where she found the artistic freedom she needed to expand her art practice. Created when Abstract Expressionism was still the popular contemporary art form and Minimalism was still in its infancy, the &lt;i&gt;Infinity Nets&lt;/i&gt; were avant-garde for their time. As a result, the &lt;i&gt;Nets&lt;/i&gt; are both expressive and minimal, bridging the two opposing movements. For Kusama personally, her &lt;i&gt;Infinity Nets&lt;/i&gt; have become central to her practice, and continue to influence her work.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Accumulation No.1</title>
+      <year>1962</year>
+      <materials>Sewn stuffed fabric, paint, and chair fringe</materials>
+      <desc>
+				&lt;i&gt;Accumulation No.1&lt;/i&gt; is the first in Kusama's iconic &lt;i&gt;Accumulations&lt;/i&gt; series, in which she transforms found furniture into sexualized objects. The work consists of a single abandoned armchair painted white and completely covered with soft, stuffed phallic protrusions, while fringe encircles the base of the sculpture. No longer limited by the pictorial plane of the two-dimensional canvas as with &lt;i&gt;Infinity Nets&lt;/i&gt;, the stuffed sculpture continues Kusama's repetition compulsion in three-dimensional form. 
+				&lt;br/&gt;&lt;br/&gt;
+				The menacing piece is both aggressive and humorous, and also works to confront Kusama's sexual phobias. As Asia scholar, Alexandra Munroe explains, "her ambition for supremacy over men and over sexuality is relentlessly expressed in her repetitive and aggregate use of the phallus form, which can be interpreted as an aggressive will and fantasy to defy oppressive male power by possessing it symbolically herself." In doing so Kusama also abandons the typically passive role of the female.
+				&lt;br/&gt;&lt;br/&gt;
+				More than just making a statement against patriarchal authority, these "compulsion furniture" pieces, as she called them, were deeply personal for Kusama as they were her way of coping with her own innate sexual anxieties. "The armchair thickly covered in phalluses was my psychosomatic work done when I had a fear of sexual vision." These anxiety-ridden pieces would become included in a new form of art which art critic and historian, Lucy R. Lippard, called 'Eccentric Abstraction'. "The makers of what I am calling...eccentric abstraction, refuse to eschew imagination and the extension of sensuous experience while they also refuse to sacrifice the solid formal basis demanded of the best in current non-objective art." As a result, Kusama's psychosexual works became a significant precursor to post-Minimalist art.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Sex Obsession Food Obsession Macaroni Infinity Nets &amp; Kusama</title>
+      <year>1962</year>
+      <materials>Collage</materials>
+      <desc>
+				In this piece, we see the artist splayed naked on one of her famous soft sculpture furniture pieces laden with phallic accumulations and surrounded with macaroni pasta which forms her familiar, patterns of repetition. By inserting herself into the piece, literally on top of an object that represents a manifestation of her sexual aversion, Kusama attempts to subvert her own discomfort and - in effect - to conquer it. It becomes a visual juxtaposition of her direct confrontation of a lifelong sexual aversion with the recognition of her nude self as an unmistakable, even if unwilling, object of sexual desire. 
+				&lt;br/&gt;&lt;br/&gt;
+				This brave presentation of herself in physical dialogue with her fears positions Kusama as a participant in the burgeoning Feminist art movement of the time and also foreshadows her work in the late 1960s in which she would use her body and the body of others in public performances. Although she is slim and stylish and positioned amongst a groovy psychedelic scene with strong, provocative visual impact, the rendering of her signature polka dots across her skin reminds the viewer that she is most comfortable when allowed to be seen as an intrinsic part of the artwork, and merely one polka dot in the universe of many. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Narcissus Garden</title>
+      <year>1966</year>
+      <materials>Plastic silver balls, gold kimono, signs</materials>
+      <desc>
+				&lt;i&gt;Narcissus Garden&lt;/i&gt; was Kusama's first successful experimentation with Performance art. Although officially not invited to represent Japan at the 33&lt;sup&gt;rd&lt;/sup&gt; Venice Biennale nor given permission to participate by Biennale officials, Kusama nevertheless placed 1,500 plastic silver globes on the lawn near the Italian Pavilion. The twelve-inch in diameter mirrored balls were tightly arranged, creating an infinite reflective field that distorted images of reality on the surface of the balls. As in the original Greek myth in which Narcissus's admiration for his own reflection eventually causes him to drown, the viewer is forced to confront their own vanity when looking at their distorted reflection on the surface of the balls. 
+				&lt;br/&gt;&lt;br/&gt;
+				Kusama also placed two signs at the installation that read: "NARCISSUS GARDEN, KUSAMA" and "YOUR NARCISSIUM FOR SALE". During the opening week of the Biennale the artist acted like a street peddler selling the balls for two dollars, while also distributing flyers with Herbert Read's flattering remarks about her work. While she hawked her wares, Kusama wore a gold kimono blatantly drawing attention to her "otherness" as foreigner, and highlighting the desire for fame that Kusama would seek throughout her life. And while angry Biennale officials immediately put a stop to her panhandling, the installation remained for the duration of the Biennale. As art historian Danielle Shang explains, the work has been "interpreted by many as both Kusama's self-promotion and her protest of the commercialization of art" creating a sense of duality, which is present in all of Kusama's work. Since its creation fifty years ago, &lt;i&gt;Narcissus Garden&lt;/i&gt; has been commissioned and re-installed in various settings, however now the balls float on water further referencing the Greek myth. 
+			</desc>
+      <collection>33&lt;sup&gt;rd&lt;/sup&gt; Venice Biennale, Venice, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Anatomic Explosion on Wall Street</title>
+      <year>1968</year>
+      <materials>Bongo drums, blue paint, four naked dancers</materials>
+      <desc>
+				Starting in 1967 until her return to Japan, Kusama made fewer art objects and instead began experimenting with the performance art of the moment, "happenings". Her first &lt;i&gt;Anatomic Explosion&lt;/i&gt; took place on October 15&lt;sup&gt;th&lt;/sup&gt;, 1968 opposite the New York Stock Exchange. The work featured nude performers dancing to the rhythm of bongo drums while Kusama, who called herself 'Priestess', painted blue dots on their naked bodies and presided over the event. The performance was in opposition of the Vietnam War and was prefaced by a press release that stated, "The money made with this stock is enabling the war to continue. We protest this cruel, greedy instrument of the war establishment." After 15 minutes the police came, putting an end to the spectacle. 
+				&lt;br/&gt;&lt;br/&gt;
+				To coincide with the happening, Kusama also sent &lt;i&gt;An Open Letter to My Hero, Richard M. Nixon&lt;/i&gt; in which she wrote, "Our earth is like one little polka dot, among millions of other celestial bodies, one orb full of hatred and strife amid the peaceful, silent spheres. Let's you and I change all that and make this world a new Garden of Eden.... You can't eradicate violence by using more violence." Growing up in militaristic Japan during the trauma of World War II led Kusama to vehemently oppose war and social injustice. Her absurdly theatrical happenings, which were always overtly political, were an expression of this opposition. For Kusama, nudity represented peace and love and was used to counter the horrors and tragedies of war. And while her happenings were inherently about political and social protest, they were also another outlet for self-promotion. Kusama fully embraced Warhol's idea of the artist as celebrity, claiming, "publicity is critical to my work because it offers the best way of communicating with a large number of people... avant-garde artists should use mass communication as traditional painters use paints and brushes." 
+			</desc>
+      <collection>Yayoi Kusama Studio</collection>
+    </artwork>
+    <artwork>
+      <title>Pumpkin</title>
+      <year>1994</year>
+      <materials>Acrylic on ceramic</materials>
+      <desc>
+				&lt;i&gt;Pumpkin&lt;/i&gt; is one of Kusama's first forays into outdoor sculpture. Made specifically for the Benesse Art Site on Naoshima Island in Japan, the giant, yellow pumpkin sculpture is painted with rows of black dots fanning out from large to small around the gourd. The pumpkin's bulbous, organic form and grand scale gives the work a cartoonish appearance, highlighting how strange the natural world appears in modern culture. Created when she was living in Japan, the work also reflects a shift in Kusama's artistic practice from her earlier aggressive and politically charged works to the more kitsch works that consume her art later in life. This shift can be attributed to the transition in Japanese culture from rigid and militaristic to a full on embrace of the ridiculous and tacky, as seen in the Hello Kitty cuteness of Kawaii culture.
+				&lt;br/&gt;&lt;br/&gt;
+				Kusama has also described the pumpkin motif as an alter ego, once again emphasizing how her work and identity are intrinsically intertwined. The lifelong obsession with the fruit derives from her youth and her family's nursery. "The first time I ever saw a pumpkin was when I was in elementary school and went with my grandfather to visit a big seed-harvesting ground... It immediately began speaking to me in a most animated manner. It seems that pumpkins do not inspire much respect, but I was enchanted by their charming and winsome form." Kusama has spent her whole life disassembling her identity and liberating the self through her various artistic practices, and the polka-dotted pumpkin is yet another expression of this endeavor. 
+			</desc>
+      <collection>Benesse Art Site, Naoshima Island</collection>
+    </artwork>
+    <artwork>
+      <title>Obliteration Room</title>
+      <year>2002-Present</year>
+      <materials>Furniture, white paint, colored dot stickers</materials>
+      <desc>
+				&lt;i&gt;Obliteration Room&lt;/i&gt; starts out as a blank canvas. Set up to resemble the interior of a domestic environment, the walls, ceiling, floor, furniture, and little knick knacks are all painted sterile white. Visitors to the room are handed a sheet of round stickers of various shape and size determined by Kusama, and invited to affix them to any surface in the room. Eventually the pristine room along with the furniture is obliterated by an explosion of colorful dots. 
+				&lt;br/&gt;&lt;br/&gt;
+				As Munroe explains, "Kusama's art is fundamentally about obsession and the need, born of anxiety, to repeat certain acts in an attempt to free herself from that obsession. Since childhood, her art-making has been a private, atavistic ritual, a necessary inducement to repetition that leads to catharsis." In response to the trauma Kusama experienced as a child, the first iteration of the room was created specifically for children and to be an idealization of childhood. In the space, children are encouraged to violate the "look, but don't touch" policy of art museums, which for Kusama represents parental restrictions. The act of placing the dot stickers on a work of art allows the children to indirectly disobey their parents. The interactive installation was the first time Kusama moved away from creating a passive environment to creating an environment in which its realization required participation from visitors. 
+			</desc>
+      <collection>First staged at the Queensland Art Gallery, South Brisbane, Australia</collection>
+    </artwork>
+    <artwork>
+      <title>Infinity Mirrored Room- The Souls of Millions of Light Years Away</title>
+      <year>2016</year>
+      <materials>Mirrors, Plexiglas LED lights</materials>
+      <desc>
+				Kusama began her &lt;i&gt;Infinity Mirror Room&lt;/i&gt; series in the 1960s, and so far has created over twenty distinct rooms. They are the culmination of her repetitive paintings, soft sculptures, and installations into an immersive environment. Each &lt;i&gt;Infinity Mirror Room&lt;/i&gt; consists of a dark chamber-like space completely lined in mirrors. In the past, Kusama has filled these rooms with pumpkins, phalluses, and lanterns. This particular room consists of small LED lights hung from the ceiling and flickering in a rhythmic pattern creating pulsing electronic polka dots. The lights reflect off the mirrors in the intimate room creating the illusion of endless space. Only one visitor at a time can experience the installation with that singular visitor becoming integral to the work, as his or her body activates the environment once in the room.
+				&lt;br/&gt;&lt;br/&gt;
+				The quiet, meditative space is a reflection on life and the inevitability of death- subjects that have fascinated Kusama since she was a child. She explains that her work "does battle at the boundary between life and death, questioning what we are and what it means to live and die." By encouraging visitors to contemplate their existence, Kusama's ethereal work emphasizes the interconnectedness we have to each other and the universe. "By using light, their reflection, and so on, I wanted to show the cosmic image beyond the world where we live." Now in her ninth decade and accepting of her own mortality, the work represents more harmonious aspirations by the artist for inner and outer peace, and is seen as a progression from her early work, which sought to fight and disrupt rather than reconcile. 
+			</desc>
+      <collection>Collection of the artist, The Broad Foundation, Los Angeles</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="schneemann_carolee">Up to and Including Her Limits (1973-76)</artwork>
+    <artwork from="artist" page="ono_yoko">Cut Piece (1964)</artwork>
+    <artwork from="artist" page="cornell_joseph">Cassiopeia 1 (1960)</artwork>
+    <artwork from="artist" page="okeeffe_georgia">Sky above Clouds, IV (1965)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>okeeffe_georgia</entity>
+        <entity>cornell_joseph</entity>
+        <entity>kamensky_vasily</entity>
+      </column>
+      <column>
+        <entity>judd_donald</entity>
+        <entity>hesse_eva</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>ono_yoko</entity>
+        <entity>oldenburg_claes</entity>
+        <entity>segal_george</entity>
+        <entity>hirst_damien</entity>
+      </column>
+      <column>
+        <entity>warhol_andy</entity>
+        <entity>schneemann_carolee</entity>
+      </column>
+      <column>
+        <entity>conceptual_art</entity>
+        <entity>pop_art</entity>
+        <entity>minimalism</entity>
+        <entity>performance_art</entity>
+        <entity>feminist_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Yayoi Kusama: Inventing the Singular</title>
+          <link>0262029472</link>
+          <info>By Midori Yamamura</info>
+        </entry>
+        <entry>
+          <title>Yayoi Kusama</title>
+          <link>1935202812</link>
+          <info>By Midori Yamamura</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama</title>
+          <link>1854379399</link>
+          <info>By Frances Morris</info>
+        </entry>
+        <entry>
+          <title>Love Forever: Yayoi Kusama, 1958-1968</title>
+          <link>087587181X</link>
+          <info>By Lynn Zelevansky and Laura Hoptman </info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Infinity Nets: The Autobiography of Yayoi Kusama</title>
+          <link>1849762139</link>
+          <info>By Yayoi Kusama</info>
+        </entry>
+        <entry>
+          <title>Yayoi Kusama: Every Day I Pray for Love</title>
+          <link>1644230453</link>
+          <info>By Yayoi Kusama</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Yayoi Kusama: I Who Have Arrived in Heaven</title>
+          <link>0989980936</link>
+          <info>By Akira Tatehata</info>
+        </entry>
+        <entry>
+          <title>Yayoi Kusama: Infinity Mirrors</title>
+          <link>3791355945</link>
+          <info>By Mika Yoshitake and Alexander Dumbadze</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama: In Infinity</title>
+          <link>8792877524</link>
+          <info>By Marie Laurberg and Jo Applin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama: A Retrospective</title>
+          <link>3791378821</link>
+          <info>By Stephanie Rosenthal</info>
+        </entry>
+        <entry>
+          <title>Kusama: Cosmic Nature</title>
+          <link>0847868397</link>
+          <info>By Mika Yoshitake and Joanna L. Groarke </info>
+        </entry>
+        <entry>
+          <title>Yayoi Kusama (Phaidon Contemporary Artist Series)</title>
+          <link>0714839205</link>
+          <info>By Laura Hoptman and Udo Kultermann</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Kusama's Self Obliteration</title>
+          <link>https://www.youtube.com/watch?v=n6wnhLqJqVE</link>
+          <info>Film created by Kusama from 1967 when she was experimenting with performance art</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama- Obsessed with Dots</title>
+          <link>https://www.youtube.com/watch?v=rRZR3nsiIeA</link>
+          <info>Tate Modern's short film, created to coincide with their Kusama retrospective, in which the artist discuss her life and art</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama Interview: Earth is a Polka Dot</title>
+          <link>https://www.youtube.com/watch?v=21NrNdse7nI</link>
+          <info>Interview with Kusama in which she discusses her early struggles and childhood in the context of her Infinity Mirror Rooms</info>
+        </entry>
+        <entry>
+          <title>Yayoi Kusama: Let's Fight Together</title>
+          <link>https://www.youtube.com/watch?v=x6GMdydE7I8</link>
+          <info>Short interview in which Kusama discusses her fashion, current work, and desire for peace</info>
+        </entry>
+        <entry>
+          <title>BBC Newsnight Yayoi Kusama Interview</title>
+          <link>https://www.youtube.com/watch?v=L-kWnanXzGo</link>
+          <info>BBC News interview with Kusama that also discuss her work in relation to her Tate Modern retrospective</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama: Infinity Mirrors</title>
+          <link>https://www.youtube.com/watch?v=8VwJMw_fLvI</link>
+          <info>NPR quickly takes the viewer into six of Kusama's Infinity Mirror Rooms</info>
+        </entry>
+        <entry recommended="true">
+          <title>How Yayoi Kusama Made it in America - Sotheby’s</title>
+          <link>https://www.youtube.com/watch?v=OGC8Q_pbfFo</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Why Yayoi Kusama Matters Now More Than Ever - ARTiculations</title>
+          <link>https://www.youtube.com/watch?v=iT360Glhb9o</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>An Icon of Modernist Architecture - Covered in Polka Dots</title>
+          <link>https://www.nytimes.com/2016/09/01/t-magazine/art/yayoi-kusama-glass-house.html</link>
+          <info>
+						By Alexandria Symonds
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						Sept 1, 2016
+						&lt;br/&gt;
+						One of the various collaborative projects that Kusama has done in her expansive career
+					</info>
+        </entry>
+        <entry>
+          <title>How Yayoi Kusama, the 'Infinity Mirrors' visionary, channels mental illness into art</title>
+          <link>https://www.washingtonpost.com/entertainment/museums/how-yayoi-kusama-the-infinity-mirrors-visionary-channels-mental-illness-into-art/2017/02/15/94b5b23e-ea24-11e6-b82f-687d6e6a3e7c_story.html?utm_term=.c1e39e061197</link>
+          <info>
+						By Anna Fifield
+						&lt;br/&gt;
+						Washington Post
+						&lt;br/&gt;
+						Feb 15, 2017
+						&lt;br/&gt;
+						Overview the origins of Kusama's work style and aesthetic
+					</info>
+        </entry>
+        <entry>
+          <title>The Unstoppable Yayoi Kusama $$</title>
+          <link>https://www.wsj.com/articles/the-unstoppable-yayoi-kusama-1486394644</link>
+          <info>
+						By Darryl Wee
+						&lt;br/&gt;
+						Wall Street Journal
+						&lt;br/&gt;
+						Feb 6, 2017
+						&lt;br/&gt;
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art and Politics of Artists’ Personas: The Case of Yayoi Kusama</title>
+          <link>https://search.informit.org/doi/pdf/10.3316/informit.967658853921902</link>
+          <info>
+				By SooJin Lee
+				&lt;br&gt;
+				Persona Studies 
+				&lt;br&gt;
+				2015
+			</info>
+        </entry>
+        <entry>
+          <title>Ace and Aro Lesbian Art and Theory with Agnes Martin and Yayoi Kusama </title>
+          <link>https://www.academia.edu/51221163/Ace_and_Aro_Lesbian_Art_and_Theory_with_Agnes_Martin_and_Yayoi_Kusama</link>
+          <info>
+				By Ela Przybyło
+				&lt;br&gt;
+				Journal of Lesbian Studies 
+				&lt;br&gt;
+				2021
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>'The Beautiful Stars at Night': The Glittering Artistic World of Yayoi Kusama</title>
+          <link>https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/jas_dec2010_bell.pdf</link>
+          <info>
+				By David Bell
+				&lt;br&gt;
+				New Zealand Journal of Asian Studies 
+				&lt;br&gt;
+				December 2010
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Yayoi Kusama: The World's Favourite Artist?</title>
+          <link>https://www.theguardian.com/artanddesign/2018/sep/23/yayoi-kusama-infinity-film-victoria-miro-exhibition</link>
+          <info>
+				By Tim Adams
+				&lt;br&gt;
+				The Guardian 
+				&lt;br&gt;
+				September 23, 2018
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

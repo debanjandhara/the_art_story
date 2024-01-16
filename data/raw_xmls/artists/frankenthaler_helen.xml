@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>frankenthaler_helen</id>
+    <name>Helen Frankenthaler</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1952 - 2011</years>
+    <description>Frankenthaler's innovated Abstract Expressionism with her soak-stain technique where she produced luminous color washes that merged with the canvas.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter</occupation>
+    <nationality>American</nationality>
+    <birthDate>December 12, 1928</birthDate>
+    <birthPlace>New York, New York</birthPlace>
+    <deathDate>December 27, 2011</deathDate>
+    <deathPlace>Darien, Connecticut</deathPlace>
+    <pub_time>1/21/2012</pub_time>
+    <cname>Frankenthaler</cname>
+    <big_bio_box_img>true</big_bio_box_img>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+    <no_artworks_page>true</no_artworks_page>
+  </main>
+  <includes>
+    <include>abstract_expressionism</include>
+    <include>color_field_painting</include>
+  </includes>
+  <similar_movements>
+    <movement>abstract_expressionism</movement>
+    <movement>color_field_painting</movement>
+    <movement>post_painterly_abstraction</movement>
+    <movement>washington_color_school</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>motherwell_robert</artist>
+    <artist>greenberg_clement</artist>
+    <artist>noland_kenneth</artist>
+    <artist>hofmann_hans</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"What concerns me when I work, is not whether the picture is a landscape, or whether it's pastoral, or whether somebody will see a sunset in it. What concerns me is - did I make a beautiful picture?"</q>
+    <q>"A really good picture looks as if it's happened once. It's an immediate image."</q>
+    <q>"Being the person I was and am, exposed to the things I have been exposed to, I could only make my painting with the methods - and with the wrist - I have."</q>
+    <q>"Sometimes I think the worst thing is the current 'worldliness' of the whole [art] scene. It is the most deceptive, corrupting, transient thing, full of kicks and fun but so little to do with what it's all really about... It has to do with our time, a desperate pact about the power of immediate-in-ness. But I feel less and less concerned with this as an issue. So what? No threat."</q>
+    <q>"There are no rules. That is how art is born, how breakthroughs happen. Go against the rules or ignore the rules. That is what invention is about."</q>
+    <q>"Whatever the medium, there is the difficult, challenge, fascination and often productive clumsiness of learning a new method: the wonderful puzzles and problems of translating new materials."</q>
+    <q>"Every so often every artist feels, 'I'll never paint again. The muse has gone out the window.' In 1985, I hardly painted at all for three months, and it was agonizing. I looked at reproductions. I stared at Matisse. I stared at the Old Masters. I stared at the Quattrocento. And I thought to myself - Don't push it! If you try too hard to get at something, you almost push it away."</q>
+    <q>"The landscapes were in my arms as I did it."</q>
+  </quotes>
+  <authors>
+    <author link="shaffer">Jessica Shaffer</author>
+  </authors>
+  <article>
+    <synopsys>Helen Frankenthaler was among the most influential artists of the mid-20&lt;sup&gt;th&lt;/sup&gt; century. Introduced early in her career to major artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kline_franz"&gt;Franz Kline&lt;/span&gt; (and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-motherwell_robert"&gt;Robert Motherwell&lt;/span&gt;, whom she later married), Frankenthaler was influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionist&lt;/span&gt; painting practices, but developed her own distinct approach to the style. She invented the "soak-stain" technique, in which she poured turpentine-thinned paint onto canvas, producing luminous color washes that appeared to merge with the canvas and deny any hint of three-dimensional illusionism. Her breakthrough gave rise to the movement promoted by the influential art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; as the "next big thing" in American art: &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt;, marked by airy compositions that celebrated the joys of pure color and gave an entirely new look and feel to the surface of the canvas. Later in her career, Frankenthaler turned her attention to other artistic media, most notably woodcuts, in which she achieved the quality of painting, in some cases replicating the effects of her soak-stain process.</synopsys>
+    <key_ideas>
+      <idea>While creating &lt;i&gt;Mountains and Sea&lt;/i&gt; (1952), Frankenthaler arrived at her innovative variant of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock's&lt;/span&gt; pouring technique, in which she likewise poured paints onto enormous canvases placed on the floor. But while Pollock used enamel paints, which remain on the surface of the canvas when dried, Frankenthaler poured oil paints that she had thinned with turpentine that then soaked into the fabric of the canvas. Frankenthaler's soak-stain process created luminescent, misty compositions dominated by large areas of color that seemed to have emerged onto the canvas naturally and organically.</idea>
+      <idea>Frankenthaler's work influenced &lt;span class="marked_text chart-tooltip-target-top tooltip_id-louis_morris"&gt;Morris Louis&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noland_kenneth"&gt;Kenneth Noland&lt;/span&gt;, who recognized works like &lt;i&gt;Mountains and Sea&lt;/i&gt; as a mode of abstract painting that moved beyond Pollock's textured, psychologically fraught canvases to compositions almost entirely based on color. On the basis of the soak-stain technique and the color wash, Frankenthaler, Louis, and Noland went on to develop &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt;. In such works, the entire space of the picture is conceived as a "field" that appears to spread beyond the edges of the canvas; figure and ground became one and the same, and three-dimensional illusionism is completely jettisoned.</idea>
+      <idea>In another major departure from first-generation Abstract Expressionism, Frankenthaler was an abstract artist for whom the natural landscape - rather than the existential confrontation with the canvas or search for the sublime - served as the major focus and inspiration. Her pared-down forms were often informed by her impressions of nature, be they the arid terrain of the American Southwest; a mulberry tree seen in upstate New York; or the Long Island Sound, viewed from the artist's home in Darien, Connecticut.</idea>
+      <idea>Frankenthaler applied her breakthrough soak-stain technique to other painterly media, most notably, watered-down acrylic, which she used in place of turpentine-thinned paint starting in the 1960s. Subsequently, she also sought to replicate the method's effects in printmaking, creating woodcuts that not only resembled paintings, but also achieved the misty, watercolor-like quality of her color washes.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Helen Frankenthaler was born and raised in a wealthy Manhattan family with her two older sisters. Her parents recognized and fostered her artistic talent from a young age, sending her to progressive, experimental schools. The family took many trips in the summertime, and it was during these trips that Frankenthaler developed her love of the landscape, sea, and sky. Her father was a judge on the New York State Supreme Court and died of cancer when she was eleven years old. The loss affected her deeply, sending Helen into a four-year period of unhappiness during which time she suffered from intense migraines.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">At fifteen, Frankenthaler was sent to the Dalton School in New York and began to study under the Mexican painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tamayo_rufino"&gt;Rufino Tamayo&lt;/span&gt;. By the time she was sixteen, she decided to become an artist, enrolling in Bennington College in Vermont, where she studied under Paul Feeley, who was fundamental in arranging exhibitions of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Helen Frankenthaler Photo" show="1">/images20/photo/photo_frankenthaler_helen_1.jpg</p>
+          <p type="p">In 1948, Frankenthaler moved back to New York. Two years later, she met the prominent art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; (19 years her senior) at an exhibition she organized for Bennington alumnae. They began a romantic relationship that would last for several years, in that time Greenberg introduced her to several leading Abstract Expressionists artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_kooning_willem"&gt;Willem de Kooning&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-krasner_lee"&gt;Lee Krasner&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kline_franz"&gt;Franz Kline&lt;/span&gt;. Greenberg also prompted Frankenthaler to study under &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hofmann_hans"&gt;Hans Hofmann&lt;/span&gt; in 1950. 1952 was the breakthrough year for Frankenthaler; upon returning home from a trip to Nova Scotia, she created &lt;i&gt;Mountains and Sea&lt;/i&gt;, a groundbreaking canvas where she pioneered her "soak-stain" technique. Working on a large canvas placed on the floor, Frankenthaler thinned her oil paints with turpentine and used window wipers, sponges, and charcoal outlines to manipulate the resulting pools of pigment.</p>
+          <p type="p">The following year, Greenberg brought the painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-louis_morris"&gt;Morris Louis&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noland_kenneth"&gt;Kenneth Noland&lt;/span&gt; to Frankenthaler's studio to see &lt;i&gt;Mountains and Sea&lt;/i&gt;; their excitement over the work led to their experimentation with Frankenthaler's soak-stain technique and to the development, with Frankenthaler, of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt;. Louis would later declare that Frankenthaler's work was the "bridge from Pollock to what was possible". The achievement is also noteworthy given that Frankenthaler was just 24 years old at the time, while Pollock and de Kooning were in their 40s and 50s, and struggled many years before achieving recognition.</p>
+          <p type="p">In the years that followed, Frankenthaler continued using the new method she had developed, drawing on her abiding love of landscape for inspiration. In 1957, she met fellow artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-motherwell_robert"&gt;Robert Motherwell&lt;/span&gt;, another leading Abstract Expressionist painter, and the following year they began their thirteen-year marriage, marking a period of mutual influence in their artwork. Since Motherwell and Frankenthaler had both come from privilege, the two aroused jealousy among other, cash-poor Abstract Expressionist artists and were famously nicknamed "the golden couple."</p>
+          <p type="img" alt="Helen Frankenthaler Photo" show="1">/images20/photo/photo_frankenthaler_helen_2.jpg</p>
+          <p type="p">In the 1960s, Frankenthaler began to use acrylic paint in place of oil. She achieved large washes of bright color in acrylic paintings like &lt;i&gt;Canyon&lt;/i&gt; (1965), which reveal the possibilities of this new material. In 1964, her work was included in an exhibition curated by Clement Greenberg at the Los Angeles County Museum of Art. Identifying this new strain of painting that emerged out of Abstract Expressionism, Greenberg titled the show &lt;i&gt;&lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_painterly_abstraction"&gt;Post-Painterly Abstraction&lt;/span&gt;&lt;/i&gt; - his preferred title for the style of painting developed by Frankenthaler, Louis, and Noland, which is more generally referred to as Color Field Painting. Frankenthaler also began to show her work internationally, exhibiting at the Venice Biennale in 1966 and at the United States Pavilion at the 1967 International and Universal Exposition in Montreal. She simultaneously began to develop her proficiency in other artistic media; in particular, she embraced printmaking, creating woodcuts, aquatints, and lithographs that rivaled her painting in their inventiveness and beauty.</p>
+          <p type="p">After her divorce from Motherwell in 1971, Frankenthaler traveled to the American Southwest. Two trips she made in the mid-1970s resulted in &lt;i&gt;Desert Pass&lt;/i&gt; (1976) and several other works capturing the colors and tones of the Southwestern landscape.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">Frankenthaler continued making art during the 1980s and 1990s, up through the last years of her life. In addition to her work in painting and printmaking, she experimented with a variety of other media, including clay and steel sculpture, even designing the sets and costumes for England's Royal Ballet. Several years after being honored at the prominent gallery Knoedler &amp; Company in New York with the exhibition &lt;i&gt;Frankenthaler at Eighty: Six Decades&lt;/i&gt;, Frankenthaler died in 2011 at her home in Darien, Connecticut.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Frankenthaler's soak-stain technique gave rise to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field movement&lt;/span&gt;, having a decisive impact on the work of the other artists associated with this style, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-louis_morris"&gt;Morris Louis&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noland_kenneth"&gt;Kenneth Noland&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-olitski_jules"&gt;Jules Olitski&lt;/span&gt;. In addition its striking departure from first-generation &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, Color Field art is often seen as an important precursor of 1960s &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, with its spare, meditative quality.</p>
+          <p type="p">The canvases of Frankenthaler and her fellow Color Field painters also resonated with the theories of the movement's biggest promoter, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt;. Their lack of illusionistic space embodied what Greenberg articulated as modernist painting's logical end result: an increasing embrace of medium's intrinsic quality, which for him was the concept of 'flatness,' or the two-dimensionality of the picture plane. Eventually, the movement and Greenberg's ideas lost their popularity and succumbed to the stronger forces of Pop art and Minimalism.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="hofmann_hans">The Conjurer (1959)</artwork>
+    <artwork from="artist" page="motherwell_robert">The Blue Painting Lesson: A Study in Painterly Logic, number one of five (1973)</artwork>
+    <artwork from="artist" page="de_kooning_willem">Women Singing II (1967)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>hofmann_hans</entity>
+        <entity>pollock_jackson</entity>
+        <entity>de_kooning_willem</entity>
+        <entity>tamayo_rufino</entity>
+      </column>
+      <column>
+        <entity>motherwell_robert</entity>
+        <entity>greenberg_clement</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>noland_kenneth</entity>
+        <entity>louis_morris</entity>
+        <entity>olitski_jules</entity>
+      </column>
+      <column>
+        <entity>greenberg_clement</entity>
+      </column>
+      <column>
+        <entity>abstract_expressionism</entity>
+        <entity>color_field_painting</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Mountains and Sea</title>
+      <year>1952</year>
+      <materials>Oil on canvas</materials>
+      <desc>This canvas is the artist's landmark piece in which she first pioneered her soak-stain process. Despite its large size (7 x 10 feet), it is a work of quiet intimacy. Painted on the artist's return from Nova Scotia, &lt;i&gt;Mountains and Sea&lt;/i&gt; retains the artist's impressions of the Cape Breton environs; as she famously described, the region's landscapes "were in my arms as I did it ... I was trying to get at something - I didn't know what until it was manifest." Here, color takes on a new, primary role, with washes of pink, blue, and green defining the hills, rocks, and water, the forms of which are sketchily outlined in charcoal. Following their encounter with &lt;i&gt;Mountains and Sea&lt;/i&gt; and other works by Frankenthaler produced by means of the soak-stain technique, Morris Louis and Kenneth Noland promptly embraced the method and, together with Frankenthaler, launched the "next big thing" in American art: Color Field Painting.</desc>
+      <collection>Collection Helen Frankenthaler Foundation, Inc. (on extended loan to the National Gallery of Art, Washington</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Canyon</title>
+      <year>1965</year>
+      <materials>Acrylic on canvas</materials>
+      <desc>The topographical features of the landscape often served as inspiration for Frankenthaler's abstract imagery. With its brilliant red wash filling most of the canvas, &lt;i&gt;Canyon&lt;/i&gt; reflects the change in Frankenthaler's artistic practice introduced several years earlier, when she began replacing turpentine-thinned oil with watered-down acrylic poured in larger stains and blots. The painting's gentle luminosity evokes the art critic Nigel Gosling's 1964 description of Frankenthaler's work, written in connection with the artist's London gallery exhibition of that year: "If any artist can give us aid and comfort, Helen Frankenthaler can with her great splashes of soft color on huge square canvases. They are big but not bold, abstract but not empty or clinical, free but orderly, lively but intensely relaxed and peaceful."</desc>
+      <collection>The Phillips Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Savage Breeze</title>
+      <year>1974</year>
+      <materials>Woodcut</materials>
+      <desc>Depicting an open space above a mountain-like divide, &lt;i&gt;Savage Breeze&lt;/i&gt; was Frankenthaler's first foray into the medium of woodcut. Her concern in this work with achieving the same vibrant color and amorphous forms as her painting resulted in a major technical innovation for this art form. The artist cut a thin sheet of plywood into separately inked shapes and then, in collaboration with ULAE (Universal Limited Art Editions), the Long Island studio that printed the work, devised a special method for eliminating the white lines between them when printing. The newly designed technique - hailed by one writer as "a departure so profound that virtually all subsequent woodcuts incorporated the thinking it embodied" - had a major impact on subsequent printmaking. Indeed, &lt;i&gt;Savage Breeze&lt;/i&gt; is far removed from the graphic appearance of the traditional woodblock print, giving the appearance of painted, rather than carved, wood.</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Desert Pass</title>
+      <year>1976</year>
+      <materials>Acrylic on canvas</materials>
+      <desc>With its minimally defined forms and earthy palette, &lt;i&gt;Desert Pass&lt;/i&gt; is an excellent example of the ways Frankenthaler responded to the natural landscape. Inspired by a trip to the American Southwest, the painting captures the colors and forms as well as the climate of the region. Among them: yellow-gold, evoking sand as well as the desert's aridity and intense light and greenish-blue, suggesting the form and color of cacti.</desc>
+      <collection>Smithsonian American Art Museum</collection>
+    </artwork>
+    <artwork>
+      <title>Essence Mulberry</title>
+      <year>1977</year>
+      <materials>Woodcut composition</materials>
+      <desc>An eight-color woodcut, &lt;i&gt;Essence Mulberry&lt;/i&gt; consists of a large bluish gray area containing orange markings, framed by two broad stripes of rich red. The print's palette had sources in both art history - the faded colors of 15&lt;sup&gt;th&lt;/sup&gt;-century prints Frankenthaler encountered at the Metropolitan Museum of Art - and nature: a mulberry tree located outside Kenneth Tyler's printmaking studio in New Bedford, New York. Using mulberry juice to capture the tree's rich red, the artist achieved the quality of painting - defying the graphic nature and helping expand the possibilities of the medium. Printed by Tyler Graphics, &lt;i&gt;Essence Mulberry&lt;/i&gt; was the first of Frankenthaler's many collaborations with the master printer occurring over a roughly twenty-five year period.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Madame Butterfly</title>
+      <year>2000</year>
+      <materials>Woodcut</materials>
+      <desc>Although the central white shape suggests a butterfly, this print evokes rather than depicts its subject, with a sense of delicacy appropriate for the Japanese heroine of Puccini's tragic opera of the same name. Frankenthaler's final collaboration with Tyler Graphics, &lt;i&gt;Madame Butterfly&lt;/i&gt; is an incredibly complex work, involving 106 colors, 46 woodblocks, and measuring 6' in length. Both its subject and the manner in which the print was created, using traditional Japanese &lt;i&gt;Ukiyo-e&lt;/i&gt; carving techniques, reflect the artist's sustained engagement with Asian art and culture. With its color washes, floating forms, and watercolor-like effect, &lt;i&gt;Madame Butterfly&lt;/i&gt; is reminiscent of works like &lt;i&gt;Mountains and Sea&lt;/i&gt; - a seeming realization of the soak-stain technique in the medium of woodcut.</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Originals: American Women Artists</title>
+          <link>0306809559</link>
+          <info>By Eleanor Munro</info>
+        </entry>
+        <entry recommended="true">
+          <title>Helen Frankenthaler: Painting History, Writing Painting</title>
+          <link>1845115198</link>
+          <info>By Alison Rowley</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>After Mountains and Sea: Frankenthaler 1956-1959</title>
+          <link>0892072709</link>
+          <info>By Julia Brown, Edited by Susan Cross</info>
+        </entry>
+        <entry>
+          <title>Frankenthaler: The Woodcuts</title>
+          <link>0807615099</link>
+          <info>By Judith Goldman</info>
+        </entry>
+        <entry recommended="true">
+          <title>Frankenthaler: A Catalog Raisonne, Prints 1961-1994</title>
+          <link>0810933322</link>
+          <info>By Pegram Harrison</info>
+        </entry>
+        <entry>
+          <title>Helen Frankenthaler: A Paintings Retrospective</title>
+          <link>0929865014</link>
+          <info>By E.A. Carmean</info>
+        </entry>
+        <entry>
+          <title>Frankenthaler: Works on Paper, 1949-1984</title>
+          <link>0807611042</link>
+          <info>By Karen Wilkin</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Frankenthaler at Eighty</title>
+          <link>0982074905</link>
+          <info>By Karen Wilkin and Helen Frankenthaler</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>National Gallery of Australia</title>
+          <link>http://nga.gov.au/exhibition/Frankenthaler/Detail.cfm?IRN=120642&amp;BioArtistIRN=8714&amp;MnuID=1</link>
+          <info>Extensive exhibition website dedicated to her woodcuts</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Helen Frankenthaler: A Wind That Lashes Everything at Once</title>
+          <link>http://www.artnet.com/magazineus/features/saltz/helen-frankenthaler-12-28-11.asp</link>
+          <info>
+						By Jerry Saltz
+						&lt;br/&gt;
+						ArtNet Magazine
+						&lt;br/&gt;
+						December 28, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Article: Helen Frankenthaler, Abstract Painter Who Shaped a Movement, Dies at 83</title>
+          <link>http://www.nytimes.com/2011/12/28/arts/helen-frankenthaler-abstract-painter-dies-at-83.html?pagewanted=all</link>
+          <info>
+						By Grace Glueck
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						December 27, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Art in Review; Helen Frankenthaler</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=9A02E4D71F31F93AA15751C1A9609C8B63&amp;ref=helenfrankenthaler</link>
+          <info>
+						By Martha Schwendener
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						December 29, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Frankenthaler's New Way of Making Art</title>
+          <link>http://online.wsj.com/article/SB122609409221009463.html</link>
+          <info>
+						By William C. Agee
+						&lt;br/&gt;
+						The Wall Street Journal
+						&lt;br/&gt;
+						November 8, 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gaga over Guggenheim's Frankenthaler Exhibition</title>
+          <link>http://www.observer.com/1998/02/gaga-over-guggenheims-frankenthaler-exhibition/</link>
+          <info>
+						By Hilton Kramer
+						&lt;br/&gt;
+						The New York Observer
+						&lt;br/&gt;
+						February 2, 1998
+					</info>
+        </entry>
+        <entry>
+          <title>Artful Survivor</title>
+          <link>http://www.nytimes.com/1989/05/14/magazine/artful-survivor.html</link>
+          <info>
+						By Deborah Soloman 
+						&lt;br/&gt;
+						The New York Times 
+						&lt;br/&gt;
+						May 14, 1989 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts" />
+      <subcategory name="audio clips" class="audioclips">
+        <entry recommended="true">
+          <title>'Color Field' Artists Found a Different Way</title>
+          <link>http://www.npr.org/templates/story/story.php?storyId=87871332</link>
+          <info>
+						Profile of Helen Frankenthaler
+						&lt;br/&gt;
+						By Susan Stamberg
+						&lt;br/&gt;
+						NPR
+						&lt;br/&gt;
+						March 4, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Abstract Artist Helen Frankenthaler Dies at Age 83</title>
+          <link>http://www.npr.org/2011/12/27/144323377/abstract-artist-helen-frankenthaler-dies-at-age-83</link>
+          <info>
+						By Joel Rose
+						&lt;br/&gt;
+						NPR
+						&lt;br/&gt;
+						December 27, 2011
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>American Art in the 1960s</title>
+          <link>https://www.youtube.com/watch?v=AohJCfAOhtY</link>
+          <info>Trailer. Directed by Michael Blackwood</info>
+        </entry>
+        <entry>
+          <title>Helen Frankenthaler Interview</title>
+          <link>http://www.youtube.com/watch?v=yFjX2Nbf-HM</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>The Art of Influence</title>
+          <link>http://www.imdb.com/title/tt0202797/</link>
+          <info>One of the fifteen artists focused on in this film, Frankenthaler discusses Jackson Pollock's influence on her work</info>
+        </entry>
+        <entry>
+          <title>Painters Painting</title>
+          <link>http://www.imdb.com/title/tt0207645/#comment</link>
+          <info>This film includes Frankenthaler in a survey of how Abstract Expressionist artists accomplished their work</info>
+        </entry>
+        <entry>
+          <title>Who Gets to Call it Art?</title>
+          <link>http://www.imdb.com/title/tt0472210/</link>
+          <info>Includes a small amount of archival footage of Frankenthaler</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

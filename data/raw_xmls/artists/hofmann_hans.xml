@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>hofmann_hans</id>
+    <name>Hans Hofmann</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1898 - 1966</years>
+    <description>Hans Hofmann spread European modernist styles and ideas in the United States, and his own work made a powerful contribution to Abstract Expressionism.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>4</highlight>
+    <occupation>Painter and Theoretician</occupation>
+    <nationality>German-American</nationality>
+    <birthDate>March 21, 1880</birthDate>
+    <birthPlace>Weissenberg, Bavaria</birthPlace>
+    <deathDate>February 17, 1966</deathDate>
+    <deathPlace>New York City, NY</deathPlace>
+    <pub_time>1/22/2012</pub_time>
+  </main>
+  <includes>
+    <include>abstract_expressionism</include>
+  </includes>
+  <similar_movements>
+    <movement>abstract_expressionism</movement>
+    <movement>color_field_painting</movement>
+    <movement>post_painterly_abstraction</movement>
+    <movement>nouveau_realisme</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>krasner_lee</artist>
+    <artist>guggenheim_peggy</artist>
+    <artist>rosenberg_harold</artist>
+    <artist>barr_alfred</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Color is a plastic means of creating intervals... color harmonics produced by special relationships, or tensions. We differentiate now between formal tensions and color tensions, just as we differentiate in music between counterpoint and harmony."</q>
+    <q>"A teacher affects eternity; he can never tell where his influence stops."</q>
+    <q>"Art is to me the glorification of the human spirit, and as such it is the cultural documentation of the time in which it is produced."</q>
+    <q>"Painters must speak through paint, not through words."</q>
+    <q>"The whole world, as we experience it visually, comes to us through the mystic realm of color."</q>
+  </quotes>
+  <authors>
+    <author link="wolf">Justin Wolf</author>
+  </authors>
+  <article>
+    <synopsys>A pioneering artist and teacher, Hans Hofmann emigrated from Germany to the United States in 1930. He brought with him a deep knowledge of French art, gleaned from years spent in Paris before World War I, and this proved crucial in spreading European modernist styles and ideas in the United States. He taught &lt;span class="marked_text chart-tooltip-target-top tooltip_id-krasner_lee"&gt;Lee Krasner&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frankenthaler_helen"&gt;Helen Frankenthaler&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rivers_larry"&gt;Larry Rivers&lt;/span&gt;, and he formed a close relationship with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;. Hofmann's own style represented a fusion of various modes, and his later work made a powerful contribution to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>Hofmann's years in Paris brought him into direct contact with artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Leger&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, and his own style would come to be a fusion of various modes. At various times his work blended &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; structure with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvist&lt;/span&gt; color, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionist&lt;/span&gt; energy, and touches of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;.</idea>
+      <idea>Hofmann believed fervently that a modern artist must remain faithful to the flatness of the canvas support. To suggest depth and movement in the picture - to create what he called "push and pull" in the image - artists should create contrasts of color, form, and texture.</idea>
+      <idea>Nature was the origin of art, Hofmann believed, and no matter how abstract his pictures seemed to become, he always sought to maintain in them a link to the world of objects. Even when his canvases seemed to be only collections of forms and colors, Hofmann argued that they still contained the suggestion of movement - and movement was the pulse of nature.</idea>
+      <idea>Although renowned for his ideas, Hofmann once said that "painters must speak through paint, not through words." And his own foremost medium of expression was color: "The whole world, as we experience it visually," he said, "comes to us through the mystic realm of color."</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born Johan Georg Albert in Weissenberg, Bavaria in 1880, Hofmann was a precocious child, showing early inclinations towards mathematics, music, science, literature, and art. When he was six years old, his family moved to Munich where his father had secured a job in the government bureaucracy. In time his father would use his position to help find a position for his son working for the Director of Public Works of the State of Bavaria, and it was here that Hofmann began his working life and where he patented several scientific inventions, including a radar device for ships, whilst still in his teenage years.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Hans Hofmann Biography">/images20/photo/hofmann_4.jpg</p>
+          <p type="p">Hofmann's family hoped that he would develop his promise in science, but by the time he had turned eighteen he had decided to pursue art and enrolled in Moritz Heymann's art school in Munich, where he was introduced to styles such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pointillism"&gt;Pointillism&lt;/span&gt;. Soon after, he met a patron who enabled him to support himself as an artist in Paris. Around this time he also met Maria ("Miz") Wolfegg (his 1902 portrait of her represents an early example of the influence of Impressionism on his work). The couple would not marry until 1924, but she accompanied him to Paris in 1904 and they would remain there until 1914. Hofmann was on a visit to Germany when war broke out that year, and he was unable to return to Paris to salvage his pictures, which were all lost.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">On return to Munich, Hofmann established his own art school. Its fame soon spread internationally and his first visit to the United States, in 1930, was occasioned by an invitation from a former student, Worth Ryder, to teach a summer session at UC Berkeley. He visited again, and then on his third visit, with political tensions rising in Europe, Hofmann decided to stay and began teaching in New York at the Art Students League. He opened the Hans Hofmann School of Fine Arts in 1933, and two years later opened a summer school in Provincetown, MA.</p>
+          <p type="p">Hofmann would continue to work as a teacher until 1958, yet his circumstances in the mid-1930s enabled him to find more time for his own painting. He had not had a solo exhibition since his first in Berlin in 1910, but in 1944 he finally had a second, at &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guggenheim_peggy"&gt;Peggy Guggenheim's&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;Art of This Century Gallery&lt;/span&gt; in New York. Much of the work Hofmann exhibited in that show was conservative in comparison to some of the advanced painting then being created by other artists in Guggenheim's stable; &lt;i&gt;Self-Portrait with Brushes&lt;/i&gt; (1942) is typical of his style at this time. Inspired by his surroundings of his home in Provincetown, it was also stylistically eclectic. But it was a success, leading to further significant shows both in Europe and America. Hofmann's contact with other, more Surrealist-influenced artists around Guggenheim's gallery also encouraged his own art to move in that direction; his work gradually became more abstract and infused with mythic and primitive imagery, resulting in pictures such as &lt;i&gt;The Wind&lt;/i&gt; (c.1944). At one time historians even speculated on whether Hofmann's experiments with drip painting were the inspiration for Pollock's own more famous use of the method, but most now believe that Hofmann's attempts postdated those. In the early 1950s, Hofmann's pictures became richer in feel, with surfaces built up in layers of thick impasto and rectangular forms floating on areas of saturated color.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Hans Hofmann Photo">/images20/photo/hofmann_63.jpg</p>
+          <p type="p">Hofmann's work as a teacher, his emigration from Europe, and his singular style all contributed to his late recognition as a major painter. Nevertheless, he received many awards and honors in his later life. A retrospective of his work was organized by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; at Bennington College in 1955; another survey was staged at the Whitney Museum in 1957. Along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guston_philip"&gt;Philip Guston&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kline_franz"&gt;Franz Kline&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-roszak_theodore"&gt;Theodore Roszac&lt;/span&gt;, he represented the United States at the Venice Biennale in 1960. And in 1963, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-museum_of_modern_art"&gt;Museum of Modern Art&lt;/span&gt; hosted a retrospective of his work that toured the world.</p>
+          <p type="p">His success was clouded by the death of his wife Miz in 1963, but two years later Hofmann married again, and he would go on to dedicate a series of paintings to his young German wife, Renate Schmitz, that now hang in the Metropolitan Museum of Art. Hofmann died in New York in 1966. He was 86 years old.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Hans Hofmann was the only painter of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-new_york_school"&gt;New York School&lt;/span&gt; that was directly involved in the European modernism of the early-20&lt;sup&gt;th&lt;/sup&gt; century. In bringing this experience to America, Hofmann's legacy reached far beyond his own work, and it is through his hundreds of students - many of whom went on to achieve success - that his true impact on art history is felt. Clement Greenberg, who was strongly influenced by Hofmann's ideas, claimed he was "in all probability the most important art teacher of our time."</p>
+          <p type="p">Hofmann's command of English was never strong enough - and he was a generation older than most Abstract Expressionists - to enable him to fit in with the alcoholic socializing of the New York painters. But he was always an intrinsic part of the movement, and it is worth noting also that while many of his contemporaries in the United States were interested in Picasso and Cubism, Hofmann was devoted to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse's&lt;/span&gt; color, and this undoubtedly influenced many.</p>
+        </subsection>
+      </section>
+      <section title="Writings and Ideas">
+        <subsection title="Introduction">
+          <p type="p">Hofmann's ideas were built up from his extensive reading in German philosophy, and this established his lifelong habit of thinking in dualities - in thesis, antithesis, and synthesis. He was a particular adherent of the ideas made popular by Adolph von Hildebrand in &lt;i&gt;The Problem of Form in the Visual Arts&lt;/i&gt; (1893). He was unwavering in his belief that laws governed the best art, though he often suggested that once an artist had learned and mastered these laws, he was free to break them. Hofmann avoided any suggestion that a modernist artist or critic must distinguish between abstraction and representation, or between gestural, expressionistic styles and geometric forms. He believed that all styles shared a common root in the history of art - different approaches, if executed properly, could achieve the same universal goal, which was the absorption of the artist into the work.</p>
+        </subsection>
+        <subsection title="On Form and Aesthetics">
+          <p type="img" alt="Hans Hofmann Portrait">/images20/photo/hofmann_11.jpg</p>
+          <p type="p">When Hofmann considered the form of a work of art, he always bore in mind the space on which - and in which - it resided. "Form must be balanced by means of space," Hofmann wrote in 1932, "...form exists because of space and space exists because of form." In any work of art, he looked for a visual unity and form that stimulated interest in the viewer, whether pleasing to the eye or not.</p>
+          <p type="p">Hofmann once wrote, "[w]e differentiate today between form in a biological sense, which concerns the object, and between form in an [aesthetic] sense, in which the work exists spiritually as a work of art." It was a difference, he explained, rooted in between an object's three-dimensional form and its two-dimensional appearance - but neither was any more "real" than the other. The true artist, Hofmann believed, is one who can merge the physical and the conceptual. "Only Matisse, Picasso, and Braque, each of them in his own way, and a few others have mastered this mammoth problem," he wrote. The ability to unite the physical and the conceptual was an achievement in spiritual unity and an example of what Hofmann considered the magic of art.</p>
+        </subsection>
+        <subsection title="On the Magic of Painting">
+          <p type="p">The process of creating a three-dimensional image on a two-dimensional surface was, in Hofmann's eyes, a work of magic; the bare minimum needed to achieve this effect was to draw two lines - one short, one long. Through this process, a sense of three dimensions was created. "Art is magic," he wrote. "But how is it magic? In its metaphysical development? Or does some final transformation culminate in a magic reality? In truth, the latter is impossible without the former. If creation is not magic, the outcome cannot be magic."</p>
+          <p type="p">In a statement accompanying a solo exhibition at the Kootz Gallery in New York in 1951, Hofmann wrote, "When mutually related, everything makes its mark on another thing. So do colors. They influence each other considerably in a psychological sense, as shapes do. A different color shade gives the same shape another psychological meaning. Difference in plastic or spatial placement (composition) causes any color or shape or color-shape to change completely in psychological expression. This explains the magic of painting."</p>
+          <p type="p">While social realism had been important in American art of the 1930s and continued to exert an influence, Hofmann believed that "burdening the canvas with propaganda or history does not make the painting a better work of art. Such burdening, in the majority of cases, decreases the quality of the work and with it the living, vivid relations and swinging, vibrating space proper to a work of visual art." When an artist is able to achieve a balance of aesthetic form and what Hofmann called "vibrating space," any infusion of the artist's political beliefs would likely preclude that work from becoming a work of pure magic.</p>
+        </subsection>
+        <subsection title="&quot;Push and Pull&quot;">
+          <p type="p">Hofmann believed that modern artists should evoke pictorial space not in the traditional manner by modeling form with the use of atmospheric perspective, but by using contrasts of color, shape, and surface. Only in this way could an artist stay true to the fundamental fact of the canvas, its two-dimensionality. These tensions between form and color were crucial to a painting's success, Hofmann believed, and referred to them as the "push and pull" within a picture.</p>
+          <p type="p">Although Hofmann's idea was grounded in aesthetics, the notion of "push-and-pull" may have originated with the early American modernist painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marin_john"&gt;John Marin&lt;/span&gt;, who in 1913 wrote, "[New York is] made of powers [that] are at work pushing, pulling, sideways, downwards, upwards... I see great forces at work...the large buildings and the small buildings; the warring of the great and the small...feelings are aroused which give me the desire to express the reaction of these 'pull forces.'"</p>
+        </subsection>
+        <subsection title="On the Fundamental Laws of Painting">
+          <p type="img" alt="Hans Hofmann in Provincetown. Photo by Karl Kasten">/images20/photo/hofmann_113.jpg</p>
+          <p type="p">"Painting as a whole," wrote Hofmann in 1932, "possesses fundamentals. The highest law of painting is: The entity of the picture plane must be preserved. This entity is its essential two-dimensionality...this law connotes at once: the picture plane must achieve a three-dimensional effect (as distinguished from illusion) by means of the creative process." Hofmann cared little for any form of visual trickery or optical illusion in painting - he believed such devices defied the purity of the creative act on canvas. He believed that since a canvas was, by its nature, a flat surface, it should be treated as such. To apply anything to it other than paint was, in a sense, cheating the art form.</p>
+        </subsection>
+        <subsection title="On Marx's Approach to Art">
+          <p type="p">Hofmann formed several rules for painting, all of which were grounded in the Marxist belief that an artist is shaped and conditioned by historical circumstances and can only achieve as much as those circumstances will allow. As Marx argued, "Men make their own history, but they do not make it just as they please..." However, above all else, Hofmann believed that an artwork's meaning should be important to the creator. He also believed that historical and/or political content was an affront to the purity of art itself. And, regarding the necessity of speaking to one's historical moment, Hofmann once added his own caveat, late in life, while addressing some artists: "You belong to a certain time. You are yourself the result of time. You are the creator of this time."</p>
+        </subsection>
+        <subsection title="On Women Artists">
+          <p type="p">Despite working with and teaching many female artists throughout his life, including Lee Krasner and Helen Frankenthaler, Hofmann shared the prejudices of most members of the macho New York School. He doubted that women were the equals of men in achieving the same level of spirituality in art or in mastering his all-important method of "push and pull." Lee Krasner recalled a time when he had visited her studio and said, "this is so good you would not believe it was done by a woman."</p>
+        </subsection>
+        <subsection title="Writing Style">
+          <p type="p">Hofmann was both a romantic and an academic. He stressed the strictest of standards for creating art, yet believed that if an artist followed those standards with enough talent and determination, he could create an infinite number of possibilities. Heavily influenced by the philosophy and art theory of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goethe_johann_wolfgang"&gt;Johann Wolfgang von Goethe&lt;/span&gt; (who also dabbled in optics), Hofmann explored such issues as color, depth, rhythm, perception, and form. Hofmann was also a firm believer in the place of nature in art, which might explain why many of his own paintings - abstract and non-objective as they are - were given titles that suggested natural imagery.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="picasso_pablo">The Soup (1902-03)</artwork>
+    <artwork from="artist" page="matisse_henri">Bathers by a River (1917)</artwork>
+    <artwork from="artist" page="braque_georges">Balustre et Crane (1938)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>picasso_pablo</entity>
+        <entity>matisse_henri</entity>
+        <entity>braque_georges</entity>
+        <entity>delaunay_robert</entity>
+      </column>
+      <column>
+        <entity>goethe_johann_wolfgang</entity>
+        <entity>hildebrand_adolf</entity>
+        <entity>guggenheim_peggy</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>krasner_lee</entity>
+        <entity>stella_frank</entity>
+        <entity>frankenthaler_helen</entity>
+        <entity>nevelson_louise</entity>
+        <entity>pollock_jackson</entity>
+      </column>
+      <column>
+        <entity>greenberg_clement</entity>
+        <entity>rosenberg_harold</entity>
+        <entity>barr_alfred</entity>
+      </column>
+      <column>
+        <entity>gestural_abstraction</entity>
+        <entity>color_field_painting</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Wind</title>
+      <year>c. 1944</year>
+      <materials>Oil, duco, gouache and India ink on poster board</materials>
+      <desc>Pictures such as &lt;i&gt;The Wind&lt;/i&gt; have been at the center of a long controversy over whether Hofmann inspired Jackson Pollock's use of the drip technique. Some have claimed that Pollock saw pictures like this when he visited Hofmann's studio in 1942, and that this inspired his first use of poured paint in 1943.It was first thought that this work was produced in 1942, but now, professionals believe, that &lt;i&gt;The Wind&lt;/i&gt; was produced around 1944, and that it was Pollock and Hofmann's twin interest in the work of Andr&amp;#233; Masson, among others, that led both men to experiment with dripped paint at the same time.</desc>
+      <collection>Collection University of California, Berkeley Art Museum</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait with Brushes</title>
+      <year>1942</year>
+      <materials>Casein on plywood</materials>
+      <desc>Hofmann created many self-portrait drawings and paintings, usually depicting himself at work. &lt;i&gt;Self-Portrait with Brushes&lt;/i&gt; is typical of his approach, yet it stands out in the way it combines styles to create an expressive character sketch. Using bold outlines to exaggerate his own features - creating a broad triangular nose and tousled hair - Hofmann projects a playful persona in a blue on yellow palette set within the interior space of his studio.</desc>
+      <collection>Andre Emmerich Gallery, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Ecstasy</title>
+      <year>1947</year>
+      <materials>Oil on canvas</materials>
+      <desc>In 1947, Hofmann abandoned painting on board and began to use canvas. He also began to explore a wider variety of styles, and &lt;i&gt;Ecstasy&lt;/i&gt; reflects his experiments, showing his continued loyalty to European masters such as Joan Miro and Hans Arp at a time when many of Hofmann's American colleagues were trying to overcome European influences.</desc>
+      <collection>University of California, Berkeley Art Museum</collection>
+    </artwork>
+    <artwork>
+      <title>The Conjurer</title>
+      <year>1959</year>
+      <materials>Oil on canvas</materials>
+      <desc>Moving from geometric into fluid forms and a more intense color range, &lt;i&gt;The Conjurer&lt;/i&gt; demonstrates the diversity of Hofmann's mature style. He uses density of color and constellations of shapes to evoke psychological and spatial relationships, rather than objective reality.</desc>
+      <collection>Collection of Stadtische Galerie im Lenbachhaus, Munich</collection>
+    </artwork>
+    <artwork>
+      <title>The Garden</title>
+      <year>1956</year>
+      <materials>Oil on Plywood</materials>
+      <desc>Revisiting one of his earliest inspirations, Pointillism, Hofmann here uses thick dabs of paint to create the mosaic of polychromatic textures that structures the composition. The flowers depicted were those grown by his first wife, Miz, and the sumptuous blooms that emerge and recede in the picture create a dynamism that makes the color swirl.</desc>
+      <collection>University of California, Berkeley Art Museum</collection>
+    </artwork>
+    <artwork>
+      <title>To Miz - Pax Vobiscum</title>
+      <year>1964</year>
+      <materials>Oil on canvas</materials>
+      <desc>Hofmann's first wife, Miz, was a constant support and companion to him for almost 60 years, and after her death he painted this vibrant canvas as a memorial. He used the relationship of bright colors to create shapes expressing his feelings of loss.</desc>
+      <collection>Collection Modern Art Museum of Forth Worth, Museum purchase</collection>
+    </artwork>
+  </artworks>
+  <reviews>
+    <review>
+      <title>Eiffel Tower with Trees</title>
+      <artist>Robert Delaunay</artist>
+      <year>1910</year>
+      <materials>Oil on canvas</materials>
+      <desc>While living in Paris between 1904 and 1914, Hofmann received much of his education in art and theory from frequent encounters with Picasso, Matisse and Braque, and particularly from a close friendship with Robert Delaunay. Delaunay's work, such as his &lt;i&gt;Eiffel Tower with Trees&lt;/i&gt; (which was part of a series devoted to the monument), showed Hofmann how he might balance color and form; it even encouraged him to paint his own quasi-Cubist still lifes.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York</collection>
+    </review>
+    <review>
+      <title>The Conversation</title>
+      <artist>Henri Matisse</artist>
+      <year>1908-12</year>
+      <materials>Oil on canvas</materials>
+      <desc>Hofmann admired few artists more than Matisse. Above all, he was in awe of the Frenchman's discipline and virtue, his unequivocal devotion to harmony in art. While Hofmann's own painterly style and application differed greatly from Matisse's, he considered the Frenchman's use of color to be exemplary and often cited his technique when instructing his own students.</desc>
+      <collection>State Hermitage Museum, St. Petersburg, Russia</collection>
+    </review>
+    <review>
+      <title>Male and Female</title>
+      <artist>Jackson Pollock</artist>
+      <year>1942</year>
+      <materials>Oil on canvas</materials>
+      <desc>Lee Krasner, after meeting her husband-to-be, Jackson Pollock, convinced her long-time teacher Hans Hofmann to visit Pollock's studio, guaranteeing he would like what he saw. Upon his first visit, in 1942, Hofmann was impressed - albeit somewhat concerned with Pollock's casual attitude toward painting. Hofmann recalled being concerned over cans full of dried paint scattered around the studio, and Pollock's apparent disdain for most art. Yet Pollock was intimidated by Hofmann's knowledge of European art, and many still believe that Pollock's signature "drip" method originated from his encounters with the older man.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </review>
+  </reviews>
+  <sidebar>
+    <category name="art story website">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>The Hans Hofmann School</title>
+          <link>/school-hofmann.htm</link>
+          <info>Art School run by Hofmann in the 1930-50s.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Hans Hofmann</title>
+          <link>1558592512</link>
+          <info>By Cynthia Goodman</info>
+        </entry>
+        <entry>
+          <title>Color Creates Light: Studies with Hans Hofmann</title>
+          <link>0986651109</link>
+          <info>By Tina Dickey</info>
+        </entry>
+        <entry>
+          <title>Hans Hofmann: Revised and Expanded</title>
+          <link>0847823806</link>
+          <info>By Sam Hunter, James Yohe, Frank Stella, Tina Dickey</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Search for the Real and Other Essays</title>
+          <link>026258008X</link>
+          <info>By Hans Hofmann, Sara T. Weeks, Bartlett H. Hayes</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>Hans Hofmann</title>
+          <link>0807615269</link>
+          <info>By Karen Wilkin, Hans Hofmann</info>
+        </entry>
+        <entry>
+          <title>Hans Hofmann: The Chimbote Project</title>
+          <link>8495951738</link>
+          <info>By Xavier Costa</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hans Hofmann, paintings of the '40s, '50s, and '60s</title>
+          <link>B000PH0YAY</link>
+          <info>By Hans Andre Emmerich Gallery, Hans Hofmann</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>The Hans Hofmann Estate</title>
+          <link>http://www.hanshofmann.org/</link>
+          <info>Features In-Depth Biographical Information, a List of Exhibitions, and an Image Gallery of Works</info>
+        </entry>
+        <entry>
+          <title>Hans Hofmann: Paintings, Biography, and Info | Abstract Expressionism</title>
+          <link>http://www.hanshofmann.net/</link>
+          <info>Provides a Brief Biography, Images of Paintings, and Additional Resources</info>
+        </entry>
+        <entry>
+          <title>Hans Hofmann: Art Like Life is Real</title>
+          <link>http://issuu.com/amy-nyc/docs/hhpp1-72_f_single</link>
+          <info>Exhibition Catalogue for Art Like Life is Real at Ameringer-McEnery-Yohe</info>
+        </entry>
+        <entry>
+          <title>Hofmann</title>
+          <link>http://www.sharecom.ca/greenberg/hofmann.html</link>
+          <info>
+						By Clement Greenberg
+						&lt;br&gt;
+						An Essay on Hans Hofmann
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Challenge to Received Wisdom: Hans Hofmann's Ongoing Legacy</title>
+          <link>http://observer.com/2005/11/a-challenge-to-received-wisdom-hans-hofmanns-ongoing-legacy/</link>
+          <info>
+						By Mario Naves
+						&lt;br&gt;
+						The New York Observer
+						&lt;br&gt;
+						November 21, 2005
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>An Abstractionist Dancing With Color</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=9B01E2DA1E3EF932A15756C0A96F958260&amp;sec=&amp;spon=&amp;pagewanted=all</link>
+          <info>
+						By Grace Glueck
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						May 21, 1999
+					</info>
+        </entry>
+        <entry>
+          <title>Hans Hofmann: New Perspectives</title>
+          <link>http://www.nytimes.com/1990/06/22/arts/review-art-hans-hofmann-new-perspectives.html?src=pm&amp;gwh=049D5F89876560A71AC4DAD269DAA5F2</link>
+          <info>
+						By Michael Kimmelman
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						June 22, 1990
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="transcripts">
+        <entry>
+          <title>Archives of American Art: Hans Hofmann papers</title>
+          <link>http://www.aaa.si.edu/collections/hans-hofmann-papers-5966/more</link>
+          <info>A Collection of Correspondences, Writings, Photographs, and Other Documents</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Segment from PBS documentary, Hans Hofmann: Artist/Teacher, Teacher/Artist</title>
+          <link>http://www.youtube.com/watch?v=ZmPt9AINfD0</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Hans Hofmann: Artist/Teacher, Teacher/Artist is a one-hour film about his life and legacy</title>
+          <link>http://www.pbs.org/hanshofmann/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item></a_item>
+      <a_image></a_image>
+      <a_name></a_name>
+    </poster>
+  </posters>
+</data>

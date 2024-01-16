@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>guggenheim_peggy</id>
+    <name>Peggy Guggenheim</name>
+    <type>influencer</type>
+    <active_section>ideas</active_section>
+    <years>1938 - 1975</years>
+    <description>Peggy Guggenheim created and promoted modern, European and American art, and founded The Art of This Century Gallery.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>American</nationality>
+    <occupation>Collector and Gallerist</occupation>
+    <birthDate>August 26, 1898</birthDate>
+    <birthPlace>New York</birthPlace>
+    <deathDate>December 23, 1979</deathDate>
+    <deathPlace>Venice, Italy</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <bio_highlight>When Peggy Guggenheim opened New York’s &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;Art of This Century Gallery&lt;/span&gt;, a groundbreaking space filled with work rescued from pre-War Europe, she wanted to declare her loyalty to both the European avant-garde and her talented friends in America that were taking the art world by storm. Her gallery was to be the place where the two worlds would exhibit together for the first time, and at the opening she wore one earring made by Alexander Calder and another by Yves Tanguy, to express her allegiance to both schools of art.</bio_highlight>
+    <pub_time>12/26/2018</pub_time>
+  </main>
+  <includes>
+    <include>surrealism</include>
+    <include>abstract_expressionism</include>
+    <include>modern_art</include>
+  </includes>
+  <similar_movements>
+    <movement>surrealism</movement>
+    <movement>abstract_expressionism</movement>
+    <movement>de_stijl</movement>
+    <movement>dada</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>mondrian_piet</artist>
+    <artist>duchamp_marcel</artist>
+    <artist>pollock_jackson</artist>
+    <artist>kandinsky_wassily</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true" author="guggenheim_peggy" alt="Peggy Guggenheim">"I dedicated myself to my collection. I made it my life's work. I am not an art collector. I am a museum."</q>
+    <q author="Peggy Guggenheim">"I soon knew where every painting in Europe could be found, and I managed to get there, even if I had to spend hours going to a little country town to see only one."</q>
+    <q author="Peggy Guggenheim">"It isn't in my nature to be afraid."</q>
+    <q author="Peggy Guggenheim">"During the first month of the war, I tried to buy a painting a day."</q>
+    <q author="Peggy Guggenheim">"It's horrible to get old. It's one of the worst things that can happen to you. But I really felt I accomplished what I wanted to do, and I've done it very successfully, and I'm very happy about that."</q>
+    <q author="John Walsh">"Peggy Guggenheim was unique. She collected art like nobody else, picking up items that didn't sell, and works for which there was, as yet, no market, just because she loved them. She bought art, not as an investment, but because she saw something that her own eyes told her was great."</q>
+    <q author="Peggy Guggenheim">"I was thunderstruck, the entire art movement had become an enormous business venture. Only a few persons really care for paintings. The rest buy them from snobbishness or to avoid taxation, presenting pictures to museums and being allowed to keep them until their death, as way of having your cake and eating it. Some painters cannot afford to sell more than a few paintings a year as now they are the people to be taxed. Prices are unheard of. People only buy what is the most expensive having no faith in anything else. Some buy merely for investment, placing pictures in storage without even seeing them, phoning their gallery every day for the latest quotation, as though they were waiting to sell stock."</q>
+    <q author="Peggy Guggenheim">"I do not like art today. I think it has gone to hell as a result of the financial attitude. People blame me for what is painted today because I had encouraged and helped this new movement to be born. I am not responsible...today is the age of collecting, not of creation."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Born into relative wealth and into a well-known and powerful family, Peggy Guggenheim harbored an independent streak that led her to create one of the most important collections of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern European and American art&lt;/span&gt;. Relying on advisors, including the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; and the anarchist poet and critic Herbert Read, Guggenheim quickly amassed paintings by the most &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; European artists before the outbreak of World War II. Her collecting habits continued in the U.S. when she gave the burgeoning &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; the opportunity to exhibit in her &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;Art of This Century Gallery&lt;/span&gt; alongside their European precursors.
+			&lt;br/&gt;&lt;br/&gt;
+			Her love of art and creativity bolstered her own eccentric lifestyle in New York and later in Venice, where her collection is permanently housed. Her dedicated patronage of particular artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, stood in sharp contrast to later collectors who were looking mostly for investment opportunities. Guggenheim was one of a handful of women, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-parsons_betty"&gt;Betty Parsons&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dreier_katherine"&gt;Katherine Dreier&lt;/span&gt;, who helped turn the art world's attention to modern art and, more specifically, Abstract Expressionism.
+		</synopsys>
+    <key_ideas>
+      <idea>While armed with the help of knowledgeable advisors, Guggenheim's collecting was based on her felt reaction to the work. She bought what she loved, what drew her in, what was provocative. A bohemian at heart, Guggenheim saw her collection as a creative endeavor and one she wanted to share with the larger public.</idea>
+      <idea>A fast learner, Guggenheim was forward thinking with the exhibitions staged at her various galleries. Giving &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; his first one person show in London, she broadened the appeal of Modern art in Britain, and she was daring enough to give the young Abstract Expressionists some of their first high-level exposure in New York and subsequently in Italy.</idea>
+      <idea>Her New York gallery, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;The Art of This Century&lt;/span&gt;, was one of a kind with its innovative exhibition practices and gallery spaces. It became a sort of laboratory not only for new, avant-garde art but also for how the viewer physically interacted with works of art and created relationships with them.</idea>
+      <idea>In many ways, Guggenheim, like Museum of Modern Art director &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barr_alfred"&gt;Alfred Barr&lt;/span&gt;, was pivotal in getting so-called "degenerate" art safely out of Europe on the eve of World War II as well as encouraging European artists to wait the war out in the United States.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Marguerite "Peggy" Guggenheim was born on August 26, 1898 in New York into great wealth due to the family's fortune in the mining and smelting industries. Her father, Benjamin Guggenheim and his brother Solomon R. Guggenheim were power brokers. They had five other brothers. Florette Seligman, her mother, came from a family known for both its eccentricities and its social status, as her father was Joseph Seligman, a banker who became the leading national financier in the Civil War era.</p>
+          <p type="img" alt="Florette and Benjamin Guggenheim, date unknown">/images20/photo/photo_guggenheim_peggy_1.jpg</p>
+          <p type="p">Peggy described her childhood as "gilt edged," and though her family lived like royalty, she and her two sisters were often left to themselves, as her mother was neglectful and her philandering father was often absent. Nonetheless, Peggy doted on her father, and, when he died in the sinking of the RMS Titanic when she was 13, she suffered what she described as a "nervous breakdown." Her father had also lost money in his businesses so while the family was still relatively wealthy, they felt poor in comparison to the other Guggenheims. As Peggy said, "I never considered myself a real Guggenheim anymore after that." Rejecting her haute bourgeois roots, she became a rebel, shocking her family by shaving off her eyebrows and said that she was perceived as the &lt;i&gt;enfant terrible&lt;/i&gt; or the black sheep of the Guggenheim family.</p>
+        </subsection>
+        <subsection title="Early Life">
+          <p type="img" alt="Sunwise Turn, the bookstore where Peggy Guggenheim interned, at its original location on East 31&lt;sup&gt;st&lt;/sup&gt; St.">/images20/photo/photo_guggenheim_peggy_2.jpg</p>
+          <p type="p">Financially independent due to the inheritance she received when she turned 21, Guggenheim was able to continue her search for a different lifestyle. In 1920, she began working as an unpaid assistant at Sunwise Turn, a midtown Manhattan bookstore. Mary Horgan Mowbray-Clarke, the wife of the sculptor John Frederick Mowbray-Clark who had helped organize the 1913 Armory Show, and Madge Jenison, a noted author and activist, cofounded the bookshop, one of the first woman-owned bookstores in the country. The bookstore was a hub for &lt;i&gt;avant-garde&lt;/i&gt; literature and socialist ideals and also featured small art exhibitions of emerging artists. As Harold Loeb, the art critic and Peggy's cousin wrote, "Coming under Mary Clarke's spell Peggy gradually discarded many traditional taboos and adopted a whole set of new ones. Feeling guilty, no doubt, for having inherited wealth, she came to deny herself some of the luxuries to which she was accustomed. In compensation she collected the latest in experimental painting and gave money and meals to poor artists and writers."</p>
+          <p type="p">At the end of 1920, Guggenheim moved to Paris where she explored her interest in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;Classical&lt;/span&gt;l and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; art, saying, "I soon knew where every painting in Europe could be found, and I managed to get there, even if I had to spend hours going to a little country town to see only one." She became close friends with avant-garde writers, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brooks_romaine"&gt;Romaine Brooks&lt;/span&gt;, Djuna Barns, and Natalie Barney, and artists, notably &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; who became her lifelong friend and mentor, as she was to say later, "He taught me everything that I know about modern art."</p>
+          <p type="p">At the age of 23, wanting to lose what she called her "burdensome" virginity, she became involved with the artist and writer Laurence Vail, who was dubbed "the king of bohemians." For Guggenheim, sex and art were invariably linked, as she wrote, "I had a collection of photographs of frescos I had seen at Pompeii. They depicted people making love in various positions, and of course I was very curious and wanted to try them all out myself. " They married in 1922 and had two children Sinbad and Pegeen. The marriage was marked by intense conflict and Vail's physical abuse, and they divorced in 1928. Her personal relationships were all similarly difficult, marked by infidelity, by husbands who diminished her, perhaps because they felt threatened by their dependency on her wealth. Subsequently she fell in love with the writer John Farrar Holms, and the two began traveling as she said, "It seems to me that John Holms and I did nothing but travel for two years. We must have gone to at least twenty countries and covered ten million miles of ground." In 1934 Holms, who was a severe alcoholic, died suddenly during a routine surgical procedure, and Guggenheim moved in with Douglas Garman with whom she had become involved the year before. When that relationship, too, came to an end after several turbulent years, she found herself "at a loss for an occupation, since I had never been anything but a wife for the last fifteen years."</p>
+        </subsection>
+        <subsection title="Guggenheim Jeune">
+          <p type="p">Guggenheim began thinking of starting a publishing company or an art gallery, and with the inheritance she received after her mother's death in 1937, she opened the Guggenheim Jeune gallery in London in 1938. Aided by Duchamp, as she said, "he arranged all my exhibitions, did everything for me," the gallery's first show featured 30 of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau's&lt;/span&gt; drawings. The gallery held Kandinsky's first solo exhibition in Britain, exhibited the works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-paalen_wolfgang"&gt;Wolfgang Paalen&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tanguy_yves"&gt;Yves Tanguy&lt;/span&gt;, and held group exhibitions of sculpture and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt;, featuring &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moore_henry"&gt;Henry Moore&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-calder_alexander"&gt;Alexander Calder&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Jean Arp&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_villon_raymond"&gt;Raymond Duchamp-Villon&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schwitters_kurt"&gt;Kurt Schwitters&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brancusi_constantin"&gt;Constantin Brancusi&lt;/span&gt;. Guggenheim began her practice of purchasing at least one artwork from each exhibition, building her own collection. The first work she bought was Jean Arp's &lt;i&gt;Shell and Head&lt;/i&gt; (1933) of which she said, "I fell so in love with it. The instant I felt it I wanted to own it." She also freely explored her own sexuality, having hundreds of affairs and brief encounters, with artists like Tanguy and writers like Samuel Beckett. At the same time, as art historian Donald Kuspit said, "Art gave a meaning to her life....the Modern, the &lt;i&gt;avant-garde&lt;/i&gt; artists confirmed her sense of being, in some peculiar way, an outsider. Art became her way of finding herself emotionally."</p>
+          <p type="p">The gallery was a critical success but lost money the first year, and, as a result, Guggenheim thought a contemporary art museum might be a better route. She began working with art historian Herbert Read on a plan to develop a Museum of Modern Art in London. In 1939, she closed the Guggenheim Jeune and, subsequently, travelled to Paris with Read's list of artworks that they hoped to have for their proposed first exhibition. On September 1, 1939, World War II broke out, but, undeterred, Guggenheim decided "to buy paintings by all the painters who were on Herbert Read's list. Having plenty of time and all the museum's funds at my disposal, I put myself on a regime to buy one picture a day." She was aided in her quest by a number of friends who advised her, including Howard Putzel, an art dealer, and Madame van Doesburg, widow of the painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_doesburg_theo"&gt;Theodore van Doesburg&lt;/span&gt;, as well as by the desperation of the times. Many artists and art dealers were eager to sell whatever works they could and flee the invading Germans. Buying works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magritte_rene"&gt;Magritte&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt; Dalí&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klee_paul"&gt;Klee&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chagall_marc"&gt;Chagall&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Miró&lt;/span&gt;, and other artists, she was able to create "the nucleus of one of the great modern art collections" with $40,000. When Paris was invaded in 1940, she remained in the country, trying to make arrangements to preserve her new collection. Finally hitting upon a plan of shipping them to the United States as household items, she packed them with casserole dishes and household bedding for shipment by boat. In 1941 she returned to New York, along with the artist Max Ernst, whom she subsequently married.</p>
+        </subsection>
+        <subsection title="Art of This Century Gallery">
+          <p type="p">Cultural critic Carlo McCormick described the New York art scene in the early 1940s as a "small kind of gentleman's club and the story was that you could fit the given art world into a small room in New York." At the same time, that world was changing as many European artists immigrated to New York, fleeing World War II and Nazi Germany. In 1942, Guggenheim opened her &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;Art of This Century Gallery&lt;/span&gt;, with sections devoted to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt;, and abstract art; as art historian Dore Ashton noted, her "gallery was one of the first international galleries in New York City mixing American and European art." Anton Gill described how, at the gallery's premier, Guggenheim wore, "one earring made for her by Calder and another by Yves Tanguy, to express her equal commitment to the schools of art she supported."</p>
+          <p type="p">Frederick Kiesler designed the innovative gallery to create a totally modern experience; some paintings were hung on universal joints, which allowed viewers to turn the paintings to experience different angles of light, thus, creating a more intimate relationship between the viewer and the work. He created an unusual lighting design that occasionally plunged an entire gallery into darkness, and his furniture acted both as seats for gallery-goers as well as easels for paintings.</p>
+          <p type="p">Through her trusty advisor Howard Putzel, Guggenheim began discovering American artists. She became an early patron of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, providing him with a monthly stipend, his first commission, and his first exhibition. As the art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; wrote, she gave "first showings to more serious new artists than anyone else in the country," and as the artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-krasner_lee"&gt;Lee Krasner&lt;/span&gt; wrote, "'Art of this Century' was of the utmost importance as the first place where The New York School could be seen, her gallery was the foundation, it's where it all started to happen." With her 1942 &lt;i&gt;Exhibition by 31 Women&lt;/i&gt; Guggenheim also held the first exhibition solely devoted to women artists, though it had unexpected personal consequences. One of the artists was &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tanning_dorothea"&gt;Dorothea Tanning&lt;/span&gt; with whom Max Ernst fell in love, leading to his divorce from Guggenheim in 1946, an event of which Guggenheim said, in her characteristic ironic way, "I should have had 30 women. That was my mistake."</p>
+        </subsection>
+        <subsection title="Venice">
+          <p type="img" alt="This photograph shows the Palazzo Venier dei Leoni, along the Grand Canal, and a number of visitors to the museum.">/images20/photo/photo_guggenheim_peggy_3.jpg</p>
+          <p type="p">In 1946 Guggenheim published &lt;i&gt;Out of This Century: Confessions of an Art Addict&lt;/i&gt;, her autobiography that created something of a scandal due to her honest and revealing recount of hundreds of affairs and sexual encounters she had had with various writers and artists. Her family was dismayed, as her wealthy uncles tried unsuccessfully to buy up all the copies, and critical response was equally dismissive. The &lt;i&gt;Chicago Tribune&lt;/i&gt; caustically wrote that it should have been titled, "Out of My Head." Wanting a fresh start, she closed her gallery in 1947 and moved to Venice, which she called "the city of her dreams." In 1948, the Venice Biennale invited her to exhibit her collection, which marked the first time the works of Pollock, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt;, and other American artists had been seen in Europe. She subsequently bought the Palazzo Venier dei Leoni, an unfinished 18th-century building on the Grand Canal, where she resided the rest of her life.</p>
+          <p type="img" alt="The entrance to Guggenheim's Palazzo Venier dei Leoni features Marino Marini's &lt;i&gt;The Angel of the City&lt;/i&gt; (1948). Art critic Hannah McGivern noted that fear of “offending passing nuns or stuffy visitors” with the prominent erect phallus on the sculpture caused Guggenheim to sometimes remove the phallus from the sculpture.">/images20/photo/photo_guggenheim_peggy_4.jpg</p>
+          <p type="p">In Venice, she became a celebrity, known for her butterfly sunglasses, designed by Edward Melcarth, which she wore everywhere as she navigated the city in her private gondola and her accompanying dogs. Her home was a hub for visiting writers and artists, and she also promoted the works of emerging Italian artists like Marini. In 1951, she opened her home as a museum to the public, and in the subsequent decades, she also loaned her collection to various museums in Europe and the United States. As a result, as art curator Jeffrey Deitch noted, "Peggy Guggenheim was one of the links between European and American modernism. Between surrealism and abstract expressionism." Despite her successful life as a collector and though she had a number of liaisons with young Italian men, she was frequently lonely, writing in a letter, "God forbid my ever getting too attached again in my life to anyone. So far everyone I loved has died or made me madly unhappy by living. Life seems to be one endless round of miseries. I would not be born again if I had the chance." Guggenheim continued collecting art until about 1973, and in 1962 Venice bestowed upon her an Honorary Citizenship. She died in 1979, and her ashes remain on the grounds of the Venetian palazzo that houses her collection.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Guggenheim returned to New York in 1969 when the Solomon R. Guggenheim Museum, founded by her uncle, invited her to show her collection. She said of the occasion, "I was thunderstruck, the entire art movement had become an enormous business venture. Only a few persons really care for paintings." Her model, emphasizing patronage for &lt;i&gt;avant-garde&lt;/i&gt; artists and advocacy for their work, provided an alternative to a market-driven art world. She said, "I am not an art collector. I am a museum." In 1970, she donated the Palazzo Venier dei Leoni to the Solomon R. Guggenheim museum, followed by the 1976 donation of her collection with the &lt;i&gt;proviso&lt;/i&gt; it would remain in Venice.</p>
+          <p type="p">As art critic Allison McNearney wrote of the Peggy Guggenheim collection, "It is not only one of the premier collections of modern art in the world, featuring over 300 works by over 100 of the most influential artists of the 20th-century, but it also has played an integral role in turning Venice into a mecca for contemporary art." Her showing at the Venice Biennale influenced the rise and prominence of the international exhibition, and today the Palazzo Venier dei Leoni permanently houses the U.S. Pavilion of the Venice Biennale. Additionally, it is also the most visited Italian museum of modern art and the second most visited museum in Venice.</p>
+          <p type="p">Guggenheim was also an early model of the contemporary art celebrity, as one critic noted, "Even her sunglasses made news." And indeed, an Italian company launched a limited-edition eyewear line inspired by Guggenheim in 2014. She has continued to be a cultural presence, portrayed in the Hollywood film &lt;i&gt;Pollock&lt;/i&gt; (2000), Lanie Robertson's 2005 play &lt;i&gt;Woman Before a Glass&lt;/i&gt;, in a Bethan Robert's radio play &lt;i&gt;My Own Private Gondolier&lt;/i&gt; (2010), and in the 2015 documentary &lt;i&gt;Peggy Guggenheim: Art Addict&lt;/i&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>The Red Tower</title>
+      <artist>Giorgio De Chirico</artist>
+      <year>1913</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This enigmatic painting depicts a view of a sunlit crenellated tower, its fortress-like circular shape dominating the horizon. In the lower third of the canvas, a shadowed square between two looming semi-classical walls frames the tower, the strong lines of perspective creating the sense that the viewer is walking through a dark corridor toward its ominous shape. At center right, an equestrian statue on a white rectangular plinth is depicted in black shadow, casting a long shadow across the plane of sunlit ground. The work is reminiscent of an Italian landscape, yet it also evokes a dreamlike feeling. The objects become hallucinatory, as the statue's shadow at first glance can seem like a nightmarish creature looming in wait for the viewer to emerge from the square. The scene is remarkably empty of figures and of movement, while the discordant perspective and irrational light source create a sense of anxiety. Exemplifying the artist's metaphysical style, in this work, as the artist wrote, "every object has two appearances: one, the current one, which we nearly always see and which is seen by people in general; the other, a spectral or metaphysical appearance beheld only by some individuals in moments of clairvoyance and metaphysical abstraction."
+				&lt;br/&gt;&lt;br/&gt;
+				When Guggenheim began collecting art, she trusted her advisors Marcel Duchamp, Howard Putzel, and Herbert Read to teach and guide her on her new quest. Her biographer Anton Gill explains, "Peggy had to be shown the difference between what was Abstract and what was Surrealist and between the 'dream' Surrealism of, for example, Dalí or de Chirico and the 'abstract' Surrealism of, say, André Masson. She was an eager and quick learner, showing a natural affinity and sympathy for what she saw." Guggenheim's early adoption of Surrealism and her exhibition of both abstract and dream Surrealism played an important role in New York City for young artists clamoring to see European art.
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+    <artwork>
+      <title>White Cross</title>
+      <artist>Wassily Kandinsky</artist>
+      <year>1922</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this painting, regular and irregular geometric shapes, as well as more organic forms, depicted in primary colors, are juxtaposed against an off-white trapezoidal plane, which itself sits in a field of inky black. The shapes seem to both float above the plane and to be grounded within it, creating a dynamic spatial relationship. Some of the abstract shapes evoke symbols, like the number 3, whereas others evoke naturalistic associations - a boat, a lance, a piano keyboard, a checkerboard - but are abstracted to non-referentiality and deployed like colored elemental forms to create visual rhythm. The title refers to the white cross within the checkerboard in the upper right, and the shape is echoed throughout the canvas - in two black crosses in the lower center and the cross handle of the lancet shape intersecting a circle at center left - creating a kind of musical point and counterpoint, as the evocative symbol is treated as an abstract shape.
+				&lt;br/&gt;&lt;br/&gt;
+				The artist called this work reflective of his "cool period" in the early 1920s; here he began to emphasize geometric forms, reflecting both the influence of Malevich's Suprematicism and the Bauhaus where he began teaching in 1922. In 1938, the Guggenheim Jeune held the first solo exhibition of Kandinsky's work in London, largely organized by Kandinsky himself, and &lt;i&gt;White Cross&lt;/i&gt; featured prominently in Guggenheim's collection in the following decades.
+				&lt;br/&gt;&lt;br/&gt;
+				Marcel Duchamp had sent Guggenheim to meet Kandinsky, and she found the artist "so jolly and charming." According to Guggenheim, when she visited, Kandinsky talked to her about how he felt another artist, Rudolph Bauer, had supplanted him in the eyes of her uncle Solomon, and he begged her to try to convince her uncle to stop patronizing Bauer and start buying his paintings again. When Guggenheim brought the matter to the attention of her uncle's art advisor, Hilla Rebay, Rebay, who was Bauer's lover, rebuked Guggenheim and said they would never buy a painting from her gallery.
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Bird in Space</title>
+      <artist>Constantin Brancusi</artist>
+      <year>1928</year>
+      <materials>Polished Brass</materials>
+      <desc>
+				This sculpture is a sleek aerodynamic form, evoking a bird in flight, yet devoid of representative details. An embodied arc of light soaring upward, from a slender base conveys unfettered movement. The highly polished surface is luminous, as the artist felt that such attention to the material and its surfaces made the works seem to proceed "out from the mass into some perfect and complete existence." Brancusi insisted that the elemental form was not abstract but revealed "the being that is within matter."
+				&lt;br/&gt;&lt;br/&gt;
+				Brancusi showed in the 1913 Armory Show, where he became close friends with Marcel Duchamp, who became a lifelong advocate for his work. John Quinn became an early leading patron of the artists, and the artist later said, "Without the Americans, I could never have produced all that, nor even perhaps have existed."
+				&lt;br/&gt;&lt;br/&gt;
+				When Guggenheim visited Brancusi in Paris, she hoped to purchase this work, already famous for the 1927-28 legal debate when the U.S. Customs office refused to classify it as an artwork. She later acknowledged that she had a brief affair with the sculptor, whom she described as "half-God, half-peasant," because she thought he would then sell her the work for less. On the day that the Germans invaded Paris, she visited his studio, where he carried it out in his arms and gave it to her with tears in his eyes, though she said later that she did not know whether they were in response to parting with her or parting with his artwork.
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Mural</title>
+      <artist>Jackson Pollock</artist>
+      <year>1943</year>
+      <materials>Oil and casein on canvas</materials>
+      <desc>
+				This painting dynamically surges with swirling lines and biomorphic forms that, curving vertically through the pictorial plane, also create horizontal movement that seems to extend beyond the edges of the canvas. The forms, as art critics have noted, suggest "several human figures walking, or possibly birds, or letters and numbers," though the artist was to describe it as "a stampede...[of] every animal in the American West, cows and horses and antelopes and buffaloes. Everything is charging across that goddamn surface." At eight by almost twenty feet, the painting is a pivotal piece in Pollock's career. Art historian Ellen Landau explains that even though it retains Pollock's "mythic imagery," it signals a new scale, and "the areas of loose paintwork give you glimpses of what the future's going to be." The work also pioneered his innovative use of commercial household paints and of applying paint by splashing it onto the canvas.
+				&lt;br/&gt;&lt;br/&gt;
+				Guggenheim commissioned this mural for her new apartment on 61&lt;sup&gt;st&lt;/sup&gt; Street. Piet Mondrian encouraged Guggenheim's patronage of Pollock when he told her at the 1943 Spring Salon at Art of This Century upon seeing his work, "I have the feeling I'm looking at some of the most exciting art that I've seen so far in America." Subsequently she signed a contract with Pollock and paid him a monthly stipend that allowed him to quit his job as a carpenter at the Museum of Non-Objective Painting, as the Solomon R. Guggenheim Museum was then known.
+				&lt;br/&gt;&lt;br/&gt;
+				She originally planned for the mural to be painted on the wall of her entrance hall, but Duchamp recommended canvas, since it could be moved. The work was supposed to be finished for her exhibition of his work in November 1943, but the artist felt, as he said, "completely blocked." As months went by, Guggenheim said that he needed to finish it by her birthday in February or she would cut off his stipend. While rumors suggest that Pollock completed the work in one night, just in time to deliver it for her birthday, conservation examination has shown that he had already been working on the painting. The work appeared to great acclaim. Critic Clement Greenberg saw it as the arrival of "a great artist," and the story of its making became part of the legend that surrounded Pollock. Before leaving for Venice, Guggenheim donated the work to the University of Iowa Museum, marking just one of the many times she donated a number of Pollock's celebrated works to various institutions.
+			</desc>
+      <collection>University of Iowa Museum, Iowa City, Iowa</collection>
+    </artwork>
+    <artwork>
+      <title>Composition No. 1 with Grey and Red 1938 / Composition with Red 1939</title>
+      <artist>Piet Mondrian</artist>
+      <year>1938-39</year>
+      <materials>Oil on canvas, mounted on wood support</materials>
+      <desc>
+				This Neoplastic work employs black horizontal and vertical lines creating an asymmetrical grid against a gray background. The style, developed by Mondrian, characteristically used a palette reduced to the primary colors along with black and white, but here the approach is even more reductive, with a single note of red deployed in a small rectangle at the bottom of the canvas. The black lines vary in thickness, which interjects an element of unpredictably into the orderly grid and creates a dynamic movement, as the eye moves vertically and horizontally to apprehend a pattern. The work conveys a feeling of severe austerity and, at the same time, becomes an abstract schema of uncertainty and the search for order.
+				&lt;br/&gt;&lt;br/&gt;
+				In 1938, fleeing the war, Mondrian moved to London, where he continued working in exploring what he called the "mutual interaction of constructive elements and their inherent relations," a key tenet of his Neoplastic style which used abstract form to create "a real equation of the universal and the individual." During this period, Guggenheim's support for his work played a vital role as it did for a number of European artists who were forced to flee into exile. His paintings were marked by the severe and rigorous approach shown here, the groundwork for the complex grids pulsing with color that followed after his immigration to the United States where he became part of the circle of &lt;i&gt;émigré&lt;/i&gt; European artists associated with the Art of the Century Gallery and a knowledgeable voice Guggenheim trusted.
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Standing Woman ("Leoni")</title>
+      <use_big_image>false</use_big_image>
+      <artist>Alberto Giacometti</artist>
+      <year>1947</year>
+      <materials>Bronze</materials>
+      <desc>
+				The elongated female figure on a tilted base, whose arms hang closely by her sides, faces forward, seemingly frozen in space. The bronze surface's rough texture emphasizes materiality, both of the work's medium and of the human body. Capturing the effects of light, the surface also evokes a state of ruin, as if the figure had been torched or sandblasted. As a result, the ghostly figure seems on the verge of dematerializing, or, perhaps, materializing out of a state of near ruin. The work, as art historian Lucy Flint wrote, conveys "several notions simultaneously...one's consciousness of the nonmaterial presence of another person, the insubstantiality of the physical body housing that presence, and the paradoxical nature of perception."
+				&lt;br/&gt;&lt;br/&gt;
+				From 1942-46, the sculptor primarily made diminutive figures; he said in 1947, "Lifesize figures irritate me...because a person passing by on the street has no weight; in any case he's much lighter than the same person when he's dead or has fainted. He keeps his balance with his legs. You don't feel your weight." As a result, he "wanted ... to reproduce this lightness, and by making the body so thin." This work is a pioneering example of the artist's mature style, known for his elongated and thin anonymous figures that accentuated their verticality, while evoking the existentialism of the post-war era. Guggenheim was a champion of his work from her earliest days of collecting, and though the sculpture was created in 1947, the artist had the work cast in 1957 for her collection at Palazzo Venier dei Leoni.
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>mondrian_piet</entity>
+        <entity>arbus_diane</entity>
+      </column>
+      <column>
+        <entity>beckett_samuel</entity>
+        <entity>read_herbert</entity>
+        <entity>tanguy_yves</entity>
+        <entity>ernst_max</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>surrealism</entity>
+        <entity>kinetic_art</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>ray_man</entity>
+        <entity>motherwell_robert</entity>
+        <entity alt="Marino Marini">marini_marino</entity>
+        <entity alt="Frederick Kiesler">kiesler_frederick</entity>
+      </column>
+      <column>
+        <entity>tanguy_yves</entity>
+        <entity>pollock_jackson</entity>
+        <entity alt="Djuana Barnes">barnes_djuana</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Peggy Guggenheim Collection</title>
+          <link is_inline_video="true" inline_video_type="youtube">y1XJi2z4WRs</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>How Peggy Guggenheim Rescued Art from the Nazis</title>
+          <link>https://www.smithsonianchannel.com/videos/how-peggy-guggenheim-rescued-art-from-the-nazis/42937</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>How Peggy Guggenheim Conquered the Art world</title>
+          <link>https://video.vanityfair.com/watch/how-peggy-guggenheim-conquered-the-art-world</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry recommended="true">
+          <title>A discussion on Peggy Guggenheim and Hilla Rebay, two important women from the Guggenheim Foundation</title>
+          <link is_inline_video="true" inline_video_type="youtube">YbJXaaoeXMQ</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>One Of The Most Colorful Figures In Modern Art - PEGGY GUGGENHEIM by Lisa Immordino Vreeland</title>
+          <link is_inline_video="true" inline_video_type="youtube">4yfhygNiZmk</link>
+          <info></info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Out of This Century: Confessions of an Art Addict</title>
+          <link>0233001387</link>
+          <info>By Peggy Guggenheim</info>
+        </entry>
+        <entry recommended="true">
+          <title>Peggy Guggenheim - The Shock of the Modern</title>
+          <link>030022429X</link>
+          <info>By Francine Prose</info>
+        </entry>
+        <entry>
+          <title>Encounters with Peggy Guggenheim: An intimate collection of behind-the-scenes photos featuring the legendary art collector</title>
+          <link>1784881872</link>
+          <info>By Stefan Moses</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Peggy Guggenheim: A Celebration</title>
+          <link>0810969149</link>
+          <info>By Karole Vail, Thomas M. Messer, Solomon R. Guggenheim Museum et al.</info>
+        </entry>
+        <entry>
+          <title>The Peggy Guggenheim Collection of Modern Art</title>
+          <link>0847823792</link>
+          <info>By Nicolas Calas, Elena Calas, and Paola Gribaudo et al.</info>
+        </entry>
+        <entry>
+          <title>Peggy Guggenheim Collection</title>
+          <link>0892071818</link>
+          <info>By Philip Rylands</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Peggy Guggenheim collection online at Solomon R. Guggenheim Museum</title>
+          <link>https://www.guggenheim.org/artwork/site/peggy-guggenheim-collection</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Peggy Guggenheim collection at Palazzo dei Lioni Museum, Venice, Itlay</title>
+          <link>http://www.guggenheim-venice.it/inglese/default.html</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A New Documentary Takes on the Wild, Strange Life of Peggy Guggenheim</title>
+          <link>https://www.vogue.com/article/peggy-guggenheim-art-addict-lisa-immordino-vreeland</link>
+          <info>
+						By Julia Felsenthal
+						&lt;br&gt;
+						Vogue 
+						&lt;br&gt;
+						November 6, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Sex and art by the Grand Canal: how Peggy Guggenheim took Venice</title>
+          <link>https://www.theguardian.com/artanddesign/2017/may/09/sex-and-art-by-the-grand-canal-how-peggy-guggenheim-took-venice</link>
+          <info>
+						By Judith Mackrell
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 9, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Priceless Peggy Guggenheim</title>
+          <link>https://www.independent.co.uk/arts-entertainment/art/features/the-priceless-peggy-guggenheim-1806124.html</link>
+          <info>
+						By John Walsh
+						&lt;br&gt;
+						October 21, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Kandinsky at the Guggenheim, A Monument to Modern</title>
+          <link>https://www.washingtonpost.com/archive/lifestyle/style/1982/03/07/kandinsky-at-the-guggenheim-a-monument-to-modern/9860afb3-3176-4b8f-a5d0-806066183a97/?utm_term=.7d886e6593e0</link>
+          <info>
+						By Sarah Booth Conroy
+						&lt;br&gt;
+						Washington Post
+						&lt;br&gt;
+						March 7, 1982
+					</info>
+        </entry>
+        <entry>
+          <title>The Collector: The conquests and canvases of Peggy Guggenheim</title>
+          <link>https://www.newyorker.com/magazine/2002/05/13/the-collector-3</link>
+          <info>
+						By Claudia Pierpont
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						May 13, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>How Peggy Guggenheim Became The Queen of Modern Art</title>
+          <link>https://www.thedailybeast.com/how-peggy-guggenheim-became-the-queen-of-modern-art</link>
+          <info>
+						By Allison McNearney
+						&lt;br&gt;
+						The Daily Beast 
+						&lt;br&gt;
+						May 2, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

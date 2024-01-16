@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>delaunay_robert</id>
+    <name>Robert Delaunay</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1903 - 1941</years>
+    <description>Robert Delaunay's experiments in color and form conveyed the excitement of the modern world and its technological innovations.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>April 12, 1885</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>October 25, 1941</deathDate>
+    <deathPlace>Montpellier, France</deathPlace>
+    <img_version>?1</img_version>
+    <pub_time>12/7/2015</pub_time>
+  </main>
+  <includes>
+    <include>cubism</include>
+    <include>salon_cubism</include>
+    <include>orphism</include>
+  </includes>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>salon_cubism</movement>
+    <movement>orphism</movement>
+    <movement>synchromism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>delaunay_sonia</artist>
+    <artist>duchamp_marcel</artist>
+    <artist>apollinaire_guillaume</artist>
+    <artist>diaghilev_sergei</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"The need for a new subject has inspired the poets, launching them onto a fresh path and bringing to their attention to poetry of la Tour (Eiffel tower), which communicates mysteriously with the whole world. Rays of light, waves of symphonic sounds. Factories, bridges, iron structures, airships, the numberless gyrations of aeroplanes, windows seen by crowd simultaneously."</q>
+    <q>"Painting by nature is a luminous language."</q>
+    <q>"Light in nature creates movement in color. The movement is provided by the relationships of uneven measures, of colors contrasts among themselves and constitutes Reality."</q>
+    <q>"'Simultaneousness' is a technique. Simultaneous contrast is the most up-to-date honing of this technique in this field. Simultaneous contrast is visible depth - Reality, Form, construction, representation. Depth is the new inspiration. We live in depth; we travel in depth. I'm in it. The senses are in it. And the mind is too."</q>
+    <q>"As an artist, as a manual craftsman, I wage my revolution on walls. I have now discovered new materials that can transform a wall, not only externally but in its very substance. Separate man from art? Never. I cannot separate man from art because I build houses for him! Even when fashion dictated easel art, I was already envisaging great murals."</q>
+    <q>"Vision is the true creative rhythm."</q>
+    <q>"Nature engenders the science of painting."</q>
+    <q>"Art in Nature is rhythmic and has a horror of constraint."</q>
+  </quotes>
+  <authors>
+    <author link="jenkins">Sarah Jenkins</author>
+  </authors>
+  <article>
+    <synopsys>
+		Robert Delaunay's colorful and formally experimental paintings were a unique fusion of early-20&lt;sup&gt;th&lt;/sup&gt;-century European artistic trends. His best-known works centered on the visually and intellectually stimulating world of Belle Époque Paris in which he and his wife, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_sonia"&gt;Sonia Delaunay (Terk)&lt;/span&gt;, founded the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt; movement. The style was distinguished by faceted compositions, vibrant color, and contemporary subject matter that together conveyed delight in the modern life and its technological innovations.</synopsys>
+    <key_ideas>
+      <idea>Influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionism&lt;/span&gt; and the painting technique known as pointillism or divisionism, in his early works Delaunay created forms using squares of color that resembled a mosaic. He often left small areas of canvas blank to create a sense of space and light; even at this stage of development his interest in brilliant color was notable.</idea>
+      <idea>As his style matured, Delaunay further developed his mosaic-like squares into more complex geometric facets in which both solid objects and their surrounding spaces were fragmented, much like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;. These canvases are known for their dynamic sense of movement and their celebration of urban life, particularly Paris with Delaunay's oft-repeated motif of the Eiffel Tower.</idea>
+      <idea>Delaunay penned his own theories of color in which he discusses both color as a material form and its great expressive power. He was particularly captivated by how the interaction of various colors generated impressions of movement and depth without allusion to nature. Delaunay wrote that the "breaking up of form by light creates colored planes... [that] are the structure of the picture... nature is no longer a subject for description but a pretext." Eventually, he abandoned "images or reality that come to corrupt the order of color" - thus turning to complete abstraction.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Robert Delaunay was born in 1885 to eccentric upper class parents, George Delaunay and Berthe Félicie de Rose. His mother, an irresponsible character fond of society life, called herself 'Countess' though the authenticity of her claims to French aristocracy are in question. His early life in Paris was privileged yet strained - his parents divorced when Delaunay was just four years old and he barely saw his father after this. Taken in by his aunt and uncle, he was raised in a grand estate in La Ronchère near Bourges, by coincidence mirroring the childhood experience of his future wife, Sonia, also brought up by a wealthy uncle and aunt in St Petersburg.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">The young Delaunay was a lackluster student, spending classes painting with watercolors behind his desk lid. He lacked formal artistic training, but was sent by his uncle to Ronsin's Atelier, to apprentice in theatre design at Belleville. Here he learned to create large scale theatre sets, which would inform his later stage and mural work.</p>
+          <p type="p">In 1903 Delaunay traveled to Brittany, where he became acquainted with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rousseau_henri"&gt;Henri Rousseau&lt;/span&gt; and turned to painting, inspired initially by the work of the Pont Aven Group who had painted there from 1886-88. On returning to Paris, Delaunay met artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt;. The two became close friends and produced a series of small mosaic-like compositions inspired by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-divisionism"&gt;Divisionist&lt;/span&gt; techniques of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt;. Their experiments were noted in an article by the critic Louis Vauxcelles in 1907.</p>
+          <p type="p">In 1909 Delaunay chanced upon a passionate young artist named Sonia Terk, who went on to become his wife and collaborator for the next 30 years, forming one of the most remarkable creative partnerships in art history. A wealthy Russian emigre who had recently come to Paris to train at the Academy de la Palais, Terk was already married to the homosexual German art critic and gallery owner, Wilhelm Uhde in a marriage of convenience. She and Robert began a passionate affair and when she became pregnant, Uhde willingly consented to a divorce. She married Delaunay the following year and quickly realized that the impetuous and childlike Delaunay would not be a conventional husband or father: for the majority of their married life, she would be the main breadwinner for their family. The newlyweds rented an apartment on the Rue des Grandes Augustins, the same street where &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; lived, and embraced the exciting new world around them. They painted together, drawing inspiration from the vivid colors and patterns they saw in the electric lights on the Boulevard St Michel, where they strolled in the evenings.'We breathed painting like others lived in alcohol or crime,' Sonia was to later write in her diary.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Pre World War I Paris was at the epicenter of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; movement. Delaunay immersed himself in the world of aesthetic discovery, innovation, and experimentation that was exploding around him. He exhibited alongside many of the key players in Paris at the Salon D'Automne (1903,1906) and at the Salon des Independants from 1904 -14, developing an increasing fascination with color as a subject in itself. He sought to interpret the modern city through color and rhythm. In 1911, Sonia gave birth to their only son, Charles, and a year later, at age 27, Delaunay had his first solo show at the Galerie Barbazanger in Paris. His work was admired by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;German Expressionists&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-macke_august"&gt;August Macke&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marc_franz"&gt;Franz Marc&lt;/span&gt;. In 1912, he was invited by Kandinsky to exhibit at the first Blaue Reiter exhibition in Germany, as well as to contribute to &lt;i&gt;Der Sturm&lt;/i&gt;, the prestigious almanac produced by the group.</p>
+          <p type="p">Delaunay believed in gestural, grandiose painting and would have frenzied periods of productivity, working from dawn till dusk, sometimes not bathing for days. In between these bouts, he would not touch a brush, instead taking long walks and taking care of his plants. His Eiffel tower series painted during this time gained considerable attention from the art world, leading to inclusions in major exhibitions and group shows in Europe, notably in the Cubist Room at the Salon des Independents with Metzinger. Following this show, his work became increasingly non-objective leading to the emergence of motifs that Delaunay is known for today such as spinning circles and the geometric forms of his windows. In response to his work, critic Andre Warnod wrote of a 'blossoming new school' that broke with the art of Cubism. The same year his close friend and poet, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;, coined the term 'Orphism' to describe Delaunay's paintings, as well as those of Sonia and artist, Frantisek Kupka. The name, derived from the Greek mythological lyre-playing Orpheus likened the painters' energy to a primal urge for creation. Apollinaire also wrote that Picasso occupied one camp and Delaunay the other - with Kandinsky and Duchamp as his followers. This over embellishment of his achievements caused a stir. In fact, Delaunay preferred to call his work 'simultaneous' rather than 'orphic', as he felt this evoked the spirit of the new age, but this too caused controversy for Delaunay as the Italian Futurists claimed this concept as their own.</p>
+          <p type="p">Though Delaunay had gained support for his work, his attention-seeking, outspoken personality was exhausting and Sonia often had to mediate when he antagonized others with egocentric claims such as 'before me color was only coloring'. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_gertrude"&gt;Gertrude Stein&lt;/span&gt; captured his personality succinctly when she wrote: 'he sees himself as a grand solitary figure when in reality he's an endless chatterbox who will tell anyone about himself and his significance any time of day or night'. During this period, Delaunay's short temper alienated both students and colleagues.</p>
+          <p type="img" alt="Sonia Delaunay designed dress" show="0">/images20/photo/delaunay_1.jpg</p>
+          <p type="p">On Sundays the Delaunay's opened up their home to artists, poets, musicians, and writers that included Henri Rousseau, Metzinger, Guillaume Apollinaire, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt;, Albert Gleizes, Henri Le Facconnier, and Blaise Cendrars. On Thursdays the group would dance at the Bal Bullier in Montparnasse, turning up late to make an entrance wearing the outlandish simultaneous designs created by Sonia. The Delaunays were always center stage with Sonia in elaborate multi colored dresses and Robert in matching suits of scarlet, green, and other garish colors. The group would also wear multi colored socks so they could dance the tango with no shoes. Their outfits were described as 'Futuristic' by Giacomo Balla and attracted international media attention; Sonia's designs were described by Apollinaire as turning 'fantasy into elegance'. Like the Futurists, Robert was obsessed with the new era of technology and speed, and would frequently visit the St Cloud airship outside Paris. From here came the inspired work 'Homage to Bleriot' in 1914- an 'allegory of the new age' as well as an illustration of his theory that color could become form and subject.</p>
+          <p type="p">The Delaunays were on vacation when World War I broke out in August 1914, but unlike the others in their circle they stayed as far from the fighting as possible, firstly in Portugal then in neutral Northern Spain. Robert did finally enlist in 1916, but was declared unfit for service due to a large heart and collapsed lung. In 1917, Sonia's income was cut off at the outbreak of the Russian Revolution and she turned to fashion design to provide for her family, setting up her own boutique, Casa Sonia. This proved a lucrative period for both artists when Robert met the Russian exile, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diaghilev_sergei"&gt;Sergei Diaghilev&lt;/span&gt; and the rest of the Ballet Russes, which had been somewhat depleted by war. Robert was commissioned to design and make the stage set for their next performance while Sonia created the costumes.</p>
+          <p type="p">In 1920 the Delaunays returned to Paris, where Sonia established herself as a successful fashion designer, so Robert could pursue his art. They rented a grand apartment and resumed their Sunday salons - pulling in a new group of young artists including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Jean&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-taeuber_arp_sophie"&gt;Sophie Arp&lt;/span&gt;. The apartment became a living, breathing simultaneous artwork as their &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; friends adorned the walls with paintings, poems, and signatures. However, as always they were living beyond their means and bailiffs were frequent visitors to the apartment; in 1922 money was so tight that Sonia had to sell their Henri Rousseau painting &lt;i&gt;The Snake Charmer&lt;/i&gt; to the Louvre for 50,000 francs. With this Robert bought their first car, and in doing so found the one pastime that would relax him - driving. The Delaunays were known for their progressiveness- owning a car, telephone, and radio before any of their friends as well as being the first to re-establish links with German artists after World War I. However, artistically Robert was lagging behind his entrepreneurial wife - he had not exhibited since 1913 except for a solo show in 1922 that had little success despite the loyal attendance of his new Surrealist friends.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="p">By the mid 1930s, Robert's reputation had dwindled and he was in a cycle of producing unfinished works that lacked conviction. He spent time conducting his, what seemed to be fruitless, research into developing new pigments and using stone and sand to make lacquer. During the late 1920s he had turned to figurative work, then back to complete abstraction. A low point was the creation of a nude for the lounge of the embassy room at the Exposition Universale of 1925, which was deemed inappropriate and taken down. The same year they both turned 40 and Sonia - now a very successful designer who ran 30 boutiques, began to pine for the painting of her earlier career. Robert encouraged this return to intellectual curiosity saying, ' to produce is great, but we must also promote our ideas'. With the crash of Wall Street in 1929, fashion couture declined as it became 'bad taste to look rich'. Sonia made the decision to close her boutique and the couple gave up their apartment, declaring 'We'll paint and we'll live like before'.</p>
+          <p type="p">Money was tight and both artists were encouraged to register for unemployment by friends, but Robert's pride prevented this. The couple joined the Abstraction Creation group in 1932 and four years later were invited to take part in the Exposition Internationale des Arts et Techniques dans la Vie Moderne of 1937, with an emphasis on public art. Robert took charge of the project, working with fifty unemployed artists in a large garage to produce huge murals for the aeronautical pavilion, with the theme of the romance of railway travel. During this period they 'lived like monks' according to Sonia, with Robert showing a renewed energy and commitment to the project. His previous experiments with stone proved to be invaluable as he developed ways to produce murals that were resilient to the elements. The show was a success, and Robert's pavilion received very positive reviews by those who saw it. However, it was overshadowed by the overwhelming success of Picasso's &lt;i&gt;Guernica&lt;/i&gt; in the same show - adding fuel to the longstanding envy he had for the Spanish artist.</p>
+          <p type="img" alt="Robert and Sonia Delaunay" show="0">/images20/photo/delaunay_robert_3.jpg</p>
+          <p type="p">The International Exposition brought the Delaunays back in demand and a year later, Robert produced what would be his last series- decorations for the Sculpture Hall at Salon des Tuileries. With these successes behind them, the couple made exciting plans to travel to New York, but timing was against them and with World War II looming they fled to the South of France to avoid the Nazi invasion. The move was detrimental to Robert's deteriorating health and he died from cancer in 1941 in Montpellier, France. Sonia went on to live for another thirty years, and with their son, Charles, managed Robert's estate, and paid tribute to Robert's memory through her work.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Robert Delaunay's reputation fluctuated throughout his life and after his death, so it is a challenge to map his legacy in modern art history. However, it is without a doubt in the heady pre-World War I days that his influence on other artists and writers was most pronounced. His text 'Note on the Construction of Reality in Pure Painting' (1912) was seen by many critics as fundamental in the evolution of abstract art theory; in one article Apollinaire even credits Delaunay with influencing Picasso's use of light. Whether or not this was entirely accurate, it is certain that during 1912-13 Delaunay was seen by many as occupying a contradictory and equivocal position in relation to Cubism, something which inspired young artists looking for new directions. One such example was the young American, Morgan Russell, who saw the vibrant color harmonies of Delaunay's canvases in 1912. Soon afterwards, Russell founded the Synchronist movement with Stanton McDonald Wright, which expanded on the color theory of Michel Chevreul and Ogden Rood, as Delaunay himself had done. Later however, Russell and Wright denied all connections with Orphism.</p>
+          <p type="p">Similarly contentious was Delaunay's relationship to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;. His incorporation of modern architecture into a fragmented, dynamic pictorial space suggests a role in the development of Futurist visual language, particularly evident in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boccioni_umberto"&gt;Umberto Boccioni&lt;/span&gt;'s &lt;i&gt;Simultaneous Visions&lt;/i&gt; (1912). The Italian artist had in fact visited Paris in 1911 and would have seen Delaunay's &lt;i&gt;Saint Severin&lt;/i&gt; and &lt;i&gt;Eiffel Tower&lt;/i&gt; series. At the time both movements rejected any comparison but after the artist's death, Fernand Leger was to declare 'It was with Robert Delaunay on our side that we joined the battle' [towards abstraction] (1949).</p>
+          <p type="p">After Delaunay exhibited his work at the first &lt;span class="marked_text chart-tooltip-target-top tooltip_id-der_blaue_reiter"&gt;Der Blaue Reiter&lt;/span&gt; exhibition, he caused a stir : the blocks of vivid color Klee went on to employ in his Tunisian watercolors (1914) are reminiscent of Delaunay's &lt;i&gt;Windows&lt;/i&gt; series, and critic, Theodore Daubler, actually referred to him as the 'first known Expressionist' in 1916. Other commentators point to links with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-die_brucke"&gt;Die Brucke&lt;/span&gt;. For Mark Rosenthal, the distorted expressionist forms in Delaunay's &lt;i&gt;Saint Severin&lt;/i&gt; can be clearly seen in the art of Lyonel Feininger, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kirchner_ernst_ludwig"&gt;Ernst Kirchner's&lt;/span&gt; street scenes, and in the film sets for Robert Weine's &lt;i&gt;Cabinet of Dr Caligari&lt;/i&gt; (1920).</p>
+          <p type="p">Delaunay's close connections with Kandinsky, Hans Hoffman, and Diego Rivera during his lifetime also suggest a possible link with Abstract Expressionism, as these were all prominent figures in the development of the New York School in the 1940s. Delaunay's innovative use of encaustic wax (developed when he had no access to art materials in Spain), large scale architectural painting (&lt;i&gt;The City of Paris&lt;/i&gt;, the 1930s murals) and color as a vehicle for expression can be indirectly linked to the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-newman_barnett"&gt;Barnett Newman&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt;.</p>
+          <p type="p">By 1945, just four years after his death, Delaunay's name was virtually unknown. His wife, Sonia, was by then well-established in her design career and she worked tirelessly to restore her late husband's reputation as a pioneer of abstract art. She persuaded galleries to show his work and in 1963 donated 114 of his works to the Musée d'Art Moderne in Paris, helping to place his name back in the public consciousness. However, it is in her vast body of work where his most direct legacy lies. She kept their shared theories of simultaneity alive through her prolific production of clothing, household objects, book binding, fabrics, and painting, all characterized by colorful abstract forms that were reminiscent of Robert's earlier Orphic works.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="braque_georges">Houses of l'Estaque (1908)</artwork>
+    <artwork from="movement" page="post_impressionism">Sunday Afternoon on the Island of La Grande Jatte (1884-86)</artwork>
+    <artwork from="movement" page="cubism">Les Demoiselles d'Avignon (1907)</artwork>
+    <artwork from="movement" page="salon_cubism">Woman with Phlox (1910)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>L'Homme à la tulipe (Portrait de Jean Metzinger)</title>
+      <year>1906</year>
+      <materials>Oil on canvas</materials>
+      <desc>This portrait is one of a series that Delaunay and Metzinger painted of each other during the summer of 1906, many of which have been lost. Delaunay's painting captures both the debonair air of Metzinger and their spirit of collaborative experimentation. This painting shows the influence of Neo-Impressionism and Divisionism on Delaunay's color as well as the influence of artists such as Edgar Degas and Édouard Manet in its unusual perspective. Like Seurat, Delaunay placed complementary and opposite colors adjacent to each other on the canvas rather than mixing paints on the canvas - creating the effect of a hue and the illusion of depth, while giving the works a sense of static classicism. Delaunay was not a slavish follower of Divisionism, however, since his brushstrokes are freer and less precise, and the color is not dictated by nature but is non-naturalistic, indicating Fauvist influences.</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Saint Severin no 3</title>
+      <year>1909</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Saint Severin&lt;/i&gt; was the first major series of paintings created by Delaunay in 1909. Focusing on the Gothic ambulatory of this well-known Parisian church, he depicted the view multiple times from the same perspective - looking northeast to capture the effects of changing light as Monet had achieved with his analysis of the exterior of Rouen cathedral. Restricting himself to the subdued palettes the early Cubist works of Picasso and Braque, Delaunay also looked to these artists' use of fragmented planes and distorted form to structure his space. The result is a modern rendering of a Medieval church through a series of repeated arches framed by the cropped composition. Delaunay's technique involved studying the 'reactions of the retina while looking at the sun' - documenting the colors and contrasts created, as well as the distortions in architecture through modulations of light.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Red Eiffel Tower (La tour rouge)</title>
+      <year>1911-12</year>
+      <materials>Oil on canvas</materials>
+      <desc>Delaunay painted his first Eiffel Tower in 1909 to celebrate his engagement to Sonia Terk. He went on to produce around fifteen versions and the tower became a major motif for artists in recognition of the major role that technological development and innovation had on the first part of the 20&lt;sup&gt;th&lt;/sup&gt; century. The Cubist influence is present in both the fragmented panes of the composition and in the multiple viewpoints of the tower - by looking both up at it's towering height and down on to the smaller buildings. The rich red color is heightened in contrast to the pale blue background, which again emphasises the tower's dominance on the Parisian skyline. His work was described as a synthesis of Impressionism and Cubism but the dynamic robotic-like presence, wing-like forms and plumes of smoke or clouds are more reminiscent of the Futurist project. As Mark Rosenthal noted , 'Delaunay 'effectively replaced the pastoral landscape of the Impressionists with a modern paen of French glory" even reducing his color palette to the red, white, and blue of the French flag.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>La Ville de Paris</title>
+      <year>1910-12</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting figured prominently in the art world of pre-World War I Paris and was one of the first acquisitions of Jean Cassou, a freelance journalist and later the director of the Museum of Modern Art during the turbulent days of the Socialist Blum government prior to World War II. First shown in the Salon des Independants in 1912, the work caused a sensation and was noted by Apollinaire to be an example of the new movement, Orphism. In 1913, the painting, along with other, smaller compositions, was sent to New York for the now infamous Armory Show. Sadly the work was never shown due to its great scale, causing indignation for the Delaunays and their close circle of friends. 
+				&lt;br/&gt;&lt;br/&gt;
+				As is characteristic of his early work, Delaunay mixes codes and symbols of the city he lived in. Here though, he moves beyond the literal to the allegorical - presenting Paris through a montage of three nude women. The first presents Paris as the historical city, with a view of the Quai du Louvre in the background. The second depicts the classical Paris that is represented by a reference to the Judgment of Paris. The third and final panel is recognizable from Delaunay's previous Eiffel Tower series as the modern metropolis. This painting shows Delaunay's innovative grasp on time and space - themes he would explore further as he moved towards abstraction.
+			</desc>
+      <collection>Musée National d'Art Moderne, Centre Georges Pompidou, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>L'Équipe de Cardiff (The Cardiff Team)</title>
+      <year>1912-13</year>
+      <materials>Oil on canvas</materials>
+      <desc>For this work, Delaunay drew inspiration from a newspaper image of the Paris-Cardiff rugby match that took place in 1912. He produced several versions of the painting - combining representational elements with a fragmented, Cubist composition that shows the emergence of contrasting color planes and geometric forms of his later work. The motifs he employs all work to illustrate the visual landscape of pre-war Paris- branded hoardings, the Big Wheel, and the Eiffel Tower rising up majestically in the background. Off to one side, partially concealed and disguised as an advertising slogan, is Delaunay's name. The inclusion of visual and written symbols in the painting point to significant themes that were to preoccupy the artist throughout his career- the depiction of movement, technology, sport, and placing himself as a central figure within this dynamic new world.</desc>
+      <collection>Musée d'Art Moderne de la Ville de Paris, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Simultaneous Windows (2nd Motif, 1st Part) (Les fenêtres simultanées [2e motif, 1re partie])</title>
+      <year>1912</year>
+      <materials>Oil on canvas</materials>
+      <desc>The &lt;i&gt;Simultaneous Windows&lt;/i&gt; series are Delaunay's last semi figurative works before he began experimenting with complete non-objectivity. Here we are looking through a window - the outline of the Eiffel Tower reveals itself beneath fragmented color panes, creating an illusion of depth along with the kaleidoscopic effect that was characteristic of Orphism. The palette is bright and the fluid blocks of color give the illusion of softness and movement. In 1911, Sonia had created a patchwork blanket for their son that famously inspired these works. The &lt;i&gt;Windows&lt;/i&gt; series is characterized by a forward thinking and Futurist aesthetic but Delaunay also drew on earlier movements, the motif of looking through windows could be seen in works of the Impressionists and Fauvists and could also have been inspired by the Symbolist concept of a window onto the soul.</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Endless Rhythm (Rythme sans fin)</title>
+      <year>1934</year>
+      <materials>Oil paint on canvas</materials>
+      <desc>&lt;i&gt;Endless Rhythm&lt;/i&gt; was named by Sonia Delaunay as a way to describe the cyclical looping effect of the circular forms that seem to mimic the flow of electric currents. By 1930 Delaunay had returned to abstraction, producing the large spinning disc compositions for which he is perhaps best known. Building on his earlier experiments, Delaunay achieved the illusion of movement through juxtaposition of colors with geometric form. Delaunay carefully selected his colors to present subtle gradients and then contrasts these with the thick black and pale blue background. The diagonal composition enhances the effect of dynamism. A year after this painting was produced, the discs were brought to life on a monumental scale in his public murals for the Paris exposition.</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Entrée du Hall des réseaux du palais des Chemins de fer</title>
+      <year>1937</year>
+      <materials />
+      <desc>In 1937 the Delaunays began a new and very different project that would occupy them for almost an entire year when they were commissioned to create a series of murals for the Railway Pavilion and the Air and Aeronautics Pavilion at the Paris Exposition in collaboration with a team of painters. The theme that year was art and technology in modern life. In response,Delaunay chose to recreate the results of his earlier experimentation with simultaneity and chromatic color - this time on an unprecedented scale. Each panel took a different form; inspired by his earlier work in sand, stone, and sculpture. Delaunay imagined repetitive forms, conflicting shapes and endless color palettes to set the room in motion, in homage to new visions of the world afforded by technological innovations. The murals were hung in the entrance to the Musée d'Art Moderne in 1977 in honor of Delaunay's earlier contributions to abstract art.</desc>
+      <collection>Centre Pompidou, Musée national d'art moderne, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Rhythm n1</title>
+      <year>1938</year>
+      <materials>Oil on canvas</materials>
+      <desc>Propelled on by the success of the Exposition commission, a year later Delaunay produced another major commission, this time for the Salon de Tuileries. Again reminiscent of aeroplane propellers, and the swirls and plumes that surround them in motion, this painting evokes the artist's love of speed and technology, as well as his renewed commitment to pure abstraction. It also illustrates his application of color theory. By using the large scale he had become comfortable with, Delaunay heightened the visual sensation of the work by creating simultaneous form and depth rather than descriptive reality. This was to be Delaunay's last major piece before the couple fled Paris for the south of France, where Robert died a premature death just three years later.</desc>
+      <collection>Centre Pompidou, Musée national d'art moderne, Paris</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>gauguin_paul</entity>
+        <entity>rousseau_henri</entity>
+        <entity>seurat_georges</entity>
+        <entity>monet_claude</entity>
+        <entity>picasso_pablo</entity>
+      </column>
+      <column>
+        <entity>apollinaire_guillaume</entity>
+        <entity>cendrars_blaise</entity>
+        <entity>delaunay_sonia</entity>
+      </column>
+      <column>
+        <entity>symbolism</entity>
+        <entity>fauvism</entity>
+        <entity>pointillism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>klee_paul</entity>
+        <entity>macke_august</entity>
+        <entity>chagall_marc</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>rivera_diego</entity>
+      </column>
+      <column>
+        <entity>apollinaire_guillaume</entity>
+        <entity>gleizes_albert</entity>
+        <entity>villon_jacques</entity>
+        <entity>stravinsky_igor</entity>
+        <entity>diaghilev_sergei</entity>
+      </column>
+      <column>
+        <entity>der_blaue_reiter</entity>
+        <entity>post_painterly_abstraction</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>1906-1914 De L'Impressionisme a L'Abstraction</title>
+          <link>2844260209</link>
+          <info>By Pascal Rousseau, Jean-Paul Ameline</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>The New Art of Color (The Documents of 20&lt;sup&gt;th&lt;/sup&gt;-century art)</title>
+          <link>0670506362</link>
+          <info>By Robert Delaunay, Sophie Delaunay, and Arthur A. Cohon</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>Robert Delaunay: Light and Color</title>
+          <link>B0000BU0OO</link>
+          <info>By Gustav Vriesen, Max Imdhal, and Maria Pelikan</info>
+        </entry>
+        <entry>
+          <title>Robert and Sonia Delaunay: The Triumph of Color</title>
+          <link>3822893277</link>
+          <info>By Hajo Duchting, Robert Delaunay, and Sonia Delaunay</info>
+        </entry>
+        <entry recommended="true">
+          <title>Resisting Abstraction: Robert Delaunay and Vision in the Face of Modernism</title>
+          <link>022615906X</link>
+          <info>By Gordon Hughes</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Online collection</title>
+          <link>https://www.guggenheim.org/artwork/artist/robert-delaunay</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Online collection</title>
+          <link>http://www.moma.org/collection/artist.php?artist_id=1479</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Envisioning Abstraction: The Simultaneity of Robert Delaunay's First Disk</title>
+          <link>http://www.tandfonline.com/doi/abs/10.1080/00043079.2007.10786344</link>
+          <info>
+						By Gordon Hughes
+						&lt;br&gt;
+						The Art Bulletin 
+						&lt;br&gt;
+						2007
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sonia Delaunay</title>
+          <link>https://bombmagazine.org/articles/sonia-delaunay/</link>
+          <info>
+						By David Seidner
+						&lt;br&gt;
+						BOMB Magazine 
+						&lt;br&gt;
+						July, 1981
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="interviews">
+        <entry>
+          <title>Archive Grid</title>
+          <link>https://beta.worldcat.org/archivegrid/collection/data/145996063</link>
+          <info>Papers relating to Sonia and Robert Delaunay, c. 1960-81</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Robert Delaunay, "Simultaneous Contrasts: Sun and Moon"</title>
+          <link>https://www.khanacademy.org/partner-content/MoMA/moma-1913-centennial-celebration/v/moma-simultaneous-contrasts-sun-moon</link>
+          <info>The Khan Academy</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

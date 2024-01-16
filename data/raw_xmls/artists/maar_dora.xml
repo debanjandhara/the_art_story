@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>maar_dora</id>
+    <name>Dora Maar</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1920 - 1990</years>
+    <description>The talented Surrealist photographer Dora Maar is perhaps best known for her affair with Pablo Picasso.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>French</nationality>
+    <occupation>Photographer and Painter</occupation>
+    <birthDate>November 22, 1907</birthDate>
+    <birthPlace>Tours, France</birthPlace>
+    <deathDate>July 16, 1997</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <highlight>4</highlight>
+    <image_desc>true</image_desc>
+    <art_type>Photography</art_type>
+    <pub_time>9/8/2018</pub_time>
+  </main>
+  <includes>
+    <include>surrealism</include>
+    <include>dada_and_surrealist_photography</include>
+    <include>photomontage</include>
+  </includes>
+  <similar_movements>
+    <movement>surrealism</movement>
+    <movement>dada_and_surrealist_photography</movement>
+    <movement>photojournalism</movement>
+    <movement>dada</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>ray_man</artist>
+    <artist>cocteau_jean</artist>
+    <artist>picasso_pablo</artist>
+    <artist>cahun_claude</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"All [Picasso's] portraits of me are lies. They're all Picassos. Not one is Dora Maar."</q>
+    <q>"After Picasso, God."</q>
+    <q>"I wasn't Picasso's mistress, he was just my master."</q>
+  </quotes>
+  <authors>
+    <author link="osborne_bartucca">Kristen Osborne-Bartucca</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Rebecca Baillie</editor>
+  </editors>
+  <article>
+    <synopsys>As a talented photographer, Maar made work that developed quickly from acute poetic street realism to otherworldly &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; manipulations. She was particularly apt at making work out of her own hidden and dizzying emotional interior - as well as the desire to retreat from it. Mournfully, Maar abandoned photography due to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso's&lt;/span&gt; insistence that every photographer was merely a painter waiting to be released. Caught in love with this colossal and powerful personality between the years of 1935-45, Maar became the muse for others as well as a practicing artist herself. Upon her separation from Picasso, Maar experienced a nervous breakdown and recovered with the help of the famous psychiatrist, Jaques Lacan. In later life, she moved from Paris to rural Provence and painted mainly abstract landscapes and melancholy still lifes. She became a recluse and a devout Catholic. Despite her achievements, following their destructive relationship, Maar lived partially in the shadow of Picasso's words; she never returned to photography, the medium through which her exquisite and unusual character shines so brightly.</synopsys>
+    <key_ideas>
+      <idea>Whilst making her most 'surrealist' photographs, Maar examines similar and recurring motifs to other members of the group, for example hair, shells, spirals, and shadows. However, her images are altogether more disconcerting, macabre, and foreboding than those of her colleagues and as such highlight that Maar was not only connected to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt; but was also a close friend of the dissent figure, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-batailles_georges"&gt;George Batailles&lt;/span&gt;. With a foot in both camps, she stood literally at the center of the movement sweeping the art world of the time.</idea>
+      <idea>Indeed, she was one of the women closest to the Surrealists, involved in many early collaborative drawings and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collages&lt;/span&gt;, and beloved for her imagination. As such, when Breton opened a gallery on the rue de Seine in 1937 called 'Gravida', the 'd' stood for Dora, acknowledging her as one of a handful of the group's most treasured sources of inspiration.</idea>
+      <idea>Maar was an invaluable documenter of the lives of fellow artists. She famously photographed Picasso whilst he completed the important large-scale painting &lt;i&gt;Guernica&lt;/i&gt; (1937), and like Lee Miller, made memorable portraits of other female Surrealists. Whilst Miller flooded her pictures of Nusch Eluard and Leonor Fini with light depicting her friends as idealists, Maar surrounded the same women in darkness focusing more on their defiant and seductive characteristics; in turn, exposing more uneasy aspects of the human unconscious.</idea>
+      <idea>In Picasso's famous series of portraits of Maar, &lt;i&gt;The Weeping Woman&lt;/i&gt;, she is always depicted with two faces and made up of a collection of sharp and violent lines. The images epitomize anxiety in love, and the potential harm caused by a destructive romantic relationship. Maar's career in its later stages was unfortunately tainted due to this tumultuous affair and as such stands as a warning for others.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Dora Maar was born Henrietta Theodora Markovitch on November 22, 1907 in Tours, France. Her father was Croatian and became an architect; her mother was French and brought up in the Catholic faith. Maar spent most of her childhood in Buenos Aires, Argentina, where her father worked on a number of projects. The artist recalls her childhood as being a relatively lonely time. She read widely in English, and spoke French and Spanish fluently. She was left-handed but her parents and teachers forced her to write, eat, and conduct day-to-day affairs with her right; nevertheless, she always painted and drew with her left hand.</p>
+          <p type="p">Maar returned to France to study painting in Paris around 1925. She visited the École des Arts Décoratifs, Académy de Passy and Académie Julien, as well as studying with Cubist André Lhote. She quickly abandoned painting for photography, studying at the École de Photographie de la Ville de Paris. She became a part of café life and was attractive to many in the Parisian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; noted for her beauty, intellect, and alluring mystique. It was at this time that she simplified her given name and became Dora Maar.</p>
+        </subsection>
+        <subsection title="Early Period">
+          <p type="p">Around 1930, the French set designer and photographer Pierre Kéfer noticed Maar's talents and asked her to share his studio in Neuilly. The two worked together on portraits, advertising, and fashion photography. She depicted nudes for erotic publications, posed for other artists (including Man Ray), and took photographs for the forthcoming books of art critic, historian, and Louvre curator, Germain Bazin.</p>
+          <p type="img" alt="Maar in 1934 by Emmanuel Sougez">/images20/photo/photo_maar_dora_1.jpg</p>
+          <p type="p">Maar began to associate with some of the most prominent intellectuals in Europe at the time. She considered Louis-Victor Emmanuel Sougez, an advertising photographer and director of a French weekly newspaper as her mentor. She studied photography with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt;, who encouraged her to become a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photojournalism"&gt;photojournalist&lt;/span&gt;, and met and became friends with the Hungarian-born photographer, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brassai"&gt;Brassai&lt;/span&gt;. Brassai and Maar admired one another's determination, professionalism, and directness of poetic vision.</p>
+          <p type="p">Driven by Sougez's encouragement, Maar began to deepen her exploration of photography. The Kéfer-Maar studio closed and Maar opened her own studio and darkroom at 29 Rue d'Astorg in the eighth arrondissement of Paris. The photography critic Jacques Guenne described her in his 1934 book &lt;i&gt;L'Art Vivant&lt;/i&gt; as "a dark-haired huntress of images, whom long chases do not fatigue", and also as insatiably curious, and self-possessed.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Maar in 1936. Photo by Man Ray ">/images20/photo/photo_maar_dora_2.jpg</p>
+          <p type="p">Working from her studio through the early to mid-1930s, Maar began creating some of her most famous Surrealist photographs. She also immersed herself into the Surrealist circles and was much admired by the leading poets and artists of the movement. George Bataille was one of her lovers and became a great friend, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eluard_paul"&gt;Paul Eluard&lt;/span&gt; dedicated his Surrealist poem &lt;i&gt;Identités&lt;/i&gt; (1948) to her. She was close to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt; and worked as his studio assistant for a time, as well as to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cocteau_jean"&gt;Jean Cocteau&lt;/span&gt;, and to the father of the movement, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;. Ten years later, many of her photographic portraits made during the 1930s were included in Eluard's &lt;i&gt;Le Temps Déborde&lt;/i&gt; (1947). Critic Julie L'Enfant noted that "Maar attracted a good deal of attention with her dramatic personal style: her lighting of a cigarette could be a theatrical event" and "the beauty of her hands [was] often remarked upon", as well as her beautiful voice.</p>
+          <p type="p">Maar was a committed and active leftist, joining/supporting anti-Fascist political groups such as Masses, Octobre, and Contre-Attaque. She wore her passions and opinions on her sleeve - her friend Brassai acknowledged that she was "inclined...to storms and outbursts."</p>
+          <p type="p">Even though famed Spanish painter Pablo Picasso and Maar had met as early as 1935 on a movie set, introduced by Paul Éluard, Picasso apparently did not recall the encounter. The following year she arranged an "accidental" meeting. Maar sat at a small table at the Café de Deux Magots, knowing that it was a place Picasso frequented. She was playing a game where she stabbed a small knife between her fingers, and Picasso watched as she occasionally jabbed her fingers and small drops of blood appeared on her lacy black gloves. This was entrancing to the brilliant and narcissistic artist, and before long, the two began a tempestuous love affair. Picasso depicted Maar numerous times, and she became famous as his model for the &lt;i&gt;Weeping Woman&lt;/i&gt; canvases made in various forms between 1937 and 1944. While some of his portraits showed her lively and puissant, most were tortured and distorted. Picasso stated once that he only ever remembered his lover as being in tears.</p>
+          <p type="p">Despite the obvious dysfunction, Maar was the only person that Picasso allowed in his studio whilst he was working on his groundbreaking &lt;i&gt;Guernica&lt;/i&gt; (1937) painting. She photographed the piece extensively, painted a few brushstrokes on the canvas, and was the model for the woman with the lamp (Picasso's other mistress Marie-Thérèse Walter featured as the model for three figures as well). Maar's &lt;i&gt;Guernica &lt;/i&gt;series was among the last of her photographs, for she followed Picasso who convinced her that painting was a superior medium.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="One of the many books on Maar's relationship with Picasso">/images20/photo/photo_maar_dora_3.jpg</p>
+          <p type="p">Picasso and Maar's relationship deteriorated, along with her mental health. Picasso left Maar for Francoise Gilot and Maar was sent to St. Anne's hospital for electroshock treatment. Following the violent start to her treatment, her care was taken over by the Neo-Freudian psychiatrist, Jacques Lacan. With Lacan's reluctant guidance, Maar ultimately turned to religion, becoming a fervent Roman Catholic after prior experiments with the occult and Buddhism. When asked why this had become the turn of events, Lacan said frankly, "I had to stabilize her. She needed something to crystalize upon. It came to a choice between the confessional and the straitjacket."</p>
+          <p type="img" alt="Maar in her studio (1946)">/images20/photo/photo_maar_dora_4.jpg</p>
+          <p type="p">Maar became quite reclusive but did indeed stabilize, and began to devote herself single-mindedly to painting. She concentrated mostly on still lifes and landscapes, creating a large body of work in the decades until her death. She divided her time between Paris and the house in Ménerbes that Picasso had purchased for her in 1944, eventually living full-time in the latter. Devout until the end, most people in Ménerbes reported only ever seeing her when she went to church services.</p>
+          <p type="p">The final exhibition of her work before her death was held in 1990 at the 1900-2000 gallery in Paris. Around this time, she was a dedicated follower of the auction results for Picasso's works, and indeed lived off the sales of the ones in her possession at the end of her life. When asked why she held onto the pictures for so long before selling them, she remarked, "I'll tell you why, because they're mine. On the walls of a gallery, maybe they're worth only half a million. On the walls of Picasso's mistress, they're worth a premium, the premium of history."</p>
+        </subsection>
+        <subsection title="Death">
+          <p type="img" alt="Maar at Ménerbes (1970s)">/images20/photo/photo_maar_dora_5.jpg</p>
+          <p type="p">Maar passed away at the age of 89 on July 16, 1997. She kept and treasured everything Picasso had given her, no matter how strange or grim; mementos included paintings, scraps of newspaper, small scraps of paper Picasso had drawn on and even smeared his blood on (bleeding from the spike of a torturous ring he had made for Maar after their separation). This collection was sold at auction following Maar's death, worth tens of millions of dollars, money given to very distant heirs (as she had never married or had children).</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Most accounts of Dora Maar's life and work reference Picasso, and certainly he played a major role in both. For years she was known primarily for being the model and muse for many of his most important works. She was also the photographer who documented the stages in production of &lt;i&gt;Guernica&lt;/i&gt;, and acted as a catalyst for some of Picasso's experiments in painting, especially those that alluded to aspects of photography. Thus, then and sometimes still now, both rightly and wrongly, Maar is labeled the muse, the mistress, the victim, and later the recluse. Her legacy however, is more complex than restrictive definitions allow, and she was more beautiful than Picasso's tortured portraits of her lead the viewer to believe.</p>
+          <p type="p">With her first exhibition at the Galerie de Beaune in 1937, Maar is considered one of the most significant Surrealist photographers. She was a figure who truly embodied the "convulsive beauty" ideal expressed by André Breton. Indeed, her photographs and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photomontage"&gt;photomontages&lt;/span&gt; highlighted Surrealism's fascination with the macabre, with nightmares as well as dreams and fantasy, with the uncanny elements of urban life. Artists such as Man Ray, Brassai, and Emmanuel Sougez all found inspiration in her understanding that photography had the ability to distort reality and to conjure a world only visible within the psyche. Her very early photojournalistic works that established uneasy juxtapositions between the built environment and human figures within it greatly influenced future generations of photographers, including in particular &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abbott_berenice"&gt;Berenice Abbott&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arbus_diane"&gt;Diane Arbus&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-friedlander_lee"&gt;Lee Friedlander&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>After the Rain</title>
+      <year>1933</year>
+      <materials>Photograph</materials>
+      <desc>
+				In the early 1930s Maar traveled to various places in Europe working as a photojournalist, but she also began taking her own pictures. Tending toward street scenes and glimpses of the isolated nature of city life, these works are often melancholy, quietly piquant, and effortlessly framed. In &lt;i&gt;After the Rain&lt;/i&gt; a mother and a child walk along a slick sidewalk next to a lofty wall, their backs to the camera. Maar frames the shot in a sharp diagonal - the sidewalk stretches into the back of the image and the figures are almost at its end. Shadows of slender, leafy trees are projected on the wall, and puddles of rainwater gleam. The overall poetry and romance conjured by the scene is reminiscent of photographs by the artist's friend and colleague, Brassai.
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, during the 1930s many French photographers turned to the long boulevards and arcades of Paris to capture the mystery and ambiguity of the city. Maar had a keen eye for what critic Jacques Guenne deemed "la comédie humaine," the panorama of human life within the urban milieu. &lt;i&gt;After the Rain&lt;/i&gt; is not just a straightforward image of either the city or of its denizens; rather, it is a comment on the beguiling and sometimes isolating nature of the person in the city. The severe diagonals, the figures fading into the distance, and the pervasiveness of the shadows create a sense of disquiet, of the strange but familiar juxtaposition between the harsh built environment and the fragile humans and trees living alongside. As critic Donald Goddard notes, "[Maar] knew that there was far more within every image, every person and place, than could possibly be described, that 'interior vision' is more than matched by what is outside ourselves."
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Study for Petrole Hahn hair products</title>
+      <year>1933-34</year>
+      <materials></materials>
+      <desc>
+				Maar's earliest photographs were born out of her experience working both as a photojournalist and as a commercial photographer. As an example of the latter, she crafted advertisements such as one for 'Petrole Hahn' hair products. These images stand as apposite examples of how any picture by Maar was rarely ever straightforward and utilitarian, but instead typically injected with a Surrealist bent. Here a pink bottle of hair oil tips over on its side, emptying its contents. Instead of oil billowing out however, luscious thick locks of hair stream out and billow in the void. The bottle is the only pop of color on an otherwise black and white backdrop. Hair is a classic repeated motif for women Surrealists; unruly it can represent fear at the power of female sexuality, removed it can signify punishment, and to cut hair can speak of separation and loss in love.
+				&lt;br/&gt;&lt;br/&gt;
+				This particular photomontage works as an advertisement; the hair is sensuous and full and thus attracts the consumer's desire, however, it also functions as a Surrealist image abound with allusion to the female body, fetish, and unconscious desire. As the hair is unattached to an actual female body it attains distance and mystique; in this way it bears resemblance to how Meret Oppenheim discussed her famous work of art, &lt;i&gt;Object&lt;/i&gt; (1936) that also used hair in an uncanny way - "the image of femininity imprinted in the minds of men and projected on to women." The hair in the advertisement is shorn from reality, functioning as a simulacra and a critique of the conflation of consumerism and desire. It also looks forward to Maar's disappointing experience in love; both Frida Kahlo and Mimi Parent presented their hair as separate from themselves when they had been saddened and betrayed by matters of the heart.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Untitled</title>
+      <year>1934</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				In one of Maar's earliest photomontages, she creates an uncanny and mesmeric image of a woman's hand in a shell; it is unclear if the hand is crawling out or pulling itself back inside. It is though it is living in there, sheltered like a hermit crab or other armored creature. The shell rests on the sand with a rolling sky looming ominously, over and above in the background. The hand has long, tapered fingers and perfectly manicured nails, and the shell is similarly aesthetically pleasing with its ringed and repeated pattern. A bright but eerie light illuminates the hand and, in places, violently breaks through the clouds. 
+				&lt;br/&gt;&lt;br/&gt;
+				It is certainly tempting to read into Maar's works in terms of biography: Lauren Greenwald writes, "[&lt;i&gt;Untitled&lt;/i&gt;] seems almost prescient, as the artist would eventually retreat into her own self-contained world." Maar may or may not have been thinking about various aspects of her psyche with this work, but it is clear that she was thoroughly versed in the power of Surrealist imagery. The hand was a common motif, referring to fetishes, sadomasochistic pain and pleasure, and the evocation of a primitive past contrasted with the mechanized present. Dalí depicted hands being swarmed by ants, amputated, or sensuously kissed; de Chirico painted a limp, smooth white glove in &lt;i&gt;The Song of Love&lt;/i&gt; (1914); and Magritte's &lt;i&gt;L'aube a Cayenne&lt;/i&gt; (1926) featured two intertwined marmoreal hands with a disturbing red spider-like creature clutching the fingers. Indeed, it was through a performance with her own hand that Maar first met Picasso. Like the works of her Surrealist peers, and her own coinciding imaginary musings, the image is highly erotic, intensely dreamlike, and suggestive of deep latent desires.
+			</desc>
+      <collection>Musée National d'Art Moderne, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Pére Ubu</title>
+      <year>1936</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				&lt;i&gt;Pére Ubu&lt;/i&gt; is one of the most iconic photographs of the Surrealist movement, attaining its fame after its inclusion at London's International Surrealist Exhibition. The image consists of a bizarre, disquieting figure that takes up the entire plane. It appears to be an animal of sorts, consisting of a flat, angular head; two long, elephantine ears; curved limbs with tapered finger-like appendages, and glimpses of a scaly, rough torso. One heavily lidded eye is visible on the far left side of the head. The general consensus is that this is a photograph of an armadillo fetus (interestingly another shelled creature that would curl up for protection similar to the 'hand crab'), but Maar would never confirm this and therefore kept the mystery intact.
+				&lt;br/&gt;&lt;br/&gt;
+				The image was made into a postcard as it was supposed to personify the monstrous title character from Alfred Jarry's controversial 1896 play, &lt;i&gt;Ubu Roi&lt;/i&gt;. In many ways, the difficult to identify creature exemplifies many of the concerns of the Surrealists. It is stated by the research team at the Australian National Gallery of Victoria, that the group had "fascination with exploring forbidden territory, where the exotic and grotesque mingle to create a disquieting yet exciting tension." While Jarry's stage version of Ubu was a simplified woodcut (that nevertheless emphasized the body's scatological function), Maar's depiction is more animalistic. This references, as critic Julie L'Enfant notes, "the theme of man as beast, a frequent element of Dada and Surrealist humor" and "the animality of the supposedly higher species."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Rue d'Astorg</title>
+      <year>1936</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				While this photomontage is named after the location of her Paris studio, there is very little that resembles that space. The scene is a barrel-vaulted, capacious corridor; there is a small door far in the distance with a diminutive figure near it. A female figure perched on a heavy bench takes up most of the foreground, and she is immediately disconcerting with her thick, doughy limbs; disheveled drapery; and, most uncomfortably, her disproportionately small and extremely simplified head atop an elongated neck. Facial features are almost nonexistent, as if a child fashioned a head out of clay and merely drew eyes on either side and a small triangle for a nose/mouth. Both the figure and the dreamlike landscape in which she has been placed strongly recall the work of the Italian painter Giorgio De Chirico, a profound originating force and influence on all of the Surrealists.
+				&lt;br/&gt;&lt;br/&gt;
+				The vision is also idiosyncratic, and thus in some respects entirely unknowable. Nevertheless, it is clear that Maar is engaging in as critic Louise Baring writes, "a dizzying descent into ourselves... the perceptual excursion into the midst of forbidden territory." &lt;i&gt;Rue d'Astorg&lt;/i&gt; is a dream - a horrifying dream - because it simply cannot exist in real life. The surreal figure, the distorted perspective, the simultaneously claustrophobic and overwhelming interior space insists on making the viewer exceedingly uncomfortable. Critic Rosalind Krauss saw Surrealist photography as exemplifying George Bataille's &lt;i&gt;à-cephale&lt;/i&gt;, or the headless corpse - the symbol of anti-hierarchy, anti-Platonism, and anti-reason. The figure in &lt;i&gt;Rue&lt;/i&gt; isn't completely headless but she is almost. 
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Le Simulateur (The Simulator)</title>
+      <year>1936</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				&lt;i&gt;Le Simulateur&lt;/i&gt; is a disorienting, impossible photomontage of a curved crypt-like space with blacked-out windows and a young boy curving his body back into the wall. His facial expression is unclear, especially as his eyes are scratched out, but he seems in a state of unfettered abandonment. Gloomy shadows press in upon the corridor as if about to swallow up the space and the boy within. Maar created the space by turning a picture of a seventeenth-century barrel vault upside down, but the image still defies comprehension because even if the viewer looked at the vault with the proper orientation, the boy would still be suspended from the ceiling. The work gives the viewer a glimpse into an interior world that is venturing out of control, most likely that of the artist herself. The curvature of a feminine womb-like space is not here comforting, but instead dizzying and more like a nightmare. 
+				&lt;br/&gt;&lt;br/&gt;
+				Like Maar's other Surrealist photomontages, &lt;i&gt;Le Simulateur&lt;/i&gt; deliberately unsettles. The boy's behavior is "inexplicable," critic Rick Poyner writes, wondering, "Are we witnessing a game, a self-elected ordeal, or an involuntary posture of madness? The architecture is like a centrifuge, its lines of force rotating unstoppably toward him, and he submits to their energy, arching his body to rhyme or become one with the chamber, as though the space is a projection of an impulse inside him." The title of the work also obfuscates any potential meaning - is the boy a simulation? Of whom? Is it the space that is a simulation, perhaps of a dream or of a real place viewed through the distortions of the mind? &lt;i&gt;Le Simulateur&lt;/i&gt; is uncomfortable because there is enough that is convincing about it to push the viewer to ponder what the boy is experiencing in the chamber. Critic Rosalind Krauss noted that Surrealist photography's manipulation of the medium's putative "deposit of the real itself" creates a paradox: "...the paradox of reality constituted as a sign - or presence transformed into absence, into representation, into spacing, into writing."
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Paysage</title>
+      <year>1957</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				After Picasso encouraged Maar to give up photography she turned exclusively to painting, and even after she and Picasso were no longer involved she remained working in this medium. She preferred still lifes and landscapes, the latter becoming increasingly abstract. In &lt;i&gt;Paysage&lt;/i&gt; ("landscape") the subject is barely defined; only the gently curving, horizontally oriented brushstrokes suggesting a mountain and the serene blue background suggesting sky manifest the title. Maar's colors are rustic, with the mountain rendered in ochres, browns, forest greens, and soft black. A few tenuous highlights of white paint sweep across the top of the mountain, perhaps indicating snow or smooth rocks. 
+				&lt;br/&gt;&lt;br/&gt;
+				By the time Maar was creating these landscapes, she was almost totally withdrawn from the art world. She rarely spoke of her paintings, "insisting that they speak for themselves." English art critic John Russell, who befriended Maar in the 1950s, explained, "[Her paintings] represent, beyond question, a solitary's view of the world." As there is no human presence, the image takes on a meditative quality. The landscape as depicted here is private, existing primarily in Maar's mental space rather than in the real world. It may be modeled on a particular vista but it is filtered through her personal understanding of the world as a place with which she rarely wished to engage. Whilst in these landscapes there are some hints of illuminating color, her still lifes from the same period were typically even more blackened and hopeless.
+			</desc>
+      <collection></collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>picasso_pablo</entity>
+        <entity>stieglitz_alfred</entity>
+        <entity>de_chirico_giorgio</entity>
+        <entity>dali_salvador</entity>
+      </column>
+      <column>
+        <entity>ray_man</entity>
+        <entity alt="Emmanuel Sougez">sougez_emmanuel</entity>
+        <entity>cocteau_jean</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>dada_and_surrealist_photography</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>cahun_claude</entity>
+        <entity>arbus_diane</entity>
+        <entity>abbott_berenice</entity>
+      </column>
+      <column>
+        <entity>picasso_pablo</entity>
+        <entity>ray_man</entity>
+      </column>
+      <column>
+        <entity>dada_and_surrealist_photography</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Dora Maar: Paris in the Time of Man Ray, Jean Cocteau, and Picasso</title>
+          <link>0847858537</link>
+          <info>By Louise Baring</info>
+        </entry>
+        <entry>
+          <title>Dora Maar: With and Without Picasso</title>
+          <link>0500510091</link>
+          <info>By Mary Ann Caws</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Picasso's Weeping Woman: The Life and Art of Dora Maar</title>
+          <link>0821226932</link>
+          <info>By Mary Ann Caws</info>
+        </entry>
+        <entry>
+          <title>Dora Maar: Fotografia</title>
+          <link>8487684610</link>
+          <info>Dora Maar: Fotografia</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Look Back at the Artist Dora Maar</title>
+          <link>https://www.smithsonianmag.com/arts-culture/pro_art_article-180968395/</link>
+          <info>
+						By Amy Crawford
+						&lt;br&gt;
+						April 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Dora Maar Photographs Guernica</title>
+          <link>http://www.artnewsblog.com/dora-maar-photographs-picassos-guernica/</link>
+          <info>
+						Dion
+						&lt;br&gt;
+						September 27, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Does Dora Maar Deserve Credit for Guernica? A New Show Says Her Art Inspired Picasso's Breakthrough Work</title>
+          <link>https://news.artnet.com/exhibitions/dora-maar-revealed-picassos-muse-guernica-show-1244849</link>
+          <info>
+						By Javier Pes
+						&lt;br&gt;
+						March 15, 2018 
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso and the Weeping Woman</title>
+          <link>https://news.artnet.com/exhibitions/dora-maar-revealed-picassos-muse-guernica-show-1244849</link>
+          <info>
+						By Susan Kandel
+						&lt;br&gt;
+						June 7, 1994
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Spotlight on Dora Maar: Cleveland Museum of Art</title>
+          <link>https://www.youtube.com/watch?v=t_eMNqmlu7U</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Happy Birthday, Dora Maar: Cleveland Museum of Art</title>
+          <link>https://www.clevelandart.org/blog/2014/11/22/happy-birthday-dora-maar-video</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Dora Maar: Examining the Odd</title>
+          <link>https://examiningtheodd.com/2017/02/13/5-hours-of-photography-5-dora-maar/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

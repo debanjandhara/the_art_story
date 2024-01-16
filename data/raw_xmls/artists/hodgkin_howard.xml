@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>hodgkin_howard</id>
+    <name>Howard Hodgkin</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1949 - 2016</years>
+    <description>Painter Hodgkin was a luminary of twentieth-century British art, who celebrated emotionally-invested abstraction.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Painter and Printmaker</occupation>
+    <birthDate>August 6, 1932</birthDate>
+    <birthPlace>Hammersmith, London, UK</birthPlace>
+    <deathDate>March 9, 2017</deathDate>
+    <deathPlace>London, UK</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <img_version>?1</img_version>
+    <pub_time>9/2/2018</pub_time>
+  </main>
+  <includes>
+    <include>school_of_london</include>
+  </includes>
+  <similar_movements>
+    <movement>school_of_london</movement>
+    <movement>british_pop_art</movement>
+    <movement>contemporary_realism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>caulfield_patrick</artist>
+    <artist>blake_peter</artist>
+    <artist>hockney_david</artist>
+    <artist>nicholson_ben</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"[P]ainters [...] have to build up a reservoir of feeling which is real but which can be tapped on demand."</q>
+    <q>"Art is never therapy except for the spectator."</q>
+    <q>"People want to categorize me [...] It's always irritated a lot of people who'd rather I was one thing or the other."</q>
+    <q>"[I]t was because of the picture over the mantelpiece that I became aware, at a very early age [...] of pictures as things like tables, chairs, cups and saucers and so on. That conviction about the nature of pictures has perhaps saved me, helped me and protected me since."</q>
+    <q>"[T]o be an artist in England is perhaps [...] more difficult, more traumatic and probably more fraught with the absolute certainty of failure than in any other country."</q>
+    <q>"The history of British art in the twentieth century contains a dangerous number of artists who, I think, failed to be great artists because they suffered from some curious moral disease. I think the moral superiority in their heads concealed from them the moral failing in their hearts and so they went on churning it out."</q>
+    <q>"Whatever you do, however unsuccessful, however creepy, mendacious, self-serving, aesthetically indefensible, morally wrong, however bad an artist you are in fact, never feel grateful when people buy your pictures, never feel grateful when people say nice things about them."</q>
+    <q>"Artists, like actors, dancers and musicians, are very greedy for money. They need it. To be an artist you have to feel, you have to have sensations, then you have to make them into something, and then finally you need to be paid for doing it."</q>
+    <q>"To be an old artist is usually quite good. People do not look at what you do anymore but they do give you money for it. They even give you quite fat catalogues."</q>
+  </quotes>
+  <authors>
+    <author link="fareyhe">Luke Farey</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Howard Hodgkin was amongst the last great luminaries of a tradition of twentieth-century British abstraction that included figures such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hepworth_barbara"&gt;Barbara Hepworth&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nicholson_ben"&gt;Ben Nicholson&lt;/span&gt;. Many older artists associated with this tradition could be loosely attached to particular styles or movements, such as the St. Ives School of the mid-twentieth century. But Hodgkin was a more singular presence in the British art world, not least because his own contemporaries and friends included the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-british_pop_art"&gt;British Pop artists&lt;/span&gt;: &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caulfield_patrick"&gt;Patrick Caulfield&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hockney_david"&gt;David Hockney&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-blake_peter"&gt;Peter Blake&lt;/span&gt;, and others. Hodgkin was thus a curious liminal figure, celebrated for an emotionally invested abstraction at a time when such an approach had largely been consigned to recent art history. At their best, Hodgkin's bold canvases and panel-based paintings occupy a thrilling intersection between pure arrangement of color and texture and subtly evocative figuration.</synopsys>
+    <key_ideas>
+      <idea>In certain respects, Hodgkin's oeuvre might be compared to that of a North-American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionist&lt;/span&gt; such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt;, particularly in its use of bold, rectangular panels of near-luminous color. But whereas Rothko's work has been celebrated for a sort of transcendent non-specificity, in which color and form as such become objects of wonder, Hodgkin's abstract compositions were more likely to be tethered to a representational motif: suggesting, if only for a second, a sunset, an interior, or a city-scene.</idea>
+      <idea>Hodgkin was amongst the most consummate of &lt;i&gt;painterly&lt;/i&gt; painters of the twentieth century. Particularly towards the end of his career, he was able to apply a stroke of paint in such a way that each of the individual colors mixed into it also seemed to be presented in isolation, in fine granular strands. This was an effect aided by his use of wooden panels rather than canvases as painting surfaces, allowing the paint to stand proud of its background in such a way that it almost became a sculptural material.</idea>
+      <idea>One of Hodgkin's most distinctive formal effects was the incorporation of a painted frame into the picture-space. In iconic works such as &lt;i&gt;Rain&lt;/i&gt; (1984-89), big, expressive, fluid brush-strokes mark out the four sides of the canvas, a gesture exemplifying the self-reflexive spirit of twentieth-century painting. By such means, the painting offers a subtle commentary on its own presentation and placement, becoming a self-contained object in the world rather than - or as well as - a portal into an imaginative space.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Howard Hodgkin was born into a middle-class family in London in 1932. His maternal grandfather, Gordon Hewart, was Lord Chief Justice between 1922 and 1940, and his cousins included the art critic Roger Fry, the artist Eliot Hodgkin, and the conductor John Eliot Gardiner. By the age of five he had already decided to become a painter, a fact he often publicly commented on later in life. His upbringing was disturbed by the Second World War, and between 1940 and 1943 he lived on Long Island in New York with his mother and older sister, avoiding the Blitz in Britain. This was a formative time for Hodgkin. He visited the Museum of Modern Art in New York, and took an interest in paintings by Picasso, Matisse, and Stuart Davis.</p>
+          <p type="img" alt="&lt;i&gt;A Chameleon&lt;/i&gt; (1612) by Utad Mansur, one of the Indian artworks from the Royal Library at Windsor Castle which inspired Hodgkin when he was a pupil at Eton." show="0">/images20/photo/photo_hodgkin_howard_1.jpg</p>
+          <p type="p">On his return to England, Hodgkin found it difficult to settle at school. It was conventional at that time for parents of a certain social class to send their children away to boarding school; Hodgkin went to Eton and then Bryanston School in Dorset, but ran away from both schools on a number of occasions. His time at Eton was not wasted, however, as the art master Wilfrid Blunt - brother of the Poussin specialist and spy Anthony Blunt - showed his pupils a number of works borrowed from the Royal Library at Windsor Castle. Hodgkin was particularly taken by the Indian miniatures that he saw, including Ustad Mansur's depiction of a chameleon; he later accrued a significant collection of Indian art.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">Hodgkin took a long time to develop a coherent artistic personality, and would speak in later life about his lack of self-confidence as a young man. Nevertheless, he produced his first serious work of art in 1949, while still studying at the Camberwell School of Art. In spite of this success, the ethos of the school was dominated by the realism of the Euston Road painters such as William Coldstream, and Hodgkin stayed for only a year before moving on to the Bath Academy of Art in the picturesque town of Corsham in Wiltshire. Run by Clifford and Rosemary Ellis, the Bath Academy was a residential art school where Hodgkin was far more free to experiment with new ways of painting, and he spent four productive years there between 1950 and 1954. The Academy's impressive roster of teachers included William Scott and Peter Lanyon, both practitioners in a highly individualized manner of abstraction.</p>
+          <p type="img" alt="Howard Hodgkin teaching at Bath Academy of Art in Corsham, Wiltshire" show="0">/images20/photo/photo_hodgkin_howard_2.jpg</p>
+          <p type="p">Early adulthood was an unfulfilling period for Hodgkin. Like so many closeted gay men of his generation, he felt pressured into a heterosexual coupling, and in 1955 married Julia Lane, a fellow student at Corsham. The pair had two children together, and only twenty years later did Hodgkin and his wife separate, at which time he acknowledged his homosexuality. Other frustrations at this time included an unexciting career as a teacher and the lackluster response to his first solo exhibition, held at Arthur Tooth &amp; Sons in London in 1962. In spite of these limitations, the 1950s-60s also proved creatively potent, however. In 1964, Hodgkin visited India for the first time with his friend Robert Skelton, Assistant Keeper of Indian Art at the Victoria and Albert Museum. Indian culture seemed to offer Hodgkin an escape from England's stifling social and artistic climate, and he returned regularly for the rest of his life. It was also in the 1960s that Hodgkin developed personal friendships with significant contemporary artists such as David Hockney, Patrick Caulfield, Peter Blake, R.B. Kitaj, and John Hoyland. For a time he worked in the same building in West London as Caulfield and another artist, Michael Moon, with each artist's studio occupying a floor of its own.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="A photograph of Hodgkin, left, and Peter Blake, right, taken by David Hockney at Disneyland, California in 1979." show="0">/images20/photo/photo_hodgkin_howard_3.jpg</p>
+          <p type="p">Not until his forties did Hodgkin's work start to receive widespread acclaim, and it only gradually began to be shown in established galleries such as Kasmin in London (1969) and Gallerie Müller in Cologne (1971). Following his open acknowledgement of his homosexuality, his visual style matured rapidly. As his friend Nicholas Serota said, "I think coming out as gay helped his work enormously. He relaxed and his work became more expressive and open." In the 1960s he had developed a highly varied semi-abstract style, often representing figures in a loose manner. During the following decade he began to hone a more distinctive and consistent painterly style of abstraction, in which subject-matter - though present - was increasingly obscure. His printmaking activities also took on new significance during this period, as he started hand-coloring his prints with paint.</p>
+          <p type="p">It was around this time that Hodgkin, with Peter Blake, visited David Hockney in California. In his journal, extracts from which were published in &lt;i&gt;Ambit&lt;/i&gt; in 1980, Hodgkin described a visit to Disneyland, providing a detailed account of Hockney's enthusiastic response to the Pirates of the Caribbean ride. A number of Hodgkin's prints and paintings depict Hockney's swimming pool, around which the artists lounged and talked during their visit. This was a period of growing self-confidence for Hodgkin, and it coincided with increasing institutional recognition. He was a trustee of the Tate Gallery between 1970 and 1976, and of the National Gallery between 1978 and 1985. His first retrospective exhibition was held in 1976 at the Museum of Modern Art in Oxford, and in the same year he was made a Commander in the Order of the British Empire. With growing financial means, Hodgkin purchased an apartment near the British Museum in Bloomsbury, London, going on to acquire the entire building along with a former dairy to the rear which became his studio.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">The 1980s marked a high watermark in Hodgkin's reputation. As he grew older, however, and as his fame burgeoned, the novelty of media attention gradually wore off, and his public persona became increasingly sardonic. In one interview he referred to retrospective exhibitions as "a kind of death". A number of documentary films and printed interviews were commissioned on Hodgkin's work, including for The BBC's flagship arts program &lt;i&gt;Arena&lt;/i&gt; in 1984, the same year that he represented Britain at the Venice Biennale. Not until the production of another BBC documentary, &lt;i&gt;A Picture of the Painter Howard Hodgkin&lt;/i&gt;, in 2006, was he filmed in the act of painting: though he had explicitly said to the film-makers that he would not be recorded on camera painting, he later got up during an interview session for the program and added a single brushstroke to a small panel. The episode exemplifies Hodgkin's reticence about giving explanations and expositions of his work, and how over the years he proved increasingly truculent or unresponsive in interviews. His friend Julian Barnes once wrote that "he has always been a difficult interviewee, not least because he doesn't want to talk about his own pictures".</p>
+          <p type="img" alt="Hodgkin in his studio in London in 2014. The building was once used as a dairy." show="0">/images20/photo/photo_hodgkin_howard_4.jpg</p>
+          <p type="p">In 1985, Hodgkin became the second artist to win the Turner Prize (the prize was started in 1984). Alongside printmaking partnerships with Cinda Sparling in New York and Jack Shirreff in Wiltshire, his late period was marked by a variety of collaborative projects, including designing costumes and stage sets for &lt;i&gt;Pulcinella&lt;/i&gt; in 1987, and textiles and furniture for the Arts Council's 1984 exhibition &lt;i&gt;Four Rooms&lt;/i&gt;. As well as enjoying several well-received retrospective exhibitions around the world, including a number organized by the British Council, Hodgkin began to share his large collection of Indian art, loaning a number of works to the Ashmolean Museum in Oxford. He continued producing new work for exhibition until 2016, the year before his death.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Like many artists working in an abstract painterly style in post-war London, Hodgkin resists easy categorization. Much like the work of his friends and contemporaries John Hoyland or Gillian Ayres, Hodgkin's paintings from the mid-1970s onwards show a highly personal visual style, and it is difficult to trace a direct connection between his oeuvre and those of other, later artists. Nevertheless, a tentative connection can be drawn between his dazzling, gestural paintings and the 'spin paintings' of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;, for example. These works share a vibrant technicolor palette, a commonality that seems significant in the artistic culture of late twentieth century London to which both artists belonged. A posthumous sale of Hodgkin's possessions, held at Sotheby's, London on 24 October 2017 showed that this relationship was partly reciprocal. Hodgkin had in his collection a screen-print by Hirst, &lt;i&gt;All You Need is Love Love Love&lt;/i&gt;. This was inscribed with a message to Hodgkin, thanking him for the painting he contributed to Hirst's charity auction in 2007, held in support of AIDS charities working in Africa.</p>
+          <p type="p">The vibrancy and &lt;i&gt;éclat&lt;/i&gt; of Hodgkin's work, more generally, might be taken as an important enabling condition for the visual playfulness that later characterized the work of the so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-young_british_artists"&gt;Young British Artists&lt;/span&gt;. This loose-knit group was heavily influenced by Michael Craig-Martin, moreover, who taught Hirst, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lucas_sarah"&gt;Sarah Lucas&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hume_gary"&gt;Gary Hume&lt;/span&gt;, among others, at Goldsmiths College in London. Craig-Martin was a contemporary of Hodgkin's, and both artists taught together at the Bath Academy of Art in the 1960s. Incidental connections such as this demonstrate that, despite his highly individual style, Hodgkin spent his career in the thick of British artistic culture, giving and receiving influence in ways which have yet to be fully understood.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Indian Subject (Blue)</title>
+      <year>1965-69</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				This work is a typical example of the semi-abstract, loosely representational style that Hodgkin developed in the 1960s, in which the picture-surface is smooth and flat, constructed from areas of rectilinear, brilliantly colorful paint. A distinction between ground below and sky above is implied by a break between the various outlined shapes suggested in the lower half of the painting - a palm, a pink oval, a yellow circle, a blue triangle - and the flowing area at the top, consisting of reds, pinks and yellows. The work suggests Hodgkin's attempts to visually imbibe the dazzling colors of the Indian subcontinent, which contrasted so strongly with the muted palette he associated with England. It was an ambience he sought to capture frequently for the rest of his career.
+				&lt;br/&gt;&lt;br/&gt;
+				This is the first painting that Hodgkin made using a wooden panel support, an important milestone in the development of his distinctive technique and style. The panel support was significant because it later permitted him to make more gestural applications of the paintbrush. Where a canvas is more responsive to the artist's touch, absorbing some of the paint applied to it, the rigidity of a panel allows the paint to remain pronounced from the support, and for it to retain a clearer impression of the brush that applied it. The title, &lt;i&gt;Indian Subject (Blue)&lt;/i&gt;, indicates that the picture was painted in India, which Hodgkin had first visited in 1964, just a year before starting this work. He noted that the painting represented a scene at Kishangarh in the state of Rajasthan, showing that despite his abstract manner, the inspiration for this painting and others sprang from an immediate and vivid sensory experience. His intention, as such, was that the picture should convey to the viewer something of a personal emotional world rather than a pure, inhuman abstraction.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Grantchester Road</title>
+      <year>1975</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				Like all of Hodgkin's mature work, this painting lies somewhere between representation and abstraction. The title, and certain details of the painting itself, suggest that we are looking into a domestic interior. In the middle of the picture are a chimney breast and perhaps a small fireplace, though both motifs are incorporated into a partly non-representational arrangement of colorful shapes. Hodgkin also used strong patterning to create surface-effects bearing no resemblance to any subject-matter. The spots which dominate this composition - black on orange at the edges, red on blue and orange on the chimney breast - are distinctive of his style of painting during the first mature stage of his career.
+				&lt;br/&gt;&lt;br/&gt;
+				In an interview with Timothy Hyman, Hodgkin once described his working process as "a kind of desperate improvisation", and this is evident in the resounding mixture of color and pattern in &lt;i&gt;Grantchester Road&lt;/i&gt;. Starting from a memory of a place or social interaction, Hodgkin added layer upon layer of paint to his work to try to generate a satisfactory visual expression of that memory. Art historian Frances Spalding has described Hodgkin as "[m]ore concerned with the emotional than the visual reality of the scene[.] Hodgkin deliberately avoids the illustrational and works with shapes that are impersonal [...] forging with these an immediately recognizable personal language".
+				&lt;br/&gt;&lt;br/&gt;
+				The bold arcs of black and pink paint floating at the surface of this work were evidently late additions, not intended to obscure what lay beneath, but rather to enhance the whole picture. Indeed, this additive process - the layering of different patterns and shapes on top of each other - is a distinguishing feature of Hodgkin's practice. It gave his work a very personal appearance, and &lt;i&gt;Grantchester Road&lt;/i&gt; is a marked and highly successful instance of Hodgkin's "desperate improvising".
+			</desc>
+      <collection>Pallant House Gallery, Chichester</collection>
+    </artwork>
+    <artwork>
+      <title>Rain</title>
+      <year>1984-89</year>
+      <materials>Oil on composite panel</materials>
+      <desc>
+				This work, in the style that is perhaps most readily associated with Hodgkin, demonstrates the impressive fluency that he had achieved as a painter by the 1980s. The brushwork in &lt;i&gt;Rain&lt;/i&gt; is broader, his use of color is more focused and cohesive, than in earlier works, and he seems less concerned with suggesting a representational setting, though he continues to generate a subtle sense of depth. As with many of his later works, the painted frame - created with loosely handled applications of a loaded brush - is a prominent feature. We seem to peer through this frame into a central space containing a receding landscape, or perhaps a more abstract space, consisting of a patchwork of single brushstrokes laid on top of one another. Having previously created pictures on a domestic scale, the size of &lt;i&gt;Rain&lt;/i&gt; - nearly two meters wide - partly reflects the institutional recognition and creative freedom that Hodgkin was enjoying at the time. The curator Nicholas Serota wrote at the time of Hodgkin's death that "[a]s his confidence grew his paintings became bigger, and he painted with so much more confidence, almost with abandon."
+				&lt;br/&gt;&lt;br/&gt;
+				Hodgkin had an abiding interest in the manner by which a painting was framed. The effect of the painted frame here is to engage the viewer with a particular and characteristically modernist kind of intimacy. Breaking down the Renaissance theory of the picture as a window into an imaginative space, the incorporation of the frame into the picture suggests the picture's object-like quality: as a thing which hangs on a wall, and can be directly and sensually engaged with. Indeed, because there was often no extraneous frame separating his pictures from the walls on which they hung, Hodgkin paid close attention to the color of gallery-walls when involved with retrospective exhibitions of his work. On various occasions, he hung work against walls of duck-egg blue, dove-grey, green, gold and ultramarine. This concern with wall-color reflects the importance of the new conceptual and technical paradigm that Hodgkin was expressing with self-framed works such as &lt;i&gt;Rain&lt;/i&gt;.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Put Out More Flags</title>
+      <year>1992</year>
+      <materials>Etching and aquatint with carborundum and hand-coloring in tempera</materials>
+      <desc>
+				Though at first sight this work closely resembles one of Hodgkin's oil paintings, it is in fact a print, made using an ingenious process of layering that cunningly imitates the finish of his paintings. The first layer of the print, consisting of the horizontal black and vertical green stripes, was created from a copper plate using a lift-ground etching technique. Unlike conventional aquatint printing, this involves painting the plate with a water-soluble medium, directly applying the design to be transferred to the final print. The next layer, the gritted black and purple form in the center of the print, was created from three aluminum plates covered in carborundum, a hard silicate that achieves a textural finish. Finally, a vivid surface-layer of yellow, blue and orange tempera was created by Hodgkin's collaborator of this period, Jack Shirreff.
+				&lt;br/&gt;&lt;br/&gt;
+				This work shows the sophisticated printmaking procedure that Hodgkin had developed by the later stage of his career. Though printmaking is necessarily repetitive and mechanical, his practice involved both technical skill and handicraft, as is evident in the final layers of hand-applied tempera. This hand-finished aspect resulted in slight variations between each print in the edition; unlike other print-series, no two prints in Hodgkin's editions are identical. He first conceived the idea of hand-finishing his prints in 1977, but achieved a consummate level of technical precision over the following years and decades. Works such as &lt;i&gt;Put Out More Flags&lt;/i&gt; might indicate the important and original contribution that Hodgkin made to twentieth-century printmaking in Britain.
+			</desc>
+      <collection>College Park Corporation, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Come into the Garden, Maud</title>
+      <year>2000-03</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				This late work shows Hodgkin's growing preference for quickly conceived and completed works. As early as 1975, he was revealing the picture support in his work, by choosing not to cover the entire panel surface in paint. With &lt;i&gt;Come into the Garden, Maud&lt;/i&gt;, this strategic disclosure of the frame takes on central significance. Rather than apply paint thickly and in consecutive layers, as he had done with his early work, Hodgkin uses the wooden support as a ground upon which to arrange a constellation of pointillist markings. Though remarkably different from his early work, &lt;i&gt;Come into the Garden, Maude&lt;/i&gt; is still unmistakably a painting by Howard Hodgkin, featuring elaborate patterning and bold application of paint.
+				&lt;br/&gt;&lt;br/&gt;
+				Hodgkin frequently gave his paintings allusive titles, intended to suggest a memory of a place, a person, or a moment. He was notoriously reluctant to explain his paintings, however, and it is often unclear what they refer to, in spite of these teasing references. "Come into the Garden, Maude" is a line from Alfred, Lord Tennyson's poem &lt;i&gt;Maude, A Monodrama&lt;/i&gt; (1857), though the relevance of this to the painting is ambiguous; indeed, in stylistic terms, the piece primarily seems like a homage to the Post-Impressionist styles of late-nineteenth-century France. Hodgkin preferred to convey a mood to his audience, rather than explain what he meant in precise terms. His close friend, the novelist Julian Barnes, once wrote that "[h]is pictures often have titles which seem to imply a narrative. And yet here is the paradox: there is rarely a narrative visible in, or extractable from, his pictures. Sometimes he is teasing us." This pleasurable game of suggesting meaning while withholding it is nowhere more apparent than &lt;i&gt;Come into the Garden, Maude&lt;/i&gt;.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Now</title>
+      <year>2015-16</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				This highly gestural painting was completed in the final year of Hodgkin's working life. It shows the brevity of technique that he had achieved during the last years of his career, using an absolute minimum of visual activity while still delivering a complex finish to his work. This painting offers a playful exposition of the idea of incompleteness: at first, it even seems that the painting may be unfinished, as so much of the panel remains untreated. The blank board isolates and conceptually transforms the paint-surface at its center, turning it from mere paint into a visual document of the activity of painting as such. We seem to witness the artist's act of laying on paint, partly because the imprint of his coarse brush is readily visible in the paint surface - we can see exactly where he laid it - and partly because the process of painting seems to be halted mid-flow. As the work's title suggests, it offers us a frozen moment within the process of painting.
+				&lt;br/&gt;&lt;br/&gt;
+				As with much of Hodgkin's earlier work, however, the work also seems to allude to subject-matter beyond the picture-surface. A recurring impression in Hodgkin's work, for example, is of a dazzling sunset, and the vivid red and yellow in &lt;i&gt;Now&lt;/i&gt; may hint at a distinction between ground and sky. The way in which the two colors overlap in the middle of the work, with the red being allowed to bleed through the yellow, is at once a masterful suggestion of the skyline on a scorching hot day, and a demonstration of the great subtly of execution that Hodgkin retained even into his eighties. Reflecting on the influences on the artist's work, curator Nicholas Serota wrote that "[h]is gift was the way that he married the traditions of 19th-century Impressionism and Post-Impression with the color of his beloved India." This comment effectively evokes the wide variety of creative sources that are brought to bear in works such as &lt;i&gt;Now&lt;/i&gt;.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>degas_edgar</entity>
+        <entity alt="William Scott">scott_william</entity>
+        <entity>de_stael_nicolas</entity>
+        <entity>seurat_georges</entity>
+      </column>
+      <column>
+        <entity>caulfield_patrick</entity>
+        <entity>blake_peter</entity>
+        <entity>hockney_david</entity>
+        <entity alt="John Hoyland">hoyland_john</entity>
+      </column>
+      <column>
+        <entity alt="London Group">london_group</entity>
+        <entity>abstract_expressionism</entity>
+        <entity alt="Intimism">intimism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>hirst_damien</entity>
+      </column>
+      <column>
+        <entity>caulfield_patrick</entity>
+      </column>
+      <column>
+        <entity>young_british_artists</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Writers on Howard Hodgkin</title>
+          <link>1854376748</link>
+          <info>By Enrique Juncosa</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>On Print-Making at 107 Workshop</title>
+          <link>https://howard-hodgkin.com/resource/on-print-making-at-107-workshop</link>
+          <info>
+						By Howard Hodgkin
+						&lt;br&gt;
+						Christie's 
+						&lt;br&gt;
+						2010
+					</info>
+        </entry>
+        <entry>
+          <title>Howard Hodgkin on Seurat</title>
+          <link>http://www.artandarchitecture.org.uk/stories/hodgkin_seurat.html</link>
+          <info>
+						By Howard Hodgkin and John-Paul Stonard
+						&lt;br&gt;
+						Courtauld Institute of Art 
+						&lt;br&gt;
+						2006
+					</info>
+        </entry>
+        <entry>
+          <title>Arboreal Architecture</title>
+          <link>https://howard-hodgkin.com/resource/arboreal-architecture</link>
+          <info>
+						By Howard Hodgkin
+						&lt;br&gt;
+						DESIGN Quarterly 
+						&lt;br&gt;
+						1993
+					</info>
+        </entry>
+        <entry>
+          <title>On Collecting Indian Paintings</title>
+          <link>https://howard-hodgkin.com/indian-collection/resource/on-collecting-indian-paintings</link>
+          <info>
+						By Howard Hodgkin
+						&lt;br&gt;
+						The Ashmolean 
+						&lt;br&gt;
+						1992
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>How to be an artist</title>
+          <link>https://howard-hodgkin.com/resource/how-to-be-an-artist</link>
+          <info>
+						By Howard Hodgkin
+						&lt;br&gt;
+						1981
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Howard Hodgkin: Absent Friends</title>
+          <link>1855147556</link>
+          <info>By Paul Moorhouse</info>
+        </entry>
+        <entry recommended="true">
+          <title>Howard Hodgkin</title>
+          <link>185437639X</link>
+          <info>By Nicholas Serota and James Meyer</info>
+        </entry>
+        <entry>
+          <title>Howard Hodgkin</title>
+          <link>0500092982</link>
+          <info>By Andrew Graham-Dixon</info>
+        </entry>
+        <entry>
+          <title>Howard Hodgkin: The Complete Prints</title>
+          <link>0500284393</link>
+          <info>By Liesbeth Heenk</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Howard Hodgkin's official website</title>
+          <link>https://howard-hodgkin.com/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Howard Hodgkin, at Alan Cristea Gallery</title>
+          <link>https://howard-hodgkin.com/resource/howard-hodgkin-at-alan-cristea-gallery-by-andrew-graham-dixon</link>
+          <info>
+						By Andrew Graham-Dixon
+						&lt;br&gt;
+						The Sunday Telegraph 
+						&lt;br&gt;
+						June 20, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Howard Hodgkin Talks About His Work</title>
+          <link>https://howard-hodgkin.com/resource/howard-hodgkin-talks-about-his-work</link>
+          <info>
+						By Leah Ollson
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						February 11, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Painting from Memory</title>
+          <link>https://howard-hodgkin.com/resource/painting-from-memory-by-richard-cork</link>
+          <info>
+						By Richard Cork
+						&lt;br&gt;
+						The Times 
+						&lt;br&gt;
+						November 2, 1993
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Imagine... A Picture of the Painter Howard Hodgkin (BBC, first broadcast 13 June 2006)</title>
+          <link>https://www.youtube.com/watch?v=FvRtznZ3m1M</link>
+          <info>A documentary with Alan Yentob and Howard Hodgkin, ahead of a retrospective of Hodgkin's work held at Tate Britain in 2006.</info>
+        </entry>
+        <entry>
+          <title>"Sir Howard Hodgkin on his life, work and mortality (2014) - Newsnight Archives" (BBC, first broadcast November 2014)</title>
+          <link>https://www.youtube.com/watch?v=QOKR3-KLpTw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>"Andrew Graham-Dixon and Hodgkin in Conversation"</title>
+          <link>https://www.youtube.com/watch?v=-E5925qh-7k</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>moreau_gustave</id>
+    <name>Gustave Moreau</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1851 - 1898</years>
+    <description>Gustave Moreau's visionary paintings speak to an obsession with the otherworldly, the macabre, and the life of the imagination.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>French</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>April 6, 1826</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>April 18, 1898</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>2/10/2018</pub_time>
+  </main>
+  <includes>
+    <include>symbolism</include>
+    <include>orientalism</include>
+  </includes>
+  <similar_movements>
+    <movement>symbolism</movement>
+    <movement>realism</movement>
+    <movement>orientalism</movement>
+    <movement>fauvism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>degas_edgar</artist>
+    <artist>matisse_henri</artist>
+    <artist>roualt_georges</artist>
+    <artist>puvis_de_chavannes_pierre</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I believe neither in what I touch nor what I see. I only believe in what I do not see, and solely in what I feel."</q>
+    <q>"I have never looked for dream in reality or reality in dream. I have allowed my imagination free play, and I have not been led astray by it."</q>
+    <q>"I am dominated by one thing, an irresistible, burning attraction towards the abstract."</q>
+    <q>"The expression of human feelings and the passions of man certainly interest me deeply, but I am less concerned with expressing the motions of the soul and mind than to render visible, so to speak, the inner flashes of intuition which have something divine in their apparent insignificance and reveal magic, even divine horizons, when they are transposed into the marvellous effects of pure plastic art."</q>
+    <q>"No one could have less faith in the absolute and definitive importance of the work created by man, because I believe that this world is nothing but a dream..."</q>
+    <q>"I love all ecstasies, all aspirations, all humanity's needs. Everything that makes me believe that man suffers and that in this vague suffering of the soul he seeks to raise himself up, delights and moves me. Religion, poetry, art in all its forms, prayer, meditation, love; all the varied forms of ideal love and the needs of the suffering soul."</q>
+    <q>"The career of painter is a true Priesthood"</q>
+  </quotes>
+  <authors>
+    <author link="souter">Anna Souter</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Gustave Moreau's visionary paintings speak to an obsession with the otherworldly, the macabre, and the life of the imagination which resonates across the recent centuries, making him one of the most fascinating of 19&lt;sup&gt;th&lt;/sup&gt;-century painters for modern audiences. Guided partly by his unusual religious faith - which has been called Neo-Platonist, stressing the imperfection and impermanence of the physical world -Moreau set about capturing the products of his imagination on canvas with photographic accuracy. He believed that by so doing, he was allowing divine vision to speak through his brush. Moreau's paintings, normally depicting moments from biblical or mythic narratives, are populated with ambiguous visual symbols - which he took to represent certain desires and emotions in abstract forms - with divine and mortal beings locked in conflict, and with strange visions of sex and suffering. His art predicts not only subsequent movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolism&lt;/span&gt; (of which he was a forerunner) and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, but also the peculiar concerns of our own era, seen to have given free rein to the darkest and most submerged impulses of the human mind.</synopsys>
+    <key_ideas>
+      <idea>By emphasising the importance of imagination to artistic creation, Moreau set himself against the two dominant currents in French painting when he began working in the 1850s: on the one hand, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt; of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, which stressed the depiction of real people and subject matter, and on the other, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt;, whose concern with capturing precisely what the eye saw culminated in the formal innovations of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;.</idea>
+      <idea>Many of Moreau's paintings show Christian symbols and figures interacting with Classical and other pagan elements. In so doing, they express a synthetic - or syncretic - religious imagination which would be common to much art of the late-19&lt;sup&gt;th&lt;/sup&gt; and early-20&lt;sup&gt;th&lt;/sup&gt; centuries, and which also predicts the many cults and new-age religions that follow.</idea>
+      <idea>Moreau's paintings frequently depict two figures locking eyes, their faces and gazes mirroring one another. Often, these forms represent divine and earthly passion in conflict, and are presented as male and female respectively. This technique of mirroring two faces has been seen to predict early-20&lt;sup&gt;th&lt;/sup&gt;-century psychoanalysis in stressing the duality of the human mind: the idea that multiple characters and impulses, some visible, some invisible, might inhabit the same body.</idea>
+      <idea>Moreau's interest in depicting &lt;i&gt;femme fatale&lt;/i&gt; women and physically delicate, androgynous seeming men, was echoed in &lt;i&gt;fin-de-siècle&lt;/i&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-decadent_movement"&gt;Decadent aesthetics&lt;/span&gt; - we can see Moreau-type figures, for example, in the illustrations of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beardsley_aubrey"&gt;Aubrey Beardsley&lt;/span&gt; - and in some ways resembles the unpicking of male and female archetypes in our own era.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Gustave Moreau was born in Paris to a wealthy middle-class family in 1826. His father, an architect, ensured that Moreau received an education in the classics, while his mother, a talented musician, doted on him due to his poor health as a child. She later recalled that he drew incessantly from the age of 8. When he was 13, his sister Camille died, and Moreau was taken out of school because of illness. When he was 15, he visited Italy and quickly developed a keen interest in art, particularly that of Greco-Roman and Byzantine antiquity and the early Italian Renaissance. Later, at around the age of 18, he studied with François-Édouard Pico, the Neoclassical painter, and prepared for the entrance exam to the École des Beaux-Arts in Paris.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">Moreau gained a place at the École des Beaux-Arts in 1846, studying there for three years. Twice, in 1848 and 1849, he entered the prestigious Prix de Rome, but failed to win both times. Over the next couple of years, Moreau studied paintings at the Musée du Louvre, and across the early 1850s he completed a few government commissions.</p>
+          <p type="p">In 1851, Moreau befriended the painter Théodore Chassériau, who had studied under &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt;. Moreau was deeply influenced by Chassériau's work - particularly his interest in combining elements of neo-classical and romantic aesthetics - and set up a studio next door to him. This was a key period for Moreau's artistic development, and in 1852 his work was exhibited in the official Salon for the first time. In the same year, his parents bought him a house in Paris, at 14 Rue de La Rochefoucauld (now the Musée National Gustave Moreau). He established a studio on the third floor, which remained his base for most of the rest of his life. In 1856, Moreau's close friend and mentor Théodore Chassériau died at the young age of 37.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Portrait of Gustave Moreau by Edgar Degas (circa 1860)" show="1">/images20/photo/photo_moreau_gustave_1.jpg</p>
+          <p type="p">Soon after the death of Chassériau, Moreau returned to Italy, where he travelled extensively, studying the art of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerist&lt;/span&gt; masters. In early 1858, Moreau met the young &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt; in Rome, and the two struck up a friendship, later travelling to Siena and Pisa together. Both had a significant influence on the other's work, and each created at least one portrait of the other. Later, their aesthetics developed in very different ways, as evident from a comment of Degas's, reported by the French poet Paul Valéry: "He would have us believe that the Gods wore watch chains." But the two men remained friendly in later life despite their artistic differences.</p>
+          <p type="img" alt="Photograph of Alexandrine Dureux (1883)" show="1">/images20/photo/photo_moreau_gustave_2.jpg</p>
+          <p type="p">Moreau returned to Paris in 1859, upon which he met Alexandrine Dureux. The pair's relationship is not well-understood, partly because Moreau burned their correspondence upon Dureux's death. However, Moreau described her as his "best and only friend", and introduced her to drawing. Even though they were together for over 20 years, they never married, for unknown reasons; though some critics have suggested that Moreau might have been homosexual.</p>
+          <p type="p">In 1864, Moreau showed &lt;i&gt;Oedipus and the Sphinx&lt;/i&gt; at the Salon. The work brought Moreau to popular and critical attention, and confirmed his position as a serious member of the art establishment, marking the beginning of his mature career. Indeed, is worth noting that Moreau had nothing to do with the symbolic rejection of state-sanctioned taste by the artists who had established the so-called Salon des Refusés the previous year. &lt;i&gt;Oedipus&lt;/i&gt; was initially purchased by Prince Napoléon, first cousin of Emperor Napoleon III.</p>
+          <p type="img" alt="Moreau's &lt;i&gt;Self-portrait&lt;/i&gt; (1872)" show="1">/images20/photo/photo_moreau_gustave_3.jpg</p>
+          <p type="p">In 1869 Moreau exhibited &lt;i&gt;Prometheus&lt;/i&gt; and &lt;i&gt;Europe&lt;/i&gt; at the annual Salon. Although he won a medal for these paintings, critics reviewed the work harshly, and in response, Moreau retreated to his studio for several years: a period of seclusion which perhaps contributed to a later image of him as a mysterious hermit. During this time, Moreau explored radical new directions for his painting, resulting in a triumphant return to the Salon in 1876 with &lt;i&gt;The Apparition&lt;/i&gt;. He received a number of official honors over the following years, becoming an Officier de la Légion d'Honneur in 1883. The following year, Moreau's mother, to whom he was very close, died, plunging the artist into despair.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">In 1886, the poet Jean Moréas published the Symbolist Manifesto ("Le Symbolisme"). Although the movement was primarily concerned with poetry (naming &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mallarme_stephane"&gt;Stéphane Mallarmé&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-verlaine_paul"&gt;Paul Verlaine&lt;/span&gt; as the key literary leaders of the movement), the Symbolists adopted Moreau as an artistic figurehead, and Moreau has been associated with literary as well as artistic Symbolism ever since. This is partly because of Joris-Karl Huysmans' influential 1884 novel &lt;i&gt;À Rebours&lt;/i&gt; ("Against the Grain"), in which he dedicates a whole chapter to Moreau's art.</p>
+          <p type="img" alt="&lt;i&gt;The Study of Gustave Moreau&lt;/i&gt; (1894-5) by Henri Matisse" show="1">/images20/photo/photo_moreau_gustave_4.jpg</p>
+          <p type="p">In 1888, Moreau was elected to the Académie des Beaux-Arts. Two years later Alexandrine died. Deeply saddened, Moreau painted &lt;i&gt;Orpheus at the Tomb of Eurydice&lt;/i&gt; (1891) in her memory. Between 1892 and his death in 1898 he was a professor at the École des Beaux-Arts, where his students included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-roualt_georges"&gt;Georges Roualt&lt;/span&gt;, Georges Desvallières, René Piot, and other artists associated with the Fauvist movement. The most famous of them, Matisse, noted that Moreau's approach to teaching was revolutionary, as he made his pupils visit Paris's great museums as part of their training. Indeed, although most accounts of Moreau's life describe it as hermit-like, almost devoid of incident, his pupils' recollections paint a picture of an inspiring and genial figure. He also dedicated the final years of his life to planning for his Parisian home to be transformed into a museum, containing both finished and unfinished work as well as the objects and furniture of his everyday life.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Photograph of Gustave Moreau" show="1">/images20/photo/photo_moreau_gustave_5.jpg</p>
+          <p type="p">Moreau's influence can be found in the work of an unusually diverse range of artists and writers. Henri Matisse, an artist who revolutionized modern art, claimed that Moreau's teaching was fundamental to his artistic development: "He didn't set his pupils on the right road, he took them off it. He made them uneasy...He didn't show us how to paint; he roused our imagination." Another favored pupil, the painter George Roualt - who, like Matisse, was associated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt; in the early-20&lt;sup&gt;th&lt;/sup&gt; century - spoke of Moreau's great respect for the individual style and vision of each artist he tutored.</p>
+          <p type="p">The Gustave Moreau Museum remains open to visitors today, and offers a chance to see unfinished works, illustrations, and intriguing experimental sketches and watercolors that verge on abstraction. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;, the founder of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, visited the museum as a teenager, and was strongly affected the experience: "My discovery, at the age of sixteen, of the Gustave Moreau museum influenced forever my idea of love... Beauty and love were first revealed to me there through the medium of a few faces, the poses of a few women." Moreau's interest in dreams and his attempts to express an abstract emotional state through form, color and juxtaposition would be a significant influence on Breton and other Surrealists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;.</p>
+          <p type="p">Moreau's influence can also be sensed in literary circles. As well as Joris-Karl Huysmans, responses to Moreau can be found in the work of Cuban-born French poet José-Maria de Heredia, who wrote sonnets inspired by the artist's painting, and in the writings of Marcel Proust, a frequent visitor to Moreau's home.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="ingres_jean_auguste_dominique">Oedipus and the Sphinx (1808-27)</artwork>
+    <artwork from="artist" page="matisse_henri">The Woman with a Hat (1905)</artwork>
+    <artwork from="artist" page="dali_salvador">The Persistence of Memory (1931)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Oedipus and the Sphinx</title>
+      <year>1864</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting, which marks the beginning of Moreau's mature period, offered a daring new interpretation of a famous scene from Greek mythology. The tragic hero Oedipus is accosted &lt;i&gt;en route&lt;/i&gt; from Corinth to Thebes - where, having just killed his father Laius, he will marry his mother Jocasta in unwitting fulfilment of divine prophecy - by a fabulous beast with the head and breasts of a woman, the ornate plumage of a bird of prey, the body of a lion, and the tail of a serpent. As the creature claws her way up his nude body, Oedipus and the sphinx hold each other's gaze.
+				&lt;br/&gt;&lt;br/&gt;
+				The neo-classical painter Ingres had depicted the same subject in &lt;i&gt;Oedipus Explaining the Enigma of the Sphinx&lt;/i&gt; (1808), and Moreau's version pays homage to the older artist while offering several points of formal and thematic departure. In contrast to Ingres's direct treatment of a key scene from the Oedipus narrative - the confident, muscled protagonist leaning forwards to solve the sphinx's riddle, thus saving his own life and liberating the citizens of Thebes from her curse - Moreau offers a density and obscurity of symbolic detail well beyond the inherited tropes of history painting. Through suggestive but ambiguous features such as the fig tree at bottom-left, the butterfly and chalice to Oedipus's right, and the snake twining around the pedestal, Moreau presents a scene which seems to exist outside the naturalistic, time-bound realm of historical and mythic narrative, instead occupying a strange and timeless dream-world.
+				&lt;br/&gt;&lt;br/&gt;
+				In composing the piece, Moreau opted for a deliberately archaic effect, emulating early Renaissance painters such as Andrea Mantegna. Both the steep spires of rock in the background, for example, and what the critic Peter Cooke calls the "wiry, linear style" of the composition, suggest Mantegna's influence. Other critics have suggested biographical and sociological influences on the painting. Moreau's father had died a few months before he began the piece, just as Oedipus's father has died, shortly before the scene depicted. The dominant body language of the sphinx, meanwhile - clawing her way up the hero's chest - has been seen to express fears of the growing political and cultural influence of women in mid-19&lt;sup&gt;th&lt;/sup&gt;-century France.
+				&lt;br/&gt;&lt;br/&gt;
+				This work marks a new direction both for Moreau and for French painting in general. As well as rejecting the contemporary tropes of Realism and Naturalism, Moreau predicted, and in a sense established, some of the key concepts of Symbolist art, by presenting various seemingly allegorical but stubbornly enigmatic compositional motifs. The realistic representation of dream-like imagery, as well as the subject's later treatment by Sigmund Freud, made this an important work for Surrealist artists such as André Breton.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Orpheus</title>
+      <year>1865</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting, composed a year after the appearance of &lt;i&gt;Oedipus and the Sphinx&lt;/i&gt; at the Paris Salon, which brought Moreau sudden popular and critical acclaim, turns again to Greek mythology for its source-material. Orpheus was a legendary musician whose lyre could hypnotise and charm humans, animals, and gods. Killed and dismembered by Maenads - frenzied female worshippers of Dionysus - his head washes ashore on the Greek island of Lesbos, where it is discovered by a mysterious young woman.
+				&lt;br/&gt;&lt;br/&gt;
+				The story of Orpheus is treated extensively in classical sources such as Ovid's &lt;i&gt;Metamorphoses&lt;/i&gt;. It was also the subject of paintings by Moreau's contemporaries, including Pierre Puvis de Chavannes and Émile Lévy. But whereas a work like Lévy's &lt;i&gt;Death of Orpheus&lt;/i&gt; (c. 1870), showing the hero attacked and floored by dangerous, voluptuous women, offers an emphatic and somewhat one-dimensional mood, Moreau's piece resists easy emotional or moral responses. Its ambiguities revolve around those of the female figure, who seems both respectfully mournful and subtly dangerous. As Symbolist scholar Rosina Naginsky states, "the girl's demure head, with its chaste hairstyle, is contradicted by the sensual, fetishistic appeal that her naked feet offered contemporary male viewers. Is she a Muse or a Maenad, a holy woman or a femme fatale?" That last reading is implied especially by the allusion to the story of Salome in the way she stares directly at the decapitated head. In incorporating this suggestion, Moreau demonstrated his ability to mix the tropes of classical and biblical narrative, while, by implying that Orpheus's mourner might also be his attacker, he rendered the moment depicted in the painting ambiguous, transgressing the typical narrative clarity of 19&lt;sup&gt;th&lt;/sup&gt;-century historical and mythical painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Like &lt;i&gt;Oedipus and the Sphinx&lt;/i&gt;, this painting represents something of a turning point both for French visual art and for Moreau's personal style. Aspects of the concept and composition - the depiction of a decapitated head, the focus on a 'femme fatale' - predict key elements of the Symbolist aesthetic. Later artists such as Odilon Redon would represent the disembodied head as an image of imaginative spirit freed from earthly constraint, while many Symbolist artists were engrossed with the idea of the powerful, dangerous female. Like &lt;i&gt;Oedipus and the Sphinx&lt;/i&gt;, &lt;i&gt;Orpheus&lt;/i&gt; depicts two faces, one male and one female, staring down and mirroring one another. This would become a key motif of Moreau's work.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Apparition</title>
+      <year>1876</year>
+      <materials>Watercolor</materials>
+      <desc>
+				In this painting epitomising the Symbolist and &lt;i&gt;fin-de-siècle&lt;/i&gt; obsession with the biblical story of John the Baptist, Moreau depicts the Judaean princess Salome, who danced provocatively for her father King Herod to win the head of John the Baptist for her mother, Herodias. However, as in many of Moreau's paintings, it is unclear what point in the story this work depicts. Is Salome experiencing a premonition of her seduction's grizzly outcome, or is this a ghostly reminder of a deed already committed?
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Apparition&lt;/i&gt; is, in biographical terms, the product of a period of isolation and creative crisis. After severe criticism of his two paintings &lt;i&gt;Prometheus&lt;/i&gt; and &lt;i&gt;Europe&lt;/i&gt; in the 1869 Salon, Moreau had retreated to the studio to reassess his work. At the same time, in composing the painting he was channelling his reading in orientalist literature, and treatments of the Salome story by writers such as Gustave Flaubert, whose descriptions of the princess in &lt;i&gt;Salammbô&lt;/i&gt; (1862) might have influenced Moreau's choice of robes and head-dress. Representations of this archetypal 'femme fatale' in early Renaissance painting, and by contemporary painters such as Jean-Léon Gérôme and Henri Regnault, were probably also points of reference. Moreau enriched this meshwork of allusions with references to Indian and Asian art, dress and architecture and his characteristic surfeit of strange symbolic detail - notably in the weird iconography of Salome's jewellery - to generate the kind of mysterious, exotic mood typical of Symbolist painting.
+				&lt;br/&gt;&lt;br/&gt;
+				The mystery of the scene is enhanced by elements of the formal composition, particularly the curious posture of the anti-heroine, which at once suggests her mid-dance and in a position of priestly stasis. The rest of the scene is populated by grave, static figures, which, in combination with the diverse cultural sources for the setting, adds to that mysterious sense so often conveyed by Moreau's painting that the scene depicted lies outside narrative history and linear time. The choice of watercolor was idiosyncratic but revelatory, allowing Moreau to portray features such as the dripping blood with mimetic accuracy.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting marks a movement away from the large, centrally placed figures of Moreau's first mature works such as &lt;i&gt;Oedipus and the Sphinx&lt;/i&gt; and &lt;i&gt;Orpheus&lt;/i&gt;, instead placing a larger number of small figures within a richly detailed architectural setting, an arrangement characteristic of his middle period. Once again, male and female protagonists lock gazes with an intensity suggesting an eternal battle between spirit and flesh, a key motif in Moreau's oeuvre. In terms of its wider impact, this painting caused a sensation when displayed in the 1876 Salon, and influenced the subsequent development of Symbolism in both art and literature, particularly after Joris-Karl Huysmans lavished praise on the painting in his genre-defining novel &lt;i&gt;À Rebours&lt;/i&gt; (1884).
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Galatea </title>
+      <year>1880-81</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				The subject of this painting is from Ovid's &lt;i&gt;Metamorphoses&lt;/i&gt;: the story of Galatea, a sea-nymph who is beloved of the grotesque cyclops Polyphemus. Jealous of her affection for the shepherd Acis, Polyphemus crushes Acis to death with a boulder, only for Galatea to turn her dead lover's blood into a river, making him its presiding spirit. Again, foregoing the narrative clarity of earlier history and mythic painting, Moreau depicts an ambiguous or incidental moment in the story, rather than a pivotal scene such as the murder of Acis. While Galatea dreams in a sea-cave, the cyclops (who has three eyes, not one) watches her as she sleeps - or dreams of her in return.
+				&lt;br/&gt;&lt;br/&gt;
+				Moreau's interest in the story of Galatea and Polyphemus, which he explored several times across his career, is evident from two reproductions of Renaissance artworks that hung in his house, one of Raphael's fresco &lt;i&gt;Triumph of Galatea&lt;/i&gt; (1514), the other of Sebastiano del Piombo's &lt;i&gt;Polyphemus&lt;/i&gt; (1512), from whom Moreau perhaps borrowed something of his cyclops's quality of brooding melancholy. Again, in turning to this mythical narrative, Moreau was taking up the mantle of a whole range of historical precursors, including two masters of neo-classical landscape, Nicolas Poussin and Claude Lorrain. But Moreau grants the scene a quality of hallucinatory intensity which sets his work apart from that of his forebears, partly through the alien quality of the aquatic plants which envelop the naked nymph (in fact carefully copied from illustrations of marine botany). This painting generates its dramatic effect partly through ostentatious formal and thematic contrasts: between light and dark, plant and rock, gross and delicate physicality.
+				&lt;br/&gt;&lt;br/&gt;
+				In many works of his middle period, such as &lt;i&gt;The Apparition&lt;/i&gt; and &lt;i&gt;Hercules and the Hydra&lt;/i&gt; (1876), Moreau had depicted small figures enveloped by detailed landscapes or interiors. &lt;i&gt;Galatea&lt;/i&gt; thus represents a return to an earlier focus on large, centrally positioned figures. It was also the last of Moreau's works to be displayed at the Paris Salon, where it was rapturously received in 1880, marking the height of his critical and popular acclaim. This painting now seems highly significant in predicting many of the concerns of subsequent Symbolist art and of Surrealism, notably in its intense focus on the act of dreaming. The art critic Tim Keane has also suggested that the way we, the viewers, are invited to share the cyclops's prurient gaze on the hidden nymph charges the piece with "an 'awareness' of an especially modern kind....[Moreau's] scantily clad figures are secluded, implicating the viewer as a voyeur. Again and again, we become unwitting participants in Moreau's sadomasochistic spectacles, his beatific and brooding reveries."
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Orpheus at the Tomb of Eurydice</title>
+      <year>1891</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This work, painted in homage to the life of Moreau's friend, companion and possible lover Alexandrine Dureux, who died in 1890, depicts the Greek poet-hero Orpheus grieving at the tomb of his wife Eurydice. Blessed with the power to charm gods and men with the music of his lyre, Orpheus persuades the guardians of the underworld, Hades and Persephone, to allow him to retrieve his lover - victim of a fatal viper bite - from the kingdom of the dead. But on arriving back at the surface he looks round at her, thus breaking the condition of his agreement with the Gods and losing Eurydice forever. As in his previous mythical paintings, Moreau does not offer us a clear moment from this narrative. Is Orpheus grieving prior to his journey into the underworld, or after his return, having failed to bring Eurydice back?
+				&lt;br/&gt;&lt;br/&gt;
+				Moreau described the topic of this painting in emotionally charged terms: "The divine singer is quiet forever. The great voice of beings and things is extinguished. The poet has fallen prostrate at the foot of a tree with withered branches, moaning and sorrowful. The soul is alone, it has lost everything that was to it splendor, strength and sweetness, it weeps, giving way to inconsolable solitude." This account suggests the deep affinity he felt for the mourning mythological poet, and the stark simplicity of the composition, perhaps unusual for Moreau, intensifies the drama and emotion of the scene. However, the stylised body language of Orpheus, the strange, autumnal color palette, and the ambiguous narrative function of the painting, give it that otherworldly mystique more characteristic of his work. Attending to both these aspects of the painting, Peter Cooke states: "[i]n its daring, antinaturalistic, saturated colors, in which Orpheus' cold blue drape contrasts with blood-red trees and putrescent green and brown earth, and in its bold, violent paint application, it employs a painterly means to express the intensity of the artist's grief."
+				&lt;br/&gt;&lt;br/&gt;
+				This painting, one of Moreau's most biographically resonant, has also been seen to speak to common concerns of the era. With reference to this piece curator Alexander Sturgis argues that the myth of Orpheus and Eurydice was a popular topic since it "treats universal themes of love and loss and speaks of the power of love and art to overcome death. In the 19&lt;sup&gt;th&lt;/sup&gt; century two aspects of the myth found particular resonance: the idea that great art could spring from tragedy, and the idea that the works of a persecuted artist could live on."
+			</desc>
+      <collection>Musée Gustave Moreau, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Jupiter and Semele</title>
+      <year>1894-95</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Perhaps turning once more, in this late work, to Ovid's &lt;i&gt;Metamorphoses&lt;/i&gt; for source material, Moreau depicts the moment when Semele, Jupiter's mortal lover, is tricked by his jealous wife Hera into asking the God of thunder to appear to her in unfettered form. He is bound by oath to do so, but knows the splendor of the spectacle will kill her. The unclothed Semele is prostrated on Jupiter's lap, as their unborn son Bacchus flies away in front of her. Around this central scene radiates an array of mythical characters, some transposed from other classical stories - such as the Pan-like figure in the foreground - others of Moreau's own conception.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting is the product of sketches produced from 1889 onwards, and shows Moreau's move in his final works towards incorporating finer and finer levels of pictorial detail. Indeed, sections of this canvas are so encrusted with paint that it has been described as having the quality of an embossed or jeweled surface. If, in compositional terms, this painting represents something like the culmination of a style, in thematic terms &lt;i&gt;Jupiter and Semele&lt;/i&gt; is the definitive expression of Moreau's complex, synthetic spirituality. In many ways, the painting resembles a Renaissance altarpiece, particularly in the way the seated god holds our gaze with radiant calm. But Moreau incorporates this Christian symbolism into a painting focused on a Greco-Roman deity, drawing in a myriad of global references, from Egyptian (the sphinxes at bottom-left and right) to Zoroastrian (the three-headed beast above the reclining woman, bottom-right) to post-classical folkloric elements (Hecate, with the symbol of the moon above her head). At the same time, there may be a tribute to British Pre-Raphaelite painters such as Edward Burn-Jones in the depiction, for example, of the woman clasping a lily - a Pre-Raphaelite symbol at this time - to the right of the throne. Overall, the painting is a luxurious visual expression of Moreau's conception of divine insight attained at the expense of earthly desire, as Semele's vision of Jupiter both kills her and binds her to the seated deity.
+				&lt;br/&gt;&lt;br/&gt;
+				As with all of Moreau's mature work, there is a proto-Surrealist intensity in the sheer density and unprecedented oddness of the vision presented. At the same time, the painting sums up a &lt;i&gt;fin-de-siècle&lt;/i&gt; concern with synthetic and syncretic religious systems, manifested in the emergence of mystery cults such as Joséphin Péladan's Mystic Order of the Rose + Croix in 1892.
+			</desc>
+      <collection>Musée Gustave Moreau, Paris</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="François-Édouard Pico">pico_francois_edouard</entity>
+        <entity>ingres_jean_auguste_dominique</entity>
+        <entity>delacroix_eugene</entity>
+        <entity>poussin_nicolas</entity>
+      </column>
+      <column>
+        <entity alt="Théodore Chassériau">chasseriau_theodore</entity>
+      </column>
+      <column>
+        <entity>symbolism</entity>
+        <entity>pre_raphaelites</entity>
+        <entity>romanticism</entity>
+        <entity>neoclassicism</entity>
+        <entity>renaissance</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>redon_odilon</entity>
+        <entity alt="Fernand Khnopff">khnopff_fernand</entity>
+        <entity>dali_salvador</entity>
+        <entity alt="Andre Breton">breton_andre</entity>
+      </column>
+      <column>
+        <entity>degas_edgar</entity>
+        <entity>matisse_henri</entity>
+        <entity alt="Georges Roualt">roualt_georges</entity>
+        <entity alt="Georges Desvallières">desvallieres_georges</entity>
+        <entity alt="René Piot">piot_rene</entity>
+      </column>
+      <column>
+        <entity>symbolism</entity>
+        <entity>decadent_movement</entity>
+        <entity>aesthetic_movement</entity>
+        <entity>fauvism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Gustave Moreau: History, Painting, Spirituality and Symbolism</title>
+          <link>0300204337</link>
+          <info>By Peter Cooke</info>
+        </entry>
+        <entry>
+          <title>Gustave Moreau: Between Epic and Dream</title>
+          <link>0691007349</link>
+          <info>By Genevieve Lacambre</info>
+        </entry>
+        <entry>
+          <title>Gustave Moreau: The Assembler of Dreams</title>
+          <link>2867701945</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Paint is the Language of God: The Gospel According to Gustave Moreau</title>
+          <link>https://hyperallergic.com/285470/paint-is-the-language-of-god-the-gospel-according-to-gustave-moreau/</link>
+          <info>
+						By Tim Keane
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						March 26, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Stairway to Heaven: Life After Death for the Mysterious Gustave Moreau</title>
+          <link>http://www.atlasobscura.com/articles/stairway-to-heaven</link>
+          <info>
+						By Allison Meier
+						&lt;br&gt;
+						Atlas Obscura 
+						&lt;br&gt;
+						June 20, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>The Story in Paintings: Gustave Moreau and the Dissolution of History</title>
+          <link>https://eclecticlight.co/2016/02/02/the-story-in-paintings-gustave-moreau-and-the-dissolution-of-history/</link>
+          <info>
+						The Eclectic Light Company
+						&lt;br&gt;
+						February 2, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Dream House</title>
+          <link>http://www.nytimes.com/2006/03/19/travel/tmagazine/dream-house.html</link>
+          <info>
+						By Adam Leith Gollner
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						19 March, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Interrogating Gustave Moreau's Sphinx: Myth as Artistic Metaphor in the 1864 Salon</title>
+          <link>http://www.19thc-artworldwide.org/spring08/39-spring08/spring08article/110-interrogating-gustave-moreaus-sphinx-myth-as-artistic-metaphor-at-the-1864-salon</link>
+          <info>
+						By Scott C. Allan
+						&lt;br&gt;
+						Nineteenth-Century Art Worldwide
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Gustave Moreau's Art and the Men Who Love It</title>
+          <link>https://www.youtube.com/watch?v=Bx5p7CG_yco</link>
+          <info>Williams College lecture by Thadeus Dowad on the Symbolism in Moreau's work: The Apparition</info>
+        </entry>
+        <entry>
+          <title>Gustave Moreau - 1826-1898 - Documentaire de 1961</title>
+          <link>https://www.youtube.com/watch?v=93NW4xpTza4</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

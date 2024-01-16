@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>dada</id>
+    <name>Dada</name>
+    <type>movement</type>
+    <head_title>Dada Movement</head_title>
+    <is_influences>false</is_influences>
+    <active_section>movements</active_section>    
+    <keywords>dada, art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy, dada, duchamp, ray, arp, picabia, tzara, henning</keywords>
+    <title>Dada Movement Overview and Key Ideas</title>
+    <bio_title>Dada Movement Development, Concepts, Influence</bio_title>
+    <art_title>Dada - Important Paintings, Collages, Photos</art_title>
+    <big_bio_box_img>Detail of &lt;i&gt;L.H.O.O.Q.&lt;/i&gt; (conceived in 1919) by Marcel Duchamp</big_bio_box_img>
+    <description>Dada's mockery, wit, and absurdity powerfully criticized European culture and opened new ways to make art. Revolutionary ideas by Duchamp, Ray, Hoch, Tzara+</description>
+    <art_description>Top Dada art, performances, paintings, photos and collages with analysis, achievements, and overall contributions to the arts.</art_description>
+    <additional_artwork_link>http://www.artcyclopedia.com/history/dada.html</additional_artwork_link>
+    <use_big_images>false</use_big_images>
+    <image_desc>true</image_desc>    
+    <highlight>4</highlight>
+    <start>1916</start>
+    <end>1924</end>
+    <artist_timeline>true</artist_timeline>
+    <img_version>?4</img_version>
+    <bio_highlight>Aiming to both to help to stop the war and to vent frustration with the nationalist and bourgeois conventions Dada artists ultimately revolutionized the artmaking of the future.</bio_highlight>
+    <art_type>Art</art_type>
+    <pub_time>1/21/2012</pub_time>
+	<custom_logo>true</custom_logo>
+  </main>
+  <similar_artists>
+    <artist>rauschenberg_robert</artist>
+    <artist>banksy</artist>
+    <artist>cattelan_maurizio</artist>
+    <artist>creed_martin</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>dada_and_surrealist_photography</movement>
+    <movement>surrealism</movement>
+    <movement>neo_dada</movement>
+    <movement>pop_art</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>dada_and_surrealist_photography</entry>
+    <entry>performance_art</entry>
+    <entry>neo_dada</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="picabia_francis">"DADA, as for it, it smells of nothing, it is nothing, nothing, nothing."</q>
+    <q author="Dada Maxim">"The history of art is a parody of the history of politics."</q>
+    <q author="Kurt Schwitters">"I feel sorry for nonsense, because up to now it has so seldom been artistically molded.."</q>
+    <q author="Tristan Tzara">"Dada does not mean anything.. We read in the papers that the Negroes of the Kroo race call the tail of the sacred cow: dada. A cube, and a mother, in certain regions of Italy, are called: Dada. The word for a hobby-horse, a children's nurse, a double affirmative in Russian and Rumanian, is also: Dada."</q>
+    <q author="Tristan Tzara">"The beginnings of Dada, were not the beginnings of art, but of disgust."</q>
+    <q author="Hugo Ball's manifesto">"Words emerge, shoulders of words, legs, arms, hands of words. Au, oi, uh. One shouldn't let too many words out. A line of poetry is a chance to get rid of all the filth that clings to this accursed language, as if put there by stockbrokers' hands, hands worn smooth by coins. I want the word where it ends and begins. Dada is the heart of words."</q>
+    <q author="Hans Arp">"We attempted perfection; we wanted an object to be without flaw, so we cut the papers with a razor, pasted them down meticulously, but it buckled and was ruined... that is why we decided to tear prewrinkled paper, so that in the finished work of art imperfection would be an integral part, as if at birth death were built in."</q>
+    <q author="Hugo Ball">"Every word that is spoken and sung here (the Cabaret Voltaire) represents at least this one thing: that this humiliating age has not succeeded in winning our respect."</q>
+    <q author="Francis Picabia">"Dada is like your hopes: nothing&lt;br/&gt;
+like your paradise: nothing&lt;br/&gt;
+like your idols: nothing&lt;br/&gt;
+like your heroes: nothing&lt;br/&gt;
+like your artists: nothing&lt;br/&gt;
+like your religions: nothing"</q>
+    <q author="Tristan Tzara - Dada Manifesto 1918">"I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way"</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Dada was an artistic and literary movement that began in Zürich, Switzerland. It arose as a reaction to World War I and the nationalism that many thought had led to the war. Influenced by other &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; movements - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt; - its output was wildly diverse, ranging from performance art to poetry, photography, sculpture, painting, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt;. Dada's aesthetic, marked by its mockery of materialistic and nationalistic attitudes, proved a powerful influence on artists in many cities, including Berlin, Hanover, Paris, New York, and Cologne, all of which generated their own groups. The movement dissipated with the establishment of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, but the ideas it gave rise to have become the cornerstones of various categories of modern and contemporary art.</synopsys>
+    <key_ideas>
+      <idea>Dada was the direct antecedent to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art movement&lt;/span&gt;, where the focus of the artists was not on crafting aesthetically pleasing objects but on making works that often upended bourgeois sensibilities and that generated difficult questions about society, the role of the artist, and the purpose of art.</idea>
+      <idea>So intent were members of Dada on opposing all norms of bourgeois culture that the group was barely in favor of itself: "Dada is anti-Dada," they often cried. The group's founding in the Cabaret Voltaire in Zürich was appropriate: the Cabaret was named after the 18&lt;sup&gt;th&lt;/sup&gt; century French satirist, Voltaire, whose novella &lt;/i&gt;Candide&lt;/i&gt; mocked the idiocies of his society. As &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ball_hugo"&gt;Hugo Ball&lt;/span&gt;, one of the founders of both the Cabaret and Dada wrote, "This is our &lt;i&gt;Candide&lt;/i&gt; against the times."</idea>
+      <idea>Artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans Arp&lt;/span&gt; were intent on incorporating chance into the creation of works of art. This went against all norms of traditional art production whereby a work was meticulously planned and completed. The introduction of chance was a way for Dadaists to challenge artistic norms and to question the role of the artist in the artistic process.</idea>
+      <idea>Dada artists are known for their use of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt; - everyday objects that could be bought and presented as art with little manipulation by the artist. The use of the readymade forced questions about artistic creativity and the very definition of art and its purpose in society.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="img" alt="The infamous Cabaret Voltaire" show="1">/images20/photo/dada_119.jpg</p>
+          <p type="p">Switzerland was neutral during WWI with limited censorship and it was in Zürich that Hugo Ball and Emmy Hennings founded the Cabaret Voltaire on February 5, 1916 in the backroom of a tavern on Spiegelgasse in a seedy section of the city. In order to attract other artists and intellectuals, Ball put out a press release that read, "Cabaret Voltaire. Under this name a group of young artists and writers has formed with the object of becoming a center for artistic entertainment. In principle, the Cabaret will be run by artists, guests artists will come and give musical performances and readings at the daily meetings. Young artists of Zürich, whatever their tendencies, are invited to come along with suggestions and contributions of all kinds." Those who were present from the beginning in addition to Ball and Hennings were &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans Arp&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-janco_marcel"&gt;Marcel Janco&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-huelsenbeck_richard"&gt;Richard Huelsenbeck&lt;/span&gt;.</p>
+          <p type="p">In July of that year, the first Dada evening was held at which Ball read the first manifesto. There is little agreement on how the word Dada was invented, but one of the most common origin stories is that &lt;span class="marked_text chart-tooltip-target-top tooltip_id-huelsenbeck_richard"&gt;Richard Huelsenbeck&lt;/span&gt; found the name by plunging a knife at random into a dictionary. The term "dada" is a colloquial French term for a hobbyhorse, yet it also echoes the first words of a child, and these suggestions of childishness and absurdity appealed to the group, who were keen to put a distance between themselves and the sobriety of conventional society. They also appreciated that the word might mean the same (or nothing) in all languages - as the group was avowedly internationalist.</p>
+          <p type="p">The aim of Dada art and activities was both to help to stop the war and to vent frustration with the nationalist and bourgeois conventions that had led to it. Their anti-authoritarian stance made for a protean movement as they opposed any form of group leadership or guiding ideology.</p>
+        </subsection>
+        <subsection title="The Spread of Dada">
+          <p type="img" alt="Parties at Cabaret Voltaire" show="0">/images20/photo/dada_cafe_voltaire.jpg</p>
+          <p type="p">The artists in Zürich published a Dada magazine and held art exhibits that helped spread their anti-war, anti-art message. In 1917, after Ball left for Bern to pursue journalism, Tzara founded Galerie Dada on Bahnhofstrasse where further Dada evenings were held along with art exhibits. Tzara became the leader of the movement and began an unrelenting campaign to spread Dada ideas, showering French and Italian writers and artists with letters. The group published an art and literature review entitled &lt;i&gt;Dada&lt;/i&gt; starting in July 1917 with five editions from Zürich and two final ones from Paris. Their art was focused on performance and printed matter.</p>
+          <p type="p">Once the war ended in 1918, many of the artists returned to their home countries, helping to further spread the movement. The end of Dada in Zürich followed the Dada 4-5 event in April 1919 that by design turned into a riot, something that Tzara thought furthered the aims of Dada by undermining conventional art practices through audience involvement in art production. The riot, which began as a Dada event, was one of the most significant. It attracted over 1000 people and began with a conservative speech about the value of abstract art that was meant to anger the crowd. This was followed by discordant music and then several readings that encouraged crowd participation until the crowd lost control and began to destroy several of the props. Tzara described it thus: "the tumult is unchained hurricane frenzy siren whistles bombardment song the battle starts out sharply, half the audience applaud the protestors hold the hall . . . chairs pulled out projectiles crash bang expected effect atrocious and instinctive . . . Dada has succeeded in establishing the circuit of absolute unconsciousness in the audience which forgot the frontiers of education of prejudices, experienced the commotion of the New. Final victory of Dada." For Tzara the key to the success of a riot was audience involvement so that attendees were not just onlookers of art, but became involved in its production. This was a total negation of traditional art.</p>
+          <p type="img" alt="André Breton in 1920, at a Dada festival in Paris wearing a sign designed by Francis Picabia" show="1">/images20/photo/dada_333.jpg</p>
+          <p type="p">Soon after this, Tzara traveled to Paris, where he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt; and began formulating the theories that Breton would eventually put together in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;. Dadaists did not self-consciously declare micro-regional movements; the spread of Dada throughout various European cities and into New York can be attributed to a few key artists, and each city in turn influenced the aesthetics of their respective Dada groups.</p>
+        </subsection>
+        <subsection title="Germany">
+          <p type="p">In 1917, Huelsenbeck returned from Zürich to found Club Dada in Berlin, which was active from 1918 to 1923, and included attendees such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baader_johannes"&gt;Johannes Baader&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-grosz_george"&gt;George Grosz&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hoch_hannah"&gt;Hannah Höch&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hausmann_raoul"&gt;Raoul Hausmann&lt;/span&gt;. Closer to a war zone, the Berlin Dadaists came out publicly against the Weimar Republic and their art was more political: satirical paintings and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collages&lt;/span&gt; that featured wartime imagery, government figures, and political cartoon clippings recontextualized into biting commentaries. In February of 1918, Huelsenbeck gave his first Dada speech in Berlin and several journals, including &lt;i&gt;Club Dada&lt;/i&gt; and &lt;i&gt;Der Dada&lt;/i&gt;, were published that year along with a manifesto in April. The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photomontage"&gt;photomontage&lt;/span&gt; technique was developed in Berlin during this period. In 1920 Hausmann and Huelsenbeck give a lecture tour in Dresden, Hamburg, Leipzig, and Prague. The "Erste Internationale Dada-Messe" was held in June.</p>
+          <p type="p">Kurt Schwitters, excluded from the Berlin group likely because of his links to Der Sturm gallery and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionist&lt;/span&gt; style, both of which were seen as antithetical to Dada because of their Romanticism and focus on aesthetics, formed his own Dada group in Hannover in 1919, though he was its only practitioner. His &lt;i&gt;Merz&lt;/i&gt;, as he termed his art, was less politically oriented than that of the Club Dada; his works instead examine modernist preoccupations with shape and color.</p>
+          <p type="img" alt="Opening of the Ernst exhibition at the gallery Au Sans Pareil, Paris (1921). From left: René Hilsum, Benjamin Péret, Serge Charchoune, Philippe Soupault on top of the ladder, Jacques Rigaut (upside down), and André Breton" show="1">/images20/photo/dada_66.jpg</p>
+          <p type="p">Another Dada group was formed in Cologne in 1918 by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt; and Johannes Theodor Baargeld. Importantly, Hans Arp joined the next year and made breakthroughs in his collage experiments. Their exhibits focused on anti-bourgeois and nonsensical art. In 1920, one such exhibit was closed down by the police. By 1922, German Dada was winding down. In that year, Ernst left Cologne for Paris, thus dissolving that group. Others became interested in other movements. A "Congress of the Constructivists", for example, was held in Weimar in October of 1922, which was attended by a number of the German Dadaists and in 1924, Breton published the Surrealist manifesto after which many of the remaining Dadaists joined that movement. Schwitter's &lt;i&gt;Merz&lt;/i&gt; publication continued sporadically for several years.</p>
+        </subsection>
+        <subsection title="Paris">
+          <p type="p">After hearing of the Dada movement in Zürich, a number of Parisian artists including Andre Breton, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aragon_louis"&gt;Louis Aragon&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eluard_paul"&gt;Paul Eluard&lt;/span&gt;, and others become interested. In 1919 Tzara left Zürich for Paris and Arp arrived there from Cologne the next year; a "Dada festival" took place in May 1920 after many of the originators of the movement had converged there. There were several demonstrations, exhibitions, and performances organized along with manifestos and journals published, including &lt;i&gt;Dada&lt;/i&gt; and &lt;i&gt;Le Cannibale&lt;/i&gt;.</p>
+          <p type="img" alt="The Dada group in Paris (1922)" show="0">/images20/photo/dada_1.jpg</p>
+          <p type="p">Picabia and Breton withdrew from the movement in 1921 and Picabia published a special issue of &lt;i&gt;391&lt;/i&gt; in which he claimed that Paris Dada had become the thing it originally fought against: a mediocre established movement. He wrote: "The Dada spirit really only existed between 1913 and 1918 . . . In wishing to prolong it, Dada became closed . . . Dada, you see, was not serious... and if certain people take it seriously now, it's because it is dead! . . . One must be a nomad, pass through ideas like one passes through countries and cities." Paris Dada published a counter-attack under the direction of Tzara. Two final Dada stage performances are held in Paris in 1923 before the group collapsed into internal infighting and ceded to Surrealism.</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; provided a crucial creative link between the Zürich Dadaists and Parisian proto-Surrealists, like Breton. The Swiss group considered Marcel Duchamp's &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt; to be Dada artworks, and they appreciated Duchamp's humor and refusal to define art.</p>
+        </subsection>
+        <subsection title="New York">
+          <p type="p">Like Zürich during the war, New York City was a refuge for writers and artists. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt; arrived in the city only days apart in June of 1915 and soon after met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;. Duchamp served as a critical interlocutor, bringing the notion of anti-art to the group where it took a decidedly mechanistic turn. One of his most important pieces, &lt;i&gt;The Large Glass or Bride Stripped Bare by her Bachelors, Even&lt;/i&gt;, was begun in New York in 1915 and is considered to be a major milestone for its depiction of a strange, erotic drama using mechanical forms.</p>
+          <p type="p">By 1916 Duchamp, Picabia, and Man Ray were joined by the American artist Beatrice Wood and the writers Henri-Pierre Roche and Mina Loy. Much of their anti-art activity took place in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz's&lt;/span&gt; 291 gallery and at the studio of Walter and Louise Arensberg. Their publications, such as &lt;i&gt;The Blind Man&lt;/i&gt;, &lt;i&gt;Rongwrong&lt;/i&gt;, and &lt;i&gt;New York Dada&lt;/i&gt; challenged conventional museum art with more humor and less bitterness than European groups. It was during this period that Duchamp began exhibiting &lt;i&gt;readymades&lt;/i&gt; (found objects) such as a bottle rack, and got involved with the Society of Independent Artists. In 1917 he submitted &lt;i&gt;Fountain&lt;/i&gt; to the Society of Independent Artists show.</p>
+          <p type="p">Picabia's travels helped tie New York, Zürich and Paris groups together during the Dadaist period. From 1917 through 1924 he also published the Dada periodical &lt;i&gt;391&lt;/i&gt;, which was modeled on Stieglitz's &lt;i&gt;291&lt;/i&gt; periodical. Picabia's &lt;i&gt;391&lt;/i&gt; was first published in Barcelona, then in various cities including New York, Zürich, and Paris, depending on his own place of residence and with help from fellow artists and friends in the various cities. The periodical was mainly literary, however, with Picabia being the prime contributor. The 1918 Dada Manifesto had declared: "Every page must explode, whether through seriousness, profundity, turbulence, nausea, the new, the eternal, annihilating nonsense, enthusiasm for principles, or the way it is printed. Art must be unaesthetic in the extreme, useless, and impossible to justify." He broke away from Dada in 1921 as mentioned above. In addition to the special issue of &lt;i&gt;391&lt;/i&gt; in which he attacked Paris Dada in 1921, in the final issue of &lt;i&gt;391&lt;/i&gt; in 1924 Picabia accuses Surrealism of being a fabricated movement, writing that "artificial eggs don't make chickens."</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="">
+          <p type="img" alt="Poster for Salon Dada, Exposition Internationale, Galerie Montaigne, 1921" show="1">/images20/photo/dada_2.jpg</p>
+          <p type="p">Dada artworks present intriguing overlaps and paradoxes in that they seek to demystify artwork in the populist sense but nevertheless remain cryptic enough to allow the viewer to interpret works in a variety of ways. Some Dadaists portrayed people and scenes representationally in order to analyze form and movement. Others, like Kurt Schwitters and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, practiced abstraction to express the metaphysical essence of their subject matter. Both modes sought to deconstruct daily experience in challenging and rebellious ways. The key to understanding Dada works lies in reconciling the seemingly silly, slapdash styles with the profound anti-bourgeois message. Tzara especially fought the assumption that Dada was a statement; yet Tzara and his fellow artists became increasingly agitated by politics and sought to incite a similar fury in Dada audiences.</p>
+        </subsection>
+        <subsection title="Irreverence">
+          <p type="p">Irreverence was a crucial component of Dada art, whether it was a lack of respect for bourgeois convention, government authorities, conventional production methods, or the artistic canon. Each group varied slightly in their focus, with the Berlin group being the most anti-government and the New York group being the most anti-art. Of all the groups, the Hannover group was likely the most conservative.</p>
+        </subsection>
+        <subsection title="Readymades and Assemblage">
+          <p type="img" alt="Duchamp's famous readymade, &lt;i&gt;Bicycle Wheel&lt;/i&gt;, set an example of art marking for many that utilized found, discarded, and repurposed objects in their work." show="1">/images20/photo/dada_5.jpg</p>
+          <p type="p">A &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt; was simply an object that already existed and was commandeered by Dada artists as a work of art, often in the process combined with another readymade, as in Duchamp's &lt;i&gt;Bicycle Wheel&lt;/i&gt;, thus creating an &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;assemblage&lt;/span&gt;. The pieces were often chosen and assembled by chance or accident to challenge bourgeois notions about art and artistic creativity. Indeed, it is difficult to completely separate conceptually the Dada interest in chance with their focus on readymades and assemblage. Several of the readymades and assemblages were bizarre, a quality that made it easy for the group to merge eventually with Surrealism. Other artists who worked with readymades and assemblages include Ernst, Man Ray, and Hausmann.</p>
+          <p type="a_small" alt="Definition: Readymade and The Found Object">/definition/readymade-and-found-object/</p>
+        </subsection>
+        <subsection title="Chance">
+          <p type="p">Chance was a key concept underpinning most of Dada art from the abstract and beautiful compositions of Schwitters to the large assemblages of Duchamp. Chance was used to embrace the random and the accidental as a way to release creativity from rational control, with Arp being one of the earliest and best-known practitioners. Schwitters, for example, gathered random bits of detritus from a variety of locales, while Duchamp welcomed accidents such as the crack that occurred while he was making &lt;i&gt;The Large Glass&lt;/i&gt;. In addition to loss of rational control, Dada lack of concern with preparatory work and the embrace of artworks that were marred fit well with the Dada irreverence for traditional art methods.</p>
+        </subsection>
+        <subsection title="Wit and Humor">
+          <p type="p">Tied closely to Dada irreverence was their interest in humor, typically in the form of irony. In fact, the embrace of the readymade is key to Dada's use of irony as it shows an awareness that nothing has intrinsic value. Irony also gave the artists flexibility and expressed their embrace of the craziness of the world thus preventing them from taking their work too seriously or from getting caught up in excessive enthusiasm or dreams of utopia. Their humor is an unequivocal YES to everything as art.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="img" alt="Max Ernst was one of the leaders of both Dada and Surrealism.  His post-Dada works such as &lt;i&gt;La Pietà ou La révolution la nuit&lt;/i&gt; (1923) connected the two movements and influenced future art." show="1">/images20/photo/dada_9.jpg</p>
+          <p type="p">As detailed above, after the disbanding of the various Dada groups, many of the artists joined other art movements - in particular &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;. In fact, Dada's tradition of irrationality and chance led directly to the Surrealist love for fantasy and expression of the imaginary. Several artists were members of both groups, including Picabia, Arp, and Ernst since their works acted as a catalyst in ushering in an art based on a relaxation of conscious control over art production. Though Duchamp was not a Surrealist, he helped to curate exhibitions in New York that showcased both Dada and Surrealist works.</p>
+          <p type="p">Dada, the direct antecedent to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art movement&lt;/span&gt;, is now considered a watershed moment in 20&lt;sup&gt;th&lt;/sup&gt;-century art. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;Postmodernism&lt;/span&gt; as we know it would not exist without Dada. Almost every underlying postmodern theory in visual and written art as well as in music and drama was invented or at least utilized by Dada artists: art as performance, the overlapping of art with everyday life, the use of popular culture, audience participation, the interest in non-Western forms of art, the embrace of the absurd, and the use of chance.</p>
+          <p type="p">A large number of artistic movements since Dada can trace their influence to the anti-establishment group. Other than the obvious examples of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual art&lt;/span&gt;, these would include &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fluxus"&gt;Fluxus&lt;/span&gt;, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-situationist_international"&gt;Situationist International&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminist_art"&gt;Feminist art&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;. Dada also had a profound influence on graphic design and the field of advertising with their use of collage.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="futurism">The City Rises (1910)</artwork>
+    <artwork from="movement" page="cubism">Still Life with Chair Caning (1912)</artwork>
+    <artwork from="movement" page="neo_dada">Theater Piece No. 1 (1952)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity />
+      </column>
+      <column>
+        <entity />
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity />
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Ici, C'est Stieglitz (Here, This is Stieglitz)</title>
+      <artist>Francis Picabia</artist>
+      <year>1915</year>
+      <materials>Ink, graphite, and cut-and-pasted painted and printed papers on paperboard</materials>
+      <desc>Picabia was a French artist who embraced the many ideas of Dadaism and defined some himself.  He very much enjoyed going against convention and re-defining himself to work in new ways a number of times over a career that spanned over 45 years.  At first he worked closely with Alfred Stieglitz, who gave him his first one-man show in New York City. But later he criticized Stieglitz, as is evident in this "portrait" of the gallerist as a bellows camera, an automobile gear shift, a brake lever, and the word "IDEAL" above the camera in Gothic lettering. The fact that the camera is broken and the gear shift is in neutral has been thought to symbolize Stieglitz as worn out, while the contrasting decorative Gothic wording refers to the outdated art of the past. The drawing is one of a series of mechanistic portraits and imagery created by Picabia that, ironically, do not celebrate modernity or progress, but, like similar mechanistic works by Duchamp, show that such subject matter could provide an alternative to traditional artistic symbolism.</desc>
+      <collection>Alfred Stieglitz Collection</collection>
+      <tooltip>37</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Reciting the Sound Poem "Karawane"</title>
+      <artist>Hugo Ball</artist>
+      <year>1916</year>
+      <materials>Photograph</materials>
+      <desc>Ball designed this costume for his performance of the sound-poem, "Karawane," in which nonsensical syllables uttered in patterns created rhythm and emotion, but nothing resembling any known language. The resulting lack of sense was meant to reference the inability of European powers to solve their diplomatic problems through the use of rational discussion, thus leading to World War I - equating the political situation to the biblical episode of the Tower of Babel. Ball's strange costume is meant to further distance him from his audience and his everyday surroundings, making his speech even more foreign and exotic. Ball described his costume: "My legs were in a cylinder of shiny blue cardboard, which came up to my hips so that I looked like an obelisk. Over it I wore a huge coat cut out of cardboard, scarlet inside and gold outside. It was fastened at the neck in such a way that I could give the impression of wing-like movement by raising and lowering my elbows. I also wore a high, blue-and-white-striped witch doctor's hat."</desc>
+      <collection>Kunsthaus Zürich (reproduction of original photograph)</collection>
+      <tooltip>65</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Untitled (Squares Arranged according to the Laws of Chance)</title>
+      <artist>Hans Arp</artist>
+      <year>1917</year>
+      <materials>Cut-and-pasted colored paper</materials>
+      <desc>Hans Arp made a series of collages based on chance, where he would stand above a sheet of paper, dropping squares of contrasting colored paper on the larger sheet's surface, and then gluing the squares wherever they fell onto the page. The resulting arrangement could then provoke a more visceral reaction, like the fortune telling from I-Ching coins that interested Arp, and perhaps provide a further creative spur. Apparently, this technique arose when Arp became frustrated by attempts to compose more formal geometric arrangements. Arp's chance collages have come to represent Dada's aim to be "anti-art" and their interest in accident as a way to challenge traditional art production techniques. The lack of artistic control represented in this work would also become a defining element of Surrealism as that group tried to find paths into the unconscious whereby intellectual control on creativity was undermined.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <tooltip>95</tooltip>
+    </artwork>
+    <artwork>
+      <title>Fountain</title>
+      <artist>Marcel Duchamp</artist>
+      <year>1917</year>
+      <materials>Urinal</materials>
+      <desc>Duchamp was the first artist to use a readymade and his choice of a urinal was guaranteed to challenge and offend even his fellow artists. There is little manipulation of the urinal by the artist other than to turn it upside-down and to sign it with a fictitious name. By removing the urinal from its everyday environment and placing it in an art context, Duchamp was questioning basic definitions of art as well as the role of the artist in creating it. With the title, &lt;i&gt;Fountain&lt;/i&gt;, Duchamp made a tongue in cheek reference to both the purpose of the urinal as well to famous fountains designed by Renaissance and Baroque artists. In its path-breaking boldness the work has become iconic of the irreverence of the Dada movement towards both traditional artistic values and production techniques. Its influence on later 20&lt;sup&gt;th&lt;/sup&gt;-century artists such as Jeff Koons, Robert Rauschenberg, Damien Hirst, and others is incalculable.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+      <tooltip>128</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>LHOOQ</title>
+      <artist>Marcel Duchamp</artist>
+      <year>1919</year>
+      <materials>Collotype</materials>
+      <desc>This work is a classic example of Dada irreverence towards traditional art. Duchamp transformed a cheap postcard of the Mona Lisa (1517) painting, which had only recently been returned to the Louvre after it was stolen in 1911. While it was already a well-known work of art, the publicity from the theft ensured that it became one of the most revered and famous works of art: art with a capital A. On the postcard, Duchamp drew a mustache and a goatee onto Mona Lisa's face and labeled it L.H.O.O.Q. If the letters are pronounced as they would be by a native French speaker, it would sound as if one were saying "Elle a chaud au cul," which loosely translates as "She has a hot ass." Again, Duchamp managed to offend everyone while also posing questions that challenged artistic values, artistic creativity, and the overall canon.</desc>
+      <collection>Museum Boijmans Van Beuningen, Rotterdam</collection>
+      <tooltip>155</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Cut with a Kitchen Knife Dada through the Last Weimar Beer Belly Cultural Epoch of Germany</title>
+      <artist>Hannah Höch</artist>
+      <year>1919</year>
+      <materials>Cut paper collage</materials>
+      <desc>Hannah Höch is known for her collages and photomontages composed from newspaper and magazine clippings as well as sewing and craft designs often pulled from publications she contributed to at the Ullstein Press. As part of Club Dada in Berlin, Hoch unabashedly critiqued German culture by literally slicing apart its imagery and reassembling it into vivid, disjointed, emotional depictions of modern life. The title of this work, refers to the decadence, corruption, and sexism of pre-war German culture. Larger and more political than her typical montages, this fragmentary anti-art work highlights the polarities of Weimer politics by juxtaposing images of establishment people with intellectuals, radicals, entertainers, and artists. Recognizable faces include Marx and Lenin, Pola Negri, and Kathe Kollwitz. The map of Europe that identifies the countries in which women had already achieved the right to vote suggests that the newly enfranchised women of Germany would soon "cut" through the male "beer-belly" culture. Her inclusion of commercially produced designs in her montages broke down distinctions between modern art and crafts, and between the public sphere and domesticity.</desc>
+      <collection>National Gallery, State Museum of Berlin</collection>
+      <tooltip>168</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>The Spirit of our Time</title>
+      <artist>Raoul Hausmann</artist>
+      <year>1920</year>
+      <materials />
+      <desc>This assemblage represents Hausmann's disillusion with the German government and their inability to make the changes needed to create a better nation. It is an ironic sculptural illustration of Hausmann's belief that the average member of (corrupt) society "has no more capabilities than those which chance has glued to the outside of his skull; his brain remains empty". Thus Hausmann's use of a hat maker's dummy to represent a blockhead who can only experience that which can be measured with the mechanical tools attached to its head - a ruler, a tape measure, a pocket watch, a jewelry box containing a typewriter wheel, brass knobs from a camera, a leaky telescopic beaker of the sort used by soldiers during the war, and an old purse. Thus, there is no ability for critical thinking or subtlety. With its blank eyes, the dummy is a narrow-minded, blind automaton.</desc>
+      <collection />
+      <tooltip>187</tooltip>
+    </artwork>
+    <artwork>
+      <title>Chinese Nightingale</title>
+      <artist>Max Ernst</artist>
+      <year>1920</year>
+      <materials />
+      <desc>
+				Ernst's use of photomontage was less political and more poetic than those of other German Dadaists, creating images based on random associations of juxtaposed images. He described his technique as the "systematic exploitation of the chance or artificially provoked confrontation of two or more mutually alien realities on an obviously inappropriate level - and the poetic spark that jumps across when these realities approach each other".
+				&lt;br/&gt;&lt;br/&gt;
+				Between 1919 and 1920, Ernst made a series of collages that combined illustrations of war machinery with those of human limbs and various accessories to create strange hybrid creatures. Thus the fear generated by weaponry was combined with benign elements and often lyrical titles. This catharsis no doubt had a personal resonance for Ernst who was injured in the war by the recoil of a gun. In &lt;i&gt;The Chinese Nightingale&lt;/i&gt;, for example, the arms and fan of an oriental dancer act as the limbs and headdress of a creature whose body is an English bomb. An eye has been added above the bracket on the side of the bomb to create the effect of a bizarre bird. Thus Ernst's whimsy defuses the fear associated with bombs. The title was taken from a fairy tale by Hans Christian Andersen. 
+			</desc>
+      <collection />
+      <tooltip>200</tooltip>
+    </artwork>
+    <artwork>
+      <title>Merzpicture 46A. The Skittle Picture</title>
+      <artist>Kurt Schwitters</artist>
+      <year>1921</year>
+      <materials>Assemblage of wood, oil, metal, board on board, with artist's frame</materials>
+      <desc>This is an early example of assemblage in which two and three dimensional objects are combined. The word "Merz," which Schwitters used to describe his art practice as well as his individual pieces, is a nonsensical word, like Dada, that Schwitters culled from the word "commerz", the meaning of which he described as follows: "In the war, things were in terrible turmoil. What I had learned at the academy was of no use to me.... Everything had broken down and new things had to be made out of the fragments; and this is Merz". In his &lt;i&gt;Merzpictures&lt;/i&gt;, which have been called "psychological collages," he arranged found objects - usually detritus - in simple compositions that transformed trash into beautiful works of art. Whether the materials were string, a ticket stub, or a chess piece, Schwitters considered them to be equal with any traditional art material. Merz, however, is not ideological, dogmatic, hostile, or political as is much of Dada art.</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+      <tooltip>220</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Rayograph</title>
+      <artist>Man Ray</artist>
+      <year>1922</year>
+      <materials />
+      <desc>
+				Man Ray was an American artist who spent most of his working years in France. He termed his experiments &lt;i&gt;rayographs&lt;/i&gt;, which are photographs made by placing objects directly on sensitized paper and exposing them to light. The random objects leave behind a shadowy imprint that dissociates them from their original context. These works, with their often strange combination of objects and ghostly appearance, reflected the Dada interest in chance and the nonsensical. As other Dada artists liberated painting and sculpture from its traditional role as a representational art, Ray did the same for photography - in his hands it was no longer a mirror of nature.
+				&lt;br/&gt;&lt;br/&gt;
+				Ray's discovery of the rayograph was itself based on chance: after he had forgotten to expose an image and was waiting for an image to appear in the dark room, he placed some objects on the photo paper. Upon seeing them, Tzara called them "pure Dada creations" and they were an instant hit among like-minded artists. While Man Ray did not invent the photogram, his were the most famous.
+			</desc>
+      <collection />
+      <tooltip>245</tooltip>
+      <use_big_image>true</use_big_image>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>picabia_francis</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>duchamp_marcel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ray_man</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hoch_hannah</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>taeuber_arp_sophie</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>breton_andre</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>arp_hans</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hausmann_raoul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>bellmer_hans</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tzara_tristan</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>janco_marcel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>von_freytag_loringhoven_elsa</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ball_hugo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ernst_max</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>schwitters_kurt</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cahun_claude</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="current exhibitions" />
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Dalí and The Surrealists - Master Marketers</title>
+          <link>https://www.theartstory.org/blog/agents-provocateurs-ringleaders-of-the-surrealist-circus/</link>
+          <info>
+						Top 10 marketing stunts by Tristan Tzara, Andre Breton, and Salvador Dalí.
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Gaga for Dada: The Original Art Rebels (2016)</title>
+          <link is_inline_video="true" inline_video_type="youtube">6U6dLK9f3h0</link>
+          <info>BBC Documentary with comedian and television presenter Jim Moir (aka Vic Reeves)</info>
+        </entry>
+        <entry recommended="true">
+          <title>Dada Art Movement History - "Dada on Tour"</title>
+          <link is_inline_video="true" inline_video_type="youtube">2QcemEji-UU</link>
+          <info>History of the Dada art movement screened in the "Dada on Tour" tent at Art Stage Singapore 2016</info>
+        </entry>
+        <entry>
+          <title>Europe after the Rain: Dadaism and Surrealism (1978)</title>
+          <link is_inline_video="true" inline_video_type="youtube">uLL9A0Dhisk</link>
+          <info>Directed by Mick Gold and produced by the Arts Council of Great Britain</info>
+        </entry>
+        <entry>
+          <title>Dada and Surrealism</title>
+          <link is_inline_video="true" inline_video_type="youtube">CGeBUjPdH7I</link>
+          <info>With Dalí Museum Curator of Education Peter Tush</info>
+        </entry>
+        <entry>
+          <title>The ABC's of DADA</title>
+          <link is_inline_video="true" inline_video_type="youtube">EqkIJ0odFxA</link>
+          <info>Overview of the DADA movement</info>
+        </entry>
+        <entry>
+          <title>Dada: Chance &amp; Randomness</title>
+          <link is_inline_video="true" inline_video_type="youtube">k40U4UPiiPs</link>
+          <info>Focus on reason and process of chance in the movement</info>
+        </entry>
+        <entry>
+          <title>WWI, Cabaret Voltaire &amp; the beginnings of Dada</title>
+          <link is_inline_video="true" inline_video_type="youtube">GEBnxWQct24</link>
+          <info>Focus on the Cabaret Voltaire that launched the movement</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Artist Specific Videos:" class="clips">
+        <entry>
+          <title>Marcel Duchamp and Dada Revolution</title>
+          <link is_inline_video="true" inline_video_type="youtube">1b1egysFRoY</link>
+          <info>By independent scholar and author John David Ebert</info>
+        </entry>
+        <entry recommended="true">
+          <title>Picabia and Duchamp on The Machine</title>
+          <link is_inline_video="true" inline_video_type="youtube">5dsJmGbCYTY</link>
+          <info>Part of Shock of the New with art critic Robert Hughes</info>
+        </entry>
+        <entry>
+          <title>Hannah Hoch Intro</title>
+          <link is_inline_video="true" inline_video_type="youtube">2PrXPpr1Yrg</link>
+          <info>Curator Daniel Herrmann of Whitechapel Gallery</info>
+        </entry>
+        <entry>
+          <title>Dada, Kurt Schwitters &amp; The Ursonate</title>
+          <link is_inline_video="true" inline_video_type="youtube">2L6mbZalg8E</link>
+          <info>Segment from the documentary Random Acts of Beauty: The Story of Dada</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Dada: Zürich, Berlin, Hannover, Cologne, New York, Paris</title>
+          <link>0894683136</link>
+          <info>By Dorothea Dietrich, Brigid Doherty, Sabine Kriebel, Leah Dickerman</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Dada Painters and Poets: An Anthology, Second Edition (Paperbacks in Art History)</title>
+          <link>0674185005</link>
+          <info>By Robert Motherwell</info>
+        </entry>
+        <entry>
+          <title>Dada: Art and Anti-Art (World of Art)</title>
+          <link>0500200394</link>
+          <info>By Hans Richter</info>
+        </entry>
+        <entry>
+          <title>Dada &amp; Surrealism (Art and Ideas)</title>
+          <link>0714832618</link>
+          <info>By Matthew Gale</info>
+        </entry>
+        <entry>
+          <title>The DADA Reader: A Critical Anthology</title>
+          <link>0226006980</link>
+          <info>By Dawn Ades</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artists" class="written-by" />
+    </category>
+    <category name="resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>International Dada Archive</title>
+          <link>http://www.lib.uiowa.edu/dada/</link>
+          <info>Project by The University of Iowa Libraries</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>From Dada to Surrealism - Review</title>
+          <link>http://www.guardian.co.uk/artanddesign/2011/jul/19/dada-to-surrealism-dagen-review</link>
+          <info>
+						By Phillippe Dagen
+						&lt;br/&gt;
+						The Guardian Weekly (UK)
+						&lt;br/&gt;
+						July 19, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>No Nonsense about Dada - Review of MoMA Exhibition</title>
+          <link>http://www.wsws.org/articles/2006/sep2006/dada-s18.shtml</link>
+          <info>
+						By Clare Hurley
+						&lt;br/&gt;
+						World Socialist Web Site
+						&lt;br/&gt;
+						September 18, 2006
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Our Art Belongs to Dada</title>
+          <link>http://www.departures.com/articles/our-art-belongs-to-dada</link>
+          <info>
+						By Martin Filler
+						&lt;br/&gt;
+						Departures
+						&lt;br/&gt;
+						March/April 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Dada's Big Mama</title>
+          <link>http://articles.latimes.com/1997-06-22/entertainment/ca-5666_1_hannah-Höch</link>
+          <info>
+						By Leah Ollman
+						&lt;br/&gt;
+						Los Angeles Times
+						&lt;br/&gt;
+						June 22, 1997
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts" />
+      <subcategory name="audio clips" class="audioclips" />
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

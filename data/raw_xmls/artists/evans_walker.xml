@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>evans_walker</id>
+    <name>Walker Evans</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1928 - 1975</years>
+    <description>Photographer Walker Evans pictured American working-class life such as the iconic portrait of Allie Mae Burroughs.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <occupation>Photographer, Writer, and Photojournalist</occupation>
+    <nationality>American</nationality>
+    <birthDate>November 3, 1903</birthDate>
+    <birthPlace>St. Louis, Missouri, USA</birthPlace>
+    <deathDate>April 10, 1975</deathDate>
+    <deathPlace>New Haven, Connecticut, USA</deathPlace>
+    <img_version>?1</img_version>
+    <art_type>Photography</art_type>
+    <pub_time>3/23/2017</pub_time>
+  </main>
+  <includes>
+    <include>modern_photography</include>
+    <include>straight_photography</include>
+    <include>photojournalism</include>
+    <include>documentary_photography</include>
+    <include>political_artists</include>
+  </includes>
+  <similar_movements>
+    <movement>modern_photography</movement>
+    <movement>straight_photography</movement>
+    <movement>social_realism</movement>
+    <movement>political_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>lange_dorothea</artist>
+    <artist>hopper_edward</artist>
+    <artist>shahn_ben</artist>
+    <artist>berenice_abbott</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Stare, pry, listen, eavesdrop. Die knowing something. You are not here long."</q>
+    <q>"When I first made photographs, they were too plain to be considered art and I wasn't considered an artist. I didn't get any attention at all. The people who looked at my work thought, well, that's just a snapshot of the backyard. Privately I knew otherwise and through stubbornness stayed with it."</q>
+    <q>"Whether he is an artist or not, the photographer is a joyous sensualist, for the simple reason that the eye traffics in feelings, not in thoughts."</q>
+    <q>"The matter of art in photography may come down to this: it is the capture and projection of the delights of seeing; it is the defining of observation full and felt."</q>
+    <q>"What I believe is really good in the so-called documentary approach to photography is the addition of lyricism. This quality is usually produced unconsciously and even unintentionally and accidentally by the cameraman."</q>
+    <q>"I used to try to figure out precisely what I was seeing all the time, until I discovered I didn't need to. If the thing is there, why, there it is."</q>
+    <q>"Good photography is unpretentious."</q>
+    <q>"I work rather blindly. I have a theory that seems to work with me that some of the best things you ever do sort of come through you. You don't know where you get the impetus and response to what's before your eyes."</q>
+    <q>"I do like to suggest people sometimes by their absence. I like to make you feel that an interior is almost inhabited by somebody."</q>
+    <q>"I think there is a period of esthetic discovery that happens to a man and he can do all sorts of things at white heat."</q>
+  </quotes>
+  <authors>
+    <author link="lopez">Alicia Lopez</author>
+  </authors>
+  <editors>
+    <editor link="epstein">Ruth Epstein</editor>
+  </editors>
+  <article>
+    <synopsys>The photographs of Walker Evans told the story of American working-class life with an exacting frankness that was truly revolutionary for its time. His iconic portrait of Allie Mae Burroughs - a farmer's wife, and mother of four - whose unforgettable eyes seem to stare right through us - is one of the most firmly embedded images in American consciousness. A staffer at &lt;i&gt;Fortune&lt;/i&gt; and &lt;i&gt;Time&lt;/i&gt; magazines, Evans actually reached the height of his powers toward the end of The Great Depression. Drawing deeply on the American literary tradition, he went further than others in his refusal to romanticize poverty. While they might look like protagonists from American Realist novels (those by William Faulkner or John Steinbeck, for example), his men and women are real people, more firmly immortalized because it takes more time to read a book than see a photograph. Widely acknowledged as one of the greatest photographers of his time, Evans's forthright approach to portraiture and documentary redefined these genres for generations to come, and shaped how a nation remembers itself.</synopsys>
+    <key_ideas>
+      <idea>A great example of the bond between art and literature in the 20&lt;sup&gt;th&lt;/sup&gt; century, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hemingway_ernest"&gt;Ernest Hemingway&lt;/span&gt; shaped Evans's early style. The two became drinking buddies in Cuba, and the unadorned simplicity of Evans's photographs owes much to Hemingway's terse, direct prose.</idea>
+      <idea>Evans was physically slight and small, an advantage that allowed him to take photographs before anyone noticed him. He was also something of a technical wizard, among the first to use increasingly portable cameras and shortened exposure times in the series of surreptitious &lt;i&gt;Subway Portraits&lt;/i&gt;.</idea>
+      <idea>Visual, artistic, and literary sources shaped his views of working-class society. Among the most important of these sources were the painters of New York street life, from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bellows_george"&gt;George Bellows&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hopper_edward"&gt;Edward Hopper&lt;/span&gt;, and documentary photographers like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-riis_jacob"&gt;Jacob Riis&lt;/span&gt; and Lewis Hines. Above all the great &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abbott_berenice"&gt;Berenice Abbott&lt;/span&gt;, one of his staunchest supporters, was an important early touchstone for Evans.</idea>
+      <idea>Initially Evans wanted to become a writer. He remained a profoundly literary thinker. It is important to remember that most of his images were shot for books, magazines, articles, and essays.</idea>
+      <idea>In Evans time, there were essentially two competing philosophies of photography: Documentary vs. Pictorialist. Documentary strove to represent the world as it was, flaws and all; Pictorialism produced a selective, transcendent view of the world, akin to traditional Western painting. Evans's work, a blend of these two philosophies, brought greater nuance to the practice of photography. As he put it, "What I believe is really good in the so-called documentary approach to photography is the addition of lyricism... produced unconsciously and even unintentionally and accidentally by the cameraman."</idea>
+      <idea>His work presents a powerful class-based dilemma. Born into an affluent family, Evans never fully identified with the poor rural farmers he portrayed. In addition to direct observation, he relied heavily on literary sources for his insights, creating a kind of closed-feedback loop that reinforced an outsider's perspective. Critics still cannot agree on whether his photographs facilitate empathy or reinforce distance from the subjects, whose lives were so different from his own. The clinical precision of Evans's work has been interpreted as cold and unfeeling. In his defense, Evans understood this class-based tension years before others picked up on it. Attempts to address it are abundant in his quotes.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Early Period">
+          <p type="p">Born to an affluent family in St. Louis (his father was an advertising executive), Evans began making photographs as a child, and continued as the family moved to Chicago and subsequently Ohio. After a brief stint at Williams College, Evans moved to New York, where he planned to become a poet and novelist. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eliot_ts"&gt;T.S. Eliot&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lawrence_d_h"&gt;D. H. Lawrence&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-joyce_james"&gt;James Joyce&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cummings_ee"&gt;E.E. Cummings&lt;/span&gt; were among his personal heroes. Once in New York, however, he experienced crippling writer's block. He "wanted so much to write" that he "couldn't write a word." Unable to produce, and needing a job, Evans accepted low pay for work at the New York Public Library and several book stores, where he was free to roam and read. After three years of dead-end jobs and no luck in the publishing world, the young man packed up his belongings and set sail for Paris, still planning to realize his literary ambitions.</p>
+          <p type="p">Writing came no more easily to Evans in Paris, but the time was one of great "intellectual stimulus", according to the artist. Having encountered the work of French photographer Eugene Atget and his pupil, Berenice Abbott (two other early-20&lt;sup&gt;th&lt;/sup&gt;-century greats to whom Evans was very much indebted), he was primed to retrace their footsteps through the city of Paris. In 1927 he returned to New York and joined the ranks of an emerging literary circle that was increasingly intertwined with art. It counted amongst its numbers John Cheever, Hart Crane, and Lincoln Kirstein. Stimulated by this community, Evans's budding interest in photography soon became a full-fledged passion. By 1929 he was making ambitious photographs of the city's skyscrapers and machinery and returned to his interest in Atget's work, whose sparse photographs of &lt;i&gt;fin-de-siècle&lt;/i&gt; Paris greatly resonated with his growing disdain for aesthetic gimmickry. Inspired, Evans began to delve even deeper into photography and was soon publishing his work and receiving commissions for photo series.</p>
+          <p type="img" alt="Walker Evans Photo" show="0">/images20/photo/photo_evans_walker_1.jpg</p>
+          <p type="p">In 1933, on one such commission, the artist was sent to Cuba on assignment for Carleton Beals's book &lt;i&gt;The Crime of Cuba&lt;/i&gt; (1933). While on this assignment Evans befriended and drank nightly with Ernest Hemingway, who helped the artist extend his stay in Havana an additional week. The photographs Evans captured of Cuban coastal street life, beggars, and policemen represent the beginning of his shift away from the formalism of European modernism and towards his own distinctive brand of realism. Fearing that some of his photographs might be deemed subversive and thus get confiscated by the Cuban government, before leaving Havana, Evans entrusted 46 photographic prints to his drinking companion, who promptly forgot them. They were rediscovered and exhibited in 2002.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Photography flourished under the Great Depression, thanks to Roosevelt's New Deal, which paid artists to work. The Farm Security Administration (FSA) hired" show="0">/images20/photo/photo_evans_walker_2.jpg</p>
+          <p type="p">Photography flourished under the Great Depression, thanks to Roosevelt's New Deal, which paid artists to work. The Farm Security Administration (FSA) hired Evans alongside other photographers to document the government's improvement efforts in rural communities. Unconcerned with the political ideology behind his assignment, Evans spent the better part of 1935 and 1936 eloquently capturing the aesthetic texture of ordinary life via rural churches, bedrooms, faded signs, and rumpled work clothes. He avoided using upscale equipment. Despite being familiar with and capable of affording the latest technology, Evans used an outdated camera with a very slow lens, just as his idol, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-atget_eugene"&gt;Eugène Atget&lt;/span&gt;, had done in Paris. In 1936 he collaborated with the writer James Agee on an essay with photographs and text documenting tenant farmers for &lt;i&gt;Fortune&lt;/i&gt; magazine. &lt;i&gt;Fortune&lt;/i&gt; never published the material that ensued from this commission, but in 1941 Evans and Agee's collaboration was assembled into a book entitled &lt;i&gt;Let Us Now Praise Famous Men&lt;/i&gt;, a series of photographs that unflinchingly captures the stark tragedy of the Great Depression.</p>
+          <p type="img" alt="Portrait of Walker Evans (1937), by Edwin Locke" show="0">/images20/photo/photo_evans_walker_3.jpg</p>
+          <p type="p">The Museum of Modern Art recognized Evans's gift for capturing the American vernacular with his first solo exhibition in 1938. Around the same time Evans began to shoot a series of portraits taken surreptitiously in the New York City subway. Like his earlier work, these photographs revealed unassuming moments in daily life with straightforward exactness. In 1945 Evans joined the staff of &lt;i&gt;Time&lt;/i&gt; magazine and shortly thereafter became an editor at &lt;i&gt;Fortune&lt;/i&gt;, where he continued to work for two decades.</p>
+          <p type="p">In 1958 he met and married Isabelle Storey, a woman 30 years his junior. It was an unhappy marriage that ended in divorce a little over a decade later. An intensely private man, Evans kept to himself. In his personal life, he drifted more toward writers (Ernest Hemingway, James Agee, and others) than artists as friends. Storey, his ex-wife, published a revealing autobiography in 2008 portraying her late husband as an eccentric, driven, witty, yet often prickly person who could be a self-absorbed snob. Despite tremendous patience with the camera, and compassion for working-class heroes, Evans was evidently short-tempered in the upscale circles in which he and his wife traveled, and prone to unprompted fits of rage. When Storey mentioned wanting children, for example, Evans responded: "A child of mine would have to be educated at Groton and Harvard, and we don't have the money."</p>
+          <p type="p">In 1965 Evans became a professor at the Yale University School of Art. From that time on he carried out few photography projects. While less prolific as an artist, he continued to teach until his death in 1975.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Evans's profound impact on the field of photography is uncontested. While he disdained fancy equipment and overly aesthetic shots, Evans was among the first documentary photographers to display his work in the context of beautifully bound and expensively designed books. A cohesive means for artistic expression, this enabled his photographs to be seen as art, and laid the groundwork for later photojournalists to display their works as art too.</p>
+          <p type="p">A committed teacher as well as a photographer, Evans inspired countless artists, among them the photographers &lt;span class="marked_text chart-tooltip-target-top tooltip_id-levitt_helen"&gt;Helen Levitt&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frank_robert"&gt;Robert Frank&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arbus_diane"&gt;Diane Arbus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-friedlander_lee"&gt;Lee Friedlander&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bernd_hilla_becher"&gt;Bernd and Hilla Becher&lt;/span&gt;. In the postmodern epoch, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-levine_sherrie"&gt;Sherrie Levine&lt;/span&gt; went as far as to re-photograph Evans's Depression-era shots for a series entitled &lt;i&gt;After Walker Evans&lt;/i&gt; (1981). While some have seen Levine's work as a criticism of Evans, Levine commented: "I wanted to make pictures that contradicted themselves. I wanted to put one picture on top of another so that there were times when both pictures disappear and other times when they were both manifest. That vibration is basically what the work was about for me - that space in the middle where there is no picture, rather an emptiness, an oblivion." Evans continues to looms large in contemporary photography. Whether in criticism or homage, artists continue to refer to his photographs, which sum up moments in history and our culture's perceptions of those moments.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Citizen in Downtown Havana, Cuba</title>
+      <year>1933</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>
+				In 1933, Evans traveled to Havana to shoot photographs for Carlton Beals's &lt;i&gt;The Crime of Cuba&lt;/i&gt; (1933), a book denouncing the corruption of dictator Gerardo Machado. His employers asked him to shoot emotionally charged images to support Beals's impassioned prose. Evans ignored their suggestions, and produced unobtrusive views that nevertheless suggest upheaval. In this photo Evans captures a tall man in a white suit turning, perhaps aware he is being watched. The tilt of his hat, and sidelong glance make him appear mysterious, like a character from one of the period's popular murder mysteries for film or television. He does not make eye contact with the camera or the person holding it, but looks up and out. Behind him is a column of an old-fashioned arcade, a newsstand, and a newsboy reading on an overturned box. While multiple bodies are visible in the narrow shot, no one interacts with anyone else, as if to do so might be risky.
+				&lt;br/&gt;&lt;br/&gt;
+				In this photograph, as in many others from the period, the subject is surrounded by signs and posters that add layers of cultural context. One of the many photographs rejected for publication in the book, &lt;i&gt;Citizen in Downtown Havana, Cuba&lt;/i&gt; was one of Evans's personal favorites. He chose it for inclusion in his first solo exhibition at MoMA in 1938. The exhibition, entitled &lt;i&gt;American Photographs&lt;/i&gt;, and subsequently published as a book, otherwise contained images of the American Northeast. The inclusion of a Cuban scene amongst these images of North America reflects a diplomatic closeness between the U.S. and Cuba, which was a U.S. protectorate at the time.
+				&lt;br/&gt;&lt;br/&gt;
+				Evans's early photographs of dockworkers, street vendors, policemen, and beggars reveal an ability to capture a range of information, from the micro to the macro - the minutest idiosyncrasies of a culture and its overall context, doing with images what a writer might try to do in words.
+			</desc>
+      <collection>Walker Evans Archive, The Metropolitan Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>A Graveyard and Steel Mill in Bethlehem, Pennsylvania</title>
+      <year>1935</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>Shot on assignment for the Farm Security Administration in November of 1935, this quiet, unassuming view of the steel manufacturing town of Bethlehem, Pennsylvania reflects Evans's mastery of poetry in visual form. Though shot in a residential neighborhood, there are no figures in this quiet elegy to the generations of steel workers for whom life begins and ends here. In a reverse progression from the cradle to the grave, the eye travels from the large weathered cross in the foreground to the similarly structured power leading down the hill into the middle distance. Before we reach the river, however, smokestacks rise up, blocking access to this "cradle of civilization" and the distant shore beyond it, where stately homes appear on the horizon. In this symbolic overview of a steel-worker's life, class tensions are evident. The presence of the cross suggests the structure religion provides for those who go through life without having the privilege to examine their place in the universe. As Evans recommended to other artists and outside-the-box thinkers, "die knowing something. You are not here long."</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Roadside stand near Birmingham, Alabama</title>
+      <year>1936</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>
+				Two years after his return from Havana, Evans traveled through West Virginia, Georgia, Alabama, Mississippi, and Louisiana on assignment as a member of the "Historical Unit" of the Farm Security Administration (FSA). His job was to document life in the rural South. Here, two boys outside a country store hoist watermelons onto their shoulders. Behind them, two adults stand in the shade of the store, their silhouettes visible through the open door that leads straight through to the barn on the other side. 
+				&lt;br/&gt;&lt;br/&gt;
+				These frank, unadorned images of life in the rural south were revelations for American cultural audiences accustomed to cities, including writer and art connoisseur Lincoln Kirstein, who wrote: "The power of Evans's work lies in the fact that he so details the effect of circumstances on familiar specimens that the single face, the single house, the single street, strikes with the strength of overwhelming numbers, the terrible cumulative force of thousands of faces, houses, and streets." Reluctant to produce work that might be used as government propaganda, Evans remarked (perhaps somewhat defensively) as he embarked on this project: "This is pure record not propaganda . . . No politics whatever." Insistence on independence from political ideology was a persistent feature of Evans's artistic philosophy, as well as his imagery.
+			</desc>
+      <collection>Farm Security Administration - Office of War Information Photograph Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Alabama Cotton Tenant Farmer Wife</title>
+      <year>1936</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>
+				While Evans was on leave from his job for the FSA during the summer of 1936, &lt;i&gt;Fortune&lt;/i&gt; magazine commissioned him to collaborate with writer James Agee on a piece that focused on impoverished sharecropping families from Alabama. &lt;i&gt;Fortune&lt;/i&gt; never published the material that ensued from this commission, but it resulted in some of Evans's most iconic works. In 1941 their collaboration was assembled into a book entitled &lt;i&gt;Let Us Now Praise Famous Men&lt;/i&gt;. Deemed by the New York Public Library to be one of the most influential books of the last century, &lt;i&gt;Let Us Now Praise Famous Men&lt;/i&gt; scrutinized a culture's character and captured the cadence of its ordinary people. Refusing to dramatize poverty, this series of unlabeled photographs captured the Great Depression as stark, truthful tragedy. The faces, towns, rooms, and clothes of impoverished famers distilled the hardship being felt all over the country.
+				&lt;br/&gt;&lt;br/&gt;
+				Evans made several photographs of Mrs. Burroughs, each slightly different from the others but all bound by a characteristically clean composition and penchant for visual clarity. The weathered wall behind her, with its evocative horizontal lines, anticipates the abstraction of future photographers like Aaron Siskind and Frederick Sommer. These straight lines underscore the flatness of her unsmiling, prematurely aged features, and her expression - head slightly tilted, brows slightly furrowed, mouth slightly downturned - holds us captive precisely because it is so difficult to read. As opposed to an allegory of suffering and privation, Burroughs is an individual. 
+			</desc>
+      <collection>Walker Evans Archive, The Metropolitan Museum of Art</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Subway Portrait</title>
+      <year>1941</year>
+      <materials />
+      <desc>
+				"The guard is down and the mask is off," Walker Evans wrote of his &lt;i&gt;Subway Portraits&lt;/i&gt;, a series of subway commuters shot with a hidden camera from 1938 to 1942 that reflects his brilliance as a storyteller. With a 35 mm Contax camera fastened to his chest and a rigged cable release in his hand, Evans captured scores of people deep in conversation, immersed in their reading, or lost in thought. Unaware of the camera, their attitudes and expressions reflect the subway's unwritten code for human behavior, a mixture of anonymity and intimacy. They also bring forward the personalities of individuals. 
+				&lt;br/&gt;&lt;br/&gt;
+				Here, a well-dressed man leans forward anxiously (is he late for something?) and trains his attention on an advertisement or a sign above him. To his right, we see the hand of another commuter grasping the newspaper. The tension in their poses is essential for maintaining balance on the train, but it also conveys the constant stress of the urban environment. Using a concealed camera and riding the subway, a technically tricky endeavor, meant Evans too was unrelaxed and had to relinquish traditional types of control photographers usually exert over their shots. Just positioning himself in relation to the subject and choosing the moment at which to take it was difficult enough. As a result, his subjects are often off-kilter, the perfect metaphor for a culture constantly in motion. 
+			</desc>
+      <collection>Walker Evans Archive, The Metropolitan Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Untitled</title>
+      <year>1946</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>
+				In 1946, Evans turned his attention on an assignment for &lt;i&gt;Fortune&lt;/i&gt; to capture the spirit of the American worker. Still wishing to investigate the balance between authenticity and anonymity explored in his &lt;i&gt;Subway Portraits&lt;/i&gt;, Evans spent an afternoon on a Detroit sidewalk photographing anyone who came by. He held his Rolleiflex camera at waist height and captured individuals walking in front of a sunlit plywood wall. The resulting photographs, first published in the magazine under the title "Labor Anonymous," were later collected into a book by the same name. 
+				&lt;br/&gt;&lt;br/&gt;
+				While not posed in the traditional sense, these portraits are skillfully constructed. The spare background and close cropping (favorite techniques of Evans) compel us to focus on details of dress, pose, and expression like the tilt of a hat, or direction of the gaze. The presence of dramatic natural light, and the low angle at which he positions the camera elevates the subject - literally and figuratively. These average men (and one woman) on their way to work appear monumental and heroic. 
+			</desc>
+      <collection>Walker Evans Archive, The Metropolitan Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Upstairs Room, Walpole, Maine</title>
+      <year>1962</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>
+				In the 1960s, Evans ended two decades of work at &lt;i&gt;Fortune&lt;/i&gt; magazine and accepted a professorship at Yale. Recognized as a landmark at the time, &lt;i&gt;Message From the Interior&lt;/i&gt; marks a turning point in Evans's career, away from commercial photography and toward more moody, evocative, personal pieces. The series, published as a book in 1966, depicts empty interiors. Evoking the work of Eugene Atget, Evans's personal hero, Evans captures sagging chairs, rumpled bedding, and half-opened doors in great detail as if to preserve these weary structures for eternity. 
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;Upstairs Room, Walpole, Maine&lt;/i&gt;, signs of human presence are evident in the worn floorboards, the scuffed rug, and even the positioning of the chair near the wall at an angle, as if a weary arm has recently placed it there. The lived-in texture of each inanimate object evokes not just one but many dwellers, now absent, who lived in the house over generations. Positively received by critics, these interiors are a meditation on the history of everyday life, and a continuation of Evans's life-long project: exploring different ways to capture what he saw as the essence of humanity.
+			</desc>
+      <collection>Walker Evans Archive, The Metropolitan Museum of Art</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="atget_eugene">Ragpicker, avenue des Gobelins (1901)</artwork>
+    <artwork from="movement" page="ashcan_school">Forty-Two Kids (1907)</artwork>
+    <artwork from="artist" page="hopper_edward">Automat (1927)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>atget_eugene</entity>
+        <entity alt="August Sander">sander_august</entity>
+        <entity alt="Ralph Steiner">steiner_ralph</entity>
+        <entity>hemingway_ernest</entity>
+        <entity>abbott_berenice</entity>
+      </column>
+      <column>
+        <entity>agee_james</entity>
+        <entity alt="Lincoln Kirstein">kirstein_lincoln</entity>
+        <entity alt="Hart Crane">crane_hart</entity>
+        <entity>shahn_ben</entity>
+      </column>
+      <column>
+        <entity>modernism</entity>
+        <entity>social_realism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>levitt_helen</entity>
+        <entity>frank_robert</entity>
+        <entity>arbus_diane</entity>
+        <entity>friedlander_lee</entity>
+        <entity>bernd_hilla_becher</entity>
+      </column>
+      <column>
+        <entity>agee_james</entity>
+        <entity alt="Jerry Thompson">thompson_jerry</entity>
+      </column>
+      <column>
+        <entity>social_realism</entity>
+        <entity>documentary_photography</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Walker Evans</title>
+          <link>0465090788</link>
+          <info>By James R. Mellow</info>
+        </entry>
+        <entry recommended="true">
+          <title>Walker Evans: Depth Of Field</title>
+          <link>3791382233</link>
+          <info>By John T. Hill and Heinz Liesbrock</info>
+        </entry>
+        <entry>
+          <title>Walker Evans: A Biography</title>
+          <link>0618056726</link>
+          <info>By Belinda Rathbone</info>
+        </entry>
+        <entry>
+          <title>Walker Evans at work: 745 photographs together with documents selected from letters, memoranda, interviews, notes</title>
+          <link>0060111046</link>
+          <info>By Walker Evans, edited by John T. Hill, with a contribution from Jerry L. Thomspon</info>
+        </entry>
+        <entry>
+          <title>Walker Evans: The Hungry Eye</title>
+          <link>081099187X</link>
+          <info>By Gilles Mora</info>
+        </entry>
+        <entry>
+          <title>Walker Evans</title>
+          <link>0691119651</link>
+          <info>By Maria Morris Hambourg, Jeff L. Rosenheim, Doug Eklund, and Mia Fineman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>American Photographs (1938)</title>
+          <link>087070835X</link>
+          <info>Published by The Museum of Modern Art in 1938</info>
+        </entry>
+        <entry recommended="true">
+          <title>Let Us Now Praise Famous Men (1941)</title>
+          <link>B00DKNDFXI</link>
+          <info>Evans's photographs are accompanied by James Agee's text</info>
+        </entry>
+        <entry>
+          <title>Many Are Called (1966)</title>
+          <link>0300106173</link>
+          <info>A three-year photographic study of New York City's subway passengers</info>
+        </entry>
+        <entry>
+          <title>Message from the Interior (1966)</title>
+          <link>0871300036</link>
+          <info>Photographs of building's interiors made between 1931 and 1962, from Maine to Alabama</info>
+        </entry>
+        <entry recommended="true">
+          <title>Walker Evans, Cuba (2001)</title>
+          <link>1606060643</link>
+          <info>Evans's captivating portrait of Cuba in the early 1930s</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Walker Evans</title>
+          <link>http://www.metmuseum.org/toah/hd/evan/hd_evan.htm</link>
+          <info>A brief overview of the artist's life by The Metropolitan Museum of Art, which houses nearly all of Evans's work</info>
+        </entry>
+        <entry recommended="true">
+          <title>A review of the MoMA's 75&lt;sup&gt;th&lt;/sup&gt; anniversary reprise of its first solo photography exhibition: Evans's American Photographs</title>
+          <link>http://www.nytimes.com/2013/07/19/arts/design/walker-evanss-american-photographs-at-moma.html?ref=topics</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles" />
+      <subcategory name="interviews" class="interviews">
+        <entry recommended="true">
+          <title>Walker Evans interview by Paul Cumming</title>
+          <link>https://www.aaa.si.edu/collections/interviews/oral-history-interview-walker-evans-11721</link>
+          <info>
+						An audio recording in which the artists comments on the development of his work for the Archives of American Art
+					</info>
+        </entry>
+        <entry>
+          <title>Excerpt from Leslie Katz interview with Walker Evans</title>
+          <link>http://www.americansuburbx.com/2011/10/interview-an-interview-with-walker-evans-pt-1-1971.html</link>
+          <info>Interview conducted in 1971 in which Evans reflects on his artistic process</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Walker Evans in his own words</title>
+          <link>https://www.youtube.com/watch?v=vhlFQUwjU3o</link>
+          <info>A recording in which Evans recalls his experiences photographing in the Deep South and reflects on the nature of his work</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

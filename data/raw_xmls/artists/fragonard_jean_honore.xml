@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>fragonard_jean_honore</id>
+    <name>Jean-Honoré Fragonard</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1748 - 1794</years>
+    <description>Fragonard's expressive brushstrokes transform his subjects and surrounding environments into showcases of intimacy and sensuality.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>French</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>April 4, 1732</birthDate>
+    <birthPlace>Grasse, France</birthPlace>
+    <deathDate>August 22, 1806</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <cname>Fragonard</cname>
+    <pub_time>3/14/2018</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>rococo</include>
+  </includes>
+  <similar_movements>
+    <movement>rococo</movement>
+    <movement>neoclassicism</movement>
+    <movement>baroque_art_and_architecture</movement>
+    <movement>erotic_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>boucher_francois</artist>
+    <artist>morisot_berthe</artist>
+    <artist>chardin_jean_baptiste_simeon</artist>
+    <artist>tiepolo</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"If necessary, I would even paint with my bottom."</q>
+    <q>"I was in awe of Michelangelo's energy. I felt things that I could not express. When I saw the beauty of the Raphaels, I was moved to tears, and I could scarcely hold my pencil. For several months I remained in a state of apathy that I was unable to overcome, until I resolved to study the painters who I felt I had a chance of rivaling: and so I turned my attention to Barocci, Pietro da Cortona, Solimena, and Tiepolo."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="blair">Anna Blair</editor>
+  </editors>
+  <article>
+    <synopsys>Fragonard's work is at once emblematic of the 18&lt;sup&gt;th&lt;/sup&gt; century and singular, elevating popular genre scenes to meditations on French society through careful use of symbols and lavish brushwork. The painter's reputation rests on his love scenes, which hold great density of meaning, and for his use of light and color to transform both subjects and surrounding environments into showcases of virtuosity that capture emotions and reward extended examination. Fragonard's expressive brushstrokes, which lead figures and landscapes to dissolve into individual strokes when seen closely, had a strong influence on the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;, while his themes have been picked up by 21&lt;sup&gt;st&lt;/sup&gt;-century artists interested in gender, race, and sexuality.</synopsys>
+    <key_ideas>
+      <idea>Fragonard's work elevates erotic symbolism that would have been easily comprehended by his contemporaries, finessing this in such a way that his images provided multiple intellectual layers. He regularly used settings, activities, and small details to heighten tension and encourage the viewer to consider relationships between men and women, humanity and nature, and the concept of time itself. Fragonard's use of such symbolism was unprecedented in its complexity and subtlety, providing intellectual weight that set his scenes apart from others working in similar modes.</idea>
+      <idea>Fragonard's use of setting was unique in the degree to which it heightened narrative drama. His compositions are often framed as if stages, with light used to direct the viewer's eye in such a way that the sequence of events becomes clear. Statuary and trees serve to convey mood, with stormy skies and windswept branches indicating unease or tension while placid backdrops suggest resolution.</idea>
+      <idea>Across Fragonard's work, the physicality of art making is itself on display; visual pleasure is an end in itself rather than a means of representation. Fragonard's application of paint is clearly visible on canvases, with long, fluid strokes indicating folds of clothing or rushing water alongside short, abrupt dashes conveying leaves and flowers. This is complemented by Fragonard's use of color and tone, with dramatic contrasts between light and shade. Examined at close range, the paintings abstract their subjects; in this way, Fragonard's work anticipates the attitude to painting that would dominate the late-19&lt;sup&gt;th&lt;/sup&gt; and 20&lt;sup&gt;th&lt;/sup&gt; centuries.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Jean-Honoré Fragonard was born into a family of artisans and merchants in Grasse; his father was a glove maker. The family moved to Paris in 1738, when Fragonard was six, but little else is known about the artist's upbringing. He began to study art as a teenager after a failed apprenticeship to a notary.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">While Fragonard is sometimes romanticized as an outsider, his artistic pedigree and early success shows that this was far from the case. Fragonard studied with two of the great artists of the preceding generation, Jean-Baptiste-Siméon Chardin and François Boucher, both of whom strongly influenced the themes, settings, and symbolism that would characterize his work throughout his career. Fragonard won the Prix de Rome on his first attempt, in August 1752, and became a student at the École Royale des Élèves Protégés, where he worked to become a history painter. He left Paris for Italy in October 1756 and spent five years in Rome studying art with the support of the French Academy. Upon his return, he worked on his admission piece for the Academy, &lt;i&gt;Coresus and Callirhoë&lt;/i&gt;, which was purchased by the Crown for embroidery as a tapestry, winning Fragonard a studio in the Louvre and a commission for a second painting to complement it. He quickly obtained, alongside this, a number of private commissions for both murals and smaller scale easel paintings.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1769, Fragonard married Marie-Anne Gérard, fourteen years his junior. Their marriage was subject to some scrutiny, in part because a daughter, Henriette-Rosalie, was born only several months after the ceremony. There would be, over the course of the marriage and after the death of the couple, rumors of infidelity, though concrete evidence for this has not been found. The pair had a son, Alexandre-Evariste Fragonard, in 1780, who would go on to study with Jacques-Louis David and work as a painter. Marie-Anne Fragonard would work as her husband's treasurer for much of her life, painting a number of canvases that were until recently attributed to her husband.</p>
+          <p type="p">Only a few years after admission to the Academy, Fragonard began to frustrate the artistic establishment, who saw him as a great hope for French history painting, by focusing instead on smaller paintings, drawings and etchings of light-hearted scenes that sold well both to private clients and on the open market. By the end of the decade, Fragonard was being criticized for his professional choices, described by writer Louis Petit de Bachaumont in 1769 as a painter of "ladies boudoirs and dressing rooms;" in 1771, Louise d'Epinay summarized the establishment sentiment in writing that Fragonard "wastes his time and his talent. He makes money." Fragonard was among the century's wealthiest artists.</p>
+          <p type="p">Fragonard continued to receive large-scale commissions, but often alienated his clients and supporters by neglecting these commissions or failing to complete them to others' satisfaction. In the early 1770s, he was commissioned to create murals for the home of Marie-Madeleine Guimard, a celebrated dancer, but postponded this work and eventually asked Guimard to raise the fee from 6,000 to 20,000 francs and allow four additional years. The commission was transferred instead to Jacques-Louis David, to Fragonard's apparent satisfaction; this may have been the beginning of the long friendship between the two artists. Guimard's commission was to focus on the &lt;i&gt;Progress of Love series&lt;/i&gt;, a group commissioned for Madame du Barry, the King's official mistress. This series was rejected in 1773, likely due to the paintings' mismatch with the more restrained style of Claude-Nicolas Ledoux's architecture.</p>
+          <p type="p">Shortly after this, Fragonard was employed to travel to Italy as a guide for Pierre Jacques Onésyme Bergeret de Grancourt, a position in which he made many drawings of both the travelling party and the surrounding environment. Bergeret de Grancourt subsequently claimed these drawings as his property, in response to which Fragonard initiated a lawsuit; accounts differ on its resolution. Despite such difficulties working with clients, Fragonard was commissioned in 1775 to create five monumental paintings for the Hôtel de Toulouse in Paris, which he completed in 1780.</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="img" alt="Jacques Antoine Marie Lemoine's Portait of Fragonard in Chalk" show="1">/images20/photo/photo_fragonard_jean_honore_1.jpg</p>
+          <p type="p">After this, Fragonard worked primarily for the open market, producing cabinet pictures that regularly fetched high prices. This was an unusual mode of production for a successful painter in this period and Fragonard has been described, as a result of this, as the first artist to adopt a modern relationship to the art market. This approach to sales afforded Fragonard greater independence than working to commission, though those purchasing his work continued to be in French aristocratic circles.</p>
+          <p type="p">Despite his relationship with the Ancien Régime, Fragonard was a supporter of the French Revolution, though it is unclear if this was opportunism or genuine conviction. The market for his work, however, dried up in this period and fell out of fashion; changes in taste were exacerbated, at this moment, by the association of Fragonard's aesthetic with the lavish society that was in the course of being overthrown. From 1790, Fragonard rented the Villa Maubert in Grasse for his family, where he extended and installed the &lt;i&gt;Progress of Love&lt;/i&gt; series rejected two decades earlier. The painter was appointed a curator at the Louvre in 1792, with the support of Jacques-Louis David. Fragonard's death, in 1806, was largely overlooked by the French press and public.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Fragonard room at the Frick Collection, New York City" show="0">/images20/photo/photo_fragonard_jean_honore_2.jpg</p>
+          <p type="p">Fragonard had only two serious pupils, those being his wife, Marie-Anne Fragonard and her younger sister, Marguerite Gérard. His work had an influence on many contemporary imitators and competitors, though none of these painters achieved the same level of virtuosity as Fragonard himself and their names have generally been forgotten. Fragonard's influence, due to the French revolution's radical reshaping of taste, skipped two generations, with interest in his work resurging after Edmund and Jules de Goncourt accorded him a prominent role in &lt;i&gt;L'Art du XVIIIe siècle&lt;/i&gt; (Eighteenth-Century Art), published in 1865. Fragonard's work became popular quickly, resulting in the rediscovery of the &lt;i&gt;Progress of Love&lt;/i&gt; series, forgotten in Grasse. His application of paint, with its attention to light and reliance on quick, expressive brushstrokes, had a strong influence on the Impressionists, particularly Berthe Morisot and Pierre-Auguste Renoir, and a lineage can be traced from his work through to the Abstract Impressionists in the United States. His best-known work, &lt;i&gt;The Swing&lt;/i&gt;, has become iconic and has been widely referenced by contemporary artists, such as Yinka Shonibare and Kent Monkman, interested in drawing upon or querying the European canon. While Fragonard's thematic concerns were long considered outdated, recent interest in gender, the body, and the male and female gaze have given his subjects new relevance; and many artists referencing Fragonard's work do so in order to explore the constructed or performative dimensions of sexuality.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="romanticism">Wanderer Above the Sea of Fog (c. 1818)</artwork>
+    <artwork from="artist" page="renoir_pierre_auguste">La Loge (1874)</artwork>
+    <artwork from="artist" page="morisot_berthe">Young Girl in a Ball Gown (1879)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>The Seesaw</title>
+      <year>1750-52</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The See-Saw&lt;/i&gt; is one of a pair of paintings intended to be seen together, both of which show popular games with sexual undertones; the pendant is &lt;i&gt;Blind Man's Bluff&lt;/i&gt;, in which a girl peeks out from under her blindfold while a man approaches from behind. &lt;i&gt;Blind Man's Bluff&lt;/i&gt; suggests courtship while &lt;i&gt;The See-Saw&lt;/i&gt;, intended to be seen immediately afterward, suggests the consummation of the relationship. &lt;i&gt;The See-Saw&lt;/i&gt; shows a young man and woman balanced on a plank of wood; the man's end of the plank is at the ground, flanked by two small children, while the woman is raised in the air, her hand catching hold of a branch above. The scene is largely framed by trees, with hints of blue sky and an architectural element visible in the background. At the base of the seesaw are the remnants of a picnic, including a wine bottle that has toppled over.
+				&lt;br/&gt;&lt;br/&gt;
+				The garden was often used as a site for fantasy in 18&lt;sup&gt;th&lt;/sup&gt; century painting and games such as these were familiar to contemporary audiences as sexual allegories. This painting was completed while Fragonard was a student of Boucher, who was known for his own paintings of such scenes. Fragonard's treatment of the scene is considerably subtler than those of Boucher, though audiences at the time would have recognized the double meaning in the ripe fruit and blossoming flowers alongside the see-saw itself and the posture of the young girl, who leans backward, her limbs outstretched; it is unclear, however, if the two children are intended as cupid figures or if they are included so as to imply the seduction of a governess. The painting showcases Fragonard's early mastery of many of the elements that would come to distinguish his work, including his use of bright colors, strong tonal contrasts and foliage as a framing element.
+			</desc>
+      <collection>Collection of Museo Nacional Thyssen-Bornemisza, Madrid, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>The Bathers</title>
+      <year>1765</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Bathers&lt;/i&gt; is dominated by a group of women, numbering roughly eight, framed by foliage in green and yellow and white clouds against a blue sky. The women are nude and shown bathing in a stream, with ripples of white water that are distinct in the lower left but create an indistinct boundary between bodies and foliage toward the center of the canvas. The bodies are shown in a range of different positions; some figures appear at rest in the ripples while others turn toward the figure at the canvas's centre, who raises her arms and appears to leap above the water, a pink cloth falling from her right hand.
+				&lt;br/&gt;&lt;br/&gt;
+				In the 18&lt;sup&gt;th&lt;/sup&gt; century, bathing scenes were often a pretext to show the nude in a variety of positions and from a range of angles, showcasing the painter's skill whilst also providing the viewer with a visual pleasure that verged toward the titillating. The painting showcases Fragonard's lightness in both theme and palette; the colors, in their gentleness, are suited toward their subject, imbuing the women with an innocence that heightens their appeal. The brushstrokes are loose and palpable, providing a sensuousness, physicality, and fluidity that contributes to the painting's liveliness. Fragonard stopped exhibiting his paintings in 1767, preferring to focus on work for private clients, and this is among the last to be displayed in an academic setting.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Swing</title>
+      <year>1767</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Swing&lt;/i&gt; is one of Fragonard's best-known works, a somewhat risqué composition depicting the mistress of the Baron de Saint-Julien. This young girl, positioned at the composition's centre, appears on a swing, wearing a pink dress. She is pushed by a smiling man, who does not realise another man is amongst the shrubs, looking up her skirt. She, however, appears to have engineered the scene, looking down at him as she moves through the air. The scene is set against an unruly forest crowded with statuary alongside people and plants. The girl's outstretched foot, from which a slipper flies, points at the most prominent sculpture, recognisable to viewers as Etienne-Maurice Falconet's &lt;i&gt;Menacing Cupid&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				The subject, a girl on a swing pushed by a husband while a lover looked from the bushes and a shoe flew from the foot, was dictated to the painter by the Baron de Saint-Julien; Fragonard transforms the scene from a licentious allegory into a commentary on the transience of pleasure through the specifics of his composition. The swing, in the 18&lt;sup&gt;th&lt;/sup&gt; century, was generally read as a sexual metaphor, due to the rhythm of movement and the positioning of the body, with extended legs, at the moment when the swing's arc reached its climax; the loss of a shoe often symbolized the loss of innocence. &lt;i&gt;The Swing&lt;/i&gt; is composed to direct the eye in such a way that the narrative is revealed gradually, following the motion of the swing from husband to lover, and framed as if a scene in a play, encouraging viewers to take pleasure in their intrusion into a private moment, approaching it as if it is performed for them.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Menacing Cupid&lt;/i&gt;, a sculpture that carried its own complicated history and set of associations, adds a serious note to the composition, with the permanence of marble serving as a reminder that time can be cruel with regard to love; the sensual pleasure celebrated in the painting is, like the climax of a moving swing, momentary and unsustainable. The young woman on the swing appears as if a flower, her skirts like petals, echoing in color and texture those in the shrubbery below, suggesting that she, like a bloom, will fade after being plucked. Her beauty is made more valuable by its imminent loss; she is momentarily illuminated but will fall away from the light as her arc reverses. The garden, a space outside the artificial rules of society, was associated with freedom and the natural, heightening this thematic depth whilst allowing Fragonard to create drama through contrasts in light and shade.
+			</desc>
+      <collection>Wallace Collection, London</collection>
+    </artwork>
+    <artwork>
+      <title>The Writer</title>
+      <year>1769</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This portrait, likely of Louis François Prault, a publisher in Paris, is one of a series that are now known as the 'Fantasy Figures.' &lt;i&gt;The Writer&lt;/i&gt; shows a man, dressed in a historical costume consisting of a yellow and red shirt with white ruff and cuffs, secured with a black bow hanging loosely at the chest, posed with quill and open book at a desk. The figure turns away from the desk and looks toward the right-hand side of the canvas, giving an impression of spontaneity and confidence. In this painting, as in others from the same series, the figures appear as archetypes rather than individuals, shown engaged in activities or with accessories that indicate their profession, and posed in theatrical dress that serves to unify the group and create a suggestion of performance.
+				&lt;br/&gt;&lt;br/&gt;
+				Fragonard reportedly painted each of these portraits in only an hour and the speed with which they were executed contributes to the freshness and virtuosity of the brushstrokes. It is easy for the viewer to make out individual movements of the brush, capturing the loose folds of the shirt sleeve or the zig-zag of the cuff with fluidity. The colors are bright and intensely concentrated, particularly across the figure's shirt. In &lt;i&gt;The Writer&lt;/i&gt; and other works in this series, the energy of the painter's process imbues the figures with a liveliness and immediacy of personality.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Progress of Love: Love Letters</title>
+      <year>1771-72</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Love Letters&lt;/i&gt; is the last of four panels Fragonard painted for the Comtesse du Barry's pavilion at Louveciennes. This series, &lt;i&gt;The Progress of Love&lt;/i&gt;, illustrates the stages of a romantic relationship through pursuit, meeting, commitment, and friendship. The iconography of each panel is very dense and is facilitated by the garden setting in which the surrounding sculpture, animals, and plants carry meaning in accordance with established tradition. In &lt;i&gt;Love Letters&lt;/i&gt;, a man and a woman are shown reading letters while tenderly embracing, suggesting reminiscence of early courtship from a position of greater security; at their feet is a spaniel, signifying fidelity, and they are watched over by a statue personifying friendship, who refuses to surrender the heart she holds at her chest to the cupid that reaches for it.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Progress of Love&lt;/i&gt; series showcases Fragonard's sense of rhythm in narrative and ability to create and resolve dramatic tension through the settings in which his figures are placed. In &lt;i&gt;Love Letter&lt;/i&gt;, a break in the foliage, above serves both to direct the audience's eye toward the central couple and to illuminate them. The composition is framed by elements including flowers, foliage and statuary, all of which clarify the central meaning whilst retaining the viewer's focus. This is the panel in which the narrative reaches resolution and this is reflected in the sky and trees; the dark clouds and rustling branches of earlier panels have given way to the restful glow of a calm twilight. It is this attention to mood, rendered through subtle shifts in light and the texture of brushstrokes, that set Fragonard's work above that of his contemporaries.
+				&lt;br/&gt;&lt;br/&gt;
+				This series was ultimately rejected by the Comtesse du Barry, likely due to the contrast with the architectural setting for which it was intended. Fragonard later installed &lt;i&gt;The Progress of Love&lt;/i&gt; in the Villa Maubert in Grasse, adding additional panels, including a fifth, &lt;i&gt;The Abandoned One&lt;/i&gt;, that shifted the narrative considerably, transforming the girl from an exemplar to a victim of love.
+			</desc>
+      <collection>Collection of The Frick Collection, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Fête at Saint Cloud</title>
+      <year>1775-80</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This large canvas, designed as the centerpiece for a group of five paintings on the theme of play, is among Fragonard's most ambitious works, engaging with issues of class and eighteenth-century theories of the spectacle and memory. &lt;i&gt;The Fête at Saint-Cloud&lt;/i&gt; shows a public fair held in the grounds of a chateau: crowds in varied styles of dress mill around multiple street theatres, a man with a monkey, and vendors selling toys. Near the painting's center is a fountain, spouting water high above these entertainments, and the scene is framed by billowing clouds and trees that dwarf the gathering. The viewer is positioned outside the scene, looking upon the crowd from afar, but is also, by virtue of the painting's size, encouraged to psychologically enter into the world that it represents, moving closer to focus on individual elements.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Fête at Saint Cloud&lt;/i&gt; can be linked to the tradition of the &lt;i&gt;fête-galante&lt;/i&gt; common in the 18&lt;sup&gt;th&lt;/sup&gt; century, but contributes a growing self-consciousness and engagement with intellectual issues. In the painting, the fair is considered not simply as a site for pleasure, but rather as a space in which questions of class are made manifest, drawing upon the ideas of Jean-Jacques Rousseau and other theorists; the crowd depicted contains people from a range of backgrounds and alludes, through the figures in costume, to the way in which spectacle could disguise social position and dissolve individual identity into the collective. Fragonard's sensuous brushwork invited the viewer to engage with the painting on an emotional level, also, encouraging the projection of personal memories of such fairs onto the scene, prompting reflections on the power of art to provide ideal experiences that can evoke and transcend those in life. &lt;i&gt;The Fête at Saint-Cloud&lt;/i&gt; anticipates social questions that would become central after the Revolution, while the composition itself, in which humanity is dwarfed by nature, with dramatic use of light and strong contrast, creates a sensation of being overwhelmed that would be explored by Romantic painters in the following century.
+			</desc>
+      <collection>Banque de France</collection>
+    </artwork>
+    <artwork>
+      <title>The Bolt</title>
+      <year>1777</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Fragonard's use of a dark palette, filling the canvas with blacks, reds, and golds, imbues &lt;i&gt;The Bolt&lt;/i&gt; with heightened drama. The painting is an interior scene, with the main light source apparently just right of the canvas edge, illuminating the central couple and the bolt that gives the work its name. A man, dressed in white shirt and shorts, facing away from the viewer, reaches for this lock with his right hand, using his left arm to sweep a woman, in a yellow dress toward him; she leans her head backward and to her right, toward the viewer and the light. There is, to the left of the woman, a bed with white sheets and a red canopy, shrouded in shadow.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Bolt&lt;/i&gt; is intended as an illustration of profane love, pendant to &lt;i&gt;The Adoration of the Shepherds&lt;/i&gt;, painted two years earlier, which illustrates sacred love. The circumstances of the encounter in &lt;i&gt;The Bolt&lt;/i&gt; are ambiguous; the questions of the man's motivation and whether the woman is acquiescing by choice or force are left unclear. The objects surrounding the pair, however, indicate the aftermath of the moment captured in the painting. The bed is in a state of disorder and the room is scattered with erotic symbols, including an upturned chair, flowers and fruit, and the bolt itself, all of which would have been easily readable to an 18&lt;sup&gt;th&lt;/sup&gt;-century audience. &lt;i&gt;The Bolt&lt;/i&gt; is striking for its chiaroscuro and its reduced palette, indicating a shift away from the sumptuous Rococo forms and colors for which he is predominantly known and showcasing his mastery of composition and narrative staging. Fragonard's brushstrokes are less pronounced in this image; the increased realism and the comparatively spare, shadowy backdrop can be seen as both an attempt to transition toward Neoclassicism and an anticipation of 19&lt;sup&gt;th&lt;/sup&gt;-century Romanticism.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>boucher_francois</entity>
+        <entity>chardin_jean_baptiste_simeon</entity>
+        <entity>watteau_jean_antoine</entity>
+        <entity>rembrandt_van_rijn</entity>
+        <entity alt="Hubert Robert">robert_hubert</entity>
+      </column>
+      <column>
+        <entity alt="Bergeret de Grancourt">de_grancourt_bergeret</entity>
+        <entity alt="Baron de Saint-Julien">de_saint_julien_baron</entity>
+        <entity alt="Claude-Richard de Saint-Non">de_saint_non_claude_richard</entity>
+        <entity alt="Marquis de Veri">de_veri_marquis</entity>
+        <entity alt="Claude-Nicolas Ledoux">ledoux_claude_nicolas</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>renaissance</entity>
+        <entity>rococo</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>bonnard_pierre</entity>
+        <entity>daumier_honore</entity>
+        <entity alt="Jacques-Louis David">david_jacques_louis</entity>
+        <entity alt="Alexandre-Evariste Fragonard">fragonard_alexandre_evariste</entity>
+        <entity alt="Marguerite Gérard">gerard_marguerite</entity>
+      </column>
+      <column>
+        <entity alt="Bergeret de Grancourt">de_grancourt_bergeret</entity>
+        <entity alt="Baron de Saint-Julien">de_saint_julien_baron</entity>
+        <entity alt="Claude-Richard de Saint-Non">de_saint_non_claude_richard</entity>
+        <entity alt="Marquis de Veri">de_veri_marquis</entity>
+      </column>
+      <column>
+        <entity>abstract_expressionism</entity>
+        <entity>impressionism</entity>
+        <entity>rococo</entity>
+        <entity>romanticism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Fragonard</title>
+          <link>0847808858</link>
+          <info>By Rizzoli</info>
+        </entry>
+        <entry>
+          <title>Fragonard; biographical and critical study</title>
+          <link>B0006BP1ES</link>
+          <info>By Jacques Thuillier</info>
+        </entry>
+        <entry>
+          <title>Jean-Honoré Fragonard</title>
+          <link>0810933136</link>
+          <info>By Jean Montague Massengale</info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard: Painting out of Time</title>
+          <link>1789142091</link>
+          <info>By Satish Padiyar</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Fragonard</title>
+          <link>0810909219</link>
+          <info>By Pierre Rosenberg</info>
+        </entry>
+        <entry>
+          <title>Fragonard's Progress of Love at The Frick Collection</title>
+          <link>1904832601</link>
+          <info>By Colin B. Bailey</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Painter's Touch: Boucher, Chardin, Fragonard</title>
+          <link>0691170126</link>
+          <info>By Ewa Lajer-Burcharth</info>
+        </entry>
+        <entry>
+          <title>Fragonard's Progress of Love</title>
+          <link>1911282980</link>
+          <info>By Alan Hollinghurst and Xavier F. Salomon</info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard: Drawing Triumphant</title>
+          <link>1588396010</link>
+          <info>By Perrin Stein </info>
+        </entry>
+        <entry>
+          <title>Fragonard's Allegories of Love</title>
+          <link>0892368977</link>
+          <info>By Andrei Molotiu</info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard: Art and Eroticism</title>
+          <link>0226752739</link>
+          <info>By Mary D. Sheriff</info>
+        </entry>
+        <entry>
+          <title>Fragonard in the Universe of Painting</title>
+          <link>0874742080</link>
+          <info>By Dore Ashton</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Villa-musée Jean-Honoré Fragonard in Grasse</title>
+          <link>http://www.museesdegrasse.com/en/presentation-villa</link>
+          <info>Villa-musée Jean-Honoré Fragonard in Grasse, France that has a collection of frescoes and paintings by the artist and works by his son, grandson, and sister-in-law</info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard Room at The Frick Collection, New York City</title>
+          <link>https://www.frick.org/visit/virtual_tour/fragonard_room</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Undressing the Erotic Symbolism in “The Swing,” Fragonard’s Decadent Masterpiece</title>
+          <link>https://www.artsy.net/article/artsy-editorial-undressing-erotic-symbolism-the-swing-fragonards-decadent-masterpiece</link>
+          <info>
+						By Alina Cohen
+						&lt;br&gt;
+						Artsy
+						&lt;br&gt;
+						September 9, 2019
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Rococo Genius of Jean-Honoré Fragonard</title>
+          <link>https://www.newyorker.com/magazine/2016/10/31/the-rococo-genius-of-jean-honore-fragonard</link>
+          <info>
+						The New Yorker 
+						&lt;br&gt;
+						October 31, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>A recently discovered document unlocks the mystery of Fragonard</title>
+          <link>https://www.washingtonpost.com/entertainment/museums/a-recently-discovered-document-unlocks-the-mystery-of-fragonard/2017/10/05/7ea4d8aa-a877-11e7-b3aa-c0e2e1d41e38_story.html?utm_term=.84855a64d2e3</link>
+          <info>
+						The Washington Post
+						&lt;br&gt;
+						October 6, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Swinging Women of Watteau and Fragonard </title>
+          <link>https://www.tandfonline.com/doi/pdf/10.1080/00043079.1982.10787950</link>
+          <info>
+				By Donald Posner
+				&lt;br&gt;
+				The Art Bulletin 
+				&lt;br&gt;
+				1982
+			</info>
+        </entry>
+        <entry>
+          <title>‘Portrait of a Woman with a Book’: a ‘Newly Discovered Fantasy Figure’ by Fragonard at the National Gallery of Art, Washington </title>
+          <link>https://www.researchgate.net/profile/John-Delaney-10/publication/274833377_%27Portrait_of_a_woman_with_a_book%27_A_%27newly_discovered_fantasy_figure%27_by_Fragonard_at_the_National_Gallery_of_Art_Washington/links/59e2739caca2724cbfe01534/Portrait-of-a-woman-with-a-book-A-newly-discovered-fantasy-figure-by-Fragonard-at-the-National-Gallery-of-Art-Washington.pdf</link>
+          <info>
+				By Yuriko Jackall, John K. Delaney and Michael Swicklik
+				&lt;br&gt;
+				Burlington Magazine 
+				&lt;br&gt;
+				April 2015
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard and the Blindman's Game: Interpreting Representations of Blindman's Buff</title>
+          <link>https://www.academia.edu/40052491/Fragonard_and_the_Blindmans_Game_Interpreting_representations_of_blindmans_buff?auto=citations&amp;from=cover_page.</link>
+          <info>
+				By Jennifer Milam
+				&lt;br&gt;
+				Art History 
+				&lt;br&gt;
+				1998
+			</info>
+        </entry>
+        <entry>
+          <title>Were Fragonard’s Paintings Too Erotic? A Closer Look at One of Art’s Enigmas</title>
+          <link>https://www.smh.com.au/culture/art-and-design/were-fragonard-s-paintings-too-erotic-a-closer-look-at-one-of-art-s-enigmas-20210726-p58d21.html</link>
+          <info>
+				By John McDonald
+				&lt;br&gt;
+				Sydney Morning Herald 
+				&lt;br&gt;
+				July 30, 2021
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Colin B. Baily presents Fragonard's 'Progress of Love'</title>
+          <link>https://www.youtube.com/watch?v=404fQk9vckU</link>
+          <info>In this video, Colin B. Bailey, the Peter Jay Sharp Chief Curator of The Frick Collection, provides a brief glimpse into the history of Fragonard's "The Progress of Love" series of paintings. Also discussing how the works came to be in the Frick Collection, the video provides images of the works installed at the museum.</info>
+        </entry>
+        <entry>
+          <title>Jean-Honoré Fragonard, "The Progress of Love” - The Frick Collection</title>
+          <link>https://www.youtube.com/watch?v=DPchscyQgLg</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Know the Artist: Jean-Honoré Fragonard - Several Circles Art History</title>
+          <link>https://www.youtube.com/watch?v=29R4_U2emI4</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Fragonard, The Meeting - Smarthistory</title>
+          <link>https://www.youtube.com/watch?v=w1dqzlTTm0E</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Everything you need to know about Fragonard's The Swing - Smarthistory</title>
+          <link>https://www.youtube.com/watch?v=bE4BBy2lczM</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Fragonard’s Fascinating Painted Portraits - Sotheby’s</title>
+          <link>https://www.youtube.com/watch?v=oTErl1vs1rs</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Love and Play: A Pair of Paintings by Fragonard - Toledo Museum of Art</title>
+          <link>https://www.youtube.com/watch?v=IGLpQDFOfZM</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

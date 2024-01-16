@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>bosch_hieronymus</id>
+    <name>Hieronymus Bosch</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1470 - 1516</years>
+    <description>Bosch is the visionary painter most celebrated for his detail-drenched and narrative renditions.</description>
+    <art_description>Important art &amp; artworks analysis by Hieronymus Bosch including: The Garden of Earthly Delights, The Last Judgment, The Temptation of St Anthony &amp; more in Northern Renaissance &amp; Gothic Art.</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Dutch</nationality>
+    <occupation>Painter and Draughtsman</occupation>
+    <birthDate>c. 1450</birthDate>
+    <birthPlace>'s-Hertogenbosch, Brabant (now Netherlands)</birthPlace>
+    <deathDate>August 9, 1516</deathDate>
+    <deathPlace>'s-Hertogenbosch, Brabant (now Netherlands)</deathPlace>
+    <image_desc>true</image_desc>
+    <cname>Bosch</cname>
+    <pub_time>1/15/2018</pub_time>
+    <repub_time>8/23/2021</repub_time>
+    <big_bio_box_img>&lt;i&gt;Concert in the Egg&lt;/i&gt;, c. 1475-80, Oil on panel, Palais des Beaux-Arts de Lille, France</big_bio_box_img>
+    <bio_highlight>"Poor is the mind that always uses the inventions of others and invents nothing itself" said Bosch some five hundred years ago. Indeed, he ranks amongst that rare group of artists whose body of work was so ominously idiosyncratic it gave the world of art a new adjective: "Boschian". </bio_highlight>
+    <img_version>?2</img_version>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>northern_renaissance</include>
+    <include>flemish_painting</include>
+    <include>gothic_art_and_architecture</include>
+  </includes>
+  <similar_movements>
+    <movement>northern_renaissance</movement>
+    <movement>gothic_art_and_architecture</movement>
+    <movement>mannerism</movement>
+    <movement>dutch_golden_age</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>bruegel_the_elder_pieter</artist>
+    <artist>ensor_james</artist>
+    <artist>dali_salvador</artist>
+    <artist>chapman_jake_and_dinos</artist>
+  </similar_artists>
+  <quotes />
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Perhaps the most brilliantly original and morally complex of all northern European religious painters, Bosch is most immediately associated with works with a disturbingly vivid, dream-like quality. Though only an estimated 25 original works exist, the nightmarish iconography in his paintings is instantly recognizable as "Boschian" and has become a staple of the genre of the grotesque. But while his status as an iconoclast is beyond doubt, some historians have suggested that the artist was a deeply conservative figure who, rather than being of distressed mind, proved equally capable of being subtle and complemented his grotesque images with fine decorative and devotional pieces that embodied his strongly-held Christian principles. </synopsys>
+    <key_ideas>
+      <idea>Bosch was one of the first artists to represent abstract concepts in his work, often through the narrational device of the triptych. Critics and historians have uncovered any number of contemporary themes in his narratives - ecological, social, political - but his most recognizable works, including his greatest masterpiece, &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt; (1490-1510), are most dense with religious symbolism and the overarching theme of mankind's timeless moral struggle between imprudence and virtue. </idea>
+      <idea>Known to many as the "creator of devils", and a purveyor of pictorial nonsense and satire, his paintings have proved very difficult for critics and historians to unravel. In fact, Bosch, who in Spain was known as "El Bosco" and was revered long before the nineteenth century revival of interest in his work, is often referred to as the "first &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt;" and was described by the famous psychoanalyst Carl Jung as the original "discoverer of the unconscious".</idea>
+      <idea>Unlike other Netherlandish painters, such as Jan van Eyck whose technique was smooth and exact, Bosch's brushwork is energetic and varied. His fine eye for detail, meanwhile, can be attributed to his early work as a draughtsman that made him the first Netherlandish artists to present drawings as freestanding (rather the preparatory) works. </idea>
+      <idea>Some historians have pointed to the fact that the inspiration for the uniquely surreal, devilish creatures that menace his works can be found in religious manuscripts from the late medieval era and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt;. As early as 1605, indeed, the Spanish monk José de Sigüenza argued that his paintings were like "books of great wisdom and artistic value" and that if there were "any absurdities here, they are ours, not his [...] they are a painted satire on the sins and ravings of mankind". </idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Jheronimus Anthonissen van Aken was born sometime between 1450-56 (his date of birth remains a matter of speculation but has been estimated from a self/portrait dated around 1508) to Antonius van Aken and, his wife, Aleid van der Mynnem. He was born in his grandfather's prosperous household in the affluent, and culturally and intellectually rich, town of s-Hertogenbosch, of the Duchy of Brabant, located in the low regions of the Netherlands. His grandfather, Johannes Thomaszoon van Aken was amongst the most important painters in early fifteenth century s-Hertogenbosch and, in the words of the art historian Stefan Fischer, created a "painter dynasty of five children", four of whom became painters (including Antonius). </p>
+          <p type="p">Little else is known about Bosch's early years apart from the fact that, in 1463, some 4,000 houses in s-Hertogenbosch were destroyed by a catastrophic fire. As art historian Claire Selvin put it, "It is believed that the artist bore witness to this disaster, which was perhaps one of the most devastating events of his early life. It's possible that the catastrophic incident influenced Bosch's later works, some of which include blazes raging in the background". </p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">The young Jheronimus later adopted the name Bosch (pronounced "Boss" in Dutch) as tribute to his hometown that was known locally as &lt;i&gt;Den Bosch&lt;/i&gt; (the forest). Next to nothing is known of his training, since he left behind no notebooks, letters, books, or any other such artefact. However, in s-Hertogenbosch town records dated 1475, Hieronymus is listed as a member of his father's workshop and it is assumed (quite reasonably) that his father, and possibly one of his uncles, taught him to paint. This knowledge doesn't bring us any closer, however, to understanding the sources of Bosch's remarkable imagination. </p>
+          <p type="img" alt="A portrait of Bosch (c. 1485) by an unknown artist. Bosch's blank facial expression encourages us to wonder about his personality and the unique workings of his mind. " show="1">/images20/photo/photo_bosch_hieronymus_10.jpg</p>
+          <p type="p">Between 1480-81, Bosch married a merchant's daughter named Aleid van der Mervenne. Some years older than him, Aleid was heir to a generous inheritance, including a family property in the adjacent town of Oirschot, where the couple settled. It is thought that Bosch never travelled or strayed any further from the immediate area of his hometown. According to Salvin (through Fischer), "Bosch benefitted from the funds, land and status that came with the union, and he established his own workshop soon after the pair married. At this point in his life, Bosch became an artist in his own right, and he was poised to make meaningful connections with influential royal patrons". Indeed, a citation of his name and profession appears in s-Hertogenbosch's town records in 1486 listing him as &lt;i&gt;Insignis Pictor&lt;/i&gt; (Distinguished Painter). </p>
+          <p type="p">One can speculate that because s-Hertogenbosch fell under the governance of the Roman Empire, it is likely that Bosch was fully conversant with the art of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; which was influencing the Flemish painters. Indeed, in 1488, which ages him around 40 years old, Bosch joined the Brotherhood of Our Lady, an archly conservative religious association made up of some 40 of 's-Hertogenbosch's most influential citizens, and a further 7,000 "outer members" scattered across Europe. The Brotherhood (for which Bosch's father had once acted as artistic adviser) was devoted to the Virgin and was widely respected throughout Catholic Europe. It is believed that some of the artist's first devotional commissions came through the Brotherhood, though it is not known for sure if any of these works have survived. </p>
+          <p type="img" alt="&lt;i&gt;Crucifixion with Saints and Donor&lt;/i&gt; (c. 1485-90). Thought to be (since none of his works were dated) one of the artist's earliest known devotional works." show="1">/images20/photo/photo_bosch_hieronymus_11.jpg</p>
+          <p type="p">Commenting on one of his earliest known works, &lt;i&gt;Crucifixion with Saints and Donor&lt;/i&gt; (c. 1485-90), Fischer writes that, "while it remains unknown where it was originally displayed, the painting, like many other devotional images of the period, was created to ensure salvation for the soul of the donor depicted kneeling at the foot of the cross. &lt;i&gt;Crucifixion with Saints and Donor&lt;/i&gt; is something of an outlier in a body of work that favors eccentric, dizzying, and disconcerting compositions, and Bosch would later project his idiosyncratic style onto various religious subjects". But, as art critic Tim Smith-Laing counters, "For all the singularity of his work, there is no evidence to suggest that Bosch was, in any sense, an outsider. While some generously speculative research in the 1940s attempted to link him to an heretical sex cult called the Adamites, and while the 1960s zeitgeist had him hallucinating on ergotic wheat, mainstream academic opinion offers a much tamer picture [...] nothing suggests that Bosch was anything other than a prominent, prosperous citizen, an orthodox Catholic, and a devotional painter much in demand among patrons".</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="&lt;i&gt;Saint John on Patmos&lt;/i&gt; (c 1490-95). In the bottom right hand corner, we see a disturbing, bespectacled, bird/insect/human creature that has been read as a devil and possibly even a caricature of the artist himself. " show="1">/images20/photo/photo_bosch_hieronymus_12.jpg</p>
+          <p type="p">Whereas other northern European artists were also focused on producing biblical narratives, Bosch was interpreting the same subject matter in way that was so peculiarly original it fully jarred with the harmonious and dominant Flemish style. He filtered these stories through his imagination, transforming religious parables into extraordinary new fantasy worlds dense with absurdity and ecclesiastical symbolism. It was in his very loosely defined "middle period" that Bosch's iconic style - featuring contorted and distorted body shapes, vivid coloring, oversized and menacing foliage, and various devils and reptiles - starts to reveal itself through a series of pictures of saints. Pieces such as &lt;i&gt;St. Jerome at Prayer&lt;/i&gt; (c. 1485-90), &lt;i&gt;St. John the Baptist in Meditation&lt;/i&gt; (1490) and an altarpiece, &lt;i&gt;St. John on Patmos&lt;/i&gt; (1490-95), that was possibly commissioned by the Brotherhood of Our Blessed Lady. </p>
+          <p type="p">But it was his &lt;i&gt;Triptych of the Adoration of the Magi&lt;/i&gt; (1494) that is often cited as his first true masterpiece. Commissioned by Peeter Scheyfve and Agneese de Gramme of Antwerp, the work, which shows the Mass of Saint Gregory, effectively secured the artist's reputation, even if in later years it did not fit well with Bosch's "brand recognition". As Smith-Laing noted, "When Bosch died in 1516 he was already one of the best-known painters of his time; he soon became one of the most copied and imitated. By the 1530s [...] there had emerged an entire school of painters in Antwerp dedicated to exactly that - it is with them that Bosch's visionary image began to crystalise". The point Smith-Laing makes is that when "modern marketing professionals" took an interest in his work they were talking about Bosch exclusively in terms of "a purveyor of hellish diableries" and that "stilly [sic] contemplative" works such as the &lt;i&gt;Adoration of the Magi&lt;/i&gt; went largely ignored.</p>
+          <p type="p">As the end of the fifteenth century approached, an influential German astrologer had warned that the "end of the world", which would be brought on by catastrophic flooding, would occur precisely on February 25, 1524. The idea of the Last Judgement took hold in society with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer&lt;/span&gt; producing a famous watercolor recording a dream in which he witnessed the final apocalypse (as water crashing down from the heavens onto earth) and Bosch painting &lt;i&gt;The Last Judgement&lt;/i&gt;, which covered the same subject but with an image of Hell populated with fantastical devils, evil spirits, metamorphized creatures, and erotic symbolism. Between them, Dürer and Bosch (and lesser luminaries no doubt) would have sent shock waves of anxiety through the ranks of the Devoted. </p>
+          <p type="p">Since none of his works carry dates, one cannot be sure when Bosch finished &lt;i&gt;The Last Judgement&lt;/i&gt; (though it is estimated that it was completed between 1482-1505). But Selvin writes, "Bosch started employing at least one assistant by 1499 [and that] he was able to hire an assistant at all was a sign that he achieved success". Indeed, with his &lt;i&gt;The Seven Deadly Sins and the Four Last Things&lt;/i&gt; (c. 1500) - another piece on the theme of the Last Judgement and painted on a tabletop that was meant for a sinner to reflect on before entering the confessional booth - has been attributed, in part at least, to the hand of an assistant. Around this time Bosch produced the masterpiece, &lt;i&gt;The Temptation of Saint Anthony&lt;/i&gt; (C. 1500), a triptych that celebrates St. Anthony's strength of faith under intense coercion from the forces of evil (he would return to the story St. Anthony throughout his later career). By now Bosch's vision was becoming more magnificently expansive. His figures became more lithe; his colors more understated, while the fantasy worlds he presented offered apocalyptic scenes juxtaposed with biblical landscapes of almost idyllic innocence. </p>
+        </subsection>
+        <subsection title="Later Work">
+          <p type="p">&lt;i&gt;The Garden of Earthly Delights&lt;/i&gt; (1490-1510) is unquestionably Bosch's greatest masterpiece and his most iconic work (indeed, many know his name only through this work). His style had by now reached full maturity with his earthly paradise, featuring the creation and temptation of woman perfectly juxtaposed with deeply distressing images of the world of debauchery and pleasure-seeking. </p>
+          <p type="p">The painting's dreamlike/nightmarish quality has become the stuff of mythology and features any number of tiny naked human figures, misshapen animals and ominous creatures thought to have been conjured directly from the artist's boundless imagination. However, The &lt;i&gt;Oxford Dictionary of Art and Artists&lt;/i&gt; states that while works such as &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt; have "an extraordinarily vivid imaginative power and the subjects are heavily embroidered with subsidiary narratives and symbols [...] the basic themes are sometimes quite simple and much of the imagery can be explained in terms of the popular culture of Bosch's age, notably proverbs and devotional literature". It adds that "In purely visual terms, the monsters he painted have analogies in the strange creatures often seen in the margins of medieval manuscripts and in the gargoyles of Gothic architecture [and that even] the cathedral at 's-Hertogenbosch has some fine examples [of these gargoyles]".</p>
+          <p type="img" alt="&lt;i&gt;Ship of Fools&lt;/i&gt; (1495-1500). Much of Bosch's work, especially in later life, critiqued society and its attitude towards religion." show="1">/images20/photo/photo_bosch_hieronymus_13.jpg</p>
+          <p type="p">Aside from Bosch's fixation on the evil and the beauty of God's universe, he demonstrates a great skill for compositional harmony and a fastidious eye for detail that matched that of the Renaissance painters. Indeed, citing &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt;, the famous art historian E. H. Gombrich wrote: "For the first and perhaps only time, an artist had succeeded in giving concrete and tangible shape to the fears that had haunted the minds of man in the Middle Ages. It was an achievement which was perhaps only possible at this very moment when the old ideas were still vigorous and yet the modern spirit [of the Renaissance] had provided the artist with methods of representing what he saw". </p>
+          <p type="p">In &lt;i&gt;The Ship of Fools&lt;/i&gt; (believed originally to be one panel from a triptych) is thought by most scholars to be a response to the publication in 1494 of Sebastian Brant's hugely popular satirical book of the same name. Like Brant, Bosch used the ship (which is in fact a small boat) and its passengers and hangers-on as a metaphor for a debauched society as a whole. The gathering of overexcited revelers reveals again Bosch's association between sin and music, although for reasons that are unclear, the musical entertainment is being provided here by a monk and a nun. The ship's overlong mast is topped by a large branch on which is perched an owl, another Boschian motif that signifies the attendance of sin.</p>
+          <p type="img" alt="Bosch's &lt;i&gt;Self-Portrait&lt;/i&gt; (c. 1508) was drawn in pencil and sanguine. In the picture, it is possible that the artist depicted himself as slightly more withered older man. " show="1">/images20/photo/photo_bosch_hieronymus_14.jpg</p>
+          <p type="p">Historians have speculated that the figure of the "Tree Man" in the Hell panel of &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt; was in fact created in the image of the artist, but the 1508 self-portrait drawing is the only confirmed self-portrait of the artist. It was thought to have been drawn eight years before his death, and it is feasible that Bosch deliberately "exaggerated" his age. In any case, the drawing would seem to foretell Bosch's need to give a face to his legacy, possibly in the knowledge that he was in the latter stages of his life. It was recorded by the Brotherhood of Our Lady that Bosch died in 1516, and that a funerary service was held on the 9th of August in the Church of Saint John in s-Hertogenbosch.</p>
+          <p type="p">Although his place in the history of art is beyond question, Bosch's oeuvre is represented by only around 25 paintings and eight drawings. One reason for this meagre return stems from a period in the 16th century in which members of the Protestant Reformation destroyed many works deemed immoral. Six of his works were bought or confiscated by Philip II of Spain in the end of the 16th century (now owned by the &lt;i&gt;Museo del Prado&lt;/i&gt; in Madrid), and others emerged across Europe which has left a rather piecemeal and potted history of one of the most unique artists in the pantheon.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="An engraved portrait of Hieronymus Bosch attributed to Cornelis Cort, from the Pictorum aliquot Germaniae Inferioris Effigies by Dominicus Lampsonius (1572)." show="1">/images20/photo/photo_bosch_hieronymus_15.jpg</p>
+          <p type="p">During his lifetime, Bosch's work was collected in several countries throughout Europe, and he was widely revered and imitated by students and followers; not least &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bruegel_pieter_the_elder"&gt;Pieter Bruegel the Elder&lt;/span&gt; - the "Second Hieronymus" as he was nicknamed - who was significantly influenced by Bosch's approach to painting landscapes. Although interest in his work dropped off (except in Spain) he emerged as a force again in the modern era where he exerted influence on the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist movement&lt;/span&gt; and artists including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magritte_rene"&gt;René Magritte&lt;/span&gt;, and especially &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;, who claimed in fact that Bosch was the first modern artist. The unusual rock formation resembling Dalí's face in his famous painting, &lt;i&gt;The Great Masturbator&lt;/i&gt; (1929), was inspired by a similar formation in the left panel of &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt;. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-carrington_leonora"&gt;Leonora Carrington&lt;/span&gt;, too, who encountered Bosch's works in &lt;i&gt;Museo del Prado&lt;/i&gt; in 1939, drew inspiration from Bosch's most famous composition. In &lt;i&gt;The Giantess&lt;/i&gt; (1947), for example, Carrington places hunters in an uncanny landscape featuring winged fish and seafarers floating in an ocean-like sky that forms the landscape on which her cloaked female giant stands.</p>
+          <p type="p">The art critic Alastair Sooke states, "It is easy to understand why Bosch continues to fascinate us today: the apocalyptic tone of his work resonates during our era of global conflict and international terrorism" and direct references can be found in examples from film, television, video games, books and even fashion collections. The art critic Tim Smith-Laing adds that "few, if any, of Hieronymus Bosch's contemporaries can claim a similar level of continuing fame. He is a major draw at museums, but his reach extends far beyond: in addition to the standard books, T-shirts and postcards, he has been treated to accessories ranging from tote bags to mousepads and phone cases. There are even Dr. Martens boots with his work printed on them". </p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Cutting the Stone </title>
+      <year>c.1490</year>
+      <materials>Oil on board </materials>
+      <desc>
+				This work shows the extraction of a so-called "stone of madness" from a man's brain. "Trepanation" was an arcane 15th-century medical procedure that involved drilling into the skull of the sufferer and here it is being presided over by a man and a woman (residents, presumably, of the city in the distance). The patient is a peasant while the doctor is identified through his own "foolish" funnel-shaped hat. Rather than extract a stone, however, the doctor/surgeon removes a waterlily. The scene is framed with a Gothic inscription: "Master, quickly cut away the stone, my name is Lubbert Das"; Lubbert being a nickname given to a man who was fat and lazy, while Das referred to a "foolish" character in Dutch literature. A second interpretation of the name, Lubbert Das, was that of a "castrated badger" which alludes here to the idea that the surgery was in fact an act of castration in that it may free the patient from unwanted sexual desires. 
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Pilar Silva said of this piece: "Bosch achieves something new in this work in his transformation of a popular saying into a visual image. In addition, by adding a calligraphic text and interlaced visual elements (sometimes referred to as &lt;i&gt;love knots&lt;/i&gt;) around it, he turns it into a visual and verbal game. This play of words and images which complement each other becomes more complex when we appreciate that what is being extracted from the patient's head is a flower and thus an allusion to lust. The innovative conception of this work, involving a play of words and images, and the way in which Bosch represented it using formal elements inspired by miniature painting and ceremonial coats-of-arms [...] means that it was undoubtedly devised by the artist". The Surrealist Leonora Carrington, who was profoundly inspired by Bosch's works, reworked this piece in her 1960 painting, &lt;i&gt;Adieu Ammenotep&lt;/i&gt;.
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Adoration of theMagi </title>
+      <year>c. 1494</year>
+      <materials>Oil on oak panel </materials>
+      <desc>
+				Bosch's triptych gives an early indication of the artist's dazzlingly original and morally complex vision as represented through the story of the adoration of the Christ child by the Three Kings (or Magi). The naked Christ child sits atop the Virgin's lap as the Magi approach with all the regal dignity befitting such a humbling occasion. Art historian Pilar Silva observes here how the image of Mary with Jesus on her lap is painted "in a manner that recalls the works of Jan van Eyck" while Bosch "demonstrates his painting skills in the opulence of the Magi's robes and offerings - in the sumptuous of the materials and his masterly application of highlights in brushstrokes so fine that they appear to be drawn". Although they are common spectators in fifteenth century Epiphany narratives, Bosch's peasants/shepherds (who typically represent the Israelites) who attend here are unusually irreverent; inquisitive and excitable onlookers hiding behind the damaged stable wall and even from the stable rooftop.
+				&lt;br/&gt;&lt;br/&gt;
+				Perhaps the most "Boschian" feature of the painting is the bearded figure standing just inside the stable behind the Magi. Silva writes, "The Antichrist at the entrance to the stable - which resembles a Brabantian hut - wears a cloak that barely covers his body and beneath it a transparent veil [...] His evil appearance is emphasized by the people beside him inside the hut, among them a woman reminiscent of Leonardo's caricatures in a headdress like those of some of the demons Bosch painted, whose deformed features take on a hideous expression". 
+				&lt;br/&gt;&lt;br/&gt;
+				In his landscape, too, Silva identifies "a house whose flag with a swan and the dovecote above identify it as a brothel" while a man "pulling a tethered horse ridden by a monkey, an allusion to lust, is heading in its direction". The sense of menace in the painting is confirmed in the middle distance where two armies on horseback are charging. "On the basis of their oriental headdresses", writes Silva, "they have been identified as Herod's soldiers seeking out Jesus to kill him". The city on the horizon is Bethlehem and here Bosch gets further "carried away by his imagination" as his buildings have an oriental appearance while a windmill sits just outside the city walls.
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Last Judgment </title>
+      <year>1482-1505</year>
+      <materials>Oil on wood </materials>
+      <desc>
+				For the medieval church, the idea of the Last Judgement was its abiding concern and it instilled in the faithful the belief that if God himself could not keep you from sin, then the fear of damnation among the fires of Hell surely would. It was a narrative that played out in countless sermons and books but in Bosch's inimitable vision the scenario was always apocalyptic. The encyclopaedia &lt;i&gt;World History of Art&lt;/i&gt; notes for instance that "At the base the creation of Eve is treated somewhat similarly in design to Michelangelo's composition in the Sistine Chapel, which was painted at about the same time, although the feeling in each work is very different. Bosch, in the waning of the Middle Ages in northern Europe, had a strong sense of the actuality of hell fire, while Michelangelo, in the High Italian Renaissance, placed strong emphasis on the human values in the story". 
+				&lt;br/&gt;&lt;br/&gt;
+				The work (incidentally, Bosch's largest) provides a fine example of the artist's raised impasto brushwork which challenged the dominant technique of the Flemish painters who preferred transparency and a silky application of paint. The fetid aspect of his imagination is on full show here, with his penchant for the theme of metamorphosis seen in angels transformed into insects; a woman with lizard's legs; a mouse transforming into a porcupine (or vice-versa), not to mention a monstrous hag who cooks humans on a spit. Unlike most of his other works, however, the triptych depicts only Heaven and (mostly) Hell, without giving recognition to a middle place - purgatory - where souls have the opportunity to reflect upon their actions before their salvation or damnation is sealed.
+				&lt;br/&gt;&lt;br/&gt;
+				Some have argued that Bosch's art was influenced by heretical ideas; others, that he was merely channeling the major anxiety of the age; while others maintain that he was essentially a "populist"; an entertainer who visualized one of the Bible's greatest moral tales from a more absurdist perspective (a view certainly favored by the Surrealists). However one reads it, the &lt;i&gt;World History of Art&lt;/i&gt; points out that "The familiar story is clear. Every one of [Bosch's] contemporaries, poor, trusting, illiterate peasants as well as educated burghers, would have grasped the significance of almost all the details and believed the basic message implicitly". Having said that, some of Bosch's images still "must have been frighteningly new and distressing, if not actually inducing despair".
+			</desc>
+      <collection>Academy of Fine Arts, Vienna</collection>
+    </artwork>
+    <artwork>
+      <title>The Garden of Earthly Delights </title>
+      <year>1490-1510</year>
+      <materials>Oil on oak panels </materials>
+      <desc>
+				Bosch's most famous work was painted to commemorate the wedding of the daughter of Count Henry II of Nassau, Brussels. The triptych was intended to illustrate the "benefits and hazards" of marriage by means of a biblical parable: Adam and Eve in the Garden of Eden on the left, a hedonistic "paradise" occupies the center panel, while a blazing Hell awaits the sinners and the unrepentant on the right. On the outer case, Bosch portrays the origin of the world, specifically the third day of creation when the earthly paradise was formed, in grisaille (gray tones). The image features a small figure of God holding an open book in the upper left corner, with the inscription in Latin, "For he spoke, and it came to be; he commanded and it stood firm".
+				&lt;br/&gt;&lt;br/&gt;
+				In the Garden of Eden a youthful God is presiding over the marriage of Adam and Eve. Their heavenly surroundings are populated by animals, mythical creatures, trees, water, and a fantastical structure which floats on the lake. Art historian Wilhelm Fraenger points out that God is touching Eve and that Adam's feet touch God's cloak, creating an indivisible link between the three, through which "a current of divine power flows down, so that this group of three actually forms a closed circuit, a complex of magical energy". Seen from this perspective, the scene is a visualization of the divine union between man and God. In the center panel, Bosch illustrates the development of the Garden of Eden and the advancement of humanity through festivities and pleasurable activities. Again, they are surrounded by fantastical Boschian creatures, plants, structures, and organic pods. 
+				&lt;br/&gt;&lt;br/&gt;
+				The nudity of the figures indicates that the scene takes place prior to the expulsion of man from paradise. However, the figures' apparent focus on instant self-gratification and giving into temptation (reinforced by the repeated symbol of the strawberry) can be seen to anticipate the final judgement and the descent into the bowels of Hell. Bosch gives us a dark and chaotic landscape, devoid of flora and fauna. The many musical instruments in the scene likely refer to various forms of sin, such as the bagpipes representing lust and pleasures of the flesh. In the center of the scene stands his iconic "tree man" (possibly a self-portrait), a mere observer of the world, much like the artist himself. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Garden of Earthly Delights&lt;/i&gt; has invited a seemingly inexhaustible range of interpretations; from seventeenth Spanish historian José de Siguenza who described the painting as "a satirical comment on the shame and sinfulness of mankind", to the twenty-first century when art historian Pilar Silva described the painting as a meditation on the "transient nature of earthly vanity". But the piece was finely summarized by art historian Claire Selvin who wrote: "Bosch's penchant for humor and absurdity shines through his masterpiece. Nude figures twist their spindly bodies around one another and perform acrobatic poses, birds and animals look on or join in the erotic revelry, and some participants congregate in snug shells and enclosures of various shapes and colors. Levity can even be found in the macabre scenes of destruction on the triptych's right side, where a pair of giant ears wields a massive knife and monumental musical instruments are used as torture devices. More than 500 years after its creation, &lt;i&gt;The Garden of Earthly Delights&lt;/i&gt;, which puts Bosch's boundless imagination on full view, remains a source of intense fascination and entertainment for art historians and art lovers alike".
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Seven Deadly Sins and the Four Last Things </title>
+      <year>c. 1500</year>
+      <materials>Oil on poplar panel </materials>
+      <desc>
+				Continuing Bosch's preoccupation with the theme of the Last Judgement, the &lt;i&gt;Seven Deadly Sins&lt;/i&gt; - Wrath, Envy, Greed, Gluttony, Sloth, Lust, Pride - are depicted individually around a central circle featuring an image of Christ emerging from a tomb. The &lt;i&gt;Four Last Things&lt;/i&gt; - (top left, clockwise) Death, Judgement, Heaven, Hell - occupy the corners of the frame. Underneath Christ is text that translates as "Beware, beware, the Lord sees". The banderol on the top quotes from Deuteronomy 32:28 and translates as "They are foolish. They don't understand. If they were wise, they would understand; they would know what would happen to them"; the banderol at the bottom, containing text from Deuteronomy 32:20, translates as "I will turn away from them, then let's see what happens!". If one "steps back" from the painting one can fully appreciate its symbolism. With large central circle (Jesus) surrounded by a smaller circle (the Seven Deadly Sins) the image represents the all-seeing eye of God. 
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;Last Things&lt;/i&gt;, thought to be the stages the soul passes through upon death, features, for instances, "Death": a dying man, attended by family members, receives his last rites while a skeleton (who will deliver the final death blow with an arrow) and a devil and an angel, who will fight over the soul of the man, wait in anticipation of the man's passing, and "Heaven": at Heaven's gates, an angel prevents a devil from snatching a woman while Jesus and his angels wait to greet the pious newcomers. In the circle of the &lt;i&gt;Deadly Sins&lt;/i&gt; we see for instance, "Wrath": two feuding peasants who attack one another with weapons; "Envy": a married woman is tempted into seduction by a rich man as her poor parents look on enviously; and "Pride": a vain and wealthy woman admires herself in a mirror being held up by the devil. 
+				&lt;br/&gt;&lt;br/&gt;
+				Like many of Bosch's works, the painting is on display at &lt;i&gt;Museo del Prado&lt;/i&gt; in Madrid. The Prado displays it as an original Bosch while acknowledging that there is some debate as to whether that claim is fully valid, even if it is generally agreed that it was created in his workshop. The painting contains Bosch's name (just below the banderol in the bottom center) but there is documentation that suggests that a pupil of Bosch worked on the painting and might have added Bosch's name out of respect for the master and/or to increase the painting's market value. However, given the rather uneven quality of the painted figures - and although the date of this work is unknown, it is believed to represent Bosch's later work because it features a wide brush technique found in other mature works such as &lt;i&gt;The Haywain Triptych&lt;/i&gt; - the most likely explanation, suggests the &lt;i&gt;Museo del Prado&lt;/i&gt;, is that Bosch painted some scenes with others being produced by the unnamed apprentice. 
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Haywain Triptych </title>
+      <year>c.1512-15</year>
+      <materials>Oil on wood </materials>
+      <desc>
+				The outer doors of the triptych features a peddler on the "Pilgrimage of Life" and is painted in full color rather than in the grisaille style that was typical of Bosch's earlier outer panels. Art critic Ingrid D. Rowland says of the exterior panels that "Most scholars interpret the wayfarer as an everyman, making his way through life amid threats to his physical and spiritual safety. Only constant faith and vigilance will keep him on this treacherous road". Indeed, the theme of pilgrimage, and the potential perils and pitfalls of life's journey, act as a presage for the story of the consequences of sin that will unfold across the three inside panels.
+				&lt;br/&gt;&lt;br/&gt;
+				The first inner panel deals with the expulsion of dissident angels (they have disobeyed God) from the Garden of Eden. Recalling the first panel of &lt;i&gt;The Last Judgment&lt;/i&gt;, and as punishment for their sins, the rebel angels metamorphose into insect figures. The center panel deals with humanity's descent into a world of sin under the judgmental gaze of Christ (the Redeemer). Behind the honest and humble workers and parents who occupy the bottom of the frame, others, having been possessed by greed, snatch furiously at the hay all the while oblivious to the fact that the Haywain (hay wagon) is being driving by the devil's chauffeurs straight into Hell. In the final panel, Bosch, undoubtedly one of the first artists to tackle abstract concepts in his work, once more gives us his peerless vision of Hell, though here his Hades is still under construction. The Devil's builders are busy completing the circular tower labors, their backs turned away from the devilish wagon drivers who are delivering the sinners to their new home.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Pilar Silva says of this piece, Bosch "shows how man, irrespective of his social class or place of origin, is so possessed by the desire to enjoy and acquire material possessions that he allows himself to be deceived or seduced by the Devil. Thus the artist proposes that we should renounce earthly goods and the delights of the senses in order to avoid eternal damnation. The painting offers an &lt;i&gt;exemplum&lt;/i&gt; of a different type to the ones commonly used at the time, in the sense that it is not a question of doing good but rather of avoiding evil and of adhering to this rule throughout life". While most scholars interpret &lt;i&gt;The Haywain Triptych&lt;/i&gt; along these religious and moralistic lines, art historian Wilhelm Fränger offered an alternative theory when he proffered the idea that his "sinner" triptychs were in fact altarpieces commissioned, not by the Catholic Church, but by a mystery cult.
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Temptation of St Anthony </title>
+      <year>1500-16</year>
+      <materials>Oil on panel </materials>
+      <desc>
+				The story of Anthony, the "Hermit Saint" who devoted his life to chastity, is famous within the Christian tradition. Anthony had been enticed to break his vow (of chastity) when visited by apparitions of beautiful women. In order to scare them away, Anthony bites off his own tongue and spits it at the spirits. In this interpretation, Bosch again tackles the theme of human temptation but in a rather less dystopian take on that abiding parable than those earlier works that result in the descent into Hell. Indeed, Anthony is presented by Bosch as a role model for &lt;i&gt;all&lt;/i&gt; humankind with brushwork that is noticeably sharper and more precise. Despite these "innovations", Saint Anthony is surrounded by the sinister part human/machine/animal bodies for which Bosch is so famous. Still, doubts persisted over whether this version of &lt;i&gt;The Temptation of St Anthony&lt;/i&gt; was an authentic Bosch. It was only after scientific testing at the &lt;i&gt;Museo del Prado&lt;/i&gt; that it was proved beyond any doubt that the work, one of the seven signed by the artist, was indeed a genuine Bosch.
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;Temptation of St Anthony&lt;/i&gt; depicts the Saint in the foreground sitting inside a hollow tree trunk, surrounded by a sunny landscape as he observes a small winding river. In this isolated and serene setting, Anthony wears a brown cloak adorned with the Greek letter "tau", a recognizable symbol for the cross, life, and resurrection. He holds a rosary, and a domesticated pig lays by his side (Anthony being the Patron Saint of pigs) seemingly unaware of the devil with the birds' head that is poised to attack the swine with a mallet. Saint Anthony hands are folded in prayer, his book closed and hanging from his belt, as he recedes into his meditative state. The landscape, although less intricate than those of Bosch's famous triptych's, features various elements that bring the narrative alive. These include a monastery, a humble hut-like home, and various tall trees, all of which were drawn from the Holy books that told of Anthony's life. The peaceful atmosphere of the painting reflects Anthony's inner calm while also emphasizing the eternal triumph of piety over sin. Indeed, Anthony seems so at peace he is seemingly unperturbed by the menacing Boschian creatures that are encroaching on his space.
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column />
+      <column />
+      <column>
+        <entity>northern_renaissance</entity>
+        <entity>classical_greek_and_roman_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>goya_francisco</entity>
+        <entity>miro_joan</entity>
+        <entity>dali_salvador</entity>
+        <entity>magritte_rene</entity>
+        <entity>ernst_max</entity>
+      </column>
+      <column />
+      <column>
+        <entity>northern_renaissance</entity>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>mannerism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Carrington and Hieronymus Bosch</title>
+          <link>https://www.theartstory.org/blog/leonora-carringtons-surrealist-scenes-find-muse-in-hieronymus-boschs-christian-fantasies/</link>
+          <info>Entry on Art Story Blog</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Hieronymus Bosch: Visions and Nightmares (Renaissance Lives)</title>
+          <link>1780235798</link>
+          <info>By Nils Büttner</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bosch: The 5th Centenary Exhibition</title>
+          <link>0500970793</link>
+          <info>By Pilar Silva Maroto</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Hieronymus Bosch: Complete Works XL</title>
+          <link>3836526298</link>
+          <info>By Stefan Fischer</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hieronymus Bosch: Visions of Genius</title>
+          <link>0300220138</link>
+          <info>By Matthijs Ilsink and Jos Koldeweij</info>
+        </entry>
+        <entry>
+          <title>Jheronimus Bosch: The Road to Heaven and Hell</title>
+          <link>1468313738</link>
+          <info>By Gary Schwartz</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hieronymus Bosch</title>
+          <link>0789209012</link>
+          <info>By Larry Silver</info>
+        </entry>
+        <entry>
+          <title>Bosch (Taschen Basic Art Series 2.0)</title>
+          <link>3836559862</link>
+          <info>By Walter Bosing</info>
+        </entry>
+        <entry>
+          <title>Bosch and Bruegel: From Enemy Painting to Everyday Life (The A. W. Mellon Lectures in the Fine Arts, 42)</title>
+          <link>0691172285</link>
+          <info>By Joseph Leo Koerner</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>The Garden of Earthly Delights by Jheronimus Bosch, an Online Interactive Adventure</title>
+          <link>https://tuinderlusten-jheronimusbosch.ntr.nl/en</link>
+          <info>Narrated by Redmond o'Hanlon.</info>
+        </entry>
+        <entry>
+          <title>Bosch Research and Conservation Project</title>
+          <link>http://boschproject.org</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Bosch The Centenary Exhibition</title>
+          <link>https://www.museodelprado.es/en/whats-on/exhibition/bosch-the-centenary-exhibition/f049c260-888a-4ff1-8911-b320f587324a</link>
+          <info>Museo Del Prado</info>
+        </entry>
+        <entry>
+          <title>All Works by Hieronymus Bosch</title>
+          <link>https://www.hieronymus-bosch.org</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Scientists Question Attribution of Two Hieronymus Bosch Masterpieces</title>
+          <link>https://news.artnet.com/art-world/hieronymus-bosch-attribution-paintings-353804</link>
+          <info>
+						By Henri Neuendorf
+						&lt;br&gt;
+						Art Net News 
+						&lt;br&gt;
+						November 2, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The Mystery of Hieronymus Bosch</title>
+          <link>http://www.nybooks.com/articles/2016/08/18/mystery-of-hieronymus-bosch/</link>
+          <info>
+						By Ingrid D. Rowland 
+						&lt;br&gt;
+						New York Times Book Reviews 
+						&lt;br&gt;
+						August 18, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>500 years later, Painter Hieronymus Bosch Remains a Mystery in Documentary</title>
+          <link>https://www.latimes.com/entertainment/movies/la-et-mn-capsule-bosch-review-20160802-snap-story.html</link>
+          <info>
+						By Gary Goldstein 
+						&lt;br&gt;
+						LA Times 
+						&lt;br&gt;
+						August 4, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Traps for the unwary</title>
+          <link>https://www.the-tls.co.uk/articles/koerner-bosch-bruegel/</link>
+          <info>
+						Discussion of book on Bosch and Pieter Bruegel the Elder 
+						&lt;br&gt;
+						By Gabriel Josipovici 
+						&lt;br&gt;
+						The Times Literary Supplement 
+						&lt;br&gt;
+						March 29, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Hieronymus Bosch review - A Heavenly Host of Delights on the Road to Hell</title>
+          <link>https://www.theguardian.com/artanddesign/2016/feb/11/hieronymus-bosch-review-a-heavenly-host-of-delights-on-the-road-to-hell</link>
+          <info>
+						By Jonathan Jones 
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 11, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Ultimate Vision of Hell</title>
+          <link>https://www.bbc.com/culture/article/20160219-the-ultimate-images-of-hell</link>
+          <info>
+						By Alastair Sooke 
+						&lt;br&gt;
+						BBC, Culture 
+						&lt;br&gt;
+						February 19, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Hieronymus Bosch: A Mysterious Master's Early Life and Major Works</title>
+          <link>https://www.artnews.com/feature/hieronymus-bosch-life-early-works-best-paintings-1202685134/</link>
+          <info>
+						By Claire Selvin
+						&lt;br&gt;
+						ArtNews 
+						&lt;br&gt;
+						April 29, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Saving Hieronymus Bosch from the Devil</title>
+          <link>https://www.irishtimes.com/culture/art-and-design/saving-hieronymus-bosch-from-the-devil-1.2531358</link>
+          <info>
+						By Hiram Morgan 
+						&lt;br&gt;
+						The Irish Times 
+						&lt;br&gt;
+						February 15, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Personality and Problem of Hieronymus Bosch</title>
+          <link>https://journals.sagepub.com/doi/pdf/10.1177/003591576505800224</link>
+          <info>
+						By R E Hemphill 
+						&lt;br&gt;
+						Proceedings of the Royal Society of Medicine 
+						&lt;br&gt;
+						February 1, 1965
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Of Heaven and Hell: Narrating Hieronymus Bosch</title>
+          <link>https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1028.4131&amp;rep=rep1&amp;type=pdf</link>
+          <info>
+						By Andrea Fontana 
+						&lt;br&gt;
+						Qualitative Inquiry 
+						&lt;br&gt;
+						June 1997
+					</info>
+        </entry>
+        <entry>
+          <title>Between Heaven and Hell</title>
+          <link>http://www.all-art.org/early_renaissance/bosch5.html</link>
+          <info>
+						A World History of Art
+					</info>
+        </entry>
+        <entry>
+          <title>Hieronymus Bosch: A Mysterious Master's Early Life and Major Works</title>
+          <link>https://www.artnews.com/feature/hieronymus-bosch-life-early-works-best-paintings-1202685134/</link>
+          <info>
+						By Claire Selvin
+						&lt;br&gt;
+						Artnews 
+						&lt;br&gt;
+						April 29, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>So who the hell was Hieronymus Bosch</title>
+          <link>https://www.apollo-magazine.com/more-than-grotesque-is-it-time-to-rebrand-bosch/</link>
+          <info>
+						By Tim Smith-Laing 
+						&lt;br&gt;
+						Apollo 
+						&lt;br&gt;
+						March 1, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Hieronymus Bosch: The 5th Centenary Exhibition</title>
+          <link>https://www.museodelprado.es/en/the-collection/art-work/the-haywain-triptych/7673843a-d2b6-497a-ac80-16242b36c3ce</link>
+          <info>
+						By Pilar Silva
+						&lt;br&gt;
+						Museo Nacional de Prado 
+						&lt;br&gt;
+						2016
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Larry Silver discusses the work at the Museo del Prado</title>
+          <link>https://www.youtube.com/watch?v=sySnRh7h2Jg</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Hieronymus Bosch Art Documentary</title>
+          <link>https://www.youtube.com/watch?v=UOXiq7DAZwQ</link>
+          <info>By Brian Sewell</info>
+        </entry>
+        <entry recommended="true">
+          <title>Technical study of "The Garden of Earthly Delights" by Bosch</title>
+          <link>https://www.youtube.com/watch?v=4-KNtPv4I4E</link>
+          <info>Video by Museo del Prado (In Spanish with English subtitles)</info>
+        </entry>
+        <entry>
+          <title>Restoration: "The Temptations of Saint Anthony" by Hieronymus Bosch</title>
+          <link>https://www.youtube.com/watch?v=JJQbHaD9J5s</link>
+          <info>Video by Museo del Prado (In Spanish with English subtitles)</info>
+        </entry>
+        <entry>
+          <title>The Unspeakable Subject of Hieronymus Bosch - Joseph Leo Koerner</title>
+          <link>https://www.youtube.com/watch?v=oAwilLEhtw4</link>
+          <info>By Institute for Advanced Study</info>
+        </entry>
+        <entry recommended="true">
+          <title>Commented Works: The Garden of Earthly Delights, by Hieronymus Bosch</title>
+          <link>https://www.youtube.com/watch?v=p-63oQ1iUVM</link>
+          <info>Video by Museo del Prado (In Spanish with English subtitles)</info>
+        </entry>
+        <entry recommended="true">
+          <title>Commented Works: "Table of the Seven Deadly Sins", by Hieronymus Bosch</title>
+          <link>https://www.youtube.com/watch?v=Q2icQ7EJjCU</link>
+          <info>Video by Museo del Prado (In Spanish with English subtitles)</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hieronymus Bosch, The Garden of Earthly Delights (Full Length): Great Art Explained</title>
+          <link>https://www.youtube.com/watch?v=vBG621XEegk</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Know the Artist: Hieronymus Bosch</title>
+          <link>https://www.youtube.com/watch?v=AnJ4RThsooA</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The National Gallery: Hieronymus Bosch's 'Christ Mocked' in 10 minutes</title>
+          <link>https://www.youtube.com/watch?v=UId53499sTI</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Smarthistory: Bosch, The Last Judgment</title>
+          <link>https://www.youtube.com/watch?v=Ea6qS3nuvng</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Sotheby's: From Heaven to Hell and Back in Hieronymus Bosch's 'Garden'</title>
+          <link>https://www.youtube.com/watch?v=zD_nwg9CMzw</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Art in a State of Siege: Hieronymus Bosch in Retrospect (Presentation by Joseph Koerner at Harvard University</title>
+          <link>https://www.youtube.com/watch?v=FA4ZRZxdFx0</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry recommended="true">
+          <title>Hieronymus Bosch, Touched by the Devil</title>
+          <link>http://www.imdb.com/title/tt5337758/</link>
+          <info>
+						Movie about Bosch
+						2015
+						&lt;br&gt;
+					</info>
+        </entry>
+        <entry>
+          <title>How I made Hellboy in My Image</title>
+          <link>https://www.theguardian.com/film/2008/jul/27/guillermodeltoro</link>
+          <info>
+						By Guillermo Del Toro
+						&lt;br&gt;
+						The Observer
+						&lt;br/&gt;
+						Movie by Guillermo del Toro Inspired by Bosch
+					</info>
+        </entry>
+        <entry>
+          <title>Michael Connely's Novel: Character entitled Harry Bosch</title>
+          <link>https://www.wsj.com/articles/michael-connelly-brings-harry-bosch-to-tva-classic-cop-books-a-tv-role-1385669083?tesla=y</link>
+          <info>
+						By Alexandra Alter
+						&lt;br&gt;
+						The Wall Street Journal
+						&lt;br&gt;
+						November 28, 2013
+						&lt;br/&gt;
+						Novel Character Inspired by Bosch 
+					</info>
+        </entry>
+        <entry>
+          <title>An Art Crawl Through the Spring 2017 Collections</title>
+          <link>https://www.vogue.com/article/spring-2017-ready-to-wear-fine-arts-trends</link>
+          <info>
+						Laird Borelli-Persson
+						&lt;br&gt;
+						Vogue
+						&lt;br&gt;
+						October 12, 2016
+						&lt;br&gt;
+						Dress by Valentino Inspired by Bosch
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

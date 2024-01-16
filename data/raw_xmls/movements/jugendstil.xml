@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>jugendstil</id>
+    <name>Jugendstil</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1896 - 1914</years>
+    <description>Jugendstil, the German branch of Art Nouveau, revolutionized and popularized modern design and crafts.</description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1896</start>
+    <end>1914</end>
+    <art_type>Art</art_type>
+    <pub_time>11/17/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>klimt_gustav</artist>
+    <artist>gaudi_antoni</artist>
+    <artist>guimard_hector</artist>
+    <artist>tiffany_louis_comfort</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>art_nouveau</movement>
+    <movement>vienna_secession</movement>
+    <movement>wiener_werkstatte</movement>
+    <movement>art_deco</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>art_nouveau</entry>
+    <entry>vienna_secession</entry>
+    <entry>wiener_werkstatte</entry>
+    <entry>art_deco</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" alt="August Endell" author="endell_august">"We are on the threshold of not only the new style, but also the development of a completely new art. The art of applying forms of nothing insignificant, not representing anything, and not resembling anything."</q>
+    <q author="August Endell">"to simply see, to simply absorb ourselves in color..."</q>
+    <q author="August Endell">"Forms and colors release in us a particular feeling effect without any mediation. We must only learn to allow them to become conscious in ourselves."</q>
+    <q author="Hermann Obrist">"Most of the works were free, musically rhythmical fantasies, full of vibrations, curves, verticals, horizontals and spirals...[And] the ideas did not originate in nature alone, but in everything that vibrates in all rhythm and all reverberations such as can be found everywhere - in waves, in clouds of feathers, in the circadian and annual cycles, in the sound of the wind in the trees, in every waterfall, every geyser, every lane, every marsh, every dance, every music"</q>
+    <q author="Hermann Obrist">"An undreamed-of wealth of possibilities arise for an eye that has learned to see the sculptural forms in nature, which has learned to enlarge the compact power of buds, the roundness and ribs of seeds from their microscopic smallness to meter-high forms. All forms of tactile feeling, the feeling of smoothness, of coarseness, of hardness, of softness, of elasticity, of rigidity, of flexibility, of swollenness, of leanness, of roundness, and of angularity are aroused by forms remodeled from nature, and sculptural architectural ornament awaits, like Sleeping Beauty, its resurrection. No: the human nude is not the beginning and end of sculpture."</q>
+    <q author="Peter Behrens">"Design is not about decorating functional forms - it is about creating forms that accord with the character of the object and that show new technologies to advantage."</q>
+    <q author="Hans Christiansen">"I take my work as an artist as general as possible: I want to paint a portrait but can also design a piece of furniture; I draw cartoons but also wallpapers, posters; I design stained glass windows but also occasionally a screen."</q>
+    <q author="Deutsche Werkstätten catalogue for Richard Riemerschmid's furniture line">"developing the style of furniture from the spirit of the machine"</q>
+    <q author="Theodor Fischer">"There is no fixed boundary line between tool and machine."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Partaking in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; trends elsewhere in Europe, Jugendstil in Germany revolutionized and popularized modern design and crafts at the turn of the 20&lt;sup&gt;th&lt;/sup&gt; century. The term Jugendstil, meaning "Young Style," was derived from the magazine &lt;i&gt;Die Jugend&lt;/i&gt;, and the style tended toward floral motifs, arabesques, and organically inspired lines and eventually moved toward abstraction and functionalism. Importantly, it emphasized workshops, where groups of designers worked with industrialists for mass production to disseminate products.
+			&lt;br/&gt;&lt;br/&gt;
+			Jugendstil would become an important touchstone for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionists&lt;/span&gt; in Germany and Austria who were creating new visions of the modern subject and urban centers as well as later &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; experiments in combining fine and applied arts.
+		</synopsys>
+    <key_ideas>
+      <idea>The dominant forms of Jugendstil furniture, architecture, and illustrations were organic shapes and lines that were at once simple and dynamic. It shared with the international &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; movement naturalistic floral motifs, but as the style evolved, the organic shapes contrasted with more abstract and geometric forms to create a more complex dynamism.</idea>
+      <idea>Many of the Jugendstil artists were well versed in multiple art forms, and they strove to create a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gesamtkunstwerk"&gt;Gesamtkunstwerk&lt;/span&gt;, or total work of art. The idea of the gesamtkunstwerk evolved over the 19&lt;sup&gt;th&lt;/sup&gt; century, and Jugendstil took its core aim - a desire to synthesize all of the arts - to create carefully designed environments that would be harmonious with human use.</idea>
+      <idea>While Jugendstil emphasized the individual imagination, it also strove to bring art and design to a wide audience. Setting up workshops across Germany, Jugendstil artists worked with industrial designers to create objects that could easily be mass produced.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Munich and Hermann Obrist">
+          <p type="img" alt="This photograph shows Hermann Obrist in 1900." show="1">/images20/photo/photo_jugendstil_1.jpg</p>
+          <p type="p">Swiss-born artist Hermann Obrist launched Jugendstil in the mid-1890s in Munich, and the city soon became the early center of the movement that included August Endell, Bruno Paul, Bernhard Pankok, and Otto Eckmann. Growing up in Switzerland, Obrist first studied botany and history, but after several trips in 1886 through the countryside, he experienced a number of visions of "a strange, unknown city with towers and temple-like buildings...translucent and...perpetually in motion, disappearing and then reappearing." In his autobiography &lt;i&gt;A Happy Life: A Biography of the Artist, Naturalist and Independent Spirit"&lt;/i&gt; (c. 1900), he wrote of his experiences in the third person, saying, "Nothing he saw was in any way reminiscent of the many styles he would later encounter on his travels. Making a clearer than ever mental note of what he had just seen, he hurriedly drew sketches which he still feasts on to this day; and a voice inside him called out to him for the first time and said: Leave your studies; go forth and picture this." As a result of his vision, he turned to sculpture and the applied arts in 1887. His early ceramics and furniture won awards at the 1889 Paris Exposition, and in the early 1890s following the sale of a model for a fountain, he moved to Florence, where he opened an embroidery and tapestry workshop with Berthe Ruchet, which he relocated to Munich in 1895.</p>
+          <p type="img" alt="A detail of Hermann Obrist's &lt;i&gt;Cyclamen&lt;/i&gt; (1892-94), a wall-size tapestry made of wool with silk embroidery thread that pioneered the 'whiplash'." show="1">/images20/photo/photo_jugendstil_2.jpg</p>
+          <p type="p">Obrist exhibited 35 wall-sized tapestries at a 1896 exhibition, where his tapestry &lt;i&gt;Cyclamen&lt;/i&gt; (1892-94) had an electric effect; at the time, the work was described as a "raging movement [that] seemed to us to reflect the abrupt, violent twists of the cord when lashing a whip." Art critic Andrew Hickling notes that with this piece, Obrist was proclaimed "the inventor of the 'whiplash'; a sinuous flourish of hairpin curves inspired by cyclamen stems," a pattern that would become synonymous with &lt;i&gt;fin-de siècle&lt;/i&gt; design.</p>
+          <p type="p">Obrist's work was informed by his naturalistic knowledge of organic processes and movements as well as his interest in the latest science. His unpublished notes include a list titled "Ecstatic Vortex" that partially reads: "Water vortex in the washbasin, bat spiral, crater vortex machineatonic, sculpted cigarette smoke, Rococo chapel volute torrent, Zermatt, vortex around cliffs." Here one can see references to his interest in the latest scientific experiments in fluid and aerodynamics. His ideas, expressed in a series of lectures, formed the basis of the new movement, and his teachings had a wide impact. He cofounded the Debschitz School, a private art school, in Munich in 1902, which was described by historian Beate Ziegert as having a profound influence on German culture with its "vision of interaction between art, design and manufacture that anticipated the German Bauhaus."</p>
+        </subsection>
+        <subsection title="&lt;i&gt;Atelier Elvira&lt;/i&gt;">
+          <p type="img" alt="August Endell's &lt;i&gt;Atelier Elvira&lt;/i&gt; (1897-1898), depicting a red and gold dragon-like form within a wave-like element against a green background, emphasized the whiplash to create an almost abstract pattern." show="1">/images20/photo/photo_jugendstil_3.jpg</p>
+          <p type="p">August Endell moved to Munich in 1892 where he intended to be a scholar, studying psychology, philosophy, German art, and literature, until he met Obrist, an encounter that turned him toward art. The two men became close friends and colleagues, as Endell wrote, "The starting point for my work was the embroideries of Hermann Obrist, in which I got to know for the first time free organically discovered, not externally composed, forms. At first I studied purely as a psychologist and aesthetic theorist until I was gradually convinced that it must be possible to achieve strong and living effects in architecture and applied art exclusively through freely invented forms." Endell's first commission made him famous. The &lt;i&gt;Atelier Elvira&lt;/i&gt; (1897-1898) was a Munich photography studio, the first company founded in Germany by women, owned by the feminist photographer Sophia Goudstikker and the actress Anita Augspurg. His design, which he called "Octopus Rococo" played a significant role in Jugendstil's evolution toward abstract pattern, though it also provoked criticism, as the official licensing the design called it a "a mockery of drawing art."</p>
+          <p type="p">Becoming a co-editor of the arts and literary magazine &lt;i&gt;Pan&lt;/i&gt; in 1899, Endell published several essays that also had a significant impact on the movement. In his "Um die Schönheit" ("On Beauty"), he advocated for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-biomorphism"&gt;biomorphic&lt;/span&gt; abstraction, stating that artists should be able to freely invent forms, separate from the claims of nature and the confines of the art gallery, writing, "We are on the threshold of not only the new style, but also the development of a completely new art. The art of applying forms of nothing insignificant, not representing anything, and not resembling anything." These ideas influenced not only Jugendstil artists but Expressionists, including Lovis Corinth, Franz Stuck, and Ernst Kirchner. Endell also was an innovative leader of the Kunstgewerbeschule (School of Applied Arts) that established vocational arts schools throughout Germany. Primarily interested in creating &lt;i&gt;Raumbewegung&lt;/i&gt; ("space movement"), his ideas informed the concept of &lt;i&gt;Raumkunst&lt;/i&gt;, or "room art," practiced by many Jugendstil artists, and his book, &lt;i&gt;The Beauty of the Metropolis&lt;/i&gt; (1908) informed urban architecture, design, and planning.</p>
+        </subsection>
+        <subsection title="&lt;i&gt;Raumkunst&lt;/i&gt;">
+          <p type="img" alt="This photograph (1904-05) from the &lt;i&gt;Stuttgart News&lt;/i&gt; shows Bernard Pankok's interior exhibited at the 1904 Louisiana Purchase Exposition in St. Louis." show="1">/images20/photo/photo_jugendstil_4.jpg</p>
+          <p type="p">A dominant trend in Art Nouveau that Jugendstil adopted was &lt;i&gt;raumkunst&lt;/i&gt; or "room art," in which all the elements of a room, from lighting fixtures to wallpaper to furniture and decorative objects, were intended to transform the interior into a spatial art with a singular style. Endell's concept of lt;i&gt;Raumbewegung&lt;/i&gt; informed Jugendstil design, as he wrote, "It is the life of space (Raum) that gives...such a strong and meaningful basis to form and color...It is customary to understand under the term architecture the elements of a building, the facades, the columns, and the ornaments. And yet all of this is only secondary. What is in fact most powerful is not form, but rather its reversal, the emptiness that spreads out rhythmically between walls, that is defined by them, but whose liveliness is more important than the walls themselves."</p>
+          <p type="p">As a result, Jugendstil designs tended toward a spare rigor, as they also innovatively embraced modern production methods to the degree that, simplifying their designs, they began to use standardized components. Commissioned by J. Mayer &amp; Company, a piano manufacturer, Richard Riemerschmid created his Music Room for the 1899 Dresden German Art Exhibition, and it was so popular that his furniture went immediately into production. He subsequently created a furniture line that produced components that would be manufactured and then assembled. Bruno Paul's Hunting Room, Bernhard Pankok's Smoking Room, and Riemerschmid's Room for an Art Lover were wildly successful interiors at the 1900 Paris Exposition Universelle, and many of the items made were commercially produced and copied, resulting in some of the first commercial "knock-offs."</p>
+        </subsection>
+        <subsection title="Jugendstil Publications">
+          <p type="img" alt="This cover image of &lt;i&gt;Die Jugend&lt;/i&gt; (May 30, 1896) showing a nymph and satyr uses the distinctive typography associated with the magazine and the movement." show="1">/images20/photo/photo_jugendstil_5.jpg</p>
+          <p type="p">A number of magazines, including &lt;i&gt;Simplicissimus&lt;/i&gt;, &lt;i&gt;Pan&lt;/i&gt;, &lt;i&gt;Dekorative Kunst&lt;/i&gt; (&lt;i&gt;Decorative Art&lt;/i&gt;) and &lt;i&gt;Deutsche Kunst und Dekoration&lt;/i&gt; (&lt;i&gt;German Art and Decoration&lt;/i&gt;) popularized Jugendstil. One of the journals &lt;i&gt;Die Jugend&lt;/i&gt;, meaning "the young," founded by the writer G, Hirth in Munich in 1896, lent its name to the movement. Produced in cities across Germany - Otto Julius Bierbaum and Julius Meier-Graefe founded &lt;i&gt;Pan&lt;/i&gt; in Berlin in 1895 and Alexander Koch founded &lt;i&gt;German Art and Decoration&lt;/i&gt; in Darmstadt in 1897 - these magazines included illustrations, graphic design, typography by leading artists, and promoted new designs and concepts in both the fine and applied arts. These publications also informed and shaped the movement, as it took up &lt;i&gt;Die Jugend's&lt;/i&gt; distinctive typography and was influenced by the Belgian designer Henry Van de Velde, Raumkunst ("room art"), and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gesamtkunstwerk"&gt;Gesamtkunstwerk&lt;/span&gt; (total work of art).</p>
+        </subsection>
+        <subsection title="United Workshops for Art in Craft 1897">
+          <p type="p">Led by Franz August Otto Krueger and including Obrist, Richard Riemerschmid, Bruno Paul, and Peter Behrens, the Vereinigte Werkstatten fur Kunst und Handwerk (United Workshops for Art in Craft) was established in Munich 1897. The workshop was launched as part of a campaign to advocate for the inclusion of the applied arts in a Munich exhibition that year. Creating a community of craftsmen producing artistically inspired objects, the workshop was also based upon the concept that by having access to technical expertise, artists' designs could be commercially produced. Exhibiting at the 1899 German Art Exhibition and the 1900 Paris Exposition Universelle, the workshop became a commercially successful enterprise, influencing the development of similar organizations throughout Germany.</p>
+        </subsection>
+        <subsection title="Darmstadt Artists Colony 1899">
+          <p type="img" alt="Joseph Maria Olbrich's Ernst Ludwig House (1900), built as a community studio and surrounded by artists' residences, included art works by Peter Behrens and Paul Bürck, as well as Ludwig Habich's two monumental statues shown here." show="1">/images20/photo/photo_jugendstil_6.jpg</p>
+          <p type="p">As workshops sprung up in most German cities, Darmstadt quickly became the leading center of Jugendstil, when the city's ruler, Grand Duke Ernst Ludwig of Hesse, established the Darmstadt Artists' Colony, a utopian community, in 1899. A patron of the British Arts and Crafts style, the Duke was influenced by Alexander Koch, an ardent proponent for the unification of all the arts and the restrained functional style of the Glasgow School, whose magazine &lt;i&gt;German Art and Decoration&lt;/i&gt;, based in Darmstadt was already widely influential.</p>
+          <p type="img" alt="This photograph shows the dining room of Behren's Darmstadt House (1900-01)" show="1">/images20/photo/photo_jugendstil_7.jpg</p>
+          <p type="p">The Duke invited first the Austrian architect Joseph Maria Olbrich and then Peter Behrens to design for the art colony. Olbrich was internationally famous, as a cofounder of the Vienna Secession in 1897 and for his Secession Building (1897-98), built as the movement's exhibition space and widely hailed as the movement's iconic landmark. He became the architectural designer of the art colony, building artists' residences, workers' housing, and community buildings, including the Wedding Tower (1907-08). Behrens was known as a leading designer of the United Workshops and a leading illustrator for &lt;i&gt;Pan&lt;/i&gt; and other magazines, when he was invited to Darmstadt. At the art colony, he turned to architecture, as his first project was designing his own house, a turning point in his career toward a more modern style. Creating every detail of the house, from furnishings to linens and tableware, he created a model of &lt;i&gt;Gesamtkunstwerk&lt;/i&gt;, or a "total work of art." The design of his porcelain plates echoed the dining room ceiling's pattern, and the front door's design echoed the style of the entire house. In 1901, Behrens and Olbrich curated the colony's public opening, titled "A Document of German Art," celebrating the community as a total work of art.</p>
+        </subsection>
+        <subsection title="Gesamtkunstwerk">
+          <p type="p">The term &lt;i&gt;Gesamtkunstwerk&lt;/i&gt; can be variously translated as a "total work of art," "universal artwork," or "ideal work of art," and refers to combining all art forms into a whole. While the Art Nouveau movement in general adopted the concept, it was essentially a German Romantic concept, developed by the German philosophers Phillip Otto Runge and Friedrich Schlegel and the musician Richard Wagner. Schlegel's ideas emphasized subjective creativity, "making all things possible to the imagination," and Runge a deeply spiritual man interested in mysticism, felt that art should express the universal harmony inherent in nature and humanity. The German philosopher K.F.E. Trahndorff, in a 1827 essay, first used the term &lt;i&gt;Gesamtkunswerk&lt;/i&gt;, and Wagner adopted it in 1849 to describe his musical theory and practice. This concept of artistic synthesis had a profound influence on the Jugendstil artists, who embodied the principle in their &lt;i&gt;raumkunst&lt;/i&gt; interiors, the formation of many workshops, and the utopian community of the Darmstadt Art Colony.</p>
+        </subsection>
+        <subsection title="Deutscher Werkbund 1907">
+          <p type="p">In 1907 Olbrich, Behrens, Riemerschmid, Paul, and other Jugendstil artists reunited to found the Deutscher Werkbund, the German Association of Craftsmen, composed of twelve businesses and twelve architects, in Munich. The formation of the association was spurred by the controversy surrounding the architect and scholar Adam Gottlieb Hermann Muthesius. While serving as a cultural attaché to England for six years Muthesius studied Arts and Crafts residences and wrote his &lt;i&gt;Das englische Haus&lt;/i&gt; (The English House) (1904-05) a three-volume study that was very influential; he advocated for the Arts and Crafts movement's emphasis on function and restraint as an alternative to the German preoccupation with ornamentation. In 1907, Muthesius gave a speech criticizing the imitative productions of out-dated designs preferred by German industries, and in the ensuing controversy, the Deutscher Werkbund was created to combine "all efforts towards high quality in industrial work."</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Illustration">
+          <p type="img" alt="Otto Eckmann's cover for &lt;i&gt;Die Jugend&lt;/i&gt; (1896) depicts a young woman within a floral motif, a popular Jugendstil subject." show="1">/images20/photo/photo_jugendstil_8.jpg</p>
+          <p type="p">Drawing upon the Northern European tradition of print making while employing a new style, many Jugendstil artists created illustrations for magazines, posters, and brochures. Reflecting their desire to combine all the arts, they often developed their own typography and an individualistic graphic design for their images. The leading illustrator Otto Eckmann was known for his images in &lt;i&gt;Pan&lt;/i&gt; and &lt;i&gt;Die Jugend&lt;/i&gt;, his book cover designs for noted German publishers, and for his logos for the publishing house S. Fischer Verlag and the magazine &lt;i&gt;Die Woche&lt;/i&gt;. His typography, including the Eckmann font (1900) and Fette Eckmann (1902), are still the most commonly used Art Nouveau fonts to this day.</p>
+          <p type="img" alt="Bruno Paul's illustration (1897-1906) for &lt;i&gt;Simpliccimus&lt;/i&gt; creates an ironic but compelling portrait of a bourgeois couple." show="1">/images20/photo/photo_jugendstil_9.jpg</p>
+          <p type="p">The leading Jugendstil magazines took different approaches. &lt;i&gt;Simplicissimus&lt;/i&gt; was known for its satirical approach to social and cultural issues, and Bruno Paul's distinctive images, presenting his subjects as caricatures, often in exaggerated poses, depicted with undulating contours and lines, often appeared in the magazine. His style captured the pretension, inner emptiness, and grotesqueries of society and prefigured the works of Viennese artist Egon Schiele.</p>
+          <p type="p">Behrens designed his own images and type and included even the margins of an image as part of the unified effect. His style was famously innovative, as he simplified his designs in line and geometric forms, as seen in his poster for the 1901 public opening of the Darmstadt Artists' Colony, an evolution toward modernism that continued as he became a leader of the Werkbund.</p>
+        </subsection>
+        <subsection title="Architecture">
+          <p type="img" alt="Hermann Obrist's design for a Munich villa (1893) combines Gothic inspiration with Jugendstil, as seen in the tower with its diagonally placed windows that create a spiraling movement." show="1">/images20/photo/photo_jugendstil_11.jpg</p>
+          <p type="p">While known for its increasingly spare use of decorative elements and its reliance on color, as seen in Endell's polychrome tiles, as well as stylized line and geometrical elements, Jugendstil architects drew upon different influences. Obrist was influenced by Gothic art and architecture, which he saw as arising from an organic inspiration, while Behren's House (1901) at Darmstadt, as art historians Kenneth Frampton and Yukio Futagawa write, "was unusual, particularly for its combination of features drawn from the English Arts and Crafts movement...with elements such as the high-pitched roof drawn from the German vernacular." Jugendstil architecture was secular, employed for private residences, including country villas, and community spaces, and it often evoked German tradition and culture, expressed in its geometric solidity and pitched triangular roofs.</p>
+          <p type="img" alt="Riemerschmid designed the Deutsche, originally named the für Handwerkskunst Schmidt und Engelbrecht (Schmidt and Engelbrecht Dresdner workshops for craftsmanship) (1909-1910)." show="1">/images20/photo/photo_jugendstil_12.jpg</p>
+          <p type="p">The Darmstadt Artists' Colony is among the most noted examples of Jugendstil architecture, containing over a dozen residences designed by Olbrich. Another community example of late Jugendstil is Hellerau near Dresden. The businessman Karl Schmidt-Hellerau founded the community in 1909 and invited a number of architects, including Riemerschmid, Muthesius, Wilhelm Kreis, and Bruno Paul, to design what became the first garden city in Germany. The concept of garden cities was pioneered in 1898 by Ebenezer Howard in Britain and involved urban planning or self-contained communities, including green belts, and areas for commerce and industry, agriculture, and residences. In the German version, the arts and crafts factory or workshop was a central element of the Jugendstil garden city, as seen in Hellerau where Riemerschmid played a leading role in designing the plans for the city, the Deutsche Werkstatten factory for craft furniture, and residences.</p>
+          <p type="img" alt="This photograph shows a tomb created by Hermann Obrist in 1903-04." show="1">/images20/photo/photo_jugendstil_13.jpg</p>
+          <p type="p">While a few examples of Art Nouveau funerary architecture exist, most notably in France at the École de Nancy, Obrist's work, beginning in the early 1900s, designing tombs in Munich and the surrounding towns, pioneered a new approach. Using concrete, plaster, and plasticine in a biomorphic style, his structures blurred the boundaries between funerary architecture and sculpture. Overlooked at the time, these structures have received critical interest following contemporary retrospectives of his work.</p>
+        </subsection>
+        <subsection title="Household Furnishings">
+          <p type="img" alt="Hermann Obrist's design for a carpet (1895) in his Munich studio uses an abstract pattern of contrasting diagonal, horizontal and vertical lines, with a spiraling vortex diagonally intersecting the plane, to create a kind of schematic of dynamic movement." show="1">/images20/photo/photo_jugendstil_14.jpg</p>
+          <p type="p">Household furnishings, including tapestries, carpets, furniture, linens, and tableware were a noted feature of Jugendstil design, as artists designed every item of an interior to create a single stylistic effect, geared to the room's purpose. Obrist designed a carpet for his Munich studio, while Riemerschmid, unable to find the items he wanted for his new residence following his marriage created all the objects that he had in mind. Jugendstil design was employed not only in residential and professional interiors but also in the luxury cabins of ocean liners, as Riemerschmid, Olbrich, and Bruno Paul designed thirty cabins, with all their accompanying items, for the &lt;i&gt;SS Kronprinzessin Cecilie&lt;/i&gt;, launched in 1906.</p>
+          <p type="img" alt="Otto Eckmann, &lt;i&gt;Five Swans&lt;/i&gt; (1896-97), a tapestry, using his iconic swan imagery, as the birds swim down a sinuously curving stream, was so popular he made a hundred copies of the work." show="1">/images20/photo/photo_jugendstil_15.jpg</p>
+          <p type="p">Artists drew upon a variety of influences; Eckmann's brightly colored tapestries combined a medieval German tapestry style with the narrow vertical format, flat backgrounds, and defined contours found in Japanese scroll paintings. Riemerschmid was primarily influenced by the Arts and Crafts movement, his aim being, as art historian Johannes Just wrote, "objective clarity and purpose, solid craftsmanship and the use of simple, inexpensive materials."</p>
+          <p type="img" alt="Richard Riemerschmid's Covered bowl (1902) combines a simple geometric volume with an almost abstract blue and white pattern, its shapes reminiscent of leafs, small stones, flowers, or stars." show="1">/images20/photo/photo_jugendstil_16.jpg</p>
+          <p type="p">Working with modern production methods became part of the Jugendstil aesthetic, leading to an emphasis on geometric shapes and simple lines. Riemerschmid was a leader in the movement, as he worked with the Deutsche Werkstätten to develop mass produced items to outfit a complete house. His tableware, known as &lt;i&gt;Blaue Rispe&lt;/i&gt; and produced by Meissen, a noted porcelain manufacturer in Dresden, used a pattern of three concentric circles with blue dots separated by thin floral lines around a white center.</p>
+        </subsection>
+        <subsection title="Furniture">
+          <p type="img" alt="Joseph Maria Olbrich's &lt;i&gt;Cupboard&lt;/i&gt; (1900), made of stained maple, has colored inlays that replicate Art Nouveau motifs, though its curved lines in the legs and at the top also contribute to the piece's aesthetic elegance." show="1">/images20/photo/photo_jugendstil_17.jpg</p>
+          <p type="p">Noted furniture designers included Olbrich, Behrens, Endell, Riemerschmid, and Bruno Paul, among others. Jugendstil drew upon the German tradition of wood working by emphasizing the color and grain of the material itself while contrasting horizontal and vertical lines with curvilinear sections to create an effect of functional elegance. Olbrich's designs included ceramics, musical instruments, and furniture and his interiors were awarded the highest prize as the St. Louis World's Fair where the &lt;i&gt;St. Louis Post-Dispatch&lt;/i&gt; wrote, his pavilion "is already indicated as one of the things at the World's Fair which will leave a permanent mark upon American life."</p>
+          <p type="img" alt="Peter Behren's Loveseat (1900-1901) was made for his home in Darmstadt." show="1">/images20/photo/photo_jugendstil_18.jpg</p>
+          <p type="p">Known primarily for his furniture, following the acclaim for his Hunters Room at the 1900 Paris International Exhibition, Paul was widely commissioned to design for not only residences and organizations but also the Munich army barracks and Berlin streetcars. The evolution of his style reflected the evolution of Jugendstil itself, as his curvilinear approach became increasingly geometric. In 1908, he invented his Typenmöbel, a line of furnishings that were produced as components that could be assembled in a variety of arrangements, an early example of modular furniture. Riemerschmid, Behrens, and other designers similarly evolved toward a modern style, employing mass production. When he was hired as an artistic consultant for the AEG Turbine Factory, Behrens pioneered industrial designs that are seen as the foundations of modern design.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Jugendstil began to decline in popularity after 1905 as the Werkbund designers emphasized modern production and simplified design, though the movement's curvilinear lines and trend toward biomorphic abstraction continued in the works of Obrist and others. The noted Belgian architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_de_velde_henry"&gt;Henry van de Velde&lt;/span&gt;, who had moved to Germany in 1900 as his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; work found a more favorable climate there, became a leading member of the Werkbund. By 1914, a split had developed between van de Velde and Muthesius, as van de Velde emphasized individual expression and Muthesius emphasized standard design for mass production. The ideas of Muthesius won out, and the organization adopted his philosophy that same year. Nonetheless, the Werkbund commissioned van de Velde to design a theatre for their 1914 Cologne Exhibition. The exhibition was closed by the outbreak of World War I, effectively ending Jugendstil.</p>
+          <p type="p">Jugendstil's many workshops and organizations, embracing collaboration between all the arts and mass production, became its defining legacy, marking the transition to modernism and providing foundational principles for the subsequent &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; design school. A turning point occurred in 1907 when Behrens was hired as the artistic consultant for the AEG turbine factory. He became the first industrial designer, as he designed the factory itself, its corporate identity including its logo and typography, and a number of industrial products like electric tea kettles and clocks that were mass produced. His building influenced the architectural designs of the Bauhaus, and the leading architects of the modern era - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mies_van_der_rohe_ludwig"&gt;Mies van der Rohe&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-meyer_adolf"&gt;Adolf Meyer&lt;/span&gt; - were his students from 1907 to 1912; these men would adopt Behren's principles of standardization of materials, design, and production that he pioneered in Jugendstil.</p>
+          <p type="p">Endell's theories and work were important to Expressionists Ernst Ludwig Kirchner, Franz Stuck, Lovis Corinth, and the architects Bruno Taut, Hans Poelzig, Hermann Finsterlin, and Wezel Hablik revered Obrist as a kind of artistic father figure. Nevertheless, Endell and Obrist's works, like those of most Jugendstil artists, subsequently fell into general obscurity.</p>
+          <p type="p">Some revival of contemporary interest has occurred when the Pinakothek der Moderne in Munich opened an Obrist retrospective &lt;i&gt;Sculpture, Space and Abstraction&lt;/i&gt; in 2009, and the Henry Moore Institute retrospective in 2010, &lt;i&gt;Hermann Obrist: Art Nouveau Sculptor&lt;/i&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="arts_and_crafts">Red House (1859-60)</artwork>
+    <artwork from="artist" page="toulouse_lautrec_henri">Moulin Rouge: La Goulue (1891)</artwork>
+    <artwork from="movement" page="art_nouveau">The Peacock Skirt (1894)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Leather Screen</title>
+      <artist>Hans Christiansen and Georg Hulbe</artist>
+      <year>1887</year>
+      <materials>Painted Leather</materials>
+      <desc>
+				This folding screen depicts richly colored poppies and their green curvilinear foliage along a river that, beginning at the lower right, twists sinuously in a tightening whiplash in the upper left and middle panels. The flared petals of the orange blossoms on unrealistically thin and extended tendrils seem to float serenely in the golden space. The asymmetrical composition creates a sense of dynamic movement. Influenced by Japonisme, the screen echoes the gold leaf background of the late 16&lt;sup&gt;th-&lt;/sup&gt;century byōbu of the Kanō School, but it innovatively uses the materials of German crafts. The screen uses leather for the panels, and small gold rivets surround each of the three panels.
+				&lt;br/&gt;&lt;br/&gt;
+				Christansen had diverse training, working as a decorative painter and in an interior design shop, studying in Italy and at the Academie Julian in Paris. Influenced by the Nabis, he felt art was a synthesis of nature expressed in personal symbols. At the same time, the artist was increasingly interested in artisan crafts, particularly textiles and graphic design, all of which employed his hallmark bright color.
+			</desc>
+      <collection>Bröhan Museum, Berlin, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Andromeda</title>
+      <artist>Hans Christiansen</artist>
+      <year>1898</year>
+      <materials>Pencil and overprint on paper</materials>
+      <desc>
+				With intense almost garish color, influenced by Alphonse Mucha and Henri Toulouse-Lautrec, this work depicts a nude Andromeda, entwined by the crimson and green coils of a gigantic sea serpent, against a flame-like background where gold whisps extend in sinuous curves. Depicted in profile, the nude leans almost casually with her left elbow on the creature's back, as her right arm elegantly extends to stroke the back of its neck. Its massive form rising out of the waves in the lower foreground, the serpent makes an s-curve through the pictorial plane, and its head, with green glowing eyes, faces away from the viewer. Reconfiguring the classical Greek myth of the princess rescued by the hero Perseus when she was left to be sacrificed to a sea monster that was terrorizing her city, the image's overall effect is erotic, suggesting feminine power to seduce and command. Out of the background flames, the title of &lt;i&gt;Die Jugend&lt;/i&gt; forms at the top, showing the artist's innovative approach to typography.
+				&lt;br/&gt;&lt;br/&gt;
+				Christiansen's use of color and his hand-letter fonts were distinctive additions to Jugendstil, and his images, frequently depicting beautiful women, often appeared in &lt;i&gt;Die Jugend&lt;/i&gt;. An early member of the Darmstadt Art Colony, he was known for his versatility, as he worked in a wide variety of applied arts, saying, "I take my work as an artist as general as possible."
+			</desc>
+      <collection>Museumsberg Flensburg, Flensburg, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Der Kuss (The Kiss)</title>
+      <artist>Peter Behrens</artist>
+      <year>1898</year>
+      <materials>Color woodcut printed in dark brown, light brown, olive green, blue, red and black</materials>
+      <desc>
+				This color print, showing a couple in profile kissing, accentuates the whiplash curves of their intertwining and voluptuous tresses, and as art historian Peter Raissis wrote, it "not only conveys the intensity of the lovers' abandonment in each other but also seems to suggest the ancient understanding of the kiss as an intermixing and exchanging of souls."
+				&lt;br/&gt;&lt;br/&gt;
+				Behrens' image reflects the influence of Symbolism, as seen in Edvard Munch's painting &lt;i&gt;The Kiss&lt;/i&gt; (1897), but rather than reflecting that work's emotional ambivalence, described by art historian Reinhold Heller as conveying a "loss of individuality, a loss of one's own existence and identity," this image creates feeling of oneness. The figures become androgynous, and the curving lines of their eyebrows, chins, and lips flow into one another. The image moves away from representation by depicting the lovers as disembodied heads and emphasizes the pure flat pattern. Behrens' work also reflected the continuing tradition of the woodcut, a distinctive element of German art dating back to the Renaissance, which raised graphic art to the level of fine art. Appearing in a 1898 issue of &lt;i&gt;Pan&lt;/i&gt;, the image pioneered a central motif of Jugendstil that became influential outside of Germany, as seen in the Austrian Gustav Klimt's painting &lt;i&gt;The Kiss&lt;/i&gt; (1907-08).
+			</desc>
+      <collection>National Museum in Warsaw, Warsaw, Poland</collection>
+    </artwork>
+    <artwork>
+      <title>Chair</title>
+      <artist>Richard Riemerschmid</artist>
+      <year>c. 1898-99</year>
+      <materials>Walnut and leather upholstery</materials>
+      <desc>
+				This chair uses simple geometric shapes and lines to create a complex and stable design. The square seat is upholstered in dark leather attached with brass rivets, and the simple vertical legs, the back pair placed at a diagonal tilting forward, convey a feeling of stability. Instead of traditional armrests, the innovative design employs a backrest attached to two extending pieces that curve forward and attach to the lower part of the front legs. The elegantly curving lines and forward tilt create visual interest and dynamism, as Riemerschmid eliminates ornamentation in favor of functionalism and pure line.
+				&lt;br/&gt;&lt;br/&gt;
+				A leading pioneer of &lt;i&gt;Raumkunst&lt;/i&gt; ("room art"), the artist exhibited this chair as part of his Music Room exhibition for the Munich United Workshops at the 1899 Dresden German Art Exhibition. The chair was so popular that it was immediately put into commercial production. He exhibited a similar chair at the Paris International Exhibition of 1900, and department stores and commercial firms bought up the chair; a number of them, including Liberty's in London, went on to make their own version.
+				&lt;br/&gt;&lt;br/&gt;
+				The German art reformer Hermann Muthesius saw Riemerschmid's interiors as a modern German "art of the people," at the same time his emphasis on functionality made him an important modernist influence.
+			</desc>
+      <collection>Victoria and Albert Museum, London</collection>
+    </artwork>
+    <artwork>
+      <title>Armchair</title>
+      <artist>Bruno Paul</artist>
+      <year>1900</year>
+      <materials>Elm, modern upholstery</materials>
+      <desc>
+				This chair exemplifies the Jugendstil approach to furniture with its curving arms, legs, seat, and crossbars that echo the aesthetic appeal of Art Nouveau. The sides of the back extend and widen at the top and are connected by a curved piece; the curvilinear crossbeam in the center follows and inverts the top arch. The seat shape, covered here with red upholstery, echoes the shape of the back, creating both visual movement and a sense of elegant stability. The rigorous design reflects the influence of Henry van de Velde and Japanese furniture, though as the Musée d'Orsay notes, its "rigour was tempered...by a whimsical anthropomorphic note: here the ends of the armrests suggest clenched fists."
+				&lt;br/&gt;&lt;br/&gt;
+				Paul was originally trained as a painter but quickly turned to the applied arts and helped found the United Workshops for Art in Craftwork, where he designed this chair as part of his hunting lodge interior. He exhibited the &lt;i&gt;Hunter's Room&lt;/i&gt; (1900) in the "Fixtures of public buildings and houses" category at the 1900 Universal Exhibition of Paris where it was awarded a gold medal. He became an influential interior designer, reaching an American audience with his exhibition at the 1904 Louisiana Purchase Exposition in St. Louis, where he won another gold medal. He obtained the patronage of Kaiser Wilhelm II in 1906, leading to his being appointed director of the Unterrichtsanstalt des königlichen Kunstgewerbe-Museums (Educational Institution of the Royal Museum of Applied Arts) in Berlin.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Hackesche Höfe</title>
+      <artist>Kurt Berndt and August Endell</artist>
+      <year>1906</year>
+      <materials>Brick, tile, stone, glass</materials>
+      <desc>
+				This photograph shows a partial view of a courtyard complex, composed of eight connected courtyards, accessible through a central arched entrance. Two central vertical bands rise to a curving entablature. Two levels of windows, placed in groups of three, create a sense of whimsical airiness and light, enhanced by the decorative effect of their arches and the colored patterns of the tiles at their bases and tops. The white and bluish grey geometric tiles create visual interest, as the pattern varies from level to level, while the simplification of the palette applied to simple squares, rectangles, and circles creates a sense of calm and order.
+				&lt;br/&gt;&lt;br/&gt;
+				The architect Berndt designed the complex, and Endell designed the richly polychrome facades, entrances, and exteriors. The complex innovatively broke with traditional German courtyards by clearly separating residential areas, shops devoted to trade and craft, and entertainment venues. Following the creation of this courtyard complex, Endell designed the Theater Bunte (1901) in Berlin. Its name "Bunte" means color, and Endell created the fabrics, carpets, tiles, and even the nails used to construct the building. Renovated after World War II, the Hackesche Höfe, containing artisan shops, dining venues, and theatres, and devoid of commercial chains, continues to be one of the most popular destinations in Berlin, attracting tourists and locals alike with its artistic ambiance.
+			</desc>
+      <collection>Berlin, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Hochzeitsturm (The Wedding Tower)</title>
+      <artist>Joseph Maria Olbrich</artist>
+      <year>1907-08</year>
+      <materials>Brick, stone, glass, tiles</materials>
+      <desc>
+				The design of this iconic tower, situated at the highest point in the Darmstadt Art Colony, emphasizes its soaring verticality, as the red brick rises to five symmetrical arches. Lined with glass, the curved spires contrast with the rectangular materiality of the tower to enhance the effect of soaring lightness. The sense of ascension is further emphasized by asymmetrically placed bands of windows that curve around the side of the building, creating a horizontal flow, while ascending, step-like, up the tower.
+				&lt;br/&gt;&lt;br/&gt;
+				The interior of the building has seven levels and includes mosaics by Friedrich Wilhelm Kleubens, frescos by Ph. O. Schäfer, and decorative figures from Heinrich Jobst. The tower commemorates the second marriage of Grand Duke Ernst Ludwig of Hesse, the founder of the art colony, to Princess Eleonore Solms-Hohensolms-Lich in 1905. Olbrich timed the opening of the building for a 1908 exhibition and intended it to be the crowning, emblematic work of the community as a &lt;i&gt;gesamtkunstwerk&lt;/i&gt;. The clean geometric design of the building, combined with the stepped effect of the top third, was an early prefiguring of Art Deco.
+				&lt;br/&gt;&lt;br/&gt;
+				In 1914 two clocks representing the unification of the old and the new were added to the tower. A square sundial, designed by Friedrich Wilhelm Kleukens, on the south façade was surrounded by a blue mosaic with gold stars and the twelve zodiac signs and depicted the sun in the center of a white background with hour lines in black. A mechanical clock, using gold leaf and symbols representing faith, hope, and love, was added to the north façade.
+				&lt;br/&gt;&lt;br/&gt;
+				Today, the Mathildenhöhe Institute, an organization for promoting contemporary art and culture, is housed in the building. In 2015 the entire Darmstadt Art Colony, including the tower, was named a World Heritage site by UNESCO. Officials explained, "the total artwork of the Darmstadt Artists' Colony...with its buildings, gardens and works of art spanning the years 1901-1914, constitutes not only a unique ensemble testifying to experimental creativity, but also an incomparable document of the architectural and artistic renewal at the dawn of Modernism inspired by the international reform movement of the early 20th century."
+			</desc>
+      <collection>Darmstadt, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Krupp fountain</title>
+      <artist>Hermann Obrist</artist>
+      <year>c. 1910-12</year>
+      <materials>Limestone</materials>
+      <desc>
+				This fountain takes on an abstract biomorphic shape, as its central inverted triangle, crowned by a smaller triangle, creates vertical movement between the spire and the water basin. On either side, the curvilinear buttresses, creating an oval shape at the center, resemble limbs, a skeletal structure, or natural limestone formations. The work is charged with a kind of dynamic but ambiguous energy, evoking associations and a feeling of dissonance between them, as the viewer sees resemblances to familiar forms but is unable to fix upon any one of them. As art historian William Sherwin Simmons writes, "The fountain certainly displays a powerful tension between the downward plunge of the three toothed, thistle-like tongues of the inner construction and the rise of the three external buttresses, which bear water spouts on crystal-like forms at the ribs' break toward their center join, where the main spout rises from a bud-like form. The inorganic is contrasted and merged with the organic - crystalline structures with the hypocotyl bendings of plant growth."
+				&lt;br/&gt;&lt;br/&gt;
+				Obrist's work declined in popularity as Jugendstil moved toward an aesthetic geared to mass production, yet the fountain was praised by Henry van de Velde as having created "something from nothing" that was, simultaneously, an "inspiring manifestation of life," embodied in "this budding and effervescing mass of stone" with its "sequence of gestures directing the water's course." Standing a little over twenty feet tall, the fountain was paired with Obrist's &lt;i&gt;Movement&lt;/i&gt;, an equally tall fountain created as a swirling spire, in the courtyard of the House of Arts and Crafts in Munich in 1912, though both works were subsequently lost.
+				&lt;br/&gt;&lt;br/&gt;
+				The artist's innovations included not only abstract and biomorphic motifs but also explorations of new sculptural materials including plasticine and concrete. His work had a profound influence on the subsequent generation of the Expressionists, and has recently received contemporary interest with major exhibitions in Switzerland, Munich, and the United Kingdom. As the catalogue for the Pinakothek der Moderne in Munich states, "Obrist created the first abstract sculptures that developed a language of their own through the interaction of the organic and inorganic structures."
+			</desc>
+      <collection>Lost</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class=""></subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Tiles &amp; Styles, Jugendstil &amp; Secession: Art Nouveau and Arts &amp; Crafts Design in German and Central European Decorative Tiles, 1895-1935 Hardcover - January 8, 2016</title>
+          <link>0764349155</link>
+          <info>By Ken Forster</info>
+        </entry>
+        <entry>
+          <title>Hermann Obrist: Sculpture, Space, and Abstraction around 1900</title>
+          <link>3858812390</link>
+          <info>By Museum Bellerive Zürich and State Collection of Prints and Drawings Munich</info>
+        </entry>
+        <entry>
+          <title>Bruno Paul: The Life and Work of a Pragmatic Modernist Hardcover - December 16, 2005</title>
+          <link>3932565479</link>
+          <info>By William Owen Harrod</info>
+        </entry>
+        <entry>
+          <title>Peter Behrens and a New Architecture for the Twentieth Century Paperback - September 9, 2002</title>
+          <link>0262511304</link>
+          <info>By Stanford Anderson</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Hermann Obrist</title>
+          <link>https://www.theguardian.com/artanddesign/2010/jun/06/hermann-obrist-review</link>
+          <info>
+						By Alfred Hickling
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						June 6, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Hermann Obrist: Sculpture, Space and Abstraction Opens at Pinakothek Munich</title>
+          <link>http://artdaily.com/index.asp?int_sec=11&amp;int_new=32128&amp;int_modo=2#.W8JaohNKi1s%20Hermann%20Obrist:%20Sculpture,%20Space%20and%20Abstraction%20Opens%20at%20Pinakothek%20der%20Moderne</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Hermann Obrist: Press Release of Pinakothek der Moderne, Munich</title>
+          <link>http://1995-2015.undo.net/it/mostra/90296</link>
+          <info>
+						undo.net
+						&lt;br&gt;
+						July 14, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Musical Form in Architecture: August Endell (1871-1925)</title>
+          <link>http://www.interlude.hk/front/musical-form-architectureaugust-endell/</link>
+          <info>By Georg Predota</info>
+        </entry>
+        <entry recommended="true">
+          <title>Abstraction and Empathy on the Eve of World War I</title>
+          <link>http://journals.oregondigital.org/konturen/article/view/3246/3200</link>
+          <info>
+						By William Sherwin Simmons
+						&lt;br&gt;
+						Konturen
+					</info>
+        </entry>
+        <entry>
+          <title>Henry van de Velde (1863-1957)</title>
+          <link>https://www.architectural-review.com/essays/reputations-pen-portraits-/henry-van-de-velde-1863-1957/8679104.article</link>
+          <info>
+						By Tom Wilkinson
+						&lt;br&gt;
+						Architectural Review
+						&lt;br&gt;
+						March 19, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

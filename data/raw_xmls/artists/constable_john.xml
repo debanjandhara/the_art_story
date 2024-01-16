@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>constable_john</id>
+    <name>John Constable</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1802 - 1837</years>
+    <description>Constable revolutionized landscape painting by focusing on realistic depictions of the natural world created through close observation of nature.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>June 11, 1776</birthDate>
+    <birthPlace>East Bergholt, Suffolk, England</birthPlace>
+    <deathDate>March 31, 1837</deathDate>
+    <deathPlace>London, England</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>3/7/2012</pub_time>
+  </main>
+  <includes>
+    <include>romanticism</include>
+    <include>the_sublime_in_art</include>
+    <include>landscape_painters</include>
+    <include>british_art</include>
+  </includes>
+  <similar_movements>
+    <movement>romanticism</movement>
+    <movement>the_sublime_in_art</movement>
+    <movement>barbizon_school</movement>
+    <movement>landscape_painters</movement>
+    <movement>british_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>turner_jmw</artist>
+    <artist>delacroix_eugene</artist>
+    <artist>corot_jean_baptiste_camille</artist>
+    <artist>west_benjamin</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Landscape is my mistress - 't is to her that I look for fame - and all that the warmth of the imagination renders dear to Man."</q>
+    <q>"[painting] is with me but another word for feeling."</q>
+    <q>"I associate my careless boyhood with all that lies on the banks of the Stour; those scenes made me a painter"</q>
+    <q>"Painting is a science and should be pursued as an inquiry into the laws of nature."</q>
+    <q>"We see nothing till we truly understand it."</q>
+    <q>"I never saw an ugly thing in my life: for let the form of an object be what it may - light, shade, and perspective will always make it beautiful."</q>
+  </quotes>
+  <authors>
+    <author link="s_sethi">Zaid S. Sethi</author>
+  </authors>
+  <editors>
+    <editor link="stephenson">Kate Stephenson</editor>
+  </editors>
+  <article>
+    <synopsys>Along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-turner_jmw"&gt;J. M. W. Turner&lt;/span&gt;, Constable revolutionized landscape painting of the 19&lt;sup&gt;th&lt;/sup&gt; century and his paintings had a profound and far-reaching effect on European art, particularly in France. Constable moved away from the highly idealized landscapes that were the expected norm of the period and instead favored realistic depictions of the natural world created through close observation. Constable is most clearly remembered for his bucolic images painted in and around the Stour Valley but he also produced over 100 portraits and a huge number of preparatory sketches often completed in oil. In these he experimented with a freer style of representation and this allowed him to capture the effects of elemental change on the countryside with a spontaneity which he was then able to transfer to his finished works. Although his sketches are considerably more impressionistic and less detailed than his display canvases his overall aim remained the same regardless of medium and technique - to depict the scenery that he saw in a truthful and realistic manner.</synopsys>
+    <key_ideas>
+      <idea>Constable was a pioneering advocate of realistic depictions of the natural world. He rejected contemporary styles of landscape painting stating that "The great vice of the present day is &lt;i&gt;bravura&lt;/i&gt;, an attempt to do something beyond the truth". Instead he created his own distinct manner of representation based on transferring what he saw as truthfully as possible to a canvas.</idea>
+      <idea>He was fascinated by changing patterns of clouds, weather and light and he sought to capture these moments in his oil sketches. He worked with large, loose brushstrokes to create expressive representations which depicted an overall sense of what he saw rather than fine details. His sketches can be seen as an early precursor to the work of the Impressionists thirty years later.</idea>
+      <idea>Even in his completed work, Constable abandoned the traditional invisible brushstrokes that were expectations of Academic art of the period. Instead he applied paint in a range of ways including with a palette knife giving his canvases a textured and imperfect finish which served to enhance their realism.</idea>
+      <idea>Constable also utilized color more widely than was the norm, reflecting the hues he found in nature. He is particularly known for his unique addition of pure white highlights which served to represent the sparkle of light on water.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in East Bergholt, a village in Suffolk, England, John Constable was the second son of Golding and Ann (née Watts), wealthy corn merchants who owned Flatford Mill in East Bergholt and later Dedham Mill in Essex. Constable's older brother (also called Golding) was subject to seizures and was considered unfit to succeed his father into the family business. The task consequently fell to John and after leaving his school in Dedham, Constable joined his father in the corn business, a role for which he had limited enthusiasm and aptitude. Despite his disability Golding Jnr went onto to become a land warden and the two brothers remained close throughout their lives. Constable had five siblings in total, three sisters and another brother, Abram, who was the youngest member of the family.</p>
+          <p type="p">In his youth Constable travelled the countryside surrounding his home on sketching trips, these landscapes later became a focus for much of his art. As he recalled later in life, "I associate my careless boyhood with all that lies on the banks of the Stour; those scenes made me a painter." His family introduced him to Sir George Beaumont, a collector, who showed him &lt;i&gt;Hagar and the Angel&lt;/i&gt; (1646) by Claude Lorrain which was an early inspiration for him. Although his interest in art was encouraged by John Thomas Smith, an artist and friend of the family, he was strongly advised by him to stay in his father's business rather than take up painting professionally.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Constable's Self-Portrait (1806)" show="1">/images20/photo/photo_constable_john_1.jpg</p>
+          <p type="p">In 1799, after having worked in the corn business for seven years, Constable persuaded his father to let him pursue a career as an artist. He was given a small allowance and entered the Royal Academy Schools where he studied life drawing and became familiar with the works of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;. On completion of his training he refused the position of drawing master at Great Marlow Military School, resolving instead to become a professional landscape painter. In a letter to John Dunthorne he wrote 'For the last two years... I have not endeavoured to represent nature with the same elevation of mind with which I set out... There is room enough for a natural painter.' He started exhibiting at the Royal Academy from 1802.</p>
+          <p type="p">Apart from a two-month tour of the Lake District in 1806, Constable established a pattern of spending his summers sketching and painting around East Bergholt and then returning to London in the winter. Unable to find buyers or commissions for his landscapes, he turned to portraiture to supplement his meagre income, and although he produced a number of fine portraits he found the process dull compared to the pleasure he took in landscape painting.</p>
+          <p type="p">In 1811 Constable visited Bishop John Fisher and his family in Salisbury, the two had initially met when Fisher was Rector of Langham Church in Essex which was close to East Bergholt. Bishop Fisher became one of Constable's biggest patrons and Salisbury inspired some of his greatest works. The Bishop also introduced Constable to his nephew, Reverend John Fisher and the two developed a life-long friendship.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1809 Constable proposed to Maria Bicknell who he had first met when she was twelve. Her grandfather, however, forbade the match and threatened Maria with disinheritance, believing the Constable family to be socially inferior. Unable to support a wife and family on his limited income, the couple maintained a secret correspondence but were not able to marry until after the death of Constable's father in 1816. John Senior left provision for each of his children and Constable's brother Abram continued to run the business for the benefit of the whole family. Although not making Constable wealthy, this finally provided the necessary financial stability for marriage. The couple were wed at the Church of St Martin in the Fields in London and spent their honeymoon with Bishop Fisher and his wife in Osmington, Dorset, followed by a tour of the south coast of England. It was sketching the sea at Brighton and Weymouth on this trip that encouraged Constable to adopt a freer brushwork and to experiment with showing greater emotional intensity in his work, particularly in his rendition of the sky and sea. After the honeymoon, Constable returned to London initially setting up house with his new wife in Bloomsbury, before they moved to Hampstead in 1819.</p>
+          <p type="img" alt="&lt;i&gt;Portrait of Golding Constable&lt;/i&gt; by John Constable (1815)" show="1">/images20/photo/photo_constable_john_2.jpg</p>
+          <p type="p">Constable continued to scrape an income as a painter, although matters improved in 1819 when he sold his first important work, &lt;i&gt;The White Horse&lt;/i&gt; (1819), this was a large-scale canvas, known as a six-footer. The same year he was elected an Associate of the Royal Academy.</p>
+          <p type="p">In 1821 he exhibited &lt;i&gt;The Hay Wain&lt;/i&gt; (1821) at the Royal Academy. It was shown again, along with two other of his paintings, at the Paris Salon of 1824, where it was awarded a gold medal from Charles X. Although more successful in France than in England, Constable refused to cross the Channel to promote his work, writing to Francis Darby, a fellow artist and friend, that he "would rather be a poor man in England, than a rich man abroad."</p>
+          <p type="img" alt="&lt;i&gt;Chain Pier - Brighton&lt;/i&gt;, John Constable (c.1826-27)" show="1">/images20/photo/photo_constable_john_3.jpg</p>
+          <p type="p">Constable's wife Maria, had been a weak child, and ill health plagued her for most of her life. In 1824, at the suggestion of physicians, Constable took his family to Brighton, an increasingly popular holiday resort, to enjoy the fresh sea air. Her health improved, and they maintained lodgings in the town for the next four years. Although he disliked the people in Brighton, describing it in a letter to his friend, John Fisher, as a "the offscouring of London... and the beach is Piccadilly by the sea", he loved the surrounding landscapes of which he made a range of experimental oil sketches.</p>
+          <p type="p">Throughout his life Constable was compared with Turner and anecdotes suggest that the two maintained a lively and personal rivalry. Turner initially painted in the academic style and was welcomed into the English art establishment early in his career, finding a mentor in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-reynolds_joshua"&gt;Joshua Reynolds&lt;/span&gt;. Later his style developed and diverged becoming increasingly impressionistic. Whilst similarities can be drawn between the style of Constable's oil sketches and Turner's later work their aims deviated. In contrast to Constable's studied approach, Turner often choose his subjects, compositions and lighting for dramatic effect using his images as a means to pass comment on contemporary issues and to create an emotional response in the viewer, rather than seeking the truth of what he saw.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="&lt;i&gt;Maria Constable with two of her children&lt;/i&gt;, John Constable (1820)" show="1">/images20/photo/photo_constable_john_4.jpg</p>
+          <p type="p">In March 1828, Maria's father died, and her large inheritance meant that their financial worries were over. Happiness was, however, short-lived. Maria, weakened by the birth of their seventh child, died from tuberculosis in November 1828, aged 41. Constable was distraught, writing to his brother Golding, "hourly do I feel the loss of my departed Angel... the face of the World is totally changed to me."</p>
+          <p type="p">In February, the following year, Constable was elected to the Royal Academy at the age of 52. Constable never recovered from the loss of his wife and struggled with the responsibility of bringing up their seven children. In 1831 he painted his final six-footer, &lt;i&gt;Salisbury Cathedral from the Meadows&lt;/i&gt;, (1831) at the suggestion of Bishop Fisher.</p>
+          <p type="p">Constable spent the last few years of his life delivering public lectures on landscape painting at the Royal Institution, the Hampstead and Literary and Scientific Society and the Worcester Athenaeum. He also embarked on a project to publish a folio of mezzotints but was unable to interest enough subscribers for the venture to be a financial success, although today they are widely sought after. He died in 1837 in his studio in Bloomsbury and is buried at Hampstead Parish Church, London.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="The grave of John Constable, Hampstead Parish Church, London" show="1">/images20/photo/photo_constable_john_5.jpg</p>
+          <p type="p">Constable was one of the first artists of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romantic movement&lt;/span&gt; to create landscape paintings drawn directly from nature rather than the idealised and dramatic depictions favored by other artists of the period and in taking this stance he pioneered &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt; in Britain. His treatment of light, application of paint and his use of bright, naturalistic colors also set him apart. Through the exhibition of his canvases in Paris, Constable influenced major figures of European art including Richard Parkes Bonington and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Delacroix&lt;/span&gt; . Delacroix's journals include an account of Constable's technique, particularly his use of "broken color and flickering light". Delacroix incorporated these ideas into his work when he repainted the background to &lt;i&gt;Scenes from the Massacres of Chios&lt;/i&gt; (1824).</p>
+          <p type="p">Constable's legacy is also apparent in the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barbizon_school"&gt;Barbizon School&lt;/span&gt;, a group of French painters who worked to establish &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt; in French landscape painting. His impasto style and his practice of direct observations from nature were developed by notable artists from this school such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-millet_jean_francois"&gt;Jean-François Millet&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt; and later, by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;.</p>
+          <p type="p">Although Constable fell out of favor following the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_revival"&gt;Gothic revival&lt;/span&gt; in the mid-19&lt;sup&gt;th&lt;/sup&gt; century, he found a new following in the early-20&lt;sup&gt;th&lt;/sup&gt; century, particularly with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-british_impressionism"&gt;British Impressionists&lt;/span&gt; such as Philip Wilson Steer. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-freud_lucian"&gt;Lucian Freud&lt;/span&gt; also cited Constable as a significant influence on his work, commending his oil sketches as "completely fresh, really passionate pictures."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="delacroix_eugene">Scenes from the Massacres of Chios (1834)</artwork>
+    <artwork from="artist" page="turner_jmw">The Fighting Temeraire Tugged To Her Last Berth to Be Broken Up (1839) </artwork>
+    <artwork from="artist" page="freud_lucian">Red Haired Man on a Chair (1962)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Dedham Vale</title>
+      <year>1802</year>
+      <materials>oil on canvas</materials>
+      <desc>
+				This was one of Constable's first major paintings, created when he was 26. Painted in the brief hiatus between the end of the French revolutionary wars and the beginning of the Napoleonic wars the following year, the tranquillity of the image belies the wider political turmoil. Whilst the techniques that were to serve Constable so well in his later career are not yet fully developed the painting already demonstrates his commitment to the close observation of nature and this can be seen in the detailed rendering of the trees and sky.
+				&lt;br/&gt;&lt;br/&gt;
+				The eye is led across the painting from the foreground along the route of the river to the distant tower of Dedham church, which although small, forms a clear focal point for the painting. The trees on either side of the canvas form a frame to the central part of the image presenting the view in the form of a smaller cameo and further serves to focus the eye on a building that would have been a landmark of Constable's childhood.
+				&lt;br/&gt;&lt;br/&gt;
+				The composition with the trees in the foreground framing the image to the right closely mirrors the arrangement of Lorrain's work &lt;i&gt;Hagar and the Angel&lt;/i&gt; (1646) and it is likely that Constable was inspired by the piece that played a formative role in his early art appreciation and education.
+				&lt;br/&gt;&lt;br/&gt;
+				26 years later Constable created a second image of the same view called &lt;i&gt;The Vale of Dedham&lt;/i&gt; (1828), although very similar in appearance there are a number of small differences that separate the two, particularly the inclusion of figures in the later painting.
+			</desc>
+      <collection>Victoria &amp; Albert Museum, London</collection>
+    </artwork>
+    <artwork>
+      <title>Maria Bicknell</title>
+      <year>1816</year>
+      <materials>oil on canvas</materials>
+      <desc>
+				Painted in July 1816 around three months before their marriage, Constable kept this portrait of his fiancée with him, writing to her that "I would not be without your portrait for the world the sight of it soon calms my spirit under all trouble and it is always the first thing I see in the morning and the last at night". The portrait was said to be a remarkably good likeness and the fine and detailed finish of Maria's face contrasts with the looser brushstrokes which make up the background and her blouse.
+				&lt;br/&gt;&lt;br/&gt;
+				Whilst Constable created over 100 portraits in his career, most were painted out of financial necessity rather than a love of the genre. Despite this, many are refreshingly honest in their depictions and there is a real sense of character and personality in the images that he created and he did not sanitize quirks of appearance to bring images in line with contemporary beauty standards. This portrait has a particular sensitivity and warmth to it and this must be attributed to his intimate relationship with the sitter.
+				&lt;br/&gt;&lt;br/&gt;
+				Parallels can be drawn between this image and many of his other portraits both in the use of similarly colored, neutral backgrounds and the composition of the sitters. His representation of faces was always closely detailed but his approach to the sitter's clothes seems to vary with his relationship to the individual concerned. Some garments are closely rendered whilst others are suggested through much freer brushstrokes as in this portrait, this can be attributed to the commission basis of his work and paintings for patrons were likely to be more highly finished.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>The White Horse</title>
+      <year>1819</year>
+      <materials>oil on canvas</materials>
+      <desc>
+				The White Horse, originally titled &lt;i&gt;A Scene on the River Stour&lt;/i&gt; was the first of Constable's large canvases (6'x4') known as the six-footers. It was exhibited at the Royal Academy in 1819 and its critical success paved the way for Constable to be elected with the title of an Associate the same year. To create canvases of this magnitude, Constable first made sketches of the scene from life, unusually he then crafted these into a full-size oil sketch before creating the final painting.
+				&lt;br/&gt;&lt;br/&gt;
+				In the image Constable depicts a normal scene of rural life, neither pitying or celebrating the working lives of those he painted, merely presenting them as he saw them. There is an underlying tenacity to the image, both in the figures of the bargemen straining against their poles but also in that Constable shows the men continuing a centuries old way of life despite the increasing threat of industrialization. The determination of the workers is reflected in the image of the tree to the right of centre clinging precariously but successfully to the waterlogged bank.
+				&lt;br/&gt;&lt;br/&gt;
+				In the image, as with much of Constable's work, the vegetation is presented in scientific detail with each species clearly identifiable from its differing shape, color, and area of growth. Constable used a huge palette of different greens in his works and this delineation of species is particularly prominent in this painting giving the image a verdancy which reflects the season and time of day.
+			</desc>
+      <collection>The Frick Collection, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Hay Wain</title>
+      <year>1821</year>
+      <materials>oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Hay Wain&lt;/i&gt; is now one of the most celebrated and widely known of Constable's works, although when it was first exhibited it was considered unremarkable. In it he depicts the River Stour which divides the Counties of Suffolk and Essex. Willy Lott's cottage stands to the left of the image and this building is also visible on &lt;i&gt;The White Horse&lt;/i&gt; (1819). It is possible that the cart is standing in the water to ensure that the wooden wheels didn't shrink in the sun, loosening their metal rims.
+				&lt;br/&gt;&lt;br/&gt;
+				The image radiates optimism and serenity and this is conveyed through the color palette. The blue of the sky is reflected in the cool tones of the water and the terracotta of the house is highlighted in the red of the horse's harness. The whole image is framed by the greens and yellows of the vegetation and the meadow runs off the right of the canvas opening up the space to the viewer. The curve of the river in the foreground draws the eye away from the mass of the trees towards the Hay Wain itself which becomes the focal point of the image. Constable utilizes his distinctive flecks of white paint on the water in the foreground to portray the effects of the noon sunshine reflecting on the river.
+				&lt;br/&gt;&lt;br/&gt;
+				Constable has constructed the painting so that the viewer stands on the near bank of the river and the size of the image (it was another six-footer) in conjunction with the carefully rendered fall of light enables the viewer to feel that they could enter the scene. The image highlights the glory of nature without resorting to artifice or exaggeration and reflects Constable's determination to paint the truth of what he saw. In doing this the scene is presented with an absolute sincerity which is immediately apparent to the viewer.
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Rainstorm over the sea</title>
+      <year>c. 1824-28</year>
+      <materials>Oil on paper laid on canvas</materials>
+      <desc>
+				After 1822 Constable moved away from strict documentary accuracy and his paint surfaces become rougher and more expressive. This oil sketch of Brighton Beach is a quickly painted image that captures the turbulent feel of the advancing storm rather than a detailed study. Whilst the sky and sea are less closely rendered than in his display canvases the scene is easily identifiable and it is clear that it represents a single moment in time as the storm converges. In appearance and subject matter it can be compared to work by Turner such as &lt;i&gt;Steamer in a Snowstorm&lt;/i&gt; (1842) in which the impact of the elements is the focus of the image.
+				&lt;br/&gt;&lt;br/&gt;
+				The image demonstrates Constable's skill at portraying the effects of changes in weather, light, and time of day. The impact that this image and others like it had on later artists is noted by the painter's biographer Mark Evans in &lt;i&gt;John Constable - The Making of a Master&lt;/i&gt;, in which he states that Constable's "oil sketches have been celebrated since the 1890s as precursors of Impressionism, modernism and photographic composition".
+				&lt;br/&gt;&lt;br/&gt;
+				Although Constable never intended to exhibit his sketches, producing them for his own study and the development of more 'finished' canvases, they make up an important part of his body of work. They are now considered some of his most 'modern' and interesting pieces in that they made an even more radical and pioneering break from the traditions of academic art than the paintings he did display.
+			</desc>
+      <collection>The Royal Academy of Arts, London</collection>
+    </artwork>
+    <artwork>
+      <title>Salisbury Cathedral from the Meadows</title>
+      <year>1831</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Constable started painting &lt;i&gt;Salisbury Cathedral from the Meadows&lt;/i&gt; shortly after the death of his wife and, although exhibited in 1831, he continued to work on it until his death in 1837. The image is the last of his large six foot canvases and Constable believed that one day it would probably be considered his greatest picture. The image is reflective of the turmoil Constable felt in this period of mourning and this is seen in the religious subject matter, the violent sky and the addition of the rainbow which would be a meteorological impossibility given the other weather conditions.
+				&lt;br/&gt;&lt;br/&gt;
+				The image of the rainbow appears in several of Constable's other paintings including &lt;i&gt;Landscape with a Double Rainbow&lt;/i&gt; (1821) and &lt;i&gt;Stonehenge&lt;/i&gt; (1835) and it was generally used as a symbol of hope within the Romantic movement as a phenomenon that was both beautiful and fleeting. Constable himself wrote that "Nature in all the varied aspects of her beauty exhibits no feature more lovely nor any that awakens a more soothing reflection than the rainbow". In this instance the rainbow is considered to be a signifier of spiritual hope - it reaches the ground at Leadenhall the home of Bishop John Fisher who encouraged Constable to paint the scene and it may also indicate gratitude towards his friend for his support in the aftermath of his wife's death.
+				&lt;br/&gt;&lt;br/&gt;
+				The inclusion of the rainbow marks a departure in Constable's attempts for realism and this is articulated by contemporary critic, Mark Hudson when he states that, Constable "heightens the drama in the blustery sky, throwing a rainbow over the image in a mystical fusing of past and present that belies the sense of Constable as a mere dour observer of empirical reality." Former Tate curator Leslie Parris has suggested that this symbolism may be taken further and that the storm clouds over the Cathedral represent the troubles experienced by the Anglican Church following the Roman Catholic Relief Act of 1829.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>gainsborough_thomas</entity>
+        <entity>lorrain_claude</entity>
+        <entity>rubens_peter_paul</entity>
+        <entity alt="Esajas van de Velde">van_de_velde_esajas</entity>
+        <entity alt="Hendrick Avercamp">avercamp_hendrick</entity>
+      </column>
+      <column>
+        <entity alt="George Beaumont">beaumont_george</entity>
+        <entity alt="John Thomas Smith">smith_john_thomas</entity>
+        <entity alt="Bishop of Salisbury">bishop_of_salisbury</entity>
+        <entity alt="Benjamin West">west_benjamin</entity>
+        <entity alt="John Dunthorne">dunthorne_john</entity>
+      </column>
+      <column>
+        <entity alt="Dutch Golden Age">dutch_golden_age</entity>
+        <entity>classicism</entity>
+        <entity>baroque_art_and_architecture</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>gericault_theodore</entity>
+        <entity>delacroix_eugene</entity>
+        <entity>millet_jean_francois</entity>
+        <entity>corot_jean_baptiste_camille</entity>
+        <entity alt="Philip Wilson Steer">steer_philip_wilson</entity>
+      </column>
+      <column>
+        <entity alt="Charles Boner">boner_charles</entity>
+        <entity alt="Rev. John Fisher">fisher_rev_john</entity>
+        <entity alt="Charles Robert Leslie">leslie_charles_robert</entity>
+      </column>
+      <column>
+        <entity>romanticism</entity>
+        <entity>barbizon_school</entity>
+        <entity>impressionism</entity>
+        <entity>british_impressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Memoirs of the Life of John Constable</title>
+          <link>1162955260</link>
+          <info>By C.R. Leslie</info>
+        </entry>
+        <entry>
+          <title>Constable</title>
+          <link>1854370707</link>
+          <info>By Ian Fleming-Williams and Leslie Parris</info>
+        </entry>
+        <entry>
+          <title>Constable: The Natural Painter</title>
+          <link>0586044019</link>
+          <info>By Graham Reynolds</info>
+        </entry>
+        <entry>
+          <title>John Constable: The Man and His Art</title>
+          <link>1851772510</link>
+          <info>By Ronald Parkinson</info>
+        </entry>
+        <entry>
+          <title>Constable</title>
+          <link>0500080518</link>
+          <info>By John Walker</info>
+        </entry>
+        <entry>
+          <title>John Constable: A Kingdom of His Own, London</title>
+          <link>B007BLO7NC</link>
+          <info>By Anthony Bailey</info>
+        </entry>
+        <entry recommended="true">
+          <title>Constable in Love: Love, Landscape, Money and the Making of a Great Painter</title>
+          <link>0141031964</link>
+          <info>
+					By Martin Gayford
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Constable: The great landscapes</title>
+          <link>1854376357</link>
+          <info>By Anne Lyles</info>
+        </entry>
+        <entry recommended="true">
+          <title>John Constable: The Making of a Master</title>
+          <link>1851778004</link>
+          <info>By Mark Evans</info>
+        </entry>
+        <entry>
+          <title>Constable</title>
+          <link>0714842958</link>
+          <info>By Jonathan Clarkson</info>
+        </entry>
+        <entry>
+          <title>John Constable's Skies</title>
+          <link>B01K046V94</link>
+          <info>By John E. Thornes</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>John Constable: The Making of a Master, V&amp;A, review: 'spellbinding'</title>
+          <link>http://www.telegraph.co.uk/culture/art/art-reviews/11099696/John-Constable-The-Making-of-a-Master-VandA-review-spellbinding.html</link>
+          <info>
+						By Mark Hudson
+						&lt;br&gt;
+						The Daily Telegraph 
+						&lt;br&gt;
+						Sept 16, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Constable and the English Landscape</title>
+          <link>https://www.khanacademy.org/humanities/becoming-modern/romanticism/england-constable-turner/a/constable-and-the-english-landscape</link>
+          <info>
+						By Beth Harris and Steven Zucker
+						&lt;br&gt;
+						The Khan Academy
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Turner and Constable exhibitions revive Britain's greatest art rivalry</title>
+          <link>https://www.theguardian.com/artanddesign/2014/aug/24/jmw-turner-john-constable-exhibtions-tate-britain-va</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						April 24, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Romantic Art of John Constable and Eugene Delacroix</title>
+          <link>http://cujah.org/past-volumes/volume-vi/essay-14-volume-6/</link>
+          <info>
+						By Claudia Reid
+						&lt;br&gt;
+						CUJAH 
+						&lt;br&gt;
+						Jan 1, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>At the V&amp;A</title>
+          <link>https://www.lrb.co.uk/v36/n20/rosemary-hill/at-the-v-and-a</link>
+          <info>
+						By Rosemary Hill
+						&lt;br&gt;
+						London Review of Books 
+						&lt;br&gt;
+						October 23, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Englishmen abroad</title>
+          <link>https://www.theguardian.com/artanddesign/2002/oct/10/art.artsfeatures</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						Thurs 10, 2002
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Constable: A Country Rebel</title>
+          <link>https://www.youtube.com/watch?v=ecVOwzG_Huk</link>
+          <info>Detailed overview by Alastair Sooke</info>
+        </entry>
+        <entry recommended="true">
+          <title>John Constable: The radical landscape of The Hay Wain | National Gallery</title>
+          <link>https://www.youtube.com/watch?v=aJVLyuk2cxI</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Curator's Perspective: "A Conservative Revolutionary: John Constable and Art History"</title>
+          <link>https://www.youtube.com/watch?v=nQSXsuXd13Y</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

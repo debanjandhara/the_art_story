@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>cezanne_paul</id>
+    <name>Paul Cézanne</name>
+    <type>artist</type>
+    <is_influences>true</is_influences>
+    <active_section>artists</active_section>
+    <years>1861 - 1906</years>
+    <description>C&amp;#233;zanne paved the way for modern art, visually and conceptually, and linked Impressionism and later experimentation.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>6</highlight>
+    <occupation>Draftsman and Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>January 19, 1839</birthDate>
+    <birthPlace>Aix-en-Provence, France</birthPlace>
+    <deathDate>October 22, 1906</deathDate>
+    <deathPlace>Aix-en-Provence, France</deathPlace>
+    <image_desc>true</image_desc>
+    <img_version>?3</img_version>
+    <pub_time>6/1/2011</pub_time>
+    <big_bio_box_img>&lt;i&gt;Self-Portrait and Apple&lt;/i&gt; (1880-84) by Paul Cézanne</big_bio_box_img>
+    <big_bio_box_img2>Detail of &lt;i&gt;Four Apples&lt;/i&gt; (c. 1881) by Paul Cézanne</big_bio_box_img2>
+    <bio_highlight>Though Paul Cézanne famously said, "I will astonish Paris with an apple," he turned away from Paris (but not from fruits) for a quiet life in Provence where he painted, as he said, "nature by means of the cylinder, the sphere and the cone." His artistic approach launched one of the four major trends in movement now defined as Post-Impressionism. And his move to the countryside became a model for other Post-Impressionist leaders including Signac, Gauguin, and van Gogh, who also worked and lived in the South of France.</bio_highlight>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>post_impressionism</include>
+    <include>cubism</include>
+  </includes>
+  <similar_movements>
+    <movement>post_impressionism</movement>
+    <movement>cubism</movement>
+    <movement>salon_cubism</movement>
+    <movement>abstract_expressionism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>pissarro_camille</artist>
+    <artist>picasso_pablo</artist>
+    <artist>monet_claude</artist>
+    <artist>stieglitz_alfred</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I owe you the truth in painting and I will tell it to you"</q>
+    <q>"We must not paint what we think we see, but what we see .. sometimes it may go against the grain, but this is what our craft demands."</q>
+    <q>"You must think. The eye is not enough; it needs to think as well."</q>
+    <q>"Time and contemplation gradually modify our vision, ... and at last we reach understanding."</q>
+    <q>"I try to render perspective through color alone .. One must see one's model correctly and experience it in the right way, and furthermore, express oneself with distinction and strength."</q>
+    <q>"There must not be a single loose strand, a single gap through which the tension, the light, the truth can escape."</q>
+    <q>"A painter is revealing something which no one has ever seen before and translates it into the absolute concepts of painting. That is, into something other than reality."</q>
+    <q>"Art is a harmony parallel with nature."</q>
+    <q author="George Braque">"In C&amp;#233;zanne's work we should see not only a new pictorial construction but also—too often forgotten—a new moral suggestion of space."</q>
+    <q author="Paul Valery">"[C&amp;#233;zanne is] the example of the dedicated life."</q>
+    <q author="Historian Meyer Schapiro">
+			"At the threshold of our century stands the art of Cézanne, which imposes on us the conviction that in rendering the simplest objects, bare of ideal meanings, a series of colored patches can be a summit of perfection showing the concentrated qualities and powers of a great mind.
+			&lt;br/&gt;
+			Whoever in dismay before the strangeness of certain contemporary works denies to the original painting of our time a sufficient significance and longs for an art with noble and easily-read figures and gestures, should return to Cézanne and ask what in the appeal of his 'weighty art' depends on a represented human drama."
+		</q>
+  </quotes>
+  <authors>
+    <author link="savvine">Ivan Savvine</author>
+  </authors>
+  <article>
+    <synopsys>Paul Cézanne was the preeminent French artist of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt; era, widely appreciated toward the end of his life for insisting that painting stay in touch with its material, virtually sculptural origins. Also known as the "Master of Aix" after his ancestral home in the South of France, Cézanne is credited with paving the way for the emergence of twentieth-century modernism, both visually and conceptually. In retrospect, his work constitutes the most powerful and essential link between the ephemeral aspects of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; and the more materialist, artistic movements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;, and even complete abstraction.</synopsys>
+    <key_ideas>
+      <idea>Unsatisfied with the Impressionist dictum that painting is primarily a reflection of visual perception, Cézanne sought to make of his artistic practice a new kind of analytical discipline. In his hands, the canvas itself takes on the role of a screen where an artist's visual sensations are registered as he gazes intensely, and often repeatedly, at a given subject.</idea>
+      <idea>Cézanne applied his pigments to the canvas in a series of discrete, methodical brushstrokes as though he were "constructing" a picture rather than "painting" it. Thus, his work remains true to an underlying architectural ideal: every portion of the canvas should contribute to its overall structural integrity.</idea>
+      <idea>In Cézanne's mature pictures, even a simple apple might display a distinctly sculptural dimension. It is as if each item of still life, landscape, or portrait had been examined not from one but several angles, its material properties then recombined by the artist as no mere copy, but as what Cézanne called "a harmony parallel to nature." It was this aspect of Cézanne's analytical, time-based practice that led the future Cubists to regard him as their true mentor.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Paul Cézanne was born in 1839 in the town of Aix-en-Provence in the South of France. His father was a wealthy lawyer and banker who strongly encouraged Paul to follow in his footsteps. Cézanne's eventual rejection of his authoritative father's aspirations led to a long, problematic relationship between the two, although, notably, the artist remained financially dependent on his family until his father's death in 1886.</p>
+          <p type="p">He was extremely close friends with Émile Zola, a writer born in Aix as well, and who would later become one of the greatest literary figures of his generation.  The adventurous Cézanne and Zola were part of a small circle that called themselves "The Inseperables". They moved to Paris together in 1861.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Cézanne was largely a self-taught artist. In 1859, he attended evening drawing classes in his native town of Aix. After moving to Paris, Cézanne twice attempted to enter the École des Beaux-Arts, but was turned down by the jury. Instead of acquiring professional training, Cézanne made frequent visits to the Musée de Louvre, where he copied works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Rubens&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt;. He also regularly visited the Académie Suisse, a studio where young art students could draw from the live model for a very modest monthly membership fee. While at the Académie, Cézanne met fellow painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Auguste Renoir&lt;/span&gt;, who were at that time also struggling artists, but who would soon comprise the founding members of the nascent Impressionist movement.</p>
+          <p type="img" alt="Paul Cézanne Biography" show="1">/images20/photo/cezanne_paul_1.jpg</p>
+          <p type="p">The early oils of Cézanne were executed in a rather somber palette. The paint was often applied in thick layers of impasto, adding a sense of heaviness to already solemn compositions. His early painting indicated a focus on color in favor of well-delineated silhouettes and perspectives preferred by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_academy_of_art"&gt;French Academy&lt;/span&gt; and the jury of the annual Salon where he continuously submitted his works. All of his submissions, however, were refused. The artist also travelled regularly back to Aix to secure funding from his disapproving father.</p>
+          <p type="p">The year 1870 marked a crucial shift in Cézanne's painting which was occasioned by two factors: the artist's move to L'Estaque in the South of France to avoid the military draft, and his closer association with one of the most distinguished young Impressionists - Camille Pissarro. Cézanne was fascinated with the Mediterranean landscape of L'Estaque, with its abundance of sunlight, and the vibrancy of colors. Meanwhile, Pissarro proved instrumental in persuading Cézanne to adopt a brighter palette, as well as to abandon the heavy and ponderous impasto technique in favor of smaller and livelier brushstrokes. In L'Estaque, Cézanne executed a series of landscapes dominated by the architectonic forms of the rural houses, the dazzling blues of the sea, and the vivacious greens of the foliage.</p>
+          <p type="p">In 1872, Cézanne returned to Paris, where his son Paul was born. His mistress, Hortense Fiquet, would finally become Madame Cézanne in 1886, notably just following the artist's father's death. Cézanne painted over forty portraits of his companion, as well as several enigmatic portraits of their son.</p>
+          <p type="p">In 1873, Cézanne exhibited in the Salon des Réfuses, the notorious show of artists who had been refused by the official Salon (he counted himself among a circle that included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, among others). The critics slammed the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; artists, which apparently hurt Cézanne deeply. In the next decade he mostly painted away from Paris, in either Aix or L'Estaque, and he no longer participated in unofficial group exhibitions.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Paul Cézanne Photograph" show="1">/images20/photo/cezanne_paul_3.jpg</p>
+          <p type="p">Cézanne's experience with painting from nature and rigourous experimentation led him to develop his own approaches to art. He strove to depart from the portrayal of the transient moment, long favored by the Impressionists; instead, Cézanne sought true and permanent pictorial qualities of objects around him. According to Cézanne, the subject of the painting was first to be "read" by the artist through the understanding of its essence. Then, in the second stage, this essence must be "realized" on a canvas through forms, colors, and their spatial relations. The colors and forms thus became the dominant elements of his compositions, completely freed from the rigid rules of perspective and paint application as promoted by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_academy_of_art"&gt;Academy&lt;/span&gt;.</p>
+          <p type="img" alt="Detail of a self-portrait drawing by Paul Cézanne" show="1">/images20/photo/cezanne_paul_22.jpg</p>
+          <p type="p">Depicting reality as such was never Cézanne's primary objective. In his own words, it was "something other than reality" that he endeavored to reveal. In the 1880's, Cézanne executed a large number of still lifes, completely reinventing the genre in the two-dimensional mode. The central feature of these still lifes was the crucial shift of attention from the objects themselves, to the forms and colors that were potentially communicated by their surfaces and contours.</p>
+          <p type="p">Cézanne's portraits, including an extensive body of self-portraits, exhibit the same set of traits. The compositions are vividly impersonal, for it was not the sitter's character that Cézanne struggled to depict but the formal and coloristic possibilities of the human body and its interior nature.</p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Paul Cézanne in the front his painting &lt;i&gt;The Bathers&lt;/i&gt;" show="1">/images20/photo/cezanne_paul_2.jpg</p>
+          <p type="p">In the last decade of his life, Cézanne limited his artistic pursuits almost exclusively to two pictorial motifs. One was the depiction of the Mont Sainte-Victoire, a dramatic mountain that dominated the parched and stony landscape at Aix. The other was the final synthesis of nature and the human body in a series of so-called &lt;i&gt;Bathers&lt;/i&gt; (nudes depicted frolicking in a landscape). The later versions of the &lt;i&gt;Bathers&lt;/i&gt; were becoming increasingly abstract in regard to how form and color seemed to fuse together on the canvas.</p>
+          <p type="p">After contracting pneumonia, Paul Cézanne died in his familial house in Aix on October 22, 1906. The last decade of his life had been marred by the development of diabetes and severe depression, which contributed toward alienating the artist from most of his friends and family.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="The painting &lt;i&gt;Homage to Cézanne&lt;/i&gt; (1900) by Maurice Denis. From left: Odilon Redon, Édouard Vuillard, critic Andre Mellario, dealer Ambraise Vollard, Maurice Denis, and Paul Serusier, Paul Ranson, Ker-Xavier Roussel, Pierre Bonnard, and Marthe Denis" show="1">/images20/photo/cezanne_paul_33.jpg</p>
+          <p type="p">When looking at Cézanne's late work, it is impossible to miss the emergence of a unique artistic approach. Cézanne offered a new way of comprehending the world through art. With his reputation evolving steadily in the late years of his life, an increasing number of young artists fell under the influence of his innovative vision. Among them was the young &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, who would soon steer the Western tradition of painting into yet another new and utterly unprecedented direction. It was Cézanne who taught the new generation of artists to liberate form from color in their art, thus creating a new and subjective pictorial reality, not merely a slavish imitation. The influence of Cézanne continued well into the 1930s and 1940s, when a new artistic manner was coming to fruition - that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="courbet_gustave">The Bathers (1853)</artwork>
+    <artwork from="artist" page="manet_edouard">A Bar at the Folies-Bergere (1881-82)</artwork>
+    <artwork from="artist" page="pissarro_camille">Hoar Frost, the Old Road to Ennery, Pointoise (1873)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>delacroix_eugene</entity>
+        <entity>gericault_theodore</entity>
+        <entity>courbet_gustave</entity>
+        <entity>manet_edouard</entity>
+      </column>
+      <column>
+        <entity>pissarro_camille</entity>
+        <entity>vollard_ambroise</entity>
+        <entity>chocquet_victor</entity>
+        <entity>tanguy_julien</entity>
+        <entity>zola_emile</entity>
+      </column>
+      <column>
+        <entity>japonism</entity>
+        <entity>romanticism</entity>
+        <entity>realism</entity>
+        <entity>impressionism</entity>
+        <entity>pointillism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>matisse_henri</entity>
+        <entity>picasso_pablo</entity>
+        <entity>braque_georges</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>gorky_arshile</entity>
+      </column>
+      <column>
+        <entity>pissarro_camille</entity>
+        <entity>vollard_ambroise</entity>
+        <entity>stein_gertrude</entity>
+        <entity>stieglitz_alfred</entity>
+      </column>
+      <column>
+        <entity>post_impressionism</entity>
+        <entity>fauvism</entity>
+        <entity>expressionism</entity>
+        <entity>cubism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Louis-Auguste C&amp;#233;zanne, the Artist's father, Reading “L'Evenement”</title>
+      <year>1866</year>
+      <materials>Oil on canvas</materials>
+      <desc>This portrait is one of the most renowned early works by C&amp;#233;zanne. The rigid composition is dominated by somber hues applied in a thick impasto. The expressive premise for this piece is suggested by the artist's inclusion of his own still life in the background, as though to solicit recognition of his talent by his famously disapproving parent. As if to force the issue, Louis-August is portrayed reading a liberal newspaper, a highly unlikely event, as he was widely known for his conservative outlook.</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>A Modern Olympia</title>
+      <year>1869-70</year>
+      <materials>Oil on canvas</materials>
+      <desc>This composition is C&amp;#233;zanne's adaptation of the theme of the &lt;i&gt;demi-mondaine&lt;/i&gt;, or high-class prostitute suggested in &amp;#201;douard Manet's scandalous &lt;i&gt;Olympia&lt;/i&gt; of 1863. Unlike Manet's treatment, however, C&amp;#233;zanne portrays the prostitute as an awkwardly naked and recoiling figure, setting off the figures of her suitor (completely invisible in Manet's rendering of the subject) and an African chambermaid as transgressing "outsiders." The figures are depicted in both an expressive and abbreviated, indeed almost ungainly manner, with facial features only vaguely outlined, like masks, while their fleshy, corpulent bodies are visually articulated by dynamic, curving contours. The interior of the room is defined by a series of sweeping diagonals and bold colors depicting draperies, fruit, and an implied floral arrangement (Manet's version of the subject sported a resplendent bouquet in the center of the canvas). The suitor may be equated with C&amp;#233;zanne himself, possibly referring to his well-known anxiety with the opposite sex, which he struggled with throughout his life.</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>The Bay of Marseille, Seen from L'Estaque</title>
+      <year>1885</year>
+      <materials>Oil on canvas</materials>
+      <desc>In this view of L'Estaque, the artist's palette bursts with a vibrant bouquet of colors previously unseen in his work. The rigid architectonic forms of the houses define the foreground, while the rest of the picture is realized just as "solidly" through the bold blues of the sea and the sky. The complementary colors are skillfully employed by the artist to create an illusion of pictorial depth. The entire composition reminds us the artist's stated desire to "make of Impressionism something solid and enduring, like the art in museums." C&amp;#233;zanne painted numerous views of L'Estaque, which was one of his favorite destinations in the south of France.</desc>
+      <collection>The Art Institute of Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>Madame C&amp;#233;zanne in a Red Dress</title>
+      <year>1888-90</year>
+      <materials>Oil on canvas</materials>
+      <desc>This is an example of the many portraits C&amp;#233;zanne painted of his mistress and eventual wife, Hortense Fiquet. C&amp;#233;zanne does not romanticize her form: the sitter's figure is rigidly imposing, almost soldier-like, her face bluntly plain and asymmetrical with only one ear visible. It seems that the sitter exists purely for compositional purposes, her dress in itself serving as an excuse for the artist to experiment with various tones of red, like a convenient palette. The stark geometrical accents dissect the canvas in both horizontal and vertical directions, thus creating the impression of a carefully arranged, monumental still life, as opposed to a portrait of a lifelong companion or "loved one."</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Card Players</title>
+      <year>1890-92</year>
+      <materials>Oil on canvas</materials>
+      <desc>C&amp;#233;zanne produced his series of &lt;i&gt;Card Player&lt;/i&gt; paintings, drawings, and related studies in his ancestral home in the South of France, where he found in the image of men playing cards something timeless, like the mountains cradling an ancient people. As though they came together around a simple peasant table for a seance or cosmic conference, the card players seem at once transient and unmoving, very much masters of their environment and yet weathered testaments of time's passing.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Table, Napkin, and Fruit (A Corner of the Table)</title>
+      <year>1895-1900</year>
+      <materials>Oil on canvas, 47 x 56 cm (18 1/4 x 22 in)</materials>
+      <desc>After studying Dutch and French Old Master still life painting at the  Louvre and other Parisian galleries, C&amp;#233;zanne formulated his own semi-sculptural approach to still lifes. Typically strewn across an upturned tabletop, C&amp;#233;zanne's pears, peaches, and other pictorial elements seem at once to rest on a solid, wooden plank and yet float across the surface of the canvas like a new kind of calligraphy. As if to press home that point, C&amp;#233;zanne typically includes chairs, wooden screens, water pitchers, and wine bottles to suggest that the gaze of the viewer rise vertically up the canvas, rather than plunge deep within any implied corner of a real kitchen.</desc>
+      <collection>The Barnes Foundation, Pennsylvania</collection>
+    </artwork>
+    <artwork>
+      <title>Study of Trees</title>
+      <year>c.1904</year>
+      <materials>Oil on canvas</materials>
+      <desc>In nearly abstract watercolor landscapes dating from the latter part of his life, C&amp;#233;zanne achieved a perfect balance, or equilibrium, between color, form, and relatively untouched areas of the paper. The brushstrokes themselves seemed to speak a visual poetry entirely apart from the painting's subject. In this study of trees, which invariably comes from the long tradition of Japanese woodcuts, C&amp;#233;zanne is moving further toward abstraction by constructing the landscape view through various constellations of color. What seems an "unfinished" composition nonetheless successfully suggests the feeling of nature without fully representing it, the overall canvas structured by intersecting diagonals that tip and turn out of the picture plane, like leaves shifting in the sunlight. This lively arrangement, along with the artist's obvious acknowledgment of the raw canvas as a positive component, directly anticipates the "incomplete" landscapes of the Fauves and provides future generations with a method to experiment with pictorial possibilities beyond the rigid tradition of naturalistic representation.</desc>
+      <collection>The Fogg Art Museum, Harvard University, Cambridge, Mass</collection>
+    </artwork>
+    <artwork>
+      <title>Mont Sainte-Victoire</title>
+      <year>c.1905</year>
+      <materials>Oil on canvas</materials>
+      <desc>This is one of the last landscapes of Mont Sainte-Victoire, favored by C&amp;#233;zanne at the end of his life. The view is rendered in what is essentially an abstract vocabulary. Rocks and trees are suggested by mere daubs of paint as opposed to being extensively depicted. The overall composition itself, however, is clearly representational and also follows in the ethos of Japanese prints. The looming mountain is reminiscent of a puzzle of various hues, assembled into a recognizable object. This and other such late works of C&amp;#233;zanne proved to be of a paramount importance to the emerging modernists, who sought to liberate themselves from the rigid tradition of pictorial depiction.				&lt;br/&gt;&lt;br/&gt;	  In C&amp;#233;zanne's mature work, the colors and forms possessed equal pictorial weight. The primary means of constructing the new perspective included the juxtaposition of cool and warm colors as well as the bold overlapping of forms. The light was no longer an "outsider" in relation to depicted objects; rather light emanated from within. Instead of the illusion, he searched for the essence. Instead of the three-dimensional artifice, he longed for the two-dimensional truth.	  	  </desc>
+      <collection>The Pushkin Museum of Fine Art, Moscow</collection>
+    </artwork>
+    <artwork>
+      <title>The Large Bathers</title>
+      <year>1898-1906</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;The Large Bathers&lt;/i&gt; is one of the finest examples of C&amp;#233;zanne's attempt at incorporating the modern, heroic nude in a natural setting. The series of very human nudes, no Greco-Roman nymphs or satyrs, are arranged into a variety of positions, like objects of still life, under the pointed arch formed by the intersection of trees and the heavens. The figures are devoid of any particular personality - the artist assembles them for purely structural purposes. Here C&amp;#233;zanne is reinterpreting an iconic Western motif of the female nude, but in an exceptionally radical way. The sheer size of the painting is monumental, confronting the viewer directly with abbreviated shapes that resolve themselves into the naked limbs of his sitters. This is not yet abstraction, but in such instances C&amp;#233;zanne has already moved beyond the figurative tradition.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Defining Modern Art</title>
+          <link>/definition/modern-art/</link>
+          <info>Take a look at the big picture of modern art, and C&amp;#233;zanne's role in it.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Cézanne</title>
+          <link>0810991462</link>
+          <info>By Meyer Schapiro</info>
+        </entry>
+        <entry>
+          <title>Cézanne : A Biography</title>
+          <link>0810907755</link>
+          <info>By John Rewald</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne</title>
+          <link>0486247295</link>
+          <info>By Ambroise Vollard</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cezanne: A Life </title>
+          <link>0307377075</link>
+          <info>By Alex Danchev</info>
+        </entry>
+        <entry>
+          <title>Cezanne: A Biography</title>
+          <link>0810981009</link>
+          <info>By John Rewald</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Letters of Paul Cézanne</title>
+          <link>1606061607</link>
+          <info>By Alex Danchev</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>Paul Cézanne, 1839-1906: Pioneer of Modernism</title>
+          <link>3822856428</link>
+          <info>By Ulrike Becks-Malorny</info>
+        </entry>
+        <entry>
+          <title>Paul Cézanne: A Painter's Journey</title>
+          <link>0810957841</link>
+          <info>By Robert Burleigh, The National Gallery of Art</info>
+        </entry>
+        <entry>
+          <title>Cezanne: The Rock and Quarry Paintings</title>
+          <link>0300250487</link>
+          <info>By John Elderfield</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne: Drawing</title>
+          <link>1633451267</link>
+          <info>By Jodi Hauptman</info>
+        </entry>
+        <entry>
+          <title>Cezanne</title>
+          <link>0810940396</link>
+          <info>By Francoise Cachin, Isabelle Cahn, and Walter Feilchenfeldt</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne (Basic Art Series 2.0)</title>
+          <link>3836530171</link>
+          <info>By Ulrike Becks-Malorny</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paul Cézanne: Drawings and Watercolors</title>
+          <link>1606064649</link>
+          <info>By Christopher Lloyd</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne Portraits</title>
+          <link>0691177864</link>
+          <info>By John Elderfield</info>
+        </entry>
+        <entry>
+          <title>Cezanne: Landscape into Art</title>
+          <link>0300067011</link>
+          <info>By Pavel Machotka</info>
+        </entry>
+        <entry>
+          <title>Cézanne in Provence</title>
+          <link>0300113382</link>
+          <info>By Philip Conisbee and Denis Coutagne</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Official Website of Atelier Cézanne Museum</title>
+          <link>http://www.cezanne-en-provence.com/en/</link>
+          <info>The artist's house in Aix-en-Provence</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paul Cézanne</title>
+          <link>http://www.metmuseum.org/toah/hd/pcez/hd_pcez.htm</link>
+          <info>Metropolitan Museum's of Art Timeline of Art History</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Maverick, You Cast a Giant Shadow</title>
+          <link>http://www.nytimes.com/2009/03/06/arts/design/06ceza.html?_r=1</link>
+          <info>By Rosenberg, Karen&lt;br/&gt;The New York Times&lt;br/&gt;March 5, 2009</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Post-Impressionist and His American Imitators</title>
+          <link>http://www.nytimes.com/2009/10/09/arts/design/09cezanne.html?ref=paulcezanne</link>
+          <info>By Ken Johnson&lt;br/&gt;New York Times&lt;br/&gt;October 8, 2009</info>
+        </entry>
+        <entry recommended="true">
+          <title>An Inquiry into Paul Cézanne: The Role of the Artist in Studies of Perception and Consciousness</title>
+          <link>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.15.6246&amp;rep=rep1&amp;type=pdf</link>
+          <info>
+			By Amy Ione
+			&lt;br/&gt;
+			Journal of Consciousness Studies
+			&lt;br/&gt;
+			2000
+		  </info>
+        </entry>
+        <entry recommended="true">
+          <title>How Paul Cézanne Charted a New Path with His Boundary-Pushing Still Lifes and Landscapes</title>
+          <link>https://www.artnews.com/art-news/artists/paul-cezanne-who-is-he-famous-works-1234581314/</link>
+          <info>
+			By Claire Selvin
+			&lt;br/&gt;
+			ARTnews
+			&lt;br/&gt;
+			January 19, 2021
+		  </info>
+        </entry>
+        <entry>
+          <title>The Cézanne We’ve Forgotten How to See</title>
+          <link>https://www.nytimes.com/2021/06/27/arts/design/cezanne-moma-drawings.html</link>
+          <info>
+			By Jason Farago
+			&lt;br/&gt;
+			The New York Times
+			&lt;br/&gt;
+			June 27, 2021
+		  </info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne Unmasked: the shattering portraits that blew Picasso and the Paris avant garde away</title>
+          <link>https://www.theguardian.com/artanddesign/2017/aug/11/cezanne-unmasked-the-shattering-portraits-that-blew-picasso-paris-avant-garde-away</link>
+          <info>
+			By Jonathan Jones
+			&lt;br/&gt;
+			The Guardian
+			&lt;br/&gt;
+			August 11, 2017
+		  </info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Discussion of &lt;i&gt;Route Tournante&lt;/i&gt; painting by Paul Cézanne</title>
+          <link>http://www.guardian.co.uk/books/audioslideshow/2009/feb/23/art-art</link>
+          <info>Author Colm Tóibín discusses artist and painting</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Cézanne in 6 Minutes: Master Painter, Revered by Collectors &amp; Artists but Rejected by the Paris Salon </title>
+          <link>https://www.youtube.com/watch?v=1a2-nTwYEnc</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Paul Cézanne: A brief look at who he was and the time in which he created art</title>
+          <link>https://www.youtube.com/watch?v=PUh1eaqSsLw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Paul Cézanne en Provence</title>
+          <link>http://www.amazon.com/gp/product/B000EULK64/</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Paul Cézanne: The Life of an Artist - the founder of Modern Art</title>
+          <link>https://www.youtube.com/watch?v=8agD9o37cAk</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Smarthistory: Cézanne, Mont Sainte-Victoire</title>
+          <link>https://www.youtube.com/watch?v=KJuYXFHvRaY</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne: 'The Father of Modern Art’ (HENI Talks)</title>
+          <link>https://www.youtube.com/watch?v=VsSd5jjITQA</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Paul Cézanne: The father of modern art (National Gallery)</title>
+          <link>https://www.youtube.com/watch?v=MFdliclkdlE</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Cezanne: Art and Life (Lecture by Alex Danchev at the Museum of Fine Arts, Boston)</title>
+          <link>https://www.youtube.com/watch?v=vKz_7blQkvQ</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne’s Radical Approach to the Still Life (Sotheby’s)</title>
+          <link>https://www.youtube.com/watch?v=9PTDWDBtg-4</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Cézanne’s Portraits: Doubt, Certainty, and Painting in Series (Lecture by John Elderfield at the National Gallery of Art, Washington D. C.)</title>
+          <link>https://www.youtube.com/watch?v=meqRruuzBCo</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry recommended="true">
+          <title>The protagonist of Emile Zola's "Masterpiece"</title>
+          <link>http://www.amazon.com/Masterpiece-Oxford-Worlds-Classics/dp/0199536910/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1242370842&amp;sr=1-1</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

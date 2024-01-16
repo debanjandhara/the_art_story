@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>russian_futurism</id>
+    <name>Russian Futurism</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1911 - 1916</years>
+    <keywords>russian futurism, art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy</keywords>
+    <description>Russian Futurists passionately explored new approaches to poetry, visual art, music, and performance.</description>
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <start>1911</start>
+    <end>1916</end>
+    <image_desc>true</image_desc>
+    <art_type>Art</art_type>
+    <pub_time>3/23/2017</pub_time>
+  </main>
+  <similar_artists>
+    <artist>goncharova_natalia</artist>
+    <artist>larionov_mikhail</artist>
+    <artist>khlebnikov_velimir</artist>
+    <artist>malevich_kasimir</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>suprematism</movement>
+    <movement>constructivism</movement>
+    <movement>rayonism</movement>
+    <movement>futurism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>suprematism</entry>
+    <entry>rayonism</entry>
+    <entry>futurism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="Lyubov Popova" alt="Lyubov Popova">"We are breaking with the past, because we cannot accept its hypotheses. We ourselves are creating our own hypotheses anew and only upon them ... can we build our new life and new world view."</q>
+    <q author="Gustav Klutsis">"A new art was needed, armed by technology and chemistry, an art that stood side by side with socialist industry, a new, militant art, which could organize the will of the masses."</q>
+    <q author="El Lissitzky">"The (painted) picture fell apart together with the old world which it had created for itself. The new world will not need little pictures. If it needs a mirror, it has the photograph and the cinema."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>
+			The phenomenon that came to be known as Russian Futurism is not an easily defined movement and was entirely separate from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Italian Futurism&lt;/span&gt;, which was founded in Milan in 1909. As an ideological umbrella, Russian Futurism was intentionally flexible, accommodating diverse artists and practices during a period roughly dated from 1912 to 1916. Distinct collaborative groups of Russian Futurists formed in St. Petersburg and in Moscow, publishing journals, organizing debates, and curating exhibitions of their work. The individuals practicing as Futurists (whether self-identified or identified as such by critics and the press) shared a passion for exploring new modes of expression in poetry, visual art, music, and performance, while also shattering the distinctions between these mediums. 
+			&lt;br/&gt;&lt;br/&gt;
+			Drawing on influences from the West and mingling these with their own Russian heritage, the Futurists celebrated new concepts in psychology, color theory, and linguistics. One of their most unusual elements was a latent archaism, or attachment to Russian traditions in spite of an otherwise overwhelming focus on new technologies and forms. The events of World War I left many artists seeking a profound new meaning for their work and the Futurist vein soon developed into (or was superseded by) movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;. Possibly because Russian Futurism first emerged as a predominantly literary movement, some of its most stunning and original works are experimental books. These collaborations between poets and painters offer its most distinctive legacy, one that can be traced into mid-century sound poetry artworks and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual art&lt;/span&gt;. 
+		</synopsys>
+    <key_ideas>
+      <idea>Russian Futurism rejected conventional art methods, proposing a new visual and linguistic vocabulary for modern experience. In their most famous manifesto, A Slap in the Face of Public Taste (1912), the Futurists announced "we alone are the face of our time," and asserted an "insurmountable hatred for the language existing before [us]."</idea>
+      <idea>They embraced (and inevitably romanticized) the signifiers of the "new": science, technology, invention, and speed. These were general symbols of modernity, but also of a new Russia, leaping out of an agrarian past into an industrial and political revolution.</idea>
+      <idea>Although they vehemently rejected the past, Russian Futurists celebrated traditional Russian heritage, including aspects of folk life and religion. They drew from a wide range of Russian "primitive" art forms - religious icons and woodcuts, ancient pagan sculpture, folk art and costumes - that they translated into increasingly pure color and abstract forms.</idea>
+      <idea>Some of the most influential and prolific Russian Futurists were women. Artists including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goncharova_natalia"&gt;Natalia Goncharova&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-popova_lyubov"&gt;Lyubov Popova&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rozanova_olga"&gt;Olga Rozanova&lt;/span&gt;, and Maria Siniakov occupied a remarkable and central role in the artistic movement. Many of these women had traveled or lived outside of Russia, where new ideas about equality were flourishing in international and cosmopolitan cities like Paris and Berlin.</idea>
+      <idea>Russian Futurists were anti-establishment but did not have a unified political program. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-trotsky_leon"&gt;Leon Trotsky&lt;/span&gt; later called them "cafe artists of the &lt;i&gt;bourgeoisie&lt;/i&gt;", though he thought they captured the "rhythms of movement, of action, of attack, and of destruction which were as yet vague" in the pre-Revolutionary period.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="The Early Hylaea Group is Formed">
+          <p type="p">In December of 1911, the artist and poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-burliuk_david"&gt;David Burliuk&lt;/span&gt; and his brothers Vladimir and Nikolai travelled to their childhood home in the countryside to spend their Christmas vacation. In the months before this holiday they had been introduced to the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, and immediately before their departure they had been given a photograph of one of his recent paintings from Paris - a Cubist exploration of a human figure. Eager to explore this new influence, once at home the brothers churned out canvas after canvas, experimenting with multiple perspectives, flattening objects into planes, and using bizarre color combinations in search of something new. Benedikt Livshits, a writer and a recent acquaintance of the brothers, had also been invited to join them on their trip, and he too reveled in the frenzy of artistic experimentation, producing page after page of prose that explored new rhythms in what he considered to be a direct translation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; to the Russian language. Together, the four of them founded a new group called "Hylaea," and banded together to achieve something profoundly new in art. The name they chose recalled the journey of Heracles and the Scythian empire of the Russian steppes, underscoring the group's tendency towards primitive forms and sometimes garish colors which differed from the muted palette of the Cubist trend. It also reflected a proud focus on the members' heritage, the primitive art of their ancestors, and the internal workings of their language. The collective was soon joined by other artists and writers such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mayakovsky_vladimir"&gt;Vladimir Mayakovsky&lt;/span&gt;, Alexei Kruchenykh, and Velimir Khlebnikov. They would be called Hylaeans for two years before the term "Futurists" was applied to them by the press.</p>
+        </subsection>
+        <subsection title="Growth in Moscow and St. Petersburg">
+          <p type="img" alt="Natalia Goncharova with face painted by Mikhail Larionov. From &quot;Why We Paint Ourselves: A Futurist Manifesto,&quot; (1913)" show="0">/images20/photo/photo_russian_futurism_1.jpg</p>
+          <p type="p">By the time of Hylaea's founding, there already existed two like-minded groups of artists who regularly exhibited their own work outside of the academy: The Jack of Diamonds in Moscow and the Union of Youth in St. Petersburg. The participants in these shows quickly took on board the ideas of the Hylaeans (who were themselves already associated with these exhibiting societies), and the avant-garde flourished under the influence of these and many other new concepts in the early 1910s. By exploring their own historical roots and combining them with new influences from the West as well as modern philosophy, color theory, and linguistics, the aim of the Russian avant-garde at this time was to make a true break from the bourgeois past of academic art. Experiments were not contained to the canvas but were also explored on stage, in public debates, and particularly on the written page. Futurists further incorporated their ideals into their daily lives by taking their art to the streets. They became famous for wild public behavior: wearing outlandishly colored clothing or painting their faces with symbols, lines, and even portraits. In the manifesto "Why We Paint Ourselves," (1913), Mikhail Larionov and Ilya Zdanevich explained, "We have joined art to life ... we have loudly summoned life and life has invaded art... The painting of our faces is the beginning of the invasion."</p>
+        </subsection>
+        <subsection title="Differing Opinions">
+          <p type="p">By 1912, there were splinters within these groups as certain artists settled into their own distinct paths. Despite their focus on looking to their own Russian cultural, visual, and linguistic heritage for inspiration, the Hylaeans also happily assimilated Western trends into their work. Other avant-garde painters such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-larionov_mikhail"&gt;Mikhail Larionov&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goncharova_natalia"&gt;Natalia Goncharova&lt;/span&gt;, on the other hand, argued against the novelty of Cubism, claiming that such forms had already been explored in ancient art. In their opinion, the primitive forms and practices of Russian folk art carried enough inspiration, and there was no reason to look to the West as a guiding light; Russia was perfectly capable of defining its own avant-garde. Thus was born in 1912 yet another group, called the Donkey's Tail, which claimed to looked inward to Russia rather than outward to the West (particularly France) for the genesis of their concepts and experiments.</p>
+        </subsection>
+        <subsection title="Poetry and Language">
+          <p type="img" alt="Futurist poets in Moscow in 1911. Clockwise from bottom left: Aleksei Kruchyonykh, David Burlyuk, Vladimir Mayakovsky, Nikolai Burlyuk, and Benedikt Livshits" show="1">/images20/photo/photo_russian_futurism_2.jpg</p>
+          <p type="p">Significant to the Futurist milieu was the concept of direct collaboration between visual artists and writers, which led to the production of a great number of illustrated books of poetry and verse. These were printed and produced by hand, and were funded, published, and advertised through individuals close to the Futurist circle or the Futurists themselves. Just as many Futurist painters began to introduce fragments of text into their canvases, poets and writers felt the importance of illustrations and visual stimuli to carry across the intent of their work. Thus the written and spoken language of the Futurists developed very much hand-in-hand with the visual language of their colleagues. Typographic experimentation provided another visual analog for the explosion of language taking place in Futurist poetry.</p>
+        </subsection>
+        <subsection title="The Term Russian Futurism">
+          <p type="p">Over the course of time, historians have come to define the avant-garde activities in Russia during the pre-war period as Russian Futurism, but this usage is in fact problematic. It incorrectly implies a purposeful connection to the (more internationally famous) Futurism that was native to Italy, and unfortunately, this misunderstanding dominates the art field today. In reality, the majority of the early work that we now define as Russian Futurism was developed entirely independently of Italian Futurism. Although the birth of the Italian movement was reported in the Russian press almost immediately after its founding in 1909, the efforts of its artists and writers were of little interest to their counterparts in Russia until &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marinetti_filippo_tommaso"&gt;Filippo Tommaso Marinetti&lt;/span&gt; visited Russia in 1914.</p>
+          <p type="p">By 1912, the term Futurist was occasionally used in the Russian press, but it was used invariably as an adjective to describe a work of art and was virtually interchangeable with the term Cubist.</p>
+          <p type="p">If a painting reflected current modern trends from Russia or from the West, it could be described by a journalist as Futurist just as easily as it could be described as Cubist or contemporary, and the term Futurism essentially became a synonym for the avant-garde in general.</p>
+          <p type="p">By 1913, the words &lt;i&gt;futuristi&lt;/i&gt; and &lt;i&gt;futurizm&lt;/i&gt; began to be used by certain Russian artists and writers to describe their own efforts. This was likely a concession to the fact that this is how their work had become known through the press - their own preferred term of &lt;i&gt;budetliane&lt;/i&gt; failed to take off in reportage. For the most part, the Russians denied any connection to the activities of their Italian contemporaries who ostensibly operated under the same terminology, and they never consolidated as a formal group. They were, however, forward-thinking artists who were very much invested in the future, and thus for better or for worse, the existing descriptors of Futurism applied to them. It is important to keep in mind, though, that although some Russian artists eventually adopted the terminology of Futurism to describe their efforts, they still considered their work to be entirely separate from any group in the Western milieu.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Reliance on the Past">
+          <p type="p">Early in the Futurist period, the great majority of avant-garde Russian art was strongly influenced by the historical art and culture of the area, looking beyond the academy to the original roots of art in their region. In particular, the visual traditions of religious icons and folk art were referenced again and again as reminders of the deep heritage associated with the culture of Russia and its surrounding countries. The distinctive style of Russian woodcut prints (&lt;i&gt;lubki&lt;/i&gt;) was a particularly important reference point. &lt;i&gt;Lubki&lt;/i&gt; were a popular form of art, often used by the poor to decorate their homes in place of much more expensive hand-painted icons. Many artists found great expressive power in the use of simplistic, traditional forms and in unsophisticated color palettes, relying on the humble, earnest nature of instinctive representation to address the socio-cultural issues of the day. Traditional visual representations in folk and religious art originally functioned more as language than art, and Futurists sought to incorporate this artistic honesty in their works.</p>
+        </subsection>
+        <subsection title="Neo-Primitivism">
+          <p type="p">In the work of Natalia Goncharova and a few other Futurist artists, this looking-back approach came to be known as Neo-Primitivism. A conscious response to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;French Primitivism&lt;/span&gt;, the method harkened back to traditional art forms while simultaneously relying on modern color theory and contemporary approaches to art making. The marked difference between these French and Russian experiments, however, is evident in their very definitions: Primitivism focused very closely on objects and subject matter which belonged to a culture which was foreign or "other" to the West and its French authors, while Neo-Primitivism was very proudly Russian in its roots, always taking cues from traditional cultural practices and themes.</p>
+        </subsection>
+        <subsection title="Cubo-Futurism">
+          <p type="p">One of the most popular approaches within Russian art of this period was Cubo-Futurism. This style broke down subject matter and represented motion in a manner reminiscent of Cubism and Italian Futurism, but also frequently incorporated flat planes of color as well as snippets of words and phrases to fully represent an object or a moment. Unlike the Cubist pieces produced in Paris that frequently employed a subdued palette, Cubo-Futurist works tended to explore a broad range of expressive color. Eventually, this breakdown of form and time would lead to the abstract works of Suprematism and Constructivism.</p>
+        </subsection>
+        <subsection title="Rayonism">
+          <p type="p">In 1912, Mikhail Larionov and his partner Natalia Goncharova developed a style called &lt;i&gt;luchizm&lt;/i&gt; (alternately translated into English as Rayism and Rayonism). This visual approach was based on the notion of light rays intersecting and breaking around objects, sometimes revealing and sometimes obscuring or mangling the depicted object. Rayonism was one of the most clearly defined sections of Russian Futurism, and in many of its works the focus on light rather than the object being lighted broached abstraction.</p>
+          <p type="a_small" alt="Rayonism Movement Page">/movement/rayonism/</p>
+        </subsection>
+        <subsection title="Alogism">
+          <p type="p">As its name suggests, alogism was an approach which turned logic on its head by removing the meaning, and thereby the significance, from the objects depicted in a painting or literary work. The impact of these pieces came from the viewer's struggle to find meaning in an alogical work, which often appeared to represent a complex riddle but was in fact purposely devoid of significance. By flatly denying the importance of symbolic meaning, alogist (or alogical) paintings opened the door to the complete abstraction of Suprematism in 1915.</p>
+        </subsection>
+        <subsection title="Theater">
+          <p type="img" alt="Matyushin, Kruchenykh &amp; Malevich (left to right) - authors of Victory over the Sun" show="1">/images20/photo/photo_russian_futurism_3.jpg</p>
+          <p type="p">Futurism also had a lasting impact in theater and cinema. In December of 1913 the Futurist tragedy &lt;i&gt;Vladimir Mayakovsky&lt;/i&gt; (written by and starring Mayakovsky) and the opera &lt;i&gt;Victory over the Sun&lt;/i&gt; both premiered in St. Petersburg. Despite high ticket-prices, they played to full houses and the provocateurs became instant sensations. Inspired by the circus and cabarets, the Futurists freed themselves from traditional theatrical conventions. They eschewed professional actors and championed improvisation, audience participation, and the use of &lt;i&gt;zaum&lt;/i&gt; and other nonsensical languages and sounds. Their bare sets, modern music, and non-narrative plots anticipated developments in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and, even &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fluxus"&gt;Fluxus&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="Marinetti in Russia">
+          <p type="p">In February of 1914, F.T. Marinetti, the founder of Italian Futurism, visited Russia for the first time, giving a series of lectures on Italian Futurism in Moscow and St. Petersburg and claiming that Futurist trends in Russia were purely the result of his own movement. In many ways, this tour marked the beginning of the end for Russian Futurism, as it caused a great divide in the artists of the Russian avant-garde. His visit showed the Russians not only how different they were from the Italians, but also how different they were from each other. One set of artists, headed by Natalia Goncharova and Mikhail Larionov, praised the Italian for his ideas, while another rejected them out of hand and became even more proudly nationalistic in their thoughts and deeds. When Russia entered the war a few short months later, these nationalistic ideals would solidify, and eventually inspire, major changes.</p>
+        </subsection>
+        <subsection title="World War I">
+          <p type="p">The primed environment of World War I brought about a moment of intense self-reflection for the Russian Futurists. In the months immediately following Russia's entry into the war, no formal &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; exhibitions were organized, as artists sought ways to give new meaning to their work. Several of the Futurists, including Malevich and Vladimir Mayakovsky, produced a series of war postcards and posters whose images directly referenced traditional Russian woodcut prints (&lt;i&gt;lubki&lt;/i&gt;) and were an immediate reflection of the artists' national folklore. Their horrifying imagery made the reality of war unavoidable and served as a strong commentary for the conflict at hand. Natalia Goncharova also produced a series of lithographs called &lt;i&gt;Mystical Images of War&lt;/i&gt; (1914), a set that poignantly represented the effects of war on a nation. In this period Olga Rozanova also began work on a series of color linocuts made to accompany a poetic cycle written by her husband, Alexei Kruchenykh, entitled &lt;i&gt;Universal War&lt;/i&gt; (1916). Some of these illustrated newspaper reports in the full violence of their content, commenting on the detachment of the press reports from the bloody reality of war. Several artists, including Larionov and Benedikt Livshits, actively served in the war; Larionov was even wounded. He and Goncharova emigrated to the West soon after, as did many other Russian artists and intellectuals.</p>
+        </subsection>
+        <subsection title="Resulting Movements">
+          <p type="p">Restrictions on goods and services forced everyone to focus on practicalities, and any sense of play to be found in earlier Futurist works was soon replaced by the gravity of the wartime climate. No longer could a painting simply explore a subject - it needed to be a vehicle for social content. Thus began a focused search for a new, universal visual language, resulting into the separate camps defined by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-malevich_kasimir"&gt;Malevich's&lt;/span&gt; fledgling &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tatlin_vladimir"&gt;Vladimir Tatlin's&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt; - both of which had their debut at the December 1915 St. Petersburg exhibition &lt;i&gt;0.10: The Last Futurist Exhibition of Paintings&lt;/i&gt;. The Russians' incredibly precocious arrival at the non-objective form as explored in both movements was therefore a direct result of Futurist developments.</p>
+          <p type="p">Rather than seeing Futurism as a standalone movement with a strict beginning and end, it is useful to locate it within the larger context of the Russian avant-garde. Formal innovations in the period following Futurism included groundbreaking contributions to photography, film, and graphic design, most famously in the work of artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lissitzky_el"&gt;El Lissitzky&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodchenko_alexander"&gt;Aleksander Rodchenko&lt;/span&gt;. This revolutionary period in the visual and performing arts continued until the mid-1930s when &lt;span class="marked_text chart-tooltip-target-top tooltip_id-socialist_realism"&gt;Socialist Realism&lt;/span&gt; became the official state-sponsored doctrine.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Haycutters</title>
+      <artist>Natalia Goncharova</artist>
+      <year>1907-08</year>
+      <materials />
+      <desc>
+				In its subject matter and style, &lt;i&gt;Haycutters&lt;/i&gt; is indicative of the Neo-Primitivism advocated for by Goncharova and many of her contemporaries, including Larionov and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chagall_marc"&gt;Marc Chagall&lt;/span&gt;. In the painting, workers cutting hay are portrayed with an intentionally childlike hand and a simple, modern color palette. Goncharova has relinquished realistic perspective and proportions, painting the workers in the foreground much smaller than the peasant with the scythe in the middle ground. This choice promotes a strong connection between the workers and the wheat behind them. In their height, posture, and even the color of their skin, they appear to be made of the same substance as the hay. 
+				&lt;br/&gt;&lt;br/&gt;
+				A keen sense of motion is created in the painting by the many opposing diagonals: the scythe, the worker's bodies and wheat, and the road traveled by the horse and carriage each carry the viewer's eye in a different direction. Goncharova combined these elements with the heroic scale of the central peasant to create a scene in which farm workers are inextricably linked to the land. Rather than depicting non-Western "primitive" cultures of Africa, Asia, or the Pacific Islands, the Neo-Primitivist &lt;i&gt;Haycutters&lt;/i&gt; celebrates traditional Russian culture and reinforces the fundamental value of the peasant in Russian society. In this way Neo-Primitivism marks an important, specifically Russian, departure from similar styles in Western Europe. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Igra v adu (A Game in Hell)</title>
+      <artist>Natalia Goncharova, Velimir Khlebnikov, Aleksei Kruchenykh</artist>
+      <year>1912</year>
+      <materials />
+      <desc>&lt;i&gt;A Game in Hell&lt;/i&gt; is an exemplar of the ambitious Futurist collaborations between writers and visual artists. Printed entirely by lithograph, including the manuscript text, the book represents avant-garde publishing at its finest. Casting aside the traditional separation of text and image, the experimental language of Khlevnikov and Kruchenykh's poem is fused with Goncharova's bold images in an unmediated, synthetic presentation. Goncharova's depiction of the devil could be interpreted as a profane play on Russian icons and other religious representations, but in a particularly Futurist gesture, her use of traditional Russian iconography remains ambiguous, and could be read equally as an homage to the folk art of her homeland. This exciting alliance between modern literature and visual art would continue to evolve, in Russia and other countries, as early examples of what we now call "multimedia" art.</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Dyr bul shchyl</title>
+      <artist>Alexei Kruchenykh</artist>
+      <year>1913</year>
+      <materials />
+      <desc>
+				&lt;i&gt;Dyr bul shchyl&lt;/i&gt; was the first self-proclaimed &lt;i&gt;zaum&lt;/i&gt; poem, published as a part of Kruchenykh's book &lt;i&gt;Pomada&lt;/i&gt; (Lipstick) and illustrated in simple lithographs by his friend Mikhail Larionov. &lt;i&gt;Zaum&lt;/i&gt; is a compound word best expressed in English as "transrational" or "beyonsense." Its nonsense words and letters are arbitrary, without meaning. The result is a literary work whose effects cannot be anticipated, even by its author. Each time letters of the &lt;i&gt;zaum&lt;/i&gt; are read or spoken, they take on a different sound or significance to the reader as well as to any listeners. This was the true intention of the &lt;i&gt;zaum&lt;/i&gt; language: to be transrational, to transcend the pettiness of logical thought and exist instead on a higher plane of creativity, even to the point of being beyond the grasp of its author. 
+				&lt;br/&gt;&lt;br/&gt;
+				Just as important as the creativity of a &lt;i&gt;zaum&lt;/i&gt; poem's author was the creativity of its reader. Entirely without formal rules, &lt;i&gt;zaum&lt;/i&gt; practitioners believed this "language" was universal to all people, thus overcoming the obstacles inherent to languages that must be translated and transcribed in order for comprehension and appreciation to be achieved. Kruchenykh's push toward the basic, abstract building blocks of language was mirrored by Futurist visual artists whose works were also increasingly abstract. &lt;i&gt;Zaum&lt;/i&gt; is less well known than the similar language experiments of the Dada movement, though Dada embraced miscommunication and the failure of language. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>The Cyclist</title>
+      <artist>Natalia Goncharova</artist>
+      <year>1913</year>
+      <materials />
+      <desc>Despite its renowned importance in the history of Russian art, this scene by Goncharova is something of an anomaly among Russian Futurist paintings given its depiction of the action of motion - an approach usually only found in Italian Futurist works. This work layers the Western focus on motion with a distinctively Russian focus on language. Fragments of words have been captured on the canvas indicating the window advertisements of the shops the cyclist passes - silk, thread, hats, and more. However, the cyclist seems to ignore these expensive wares as he pedals doggedly on; he is even directed back from whence he came by a large hand pointing behind him. His difficult journey on cobbled streets reverberates through his body, and the painting becomes a commentary on the state of the working condition rather than a celebration of modern locomotion. While the political aspects of the painting are similar to some of Goncharova's earlier works, its frame-by-frame depiction of movement sets it apart. It exists in-between; neither Italian Futurism nor strictly Russian, it seems to capture the conflict between the two movements.</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Bull's Head</title>
+      <artist>Mikhail Larionov</artist>
+      <year>1913</year>
+      <materials />
+      <desc>
+				In this typically Rayonist painting, the head of a bull is refracted and disjointed; the animal's eyes are diminished to reflective panes, while his mouth is caught open, freezing his jaw mid-chew. The composition isolates his head, leaving the light's action and refraction around the face as the sole subject of the painting. Not only do we see a multiplicity of angles in this image, but we can also see the animal's current movements (in the motion of his jaw) concurrently with his potential movement, demonstrated by the raking diagonal lines which dominate the piece.
+				&lt;br/&gt;&lt;br/&gt;
+				Although Larionov's 1913 Rayonist manifesto flatly denounced the West, Rayonism represented perhaps the closest Russian relative of Italian Futurism, combining the Italians' depiction of movement with the Cubists' multi-planar analysis of objects. Indeed, Larionov and Goncharova were among the Russian avant-garde artists with the most direct connection to the West; they both spoke fluent French and eventually emigrated to Paris in 1914. Their departure from Russia signaled the end of the Rayonist movement; although other artists signed the associated manifesto, Larionov and Goncharova were the primary adherents of this visual style and it represented the culmination of their achievements in pre-war Russia.
+			</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Cow and Violin</title>
+      <artist>Kazimir Malevich</artist>
+      <year>1913</year>
+      <materials />
+      <desc>This painting is deeply resonant of the "alogical" style that Malevich adopted as a direct response to the &lt;i&gt;zaum&lt;/i&gt; language introduced and explored by Alexei Kruchenykh and other writers in the early 1910s. Alogism centered on a complete reversal of the logic upon which one typically relies when reading a painting; by its backwards rules, the cow and violin that dominate this painting have been chosen purely because they have nothing to do with one another. Similarly, the (relatively) realistically rendered cow undermines the Cubism of the background, pointing toward stylistic and narrative absurdity. Malevich's inscription on the reverse reads: "The alogical juxtaposition of the two forms 'violin and cow' as an element of the struggle against logic, naturalism, philistine meaning, and prejudice" - the artist intentionally ruptures the viewer's attempt to reconcile the two objects. Executed on a recycled table top rather than an expensive new canvas, this painting reflects the artist's struggle with the costs of his trade while also acting as a pointed commentary on the traditions and materials of the fine arts and modern painting.</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Victory Over the Sun</title>
+      <artist>Alexei Kruchenykh, Mikhail Matiushin, and Kazimir Malevich</artist>
+      <year>1913</year>
+      <materials />
+      <desc>
+				Performed in December of 1913 to the St. Petersburg public, this Cubo-Futurist opera was a shocking spectacle for its audience. Its storyline follows the action of the people of the future as they capture the sun, which represents the decadent past. They tear it from the sky and lock it in a concrete box before giving it a funeral, conquering the natural world with technology. The script, written primarily by Alexei Kruchenykh, relied heavily on the use of &lt;i&gt;zaum&lt;/i&gt;, a nonsensical language frequently used by the Russian Futurists as a mode of expression that transcended the restrictions of normal speech. The costumes, designed by Kazimir Malevich, transformed actors into stiff, brightly-colored geometric figures against black and white backdrops, some of which bordered on the abstract in their simplicity. The hectic music, written by Mikhail Matiushin, was played on an out-of-tune piano and sung by amateurs. 
+				&lt;br/&gt;&lt;br/&gt;
+				Fully intended to shock the spectators, this performance is an exemplary expression of the pre-war Russian artistic world at a breaking point, fully rejecting the past and launching itself whole-heartedly into the future. The show's performances likely represented the public's most widespread introduction to &lt;i&gt;zaum&lt;/i&gt; language. The significance for Malevich's career cannot be overstated; for the first time, he was not only a mere contributor to a group, but an essential part of a collaborative, multi-media trio. With this collaboration Malevich was able to find his own unique voice, which he would soon develop into his own movement of Suprematism.
+			</desc>
+      <collection />
+      <use_big_image>true</use_big_image>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>goncharova_natalia</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>larionov_mikhail</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>khlebnikov_velimir</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>malevich_kasimir</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Amazons of the Avant-Garde (1990)</title>
+          <link>0892072253</link>
+          <info>By Alexandra Exter, John E Bowlt, Matthew Drutt 
+					 </info>
+          <pdflink source="gugenheim">https://archive.org/stream/amazonsofavantga00exte#page/n0/mode/2up</pdflink>
+        </entry>
+        <entry recommended="true">
+          <title>The Great Utopia: The Russian and Soviet Avant-Garde, 1915-1932 (1992)</title>
+          <link>089207096X</link>
+          <info>Guggenheim Exhibition Catalogue &lt;br/&gt; By Paul Wood, Vasilii Rakitin, Jane A. Sharp, Aleksandra Shatskikh
+					 </info>
+          <pdflink source="gugenheim">https://archive.org/stream/grerussi00schi#page/n0/mode/2up</pdflink>
+        </entry>
+        <entry>
+          <title>Art of the Avant-Garde in Russia: Selections from the George Costakis Collection (1981)</title>
+          <link>B0006E4YJI</link>
+          <info>Guggenheim Exhibition Catalogue &lt;br/&gt; By Margit Rowell, Georgi Costakis, Angelica Zander Rudenstine
+					 </info>
+          <pdflink source="gugenheim">https://archive.org/stream/artofavantgardei00rowe#page/n0/mode/2up</pdflink>
+        </entry>
+        <entry recommended="true">
+          <title>Zaum: The Transrational Poetry of Russian Futurism</title>
+          <link>1879691418</link>
+          <info>By Gerald Janecek</info>
+        </entry>
+        <entry>
+          <title>The Ardis Anthology of Russian Futurism</title>
+          <link>0882334697</link>
+          <info>By Ellendea; Carl R. Proffer; Elena Guro; Vladimir Mayakovsky; Et. Al. Proffer</info>
+        </entry>
+        <entry>
+          <title>The Russian Cosmists: The Esoteric Futurism of Nikolai Fedorov and his followers</title>
+          <link>0199892946</link>
+          <info>By George Young</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="paintings" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Russian Futurist Poetry</title>
+          <link>https://www.poets.org/poetsorg/text/brief-guide-futurism</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Russian Futurism: A History (Russian History and Culture)</title>
+          <link>https://monoskop.org/images/a/a8/Markov_Vladimir_Russian_Futurism_A_History.pdf</link>
+          <info>By Vladimir F. Markov</info>
+        </entry>
+      </subcategory>
+      <subcategory name="scholarly articles" class="articles">
+        <entry>
+          <title>Primitivism in Russian Futurist Book design 1910-14</title>
+          <link>https://www.moma.org/interactives/exhibitions/2002/russian/5_pdfs/ash.pdf</link>
+          <info>
+						Jared Ash
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Russian Futurism Through its Manifestoes, 1912-1928</title>
+          <link>https://monoskop.org/images/9/98/Lawton_Anna_Eagle_Herbert_eds_Russian_Futurism_through_its_Manifestoes_1912-1928.pdf	</link>
+          <info>
+						Cornell University
+						&lt;br&gt;
+						1988
+					</info>
+        </entry>
+        <entry>
+          <title>The Futurist Movement in Russia: Futurism's Role in the Work of Composer Alexander Mosolov</title>
+          <link>http://digitalcommons.iwu.edu/constructing/vol14/iss1/9/</link>
+          <info>
+						By Tia Sprengel
+						&lt;br&gt;
+						Illinois Wesleyan University 
+						&lt;br&gt;
+						4/2013
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="audio/video" class="clips">
+        <entry recommended="true">
+          <title>Piano Works from Russian Futurism V</title>
+          <link>https://www.amazon.com/Piano-Works-Russian-Futurism-V/dp/B0026JWDMQ</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Russian Futurism 1-5 (Box Set)</title>
+          <link>https://www.amazon.com/Russian-Futurism-1-5-Philharmonic-Orchestra/dp/B001F11516</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

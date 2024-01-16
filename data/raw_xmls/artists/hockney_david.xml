@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>hockney_david</id>
+    <name>David Hockney</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1961 - Present</years>
+    <description>Hockney's bright swimming pools, split-level homes, and suburban landscapes are a strange brew of calm and hyperactivity that are a unique addition to Pop art.</description>
+    <barnebys_item>141</barnebys_item>
+    <use_big_images>false</use_big_images>
+    <highlight>2</highlight>
+    <occupation>Painter</occupation>
+    <nationality>British-American</nationality>
+    <birthDate>July 9, 1937</birthDate>
+    <birthPlace>Bradford, UK</birthPlace>
+    <big_bio_box_img>David Hockney at Gemini GEL artist's studio in Los Angeles, California during the making of the film &lt;i&gt;Reaching Out&lt;/i&gt; (1973)</big_bio_box_img>
+    <bio_highlight>Britain's beloved David Hockney has a career of breaking taboos and leading the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; - to the point of being recognized as the most important artist to revitalized painting. And in his eighties, Hockney continues to be active and to make headlines.</bio_highlight>
+    <pub_time>2/18/2016</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+	<freestar_video_ad>true</freestar_video_ad>
+  </main>
+  <includes>
+    <include>pop_art</include>
+    <include>british_pop_art</include>
+    <include>school_of_london</include>
+    <include>nouveau_realisme</include>
+    <include>british_art</include>
+    <include>digital_art</include>
+  </includes>
+  <similar_movements>
+    <movement>pop_art</movement>
+    <movement>british_pop_art</movement>
+    <movement>school_of_london</movement>
+    <movement>nouveau_realisme</movement>
+    <movement>digital_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>warhol_andy</artist>
+    <artist>blake_peter</artist>
+    <artist>freud_lucian</artist>
+    <artist>kitaj_r_b</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"All art is contemporary, if it's alive, and if it's not alive, what's the point of it?"</q>
+    <q>"If we are to change our world view, images have to change. The artist now has a very important job to do. He's not a little peripheral figure entertaining rich people, he's really needed."</q>
+    <q>"I never thought the swimming pool pictures were at all about mere hedonist pleasure. They were about the surface of the water, the very thin film, the shimmering two-dimensionality"</q>
+    <q>"It's hard work, but I like it. Frank Auerbach said once it is a lot of fun as well, and it is. I like making pictures, I do, yeah."</q>
+    <q>"The joy and urge to draw is an ancient, 40,000-year-old impulse."</q>
+    <q>"Photography is all right if you don't mind looking at the world from the point of view of a paralyzed Cyclops. But that's not what it is like to live in the world."</q>
+    <q>"It is very good advice to believe only what an artist does, rather than what he says about his work."</q>
+    <q>"Loads of people, particularly artists, hate pretty pictures. Now I've never met anyone who didn't like a pretty face."</q>
+    <q>"Drawing makes you see things clearer, and clearer and clearer still, until your eyes ache."</q>
+    <q>"Drawing is rather like playing chess: your mind races ahead of the moves that you eventually make."</q>
+  </quotes>
+  <authors>
+    <author link="souter">Anne Souter</author>
+  </authors>
+  <editors>
+    <editor link="epstein">Ruth Epstein</editor>
+  </editors>
+  <article>
+    <synopsys>David Hockney's bright swimming pools, split-level homes and suburban Californian landscapes are a strange brew of calm and hyperactivity. Shadows appear to have been banished from his acrylic canvases of the 1960s, slick as magazine pages. Flat planes exist side-by-side in a patchwork, muddling our sense of distance. Hockney's unmistakable style incorporates a broad range of sources from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; and, most recently, computer graphics. An iconoclast obsessed with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, this British &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop artist&lt;/span&gt; breaks every rule deliberately, delighting in the deconstruction of proportion, linear perspective, and color theory. He shows that orthodoxies are meant to be shattered, and that opposites can coexist, a message of tolerance that transcends art and has profound implications in the political and social realm.</synopsys>
+    <key_ideas>
+      <idea>Like other Pop artists, Hockney revived figurative painting in a style that referenced the visual language of advertising. What separates him from others in the Pop movement is his obsession with Cubism. In the spirit of the Cubists, Hockney combines several scenes to create a composite view, choosing tricky spaces, like split-level homes in California and the Grand Canyon, where depth perception is already a challenge.</idea>
+      <idea>Hockney insists on personal subject matter - another thing that separates him from most other Pop artists. He depicts the domestic sphere - scenes from his own life and that of friends. This aligns him with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neel_alice"&gt;Alice Neel&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-katz_alex"&gt;Alex Katz&lt;/span&gt;, and others who depicted their immediate surroundings in a manner that transcends a particular category or movement.</idea>
+      <idea>Hockney was openly gay, and has remained a staunch advocate for gay rights. In the context of a macho art scene that dismissed "pretty color" as effeminate, Hockney's bright greens, purples, pinks, and yellows are declarative statements in support of sexual freedom.</idea>
+      <idea>In actively seeking to imitate photographic effects in his work, Hockney is a forerunner of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photorealism"&gt;Photorealists&lt;/span&gt;. He is also a heretic among purists who feel that painting should rely only on the artist's direct observations from nature. Though not universally accepted, Hockney's research into the history of art has shown that Old Masters, from Vermeer to Canaletto, frequently used the camera obscura (an early form of camera) to enhance their optical effects. If the revered Old Masters could use cameras, he implies, why can't we?</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">One of five children, David Hockney was born into a working-class family in Yorkshire, northern England, in the industrial city of Bradford. His father, a conscientious objector during the Second World War, "had a kind heart" remembers Hockney. "He thought there should be justice in the world". He also romanticized the ideals of the Communist party in Russia. While adopting his father's anti-war stance, Hockney remained resistant to ideologies and hierarchies. As a schoolboy, Hockney says of himself, "I was always quite serious, but cheeky." Art was something he knew he wanted to do very early in life. At his school academically promising boys were forced to drop art as a subject and so he deliberately failed his exams. Interestingly, Hockney was born with synesthesia, meaning that he sees colors as a response to musical stimuli</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">At 16, Hockney was admitted to the acclaimed Bradford School of Art, where he studied traditional painting and life drawing alongside Norman Stevens, David Oxtoby, and John Loker. Unlike most of his peers Hockney was from a more humble family, and he worked tirelessly, especially in his life drawing classes, recalling: "I was there from nine in the morning till nine at night."</p>
+          <p type="img" alt="David Hockney Biography" show="0">/images20/photo/hockney_1.jpg</p>
+          <p type="p">In 1957 he was called up for National Service, but as a conscientious objector he served out his time as a hospital orderly. It was around this time that Hockney encountered the work of Russian ballet impresario &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diaghilev_sergei"&gt;Sergei Diaghilev&lt;/span&gt;, whose openness about his sexual identity gave Hockney the courage to reveal his own.</p>
+          <p type="p">In 1959, Hockney went on to study at the Royal College of Art in London and was taught by several well-known artists, including Roger de Grey and Ceri Richards. His friends included R.B. Kitaj, Allen Jones, and Peter Blake. At the time, the college asked students to submit an essay along with their final work. Hockney refused, wanting to be judged solely on the basis of his art. Remarkably, the RCA, a bastion of tradition, changed its rules to allow him to graduate.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="David Hockney Photo" show="1">/images20/photo/photo_hockney_david_4.jpg</p>
+          <p type="p">Hockney's first solo show, held in 1963 at John Kasmin's gallery, proved very successful. The following year he traveled to Los Angeles for the first time, where he met leading intellectual and artistic figures including Christopher Isherwood, and designer Ossie Clarke, with whom he struck up a close friendship and later traveled to the Grand Canyon. He would later be best man at Clarke's wedding to Celia Birtwell, of whom he would paint and draw many portraits. Over the following few years, he resided almost permanently in California, teaching at various universities including Berkeley and UCLA, but also traveling extensively around the US and Europe. During this period he painted some of his best-known works, including &lt;i&gt;A Bigger Splash&lt;/i&gt; (1967). He also began to design productions for the ballet, opera, and theater. While his synesthesia didn't play much of a role in most of his art-making, it did influence his set design work. He first listened to the musical score for each production, and then based his designs off of the colors he saw.</p>
+          <p type="img" alt="David Hockney's 1972 painting &lt;i&gt;Portrait of an Artist (Pool with Two Figures)&lt;/i&gt;" show="1">/images20/photo/photo_hockney_david_5.jpg</p>
+		  <p type="p">In California during the 'swinging 60s', Hockney embraced the mood of experimentation, exploration, and iconoclasm. At a time when homosexuality was still illegal in the U.S. and Britain, Hockney's open love affairs and unapologetic attitude attracted the attention of newspapers and magazines. He met and started a long-term relationship with Peter Schlesinger, who also frequently acted as his model, a relationship that lasted from 1966 to 1971. Of his unconventional lifestyle and experimentation with drugs during this period, Hockney has commented: "you can't have a smoke-free bohemia. You can't have a drug-free bohemia. You can't have a drink-free bohemia." In 1973, Hockney moved to Paris, where he lived until 1975. By the mid-1970s, he was famous. 1974 saw a large traveling retrospective of his work, and a film about him directed by Jack Hazan. In 1976 Hockney published his autobiography and in 1978, he purchased property in Los Angeles' Hollywood Hills, where he maintains a residence and studio to this day.</p>
+          <p type="p">The AIDS crisis of the 1980s changed the art world forever, and had a particularly profound impact on Hockney who recalls "the first person to die of AIDS that I knew was in 1983, and then for ten years it was lots of people. If all those people were still here, I think it would be a different place." A retrospective of Hockney's work was due to take place at London's Tate gallery in 1988. He threatened to cancel it in protest of anti-homosexual legislation being proposed in Britain at the time.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="David Hockney Portrait" show="0">/images20/photo/hockney_3.jpg</p>
+          <p type="p">The 1990s constituted a very productive period for Hockney, with a huge number of retrospectives and exhibitions around the world. In 1991, he began a relationship with John Fitzherbert, a former chef, which lasted for the next 25 years. One of his most important large-scale works, &lt;i&gt;A Closer Grand Canyon&lt;/i&gt;, was completed in 1998. From 2000-01 he researched and wrote a book about the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, developing a theory that these artists made use of the camera far earlier than previously thought. For his research, Hockney assembled photocopies of Old Master paintings, from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-byzantine_art"&gt;Byzantine Art&lt;/span&gt; to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Van Gogh&lt;/span&gt;, on a huge wall in his LA studio. While Hockney's theory met with significant resistance, it has gained widespread support from the art history community. In 2002, Hockney moved to the Yorkshire seaside town of Bridlington. In the same year, he sat for 120 hours for a portrait painted by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-freud_lucian"&gt;Lucian Freud&lt;/span&gt;. In return, Freud sat for four hours for him.</p>
+          <p type="p">Hockney had a stroke in 2012, which for a while impaired his speech. Much to his relief, "the stroke didn't affect my drawing, and that's the most important thing." Only a few months later, one of his assistants, Dominic Elliot, died in Hockney's home. He had taken cocaine and ecstasy and drank a bottle of drain cleaner. Elliot had been in a relationship with Hockney's former partner John Fitzherbert, who was still living with him. At the high-profile inquest, Hockney was required to give evidence that the death was not a murder. In 2015, he decided to sell his mother’s Bridlington house and moved back permanently to Los Angeles.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Hockney in 2017" show="1">/images20/photo/photo_hockney_david_6.jpg</p>
+          <p type="p">In 2011 a poll of British art students rated Hockney as the most influential artist of all time. His work has played a crucial role in reviving the practice of figurative painting. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-close_chuck"&gt;Chuck Close&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brown_cecily"&gt;Cecily Brown&lt;/span&gt;, and film director Martin Scorsese (especially the aesthetics of &lt;i&gt;Taxi Driver&lt;/i&gt; (1976)) are among the artists inspired by Hockney. Hockney, still prolific, continues to reinvent himself, embracing contemporary technology. His most recent series of works was produced on an iPad. Despite his widespread fame, he remains an iconoclast, steadfastly refusing to accept institutional authority, even some of the highest honors, turning down an invitation to paint a portrait of the Queen (Hockney was "very busy" and couldn't make it), and a knighthood in 1990 (although he was awarded, and accepted, the Order of Merit in 2012). "I don't have strong feelings about the honours system" Hockney has remarked, "I don't value prizes of any sort. I value my friends."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="cubism">Still Life with Chair Caning (1912)</artwork>
+    <artwork from="artist" page="neel_alice">Hartley (1965)</artwork>
+    <artwork from="movement" page="pop_art">Just What Is It That Makes Today's Homes So Different, So Appealing? (1956)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>We Two Boys Together Clinging</title>
+      <year>1961</year>
+	  <use_big_image>true</use_big_image>
+      <materials>Oil on board</materials>
+      <desc>
+				This early work by Hockney shows no sign of the slick landscapes or carefully observed characters that he would later develop. It is one of the first, however, to address homoeroticism, an important theme in his work. In a composition that resembles a child's drawing, two figures kiss and embrace. Stylized, blocky forms and scrawled words offer symbols as opposed to descriptions of the encounter. Small horizontal lines of pigment run from one figure to the other, representing the erotic charge between them. A sketchy swathe of blue hints at a sense of place. 
+				&lt;br/&gt;&lt;br/&gt;
+				Hockney's semi-abstracted figures and muted color palette recall those of Jean Dubuffet, a stylistic preference indicative of the challenge of finding a way to represent forbidden feelings. At a time when homosexual activity was still illegal in both the U.S. and in Britain, the representation of an erotic act between two men was unusual and potentially risky. The title is a direct quote from Walt Whitman, master of homoerotic poetry, and the image was inspired by a report of a climbing accident in a newspaper that read "Two Boys Cling to Cliff All Night." This unintended double meaning delighted Hockney, who had a crush on the British pop singer, Cliff Richard. These sources in popular culture and classic poetry offered the artist a way to address same-sex relationships in a way that didn't resort to caricature.
+			</desc>
+      <collection>Southbank Centre, London</collection>
+    </artwork>
+    <artwork>
+      <title>A Bigger Splash</title>
+      <year>1967</year>
+      <materials>Acrylic on canvas</materials>
+      <desc>
+				Hockney painted this seminal work while at the University of California in Berkeley. &lt;i&gt;A Bigger Splash&lt;/i&gt; was created as the final result of two smaller paintings in which he developed his ideas, &lt;i&gt;A Little Splash&lt;/i&gt; (1966) and &lt;i&gt;The Splash&lt;/i&gt; (1966). &lt;i&gt;A Bigger Splash&lt;/i&gt; is a considerably larger work, measuring approximately 94 x 94 inches. Hockney was one of the first artists to make extensive use of acrylic paint, which was then a relatively new artistic medium. He felt that as a fast-drying substance it was more suited to depicting the hot, dry landscapes of California than traditional oil paints. He painted this work by stapling the canvas to his studio wall.
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;A Bigger Splash&lt;/i&gt;, Hockney explores how to represent the constantly moving surface of the water. The splash was based on a photograph of a swimming pool Hockney had seen in a pool manual. He was intrigued by the idea that a photograph could capture the event of a split second, and sought to recreate this in painting. The buildings are taken from a previous drawing Hockney had done of a Californian home. The dynamism of the splash contrasts strongly with the static and rigid geometry of the house, the pool edge, the palm trees, and the striking yellow diving board, which are all carefully arranged in a grid containing the splash. This gives the painting a disjointed effect that is absolutely intentional, and in fact one of the hallmarks of Hockney's style. The effect is one of stylization and artificiality, drawing on the aesthetic vocabulary of Pop art and fusing it with Cubism.
+				&lt;br/&gt;&lt;br/&gt;
+				He said in his autobiography, "I love the idea first of all of painting like Leonardo, all his studies of water, swirling things. And I loved the idea of painting this thing that lasts for two seconds: it takes me two weeks to paint this event that lasts for two seconds."
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>American Collectors (Fred and Marcia Weisman)</title>
+      <year>1968</year>
+      <materials>Acrylic on Canvas</materials>
+      <desc>
+				While Hockney paints a broad range of subjects, some of his most masterful compositions are his portraits of the late 1960s. These offer unrivaled, almost cinematic, insights into the mood and culture of this transitional decade in American history. Here are Fred and Marcia Weisman, art collectors and friends of Hockney, who appear outside their residence as if stepping outside to greet a neighbor. Hockney's blinding, saturated palette mimics the light of Southern California. The Weismans are surrounded by their prized art possessions, among them an imposing modernist sculpture in a niche, and a totem pole that looks like it could be a third member of the family. 
+				&lt;br/&gt;&lt;br/&gt;
+				Dry humor pervades all elements of the composition. The viewer half expects to see the vertical elements - the stiff couple and their belongings - blast off like space ships into the blue sky. The threat of the surreal lurking in this picture underscores the consistent relationship between Pop art and older movements. Also noteworthy is the manner in which the poses transgress traditional gender norms. Marcia, a full-figured matron in a robe held closed with one arm, bares her teeth, and strikes a sensual pose that is both gracious and confrontational. Fred, the man of the house, stands stiffly with his fists clenched, and is literally marginalized as he is pushed to the left-hand side.
+			</desc>
+      <collection>The Art Institute of Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>A Visit with Christopher and Don, Santa Monica Canyon</title>
+      <year>1984</year>
+      <materials>Oil on two canvases</materials>
+      <desc>
+				For this view of the "Santa Monica Canyon", Hockney draws on the language of Cubism, a strong influence on his artistic style throughout his life due to his deep admiration for the work of Picasso. For this work, he extends the Cubist visual vocabulary through his use of a rich color palette borrowed from the Pop art movement. 
+				&lt;br/&gt;&lt;br/&gt;
+				The composition measures 6 x 20 feet, a scale normally reserved for grand subjects from history or the bible. It consists of two canvases side-by-side. And yet it is a subject normally reserved for smaller canvases, a household interior, in which Hockney combines representations of the California home with seaside views and portraits of himself at work to the left and right. There are no conventional architectural or painterly boundaries between the different elements of the composition. Hockney uses flat areas of color and texture to create distinct spaces.
+				&lt;br/&gt;&lt;br/&gt;
+				This work makes use of a multi-point "reverse" perspective, meaning that it contains several vanishing points that extend out towards the viewer rather than converging on a distant horizon. In the spirit of Cubism, Hockney offers more than one viewpoint, and extends the perspective outwards, drawing the viewer into the scene that is so big, one feels one might step right into it.
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>A Bigger Grand Canyon</title>
+	  <use_big_image>true</use_big_image>
+      <year>1998</year>
+      <materials>Oil on canvas</materials>
+      <desc>Hockney began photographing the Grand Canyon in 1982, aiming "to photograph the unphotographable. Which is to say, space. [T]here is no question that the thrill of standing on that rim of the Grand Canyon is spatial. It is the biggest space you can look out over that has an edge." Not many artists attempt to paint &lt;i&gt;The Grand Canyon&lt;/i&gt;. One reason is that it is so large, no indicator of depth, distance, or scale can convey it. The other is that the 19&lt;sup&gt;th&lt;/sup&gt;-century painter Thomas Moran produced what is considered by many to be the definitive version: a spectacular, monumental canvas so detailed, so complete, and so naturalistic that it set an unsurpassable standard. Unfazed by this precedent and directly inspired by Moran's famous view, ("intrigued to see how another artist grappled with representing the same vast, heroic space" according to the National Museum of American Art) Hockney produced &lt;i&gt;A Bigger Grand Canyon&lt;/i&gt; - which is even larger than Moran's canvas. Sixty small canvases join together to create one large view representing just a portion of the canyon. Hockney is poking gentle fun at tourists with cameras, artists with easels, and the absurdity of attempting to map a three-dimensional experience onto a two-dimensional plane.</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Winter Timber</title>
+      <year>2009</year>
+      <materials>Oil on 15 canvases</materials>
+      <desc>While many of Hockney's best-known works were inspired by photographs, this work was painted in front of the motif, at the corner of an old Roman road in Yorkshire, near his birthplace. The purple palette renders the landscape contemporary and eternal, like a computer-generated fairytale. It is one of the largest in a series of timber and "totems", as Hockney calls the lone tree stumps depicted in these representations. Throughout his career, Hockney has been interested in returning to tradition in order to examine it, but with an almost scientific detachment that places the viewer off-center. This view, presented across fifteen canvases, has two paths of perspective leading down the two roads through the woods. This means that the visual plane contains two vanishing points, rebuking the one-point perspective that has characterized Western art since the Renaissance. It also transgresses the single perspective of the camera lens, the point of view that has come to define how we see the world in photographs. The painting's two vanishing points lead outward toward us, creating a kind of double vision that heightens the kaleidoscopic, hallucinatory effect of the piece.</desc>
+      <collection>Guggenheim, Bilbao</collection>
+    </artwork>
+    <artwork>
+      <title>A Bigger Message</title>
+      <year>2010</year>
+      <materials>Oil on 30 canvases</materials>
+      <desc>
+				Created relatively late in Hockney's career, &lt;i&gt;A Bigger Message&lt;/i&gt; is a culmination of a series of works by Hockney inspired by &lt;i&gt;The Sermon on the Mount&lt;/i&gt;, Claude Lorrain's 1656 painting. Lorrain was one of Hockney's heroes - a French Baroque landscape painter (in English, simply "Claude"), known for revolutionizing the genre and basing his work on observation, Claude has had a strong effect on Hockney's landscapes. In order to create the painting, Hockney spent three weeks digitally cleaning the painting by Claude on his computer. Through this process, Hockney got to know the composition better, and created a thoroughly contemporary way of painting; rather than working from life, or even from the original work, his inspiration came from a mediated, doctored version of the Old Master's work. 
+				&lt;br/&gt;&lt;br/&gt;
+				Hockney is fully aware that many art enthusiasts would frown on this process, and fully intends to tweak the nose of tradition. He is also, however, following in the footsteps of another renegade, Picasso, who painted Cubist versions of Velazquez's &lt;i&gt;Las Meninas&lt;/i&gt; based in part on reproductions from newspapers and magazines. Distance from the original allows the artist to create his own spin on the scene. Hockney takes his palette not from Claude but from Pop art, and from his own earlier depictions of the Californian and Yorkshire landscapes. He draws more attention to the human figures in the foreground of the image, and represents the mountain as an oversized red rock, imbuing the scene with a distinct sense of drama absent from the original. 
+			</desc>
+      <collection/>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>picasso_pablo</entity>
+        <entity>matisse_henri</entity>
+        <entity>bacon_francis</entity>
+        <entity>rauschenberg_robert</entity>
+      </column>
+      <column>
+        <entity>warhol_andy</entity>
+        <entity>blake_peter</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>hodgkin_howard</entity>
+        <entity>freud_lucian</entity>
+        <entity>brown_cecily</entity>
+      </column>
+      <column>
+        <entity>jones_allen</entity>
+        <entity>kitaj_r_b</entity>
+      </column>
+      <column>
+        <entity>pop_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"/>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""/>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>David Hockney: The Biography, 1937-1975</title>
+          <link>0385531443</link>
+          <info>By Christopher Simon Sykes</info>
+        </entry>
+        <entry>
+          <title>David Hockney: The Biography, 1975-2012</title>
+          <link>0385535902</link>
+          <info>By Christopher Simon Sykes</info>
+        </entry>
+        <entry>
+          <title>A Bigger Message: Conversations with David Hockney</title>
+          <link>0500238871</link>
+          <info>By Martin Gayford</info>
+        </entry>
+        <entry recommended="true">
+          <title>Life of David Hockney: A Novel</title>
+          <link>1590519833</link>
+          <info>By Catherine Cusset</info>
+        </entry>
+        <entry recommended="true">
+          <title>True to Life: Twenty-Five Years of Conversations with David Hockney</title>
+          <link>0520258797</link>
+          <info>By Lawrence Weschler</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters</title>
+          <link>0142005126</link>
+          <info>By David Hockney</info>
+        </entry>
+        <entry recommended="true">
+          <title>Spring Cannot Be Cancelled: David Hockney in Normandy</title>
+          <link>0500094365</link>
+          <info>By David Hockney and Martin Gayford</info>
+        </entry>
+        <entry>
+          <title>David Hockney: A Yorkshire Sketchbook</title>
+          <link>1907533230</link>
+          <info>By David Hockney</info>
+        </entry>
+        <entry recommended="true">
+          <title>A History of Pictures: From the Cave to the Computer Screen</title>
+          <link>1419722751</link>
+          <info>By David Hockney and Martin Gayford</info>
+        </entry>
+        <entry>
+          <title>Hockney Pictures</title>
+          <link>050028671X</link>
+          <info>By David Hockney</info>
+        </entry>
+        <entry>
+          <title>David Hockney’s Dog Days</title>
+          <link>0500286272</link>
+          <info>By David Hockney</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>David Hockney: A Bigger Picture</title>
+          <link>1419702807</link>
+          <info>By Margaret Drabble and Marco Livingstone</info>
+        </entry>
+        <entry recommended="true">
+          <title>David Hockney. A Chronology. 40th Anniversary Edition</title>
+          <link>383658249X</link>
+          <info>By Hans Werner Holzwarth</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hockney’s Portraits and People</title>
+          <link>0500292345</link>
+          <info>By Marco Livingstone and Kay Haymer</info>
+        </entry>
+        <entry>
+          <title>David Hockney: Moving Focus</title>
+          <link>1849767726</link>
+          <info>By Helen Little</info>
+        </entry>
+        <entry recommended="true">
+          <title>David Hockney</title>
+          <link>1849764956</link>
+          <info>By Chris Stephens and Andrew Wilson</info>
+        </entry>
+        <entry>
+          <title>David Hockney: A Bigger Exhibition</title>
+          <link>3791353349</link>
+          <info>By Richard Benefield et al.</info>
+        </entry>
+        <entry>
+          <title>Cameraworks</title>
+          <link>0394537335</link>
+          <info>By Lawrence Weschler</info>
+        </entry>
+        <entry>
+          <title>Hockney/Van Gogh: The Joy of Nature</title>
+          <link>0500239975</link>
+          <info>By Hand den Hartog Jager</info>
+        </entry>
+        <entry recommended="true">
+          <title>Modernists and Mavericks: Bacon, Freud, Hockney and the London Painters</title>
+          <link>0500295328</link>
+          <info>By Martin Gayford</info>
+        </entry>
+        <entry>
+          <title>Hockney on Photography: Conversations with Paul Joyce</title>
+          <link>0517571749</link>
+          <info>By Paul Joyce</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Official David Hockney website</title>
+          <link>http://www.davidhockney.co/</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>David Hockney on the Tate's website</title>
+          <link>http://www.tate.org.uk/art/artists/david-hockney-1293</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Sotheby's: David Hockney's Iconic Masterpiece, "The Splash"</title>
+          <link>https://www.sothebys.com/en/articles/david-hockneys-iconic-masterpiece-the-splash</link>
+          <info>
+						By Sotheby's
+						&lt;br&gt;
+						January 13, 2020
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>David Hockney: "Just because I'm cheeky doesn't mean I'm not serious"</title>
+          <link>http://www.theguardian.com/artanddesign/2015/may/09/david-hockney-interview-cheeky-serious</link>
+          <info>
+						By Simon Hattenstone
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 9, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Imagining the Grand Canyon</title>
+          <link>https://nga.gov.au/hockney/</link>
+          <info>
+						By Jane Kinsman
+						&lt;br&gt;
+						National Gallery of Australia
+					</info>
+        </entry>
+        <entry>
+          <title>Painting Pioneer: Early Reflections of David Hockney</title>
+          <link>http://www.thedoublenegative.co.uk/2013/12/painting-pioneer-early-reflections-of-david-hockney/</link>
+          <info>
+						By Steph Moffat
+						&lt;br&gt;
+						The Double Negative 
+						&lt;br&gt;
+						December 11, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>David Hockney: "When I'm working I feel like Picasso, I feel I'm 30."</title>
+          <link>http://www.theguardian.com/artanddesign/2014/nov/16/david-hockney-interview-i-feel-like-picasso</link>
+          <info>
+						By Tim Lewis
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						November 16, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>David Hockney returns to LA</title>
+          <link>http://www.ft.com/intl/cms/s/2/427e81e4-3145-11e3-b478-00144feab7de.html</link>
+          <info>
+						By Caroline Daniel
+						&lt;br&gt;
+						The Financial Times 
+						&lt;br&gt;
+						October 11, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>David Hockney takes a drive through art history</title>
+          <link>http://www.latimes.com/entertainment/arts/culture/la-et-cm-knight-hockney-lacma-review-20131109-story.html</link>
+          <info>
+						By Christopher Knight
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						November 9, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>David Hockney on the purpose of artists</title>
+          <link>http://www.wsj.com/articles/david-hockney-on-the-purpose-of-artists-1416947966</link>
+          <info>
+						By Mary M. Lane
+						&lt;br&gt;
+						The Wall Street Journal 
+						&lt;br&gt;
+						November 25, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>How the iPhone and iPad transformed the art of David Hockney</title>
+          <link>http://www.latimes.com/business/technology/la-fi-tn-how-the-iphone-and-ipad-transformed-the-art-of-david-hockney-20131024-story.html#axzz2j9gk9VFG</link>
+          <info>
+						By Chris O'Brien
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						October 27, 2013
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews">
+        <entry>
+          <title>David Hockney Interview: "The avant-garde have lost their authority"</title>
+          <link>http://www.spectator.co.uk/2014/11/david-hockney-interview-the-avant-garde-have-lost-their-authority/</link>
+          <info>
+						By Martin Gayford
+						&lt;br&gt;
+						The Spectator 
+						&lt;br&gt;
+						November 22, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>David Hockney interview: "I'll go on until I'm bored"</title>
+          <link>http://www.telegraph.co.uk/culture/art/art-features/10809849/David-Hockney-interview-Ill-go-on-until-Im-bored.html</link>
+          <info>
+						By Martin Gayford
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						May 7, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>David Hockney's Diaries</title>
+          <link>https://www.youtube.com/watch?v=dCFkw80eLqM</link>
+          <info>Trailer. Directed by Michael Blackwood</info>
+        </entry>
+        <entry recommended="true">
+          <title>Interview (2012)</title>
+          <link>https://www.youtube.com/watch?v=nU24E_HN9zI</link>
+          <info>The Royal Academy's Exhibition: A Bigger Picture</info>
+        </entry>
+        <entry>
+          <title>Inside New York's Art World: David Hockney (1982)</title>
+          <link>https://www.youtube.com/watch?v=EvzG_W9SNaI</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>David Hockney on What's Unphotographable (2004)</title>
+          <link>https://www.youtube.com/watch?v=EvzG_W9SNaI</link>
+          <info>Segment by Robert Hughes from The New Shock of the New</info>
+        </entry>
+        <entry>
+          <title>Interview with David Hockney</title>
+          <link>https://www.youtube.com/watch?v=q6rm6dvQLkI</link>
+          <info>In 1960s London</info>
+        </entry>
+        <entry recommended="true">
+          <title>Lecture on Hockney by Lawrence Weschler (2013)</title>
+          <link>https://www.youtube.com/watch?v=KyzsY2mXZoI</link>
+          <info>For David Hockney: A Bigger Exhibition: 10/26/2013 - 1/20/14 at The Fine Arts Museums of San Francisco</info>
+        </entry>
+        <entry>
+          <title>David Hockney: Painting and Photography (2015)</title>
+          <link>https://www.youtube.com/watch?v=4_lcb28fCz8</link>
+          <info>Lecture at the Getty</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

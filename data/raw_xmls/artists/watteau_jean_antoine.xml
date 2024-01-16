@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>watteau_jean_antoine</id>
+    <name>Jean-Antoine Watteau</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1702 - 1721</years>
+    <description>Jean-Antoine Watteau's sensuously painted Rococo canvases conveyed courtly love and ideas of reverie, longing, and utopia.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>French</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>October 10, 1684</birthDate>
+    <birthPlace>Valenciennes, France</birthPlace>
+    <deathDate>July 18, 1721</deathDate>
+    <deathPlace>Nogent-sur-Marne, France</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <bio_highlight>Jean-Antoine Watteau was a contradictory man; a painter of great love scenes who was apparently celibate, and a moody and unsocial character who was nevertheless surrounded by friends. And following the French Revolution, Watteau’s work was so controversial that legend has it that students threw their erasers at it.</bio_highlight>
+    <cname>Watteau</cname>
+    <pub_time>1/21/2019</pub_time>
+  </main>
+  <includes>
+    <include>rococo</include>
+  </includes>
+  <similar_movements>
+    <movement>rococo</movement>
+    <movement>neoclassicism</movement>
+    <movement>venetian_school</movement>
+    <movement>dutch_golden_age</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>boucher_francois</artist>
+    <artist>fragonard_jean_honore</artist>
+    <artist>chardin_jean_baptiste_simeon</artist>
+    <artist>rubens_peter_paul</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"In my view, you must either do away with ornament - or make ornament the essence. It's not something you add. It's not icing on a cake. It's everything - or it's nothing."</q>
+    <q>"I create the painting in my mind, color gives me inspiration, passion is very important, so I am looking for radiance, with all my soul."</q>
+    <q author="Paul Verlaine on Watteau in Fêtes galantes">"Your soul is like a landscape."</q>
+    <q author="Cyril Connolly">"[Rococo is] a lyrical conception of humanity, a response to all that is transitory and fugacious, a calligraphy of farewell."</q>
+    <q author="Elie Faure">"Dans l‘œuvre de Watteau, les fêtes sont sans lendemain, et l’angoisse est sous le masque!" ("In Watteau’s work, cares are masked and the parties never end!")</q>
+    <q author="Jean Cocteau">"Watteau restores to charm its original, medieval meaning, charm as the enchantment of a magic spell."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Jean-Antoine Watteau's sensuously painted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo&lt;/span&gt; idylls conveyed courtly love and ideas of reverie, longing, and utopia at a time of aristocratic indulgence and hedonism. Painting both decorative and fine arts works, Watteau's subjects attracted a wealthy clientele and the newly emerging collecting class, making him quite successful during his lifetime. Watteau's elevation of ornament combined with his subtle compositions, use of color, and playful subjects captures the Rococo era like no other artist.
+			&lt;br/&gt;&lt;br/&gt;
+			During and after the French Revolution his paintings fell out of favor. With more egalitarian aspirations, the revolutionaries despised all things associated with the aristocracy, including Watteau's paintings. Increasingly, though, Watteau's reputation has recovered as artists and scholars alike understand better his subtle exploration of the burgeoning modern selfhood and his complex painting techniques.
+		</synopsys>
+    <key_ideas>
+      <idea>Watteau's paintings of elegantly dressed aristocrats flirting in the landscape led the French Royal Academy to create a new genre to accommodate the painter: &lt;i&gt;fête galantes&lt;/i&gt;. These pictures of courtship parties were concerned with themes of love, secrecy, playfulness, and wistfulness and combined genre painting with the mythological subjects so popular in history painting of the time.</idea>
+      <idea>While Rococo art is known for its frivolity, hedonism, and light-heartedness, Watteau's compositions were indebted to close observation of nature and life, which he initially rendered in countless drawings that later informed his paintings.</idea>
+      <idea>Perhaps not so neatly delineated as they are now, both decorative and fine arts were part of Watteau's repertoire. Painting on panels or directly on the wall, Watteau created motifs and vignettes to decorate dining rooms and studies of his patrons, and he created large oil paintings that were accepted by the French Royal Academy. Often, the subject matter of both modes of work coincided in scenes of musicians, lovers, and lush landscapes.</idea>
+      <idea>Many of Watteau's most important works have a stage-like setting, with the panoramic scene extending laterally in very shallow space. Such compositional devices can be traced to his love of the theater and ballet. Both opera and the more popular &lt;i&gt;Commedia dell'arte&lt;/i&gt;, were favorite subjects of his.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in Valenciennes, a city in northeast France that before 1678 had been part of Flanders, Jean-Antoine Watteau would always somewhat identify as a &lt;i&gt;Flamand&lt;/i&gt;. His father, a master tiler, was a violent man and perhaps this had a formative effect on his son. In any case, Watteau never made any references to his family in his work. We do know that from a very early age he showed a talent for drawing, and it is telling that some of his childhood sketches are believed to be of travelling salesmen or tonic-selling quacks. Certainly his whole life he remained interested in performers, mendicants, and people on the fringes of society.</p>
+          <p type="p">Watteau may have had an elder brother, which may explain why his father was not averse to Watteau studying art rather than the family profession. Though it had been an important cultural center of the Spanish Netherlands, by 1700 Valenciennes, was a French outpost, and there were few skilled local artists, making it difficult for Watteau to start training in the field. The city's best-known painter was Jacques-Albert Gérin, and he is generally believed to have been Watteau's first teacher; however, Gérin's work, such as it survives, is firmly rooted in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt;, but even Watteau's earliest work shows no trace of Baroque influence.</p>
+        </subsection>
+        <subsection title="Early work">
+          <p type="p">In 1702, when Watteau left Valenciennes for Paris to begin his real training, France was a year into the War of Spanish Succession. Louis XIV's absolutist rule was becoming increasingly eclipsed, and industry, trade, science and culture that had flourished under the Sun King were in decline. By 1701, the greatest painters of that generation, including Charles Lebrun and Pierre Mignard, were dead, and the only remaining profitable genre was portraiture, which had never been Watteau's forte. He was a reserved young man, not formally educated or socially connected, but he was highly intelligent, curious, observant, and he had taste. He loved music, opera and the ballet, was an enthusiastic and catholic reader, and importantly, he had no intention of returning to Valenciennes. Instead, he found studio lodgings on the Pont Notre-Dame, where he supported himself by painting copies after the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; for Edmé-François Gersaint, an art dealer who specialised in Dutch and Flemish painting, schools that inspired Watteau throughout his career.</p>
+          <p type="img" alt="&lt;i&gt;Les Deux Carrosses&lt;/i&gt; (1707) by Claude Gillot, Watteau's first significant teacher" show="1">/images20/photo/photo_watteau_jean_antoine_1.jpg</p>
+          <p type="p">Around 1704, Watteau began training with Claude Gillot, who would prove integral to the development of his style and subject matter. Gillot, an innovative designer, with a brilliant sense of line, was more a draughtsman than a painter. He was also something of an outsider, socially maladroit, and drawn to eccentric, even weird motifs; however, his sinuous arabesque designs and especially his theatrical subjects captivated Watteau. In fact, Gillot introduced Watteau to the &lt;i&gt;Comédie française&lt;/i&gt; and the &lt;i&gt;Commedia dell'arte&lt;/i&gt;, the French and Italian versions of popular comedic theater that were largely improvised and used familiar stock characters. Watteau's &lt;i&gt;Commedia dell'arte&lt;/i&gt; subjects are similar to those of Gillot, with their frontal, almost music-hall compositions. Indeed, these early pictures feature earthy Flemish tonalities and stocky figures that only hint at the level of nuance and sophistication Watteau would later achieve. During the nearly four years he spent with Gillot, Watteau also learned the skills and techniques of decorative panel painting, which had become a popular, economic alternative to elaborately painted and stuccoed designs. Gillot had made a name for himself with his acrobatic sense of line, delicate colorism, and witty motifs, but he soon saw his pupil surpass him, and the two men parted somewhat bitterly around 1708.</p>
+          <p type="img" alt="&lt;i&gt;The Landing of Marie de Médici at Marseilles&lt;/i&gt; (1625) by Peter Paul Rubens, one of several paintings by Rubens that was transformational for the young Watteau" show="1">/images20/photo/photo_watteau_jean_antoine_2.jpg</p>
+          <p type="p">Watteau then entered the studio of Claude Audran III, one of the king's leading painters and decorators. To say that Audran opened doors for Watteau is an understatement; his support, connections, and guidance were integral to the young artist's career. In 1704, Audran was appointed conservator of the Palais du Luxembourg where Rubens' cycle of canvases devoted to Marie de' Medici were installed. Audran gave Watteau frequent access to study these works, and the Flemish master's roiling color and energy profoundly informed his imagination. Equally, as Watteau progressed as a decorative painter, he learned to work quickly, developing a seemingly spontaneous sense of line and motif, which, in his later easel paintings, evolved into his distinctive flickering brushwork.</p>
+          <p type="p">It is not certain for how long Watteau continued to produce decorative paintings after he left Audran's studio in 1709. Art historian Helmut Börsch Supan dates a large series of &lt;i&gt;chinoiserie&lt;/i&gt; designs for the château of La Muette (now gone) to between 1708 and 1710. In 1709, Watteau is believed to have sold one of his paintings to fund a trip to Valenciennes.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="&lt;i&gt;Self-Portrait of Jean-Antoine Watteau&lt;/i&gt;. By Francois Boucher (1727), an etching after Watteau" show="1">/images20/photo/photo_watteau_jean_antoine_3.jpg</p>
+          <p type="p">Now twenty-five, in 1709, Watteau won second prize in the Prix de Rome competition at the Académie Royale de Peinture et de Sculpture. But like all ambitious young artists of the time, he wanted to study in Italy, and it was perhaps his disappointment at missing out on first prize that compelled him to return home. Accounts of how he spent his year in Valenciennes are patchy, but art historian Michael Levey notes that he met and befriended Antoine de la Roque, future director of the important literary magazine &lt;i&gt;Mercure de France&lt;/i&gt;. During his stay, he also reconciled with Jean-Baptiste Pater, who had earlier been his student and whom Watteau had treated very badly. When he returned to Paris in 1712, he brought Pater with him.</p>
+          <p type="img" alt="Etching titled &lt;i&gt;Portrait of Jullienne and Watteau in the Garden Playing a Violincell&lt;/i&gt; obBy Nicolas-Henri Tardieu (1726) after Watteau" show="1">/images20/photo/photo_watteau_jean_antoine_4.jpg</p>
+          <p type="p">That year, Watteau returned to the Académie where he was provisionally accepted. He was invited to submit a painting as his &lt;i&gt;morceau&lt;/i&gt;, his reception piece. After finally completing the work in 1717, he became a full Academician with his painting &lt;i&gt;The Pilgrimage to the Island of Cythera&lt;/i&gt;. He was, in fact, admitted as a painter of &lt;i&gt;fêtes galantes&lt;/i&gt;, a new genre, which the Académie created especially for him. Watteau was now a successful artist, whose patrons and supporters included Count Carl Gustaf Tessin and the Duc d'Arenburg. He also became acquainted with Charles de la Fosse, who introduced him to Pierre Crozat, a fabulously wealthy banker and collector, who made his huge collection of Old Master drawings available to Watteau for his studies.</p>
+          <p type="p">Watteau's career was meteoric in both his popularity and his artistic development. In barely fifteen years, he was remarkably productive, and his extant œuvre includes about 200 oils, many of which are also preserved in engravings and copies; very few original decorative paintings exist, nearly all of which are now known from engravings; and while hundreds of drawings remain, there is believed to have been thousands.</p>
+          <p type="img" alt="&lt;i&gt;Portrait of Jean-Antoine Watteau&lt;/i&gt; by noted portraitist Rosalba Carriera (1721). Pastel, Collection of the Museo Civico, Treviso, Italy" show="1">/images20/photo/photo_watteau_jean_antoine_5.jpg</p>
+          <p type="p">By 1719, Watteau, who had never been in strong health, was seriously ill with tuberculosis, although it is not clear when he first became infected. Some biographies suggest he became infected in London, when he travelled there that year to paint two pictures for Richard Mead, a physician and collector. Others contend, he travelled to London specifically to seek treatment from Mead. By 1720, he had returned to Paris, where he lived for several months with Gersaint, the art dealer he worked for early in his career. Ultimately, he had hoped to recover enough to return to Valenciennes, perhaps sensing he would soon die. Unfortunately, he proved too ill for the journey and in the spring of 1721, his friend Paul Maurice (Abbé) Haranger arranged for him to stay with a Monsieur Le Febvre at Nogent-sur-Marne, a village east of Paris. There, Watteau continued to work. Not only did he paint his last work, a &lt;i&gt;Christ on the Cross&lt;/i&gt; for the village church (now lost), but he also left several &lt;i&gt;fêtes galantes&lt;/i&gt; and &lt;i&gt;Commedia dell'arte&lt;/i&gt; subjects in various states of completion. Despite his industry, however, he never regained the strength to go home, and he died that October in the house of Le Febvre.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Monument to Jean-Antoine Watteau (1865) in Nogent-sur-Marne, France" show="1">/images20/photo/photo_watteau_jean_antoine_6.jpg</p>
+          <p type="p">Almost immediately following Watteau's death in 1721, his prestigious friends published volumes of prints after his work, and several biographies, many of which, while true tributes, are unfortunately patchy on hard facts. Ironically, Walter Pater's deliberately fictional essay "A Prince of Crown Painters" is one of the more satisfying tributes to the artist, but perhaps Watteau's flesh-and-blood elusiveness only intensifies the effect his timeless, painted daydreams continue to exercise even today. Certainly, he remains one of the most paradoxical painters in French art. A deeply sensual artist, he never married. He had no known lovers, yet his scenes of love - even at their most theatrical - are subtle and insightful. In Watteau's world, love is a true utopia: simultaneously the best place to be, and the place that cannot be.</p>
+          <p type="img" alt="&lt;i&gt;Monument to Jean-Antoine Watteau&lt;/i&gt; by Jean Carpeaux (1863) in Valenciennes, France" show="1">/images20/photo/photo_watteau_jean_antoine_7.jpg</p>
+          <p type="p">Equally, while he was notoriously moody and asocial, he inspired such devoted friendship that he rarely kept a fixed address. Instead, friends and collectors arranged studio spaces for him around Paris, as well as free room and board at their lavish &lt;i&gt;hôtels&lt;/i&gt; and &lt;i&gt;châteaux&lt;/i&gt;. Perhaps they saw such patronage as a fair exchange for the privilege of escaping into his paintings. Watteau's mastery of color and texture, and his distinct visual language (effectively an iconography of the human heart) created images that captured both the finest and the most fallible aspects of humanity. His work truly connects the drama and excess of the late Baroque with the discrete humanism of the Enlightenment.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Le Faun and L'Enjôleur</title>
+      <year>1707-08</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				These two panels are a rare example of Jean-Antoine Watteau's early career as a decorative painter, and they are all that remain of a series of eight commissioned by the Marquis de Nointel. The other six panels, now lost, are known from engravings, and share similar light-hearted or sensual subjects (e.g. harvesting grapes, drinking, dancing, and other assorted follies) suggesting that the series may have decorated the dining room or breakfast room of Nointel's home.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;L'Enjôleur&lt;/i&gt; (the cajoler) shows an elegant young woman and a swain standing upon a platform, the curved and cut edges of which alternately advance and recede to accord with elements of the composition. The figures are surrounded by an intricate, yet airy configuration of garlands, ribbons, arabesques, and various foliate motifs, the whole crowned with a basket of flowers. Below the platform dangles a &lt;i&gt;biniou&lt;/i&gt;, a traditional Breton bagpipe.
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;Le Faune&lt;/i&gt;, Watteau placed a pedestalled statue of Bacchus, flanked by a curious ram and a gilded ewer, upon an elegant semi-circular console. This console is supported by delicate volutes and surmounted by slender, nearly invisible foliate columns, creating an overall impression of suspension and weightlessness. The whole group is framed by a three-arched trellis topped on the first and third arches with flower baskets. Below the console, two large birds perch on palmettes.
+				&lt;br/&gt;&lt;br/&gt;
+				Influenced by the work of his earlier master Claude Audran III (who possibly also recommended Watteau to the Marquis), the panels illustrate how Watteau embraced the exoticism and inventiveness of Rococo taste. Drawing from his teachers' styles and techniques, Watteau painted his symmetrical vignettes on white grounds, which set off the elegant play of line. While his mature work featured sparkling satins, bosky shadows, and complex tonalities, Watteau's decorative designs focused on line, rhythm, balance and correspondence of motifs, all of which he painted here in muted gold, pink, cornflower blue, and sage green.
+			</desc>
+      <collection>Collection of the Musée des Beaux Arts, Valenciennes, France</collection>
+    </artwork>
+    <artwork>
+      <title>The Scale of Love</title>
+      <year>1715-18</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In Watteau's romantic allegory, a young man theatrically dressed in soft pink silks plays a guitar in a wooded glade. He sits at the base of a pillar with a carved head on top (possibly "blind" Homer), his right leg extended and braced as he leans downwards to where young woman sits on the grass, dressed in iridescent silks with her hair powdered. She twists strongly towards him, so much so that we barely see her face, but she appears to have eyes only for the musician. She holds open a book of sheet music, but the guitarist does not read it. Instead his downcast eyes appear focused on something not visible. The couple's poses, and the way they respectively hold the guitar and the sheet music create a strong central diagonal that both unites them as the main subject and separates them by a sense of physical tension. Moreover, though they are oblivious to anyone else, the couple is not alone. The sculpted bust, turned slightly to the right, draws the eye to secondary figures in the middle ground and the far background, all of whom are engaged in their own pursuits and paying no attention to the main couple.
+				&lt;br/&gt;&lt;br/&gt;
+				Dreamlike, idealised and wholly romantic, Watteau's allegories of courtly love are nevertheless free from the sentimentality and prettiness generally associated with the Rococo. Their sense of mystery and reticence derives partly from Watteau's technique, which employed pale yellow or off-white grounds, flickering brushwork, and several layers of thin glaze. The naturalism of his theatrical figures and their landscaped idylls is due to the fact that he made countless sketches from life (at least two of which for the seated girl are in The British Museum). Indeed, The Comte de Caylus recorded in his &lt;i&gt;Vie d'Antoine Watteau&lt;/i&gt; (1748) that the artist was happiest only when working "in the rooms I had in different quartiers of Paris, which were used only for sittings with models, for painting and drawing. In these places ... I can state that Watteau, so sombre, melancholy, so shy and critical anywhere else, was here simply the Watteau of the paintings: in other words, the artist they make you imagine - delightful, tender and perhaps a bit of a shepherd.''
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Studies of a Woman Playing a Guitar, or Holding a Musical Score</title>
+      <year>c.1717</year>
+      <materials>Chalk drawing with graphite</materials>
+      <desc>
+				Watteau's silvery sketches depict three studies of the same model. Viewed from left to right, she is first seen seated in a wooden chair, playing a guitar. The twist of her upper body is emphasised by the sharp turn of her head, and as she looks over her shoulder, her eyes cast down. He then repeats this pose from a slightly different angle. Finally, he depicts her seated, slightly in the background, holding a musical score and looking off to her right, as if distracted or expectant. The model is dressed throughout in a jacket with rolled tails and a fluted ruff, and each pose suggests that she is listening to music rather than playing an instrument, or singing.
+				&lt;br/&gt;&lt;br/&gt;
+				Watteau was a prolific and gifted draughtsman, perhaps the greatest of his generation, and some of his friends claimed that he actually preferred drawing to painting. He filled albums and sketchbooks with landscapes, copies after old masters, and above all, life studies like the present drawing, where he would circle his models and study their pose from various angles. While two of these studies reappear in paintings, Watteau rarely made drawings specifically as studies for paintings. And though he is reputed to have made anywhere between two and four thousand drawings, slightly fewer than seven hundred now survive.
+				&lt;br/&gt;&lt;br/&gt;
+				Watteau worked primarily in red chalk, or &lt;i&gt;aux trois crayons&lt;/i&gt;, a technique employing red, black and white chalks to often stunning chromatic effect. Unusually, in this drawing, he favoured black chalk, with only touches of red. More interesting still is his use of graphite, which adds a satiny sheen to the girl's costume. Graphite appears in French drawings by 1714, but its origins are obscure so Watteau's use of it here does not indicate a date, per se. Moreover, since he neither signed nor dated his drawings, and often reused them, one cannot date a study based solely on its reappearance in a specific painting. However, curator Margaret Morgan Grasselli suggested a date of 1717-18, based on technical similarities, and an evident resemblance between this model and the woman who posed for one of the studies of the second version of his master work &lt;i&gt;Pilgrimage to the Island of Cythera&lt;/i&gt; (1717).
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Pilgrimage to the Island of Cythera</title>
+      <year>1717</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Painted over the course of five years, and generally held to be one of Watteau's masterpieces, this ambitious canvas - which is approximately seven feet wide - shows a group of elegant travellers preparing to sail in a fantastical &lt;i&gt;rocaille&lt;/i&gt; boat (left foreground) for the island of Cythera, the supposed birthplace of Venus. The figures are paired off in couples that alternately flirt, entreat, engage, and conjoin in a quest for the ideal love that presumably awaits them at their destination. The figures run across the composition from right to left becoming more distant, and less individualized as they progress. Accompanying them are half-draped oarsmen and a swarm of putti that twirl above, signalling joy and anticipation. Watteau painted the picture in lemony, Venetian tones that offset the opalescent blues of the vast sky and contrast with passages of vermilion in the costumes. Watteau's quick, delicate impasto brushwork, overlaid with many layers of thin, varicolored glazes creates a hazy, dreamlike atmosphere that, along with the low horizon line and the swell of landscape in the foreground, marks his setting as a utopia: both an ideal place and a place that can never be. Imagining a fictional version of Watteau in his essay &lt;i&gt;A Prince of Court Painters&lt;/i&gt; (1885), Walter Pater described Watteau as "a seeker after something in the world that is there in no satisfying measure, or not at all."
+				&lt;br/&gt;&lt;br/&gt;
+				Submitted as his reception piece at the Royal Academy of Painting and Sculpture, Watteau actually chose his subject (a rare privilege) and the Academy approved his proposal for &lt;i&gt;The Pilgrimage to the Island of Cythera&lt;/i&gt; in 1712. However, he did not complete the picture for another five years because at the time he was working on a large number of private commissions for Pierre Crozat and others. The painting would prove to be one of Watteau's most successful, and he was admitted to the Academy as a painter of &lt;i&gt;fêtes galantes&lt;/i&gt;, a new subject created not only to describe his blend of modern manners and ancient ideals, but also to acknowledge his distinct contribution to French art. A year or two later, Watteau painted a second version of the same subject at the request of his friend Jean de Jullienne, which is now in the collection of the Charlottenberg Palace in Berlin.
+				&lt;br/&gt;&lt;br/&gt;
+				Following the Revolution, the increased taste for moralising classicism effectively cancelled out the Rococo and with it any popular appreciation of Watteau's work. A possibly apocryphal story describes that in 1793, when &lt;i&gt;The Pilgrimage to the Island of Cythera&lt;/i&gt; hung in one of the Academy's study rooms, students threw their bread pellet erasers at it, that is, until a curator rescued it and stored it in an attic.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Pierrot, formerly known as Gilles</title>
+      <year>1718-19</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Pierrot, the perpetually unlucky-in-love clown, and a stock figure in Italian &lt;i&gt;commedia dell'arte&lt;/i&gt; theatre (his counterpart in the Comédie Française is Gilles), stands nearly life sized, encased in a costume of gleaming white satin. His wistful expression and monumental presence, seen slightly from below, is wholly frontal, suggesting that the figure may have been painted from life, rather than Watteau's imagination. While Watteau experienced performances of the various troupes in Paris at the time, and even made sketches, many of his &lt;i&gt;commedia dell'arte&lt;/i&gt; subjects were pastiches, arranged from studio sketches of models dressed in costume. At Pierrot's feet in the middle ground, are four more stock characters (the Doctor on his donkey, the lovers Leandro and Isabella, and the Captain), all shown half-length, standing behind the stage. In fact, Watteau's setting is deliberately theatrical and far more removed from reality than his usual idyllic landscapes. Only a few cypresses and umbrella pines frame the figures and hint at a Mediterranean setting. At the far right a somewhat sinister sculpted bust (perhaps Pan or a satyr) leers at poor Pierrot, a possible reference to his romantic failures.
+				&lt;br/&gt;&lt;br/&gt;
+				It is not clear why and for whom Watteau painted the picture. Various theories argue it was a theatrical picture for a café or a fairground or that it was commissioned from a patron who simply loved the &lt;i&gt;commedia dell'arte&lt;/i&gt; and perhaps admired a specific actor. Temporarily banned in the late 17&lt;sup&gt;th&lt;/sup&gt; century by Madame de Maintenon, second wife of Louis XIV, after the king's death in 1715, the &lt;i&gt;commedia dell'arte&lt;/i&gt; enjoyed a popular renaissance, and one of its most attractive aspects was its inclusivity. Unlike classical drama, the players had no set text. Instead, their performance depended on audience engagement, and the actors allowed the plots to change and evolve based on what appealed to a specific audience. Spectators immediately recognized all the stock characters and their motivations so introductions, exposition, and even dialogue were second to action, which was emphasised by pose, gesture, and innuendo. Therefore, perhaps &lt;i&gt;Pierrot's&lt;/i&gt; enigmatic quality comes from a sense of stasis, because he appears not as a character, but as an individual, albeit one trapped in an artificial setting, wearing a costume that effectively turns him into a &lt;i&gt;tabula rasa&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				Watteau first became fascinated by the theater, ballet, and opera during his early training in Paris with Claude Gillot, a set designer, illustrator, and ardent fan of the &lt;i&gt;commedia dell'arte&lt;/i&gt;. The tensions between reality and illusion, psychology and artifice, that Watteau experienced as part of the audience, increasingly informed his style and imagination, and his theatrical subjects, which always retain a slight sense of melancholy or yearning, inspired similar works by other Rococo painters.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>L'Enseigne de Gersaint</title>
+      <year>1721</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Watteau painted his largest work - and one of his very last paintings - as a shop sign for his close friend, Edmé-François Gersaint, a Parisian art dealer. Measuring just over ten feet, the painting shows a dramatically expanded panorama of Gersaint's Paris gallery. Capturing most aspects and follies of the newly emerging art market, Watteau painted eight men and four women of varying class, status, and artistic engagement, arranged frieze like and relatively close to the picture plane. The overall effect is theatrical, as if the act of buying and selling art were a performance. Reading left to right: a young porter stands before a stonework pillar waiting to deliver the painting another porter packs in a large crate. A gallery assistant behind them moves a large mirror. Standing nearby, an elegant woman dressed in pink silk stands with her back to the viewer watching the work, while her companion dressed in fine wools and an elaborate powdered wig takes her hand and vies for her attention.
+				&lt;br/&gt;&lt;br/&gt;
+				In the background, double-height glazed doors center the composition and create a slight pause before a second, more complexly arranged group. Here, another well-dressed man (perhaps Gersaint himself) presents a large oval canvas showing a mythological landscape, possibly a version of Diana and Callisto. His clients, a standing woman and a kneeling gentleman, closely examine different areas of the picture, their backs to the viewer. Although their faces are entirely hidden, their costumes - the woman's somber dark dress and ribboned bonnet and the man's old-fashioned wig - suggest an older married couple. Seated nearby and slightly in front of this group, a woman in white striped silk and a black cloak sits at the counter, her head turned towards a mirror held by a shop girl. Two more gentlemen, one seated, the other standing, also examine the mirror (or their own reflections). Finally, Watteau frames his scene with a sheaf of packing straw in the left foreground and a flea-bitten dog in the right, which also frames the scene at the edge.
+				&lt;br/&gt;&lt;br/&gt;
+				Gersaint's gallery was on the Pont Notre-Dame, where houses above arcades had been built on both sides. His gallery, like all the other ground floor shops, had an arched façade; while the painting is now a vast rectangle, Watteau actually painted it as a demi-lune to fit above the gallery door. Traces of the original upper edge are just visible ascending from the third stone of the pillar at left, arcing over the central doors and descending to the lower right corner of the middle painting at right.
+				&lt;br/&gt;&lt;br/&gt;
+				When it was installed outside the gallery - perhaps one of the first billboards - the painting created an instant sensation. Its scope, invention, and beauty dazzled passers-by. Connoisseurs recognised the quotations from Rubens and other Flemish artists, while the cognoscenti appreciated Watteau's jabs at Regence classicism and the follies of the art market. However, the painting's wit and naturalism possibly made it unsuitable as an advertisement. After two weeks, Gersaint sold it to Claude Glucq, an act that saved it from destruction but also one that would alter it beyond Watteau's original vision. Glucq turned the original arched painting into two rectangular paintings and had parts of the canvas trimmed or extended to accommodate this new format. The irregularities of the trimmed edges match those made originally by Watteau. Moreover, the paintings in the extended background are copies after other artists (unlike those in the original work, which were all Watteau's inventions). Therefore, it is likely that someone who not only had access to Watteau's studio, but could also imitate his style altered the picture. As the artist's only known student and follower was Jean-Baptiste Pater, Glucq possibly entrusted him to alter the painting.
+			</desc>
+      <collection>Schloss Charlottenberg, Berlin, Germany</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>veronese_paolo</entity>
+        <entity>rubens_peter_paul</entity>
+        <entity>van_dyck_anthony</entity>
+        <entity alt="Claude Gillot">gillot_claude</entity>
+      </column>
+      <column>
+        <entity alt="Pierre Crozat">crozat_pierre</entity>
+        <entity alt="Nicolas Vleughels">vleughels_nicolas</entity>
+        <entity alt="Edmé-François Gersaint">gersaint_edmу_franсois</entity>
+        <entity alt="Count Carl Gustaf Tessin">tessin_count_carl_gustaf</entity>
+        <entity alt="Jean de Jullienne">de_jullienne_jean</entity>
+      </column>
+      <column>
+        <entity>classical_greek_and_roman_art</entity>
+        <entity>renaissance</entity>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>rococo</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Jean-Baptiste Pater">pater_jean_baptiste</entity>
+        <entity>boucher_francois</entity>
+        <entity alt="Jean-Honoré Fragonard">fragonard_jean_honore</entity>
+        <entity>verlaine_paul</entity>
+        <entity alt="Marcel Carné">carne_marcel</entity>
+      </column>
+      <column>
+        <entity alt="Frederick the Great">the_great_frederick</entity>
+        <entity alt="Edmond and Jules de Goncourt">de_goncourt_edmond_and_jules</entity>
+      </column>
+      <column>
+        <entity>rococo</entity>
+        <entity>romanticism</entity>
+        <entity alt="Nazarene Brotherhood">nazarene_brotherhood</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Watteau, 1684-1721</title>
+          <link>0894680749</link>
+          <info>By Margaret Morgan Grasselli</info>
+        </entry>
+        <entry recommended="true">
+          <title>Watteau (Masters of French Art)</title>
+          <link>3848005549</link>
+          <info>By Helmut Börsch-Supan</info>
+        </entry>
+        <entry recommended="true">
+          <title>Watteau at the Wallace Collection</title>
+          <link>0900785845</link>
+          <info>By Christoph Martin Vogtherr</info>
+        </entry>
+        <entry recommended="true">
+          <title>Watteau and His World: French Drawing from 1700-1750</title>
+          <link>1858940796</link>
+          <info>By Alan Wintermute and Colin Bailey</info>
+        </entry>
+        <entry recommended="true">
+          <title>Watteau: The Drawings</title>
+          <link>1905711700</link>
+          <info>By Pierre Rosenberg and Louis-Antoine Prat</info>
+        </entry>
+        <entry recommended="true">
+          <title>Antoine's Alphabet: Watteau and His World</title>
+          <link>B001FSL2KS</link>
+          <info>By Jed Perl</info>
+        </entry>
+        <entry recommended="true">
+          <title>La Vie de Antoine Watteau</title>
+          <link>https://gallica.bnf.fr/ark:/12148/bpt6k6576296s/f7.image</link>
+          <info>By the Comte de Caylus</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles"></subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Understanding Art: Baroque and Rococo</title>
+          <link>http://www.amazon.com/gp/product/B00U5UOOFC?tag=tharst-20</link>
+          <info>By Waldemar Januszczek</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

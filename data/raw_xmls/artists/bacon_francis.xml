@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>bacon_francis</id>
+    <name>Francis Bacon</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1928 - 1992</years>
+    <description>Bacon produced iconic images of traumatized humanity with subjects violently distorted, presented as isolated souls.</description>
+    <art_description>Important art &amp; artworks analysis by Francis Bacon including: Crucifixion, Painting, Pope Innocent X, George Dyer paintings &amp; more in School of London &amp; Expressionism.</art_description>
+    <use_big_images>false</use_big_images>
+    <show_posters>true</show_posters>
+    <highlight>2</highlight>
+    <occupation>Painter</occupation>
+    <nationality>Irish-British</nationality>
+    <birthDate>October 28, 1909</birthDate>
+    <birthPlace>Dublin, Ireland </birthPlace>
+    <deathDate>April 28, 1992</deathDate>
+    <deathPlace>Madrid, Spain</deathPlace>
+    <image_desc>true</image_desc>
+    <pub_time>12/1/2010</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>school_of_london</include>
+    <include>expressionism</include>
+    <include>british_art</include>
+  </includes>
+  <similar_movements>
+    <movement>school_of_london</movement>
+    <movement>expressionism</movement>
+    <movement>abstract_expressionism</movement>
+    <movement>lgbt_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>freud_lucian</artist>
+    <artist>hockney_david</artist>
+    <artist>auerbach_frank</artist>
+    <artist>kitaj_r_b</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I would like my picture to look as if a human being had passed between them, like a snail leaving its trail of the human presence... as a snail leaves its slime."</q>
+    <q>"The creative process is a little like the act of making love, it can be violent .. the result is often disappointing, but hte process is highly exciting."</q>
+    <q>"In my case all painting... is an accident. I foresee it and yet I hardly ever carry it out as I foresee it. It transforms itself by the actual paint. I don’t in fact know very often what the paint will do, and it does many things which are very much better than I could make it do."</q>
+    <q>"I'm greedy for life; and I'm greedy as an artist. I'm greedy for what I hope chance can give me far beyond anything I can calculate logically. And it's partly my greed that has made me what's called live by chance - greed for food, for drink, for being with the people one likes, for the excitement of things happening. So the same thing applies to one's work."</q>
+    <q>"I think that the very great artists were not trying to express themselves. They were trying to trap the fact, because after all, artists are obsessed by life and by certain things that obsess them that they want to record. And they’ve tried to find systems and construct the cages in which these things can be caught."</q>
+    <q>"I'm working for myself; what else have I got to work for? How can you work for an audience? What do you imagine an audience would want? I have got nobody to excite except myself, so I am always surprised if anyone likes my work sometimes. I suppose I'm very lucky, of course, to be able to earn my living by something that really absorbs me to try to do, if that is what you call luck."</q>
+    <q>"Painting is a duality and abstract painting is an entirely aesthetic thing. It always remains on one level. It is only really interesting in the beauty of its patterns or its shapes."</q>
+    <q>"I feel ever so strongly that an artist must be nourished by his passions and his despairs. These things alter an artist whether for the good or the better or the worse. It must alter him. The feelings of desperation and unhappiness are more useful to an artist than the feeling of contentment, because desperation and unhappiness stretch your whole sensibility."</q>
+    <q>"The creative process is a cocktail of instinct, skill, culture and a highly creative feverishness. It is not like a drug; it is a particular state when everything happens very quickly, a mixture of consciousness and unconsciousness, of fear and pleasure; it’s a little like making love, the physical act of love."</q>
+    <q author="Critic John Russell">"what once looked entirely of the moment has turned out to be timeless, and what once rang out like an individual cry of pain has been taken up, all over the world, as the first oboe's 'A natural' is taken up by the whole orchestra."</q>
+    <q author="Writer Charlie Fox">"Nobody has found more wicked energy in contemplating the cage than Francis Bacon.. Cages provide areas for Bacon to stage his ferocious meditations on human anguish and savagery, but they also assume more distorted forms, shifting like the spaces within a bad dream."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Francis Bacon produced some of the most iconic images of wounded and traumatized humanity in post-war art. Borrowing inspiration from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, film, photography, and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, he forged a distinctive style that made him one of the most widely recognized exponents of figurative art in the 1940s and 1950s. Bacon concentrated his energies on portraiture, often depicting habitues of the bars and clubs of London's Soho neighborhood. His subjects were always portrayed as violently distorted, almost slabs of raw meat, that are isolated souls imprisoned and tormented by existential dilemmas. One of the most successful British painters of the 20&lt;sup&gt;th&lt;/sup&gt; century, Bacon's reputation was elevated further during the "art world's" widespread return to painting in the 1980s, and after his death he became regarded by some as one of the world's most important painters.</synopsys>
+    <key_ideas>
+      <idea>Bacon's canvases communicate powerful emotions - whole tableaux seem to scream, not just the people depicted on them. This ability to create such powerful statements were foundational for Bacon's unique achievement in painting.</idea>
+      <idea>Surrealism, and in particular &lt;span class="marked_text chart-tooltip-target-top tooltip_id-biomorphism"&gt;biomorphism&lt;/span&gt;, shaped the style of &lt;i&gt;Three Studies for Figures at the Base of a Crucifixion&lt;/i&gt; (1944), the work that launched Bacon's reputation when it was exhibited in London in the final weeks of World War II. The work established many of the themes that would occupy the rest of his career, namely humanity's capacity for self-destruction and its fate in an age of global war.</idea>
+      <idea>Bacon established his mature style in the late 1940s when he evolved his earlier Surrealism into an approach that borrowed from depictions of motion in film and photography, in particular the studies of figures in action produced by the early photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-muybridge_eadweard"&gt;Eadweard Muybridge&lt;/span&gt;. From these Bacon not only pioneered new ways to suggest movement in painting, but to bring painting and photography into a more coherent union.</idea>
+      <idea>Although Bacon's success rested on his striking approach to figuration, his attitudes toward painting were profoundly traditional. The Old Masters were an important source of inspiration for him, particularly &lt;span class="marked_text chart-tooltip-target-top tooltip_id-velazquez_diego"&gt;Diego Velázquez's&lt;/span&gt; &lt;i&gt;Portrait of Pope Innocent X&lt;/i&gt; (c.1650) which Bacon used as the basis for his own famous series of "screaming popes." At a time when many lost faith in painting, Bacon maintained his belief in the importance of the medium, saying of his own working that his own pictures "deserve either the National Gallery or the dustbin, with nothing in between."</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in Dublin, Francis Bacon was named after his famous ancestor, the English philosopher and scientist. His father, Edward, served in the army and later took a job in the War Office during World War I. In an interview with critic David Sylvester, Bacon attributed the connotations of violence in his paintings to the turbulent circumstances of his early life. A British regiment was stationed near his childhood home, and he remembered constantly hearing soldiers practicing maneuvers. Naturally, his father's position in the War Office alerted him to the threat of violence at an early age. Returning to Dublin after the war, he came of age amidst the early campaigns of the Irish nationalist movement.</p>
+          <p type="p">Young Francis had little formal education due to his severe asthma and the family's frequent traveling for Edward's post. Bacon's mother, Christina, lived the life of a socialite, and with his father away at work, Francis was often left to his own devices. Although he had four siblings, Bacon had a close relationship with his nanny, Jessie Lightfoot, who later came to live with him for many years in London (the elderly lady may have been very important help to the self-destructive Bacon).</p>
+          <p type="p">Family relations became more abusive as Bacon dealt with his emerging homosexuality - the young artist was harshly disciplined by his father (his father had him whipped by stable boys, who were also involved in Bacon's first sexual experiences). He was finally expelled from the house in 1926 after his father caught him trying on his mother's clothing. Surviving on a small allowance, Bacon lived the life of a vagrant, traveling around London, Berlin, and Paris. Despite his father's hopes, the change of scenery only freed Bacon to further explore his sexual identity; his time in Berlin proved particularly important in this regard and was later remembered by him as one of emotional awakening.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Bacon moved into a London apartment in the late 1920s and became involved with interior and furniture design. One of his patrons, the artist Roy de Maistre, became a mentor to Bacon and encouraged him to take up oil painting. Bacon modeled his early work after &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt;, whose work he had seen on a trip to Paris. In 1933, Bacon exhibited &lt;i&gt;Crucifixion&lt;/i&gt;, a skeletal black and white composition that already radiated the overtones of pain and fear that would become typical of his later work. The painting was simultaneously published in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-read_herbert"&gt;Herbert Read's&lt;/span&gt; book &lt;i&gt;Art Now&lt;/i&gt;, and was quickly purchased by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sadler_michael"&gt;Sir Michael Sadler&lt;/span&gt;. Encouraged by his success, Bacon organized an exhibition of his own art the following year, but it received little attention. His paintings were also surveyed for inclusion in the International Surrealist Exhibition, organized by Herbert Read, but were rejected for not being surrealist enough. Discouraged, Bacon returned to a drifter's lifestyle. He destroyed the majority of his work from before 1943, and only fifteen pieces from this early period have survived.</p>
+          <p type="img" alt="Francis Bacon in his studio" show="0">/images20/photo/bacon_11.jpg</p>
+          <p type="p">Due to his asthma, Bacon was unable to join the armed forces during WWII. He was accepted as a member of the Air Raid Precaution sector, which involved non-military search and rescue, only to be discharged when he fell ill from the dust and rubble. "If I hadn't been asthmatic, I might never have gone onto painting at all," he admitted. After the war, he took up painting with a renewed passion, regarding &lt;i&gt;Three Studies for Figures at the Base of a Crucifixion&lt;/i&gt; (1944) as the true beginning of his work. The long necks, snapping mouths and contorted bodies featured in the painting express horror and suffering, a forceful commentary on the aftermath of the war. Bacon modeled the figures after photos of animals in motion, showing an early interest in the movement of the body that became a strong theme in his later painting. During its exhibition at Lefevre Gallery critics were mostly shocked by the blatant imagery, but the numerous reviews put Bacon into the spotlight.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="&lt;i&gt;Portrait of Innocent X&lt;/i&gt; (c.1650) by Diego Velázquez and film still from &lt;i&gt;Battleship Potemkin&lt;/i&gt; (1925) by Sergei Eisenstein. Both were very important for Bacon." show="1">/images20/photo/bacon_francis_12.jpg</p>
+          <p type="p">His breakout success at the 1944 exhibition gained him further opportunities to show with Lefevre. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sutherland_graham"&gt;Graham Sutherland&lt;/span&gt;, a friend and fellow exhibitor, also recommended him to the director of Hanover Gallery, where Bacon had his first solo exhibition in 1949. For this show Bacon painted a series entitled &lt;i&gt;Heads&lt;/i&gt;, significant for being the first series to introduce two important motifs: the first was the scream, derived from a film still drawn from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eisenstein_sergei"&gt;Sergei Eisenstein's&lt;/span&gt; &lt;i&gt;Battleship Potemkin&lt;/i&gt; in which an injured schoolteacher is shown screaming (probably in pain); the second is &lt;span class="marked_text chart-tooltip-target-top tooltip_id-velazquez_diego"&gt;Diego Velázquez's&lt;/span&gt; &lt;i&gt;Portrait of Pope Innocent X&lt;/i&gt; (c.1650), a painting Bacon only knew through reproductions (and which he would always maintain never to have seen in the original). &lt;i&gt;The Heads&lt;/i&gt; series also made greater use of enclosing devices that suggest a pervasive sense of claustrophobia and anxiety, in this instance a shallow cage-like outline which Bacon had also employed in &lt;i&gt;Three Studies&lt;/i&gt; from 1944.</p>
+          <p type="p">In 1952 Bacon began one of his most powerful relationships, with the ex -WWII fighter pilot Peter Lacy. Lacy was attractive, well-bred, and highly self-destructive.  The two had a powerful and violent relationship - on one drunken occasion Lacy threw Bacon through a window and the artist suffered a large number of (minor) injuries.  Through various escapades and foreign rendevous (with both men enjoying a variety of sexual partners in between their time together) their relationship deteriorated by 1958.  A number of his relationships, and especially the many close years with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-freud_lucian"&gt;Lucian Freud&lt;/span&gt; are discussed in Sebastian Smee's book "The Art of Rivalry".</p>
+          <p type="img" alt="Bacon was heavily influenced by Eadweard Muybridge's early photographic studies of people in motion." show="1">/images20/photo/bacon_francis_2.jpg</p>
+          <p type="p">In 1953, Hanover held an exhibition of Bacon's paintings that included &lt;i&gt;Two Figures&lt;/i&gt;, a depiction of two men embracing in bed, an image that created a huge scandal. The composition was based upon photographs taken by the Victorian photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-muybridge_eadweard"&gt;Eadweard Muybridge&lt;/span&gt;. He said "The thing is, unless you look at those Muybridge figures with a magnifying glass, it's very difficult to see whether they're wrestling or having sex." In fact, Bacon often preferred to work from photographs, relying on his friend John Deakin to take pictures of his subjects, but he was fascinated by Muybridge's attempts to capture and record bodies in motion. Bacon kept a collection of Muybridge's books in his studio as a constant source of reference, and even suggested that his intensive study of these sequential photographs triggered his own interest in working in series.</p>
+          <p type="p">Bacon's tendency to derive inspiration from personal experiences also attracted him to portraiture. He often painted close friends (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-freud_lucian"&gt;Lucian Freud&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rawsthorne_isabel"&gt;Isabel Rawsthorne&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leiris_michel"&gt;Michel Leiris&lt;/span&gt;), and the results convey a striking emotional and psychological intensity. One of Bacon's most famous subjects was his friend and lover &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dyer_george"&gt;George Dyer&lt;/span&gt;, who he met in 1964. During the course of their relationship, Bacon executed numerous portraits of Dyer that juxtaposed a strong musculature with a feeling of vulnerability, as in &lt;i&gt;Portrait of George Dyer Crouching&lt;/i&gt; (1966), suggesting an affectionate yet protective attitude toward the younger man. Dyer suffered from alcoholism and episodes of depression, ultimately committing suicide on the night before Bacon's first retrospective in France in 1971.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="img" alt="Francis Bacon with his close friend David Sylvester" show="1">/images20/photo/bacon_francis_4.jpg</p>
+          <p type="p">After the Paris exhibition Bacon moved increasingly toward self-portraiture, claiming, "people around me have been dying like flies and there is nothing else to paint but myself." Continuing to work steadily, he also completed a number of paintings in tribute to Dyer's memory. Many of these took the form of large format triptychs, including the well-regarded "Black triptych" series that recounted the details of Dyer's passing. In 1973, Bacon became the first contemporary English artist to have a major exhibition at the Metropolitan Museum of Art in New York. His work was exhibited internationally throughout the later years of his life, including retrospectives at the Hirshhorn and the Tate Gallery. In the mid 1970s, Bacon met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-edwards_john"&gt;John Edwards&lt;/span&gt;, who replaced both Dyer and Deakin as Bacon's constant companion and photographer. In his last years, Bacon retreated from his formerly boisterous social life, focusing on his work and the platonic relationship with Edwards. He died of a heart attack in Madrid at the age of 81.</p>
+        </subsection>
+        <subsection title="Legacy">
+		  <p type="img" alt="Portrait of Francis Bacon by John Deakin (early 1950s)" show="1">/images20/photo/photo_bacon_francis_1.jpg</p>
+          <p type="p">Bacon's unique interpretations and the intensely personal nature of his work make it difficult to visually trace his influence in contemporary art. Nevertheless, his paintings have inspired some of the most standout artists of this generation, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schnabel_julian"&gt;Julian Schnabel&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;.</p>
+          <p type="p">John Edwards, who inherited the estate, played an important role in promoting Bacon's work until his death in 2003. He was responsible for the donation of Bacon's studio to the Hugh Lane Municipal Gallery of Modern Art in Dublin, and this was turned into a permanent exhibition and research archive.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <chart>
+    <top>
+      <column>
+        <entity>velazquez_diego</entity>
+        <entity>van_gogh_vincent</entity>
+        <entity>muybridge_eadweard</entity>
+        <entity>picasso_pablo</entity>
+      </column>
+      <column>
+        <entity>deakin_john</entity>
+        <entity>dyer_george</entity>
+        <entity>edwards_john</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>expressionism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>freud_lucian</entity>
+        <entity>hirst_damien</entity>
+        <entity>schnabel_julian</entity>
+      </column>
+      <column>
+        <entity>peppiatt_michael</entity>
+        <entity>sylvester_david</entity>
+      </column>
+      <column>
+        <entity>neo_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Crucifixion</title>
+      <year>1933</year>
+      <materials/>
+      <desc>&lt;i&gt;Crucifixion&lt;/i&gt; is the work that first launched Bacon into the public eye, long before the much greater successes of the post-war years. The painting may have been inspired by Rembrandt's &lt;i&gt;Slaughtered Ox&lt;/i&gt; (c.1638), but also by Picasso's Surrealist style perhaps sensing this latter connection, Herbert Read, in his book &lt;i&gt;Art Now&lt;/i&gt;, illustrated Bacon's &lt;i&gt;Crucifixion&lt;/i&gt; adjacent to a Picasso &lt;i&gt;Bather&lt;/i&gt;). The translucent whiteness painted over the bodily frame in &lt;i&gt;Crucifixion&lt;/i&gt; adds a ghostly touch to an already unsettling composition, introducing Bacon's obsession with pain and fear. Exhibited at a time when the horrors of the First World War were still remembered, &lt;i&gt;Crucifixion&lt;/i&gt; spoke of how brutality had changed the world forever. At the time of writing the picture is owned by Damien Hirst, an artist who has acknowledged a large debt to Bacon.</desc>
+      <collection>Murderme Collection, London</collection>
+    </artwork>
+    <artwork>
+      <title>Three Studies for Figures at the Base of a Crucifixion</title>
+      <year>1944</year>
+	  <use_big_image>true</use_big_image>
+      <materials>Oil on board</materials>
+      <desc>&lt;i&gt;Three Studies&lt;/i&gt; launched Bacon's reputation in the mid 1940s and shows the importance of biomorphic Surrealism in forging his early style. Bacon may have originally intended to incorporate the figures in a crucifixion, but his reference to the base of such a composition suggests that he imagined them as part of a predella, the scenes at the bottom of a traditional altarpiece. The twisted bodies are all the more frightening for their vaguely familiar human-like forms, which appear to stretch out toward the viewer in pain and supplication. The perspective lines in the background create a shallow space, alluding to captivity and torture. The figures are based upon the Furies, goddesses of revenge from Greek mythology that play an important role in the &lt;i&gt;Oresteia&lt;/i&gt;, a three-part tragedy by Aeschylus. Bacon may have been drawn to the play's themes of guilt and obsession. The piece profoundly influenced images of the body in post-war British art.</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Painting</title>
+      <year>1946</year>
+      <materials>Oil and pastel on linen</materials>
+      <desc>The layered images of this enigmatic painting blend into each other, giving it a dreamlike (or nightmarish) quality. From the top, the outstretched wings of a bird skeleton seem to be perched upon a hanging carcass, the latter motif influenced, like Bacon's &lt;i&gt;Crucifixion&lt;/i&gt; from 1933, by Rembrandt. In the foreground, a well-dressed man under an umbrella sits in a circular enclosure which might be decorated with more bones and another carcass. The strange, collage-like composition of this work reveals Bacon's method. "The one like a butcher's shop, it came to me as an accident," he once said of the picture. "I was attempting to make a bird alighting on a field. And it may have been bound up in some way with the three forms that had gone before, but suddenly the lines that I'd drawn suggested something totally different, and out of this suggestion rose the picture. I had no intention to do this picture; I never thought of it in that way. It was like one continuous accident mounting on top of another."</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Study after Velazquez's Portrait of Pope Innocent X</title>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Although the figure in this picture derives from a 1650 portrait of &lt;i&gt;Pope Innocent X&lt;/i&gt; by Diego Velázquez, Bacon avoided viewing the original painting, preferring to work from reproductions. Once again, he deploys a cage-like frame that surrounds the pope, but also introduces vertical brushing across the surface of the painting, an element he described as a curtain, relating the figure to a precious object requiring a protected space. However, the linear strokes are destructive to the image, and seem more like the bars of a jail cell. The lines almost seem to vibrate, and complementary shades of purple and yellow add to the tension of the composition.
+				&lt;br/&gt;&lt;br/&gt;
+				About his famous scream, Bacon says, "I didn't do it in the way that I wanted to.... I wanted to make the mouth, with its beauty of its color and everything, look like one of the sunsets or something of Monet." Bacon's own connections to earlier masterpieces are picked up by the reviewer Mary Abbe who wrote: "[F]or all their nastiness and brutality, there is something undeniably beautiful, even serene in these paintings.. Bacon .. achieved a kind of lyricism that makes even his most horrific subjects compatible with the drawing rooms in which many of them hung. Backgrounds of boudoir pink, persimmon, lilac and aqua combine with the calligraphic grace of his fleshy figures in images of stylized elegance."
+			</desc>
+      <collection>Des Moines Art Center, Iowa</collection>
+    </artwork>
+    <artwork>
+      <title>Two Figures</title>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>Due to its homosexual overtones, the inaugural exhibition of &lt;i&gt;Two Figures&lt;/i&gt; caused an uproar. Drawn from studies of anatomical drawings and Eadweard Muybridge's motion photography, &lt;i&gt;Two Figures&lt;/i&gt; is as much an exploration of the body in action as it is a representation of the physical act of love. The two figures entwined in bed are covered by Bacon's "curtain" of striated lines, which both obstructs the view and enhances the movement of the figures. 
+				&lt;br/&gt;&lt;br/&gt;
+	  
+	  Instead of evoking the romance of a nighttime rendezvous, the dark colors of the painting allude to a more sinister encounter. Moreover, it is widely believed that Bacon was a masochist (potentially as a result of his father's early cruelty) and he often painted the abuse that he was exposed to in his aggressive relationships.</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of George Dyer Crouching</title>
+      <year>1966</year>
+      <materials>Oil on canvas</materials>
+      <desc>Bacon was in his 60s when he met the young George Dyer. Their relationship, although romantic, always had the sense of a father-son dynamic. Dyer was constantly in need of attention and reassurance, and the naked embryonic form kneeling precariously on a ledge expresses his vulnerability. The circular sofa, however, surrounds him in a protective embrace. Uncharacteristically, the coloring is light and subdued, although the red and green highlights hint at an inner struggle. Dyer suffered from a lifelong addiction to drugs and alcohol, which is alluded to by the painted figure looking downward into a central abyss.</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="picasso_pablo">The Soup (1902-03)</artwork>
+    <artwork from="artist" page="soutine_chaim">Carcass of Beef (1925)</artwork>
+    <artwork from="artist" page="matisse_henri">Bathers by a River (1917)</artwork>
+  </similar_artworks>
+  <sidebar>
+    <category name="art story website"/>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Francis Bacon: Anatomy of an Enigma</title>
+          <link>1602397627</link>
+          <info>By Michael Peppiatt</info>
+        </entry>
+        <entry recommended="true">
+          <title>Francis Bacon</title>
+          <link>0500202710</link>
+          <info>By John Russell</info>
+        </entry>
+        <entry>
+          <title>The Gilded Gutter Life of Francis Bacon</title>
+          <link>0679426329</link>
+          <info>By Daniel Farson</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art</title>
+          <link>0812985079</link>
+          <info>By Sebastian Smee</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="written-by">
+        <entry recommended="true">
+          <title>Interviews with Francis Bacon: The Brutality of Fact</title>
+          <link>0500274754</link>
+          <info>By David Sylvester</info>
+        </entry>
+        <entry>
+          <title>Francis Bacon: In Coversation with Michel Archimbaud</title>
+          <link>0714829838</link>
+          <info>By Michel Archimbaud</info>
+        </entry>
+      </subcategory>
+      <subcategory name="works" class="biography">
+        <entry>
+          <title>Francis Bacon</title>
+          <link>0847832759</link>
+          <info>Edited by Matthew Gale and Chris Stephens</info>
+        </entry>
+        <entry>
+          <title>Francis Bacon: Commitment And Conflict</title>
+          <link>3791334727</link>
+          <info>By Wieland Schmied</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Estate of Francis Bacon</title>
+          <link>http://www.francis-bacon.com/</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Sacred Monster</title>
+          <link>http://nymag.com/arts/art/profiles/56786/</link>
+          <info>
+						By Jerry Saltz
+						&lt;br/&gt;
+						New York Magazine
+						&lt;br/&gt;
+						May 17, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Francis Bacon: behind the myth</title>
+          <link>http://www.telegraph.co.uk/culture/art/3558531/Francis-Bacon-behind-the-myth.html</link>
+          <info>
+						By Rebecca Daniels
+						&lt;br/&gt;
+						The Telegraph
+						&lt;br/&gt;
+						August 16, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>The Dualist: Francis Bacon</title>
+          <link>http://www.artinamericamagazine.com/features/the-dualist-francis-bacon-archive/</link>
+          <info>
+						By David Cohen
+						&lt;br/&gt;
+						Art in America
+						&lt;br/&gt;
+						January 1, 1997
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Audio clips of Francis Bacon from the BBC Archive</title>
+          <link>http://www.bbc.co.uk/archive/bacon/</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Francis Bacon and the Brutality of Fact</title>
+          <link>https://www.youtube.com/watch?v=-jkTNVvXipM</link>
+          <info>Trailer for Michael Blackwood's professional documentary of the artist</info>
+        </entry>
+        <entry recommended="true">
+          <title>Francis Bacon documentary by David Hinton</title>
+          <link>http://www.ubu.com/film/bacon.html</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>How Christopher Nolan Was Inspired by Francis Bacon</title>
+          <link>https://www.youtube.com/watch?v=MgrO5za0lSY</link>
+          <info>Tate productions: film director Christopher Nolan reveals how paintings by artist Francis Bacon inspired the Joker's smeared make-up in 'The Dark Knight'.</info>
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>"Love Is the Devil" is a 1998 biopic that focuses on Bacon's relationship with George Dyer</title>
+          <link>http://www.imdb.com/title/tt0119577/</link>
+          <info>Directed by John Maybury, the movie is based on "The Gilded Gutter Life of Francis Bacon" by Daniel Farson</info>
+        </entry>
+        <entry>
+          <title>Album Cover</title>
+          <link>http://www.metal-archives.com/release.php?id=277552</link>
+          <info>Prosanctus Inferi, a death metal band, uses a detail of Francis Bacon work Head I for the cover of their 2010 album, "Pandemonic Ululations of Vesperic Palpitation."</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item>4149626</a_item>
+      <a_image>http://imagecache6.allposters.com/LRG/30/3001/B5BBF00Z.jpg</a_image>
+      <a_name>Self-Portrait</a_name>
+    </poster>
+    <poster>
+      <a_item>4911825</a_item>
+      <a_image>http://imagecache6.allposters.com/LRG/36/3627/CQJEF00Z.jpg</a_image>
+      <a_name>Study of Henrietta</a_name>
+    </poster>
+  </posters>
+</data>

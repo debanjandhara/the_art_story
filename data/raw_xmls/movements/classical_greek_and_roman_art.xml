@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>classical_greek_and_roman_art</id>
+    <name>Classical Greek and Roman Art and Architecture</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>8th Century BCE - 393 CE</years>
+    <title>Greek and Roman Art and Architecture</title>
+    <bio_title>Classical Art and Architecture - History+</bio_title>
+    <art_title>Classical Art and Architecture - Top Works</art_title>
+    <description>Classical art and architecture encompasses the cultures of Greece and Rome and endures as the cornerstone of Western civilization.</description>
+    <art_description>Famous sculptures and architecture of the Greek and Roman period with analysis and  achievements. Including Venus de Milo, Winged Victory, Laocoön+</art_description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>8th Century BCE</start>
+    <end>393 CE</end>
+    <art_type>Art</art_type>
+    <pub_time>10/11/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>rodin_auguste</artist>
+    <artist>david_jacques_louis</artist>
+    <artist>picasso_pablo</artist>
+    <artist>de_chirico_giorgio</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>aegean_art</movement>
+    <movement>neoclassicism</movement>
+    <movement>interwar_classicism</movement>
+    <movement>early_renaissance</movement>
+    <movement>high_renaissance</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>neoclassicism</entry>
+    <entry>early_renaissance</entry>
+    <entry>interwar_classicism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" alt="Emperor Augustus" author="augustus">"I found Rome a city of bricks and left it a city of marble."</q>
+    <q author="Plato">"Art has no end but its own perfection."</q>
+    <q author="Aristotle">"The aim of art is to represent not the outward appearance of things, but their inward significance."</q>
+    <q author="Aristotle">"Art is identical with a state of capacity to make, involving a true course of reasoning."</q>
+    <q author="Aristotle">"Art not only imitates nature, but also completes its deficiencies."</q>
+    <q author="Socrates">"The statue must render the action of the soul equally with bodily form"</q>
+    <q author="Virgil">"In the conquest of the Greeks they in return conquered the conquerors."</q>
+    <q author="Percy Bysshe Shelley">"We are all Greeks. Our laws, our literature, our religion, our arts have their root in Greece."</q>
+    <q author="Protagoras">"Man is the measure of all things."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Classical Art encompasses the cultures of Greece and Rome and endures as the cornerstone of Western civilization. Including innovations in painting, sculpture, decorative arts, and architecture, Classical Art pursued ideals of beauty, harmony, and proportion, even as those ideals shifted and changed over the centuries. While often employed in propagandistic ways, the human figure and the human experience of space and their relationship with the gods were central to Classical Art.
+			&lt;br/&gt;&lt;br/&gt;
+			Over the span of almost 1200 years, ideals of human beauty and proportion occupied art's subject. Variations of those ideals were later adopted during the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; in Italy and again during the 18&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; century &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassical&lt;/span&gt; trend throughout Europe. Connotations of moral virtue and stability clung to Classical Art, making it attractive to new nations and republics trying to find an aesthetic vocabulary to convey their power, while, later, in the 20&lt;sup&gt;th&lt;/sup&gt; century it came under attack by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modern artists&lt;/span&gt; who sought to disrupt and overturn power and traditional ideals.
+		</synopsys>
+    <key_ideas>
+      <idea>The idealized human form soon became the noblest subject of art in Greece and was the foundation for a standard of beauty that dominated many centuries of Western art. The Greek ideal of beauty was grounded in a canon of proportions, based on the golden ratio and the ratio of lengths of body parts to each other, which governed the depictions of male and female figures.</idea>
+      <idea>While ideal proportions were paramount, Classical Art strove for ever greater realism in anatomical depictions. This realism also came to encompass emotional and psychological realism that created dramatic tensions and drew in the viewer.</idea>
+      <idea>Greek temple designs started simply and evolved into more complex and ornate structures, but later architects translated the symmetrical design and columned exterior into a host of governmental, educational, and religious buildings over the centuries to convey a sense of order and stability.</idea>
+      <idea>Perhaps a coincidence, but just as increased archaeological digs turned up numerous examples of Greek and Roman art, the field of art history was being developed as a scientific course of study by the likes of Johann Winkelmann. Winkelmann, often considered the father of art history, based his theories of the progression of art on the development of Greek art, which he largely knew only from Roman copies. Since the middle of the 18&lt;sup&gt;th&lt;/sup&gt; century, art historical and classical tradition have been intimately entwined.</idea>
+      <idea>While Greek and Roman sculpture and ruins are linked with the purity of white marble in the Western mind, most of the works were originally polychrome, painted in multiple, lifelike colors. 18&lt;sup&gt;th &lt;/sup&gt;century excavations unearthed a number of sculptures with traces of color, but noted art historians dismissed the findings as anomalies. It was only in the late 20&lt;sup&gt;th&lt;/sup&gt; century that scholars accepted that life-size statues and entire temple friezes were, in fact, brightly painted with numerous colors and decorations, raising many new questions about the assumptions of Western art history and revealing that centuries of classical imitations were not in fact imitations but rather based on nostalgic ideals of the past.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Mycenaean Influences 1600-1100 BCE">
+          <p type="img" alt="&lt;i&gt;The Mask of Agamemnon&lt;/i&gt; (1550-1500 BCE) was discovered in 1876 at Mycenae by the archeologist Heinrich Schliemann, who, trying to prove the historical accuracy of ancient accounts of the Trojan War, identified the gold &lt;i&gt;repoussé&lt;/i&gt; death mask as that of the tragic Greek king." show="1">/images20/photo/photo_classical_greek_and_roman_art_1.jpg</p>
+          <p type="p">Considered the first Greeks, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aegean_art"&gt;the Mycenaeans&lt;/span&gt; had a lasting influence on later Greek art, architecture, and literature. A bronze age civilization that extended through modern day southern Greece as well as coastal regions of modern day Turkey, Italy, and Syria, Mycenaea was an elite warrior society dominated by palace states. Divided into three classes - the king's attendants, the common people, and slaves - each palace state was ruled by a king with military, political, and religious authority. The society valorized heroic warriors and made offerings to a pantheon of gods. In later Greek literature, including Homer's &lt;i&gt;The Iliad&lt;/i&gt; and &lt;i&gt;The Odyssey&lt;/i&gt;, the exploits of these warriors and gods engaged in the Trojan War had become legendary and, in fact, appropriated by later Greeks as their founding myths.</p>
+          <p type="img" alt="The Lion Gate (1250 BCE) at the entrance to a citadel in Mycenae exemplifies Cyclopean masonry and is the only surviving large scale Mycenaean sculpture." show="1">/images20/photo/photo_classical_greek_and_roman_art_2.jpg</p>
+          <p type="p">Agriculture and trade were the economic engines driving Mycenaean expansion, and both activities were enhanced by the engineering genius of the Mycenaeans, as they constructed harbors, dams, aqueducts, drainage systems, bridges, and an extended network of roads that remained unrivaled until the Roman era. Innovative architects, they developed Cyclopean masonry, using large boulders, fit together without mortar, to create massive fortifications. The name for Cyclopean stonework came from the later Greeks, who believed that only the Cyclops, fierce one-eyed giants of myth and legend, could have lifted the stones. To lighten the heavy load above gates and doorways, the Mycenaeans also invented the relieving triangle, a triangular space above the lintel that was left open or filled with lighter materials.</p>
+          <p type="img" alt="This fragment of a fresco (13&lt;sup&gt;th&lt;/sup&gt; century BCE) from the acropolis of Mycenae may depict a goddess or a priestess." show="1">/images20/photo/photo_classical_greek_and_roman_art_3.jpg</p>
+          <p type="p">The Mycenaeans first developed the acropolis, a fortress or citadel, built on a hill that characterized later Greek cities. The king's palace, centered on a &lt;i&gt;megaron&lt;/i&gt;, or circular throne room with four columns, was decorated with vividly colored frescoes of marine life, battle, processions, hunting, and gods and goddesses.</p>
+          <p type="img" alt="This bust of Homer, a Roman copy of a 2&lt;sup&gt;nd&lt;/sup&gt; century BCE Greek original, shows the epic poet who, according to legend, was blind." show="1">/images20/photo/photo_classical_greek_and_roman_art_4.jpg</p>
+          <p type="p">Scholars still debate how the Mycenaean civilization declined, and theories include invasions, internal conflict, and natural disasters. The era was followed by what has been called the Greek Dark Ages, though it is also known as the Homeric Age and the Geometric period. The term Homeric Age refers to Homer whose poems narrated the Trojan War and its aftermath. The term Geometric period refers to the era's style of vase painting, which primarily employed geometric motifs and patterns.</p>
+        </subsection>
+        <subsection title="Greek Archaic Period 776-480 BCE">
+          <p type="img" alt="This amphora (c 570-565 BCE) shows a number of warriors in combat depicted in the black-figure style." show="1">/images20/photo/photo_classical_greek_and_roman_art_5.jpg</p>
+          <p type="p">The Archaic Period began in 776 BCE with the establishment of the Olympic Games. Greeks believed that the athletic games, which emphasized human achievement, set them apart from "barbarian," non-Greek peoples. The Greeks' valorization of the Mycenaean era as a heroic golden age led them to idealize male athletes, and the male figure became dominant subjects of Greek art. The Greeks felt that the male nude showed not only the perfection and beauty of the body but also the nobility of character.</p>
+          <p type="p">The Greeks developed a political and social structure based upon the polis, or city-state. While Argus was a leading center of trade in the early part of the era, Sparta, a city state that emphasized military prowess, grew to be the most powerful. Athens became the pioneering force in the art, culture, science, and philosophy that became the basis of Western civilization. Though the era was dominated by the rule of tyrants, Solon, a philosopher king, became the ruler of Athens around 594 BCE and established notable reforms. He created the Council of Four Hundred, a body that could question and challenge the king, ended the practice of putting people into slavery for their debts, and established a ruling class based on wealth rather than descent. Extensive sea-faring trade drove the Greek economy, and Athens, along with other city-states, began establishing trading posts and settlements throughout the Mediterranean. As a result of these forays, Greek cultural values spread to other cultures, including the Etruscans in southern Italy, influencing and co-mingling with them.</p>
+          <p type="img" alt="&lt;i&gt;New York Kouros&lt;/i&gt; (c. 598-580 BCE), so dubbed for its being housed in the Metropolitan Museum of Art, follows the rules of proportion for the human figure, as well as the frontal facing pose, established by the Egyptians, while showing the Greek tendency toward more realistic anatomical modeling and the suggestion of movement." show="1">/images20/photo/photo_classical_greek_and_roman_art_6.jpg</p>
+          <p type="p">Figurative sculpture was the greatest artistic innovation of the Archaic period as it emphasized realistic, though idealized, figures. Influenced by Egyptian sculpture, the Greeks transformed the frontal poses of pharaohs and other notables into works known as &lt;i&gt;kouros&lt;/i&gt; (young men) and &lt;i&gt;kore&lt;/i&gt; (young women), life-sized sculptures that were first developed in the Cyclades islands in the 7&lt;sup&gt;th&lt;/sup&gt; century BCE. During the late Archaic period, individual sculptors, including Antenor, Kritios, and Nesiotes, were celebrated, and their names preserved for posterity.</p>
+          <p type="img" alt="This Roman marble statue group is a copy of &lt;i&gt;The Tyrannicides&lt;/i&gt; by Kritios and Nesioes (c. 477 BCE)" show="1">/images20/photo/photo_classical_greek_and_roman_art_7.jpg</p>
+          <p type="p">The late Archaic period was marked by new reforms, as the Athenian lawgiver Cleisthenes established new policies in 508BC that led to him being dubbed "the father of democracy." To celebrate the end of the rule of tyrants, he commissioned the sculptore Antenor to complete a bronze statue, &lt;i&gt;The Tyrannicides&lt;/i&gt; (510 BCE), depicting Harmonides and Aristogeion, who had assassinated Hipparchos, the brother of the tyrant Hippias, in 514 BCE. Though the two were executed for the crime, they became symbols of the movement toward democracy that led to the expulsion of Hippias four years later and were considered to be the only contemporary Greeks worthy enough to be granted immortality in art. The commission of Antenor's work was the first public funded art commission, and the subject was so resonant that, when Antenor's work was taken during the 483 BCE Persian invasion, Kritios was commissioned to create a replacement. Kritios's &lt;i&gt;The Tyrannicides&lt;/i&gt; (c. 477 BCE) developed what has been called the severe style, or the Early Classical style, as he depicted realistic movement and individual characterization, which had a great influence on subsequent sculpture.</p>
+        </subsection>
+        <subsection title="Classical Greece 480-323 BCE">
+          <p type="img" alt="This Roman bust with the inscription “Pericles, son of Xanthippus, Athenian,” is a copy of a Greek original (c. 430 BCE)." show="1">/images20/photo/photo_classical_greek_and_roman_art_8.jpg</p>
+          <p type="p">Classical Greece, also known as the Golden Age, became fundamental both to the later Roman Empire and western civilization, in philosophy, politics, literature, science, art, and architecture. The great Greek historian of the era Thucydides, called the general and populist statesman Pericles "Athens's first citizen." Equal rights for citizens (which only meant adult Greek males), democracy, freedom of speech, and a society ruled by an assembly of citizens defined Greek government. Pericles launched the rebuilding of the Parthenon (447-432 BCE) in Athens, a project overseen by his friend, the sculptor Phidias, and established Athens as the most powerful city state, expanding its influence throughout the Mediterranean region.</p>
+          <p type="img" alt="Raphael's &lt;i&gt;The School of Athens&lt;/i&gt; (1511), a famous Renaissance fresco, shows the long lasting influence and importance of the Greek philosophers, as Aristotle and Plato are depicted at the center." show="1">/images20/photo/photo_classical_greek_and_roman_art_9.jpg</p>
+          <p type="p">The Classical era also saw the establishment of Western philosophy in the teachings and writings of Socrates, Plato, and Aristotle. The philosophy of Socrates survived through Plato's written accounts of his teacher's dialogues, and Plato went on to found the Academy in Athens around 387 BCE, an early prototype of all later academies and universities. Many leaders studied at the Academy, including most notably Aristotle, and it became a leading force known throughout the world for the importance of scientific and philosophical inquiry based upon the belief in reason and knowledge. While their philosophies diverged in key respects, Plato and Aristotle concurred in seeing art as an imitation of nature, aspiring to the beautiful.</p>
+          <p type="img" alt="This Roman copy depicts Praxiteles's &lt;i&gt;Aphrodite of Knidos&lt;/i&gt; (4&lt;sup&gt;th&lt;/sup&gt; century BCE), the first life-sized Greek female nude." show="1">/images20/photo/photo_classical_greek_and_roman_art_10.jpg</p>
+          <p type="p">Additionally, the emphasis on individuality resulted in a more personalized art, and individual artists, including Phidias, Praxiteles, and Myron, became celebrated. Funerary sculpture began depicting real people (instead of idealized types) with emotional expression, while at the same time, bronze works idealized the human form, particularly the male nude. Praxiteles, though, pioneered the female nude in his &lt;i&gt;Aphrodite of Knidos&lt;/i&gt; (4th century BCE), a work that has been referenced time and time again in the ensuing centuries.</p>
+        </subsection>
+        <subsection title="Hellenistic Greek 323-31 BCE">
+          <p type="p">The death of Alexander the Great in 323 BCE marked the beginning of the Hellenistic period. Having amassed a vast empire beyond Greece that included parts of Asia, North Africa, Europe and not having named a successor instigated a war between Alexander's generals for control of his empire, and local leaders jockeyed to regain control of their regions. Eventually, three generals agreed to a power-sharing relationship and carved the Greek empire into three different regions. While the mainland Greek cultural influence declined, Alexandria in Egypt and Antioch in modern day Syria became important centers of Hellenistic culture. Many Greeks emigrated to other parts of the fractured empire, "Hellenizing the world," as art historian John Griffiths Pedley wrote.</p>
+          <p type="img" alt="This Roman marble copy was based upon &lt;i&gt;Eros Stringing a Bow&lt;/i&gt;, a 4&lt;sup&gt;th-&lt;/sup&gt;century bronze by Lysippus." show="1">/images20/photo/photo_classical_greek_and_roman_art_11.jpg</p>
+          <p type="p">Despite the splintering of the empire, great wealth led to royal patronage of the arts, particularly in sculpture, painting, and architecture. Alexander the Great's official sculptor had been Lysippus who, working in bronze after Alexander's death, created works that marked a transition from the Classical to the Hellenistic style. Some of the most famous works of Greek art, including the &lt;i&gt;Venus de Milo&lt;/i&gt; (130-100 BCE) and the &lt;i&gt;Winged Victory of Samothrace&lt;/i&gt; (200-190 BCE) were created in the era.</p>
+          <p type="img" alt="This photograph depicts a partial view of the &lt;i&gt;Pergamon Altar&lt;/i&gt; (c. 166-156 BCE). It was reconstructed in 1930 in the Pergamon Museum in Berlin." show="1">/images20/photo/photo_classical_greek_and_roman_art_12.jpg</p>
+          <p type="p">Architecture turned toward urban planning, as cities created complex parks and theaters for leisure. Temples took on colossal proportions, and the architectural style employed the Corinthian order, the most decorative of Classical orders. Pergamon became a vital center of culture, known for its colossal complexes, as exemplified by in the &lt;i&gt;Pergamon Altar&lt;/i&gt; (c. 166-156 BCE) with its extensive and dramatic friezes. During the Hellenistic period, the Greeks gradually fell to the rule of the Roman Republic, as Rome conquered Macedonia in the Battle of Corinth in 146 BCE. Upon his death in 133 BCE, King Attalus III left the Kingdom of Pergamon to the Romans. Though Greek rebellions followed, they were crushed in the following century.</p>
+        </subsection>
+        <subsection title="Roman Republic 509 BCE - 26 CE">
+          <p type="img" alt="Rembrandt's &lt;i&gt;Lucretia&lt;/i&gt; (1664) depicts the tragic account of Lucretia's suicide that led to the founding of the Roman Republic." show="1">/images20/photo/photo_classical_greek_and_roman_art_13.jpg</p>
+          <p type="p">Rome began as a city-state ruled by kings, who were elected by the nobleman of the Roman Senate, and then became a Republic when Lucius Tarquinii Superbus, the last king, was expelled in 509BC. Because his son had raped Lucretia, a married noblewoman, who took her own life, Tarquinii was deposed by her husband, her father, and Lucius Junius Brutus, Tarquinii's nephew. The story became both part of Roman history and a subject depicted in art throughout the following centuries.</p>
+          <p type="img" alt="This photograph shows Paul Bigot's contemporary model of Rome, showing the Circus Maximus, first developed in the 6&lt;sup&gt;th&lt;/sup&gt; century BCE, at the left, the Colosseum at the far right, and the urban grid planning of Rome, including blocks of apartment buildings." show="1">/images20/photo/photo_classical_greek_and_roman_art_14.jpg</p>
+          <p type="p">With the kingship abolished, the Republic was established with a new system of government led by two consuls. As the patricians, the upper class who governed Rome, were often in conflict with the plebeians, or common people, an emphasis was put upon city planning, including apartment buildings called &lt;i&gt;insulae&lt;/i&gt; and public entertainments that featured gladiator fights and horse races to keep the people happy, a type of rule that the Roman poet Juvenal described as "bread and circuses." Cities were planned on a grid system, while architecture and engineering projects were transformed by the development of concrete in the 3&lt;sup&gt;rd&lt;/sup&gt; century. Rome was primarily a military state, frequently at war with neighboring tribes in Italy at the beginning. Various military campaigns resulted in the conquest and destruction of Carthage, a North African kingdom, in three Punic wars, the conquest of the Macedonia and its eastern territories, and Greece in the 2&lt;sup&gt;nd&lt;/sup&gt; century BCE resulted in geographically expansive empire.</p>
+          <p type="img" alt="The &lt;i&gt;Tusculum portrait&lt;/i&gt; (40-50 BCE), a copy of a bronze original, is a rare portrait of Julius Caesar created in his lifetime." show="1">/images20/photo/photo_classical_greek_and_roman_art_15.jpg</p>
+          <p type="p">Roman culture adopted many of the myths, gods, and heroic stories of the Greeks, while emphasizing their own tradition of the &lt;i&gt;mas majorum&lt;/i&gt;, the way of the ancestors, a kind of contractual obligation with the gods and the founding fathers of Rome. Greek works, taken as spoils of war, were extensively copied and displayed in Roman homes and became a primary influence upon Roman art and architecture. The rise of Julius Caesar, following his triumph over the Gauls in northern Europe, marked the end of the Republic, as he was assassinated in 44 BCE by a number of senators in order to prevent him being declared emperor. His death plunged the Republic into a civil war, fought by his former general Marc Antony allied with Cleopatra, queen of Egypt, against the forces of Pompeius and the forces of Caesar's great nephew and heir, Octavian.</p>
+        </subsection>
+        <subsection title="Imperial Rome 27 BCE - 393 CE">
+          <p type="img" alt="Angelica Kauffman's &lt;i&gt;Virgil reading the Aeneid to Augustus and Octavia&lt;/i&gt; (1788) is a Neoclassical treatment that depicts the Emperor and his sister Octavia, who has fainted following Virgil's reading of the part of the &lt;i&gt;Aeneid&lt;/i&gt; that honored her dead son Marcellus." show="1">/images20/photo/photo_classical_greek_and_roman_art_16.jpg</p>
+          <p type="p">While the assassins may have staved off the crowning of Caesar as emperor, eventually an emperor was named. Imperial Rome begins with the crowning of Octavian as the first emperor, who came to be known as Augustus. In his almost forty-five year reign, he transformed the city, establishing public services, including the first police force, fire fighting force, postal system, and municipal offices, while creating revenue and taxation systems that were the blueprint for the Empire in the following centuries. He also launched a new building program that included temples and notable public buildings, and he transformed the arts, commissioning works like the &lt;i&gt;Augustus of Prima Porta&lt;/i&gt; (1&lt;sup&gt;st&lt;/sup&gt; century CE) that depicted him as an ideal leader in a classical style that harkened back to Greece. He also commissioned &lt;i&gt;The Aeneid&lt;/i&gt; (29-19 BCE) an epic poem by the poet Virgil that defined Rome and became a canonical work of Western literature. The poem described the mythical founding of Rome, relating the journey of Aeneas, the son of Venus and Prince of Troy, who fled the Sack of Troy to arrive in Italy, where, fighting and defeating the Etruscan rulers, he founded Rome.</p>
+          <p type="p">The Imperial era was defined by the monumental grandeur of its architecture and its luxurious lifestyle, as wealthy residences were lavishly decorated with colorful frescoes, and the upper class, throughout the Empire, commissioned portraits. The Empire ended with the Sack of Rome in 393 CE, though by that time, its power had already declined, due to increasingly capricious emperors, internal conflict, and rebellion in its provinces. The conversion of Emperor Constantine to Christianity and the moving of the imperial capital from Rome to Constantinople in 313 CE established the rising power of the Byzantine Empire.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="The Golden Ratio">
+          <p type="img" alt="This &lt;i&gt;Bust of Socrates&lt;/i&gt; is believed to be a 1&lt;sup&gt;st&lt;/sup&gt; century CE Roman copy of the original 4&lt;sup&gt;th&lt;/sup&gt; century BCE bronze by Lysippus." show="1">/images20/photo/photo_classical_greek_and_roman_art_17.jpg</p>
+          <p type="p">The Greeks believed that truth and beauty were closely associated, and noted philosophers understood beauty in largely mathematical terms. Socrates said, "Measure and proportion manifest themselves in all areas of beauty and virtue," and Aristotle advocated for the golden mean, or the middle way, that led to a virtuous and heroic life by avoiding extremes. For the Greeks, beauty derived from the combination of symmetry, harmony, and proportion. The golden ratio, a concept based on the proportions between two quantities, as defined by the mathematicians Pythagoras (6&lt;sup&gt;th&lt;/sup&gt; century BCE) and Euclid (323-283 BCE), was thought to be the most beautiful proportion. The golden ratio indicates that the ratio between two quantities is the same as the ratio between the larger of the two and their sum. The Parthenon (447-432 BCE) employed the golden ratio in its design and was fêted as the most perfect building imaginable. Because the artist Phidias oversaw the building of the temple, the golden ratio became commonly known by the Greek letter &lt;i&gt;phi&lt;/i&gt;, in honor of Phidias. The golden ratio had a noted impact on later artists and architects, influencing the Roman architect Vitruvius, whose principles informed the Renaissance, as seen in the work and theory of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-alberti_leon_battista"&gt;Leon Battista Alberti&lt;/span&gt;, and modern architects, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Greek Architecture">
+          <p type="img" alt="This image from &lt;i&gt;The Eastern Nations and Greece&lt;/i&gt; (1917) illustrates the Doric, Ionic, and Corinthian orders, from left to right." show="1">/images20/photo/photo_classical_greek_and_roman_art_18.jpg</p>
+          <p type="p">Best known for its temples, using a rectangular design framed by colonnades open on all sides, Greek architecture emphasized formal unity. The building became a sculptural presence on a high hill, as art historian Nikolaus Pevsner wrote, "The plastic shape of the [Greek] temple ... placed before us with a physical presence more intense, more alive than that of any later building."</p>
+          <p type="p">The Greeks developed the three orders - the Doric, the Ionic, and the Corinthian - which became part of the fundamental architectural vocabulary of Rome and subsequently much of Europe and the United States. Developed in different parts of Greece and at different times, the distinction between the orders is primarily based upon the differences between the columns themselves, their capitals, and the entablature above them. The Doric order is the simplest, using smooth or fluted columns with circular capitals, while the entablature features add a more complex decorative element above the simple columns. The Ionic column uses &lt;i&gt;volutes&lt;/i&gt;, from the Latin word for scroll, as a decorative element at the top of the capital, and the entablature is designed so that a narrative frieze extends the length of the building. The late Classical Corinthian order, named for the Greek city of Corinth, is the most decorative, using elaborately carved capitals with an acanthus leaf motif.</p>
+          <p type="img" alt="Polycleitus the Younger, the son of the noted sculptor Polycleitus, designed the ancient Greek theater (4th century BCE) at Epidauros." show="1">/images20/photo/photo_classical_greek_and_roman_art_19.jpg</p>
+          <p type="p">Originally, Greek temples were often built with wood, using a kind of post and beam construction, though stone and marble were increasingly employed. The first temple to be built entirely of marble was the Parthenon (447-432 BCE). Greek architecture also pioneered the amphitheater, the &lt;i&gt;agora&lt;/i&gt;, or public square surrounded by a colonnade, and the stadium.The Romans appropriated these architectural structures, creating monumental amphitheaters and revisioning the &lt;i&gt;agora&lt;/i&gt; as the Roman forum, an extensive public square that featured hundreds of marble columns.</p>
+        </subsection>
+        <subsection title="Roman Architecture and Engineering">
+          <p type="img" alt="The Colosseum (72-80 CE), one of the most famous of Roman structures, could hold up to 60,000 spectators for the gladiatorial games and animal hunts staged there." show="1">/images20/photo/photo_classical_greek_and_roman_art_20.jpg</p>
+          <p type="p">Roman architecture was so innovative that it has been called the Roman Architectural Revolution, or the Concrete Revolution, based on its invention of concrete in the 3&lt;sup&gt;rd&lt;/sup&gt; century. The technological development meant that the form of a structure was no longer constrained by the limitations of brick and masonry and led to the innovative employment of the arch, the barrel vault, the groin vault, and the dome. These new innovations ushered in an age of monumental architecture, as seen in the Colosseum and civil engineering projects, including aqueducts, apartment buildings, and bridges. The Romans, as architectural historian D.S. Robertson wrote, "were the first builders in Europe, perhaps the first in the world, fully to appreciate the advantages of the arch, the vault and the dome." They pioneered the segmental arch - essentially a flattened arch, used in bridges and private residences - the extended arch, and the triumphal arch, which celebrated the emperors' great victories. But it was their employment of the dome that had the most significant impact on Western civilization. Though influenced by the Etruscans, particularly in their use of arches and hydraulic techniques, and the Greeks, Romans still used columns, porticos, and entablatures even when technological innovations no longer required them structurally.</p>
+          <p type="img" alt="Leonardo da Vinci's &lt;i&gt;Vitruvian Man&lt;/i&gt; (1490) was based upon the human proportions derived by Vitruvius." show="1">/images20/photo/photo_classical_greek_and_roman_art_21.jpg</p>
+          <p type="p">Though little is known of his life beyond his work as a military engineer for Emperor Augustus, Vitruvius was the most noted Roman architect and engineer, and his &lt;i&gt;De architectura&lt;/i&gt; (&lt;i&gt;On Architecture&lt;/i&gt;) (30-15 BCE), known as &lt;i&gt;Ten Books on Architecture&lt;/i&gt;, became a canonical work of subsequent architectural theory and practice. His treatise was dedicated to Emperor Augustus, his patron, and was meant to be a guide for all manner of building projects. His work described town planning, residential, public, and religious building, as well as building materials, water supplies and aqueducts, and Roman machinery, such as hoists, cranes, and siege machines. As he wrote, "Architecture is a science arising out of many other sciences, and adorned with much and varied learning." His belief that a structure should have the qualities of stability, unity, and beauty became known as the Vitruvian Triad. He saw architecture imitating nature in its proportionality and ascribed this proportionality to the human form as well, famously expressed later in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci's&lt;/span&gt; &lt;i&gt;Vitruvian Man&lt;/i&gt; (1490).</p>
+        </subsection>
+        <subsection title="Vase Painting">
+          <p type="img" alt="The Hirschfeld Krater (mid-8th century BCE), showing a scene of a procession carrying a body to the tomb, exemplifies a late Geometric work." show="1">/images20/photo/photo_classical_greek_and_roman_art_22.jpg</p>
+          <p type="p">Vase painting was a noted element of Greek art and provides the best example of how Greek painting focused primarily on portraying the human form and evolved toward increased realism. The earliest style was geometric, employing patterns influenced by Mycenaean art, but quickly turned to the human figure, similarly stylized. An "Orientalizing" period followed, as Eastern motifs, including the sphinx, were adopted to be followed by a black figure style, named for its color scheme, that used more accurate detail and figurative modeling.</p>
+          <p type="img" alt="The Andokides painter's &lt;i&gt;Heracles and Athena&lt;/i&gt; on an Attic amphora (520-510 BCE) is a masterwork of red figure vase painting that depicts a highly detailed and realistic mythological scene." show="0">/images20/photo/photo_classical_greek_and_roman_art_23.jpg</p>
+          <p type="p">The Classical era developed the red figure style of vase painting, which created the figures by strongly outlining them against a black background and allowed for their details to be painted rather than incised into the clay. As a result, variations of color and of line thickness allowed for more curving and rounded shapes than were present in the Geometric style of vases.</p>
+        </subsection>
+        <subsection title="Greek and Roman Painting">
+          <p type="img" alt="&lt;i&gt;Hades Abducting Persephone&lt;/i&gt; (4&lt;sup&gt;th&lt;/sup&gt; century BCE) portrays the god of the underworld in his chariot, abducting Persephone, while a woman at the lower right looks up in horror." show="1">/images20/photo/photo_classical_greek_and_roman_art_24.jpg</p>
+          <p type="p">While Classical Art is noted primarily for its sculpture and architecture, Greek and Roman artists made innovations in both fresco and panel painting. Most of what is known of Greek painting is ascertained primarily from painting on pottery and from Etruscan and later Roman murals, which are known to have been influenced by Greek artists and, sometimes, painted by them, as the Greeks established settlements in Southern Italy where they introduced their art. &lt;i&gt;Hades Abducting Persephone (4&lt;/i&gt;&lt;sup&gt;th&lt;/sup&gt; century BCE) in the Vergina tombs in Macedonia is a rare example of a Classical era mural painting and shows an increased realism that parallels their experiments in sculpture.</p>
+          <p type="img" alt="This fresco from the Villa of Mysteries (80 BCE) is believed to depict a religious rite, as women or the Bacchae, worshipped the god Dionysius." show="1">/images20/photo/photo_classical_greek_and_roman_art_25.jpg</p>
+          <p type="p">Roman panel and fresco paintings survived in greater number than Greek paintings. The 1748 excavation of Pompeii, a Roman city that was buried almost instantaneously in the eruption of Mount Vesuvius in 79 CE, led to the groundbreaking discovery of many relatively well-preserved frescos in noted Roman residences, including the House of the Vettii, the Villa of Mysteries, and the House of the Tragic Poet. Fresco paintings brought a sense of light, space, and color into interiors that, lacking windows, were often dark and cramped. Preferred subjects included mythological accounts, tales from the Trojan war, historical accounts, religious rituals, erotic scenes, landscapes, and still lifes. Additionally, walls were sometimes painted to resemble brightly colored marble or alabaster panels, enhanced by illusionary beams or cornices.</p>
+        </subsection>
+        <subsection title="Greek Sculpture">
+          <p type="img" alt="This &lt;i&gt;kouros&lt;/i&gt;, named the “Strangford Apollo” (510-500 BCE) for the British Viscount who owned it and identified with the Greek god, may represent a noted athlete or an ideal type." show="1">/images20/photo/photo_classical_greek_and_roman_art_26.jpg</p>
+          <p type="p">Influenced by the Egyptians, the Greeks in the Archaic period began making life-sized sculptures, but rather than portraying pharaohs or gods, Greek sculpture largely consisted of &lt;i&gt;kouroi&lt;/i&gt;, of which there were three types - the nude young man, the dressed and standing young woman, and a seated woman. Famous for their smiling expressions, dubbed the "Archaic smile", the sculptures were used as funerary monuments, public memorials, and votive statues. They represented an ideal type rather than a particular individual and emphasized realistic anatomy and human movement, as &lt;i&gt;New York Times&lt;/i&gt; art critic Alastair Macaulay wrote, "The kouros is timeless; he might be about to breathe, move, speak."</p>
+          <p type="img" alt="This Roman bronze is a smaller copy of Myron's &lt;i&gt;Discobolos&lt;/i&gt; (460-450BC), which is, in the words of art historian Kenneth Clark, “the enduring pattern of athletic energy.”" show="1">/images20/photo/photo_classical_greek_and_roman_art_27.jpg</p>
+          <p type="p">In the late Archaic period a few sculptors like Kritios became known and celebrated, a trend which became even more predominant during the Classical era, as Phidias, Polycleitus, Myron, Scopas, Praxiteles, and Lysippus became legendary. Myron's &lt;i&gt;Discobolos&lt;/i&gt;, or "discus thrower," (460-450 BCE) was credited as being the first work to capture a moment of harmony and balance. Increasingly, artists focused their attention on a mathematical system of proportions that Polycleitus described in his &lt;i&gt;Canon of Polycleitus&lt;/i&gt; and emphasized symmetry as a combination of balance and rhythm. Polycleitus created &lt;i&gt;Doryphoros&lt;/i&gt; (&lt;i&gt;Spear-Bearer&lt;/i&gt;) (c.440 BCE) to illustrate his theory that "perfection comes about little by little through many numbers."</p>
+          <p type="img" alt="The more than six-foot-tall &lt;i&gt;Artemison Bronze&lt;/i&gt; (c.460 BCE), named for Cape Artemisium where it was found in 1928, is thought to depict either the god Poseidon or Zeus, depending on whether he was originally holding a trident or a thunderbolt." show="1">/images20/photo/photo_classical_greek_and_roman_art_28.jpg</p>
+          <p type="p">Most of the original Greek bronzes have been lost, as the value of the material led to their frequently being melted down and reused, particularly in the early Christian era where they were viewed as pagan idols. A few notable examples have survived, such as the &lt;i&gt;Charioteer of Delphi&lt;/i&gt; (478 or 474 BCE), which was found in 1896 in a temple buried in a rockslide. Other works, including the &lt;i&gt;Raice&lt;/i&gt; bronzes (460-450 BCE) and the &lt;i&gt;Artemison Bronze&lt;/i&gt; (c.460) were retrieved from the sea. The earliest Greek bronzes were &lt;i&gt;sphyrelaton&lt;/i&gt;, or hammered sheets, attached together with rivets; however, by the late Archaic period, around 500 BCE, the Greeks began employing the lost-wax method. To make large-scale sculptures, the works were cast in various pieces and then welded together, with copper inlaid to create the eyes, teeth, lips, fingernails, and nipples to give the statue a lifelike appearance.</p>
+          <p type="img" alt="This detail of the Parthenon Marbles shows &lt;i&gt;The Cavalcade&lt;/i&gt; (447-433 BCE), a dynamic relief of two warriors on horseback." show="1">/images20/photo/photo_classical_greek_and_roman_art_29.jpg</p>
+          <p type="p">Along with sculpture in the round, the Greeks employed relief sculpture to decorate the entablatures of temples with extensive friezes that often depicted mythological and legendary battles and mythological scenes. Created by Phidias, the Parthenon Marbles (c. 447-438 BCE), also known as the Elgin Marbles, are the most famous examples. Created on &lt;i&gt;metopes&lt;/i&gt;, or panels, the relief sculptures decorated the frieze lining the interior chamber of the temple and, renowned for their realism and dynamic movement, had a noted influence upon later artists, including Auguste Rodin.</p>
+          <p type="img" alt="Alan LeGuire's &lt;i&gt;Athena Parthenos&lt;/i&gt; (1990) is a reproduction of the original, based upon descriptions and copies, which is housed in a full-scale replica of the Parthenon in Nashville, Tennessee (1897)." show="1">/images20/photo/photo_classical_greek_and_roman_art_30.jpg</p>
+          <p type="p">The Greeks also made colossal chryselephantine, or ivory and gold statues, beginning in the Archaic period. Phidias was acclaimed for both his &lt;i&gt;Athena Parthenos&lt;/i&gt; (447 BCE), a nearly forty foot tall statue that resided in the Parthenon on the Acropolis, and his &lt;i&gt;Statue of Zeus at Olympia&lt;/i&gt; (435 BCE) that was forty three feet tall and considered one of the Seven Wonders of the Ancient World. Both statues used a wooden structure with gold panels and ivory limbs attached in a kind of modular construction. They were not only symbols of the gods but also symbols of Greek wealth and power. Both works were destroyed, but small copies of Athena exist, and representations on coins and descriptions in Greek texts survive.</p>
+        </subsection>
+        <subsection title="Roman Portraiture">
+          <p type="img" alt="The &lt;i&gt;Capitoline Brutus&lt;/i&gt; (c. late 4&lt;sup&gt;th&lt;/sup&gt; century - early 3&lt;sup&gt;rd&lt;/sup&gt; century BCE) is thought to portray Lucius Junius Brutus, a founder of the Roman Republic." show="1">/images20/photo/photo_classical_greek_and_roman_art_31.jpg</p>
+          <p type="p">Many Roman sculptures were copies of Greek originals, but their own contribution to Classical sculpture came in the form of portraiture. Emphasizing a realistic approach, the Romans felt that depicting notable men as they were, warts and all, was a sign of character. In contrast, in Imperial Rome, portraiture turned to idealistic treatments, as emperors, beginning with Augustus, wanted to create a political image, showing them as heirs of both classical Greece and Roman history. As a result, a Greco-Roman style developed in sculptural relief as seen in the Augustan &lt;i&gt;Ara Pacis&lt;/i&gt; (13 BCE).</p>
+          <p type="img" alt="With its realistic detail and compelling individual portraits, this gold glass medallion (3&lt;sup&gt;rd&lt;/sup&gt; century CE), probably of a family in Alexandria, Egypt, exemplified the Roman mastery of the medium." show="1">/images20/photo/photo_classical_greek_and_roman_art_32.jpg</p>
+          <p type="p">The Romans also revived a method of Greek glass painting to use for portraiture. Most of the images were the size of medallions or roundels cut out of a drinking vessel. Wealthy Romans would have drinking cups made with a gold glass portrait of themselves and, following the owner's death, the portrait would be cut out in a circular shape and cemented into the catacomb walls as a tomb marker.</p>
+          <p type="img" alt="This mummy portrait (3&lt;sup&gt;rd&lt;/sup&gt; century CE) depicts a young aristocratic woman" show="1">/images20/photo/photo_classical_greek_and_roman_art_33.jpg</p>
+          <p type="p">Some of the most famous painted Roman portraits are the Fayum mummy portraits, named for the place in Egypt where they were found, that covered the faces of the mummified dead. Preserved by Egypt's arid climate, the portraits constitute the largest surviving group of portrait panel painting from the Classical era. Most of the mummy portraits were created between the 1&lt;sup&gt;st&lt;/sup&gt; century BCE and the 3&lt;sup&gt;rd&lt;/sup&gt; century CE and reflect the intertwining of Roman and Egyptian traditions, during the time when Egypt was under Rome's rule. Though idealized, the paintings display remarkably individualistic and naturalistic characteristics.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">The influence of Classical Art and architecture cannot be overestimated, as it extends to all art movements and periods of Western art. While Roman architecture and Greek art influenced the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanesque_art"&gt;Romanesque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-byzantine_art"&gt;Byzantine&lt;/span&gt; periods, the influence of Classical Art became dominant in the Italian Renaissance, founded upon a revival of interest in Classical principles, philosophy, and aesthetic ideals. The Parthenon and the Pantheon as well as the writings of Vitruvius informed the architectural theories and practice of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-alberti_leon_battista"&gt;Leon Battista Alberti&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-palladio"&gt;Palladio&lt;/span&gt; and designs into the modern era, including those of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt;.</p>
+          <p type="p">Greek sculpture influenced &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance artists&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt;, and the later &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bernini_giovanni_lorenzo"&gt;Bernini&lt;/span&gt;. The discoveries at Pompeii informed the aesthetic theories of Johann Joachim Winckelmann in the 18&lt;sup&gt;th&lt;/sup&gt; century and the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt;, as seen in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-canova_antonio"&gt;Antonio Canova's&lt;/span&gt; sculptures. The modern sculptor &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt; was influenced primarily by the Parthenon Marbles, of which he wrote, they "had...a rejuvenating influence, and those sensations caused me to follow Nature all the more closely in my studies." Artists from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boccioni_umberto"&gt;Umberto Boccioni&lt;/span&gt;, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;, and the multifaceted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, to, later, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klein_yves"&gt;Yves Klein&lt;/span&gt;, Sanford Biggers, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-banksy"&gt;Banksy&lt;/span&gt; all cited Greek art as an influence.</p>
+          <p type="p">Classical Art has also influenced other art forms, as both the choreography of Isidore Cunningham and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cunningham_merce"&gt;Merce Cunningham&lt;/span&gt; were influenced by the Parthenon Marbles, and the first fashion garment featured in the Museum of Modern Art in 2003 was Henriette Negrin and Mariano Fortuny y Madrazos' &lt;i&gt;Delphos Gown&lt;/i&gt; (1907) a silk dress inspired by the Charioteer Delphi (c. 500 BCE) which had been discovered a decade earlier. The legends, gods, philosophies and art of the Classical era became essential elements of subsequent Western culture and consciousness.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="michelangelo">David (1501-1504)</artwork>
+    <artwork from="movement" page="high_renaissance">Tempietto (1502)</artwork>
+    <artwork from="movement" page="neoclassicism">Le Panthéon (1755-1790)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Roman copy 120-50 BCE of original by Polycleitus, Doryphoros (Spear-Bearer) c. 440 BCE</title>
+      <artist />
+      <year>120-50 BCE</year>
+      <materials>Marble copy of bronze original</materials>
+      <desc>
+				This work depicts a nude muscular warrior, as he steps forward, his head turns slightly to his right, and his left hand would have readied a spear that originally rested upon his left shoulder. The figure's anatomical realism conveys potential movement through a complex interaction of tensed and relaxed muscles. Almost seven feet tall, the monumental work conveys an imposing sense of male heroic beauty that could face whatever may come with dispassionate calm, as shown in the serious but expressionless face.
+				&lt;br/&gt;&lt;br/&gt;
+				Because marble copies needed additional support, the tree stump was an addition to the bronze original. What is known of the original is based upon the exceptional quality of later copies, including this one. Polycleitus thought this work was synonymous with his Canon, a treatise of sculptural principles, based upon mathematical proportions. Though his treatise has been lost, references to it survived in later accounts, including Galen's, a 2&lt;sup&gt;nd&lt;/sup&gt; century Greek writer, who wrote that its "Beauty consists in the proportions, not of the elements, but of the parts, that is to say, of finger to finger, and of all the fingers to the palm and the wrist, and of these to the forearm, and of the forearm to the upper arm, and of all the other parts to each other."
+				&lt;br/&gt;&lt;br/&gt;
+				At the time it was made, the work was widely acclaimed, as Warren G. Moon and Barbara Hughes Fowler write, the &lt;i&gt;Doryphorus&lt;/i&gt; ushered in "a new definition of true human greatness...an artistic moral exemplar...tied to no particular place or action, he represents the universal male ideal." This marble copy, found in a gymnasium at Pompeii, became the most admired work of the Roman Republic, as Roman aristocrats commissioned copies.
+			</desc>
+      <collection>Naples National Archaeological Museum, Naples, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>The Parthenon</title>
+      <artist>Ictinus and Callicrates</artist>
+      <year>447-432 BCE</year>
+      <materials>Marble</materials>
+      <desc>
+				This iconic temple, dedicated to Athena, goddess of wisdom and patron of Athens, stands majestically on top of the Acropolis, a sacred complex overlooking the city. The 17 Doric columns on either side and the eight at each end create both a sense of harmonious proportion and a dynamic visual and horizontal movement. The building exemplifies the Doric order and the rectangular plan of Greek temples, which emphasized a flow of movement and light between the temple's interior and the surrounding space, while the movement of the columns, rising out of the earth, to the entablature that rings the building, draws the eye heavenward to the carved reliefs and statues that, originally, brightly painted, crowned the temple.
+				&lt;br/&gt;&lt;br/&gt;
+				Ictinus and Callicrates were identified as the architects of the building in ancient sources, while the sculptor Phidias and the statesman Pericles supervised the project. Dedicated in 438 BCE, the Parthenon replaced the earlier temple on the city's holy site that also included a shrine to Erechtheus, the city's mythical founder, a smaller temple of the goddess Athena, and the olive tree that she gave to Athens, all of which were destroyed by the invading Persian Army in 480 BCE. The Persians also killed the priests, priestesses, and citizens who had taken refuge at the site, and, when the new Parthenon was dedicated, following that experience of trauma and desecration, it was a monument to the restoration and continuation of Athenian values and became, as art critic Daniel Mendelsohn wrote, a "dramatization of the political and moral differences between the victims and the perpetrators."
+				&lt;br/&gt;&lt;br/&gt;
+				As Mendelsohn noted, the Parthenon while taken "as the epitome of Greek architecture...was typical of nothing at all, an anomaly in terms of material, size, and design." It was both the largest temple in Greece and the first built of only marble. While Doric temples commonly had thirteen columns on each side and six in the front, the Parthenon pioneered the octastyle, with eight columns, thus extending the space for sculptural reliefs. Originally the Parthenon Marbles decorated the entablature, as 92 &lt;i&gt;metopes&lt;/i&gt;, or rectangular stone panels, depicted mythological battle scenes - of gods fighting giants, Greek warriors fighting Trojans or Amazons, and men battling centaurs - while the pediments contained statues depicting the stories of Athena's life, so that as Mendelsohn wrote, "Merely to walk around the temple was to get a lesson in Greek and Athenian civic history."
+				&lt;br/&gt;&lt;br/&gt;
+				The temple's interior was equally meant to inspire, as Phidias's colossal statue of &lt;i&gt;Athena Parthenos&lt;/i&gt;, or the virgin Athena, dominated the space. Forty feet tall, the statue held a six foot tall gold statue of Victory in her hand. A frieze, carved in relief, lined the surrounding walls, innovatively introducing a decorative feature of Ionic architecture into the Doric order. The 525 foot long frieze has been described by art historian Joan Breton Connelly as "showing 378 human and 245 animal figures... the largest and most detailed revelation of Athenian consciousness we have ... this moving portrayal of noble faces from the distant past, ... the largest, most elaborate narrative tableau the Athenians have left us."
+				&lt;br/&gt;&lt;br/&gt;
+				The Parthenon's design employed precise mathematical proportions, based upon the golden ratio, but as Mendelsohn noted, "There are almost no straight lines in the building." The columns employ &lt;i&gt;entasis&lt;/i&gt;, a swelling at the center of each column, and tilt inward, while the foundation also rises toward the façade, correcting for the optical illusion of sagging and tilting that would have resulted in perfectly straight lines. Aesthetically, though, as Mendelsohn explains, "[T]he slight swelling also conveys the subliminal impression of muscular effort...Arching, leaning, straining, swelling, breathing: the over-all effect...is to give the building a special and slightly unsettling quality of being somehow alive." The building has been highly praised since ancient times as the 1&lt;sup&gt;st&lt;/sup&gt; century Roman historian Plutarch called it "no less stately in size than exquisite in form," and in the modern era, Le Corbusier called it "the basis for all measurement in art."
+			</desc>
+      <collection>Athens, Greece</collection>
+    </artwork>
+    <artwork>
+      <title>Apollo Belvedere, Roman copy, c. 120 - 140 CE of Leochares bronze original c. 350-325 BCE </title>
+      <artist />
+      <year>120-140 CE</year>
+      <materials>Marble</materials>
+      <desc>
+				This nude statue, a little over seven feet tall, depicts Apollo, the Greek god of art and music, as he strides forward, having just shot an arrow from a bow which his extended left hand originally held. Realistic in its anatomical modeling, the work conveys a sense of gravity, both in his form as seen in the musculature of his weight-bearing right leg and in the folds of his &lt;i&gt;chlamys&lt;/i&gt;, or robe, falling across his left arm. &lt;i&gt;Contrapposto&lt;/i&gt; is employed innovatively to create a sense of complex movement, presenting the statue both frontally and in profile as the god strides forward majestically. While the statue is identified as the god by the headband he wears, reserved for gods or rulers, and his bow and the quiver across his left shoulder, he is also equally a symbol of youthful masculine beauty.
+				&lt;br/&gt;&lt;br/&gt;
+				The work has also been called the Pythian Apollo, as it was believed to depict Apollo's slaying of the Python, a mythical serpent at Delphi, marking the moment when the site became sacred to the god and home of the famous Delphic Oracle. The marble statue is believed to be a Roman copy of an original bronze from the 4&lt;sup&gt;th&lt;/sup&gt; century by the Greek sculptor Leochares. The work was discovered in 1489 and became part of the collection of Cardinal Giulano della Rovere who, subsequently, became Pope Julius II, the leading patron of the Italian High Renaissance. He put the work on public display in 1511, and Michelangelo's student, the sculptor Giovanni Angelo Montorsoli, restored the missing parts of the left hand and right arm.
+				&lt;br/&gt;&lt;br/&gt;
+				Much acclaimed, the work was sketched by Michelangelo, Bandinelli, Goltzius, and Albrecht Dürer who modeled Adam upon Apollo in his engraving &lt;i&gt;Adam and Eve&lt;/i&gt; (1504). Marcantonio Raimondi made a copy of the Apollo, and his engraving in the 1530s was widely disseminated throughout Europe; however, the work became most influential in the 1700s as Winckelmann, the pioneering German art historian, wrote, "Of all the works of antiquity that have escaped destruction, the statue of Apollo represents the highest ideal of art." The work became fundamental to the development of Neoclassicism as seen in Antonio Canova's &lt;i&gt;Perseus&lt;/i&gt; (1804-1806) modeled after the work. As art critic Jonathan Jones noted, "The work was admired two hundred years ago as an image of the absolute rational clarity of Greek civilisation and the perfect harmony of divine beauty," but in the Romantic era it fell into disfavor as the leading critics, John Ruskin, William Hazlitt, and Walter Pater critiqued it. Still, it has remained popular and frequently reproduced, lending it a cultural currency, as seen in the official seal of the 1972 Apollo XVII moon landing mission.
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>The Dying Gaul, Roman marble copy of Greek bronze by Epigonus</title>
+      <artist />
+      <year>230-220 BCE</year>
+      <materials>Marble</materials>
+      <desc>
+				This Roman copy of a Greek Hellenistic work depicts a nude and dying man, identified as a Gaul or more specifically a Galatian, a member of a Celtic tribe in Pergamon, a Greek city in Turkey. Sitting on the ground, his left hand grasping his left knee, and his right hand resting upon a broken sword as he holds himself up, he looks down as if contemplating his end. His extended legs and the twist of his torso suggest pain and immanent collapse. The work is realistic and emotionally expressive, as the tension between tensed and relaxed muscles conveys his struggle to fight off death. A pensive and somber feeling dominates the work, making it an intense reflection on defeat and mortality, while the idealization of his physical beauty suggests a heroic death.
+				&lt;br/&gt;&lt;br/&gt;
+				The statue was discovered sometime in the early 1600s at the Villa Ludovisi, the country residence of a wealthy and powerful Italian family, and was originally believed to depict a Roman gladiator. The work was popular and viewing it became a necessary part of the Grand Tour undertaken by young aristocrats in the 18&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; centuries. The British Romantic poet, Lord Byron whose famous poem &lt;i&gt;Childe Harold's Pilgrimage&lt;/i&gt; (1812) was written following his Grand Tour, wrote, "I see before me the gladiator lie/ He leans upon his hand - his manly brow/ Consents to death, but conquers agony." Its popularity led to a proliferation of marble and plaster copies across Europe.
+				&lt;br/&gt;&lt;br/&gt;
+				In the 19&lt;sup&gt;th&lt;/sup&gt; century, scholars identified the subject as a Gaul, due to his hairstyle and the torque he wears on his neck, and Epigonus, a court appointed sculptor of Pergamon, as the original artist. The original was part of a complex sculpture group to celebrate Pergamon's victory over the Gauls and exemplifies what was called the "Pergamene Style," which as contemporary art critic Jerry Saltz noted, "emphasized emotional appeal and almost Baroque volatility. Nothing defines that style quite as clearly as the &lt;i&gt;Dying Gaul&lt;/i&gt;, who is both tragic and sensual, firing both our desire and our sense of compassion."
+			</desc>
+      <collection>Capitoline Museums, Rome, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Winged Victory of Samothrace</title>
+      <artist />
+      <year>200-190 BCE</year>
+      <materials>Parian Marble</materials>
+      <desc>
+				This monumental work, depicting Nike, the goddess of victory, and created in honor of a naval victory, emphasizes dynamic movement, as the goddess surges forward, swept by the wind, her wings unfurled behind her. As art historian H.W. Jansen wrote, "This invisible force of on-rushing air here becomes a tangible reality; it not only balances the forward movement of the figure but also shapes every fold of the wonderfully animated drapery. As a result, there is an active relationship - indeed, and interdependence - between the statue and the space that envelops it, such as we have never seen before."
+				&lt;br/&gt;&lt;br/&gt;
+				Over 18 feet tall, the Hellenistic statue stands on a pedestal, placed upon a base that resembles the prow of a ship. Most scholars believe the work was originally placed at the Sanctuary of the Greek Gods, a temple complex overlooking the harbor on the island of Samothrace. Charles Champoiseau, a French envoy, discovered the fragmented statue in 1863 and sent it to Paris where it was reassembled and placed in the Louvre, famously dominating the view up the grand staircase.
+				&lt;br/&gt;&lt;br/&gt;
+				The work influenced a number of modern artists and movements, as Umberto Boccioni's Futuristic work &lt;i&gt;Unique Forms of Continuity in Space&lt;/i&gt; (1913) references the statue, and Filippo Tommaso Marinetti also referenced it in his &lt;i&gt;Futurist Manifesto&lt;/i&gt; (1903). The American sculptors Samuel Murray and Augustus Saint-Gaudens created Nike-like figures, as seen in Saint Gauden's Sherman Memorial (1903) and the statue was a favorite work of the architect Frank Lloyd Wright, who included reproductions of it in a number of his residential designs. Yves Klein painted a number of plaster copies, painted in his International Klein Blue and using a resin he named &lt;i&gt;Victoire de Samatrace&lt;/i&gt;, and more recently, Banksy's &lt;i&gt;CCTV Angel&lt;/i&gt; (2006) repurposed the figure.
+			</desc>
+      <collection>Louvre Museum, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Venus de Milo</title>
+      <artist>Alexandros of Antioch</artist>
+      <year>130-100 BCE</year>
+      <materials>Marble</materials>
+      <desc>
+				Believed to portray Venus, the goddess of love, this six-and-a-half-foot statue creates dynamic visual movement with its accentuated s-curve, emphasizing the curve of the torso and hip, as the lower part of her body is draped in the realistic folds of her falling robe. The dramatic &lt;i&gt;contrapposto&lt;/i&gt;, her left knee raised as if lifting her foot off the ground, further emphasizes her movement, as she turns toward the viewer.
+				&lt;br/&gt;&lt;br/&gt;
+				The work was originally attributed to Praxiteles but is now generally credited to Alexandros of Antioch. Scholarly dispute continues about the identity of its subject; traditionally identified as Venus, some scholars believe the work actually portrays Amphitrite, a sea goddess, worshipped on the island of Milo where the sculpture was found in 1820, and some contemporary scholars have suggested the figure may in fact portray a prostitute.
+				&lt;br/&gt;&lt;br/&gt;
+				The statue was made from several pieces of marble, two blocks used for the body, while other parts, including the legs and left arm, were sculpted individually and then attached. When excavated in 1820, part of an arm and a fragmented hand holding a round orb were discovered with the statue, which stood upon a stone plinth. At the time, the fragments were discarded, due to their 'rougher' finish, and later so was the plinth. It's believed that, originally, the statue was brightly painted and adorned with expensive jewelry.
+				&lt;br/&gt;&lt;br/&gt;
+				During his Italian campaign Napoleon Bonaparte took the &lt;i&gt;Medici Venus&lt;/i&gt; (1&lt;sup&gt;st&lt;/sup&gt; century BCE), then the most renowned classical female nude, to France and installed it in the Louvre. But in 1815 the French returned the &lt;i&gt;Medici Venus&lt;/i&gt; and bought the &lt;i&gt;Venus de Milo&lt;/i&gt;, which they promoted both as the finest classical work and a model of feminine grace and beauty.
+				&lt;br/&gt;&lt;br/&gt;
+				More than any other classical sculpture, this iconic nude has greatly influenced both modern art and culture, due to its compelling ideal of feminine beauty and its beguiling mystery. As art critic Jonathan Jones writes, "The &lt;i&gt;Venus de Milo&lt;/i&gt; is an accidental surrealist masterpiece. Her lack of arms makes her strange and dreamlike. She is perfect but imperfect, beautiful but broken - the body as a ruin. That sense of enigmatic incompleteness has transformed an ancient work of art into a modern one." Salvador Dalí's &lt;i&gt;Venus de Milo with Drawers&lt;/i&gt; (1936) copied the work but inserted pull drawers with pink pompom handles into the torso. As Jones noted, the &lt;i&gt;Venus de Milo&lt;/i&gt; has retained its contemporary artistic relevance because it "entered European culture in the 19th century just as artists and writers were rejecting the perfect and timeless." As a result, the work haunts the modern imagination, referenced in literature, films, and television episodes and used in any number of advertisements, while its impact on cultural concepts of feminine beauty can be seen in the American Society of Plastic Surgeons' use of the figure on its seal in 1930.
+			</desc>
+      <collection>Louvre Museum, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Laocoön and His Sons</title>
+      <artist>Agesandro, Athendoros, and Polydoros</artist>
+      <year>27 BCE - 68 CE</year>
+      <materials>Marble</materials>
+      <desc>
+				This famous work depicts the doomed struggle of Laocoön, and his two sons Antiphantes and Thymbraeus caught in the coils of two giant poisonous sea serpents, one of them biting Laocoön's hip. His hand grasps the snake's neck as he tries to fend it off. On the left, the youngest boy, dying from the poison, has collapsed, his legs caught in the coils that lift him off the ground. The central figure is the father, whose powerful muscular form twists upward and backward, his despairing and contorted gaze turned heavenward, as his son on the right turns to look pleadingly at him. Drawing upon the story of the Trojan war, the work is thought to dramatically depict the moment when Laocoön, a priest of Troy who warned the Trojans against taking the Greek wooden horse into the city, was attacked, along with his two sons, by the serpents sent by the gods to silence him. As a result the frightened Trojans, fearing the gods' punishment, took in the wooden horse containing the Greek soldiers, who, hidden within it, came out at night to open the gates for the Greek army, leading to the fall of Troy. Art historian Nigel Spivey has called the work "the prototypical icon of human agony," and its dynamic sense of drama and its use of slightly unrealistic scale to emphasize paradoxically the father's power and helplessness made it innovative and a masterwork of the Hellenistic style.
+				&lt;br/&gt;&lt;br/&gt;
+				In 1506 the work was discovered during excavations of Rome and immediately drew the attention of Pope Julius II who sent Michelangelo to oversee the excavation. Its identification drew upon the ancient accounts of Pliny the Elder, a Roman writer, who described the work as located in the emperor Titus's palace and attributed it to the Rhodes sculptors Agesander, Athenodoros and Polydorus.
+				&lt;br/&gt;&lt;br/&gt;
+				The work greatly influenced Michelangelo, including some of his figures in the Sistine Chapel ceiling and his later sculpture. Raphael depicted Homer with Laocoon's face in his &lt;i&gt;Parnassus&lt;/i&gt;, and Titian drew upon the work for his &lt;i&gt;Averoldi Altarpiece&lt;/i&gt; (1520-24), as did Rubens for his &lt;i&gt;Descent from the Cross&lt;/i&gt;. (1612-14). William Blake also referenced the sculpture, though within his own belief that imitations of Classical Art destroyed the creative imagination. The work informed a number of ongoing debates, as to whether sculpture or painting were more primary, and has played a role in modern discourses, as seen in Irving Babbit's (1910) &lt;i&gt;The New Laokoon: An Essay on the Confusion of the Arts&lt;/i&gt; (1910) and Clement Greenberg's &lt;i&gt;Towards a Newer Laocoön&lt;/i&gt; (1940), where he argued for abstract art as the new, equivalent, ideal. The Henry Moore Institute held a 2007 exhibition with this title while showing modern works influenced by the statue, and contemporary artist Sanford Biggers has referenced the work within his contemporary installation pieces.
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>Augustus of Prima Porta</title>
+      <artist />
+      <year>1st Century CE</year>
+      <materials>Marble</materials>
+      <desc>
+				This statue depicts Augustus, the first Emperor of Rome, in military uniform, his right arm raised in a gesture of leadership, addressing the military and populace of Rome. His &lt;i&gt;contrapposto&lt;/i&gt; pose, the muscular modeling of his breastplate, and his dispassionate expression are informed by Polycleitus's &lt;i&gt;Doryphorus&lt;/i&gt;, as the emperor is presented as the new model of the universal male ideal. His breastplate is intricately carved with scenes and figures - including the sun, sky, and earth gods, a diplomatic victory over the Parthians, and female figures representing conquered countries - that establish him as a military leader, founder of the Pax Romana, and heir of Rome's mythological and historical traditions. Tugging at his right, a small cupid rides a dolphin that symbolizes Augustus's victory at the 31 BCE Battle of Actium over Mark Antony and Cleopatra, which made him sole ruler. At the same time, the cupid, representing Eros, a son of the goddess Venus, refers to Julius Caesar's claim that he was descended from the goddess. As Augustus was Caesar's grand-nephew and adopted heir, he establishes his divine patrimony and connects it to the legendary founding of Rome by Aeneas, the only mortal son of Venus and the only surviving Trojan prince. The statue is barefoot, a trope associated with portrayals of divinity, and as art critic Alastair Sooke noted, the work, "is not simply a portrait of Rome's first emperor...it is also a vision of a god."
+				&lt;br/&gt;&lt;br/&gt;
+				Emerging victorious from a civil war that followed the assassination of Julius Caesar, Augustus launched a notable building campaign, saying later, "I found Rome a city of bricks and left it a city of marble." His image became a powerful propaganda tool, as art critic Roderick Conway Morris wrote, "He projected his image through art and architecture and...this gave birth to a new classical Roman style, which would long outlive the first emperor and influence imperial and dynastic art over the next two millennia." As a result, more images of Augustus in statues, busts, coins, and cameos, all depicting him as this ever youthful and virile leader, survive than of any other Roman emperor. While Romans were known for their exacting portraiture, Augustus insisted on the idealized, youthful image throughout his reign to distance himself from any unrest in the empire.
+				&lt;br/&gt;&lt;br/&gt;
+				The work was rediscovered following its excavations in 1863 at Prima Porta, a villa which belonged to Augustus's wife, and as Sooke wrote, "Since its rediscovery, this charismatic work of art has become a symbol of ancient Rome's peculiar blend of refinement and ruthless military might." As a result, it has had a somewhat notorious afterlife, as when the Italian dictator Mussolini held an art exhibition in 1937 dedicated to Augustus and included this work in order to identify Fascist Italy with a new Roman Empire.
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>Pantheon</title>
+      <artist />
+      <year>113-125 CE</year>
+      <materials>Marble, concrete, bronze, stone</materials>
+      <desc>
+				The circular temple faces the street with a monumental portico, employing eight Corinthian columns at the front with double rows of four columns behind, to create an imposing entrance. The façade, evoking the octastyle of the Athenian Parthenon, also emphasized that Rome was the heir of the classical tradition. The large granite columns rise to an entablature with an inscription reading "Marcus Agrippa, son of Lucius, made [this] when consul for the third time." Though Agrippa's temple, built during the reign of the Emperor Augustus (27 BCE-14 CE), burned down, the Emperor Hadrian retained the inscription when he rebuilt the temple. The building's innovative and distinctive feature was its concrete dome; with a height and diameter of 142 feet, still, the world's largest dome made of unreinforced concrete. The interior was equally innovative, as the dome rose above a circular interior chamber, illuminated by an oculus opening to the sky in the center of the coffered dome, creating a sense of both an imperial and divine space.
+				&lt;br/&gt;&lt;br/&gt;
+				 "Pantheon" means "relating to the gods," and scholars continue to debate whether this meant the temple was dedicated to all the gods or followed tradition in being dedicated to a specific god. Specific dedications to single gods were considered more provident since, if any mishap struck, the people would know which god had been offended and could offer sacrifices. When Agrippa first built the temple, it was part of the Agrippa complex (29-19 BCE) that also included the Baths of Agrippa and the Basilica of Neptune, and it is thought that the façade is what remains of his original structure. The building is one of the best preserved from the Imperial Roman era, as it was turned into a Christian church in the 7&lt;sup&gt;th&lt;/sup&gt; century, though it has also been altered, and many of the relief sculptures of gilded bronze were melted down.
+				&lt;br/&gt;&lt;br/&gt;
+				The work influenced Filippo Brunelleschi's dome of Florence Cathedral in 1436, a radical design that transformed architecture and informed the development of the Italian Renaissance. The Pantheon also informed the Baroque movement, as seen in Bernini's &lt;i&gt;Santa Maria Assunta&lt;/i&gt; (1664), and the Neoclassical movement, as seen in Thomas Jefferson's Rotunda (1817-26) on the grounds of the University of Virginia.
+			</desc>
+      <collection>Rome, Italy</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class=""></subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Greek Mythology: The Quest for the Gods</title>
+          <link is_inline_video="true" inline_video_type="youtube">9wePgwCojNI</link>
+          <info>History Channel</info>
+        </entry>
+        <entry recommended="true">
+          <title>Treasures of Ancient Greece | 1 of 3 | The Age of Heroes</title>
+          <link>https://www.dailymotion.com/video/x4av89k</link>
+          <info>BBC</info>
+        </entry>
+        <entry recommended="true">
+          <title>Rome - How Art Made the World</title>
+          <link is_inline_video="true" inline_video_type="youtube">brW6GV6Rrco</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ancient Greeks in Italy and Sicily (Full documentary)</title>
+          <link is_inline_video="true" inline_video_type="youtube">XXIpCHxJHDs</link>
+          <info>Video is available when you play it on YouTube directly</info>
+        </entry>
+        <entry>
+          <title>Crucible of Civilization narrated by Liam Neeson</title>
+          <link is_inline_video="true" inline_video_type="youtube">hz7ebSkY2_8</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Artist Specific Videos:" class="clips">
+        <entry>
+          <title>Seeing the Parthenon through Greek Eyes</title>
+          <link>https://www.pbs.org/newshour/show/seeing-parthenon-ancient-eyes</link>
+          <info>Joan Breton Connelly, author of "The Parthenon Enigma," joins Jeffrey Brown</info>
+        </entry>
+        <entry>
+          <title>NOVA Short | Optical Tricks of the Parthenon</title>
+          <link is_inline_video="true" inline_video_type="youtube">7AIXvZRsiq4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>How Was The Parthenon of Athens Built - Ancient Greek Engineering Documentary</title>
+          <link is_inline_video="true" inline_video_type="youtube">V14OpgePTZI</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Secrets of the Parthenon</title>
+          <link is_inline_video="true" inline_video_type="vimeo">23914660</link>
+          <info>Nova and Arte/France</info>
+        </entry>
+        <entry>
+          <title>Vestiges of an ancient Greek art form, preserved by catastrophe</title>
+          <link>https://www.pbs.org/newshour/show/vestiges-of-an-ancient-greek-art-form-preserved-by-catastrophe</link>
+          <info>January 25, 2016</info>
+        </entry>
+        <entry>
+          <title>Etruscan Necropolises of Cerveteri and Tarquinia (UNESCO/NHK)</title>
+          <link is_inline_video="true" inline_video_type="youtube">YheIckLuV7c</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry recommended="true">
+          <title>Desirability and domination: Greek sculpture and the modern male body (23 June 2011)</title>
+          <link is_inline_video="true" inline_video_type="youtube">zpipFt3p0YM</link>
+          <info>
+						Greek Sculpture: UCL lecture at British Museum
+						&lt;br&gt;
+						Maria Wyke
+					</info>
+        </entry>
+        <entry>
+          <title>The Human Body in Ancient Greek Art and Thought</title>
+          <link is_inline_video="true" inline_video_type="youtube">NfWd9QZfils</link>
+          <info>
+						Lecture by Ian Jenkins
+						&lt;br&gt;
+						Portland Art Museum
+					</info>
+        </entry>
+        <entry>
+          <title>The Foundations of Classical Architecture: Roman Classicism</title>
+          <link>https://www.classicist.org/articles/the-foundations-of-classical-architecture-roman-classicism/</link>
+          <info>Talk by Calder Loth</info>
+        </entry>
+        <entry>
+          <title>Great Battles: Was there a Trojan War? Recent Excavations at Troy</title>
+          <link is_inline_video="true" inline_video_type="youtube">Eud9KQo6FkQ</link>
+          <info>
+						Penn Museum
+						&lt;br&gt;
+						Talk by C. Brian Rose
+					</info>
+        </entry>
+        <entry>
+          <title>The Mycenaeans and Minoans Today: Revivals of Bronze Age Greece</title>
+          <link is_inline_video="true" inline_video_type="youtube">QUm-A1MYlYc</link>
+          <info>
+						Talk by Bryan Burns
+						&lt;br&gt;
+						UNHCOLA
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Greek Art (World of Art)</title>
+          <link>0500202923</link>
+          <info>By John Boardman</info>
+        </entry>
+        <entry>
+          <title>Roman Art</title>
+          <link>0130278831</link>
+          <info>By Nancy H. Romage and Andrew Romage</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art &amp; Architecture of Ancient Greece</title>
+          <link>1844768023</link>
+          <info>By Nigel Rodgers</info>
+        </entry>
+        <entry recommended="true">
+          <title>Roman Architecture</title>
+          <link>0801492459</link>
+          <info>By Frank Sear</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Athenian Vase Painting: Black- and Red-Figure Techniques</title>
+          <link>https://www.metmuseum.org/toah/hd/vase/hd_vase.htm</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>How the Parthenon Lost Its Marbles</title>
+          <link>https://www.nationalgeographic.com/history/world-history-magazine/article/parthenon-sculptures-british-museum-controversy</link>
+          <info>
+						By Juan Pablo Sanchez
+						&lt;br&gt;
+						National Geographic Magazine 
+						&lt;br&gt;
+						March 4, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>If It Pleases the Gods</title>
+          <link>https://www.nytimes.com/2014/01/26/books/review/the-parthenon-enigma-by-joan-breton-connelly.html</link>
+          <info>
+						By Caroline Alexander
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						January 26, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Why we're still up in arms about the mystery of the Venus de Milo</title>
+          <link>https://www.theguardian.com/artanddesign/shortcuts/2015/may/11/venus-de-milo-arms-reconstruction-spinning-prostitute-sculpture</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 11, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Deep-frieze</title>
+          <link>https://www.newyorker.com/magazine/2014/04/14/deep-frieze</link>
+          <info>
+						By Daniel Mendelsohn
+						&lt;br&gt;
+						The New Yorker
+						&lt;br&gt;
+						April 14, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>When the Parthenon Had Dazzling Colours</title>
+          <link>http://www.bbc.com/culture/story/20180119-when-the-parthenon-had-dazzling-colours</link>
+          <info>
+						By Natalie Haynes
+						&lt;br&gt;
+						BBC 
+						&lt;br&gt;
+						January 22, 2018
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Look at Emperor Augustus and Roman Classical Style</title>
+          <link>https://www.nytimes.com/2013/12/17/arts/international/roman-classical-style-through-the-many-faces-of-augustus.html</link>
+          <info>
+						By Roderick Conway Morris
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						December 17, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>The Body Beautiful: The Classical Ideal in Ancient Greek Art</title>
+          <link>https://www.nytimes.com/2015/05/18/arts/design/the-body-beautiful-the-classical-ideal-in-ancient-greek-art.html</link>
+          <info>
+						By Alastair Macaulay
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						May 18, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The Latest Scheme for the Parthenon</title>
+          <link>https://www.nybooks.com/articles/2014/03/06/latest-scheme-parthenon/</link>
+          <info>
+						By Mary Beard
+						&lt;br&gt;
+						New York Review of Books
+						&lt;br&gt;
+						March 6, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>I, Augustus, Emperor of Rome..., at the Grand Palais in Paris, review: 'dazzling and charismatic'</title>
+          <link>https://www.telegraph.co.uk/culture/art/art-reviews/10705333/I-Augustus-Emperor-of-Rome...-at-the-Grand-Palais-in-Paris-review-dazzling-and-charismatic.html</link>
+          <info>
+						By Alastair Sooke
+						&lt;br&gt;
+						The Telegraph
+						&lt;br&gt;
+						March 18, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>The top 10 ancient Greek artworks</title>
+          <link>https://www.theguardian.com/artanddesign/jonathanjonesblog/2014/aug/14/top-10-ancient-greek-artworks-jonathan-jones</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						August 14, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

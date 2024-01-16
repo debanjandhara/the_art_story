@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>duchamp_marcel</id>
+    <name>Marcel Duchamp</name>
+    <type>artist</type>
+    <is_influences>true</is_influences>
+    <active_section>artists</active_section>
+    <years>1902 - 1968</years>
+    <description>Duchamp challenged the very notion of what is art, and sent shock waves across the art world that can still be felt today. Readymade, Dada, Fountain+</description>
+    <bio_description>Marcel Duchamp's childhood, diverse and creative career, relationships, episodes, biographical photos, influences and legacy.</bio_description>
+    <art_description>Marcel Duchamp's paintings, sculptures, and innovations - with analysis and explanation of overall contribution to the arts.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>4</highlight>
+    <occupation>Painter and Sculptor</occupation>
+    <nationality>French</nationality>
+    <birthDate>July 28, 1887</birthDate>
+    <birthPlace>Normandy, France</birthPlace>
+    <deathDate>October 2, 1968</deathDate>
+    <deathPlace>Neuilly-sur-Seine, France</deathPlace>
+    <use_big_images>true</use_big_images>
+    <img_version>?1</img_version>
+    <big_bio_box_img>&lt;i&gt;Five-Way Portrait&lt;/i&gt; of Marcel Duchamp, New York City (June 21st, 1917)</big_bio_box_img>
+    <bio_highlight>The artistic inquiries of the highly innovative Cubists were not enough for Duchamp, he continued such early experiments throughout a life that was questioning, redefining, and unorthodox - leading to art beyond what the world thought possible.</bio_highlight>
+    <art_type>Art</art_type>
+    <pub_time>11/21/2011</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>cubism</include>
+    <include>dada</include>
+    <include>readymade</include>
+    <include>surrealism</include>
+    <include>conceptual_art</include>
+  </includes>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>dada</movement>
+    <movement>readymade</movement>
+    <movement>surrealism</movement>
+    <movement>conceptual_art</movement>
+    <movement>satirical_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>ernst_max</artist>
+    <artist>ray_man</artist>
+    <artist>picabia_francis</artist>
+    <artist>guggenheim_peggy</artist>
+    <artist>cage_john</artist>
+    <artist>von_freytag_loringhoven_elsa</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"You cannot define electricity. The same can be said of art. It is a kind of inner current in a human being, or something which needs no definition."</q>
+    <q>"I don't believe in art. I believe in artist."</q>
+    <q author="The Creative Act (1957)">"To all appearances, the artist acts like a mediumistic being who, from the labyrinth beyond time and space, seeks his way out to a clearing."</q>
+    <q>"I have forced myself to contradict myself in order to avoid conforming to my own taste."</q>
+    <q>"The individual, man as a man, man as a brain, if you like, interests me more than what he makes, because I've noticed that most artists only repeat themselves."</q>
+    <q>"[Art] is paradoxical. It is almost schizophrenic. On one side I worked from a very intellectual form of activity, and on the other de-deifying everything by more materialistic thoughts."</q>
+    <q author="1962 Letter to Hans Richter">"When I discovered ready-mades I thought to discourage aesthetics. In Neo-Dada they have taken my ready-mades and found aesthetic beauty in them. I threw the bottle-rack and the urinal into their faces as a challenge and now they admire them for their aesthetic beauty."</q>
+    <q>"The idea of repeating, for me, is a form of masturbation."</q>
+    <q>"The readymade is the consequence of the refusal which made me say: There are so many people who make pictures with their hands, that one should end up not using the hand."</q>
+    <q>"I am still a victim of chess. It has all the beauty of art, and much more. It cannot be commercialized. Chess is much purer than art in its social position."</q>
+    <q author="Jasper Johns">[Duchamp moved art] into a field where language, thought, and vision act upon one another."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Few artists can boast of having changed the course of art history in the way that Marcel Duchamp did. By challenging the very notion of what is art, his first &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt; sent shock waves across the art world that can still be felt today. Duchamp's ongoing preoccupation with the mechanisms of desire and human sexuality as well as his fondness for wordplay aligns his work with that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt;, although he steadfastly refused to be affiliated with any specific artistic movement &lt;i&gt;per se&lt;/i&gt;. In his insistence that art should be driven by ideas above all, Duchamp is generally considered to be the father of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual art&lt;/span&gt;. His refusal to follow a conventional artistic path, matched only by a horror of repetition which accounts for the relatively small number of works Duchamp produced in the span of his short career, ultimately led to his withdrawal from the art world. In later years, Duchamp famously spent his time playing chess, even as he labored away in secret at his last enigmatic masterpiece, which was only unveiled after his death.</synopsys>
+    <key_ideas>
+      <idea>Coined by Duchamp, the term "readymade" came to designate mass-produced everyday objects taken out of their usual context and promoted to the status of artworks by the mere choice of the artist. A performative act as much as a stylistic category, the readymade had far-reaching implications for what can legitimately be considered an object of art.</idea>
+      <idea>Duchamp rejected purely visual or what he dubbed "retinal pleasure," deeming it to be facile, in favor of more intellectual, concept-driven approaches to art-making and, for that matter, viewing. He remained committed, however, to the study of perspective and optics which underpins his experiments with kinetic devices, reflecting an ongoing concern with the representation of motion and machines common to Futurist and Surrealist artists at the time.</idea>
+      <idea>A taste for jokes, tongue-in-cheek wit and subversive humor, rife with sexual innuendoes, characterizes Duchamp's work and makes for much of its enjoyment. He fashioned puns out of everyday expressions which he conveyed through visual means. The linguistic dimension of his work in particular paved the way for Conceptual art.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+			<p type="img" alt="Duchamp (third row, left), and his class at the Lycée Pierre-Corneille in Rouen (1902). Also present are French artists Robert Antoine Pinchon and Pierre Dumont (both second row, right)" show="1">/images20/photo/photo_duchamp_marcel_1.jpg</p>
+          <p type="p">Marcel Duchamp was raised in Normandy, in a family of artists. His father was mayor of Blainville and his mother raised their seven children and painted landscapes depicting the French countryside. Family time was spent playing chess, reading, painting, and playing music. One of Marcel's earliest artworks, &lt;i&gt;Landscape at Blainville&lt;/i&gt; (1902), painted at age fifteen, reflected his family's love of Claude Monet. Marcel was close to his two older brothers, and in 1904, after both had left home to become artists, he joined them in Paris to study painting at Académie Julian. His brother, Jacques Villon, supported him during his studies, and Marcel earned some income by working as a cartoonist. Duchamp's early drawings evince his ongoing interest in visual and verbal puns.</p>
+        </subsection>
+        <subsection title="Early Training">
+			<p type="img" alt="A 1920-21 portrait of Duchamp by American photographer Man Ray." show="1">/images20/photo/photo_duchamp_marcel_2.jpg</p>
+          <p type="p">Paris in the early 1900s was the ideal place for Duchamp to become acquainted with modern trends in painting. Duchamp studied &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;, and was captivated by new approaches to color and structure. He related above all to the Cubist notion of reordering reality, rather than simply representing it. His early paintings, such as &lt;i&gt;Nude Descending A Staircase&lt;/i&gt; (1912), illustrate Duchamp's interest in machinery and its connection to the body's movement through space, implicit in early Modernism. However, Duchamp was most attracted to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; notions of the artist as an anti-academic, and felt an affinity in this respect with one of his early heroes, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolist&lt;/span&gt; painter and graphic artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-redon_odilon"&gt;Odilon Redon&lt;/span&gt;. Early in his career, Duchamp developed a taste for the mysterious allure of Symbolist subject matter, such as the woman as elusive &lt;i&gt;femme fatale&lt;/i&gt;. This deep-seated interest in the themes and exploration of sexual identity and desire would lead Duchamp toward Dadaism and Surrealism.</p>
+        </subsection>
+        <subsection title="Mature Period">
+			<p type="img" alt="Duchamp (far left) at Coney Island in 1917 with his friends, collaborators, and fellow Dada artists, Francis Picabia and Beatrice Wood" show="1">/images20/photo/photo_duchamp_marcel_3.jpg</p>
+          <p type="p">In 1911, the twenty-five-year-old Marcel Duchamp met Francis Picabia, and the following year attended a theater adaptation of Raymond Roussel's &lt;i&gt;Impressions d'Afrique&lt;/i&gt; with Picabia and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;. This experience, and Roussel's inventive plots and puns in particular, made a deep impression on Duchamp. He noted that, for the first time, he "felt that as a painter it was much better to be influenced by a writer than by another painter." This interest in cross-genre pollination would influence the artist to develop an eclectic approach to art making.</p>
+          <p type="p">In 1915, Duchamp immigrated to New York and conceived and manufactured several &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt;. By signing them, Duchamp laid claim to found objects, such as a snow shovel, a urinal, or a bicycle wheel.  These objects, tied symbolically to themes of desire, eroticism and childhood memory, were designed to show the absurdity of canonizing &lt;i&gt;avant-garde&lt;/i&gt; art practice.</p>
+          <p type="p">He also devoted seven years - 1915 to 1923 - to planning and executing one of his two major works, &lt;i&gt;The Bride Stripped Bare by Her Bachelors, Even, or The Large Glass&lt;/i&gt;. This installation of machinery wedged between glass panels was Duchamp's first "aesthetic manifesto," marking his rejection of outmoded painterly obsessions with pleasing the eye (in a theory he called the "Retinal Shudder"). &lt;i&gt;The Bride Stripped Bare by Her Bachelors, Even, or The Large Glass&lt;/i&gt; thematically investigated eroticism and desire, which was typical of Duchamp's &lt;i&gt;oeuvre&lt;/i&gt;.</p>
+        </subsection>
+        <subsection title="Later Years">
+          <p type="p">As Surrealism became popular in France, Duchamp traveled between New York and Paris, participating in printed textual projects, sculptural installations, and collaborations in all mediums with the Surrealists.  Yet Duchamp always stayed away from groups - that invariably came with their group politics.  He was never truly part of the Surrealist group. Moreover, he was not really part of Dada either. According to research by curator and writer Catherine Craft, Duchamp's readymades actually preceded the founding of the Dada movement in Zurich. As they fit the overall mindset of the movement, much later, when Dada was superceded by Surrealism, Duchamp was able to align himself with Dada, and thereby include his art in art history without fully immersing himself in the movement.</p>
+          <p type="img" alt="Around 1920, Duchamp developed Rrose Selavy, his female alter ego. The name was a play on the French adage“Eros, c’est la vie” (“Love/Sex, it is life”). Selavy was frequently photographed by Man Ray." show="1">/images20/photo/photo_duchamp_marcel_4.jpg</p>
+		  <p type="p">As of 1920, Duchamp adopted an alternate female persona, Rrose Selavy, to fully explore ideas of sexual identity. He continued to make readymades and exhibited his famous &lt;i&gt;Bottle Rack&lt;/i&gt; series - an edition of eight bottle racks signed by Duchamp - in 1936. Yet in time, Duchamp secluded himself from the greater art world and kept to a tight-knit group of artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, who photographed Duchamp many times throughout his life. For over twenty years Duchamp labored in complete secrecy at his second masterwork, &lt;i&gt;Etant donnes&lt;/i&gt;, an elaborate, sexualized diorama (the work is currently permanently installed at the Philadelphia Museum of Art). He shunned the public eye, preferring instead to play chess with select guests until his death in 1968.</p>
+        </subsection>
+        <subsection title="Legacy">
+			<p type="img" alt="Marcel Duchamp, pictured with his brothers, Jacques Villon and Raymond Duchamp-Villon (both of whom were major artists) in the garden of Villon’s studio (1913)." show="1">/images20/photo/photo_duchamp_marcel_5.jpg</p>
+          <p type="p">After he withdrew from the art world, Duchamp remained a passive, if influential, presence in New York avant-garde circles until he was rediscovered in the 1950s by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt; - the so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dadaists&lt;/span&gt;. Interestingly, at around this time Duchamp welcomed an association with Dadaism - willing to be associated with a group many years after the group's demise, without ever having to confirm to the politics and issues that usually rule group dynamics. Duchamp virtually wrote himself into the movement, and thereby, art history.</p>
+          <p type="p">Duchamp's insistence that art should be an expression of the mind rather than the eye or the hand spoke to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalists&lt;/span&gt; and Conceptual artists alike. It ushered in a new era summed up by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kosuth_joseph"&gt;Joseph Kosuth's&lt;/span&gt; claim that "all art (after Duchamp) is conceptual (in nature) because art only exists conceptually." The seminal concept of the mass-produced readymade was eagerly seized upon not only by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; and other &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop artists&lt;/span&gt; who claimed Duchamp as their founding father but also, owing to its performative aspects, by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fluxus"&gt;Fluxus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance artists&lt;/span&gt;.</p>
+          <p type="p">Duchamp's radical critique of art institutions made him a cult figure for generations of artists who, like him, refused to go down the path of a conventional, commercial artistic career. Though his work was admired for its wide-ranging use of artistic materials and mediums, it is the theoretical thrust of Duchamp's eclectic but relatively limited output that accounts for his growing impact on successive waves of 20&lt;sup&gt;th&lt;/sup&gt;-century avant-garde movements and individual artists who openly acknowledged his influence.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="picasso_pablo">Les Demoiselles d'Avignon (1907)</artwork>
+    <artwork from="artist" page="picabia_francis">Très rare tableau sur la terre (Very Rare Picture on the Earth) (1915)</artwork>
+    <artwork from="artist" page="ray_man">Objet à détruire (Object to be Destroyed) (1923)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>jarry_alfred</entity>
+        <entity>manet_edouard</entity>
+        <entity>matisse_henri</entity>
+        <entity>picasso_pablo</entity>
+        <entity>braque_georges</entity>
+      </column>
+      <column>
+        <entity>breton_andre</entity>
+        <entity>ernst_max</entity>
+        <entity>ray_man</entity>
+        <entity>apollinaire_guillaume</entity>
+        <entity>picabia_francis</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>futurism</entity>
+        <entity>symbolism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>warhol_andy</entity>
+        <entity>johns_jasper</entity>
+        <entity>rauschenberg_robert</entity>
+        <entity>koons_jeff</entity>
+        <entity>hirst_damien</entity>
+      </column>
+      <column>
+        <entity>breton_andre</entity>
+        <entity>guggenheim_peggy</entity>
+        <entity>cage_john</entity>
+        <entity>greenberg_clement</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>surrealism</entity>
+        <entity>pop_art</entity>
+        <entity>neo_dada</entity>
+        <entity>conceptual_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Nude Descending A Staircase</title>
+      <year>1912</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Nude Descending A Staircase&lt;/i&gt; initially met with an unfavorable response at the Salon des Ind&amp;#233;pendants, dominated by the Cubist avant-garde who objected to what they deemed as its Futurist leanings, but enjoyed a &lt;i&gt;succes de scandale&lt;/i&gt; at the 1913 Armory Show in New York. More than a study of the body's movement through space, the work is an early figurative exercise in painting cinematically, akin to Eadweard Muybridge's sequences of photographs that anticipated motion pictures. This painting together with the contemporaneous &lt;i&gt;Passage from Virgin to Bride&lt;/i&gt; marks the end of Duchamp's short-lived career as a painter.</desc>
+      <collection>The Philadelphia Museum of Art: Collection of Louise and Walter Arenberg</collection>
+    </artwork>
+    <artwork>
+      <title>3 Standard Stoppages</title>
+      <year>1913-14</year>
+      <materials>Mixed media</materials>
+      <desc>Art takes on a scientific guise in this intricate piece whose several component parts are neatly displayed alongside or slotted into a bespoke wooden case. To make this piece, which reads like a visual demonstration of the workings of chance, Duchamp dropped three threads, each exactly one meter long, from a height of one meter. He then carefully recorded the random outline of the fallen thread on canvas, glass and wood. Chance also dictated his choice of title: Duchamp apparently hit upon &lt;i&gt;stoppages&lt;/i&gt;, French for the "invisible mending" of a garment, after walking past a shop sign advertising sewing supplies.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Bride Stripped Bare by Her Bachelors, Even, or The Large Glass</title>
+      <year>1915-1923</year>
+      <materials>Mixed media</materials>
+      <desc>&lt;i&gt;The Bride Stripped Bare by Her Bachelors, Even, or The Large Glass&lt;/i&gt; was partly inspired by author Raymond Roussel's use of homophones, words that sound alike but have different meanings. Duchamp frequently resorted to puns and double-meanings in his work.With &lt;i&gt;The Large Glass&lt;/i&gt;, he sought to make an artwork that could be both visually experienced and "read" as a text. After attending a performance of Roussel's &lt;i&gt;Impressions d'Afrique&lt;/i&gt;, Duchamp envisioned a sculptural assemblage as a stage of sorts. Preliminary studies for this stage, which would have been over nine feet tall, included depictions of an abstracted "bride" being attacked by machine-like figures in chaotic motion. The constructed gadgetry featured between the two glass panels was also likely inspired by Duchamp's study of mathematician Henri Poincare's physics theorems.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Fountain</title>
+      <year>1917</year>
+      <materials>Urinal</materials>
+      <desc>The most notorious of the readymades, &lt;i&gt;Fountain&lt;/i&gt; was submitted to the 1917 Society of Independent Artists under the pseudonym R. Mutt. The initial R stood for Richard, French slang for "moneybags" whereas Mutt referred to JL Mott Ironworks, the New York-based company, which manufactured the porcelain urinal. After the work had been rejected by the Society on the grounds that it was immoral, critics who championed it disputed this claim, arguing that an object was invested with new significance when selected by an artist for display. 
+	  
+	&lt;br/&gt;&lt;br/&gt;
+	  	  
+	  Testing the limits of what constitutes a work of art, &lt;i&gt;Fountain&lt;/i&gt; staked new grounds. What started off as an elaborate prank designed to poke fun at American avant-garde art, proved to be one of most influential artworks of the 20&lt;sup&gt;th&lt;/sup&gt; century.
+	  
+	&lt;br/&gt;&lt;br/&gt;
+	
+	 This, now infamous, artwork garnered new attention in the 21st century.  In 2014 an article was published that claimed Dada artist and poet Baroness Elsa von Freytag-Loringhoven was the original creator of the work. Though much of the "evidence" backing these claims has been disproven, this remains an issue of contention.
+	  
+	  </desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>L.H.O.O.Q</title>
+      <year>1919</year>
+      <materials>Collotype</materials>
+      <desc>Marcel Duchamp's scandalous L.H.O.O.Q is an altered postcard reproduction of Leonardo Da Vinci's Mona Lisa. For this "assisted" (which implied a degree of manipulation as opposed to the "unassisted") readymade, Duchamp penciled a moustache and a goatee over Mona Lisa's upper lip and chin, and re-titled the artwork. The title riffs on the French pronunciation of the letters, "Elle a chaud au cul," which roughly translates as "She has a hot ass." Rather than transmuting an ordinary, manufactured object into a work of art, as in the bulk of his readymades, in L.H.O.O.Q Duchamp starts with the representation of an iconic masterpiece that he takes down from its pedestal by playfully debunking it. In endowing the Mona Lisa with masculine attributes, he alludes to Leonardo's purported homosexuality and gestures at the androgynous nature of creativity. Duchamp is clearly concerned here with gender role-reversals, which later come to the fore in Man Ray's portraits of the artist dressed as his female alter ego, Rrose Selavy.</desc>
+      <collection>Museum Boijmans Van Beuningen, Rotterdam</collection>
+    </artwork>
+    <artwork>
+      <title>Fresh Widow</title>
+      <year>1920</year>
+      <materials>Painted wood, glass, leather</materials>
+      <desc>This miniature model of a traditional French window was made to Duchamp's specifications by a carpenter in New York. The title, inscribed at the base along with the words "COPYRIGHT ROSE SELAVY 1920," would have been an obvious pun in the aftermath of World War I, which turned many a lusty or "fresh" young spouse into a widow. (Incidentally, the work marks the debut of Duchamp's feminine alter ego, Rose Selavy.) As if to signal mourning, the eight windowpanes are covered in black polished leather, which fully blocks out the view, thus playing havoc with the notion of painting as a window onto the world.</desc>
+      <collection>Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Rotary Demisphere (Precision Optics)</title>
+      <year>1925</year>
+      <materials>Mixed media</materials>
+      <desc>Duchamp's known aversion for what he termed "retinal art" did not prevent him from conducting optical experiments by means of kinetic sculptures such as this one (though he refused to consider them as artworks). Based on an earlier model Duchamp and Man Ray had experimented with in 1920, &lt;i&gt;Rotary Demisphere (Precision Optics)&lt;/i&gt; consists of a white papier-mache globe mounted on a velvet-lined disk that calls to mind the rings of Saturn. The globe is covered with black concentric circles arranged to form a spiral that appears to pulsate when spinning. Engraved on a copper ring around the globe's circumference, the inscription "&lt;i&gt;RROSE SELAVY ET MOI ESQUIVONS LES ECCHYMOSES DES ESQUIMAUX AUX MOTS EXQUIS&lt;/i&gt;," ("Rrose Selavy and I dodge the Eskimos' bruises with exquisite words.") When pronounced in French, the phrase wittily conveys the hypnotic visual effect verbally through a complex of echoing sounds.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>La Boite-en-Valise (Box in a Suitcase)</title>
+      <year>1935-41</year>
+      <materials>Mixed media</materials>
+      <desc>Like a traveling salesman's kit, this &lt;i&gt;Boite-en-Valise (Box in a Suitcase)&lt;/i&gt; is one of twenty-four editions of a leather case that contains sixty-nine miniature reproductions of Duchamp's artworks. Each box offered different, hand-colored art pieces affixed to the lid's inside. Sections in the boxes slide out and unfold to show prints mounted on black board. This work exemplifies the lack of boundary between original and reproduction that Duchamp developed with his readymades. The box also functions as a portable museum: Duchamp made it for his move to New York in 1942, and included selections of his work made up to that date. &lt;i&gt;La Boite-en-Valise&lt;/i&gt; calls to mind Andr&amp;#233; Malraux's "museum without walls," not least in its use of photographic reproductions.</desc>
+      <collection>Harvard Art Museums/Fogg Museum, Cambridge, MA, Cambridge, MA</collection>
+    </artwork>
+    <artwork>
+      <title>Etant donnes</title>
+      <year>1946-66</year>
+      <materials>Painted wood, latex, and fabric</materials>
+      <desc>Installed behind a heavy wooden door that was found in Spain and shipped to New York, &lt;i&gt;Etant donnes&lt;/i&gt; consists of a diorama viewed through two eyeholes. The scene depicts a nude woman, possibly dead, with her legs splayed, holding an illuminated gas lamp. A mountainous landscape, based on a photo Duchamp shot in Switzerland, creates the background setting. Built in secret over a period of more than twenty years, &lt;i&gt;Etant donnes&lt;/i&gt; is considered Duchamp's second major work. He made an entire manual for its installation, which is reproduced in facsimile and available in print. At first glance, &lt;i&gt;Etant donnes&lt;/i&gt; is a direct reference to Courbet's painting, &lt;i&gt;Origine du Monde&lt;/i&gt; (1866). Yet upon closer consideration, the piece can be viewed as a reflection on the boundaries between artist and spectator, as a means to question self-consciousness, or as a meditation on spiritual purpose through the symbolism of a lit lamp.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Priere de Toucher (Please Touch)</title>
+      <year>1947</year>
+      <materials>Book with latex breast</materials>
+      <desc>&lt;i&gt;Priere de Toucher (Please Touch)&lt;/i&gt; was designed by Duchamp to accompany the seminal 1947 International Surrealist exhibition he co-curated with Andr&amp;#233; Breton. For the limited edition of the exhibition catalogue, Duchamp and the Surrealist artist Enrico Donati hand-colored 999 foam rubber "falsies," or false breasts, to glue onto black velvet which adhered to the removable book covers. This catalogue, the exhibition it was based on, and a future exhibition on which Duchamp and Breton collaborated yet again, "Exposition Internationale du Surrealisme (1959-60)," mark Duchamp's thematic overlap with the Surrealists, namely an obsession with eroticism.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Defining Modern Art</title>
+          <link>/definition/modern-art/</link>
+          <info>Take a look at the big picture of modern art, and Duchamp's role in it.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Dialogues With Marcel Duchamp</title>
+          <link>0306803038</link>
+          <info>By Pierre Cabanne</info>
+        </entry>
+        <entry>
+          <title>The Duchamp Effect</title>
+          <link>0262522179</link>
+          <info>By Martha Buskirk, Mignon Nixon</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp: Works, Writings, Inteviews</title>
+          <link>8434311984</link>
+          <info>By Gloria Moure, Marcel Duchamp</info>
+        </entry>
+        <entry recommended="true">
+          <title>Duchamp: A Biography</title>
+          <link>0805057897</link>
+          <info>By Calvin Tomkins</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp: The Bride Stripped Bare</title>
+          <link>0878466444</link>
+          <info>By Alice Goldfarb Marquis</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artwork" class="artwork">
+        <entry>
+          <title>Marcel Duchamp: 1887-1968; Art as Anti-Art</title>
+          <link>3822863165</link>
+          <info>By Janis Mink</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp</title>
+          <link>0500203229</link>
+          <info>By Dawn Ades, David Hopkins, Neil Cox</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp: Artist of the Century</title>
+          <link>0262610728</link>
+          <info>By Rudolf E. Kuenzli, Francis M. Naumann</info>
+        </entry>
+        <entry>
+          <title>The Complete Works of Marcel Duchamp</title>
+          <link>0929445066</link>
+          <info>By Arturo Schwarz</info>
+        </entry>
+        <entry>
+          <title>The Duchamp Book (Tate Essential Artists)</title>
+          <link>1854377663</link>
+          <info>By Gavin Parkinson</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Affectionately, Marcel</title>
+          <link>9055442496</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>The Writings of Marcel Duchamp</title>
+          <link>0306803410</link>
+          <info/>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Art Science Research Laboratory</title>
+          <link>http://asrlab.org/project/duchamp-studies/</link>
+          <info>Organization with 3 Duchamp-related initiatives including the Marcel Duchamp World Community and the Tout-Fait The Marcel Duchamp Studies Online Journal</info>
+        </entry>
+        <entry>
+          <title>MarcelDuchamp.org</title>
+          <link>http://www.marcelduchamp.org/</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp's Work At The Centre Pompidou</title>
+          <link>http://mediation.centrepompidou.fr/education/ressources/ENS-duchamp_en/ENS-duchamp_en.html</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Anything Goes</title>
+          <link>http://content.time.com/time/subscriber/article/0,33009,1717550,00.html</link>
+          <info>
+						By Matthew Collings
+						&lt;br/&gt;
+						Time Magazine
+						&lt;br/&gt;
+						February 27, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Precision Optics/Optical Illusions</title>
+          <link>http://www.toutfait.com/issues/volume2/issue_5/articles/betancourt/betancourt.html</link>
+          <info>
+						By Michael Betancourt
+						&lt;br/&gt;
+						Tout-Fait
+						&lt;br/&gt;
+						April, 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Face Value</title>
+          <link>http://www.washingtonpost.com/wp-dyn/content/article/2009/04/06/AR2009040603866.html</link>
+          <info>
+						By Blane Gopnik
+						&lt;br/&gt;
+						Washington Post
+						&lt;br/&gt;
+						April 7, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Face Value</title>
+          <link>https://atlaspress.co.uk/marcel-duchamp-was-not-a-thief/</link>
+          <info>
+						By Dawn Ades and Alastair Brotchie
+						&lt;br/&gt;
+						The Burlington Magazine
+						&lt;br/&gt;
+						December 2019
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>The Shock of the New: Marcel Duchamp</title>
+          <link>http://www.youtube.com/watch?v=MpgR_Uv_hgM</link>
+          <info>By historian Robert Hughes</info>
+        </entry>
+        <entry recommended="true">
+          <title>Marcel Duchamp and Hollow Laughter (This Is Modern Art series)</title>
+          <link>https://www.youtube.com/watch?v=2KdpPoRkJMw</link>
+          <info>Part of 6 episodes on Modern Art by critic Matthew Collings</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp, Anemic Cinema</title>
+          <link>http://www.youtube.com/watch?v=dXINTf8kXCc&amp;feature=PlayList&amp;p=612258B47E90F7E2&amp;playnext=1&amp;playnext_from=PL&amp;index=6</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp interviewed in 1966</title>
+          <link>http://www.youtube.com/watch?v=7CFQY0Yf1iI&amp;feature=PlayList&amp;p=5ACFBF60C7AE06B4&amp;index=6</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Lecture: The Lineage of Dada</title>
+          <link>https://www.youtube.com/watch?v=V0RzR-SGH5g</link>
+          <info>Nasher Sculpture Center Associate Curator Catherine Craft presents a lecture on Marcel Duchamp, Robert Motherwell and the Origins of Neo-Dada</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item/>
+      <a_image/>
+      <a_name/>
+    </poster>
+  </posters>
+</data>

@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>klee_paul</id>
+    <name>Paul Klee</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1900 - 1940</years>
+    <description>Paul Klee was an expressionist with the Der Blaue Reiter, and taught at the Bauhaus making fantastic, childlike, or witty works.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>3</highlight>
+    <occupation>Painter</occupation>
+    <nationality>Swiss</nationality>
+    <birthDate>December 18, 1879</birthDate>
+    <birthPlace>Munchenbuchsee, Switzerland</birthPlace>
+    <deathDate>June 29, 1940</deathDate>
+    <deathPlace>Locarno, Switzerland</deathPlace>
+    <big_bio_box_img>Detail of &lt;i&gt;Hammamet With Mosque&lt;/i&gt; (1914) by Paul Klee</big_bio_box_img>
+    <bio_highlight>When the Swiss-born Paul Klee visited Tunisia in 1914, he was looking in part for his "oriental" roots. The walls of the city of Kairouan so impressed him that standing in front of them, he famously said, "color possesses me..the color and I are one." Shortening his visit, he quickly returned to Europe to paint the works for which he became celebrated.</bio_highlight>
+    <pub_time>10/21/2011</pub_time>
+    <hero>true</hero>
+	<custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>expressionism</include>
+    <include>bauhaus</include>
+  </includes>
+  <similar_movements>
+    <movement>expressionism</movement>
+    <movement>bauhaus</movement>
+    <movement>der_blaue_reiter</movement>
+    <movement>concrete_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>albers_josef</artist>
+    <artist>kandinsky_wassily</artist>
+    <artist>schlemmer_oskar</artist>
+    <artist>breuer_marcel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Art does not reproduce the visible; rather, it makes visible."</q>
+    <q>"All art is a memory of age-old things, dark things, whose fragments live on in the artist."</q>
+    <q>"You leave the here and now and instead cross over to a yonder that can be total affirmation, Abstraction. The cool romanticism of this style without pathos is unheard of. The more terrible this world (like today's, for example), the more abstract our art, whereas a happy world produces art from the here and now."</q>
+    <q>"There are indeed very early forms of art around more likely to be found in ethnological museums or at home in the nursery (laugh not, dear reader), for children can paint like this as well. This is by no means a scathing criticism of the efforts of the very young - there is a great deal of positive wisdom in this circumstance. The more helpless these children are, the more instructive their art, for even at this stage there is corruption - when children start to absorb, or even imitate, developed works of art."</q>
+    <q>"Formerly we used to represent things visible on earth, things we either liked to look at or would have liked to see. Today we reveal the reality that is behind visible things, thus expressing the belief that the visible world is merely an isolated case in relation to the universe and that there are other, more latent realities..."</q>
+  </quotes>
+  <authors>
+    <author link="brucker">Julia Brucker</author>
+  </authors>
+  <article>
+    <synopsys>Paul Klee, a Swiss-born painter, printmaker and draughtsman of German nationality, was originally associated with the German &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionist&lt;/span&gt; group &lt;i&gt;Der Blaue Reiter&lt;/i&gt;, and subsequently taught at the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, the widely influential German art school of the interwar period. Klee's diverse body of work cannot, however, be categorized according to any single artistic movement, or "school." His paintings, which are at times fantastic, childlike, or otherwise witty, served as an inspiration to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;New York School&lt;/span&gt;, as well as many other artists of the 20&lt;sup&gt;th&lt;/sup&gt; century.</synopsys>
+    <key_ideas>
+      <idea>Klee was fundamentally a transcendentalist who believed that the material world was only one among many realities open to human awareness. His use of design, pattern, color, and miniature sign systems all speak to his efforts to employ art as a window onto that philosophical principle.</idea>
+      <idea>Klee was a musician for most of his life, often practicing the violin as a warm-up for painting. He naturally saw analogies between music and visual art, such as in the transient nature of musical performance and the time-based processes of painting, or in the expressive power of color as being akin to that of musical sonority. In his lectures at the Bauhaus, Klee even compared the visual rhythm in drawings to the structural, percussive rhythms of a musical composition by the master of counterpoint, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bach_johann_sebastian"&gt;Johann Sebastian Bach&lt;/span&gt;.</idea>
+      <idea>Klee challenged traditional boundaries separating writing and visual art by exploring a new expressive, and largely abstract or poetic language of pictorial symbols and signs. Arrows, letters, musical notation, ancient hieroglyphs, or a few black lines standing in for a person or object frequently appear in his work, while rarely demanding a specific reading.</idea>
+      <idea>Klee greatly admired the art of children, who seemed to create free of models or previous examples. In his own work he often strove to achieve a similar untutored simplicity, often by employing intense colors inspired by an early trip to North Africa, and by line drawing in the unstudied manner of an everyday craftsman.</idea>
+      <idea>Klee constantly experimented with artistic techniques and the expressive power of color, in the process often breaking traditional or "academic" rules of painting in oils on canvas. Klee also applied paint in unusual ways, such as spraying and stamping during his years at the Bauhaus. Keeping his work within the realm of the "ordinary," Klee also painted on a variety of everyday materials, such as burlap, cardboard panel, and muslin.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Paul Klee was born to a German father who taught music at the Berne-Hofwil teacher's college and a Swiss mother trained as a professional singer. Encouraged by his musical parents, he took up violin at age seven. His other hobbies, drawing and writing poems, were not fostered in the same way. Despite his parents' wishes that he pursue a musical career, Klee decided he would have more success in the visual arts, a field in which he could create rather than just perform.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Klee's academic training focused mostly on his drawing skills. He studied in a private studio for two years before joining the studio of German symbolist Franz von Stuck in 1900. During his studies in Munich, he met Lily Stumpf, a pianist, and the couple married in 1906. Lily's work as a piano instructor supported Klee's early years as an artist, even after the birth of their son, Felix, in 1907.</p>
+          <p type="img" alt="Paul Klee Biography" show="0">/images20/photo/klee_2.jpg</p>
+          <p type="p">Klee remained isolated from the developments of modern art until 1911, when he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marc_franz"&gt;Franz Marc&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-macke_august"&gt;August Macke&lt;/span&gt; of &lt;i&gt;Der Blaue Reiter&lt;/i&gt;. He participated in the second &lt;i&gt;Blaue Reiter&lt;/i&gt; exhibition in 1912 and saw there the work of other &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;. Klee visited Delaunay's studio in Paris that same year. His experiments with abstraction began at about this time.</p>
+          <p type="p">Klee's trip to Tunisia in 1914 changed his relationship with color. "Color and I are one," he declared in his diaries. "I am a painter." Traveling with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-macke_august"&gt;August Macke&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moilliet_louis"&gt;Louis Moilliet&lt;/span&gt;, he drew and painted watercolor landscapes of Tunis, Hammamet, and Kairouan. After Klee's return, he created several abstract works based on his Tunisian watercolors.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Klee's views on abstract art were influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-worringer_wilhelm"&gt;Wilhelm Worringer's&lt;/span&gt; thesis &lt;i&gt;Abstraction and Empathy&lt;/i&gt; (1907), which hypothesized that abstract art was created in a time of war. World War I broke out only three months after Klee had returned from Tunisia. Klee was called to duty in 1916, but was spared the front. Meanwhile, he enjoyed financial success, especially after a large exhibition in Der Sturm Gallery in Berlin. Klee was reserved in his opinions against the war, but when a communist government was declared in Munich in November 1918, he enthusiastically accepted a position on the Executive Committee of Revolutionary Artists. The November Revolution failed soon thereafter and Klee returned to Switzerland.</p>
+          <p type="img" alt="Paul Klee Photo" show="0">/images20/photo/klee_3.jpg</p>
+          <p type="p">Klee accepted an invitation to teach at the Staatliches Bauhaus in Weimar in 1920. The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; was an influential school of architecture and industrial design that aimed to provide students with a grounding in all of the visual arts. Klee taught at the school for ten years, moving with the Bauhaus from Weimar to Dessau in 1925. He taught workshops in book binding and painting stained glass, but his influence as a teacher was most noted in his series of detailed lectures on visual form (&lt;i&gt;Bildnerische Formlehre&lt;/i&gt;).</p>
+          <p type="p">In 1930 Klee left the Bauhaus for the art academy in Düsseldorf, but this brief period of calm ended on January 30, 1933, when Hitler was named Chancellor of Germany. Klee was denounced as a "Galician Jew" and a "cultural Bolshevik," and his work derided as "subversive" and "insane." His house in Dessau was searched, and in April 1933 he was dismissed from his teaching position. Klee and his wife returned to Berne in December.</p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Paul Klee Portrait" show="0">/images20/photo/klee_4.jpg</p>
+          <p type="p">Two years after returning to Switzerland, Klee fell ill with a disease that would later be diagnosed as progressive scleroderma, an autoimmune disease that hardens the skin and other organs. The artist created only 25 works the year after he fell ill, but his creativity resurged in 1937 and increased to a record 1,253 works in 1939. His late works dealt with the grief, pain, resilience, and acceptance of approaching death.</p>
+          <p type="p">Several of Klee's works were included in the "Degenerate Art" exhibition staged by the National Socialists in Munich in 1937. The accusations against Klee's character and politics that had been waged against him in Germany complicated his application for Swiss citizenship in 1939. While he had been born in Switzerland, his father was German, which according to Swiss law meant that Klee was a German citizen. Klee died on June 29, 1940 in Locarno, Switzerland, before his final application could be approved.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Klee's artistic legacy has been immense, even if many of his successors have not referenced his work openly as an apparent source or influence. During his lifetime, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt; found Klee's seemingly random juxtaposition of text, abstract signs, and reductive symbols suggestive of the way the mind in dream state recombines disparate objects of everyday and thus brings forth new insights into how the unconscious wields power even over waking reality.</p>
+          <p type="p">In European art after the 1940s, artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt; continued to reference the art of children as a kind of untutored, expressive ideal. Klee's reputation grew considerably in the 1950s, by which time, for instance, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; could view his work in New York exhibitions. Klee's use of signs and symbols particularly interested the artists of the New York School, especially those interested in mythology, the unconscious, and primitivism (as well as the art of the self-trained and that of children). Klee's use of color as an expressive medium of human emotion in its own right also appealed to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field painters&lt;/span&gt;, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-olitski_jules"&gt;Jules Olitski&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frankenthaler_helen"&gt;Helen Frankenthaler&lt;/span&gt;. Finally, American artists maturing in the 1960s and 1970s, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kelly_ellsworth"&gt;Ellsworth Kelly&lt;/span&gt; owed a debt to Klee for his pioneering color theory during the Bauhaus period.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="albers_josef">Soft Spoken (1969)</artwork>
+    <artwork from="artist" page="kandinsky_wassily">Composition IV (1911)</artwork>
+    <artwork from="artist" page="ernst_max">Celebes (1921)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>delaunay_robert</entity>
+        <entity>marc_franz</entity>
+      </column>
+      <column>
+        <entity>albers_josef</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>walden_herwarth</entity>
+      </column>
+      <column>
+        <entity>expressionism</entity>
+        <entity>cubism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>ernst_max</entity>
+        <entity>baziotes_william</entity>
+      </column>
+      <column>
+        <entity>grohmann_will</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Winged Hero (Der Held mit dem Flugel)</title>
+      <year>1905</year>
+      <materials>Etching with drypoint on zinc</materials>
+      <desc>Klee was first a draughtsman before becoming a painter. The etchings in his early series, &lt;i&gt;Inventions&lt;/i&gt;, demonstrate Klee's ability to manipulate line and tonal value to create a figure with strange and grotesque limbs. An artist's inscription in the bottom right corner of the picture explains the underlying concept: "Because this man was born with one wing, he believed he could fly. His attempts, of course, have only resulted in crashes and a broken left arm and leg." The strange creature could very well represent a kind of self-portrait of the typical progressive artist at the turn of the 20&lt;sup&gt;th&lt;/sup&gt; century, perpetually pursuing his full potential while repeatedly struggling against public incomprehension or apathy.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Hammamet with Its Mosque</title>
+      <year>1914</year>
+      <materials>Watercolor and pencil on paper</materials>
+      <desc>The bright light of Tunisia inspired Klee to create pictures of colorful watercolor washes. The upper half of the painting is representational, while the composition of the lower half follows Robert Delaunay's proposal to use color and its contrasts to expressive purposes- here a juxtaposition of red and green patches in the manner of a folk textile, or other such popular craft tradition. Klee suggests that color, shape, and the faintest suggestion of a subject are enough to powerfully re-create in the eye of the viewer the actual feeling of repose that the artist experienced in the original landscape.</desc>
+      <collection>Berggruen Klee Collection, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Affected Place [&lt;i&gt;Betroffener Ort&lt;/i&gt;]</title>
+      <year>1922</year>
+      <materials>Ink, pencil, and watercolor on paper; top and bottom strips with watercolor and ink, mounted on cardboard</materials>
+      <desc>Created in Klee's early Bauhaus years, this piece shows a scene of ambiguous signs and symbols over a background of modulated purples and oranges. The various strips of color hint at a horizon, their horizontal emphasis counteracted only by the boldly painted arrow, which abruptly suggests something as ordinary as a road sign. Like the many gradations of color, the arrow generates movement, compelling the viewer's eye to the center of the picture. The influence on Klee of Cubist still lifes, such as those of Picasso and Braque, is clearly apparent: Klee suggests a motif painted from nature while also cancelling it, as though to remind us that this is no window but a kind of abstract sign system.</desc>
+      <collection>Zentrum Paul Klee, Berne</collection>
+    </artwork>
+    <artwork>
+      <title>The Twittering Machine [&lt;i&gt;Die Zwitschermaschine&lt;/i&gt;]</title>
+      <year>1922</year>
+      <materials>Oil transfer and watercolor on paper, framed in watercolor and ink, on cardboard</materials>
+      <desc>The title alludes to a kind of child's toy or domestic ornament, four mechanical birds resting on a hand crank, ready to sing when the crank is turned. In their still state, they give an intimidating impression, their gaping, menacing beaks the only sign that these are birds in the first place. Dadaist and proto-Surrealist fantasy and a sense of alarm in the face of the most ordinary item of every life is underlying this little, otherwise playful inscription. Klee used an innovative technique to create this mixed-media piece: he drew on top of a sheet of paper that had been first covered in black oil pigment, which resulted in the blurred lines and black marks of the background.</desc>
+      <collection>The Museum of Modern Art, New York, Mr. John D. Rockefeller Jr. Purchase Fund</collection>
+    </artwork>
+    <artwork>
+      <title>Highway and Byways [&lt;i&gt;Hauptweg und Nebenwege&lt;/i&gt;]</title>
+      <year>1928</year>
+      <materials>Oil on canvas on canvas stretcher</materials>
+      <desc>Klee visited Egypt in 1928, inspired by the North African country to create brightly colored abstract works. Yet, like many of his others, this painting is not quite fully divorced from its real world subject. Narrow blue rectangles at the top of the canvas suggest the sky, while uneven rectangles and trapezoids create paths leading one's eye from the bottom of the page to the elevated horizon. Broad trapezoids painted pale hues are arranged down the center of the canvas to suggest a main road. Thus Klee manipulates color, shape, and line to create a sense of real-world depth and movement.</desc>
+      <collection>Museum Ludwig, Cologne</collection>
+    </artwork>
+    <artwork>
+      <title>Death and Fire</title>
+      <year>1940</year>
+      <materials>Oil and colored paste on burlap</materials>
+      <desc>The German word for death, &lt;i&gt;Tod&lt;/i&gt;, makes up the features of the white face in the center of the picture, so powerfully, yet simply reminiscent of a human or an animal skull. "Tod" may be found again in the "T" shape of the figure's raised arm, the golden orb in its hand, and the D shape of its face. Perhaps a minimally described man walks toward Death, or perhaps towards the glowing sun held in Death's hand. The image juxtaposes the cold white with the warm reds and yellows, perhaps symbolic, like a kind of cave painting, of the creation of man and the image of his sad mortality. Inspired by Klee's interest in hieroglyphics, &lt;i&gt;Death and Fire&lt;/i&gt; suggests that abstraction and representation have been mutually accommodating, or otherwise complementary means of expression, since time immemorial.</desc>
+      <collection>Zentrum Paul Klee, Bern</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Paul Klee 1879-1940</title>
+          <link>3822802999</link>
+          <info>By Susanna Partsch</info>
+        </entry>
+        <entry>
+          <title>Paul Klee: Painting Music</title>
+          <link>3791332120</link>
+          <info>By Hajo Duchting</info>
+        </entry>
+        <entry>
+          <title>Paul Klee: His Life and Work</title>
+          <link>3775710027</link>
+          <info>By Carolyn Lanchner, O.K. Werckmeister, Ann Temkin</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Pedagogical Sketchbook</title>
+          <link>0571086187</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>The Diaries of Paul Klee, 1898-1918</title>
+          <link>0520006534</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Paul Klee: The Thinking Eye. The Notebooks of Paul Klee</title>
+          <link>B0000CL7NA</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="paintings and works" class="artwork">
+        <entry recommended="true">
+          <title>Paul Klee 1879-1940: A Retrospective Exhibition (1967)</title>
+          <link>B0017S28HM</link>
+          <info>Guggenheim Exhibition Catalogue &lt;br/&gt; By Will Grohmann, Felix Klee, Thomas M. Messer </info>
+          <pdflink source="gugenheim">https://archive.org/stream/paulklee1879klee#page/n0/mode/2up</pdflink>
+        </entry>
+        <entry>
+          <title>Paul Klee: Death and Fire</title>
+          <link>3716513229</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Paul Klee</title>
+          <link>2879392012</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites about artist" class="websites">
+        <entry recommended="true">
+          <title>Zentrum Paul Klee</title>
+          <link>http://www.zpk.org/</link>
+          <info>Museum devoted to Klee in Bern, Switzerland</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="transcripts" class="transcripts">
+        <entry recommended="true">
+          <title>Paul Klee, The Observer</title>
+          <link>http://www.swissinfo.ch/eng/specials/paul_klee/Paul_Klee_the_observer.html?siteSect=2551&amp;sid=5769559&amp;cKey=1120114367000&amp;ty=st</link>
+          <info>By Isabelle Eichenberger&lt;br/&gt;Swissinfo&lt;br/&gt;May 25, 2005</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

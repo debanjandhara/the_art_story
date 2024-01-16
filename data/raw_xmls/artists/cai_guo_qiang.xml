@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>cai_guo_qiang</id>
+    <name>Cai Guo-Qiang</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1983 - Present</years>
+    <description>Cai Guo-Qiang utilizes gunpowder and fireworks to offer a new form of performance and spectacle, in insight of the beauty in destruction. </description>
+    <use_big_images>false</use_big_images>
+    <nationality>Chinese</nationality>
+    <occupation>Painter, Installation, and Performance Artist</occupation>
+    <birthDate>December 8, 1957</birthDate>
+    <birthPlace>Quanzhou, Fujian, China</birthPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <img_version>?1</img_version>
+    <art_type>Art</art_type>
+    <pub_time>4/12/2018</pub_time>
+  </main>
+  <includes>
+    <include>installation_art</include>
+    <include>conceptual_art</include>
+    <include>earth_art</include>
+    <include>performance_art</include>
+    <include>postmodernism</include>
+  </includes>
+  <similar_movements>
+    <movement>installation_art</movement>
+    <movement>conceptual_art</movement>
+    <movement>earth_art</movement>
+    <movement>postmodernism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>ai_weiwei</artist>
+    <artist>muniz_vik</artist>
+    <artist>xu_bing</artist>
+    <artist>pollock_jackson</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Using gunpowder brings me closer to nature and even the universe. Of course at the moment of ignition the explosion is instantaneous... but gunpowder has its origins in minerals that took hundreds, thousands or millions of years to form. "</q>
+    <q>"This continuum of human history will be made in a matter of seconds, in a very dramatic, revolutionary transformation. And at this moment of destruction, you create something miraculously beautiful."</q>
+    <q>"Colors kind of distracted me. Black is more pure and spiritual, very emotional, but also dangerous."</q>
+    <q>"Gunpowder is a material from nature. It's explosiveness and dispersal conveys the concept of time and eternity. It is part of the energy of the universe."</q>
+    <q>"Because through art, through people working together and building relationships and trust, people can overcome the problems of politics,"</q>
+    <q>"Art should not be a tool of politics, but sometimes art can help make the political climate more open and help society become more free. In my own art, I try to use my personal voice and effort to enable some Chinese people to see the possibilities of another kind of China. A more open China."</q>
+    <q>"For my art there is a common theme most of the time, it is using the things we can see, to search for the world we cannot see,"</q>
+    <q>"I try to use my art as a channel of communication between man and nature; man and the universe. Who knows where this channel brings you?"</q>
+    <q>"So in art and artistic expression, the things you're trying to relay, they can be full of conflict, and you do not necessarily have to use art to resolve all these conflicts. As long as you acknowledge these conflicts or address the conflict in your art, that is already meaningful."</q>
+  </quotes>
+  <authors>
+    <author link="dias">Sarah Frances Dias</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Rising from the ashes of China's Cultural Revolution, Cai Guo-Qiang forged his way into international art stardom as one of the first Chinese artists to expose the world to contemporary dialogues in Chinese art. Utilizing the groundbreaking mediums of gunpowder and fireworks to synthesize a new form of performance and spectacle into the art-making process, his work is renowned for its ability to leverage tension and fear toward a common consideration of the beauty in destruction. His unique artistic language, in which art becomes a reckless action, has catapulted him into a singular and inimitable role as one of our most innovative modern artists.</synopsys>
+    <key_ideas>
+      <idea>The use of gunpowder in Cai's work carries deep meaning. The material, comprised of minerals that took hundreds of thousands of years to form, has a long lineage in Chinese history as an element of traditional Chinese medicine believed to help make one immortal. The relationship between the ephemeral and the immortal, of connecting heaven to earth, is a key theme for the artist.</idea>
+      <idea>Cai believes that destruction births construction - which runs in a perpetual cycle. Whether seen through the guise of the political, the spiritual, or the personal, this inherent circle of life and death touches all his work, his explosive methodology becoming a metaphor for this dance. As he says, "I'm exploring the connection to unseen power."</idea>
+      <idea>Spirituality, and its link between the seen and unseen worlds, is a constant source of inspiration for the artist who delves into historical Chinese traditions such as Taoism, Buddhism, Feng Shui, Qi Gong, Confucianism, and other practices, to explore and find fodder for his work. His use of largely black and muddied monochrome color represents the purity of the undistracted spiritual.</idea>
+      <idea>Cai believes that everyone is an artist. In this vein, he oftentimes creates large-scale projects within communities that invite participation by both local artists and ordinary citizens to further ideas of communal healing, political unity, and inspire reflections on man's role as both individuals and part of a group.</idea>
+      <idea>Experiencing firsthand the effects of a society falling prey to a totalitarian regime in China, Cai's work oftentimes promotes political ideas of revolution and the romance in idealism as a way to encourage people to consider ways to contribute to a more open sense of the world.</idea>
+      <idea>Cai's explosive mode of creation carries forth early influences of Chinese brush painting, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuy's&lt;/span&gt; "social sculpture," &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaist&lt;/span&gt; provocation, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gutai"&gt;Gutai&lt;/span&gt; performance-painting, and a long history of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance artists&lt;/span&gt; whose processes of making art carry as much weight as their final pieces. Only, Cai has evolved this idea of art making as event to an epic modern scale.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Cai Guo-Qiang was born in 1957 in Quanzhou City in the Fujian Province of China. His father Cai Ruiqin worked at a bookstore, was a collector of old books and manuscripts, and an amateur calligrapher and painter. He transmitted these early appreciations to Cai during his childhood, especially traditional landscape painting and calligraphy, and raised his son with a religious outlook on life, combining Buddhist, Taoist, and Confucianist teachings.</p>
+          <p type="p">In 1966 when Cai turned 9, Mao Zedong's Cultural Revolution began. During this time, in Quanzhou, explosions were quite common; from cannon blasts, from artillery batteries firing into the air, or from firework displays at celebratory events. These defined Cai's first experiences with explosives. Quite particularly, as a child he began having a strange, reoccurring dream of a fireworks display at an empty Tiananmen Square, where he was the only spectator. This image and spectacle ended up exerting a great influence on the young artist's later art.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">During the Cultural Revolution when all art, literature, tradition, and intellectual endeavors were forbidden, Cai's father encouraged him to read the outlawed Western classics, believing that knowledge, and the art of calligraphy, were fundamental for human growth. He still recalls his father burning his precious books in the basement at night, afraid that they would lead to his death. His father then found sanctuary in a Buddhist nunnery where he often wrote his beloved calligraphy with sticks in puddles on the ground. These ephemeral artworks that for Cai left behind "invisible skeins of sorrow," also deeply influenced his later conception of art. "As his son," he claims, "besides working hard to inherit his virtues, I have to challenge this kind of overly rational and timid persona."</p>
+          <p type="p">As a teenager, Cai witnessed the effects of the Revolution and participated in propaganda activities, in movements and parades, collecting and redistributing fliers, demolishing classrooms, and being otherwise rebellious in what he claims to have been a "kind of game." In this climate of oppressiveness and restrictiveness, he found that he could liberate himself through the medium of gunpowder, as he began to experiment and play with firecrackers - he said: "playing with fireworks set me free". In this sense, art scholar and curator Alexandra Munroe claims that "Cai is a product much more than a victim of his time."</p>
+          <p type="p">In his early twenties, he began developing an interest in cinematography and theater. He acted in a martial art film entitled &lt;i&gt;Real Kung Fu of Shaolin&lt;/i&gt; (1980) and enrolled in stage design at the Shanghai Drama Institute in 1981.</p>
+          <p type="img" alt="Photo of young Cai next to an early painting" show="0">/images20/photo/photo_cai_guo_qiang_1.jpg</p>
+          <p type="p">These student years greatly defined Cai's aesthetic thinking and shaped his views as an individual and as an artist. He was greatly influenced by the sense of theatricality, spatial arrangement, and theater production derived from his classes. Yet he was also greatly influenced by his friend Chen Zhen, an artist who was exploring ancient Chinese culture as a counter perspective to contemporary society. After concluding his studies in 1985, he began experimenting with gunpowder and oil paints on canvas, combining theatricality with his love for the medium. Much of his work, especially the gunpowder drawings, was inspired by Maoist and Socialist concepts which strongly mirrored Mao Zedong's tenet "destroy nothing, create nothing." The artist has stated that, "In some sense, Mao Zedong influenced all artists from our generation with his utopian romance and sentiment."</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">A year later, in 1986, Cai went to live in Japan, escaping the constrained environment he found himself immersed in. He lived and worked there with his wife Hong Wu, learning Japanese and further developing his experimentations with gunpowder over the course of nine years.</p>
+          <p type="p">Japan turned out to be a fundamental location for his artistic path, and although he found it hard to make a living, his techniques greatly matured. Most significantly, he discovered that he could ignite explosives directly onto canvas in an intuitively exploratory way, defining an artistic language that would later become his signature style.</p>
+          <p type="img" alt="Cai Guo-Qiang with &lt;i&gt;Ascending Dragon Project for Extraterrestrials&lt;/i&gt; No. 2 in Japan (1989) " show="0">/images20/photo/photo_cai_guo_qiang_2.jpg</p>
+          <p type="p">In 1995, Cai moved to New York on an artist exchange program, a grant from the Asian Cultural Council for a residency at the P.S.1 Studio Program in Long Island. In New York he continued to be recognized for his unusual work, which was rapidly growing both in scale and impact. For Cai this work became a performative event and whether he was making physical pictures out of explosions or ephemeral installations meant to be impermanent and temporarily impactful, he was redefining the possibilities of what art could be, shaking up the status quo and asking viewers to contemplate new ways of considering the creative process. To this regard, art historian Alexandra Munroe adds, that "Cai's rise to international prominence following his move to Japan in 1986 and later to New York in 1995 is unparalleled in contemporary Chinese art".</p>
+          <p type="p">The juxtaposition of Cai as a man and his bombastically derived artwork is notable. He is generally perceived to be relaxed, usually dressed in understated t-shirts, and is generally known as an elegant and pleasant man. Believing in the traditional Chinese conception of energy, he is known for having stopped a project because a shaman told him that the water might contain spirits. Art critic Ron Rosenbaum also explains that when Cai went to Hiroshima, he claimed to have felt the "essence of spirits there." Along with the political, his spirituality oftentimes infiltrates his work as he explores symbols, narratives, and traditions found in such personal interests as Chinese medicine, Feng Shui, shansui paintings, science, and nature.</p>
+          <p type="img" alt="Cai working in his studio (c.2013)" show="0">/images20/photo/photo_cai_guo_qiang_3.jpg</p>
+          <p type="p">Cai still works in New York City, in a studio located in Manhattan's East Village with his ten assistants. The studio was renovated by OMA (Rem Koolhaas's architectural studio) with the idea of it later being turned into a foundation. Cai's artistic life and financial success in America has allowed him to stay outside the political climate of China over these turbulent years.</p>
+          <p type="img" alt="Cai in front of Velázquez's &lt;i&gt;Las Meninas&lt;/i&gt;, photo by Javier Molina (2017)" show="0">/images20/photo/photo_cai_guo_qiang_4.jpg</p>
+          <p type="p">Despite being recognized as distinctively Chinese, Cai's fame has been elevated on a global scale where he is renowned as a cross-cultural artist working on universal ideas and themes. He is generally considered an international art star, and one of the most remarkable contemporary artists of our time. He also owns a property in New Jersey, where he lives with his wife and two daughters. It was redesigned by Frank Gehry and Trattie Davies and includes a main house, a conversion of an old barn into a large studio, and an exhibition space.</p>
+          <p type="p">He is currently in his 60's and his artistic endeavors are still at full development. Devoted to his work, he spends most days in his studio, where he eats elaborately prepared lunches and welcomes guests like a proper Chinese host.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Cai Guo-Qiang photographed by Timothy Greenfield-Sanders" show="0">/images20/photo/photo_cai_guo_qiang_5.jpg</p>
+          <p type="p">In China, Cai is known for his phrase, "Art can be a reckless doing." Because his work emphasizes the spontaneous process of creation through a radically new medium, and is often constructed via elaborate theatrical orchestration, he stands out from his artist peers. While drawing inspiration from various spiritual and ancient sources he aims to create a bridge between the seen and the unseen worlds while simultaneously remaining invested in exposing contemporary political issues. He has thus created his own unique niche in the vast contemporary artistic panorama.</p>
+          <p type="p">His art can be seen to create a dialogue with the ideas proposed by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt; and their disregard for the traditional art establishment, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuys&lt;/span&gt;' theories related to the political and social implications of art, and to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klein_yves"&gt;Yves Klein's&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance art&lt;/span&gt;. Parallels can also be established with his fellow Chinese artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ai_weiwei"&gt;Ai Weiwei&lt;/span&gt;, especially for his revolutionary ideas of art that break away from established artistic traditions by defining a new artistic language that holds strong political messages. Munroe writes, "Although his practice can be related to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-land_art"&gt;Land art&lt;/span&gt;, Cai extends each art form toward a new matrix by operating outside conventional parameters."</p>
+          <p type="p">He is also highly criticized, as his works are often associated with theatrics rather than with typical fine art. Artist and art critic Jonathon Keats, claims he is "good for China and bad for art," emphasizing the lack of (political) content and the emphasis on visual beauty, whereas art critic Peter Schjeldhal adds that star artists like Cai "belong less to an art world than to a travelling art circus." Despite these views Munroe claims that his importance on contemporary art is critical, adding that it is "as an artist of the global art system that Cai's work has come to be appreciated."</p>
+          <p type="p">His body of work has a great international media exposure and his artistic endeavors are highly publicized spectacles both for their ephemerality and monumentality. In 2008, Cai orchestrated the opening ceremonies for the Beijing Olympics, a fantastical explosive fireworks display that some critics panned as the artist's way of selling out commercially in the role of a commissioned choreographer rather than making work true to his voice. This perhaps hearkens to Cai's true legacy, being an artist who defies expectation and explores the many possibilities of his beloved medium in a constant cross pollination between the personal and the political. His impact in the art world and on the contemporary conception of art still remains to be crystalized, yet his position as one of the first post-Cultural Revolution artists has helped further discussions of Chinese art as a credible artistic narrative within the modern art sphere.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="el_greco">The Burial of the Count of Orgaz (El entierro del conde de Orgaz) (1586 - 1588)</artwork>
+    <artwork from="artist" page="klein_yves">Le Saut dans le Vide (Leap into the Void) (1960)</artwork>
+    <artwork from="artist" page="ai_weiwei">Ton of Tea (2008)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Self-Portrait: A Subjugated Soul</title>
+      <year>1985-89</year>
+      <materials>Gunpowder and oil on canvas</materials>
+      <desc>
+				The work, almost two meters in height, portrays a dark human figure in an abstract, ochre, monochromatic aura - as if exploding out from the canvas. The blurry feel and absence of detail denotes an ethereal presence rather than a real human. It is, as the title suggests, a self-portrait of Cai's subjugated soul. It was painted when the artist was still living in China, during his mid-twenties, and is an example of his first explorations of gunpowder. For this piece, Cai mixed oil paint with gunpowder, creating both a defined and an undefined feel that results from the exploding particles. 
+				&lt;br/&gt;&lt;br/&gt;
+				He was drawn to the medium ever since his early childhood experiences with firecrackers. His interest also connects with various associations of the material such as its ability to harness natural forces, the fact that it is made from natural minerals, and the fact that it was traditionally used in Chinese medicine as a technique for healing (inflammation reduction and detoxification). In this regard, touching and using the material becomes a process of contact with nature, establishing a conversation and bridge with the natural world and spiritual dimension.
+				&lt;br/&gt;&lt;br/&gt;
+				After moving to Japan, in 1986, the gunpowder experimentations continued. It was also in Japan that he realized that the scientific developments of physics were similar to Chinese Qi Gong cosmology, and that "The theory of yin and yang is paralleled in modern astrophysics as matter and antimatter, and, in electromagnetism, the plus and minus." This understanding connected the metaphysical concepts of Taoism he had originally been brought up in, with a broader more universal conception. In this regard, sustaining these early creations is also of metaphysical and cosmological significance. 
+				&lt;br/&gt;&lt;br/&gt;
+				The painting was retouched in 1989 to further express Cai's feelings of loneliness and the subtitle, &lt;i&gt;A Subjugated Soul&lt;/i&gt;, was added. In a way, these initial works also carry within them a sense of poetry aiming to create a connection with the larger context of life by immersing man in a spiritual awareness. The work bears strong resemblance to Giacometti's infamous portraits that use a similar abstract language, color palette, and overall diffused immaterial presence. In a way, both artists aimed to capture the "vibration of life" that defined and composed human existence, representing the self as an ethereal presence. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Inopportune: Stage One</title>
+      <year>2004</year>
+      <materials>Installation of various cars with lights</materials>
+      <desc>
+				This installation featured nine Ford Taurus cars positioned in a sequence to give the effect of a single car flipping through the air. The first and the last cars sat on the ground, implying a beginning and an end, while the others hovered, suspended by cables from the ceiling. The spectacle was strewn with lights emanating yellow, pink, fuscia, indigo, and purple, granting the scene a colorful kaleisdoscopic effect. The installation spanned 90 meters in length. 
+				&lt;br/&gt;&lt;br/&gt;
+				With its theatrical components, mainly derived from Cai's studies in stage design, the work was a reflection on the psychological aspects, cultural problems, and overall political climate that defines our daily lives. In this sense, the moving car acts as a metaphor for the momentum of destruction. It was part of a series of installations developed in the 2000s, where Cai explored social and political associations and meanings. 
+				&lt;br/&gt;&lt;br/&gt;
+				The installation also aimed to provoke a dialogue surrounding terrorist attacks, specifically the September 11 catastrophe in 2001 that profoundly affected Cai who was living and working in New York at the time. In this perspective the car can be seen as exploding, representing the unstable climate of terrorism and the unsetling atmosphere it bestows upon the world. "We live in a world full of terror, of discussion and fear of terror," claimed Cai. The installation posed these considerations while framed in a shockingly vulgar beauty, which is something the artist has been criticized for, work in which vast spectacle mutes out the underlying substance. 
+			</desc>
+      <collection>Seattle Art Museum</collection>
+    </artwork>
+    <artwork>
+      <title>BMoCA (Bunker Museum of Contemporary Art): Everything is Museum</title>
+      <year>2004</year>
+      <materials />
+      <desc>
+				This picture is of an art installation by Wang Wen-chih, an artist from Taiwan, at the BMoCA () created by Cai on Kinmen Island. 
+				&lt;br/&gt;&lt;br/&gt;
+				The Bunker Museum of Contemporary Art was an old military center, with a long history of bombing attacks, that held special meaning for Cai, since as a child, he used to hear the attacks from Quanzhou, a port city across the Taiwan Strait. By converting it into an art center or temporary museum space for the community, he transformed an area of destruction into one of construction. Cai invited 18 artists from China and Taiwan to create site specific artworks for the space, also welcoming local children to collaborate. The work pictured here is by the exhibiting Taiwanese artist Wang Wen-chih whose installation, created with local craftsman, consists of a bamboo tower and a network of tunnels that promote movement, integration, and meditation. Wang claims that "[his] work searches for harmony after catastrophe or massive destruction." 
+				&lt;br/&gt;&lt;br/&gt;
+				The BMoCA museum is part of a larger group of social projects begun by Cai in the 1990s, that aimed to integrate art within the community. Cai was inspired by Joseph Beuys' philosophical ideas, and the belief that "everyone is an artist." Cai then created the &lt;i&gt;Everything is a Museum &lt;/i&gt;franchise, which transforms abandoned spaces (such as bunkers or old pottery barns), into museums with the participation of the government and local artists. Acting as curator and organizer, Cai gives life to new cultural and artistic dialogues.
+				&lt;br/&gt;&lt;br/&gt;
+				This concern with collective society can also be seen as a result of Cai's investigations into China's 'cultural and political memory.' Alexandra Munroe, art scholar and curator, explains that these projects embody Cai's 'utopian socialism,' reflecting "the allure of socialist memory and the idea of absolute faith in communitarian forces of historical progress," aspiring to "claim the public realm as a site for art of democratic empowerment." 
+			</desc>
+      <collection>Permanent museum at the Guningtou Cihu Great Bunker, Nanshan Fortification, Tashan Battery, Shuito Village, Kinmen Island, Taiwan</collection>
+    </artwork>
+    <artwork>
+      <title>Head on</title>
+      <year>2006</year>
+      <materials>Installation of replicas of wolves (gauze, resin and hide) of variable dimensions</materials>
+      <desc>
+				&lt;i&gt;Head On&lt;/i&gt; is an installation comprised of 99 wolf replicas caught in motion as they run in a pack into a glass wall. The wolves, in natural size, possess the vitality and sense of movement of real life. The placement of the animals represents a perpetual cycle in which they run, leap into a disastrous obstruction, get back up, circle around, and begin all over again. 
+				&lt;br/&gt;&lt;br/&gt;
+				Cai's aim was to make something that depicted a "type of collective behavior or collective heroism, tragic and brave." The wolf is a common universal mythological symbol associated with fearlessness. Since the wolf is a wild animal, it is also associated with danger and fear. In this context, it can be seen to symbolize an inherent predator nature in man and the blind confidence of collective action. In some interpretations of the work, the wolves can also be seen to represent humans who run blindly into their own self-sabotage. In this context, the work gains a social, cultural, and even philosophical meaning, perceived as a critique of society and an exposure of its senseless behaviors. 
+				&lt;br/&gt;&lt;br/&gt;
+				Another notorious work of this time was an installation of a dying tiger, suspended in mid-air, with arrows sticking out of its body, again, evoking themes of destruction, death, and pain, despite its beauty. 
+			</desc>
+      <collection>Deutsche Bank Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Footprints of History</title>
+      <year>2008</year>
+      <materials>Fireworks for 2008 Beijing Olympic Opening Ceremony</materials>
+      <desc>
+				&lt;i&gt;Footprints of History&lt;/i&gt; was an ephemeral art project and visual sculptural display, developed for the Beijing Olympic Opening Ceremony in 2008. It was composed of 29 firework starbursts resembling giant footprints that crossed over the Beijing skyline. Some footprints wafted over and marked significant landmarks: Tiananmen Square, the Temple of Heaven, the Forbidden City, and the Huangshan Mountains to name a few. The footprints eventually stopped at the National Olympic Stadium also known as the Birds Nest stadium. They were fired in succession making it seem as if a giant was literally walking across the sky. In total, they travelled over 15 kilometers during a span of 63 seconds. 
+				&lt;br/&gt;&lt;br/&gt;
+				The artist claims that he wanted to draw with fireworks in the sky. But the installation also symbolized that history had marched up to this significant moment in time. Over 34 million people watched the ceremony and the event was broadcasted worldwide, making this Cai's best-known work. Ironically, the artist has stated that rather than causing China to open more to the world, it seemed to have closed it more to the world after the Olympics. He garnered great criticism for his involvement with the games, as some viewed his participation as a commercially motivated commission rather than an authentic work of its own. Cai admitted that cooperating with the Chinese government for this project was not easy, yet argued, "Art should not be a tool of politics, but sometimes art can help make the political climate more open and help society become more free. In my own art, I try to use my personal voice and effort to enable some Chinese people to see the possibilities of another kind of China. A more open China."
+				&lt;br/&gt;&lt;br/&gt;
+				For Cai, art does not play a role in teaching right or wrong but merely creates space for people to reflect upon things in a new light. He claims that, "With distance people can find meaning below the surface instead of taking the work at face value." Despite the idea that art can also carry political, social, and cultural associations, it is the desire to create this reflective distance that is at a center of Cai's creations.
+				&lt;br/&gt;&lt;br/&gt;
+				After the opening ceremony the artist made a large gunpowder drawing, 33 meters in length and four in height, to commemorate the ephemeral installation in a more permanent manner. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Fallen Blossoms: Explosion Project</title>
+      <year>2009</year>
+      <materials>Gunpowder fuse, metal net for gunpowder fuse and scaffolding installation</materials>
+      <desc>
+				This site-specific pyrotechnic, ephemeral artwork entitled &lt;i&gt;Fallen Blossoms: Explosion Project&lt;/i&gt; was created in 2009 as a commission for the Philadelphia Museum of Art. The artist envisioned a lotus-like blossom, which, through the use of gunpowder, would bloom open during the course of a minute. 
+				&lt;br/&gt;&lt;br/&gt;
+				The flower, lit at sunset in front of a large audience, symbolized the artist's exhibition at the museum entitled &lt;i&gt;Hua kai hua luo&lt;/i&gt;, derived from a classical Chinese proverb that speaks of the grave loss when a life ends unexpectedly. In this context, the flower alludes to some of the ongoing themes developed by Cai: ideas of loss, pain, and destruction embodied and manifested through beauty. This dichotomy and union of death and life denotes the metaphysical universal significance of man questioning his own place in the world. 
+				&lt;br/&gt;&lt;br/&gt;
+				In another perspective, the use of explosives relates to the atomic bomb of Hiroshima, and other major man-made catastrophes that have occurred in the world, emphasizing violence in a political way. These dialogues, where "violent explosions" are made "beautiful," also reflect that the artist, as he claims, is "like an alchemist, has the ability to transform certain energies, using poison against poison, using dirt and getting gold." In this regard, Munroe adds that "Cai's goal - to challenge, disrupt, and imbalance the center of modern and contemporary art - is perhaps itself an 'explosion' aimed at the entrenched status quo."
+				&lt;br/&gt;&lt;br/&gt;
+				His site-specific installations share strong connections with the works of Christo and Jeanne-Claude. They can also be seen to share affinities with the creations of Rirkrit Tiravanija, who has a profound theatrical and spatial idea of art making, as something that is ephemeral and that belongs to everyday life. And lastly, they relate to the theories proposed by Yves Klein that exerted a direct influence on the artist, for his conception of performance art. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Odyssey</title>
+      <year>2010</year>
+      <materials>Gunpowder on paper, mounted on wood as 42 panel screens</materials>
+      <desc>
+				This large painting, 3 meters high and almost 50 meters in length, stretches across four walls of a room. It draws inspiration from classical Chinese painting, where idealized landscapes are a central theme. 
+				&lt;br/&gt;&lt;br/&gt;
+				It was made with gunpowder in a complex technique developed over the course of various years, beginning with Cai's time in Japan in 1985. However, the technique greatly evolved, and is now a multi-phase process. Whereas before Cai would paint with oil on the canvas, combining it with gunpowder in an experimental way, in these later works he only uses gunpowder in a highly systematic order and methodology. It involves first placing objects and stencil works of cardboard over a stretched large canvas on the floor that is then sprinkled with gunpowder in the negative spaces. This is then covered with large cardboard pieces, attached to fuses, weighed down with bricks to reduce the flow of oxygen, and then ignited with a fuse, making everything blow up. The artist claims that it is at this point that the work is closest to him, in a very personal and very physical way. "Before it explodes, you have absolutely no idea what it will look like," Cai explains, adding that it is like "experiencing fate." Cai then continues adding and exploding gunpowder at a micro scale, enhancing specific details of the work. 
+				&lt;br/&gt;&lt;br/&gt;
+				The imaginary landscape aims to create a reflection of the artist's relationship with the unseen world, relating to the energy of nature, his ancestors, and "with the entire galaxy and with tens of thousands of stories." In this sense, the work emphasizes the continuum of human history, conveying the idea of a universal time and the notion of eternity. 
+				&lt;br/&gt;&lt;br/&gt;
+				Cai's work, in a way, makes reference to the Arte Povera movement, especially its attack on the art establishment through the conception of a new type of art that is large in scale and that disregards traditional mediums, themes, traditions, and ideas. The fact that the work takes up the whole space of the gallery room can also be seen to resonate with the movement that often used unconventional gallery spaces in order to explore space itself. It can also be seen to relate to the social sculpture work of Joseph Beuys.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Sky Ladder</title>
+      <year>2015</year>
+      <materials>Gunpowder fuse, metal net for gunpowder fuse and scaffolding installation</materials>
+      <desc>
+				&lt;i&gt;Sky Ladder&lt;/i&gt; is a 1,650-foot (505 meters) tall ladder made from explosives. The structure is composed of a double-stranded firework connective wire suspended in the air from a hot air balloon, with horizontal wires linking the two sides, making up an incredibly lean and tall ladder. The half-kilometer staircase is lit up progressively in red tones, seeming to reach endlessly up into the darkness of night. In total, the performance lasts for 80 seconds. 
+				&lt;br/&gt;&lt;br/&gt;
+				The project was difficult to execute. Cai conceived it in 1994 and he attempted its execution in various locations, all of which were unsuccessful due to bad weather, bureaucracy, or safety concerns. He finally found the right location and conditions in Huiyu Island Harbor in Fujian province, his hometown. The vision for the project was always to create a ladder that stretched all the way up to heaven, connecting "the Earth with the universe." It is dedicated to his, at the time, 100 year old grandmother. Although she was in poor health and unable to see it in person, she was able to watch it broadcast before passing away a month later. 
+				&lt;br/&gt;&lt;br/&gt;
+				The ephemeral art installation is also intrinsically linked with the idea of immortality. Gunpowder, considered to be one of China's most significant contributions to the world, is traditionally bound up not only with medicine and healing, but also with the desire for immortality. As Cai explains, "They were actually looking for an elixir to make themselves immortal." Associated with this idea of immortality is also the concept of the transcendental, presenting an idealistic and romantic view of life. In this regard, art critic Ron Rosenbaum claims that Cai "really wants to paint the heavens like Michelangelo painted the Sistine Chapel ceiling. Only with gunpowder and flame." 
+				&lt;br/&gt;&lt;br/&gt;
+				The process and execution of this installation is featured on the documentary, &lt;i&gt;Sky Ladder: The Art of Cai Guo-Qiang&lt;/i&gt;, released in 2016 by Netflix. 
+			</desc>
+      <collection>Huiyu Island Harbor, Fujian Province</collection>
+    </artwork>
+    <artwork>
+      <title>Seasons of Life: Summer</title>
+      <year>2015</year>
+      <materials>Gunpowder on canvas</materials>
+      <desc>
+				The painting depicts a couple intertwined in a sexual position in the middle of the canvas, and surrounded by colorful flowers. The large work, about 3 meters in height and 8 meters in length, is a representation of the blossoming of summer, greatly emphasized by the vibrant use of red, blue, and yellow, evoking emotions of bliss, happiness, and vitality. It belongs to the series &lt;i&gt;Seasons of Life&lt;/i&gt; and is one of four large paintings, each one representing a specific season. 
+				&lt;br/&gt;&lt;br/&gt;
+				Overall this work takes inspiration from Japanese &lt;i&gt;shunga&lt;/i&gt;, an erotic genre of &lt;i&gt;ukiyo-e&lt;/i&gt; woodblock prints that were popular during the Edo period, often depicting couples in intimate positions, celebrating sexual pleasure. Although one might see his rare use of color on a portrait in homage of sensuality as a joyful depiction, for Cai the use of color is also related to grief. To him, more color is "more variation, more loneliness, more sadness . . . as well as lust, desire, sex." He has also stated that black represents spirituality in its purest essence. In this regard, the work can be seen to represent the conflicting and contradictory emotions experienced in the flesh, an ongoing dance between the physical and the ethereal.
+				&lt;br/&gt;&lt;br/&gt;
+				In his work process, once the explosions are conducted, Cai often accentuates the pieces with painted on doodles and other more intricate details. Although in the monochromatic pieces, these additions tend to blend more integrally with the work, in this colored example, the additions are more obvious.
+			</desc>
+      <collection>Collection of the artist</collection>
+    </artwork>
+    <artwork>
+      <title>Mountain in heat</title>
+      <year>2016</year>
+      <materials>Gunpowder on canvas</materials>
+      <desc>
+				&lt;i&gt;Mountain in heat&lt;/i&gt; is a painting featured in the 2017-18 exhibition &lt;i&gt;The Spirit of Painting: Cai Guo-Qiang at the Prado&lt;/i&gt; at Museo Nacional del Prado in Madrid. The large work, of over 2 meters in height and 4 and half meters in length, depicts classical architectural Greek and Roman columns and fragments of temples, set against a blurred landscape. Overall, the composition creates an effect of destruction, chaos, and transformation as it seems to catch a single moment of an explosion, or a fragment of history captured in the blink of an eye. 
+				&lt;br/&gt;&lt;br/&gt;
+				All the work for the exhibition was made with gunpowder, some of which was ignited at the Salón de Reinos itself, making these site-specific works. They find inspiration in the classical artists of the Prado museum collection, especially the paintings of El Greco, who was a profound influence on Cai. As a young boy, Cai's paintings drew heavily on El Greco's language, and in 2009 he embarked on a pilgrimage tracing back the artist's life in Venice, Madrid, and Toledo. But overall, the inspiration for these paintings is derived from the sensitivities and techniques of many Classical artists including Velazquez, Rubens, and Goya. 
+				&lt;br/&gt;&lt;br/&gt;
+				Each work begins with a series of sketches and in-depth research before gunpowder explosions are orchestrated for the final piece. This rooting in tradition aims to continue the dialogue and the spirit of painting as a medium, exploring Cai's own contribution as he creates a link between classical traditions and contemporary ones. 
+			</desc>
+      <collection>currently at the Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>The Death of Sunflower</title>
+      <year>2017</year>
+      <materials>Gunpowder on canvas or board</materials>
+      <desc>
+				This work is a gunpowder painting on canvas depicting the life and death of a sunflower, combining all moments of the cycle into one singular image. It features the brilliant yellows of life succumbing to the dark grey tones of death, evocative of the themes that are present in all of his works. Cai claims, "Destruction and construction, yin and yang, positive and negative; the energy is ever exchanging and altering."
+				&lt;br/&gt;&lt;br/&gt;
+				The work is also influenced by Cai's ongoing interest in spiritual traditions such as Chinese Taoism, Feng Shui, Qi Gong, and Buddhism. The link between spirituality and art for Cai is always present and very clear, since for him his art achieves the same thing as spiritual mediums: they create a link between the material world and the unseen world. By using "the things we can see, to search for the world we cannot see," Cai infuses his work with an intangible dimension. 
+				&lt;br/&gt;&lt;br/&gt;
+				The symbol of the sunflower can be associated with Van Gogh's iconic paintings. But the work can also be seen through a more political perspective, since the sunflower is a communist symbol in China. In this sense, a parallel can be made with the work of Ai Weiwei who also used sunflower seeds in his powerful and politically motivated art installation at Tate Modern in 2010. 
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>beuys_joseph</entity>
+        <entity>klein_yves</entity>
+        <entity>el_greco</entity>
+      </column>
+      <column>
+        <entity alt="Chen Zhen">zhen_chen</entity>
+      </column>
+      <column>
+        <entity>arte_povera</entity>
+        <entity>ukiyo_e_japanese_woodblock_prints</entity>
+        <entity>renaissance</entity>
+        <entity>mannerism</entity>
+        <entity>performance_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column></column>
+      <column></column>
+      <column>
+        <entity>postmodernism</entity>
+        <entity>installation_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Cai Guo-Qiang</title>
+          <link>http://uk.phaidon.com/store/art/cai-guo-qiang-9780714840758/</link>
+          <info>
+						Various authors
+						&lt;br&gt;
+						Phaidon
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cai Guo-Qiang</title>
+          <link>0500974934</link>
+          <info>By Fai Dawei</info>
+        </entry>
+        <entry>
+          <title>Cai Guo-Qiang: Ladder</title>
+          <link>3791352423</link>
+          <info>By Rebecca Morse</info>
+        </entry>
+        <entry>
+          <title>Cai Guo-Qiang: A Clan of Boats</title>
+          <link>8791706009</link>
+          <info>By Karen Smith</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cai Guo-Qiang: I Want To Believe</title>
+          <link>0892073713</link>
+          <info>By David Joselit, Miwon Kwon, Alexandra Munroe</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Official Website</title>
+          <link>http://www.caiguoqiang.com</link>
+          <info />
+        </entry>
+        <entry>
+          <title>List of Artworks</title>
+          <link>https://www.artsy.net/artist/cai-guo-qiang</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>"There and Back Again": Cai Guo-Qiang at the Yokohama Museum of Art</title>
+          <link>http://artradarjournal.com/2015/09/04/cai-guo-qiang-at-the-yokohama-museum-of-art/</link>
+          <info>
+						By C. A. Xuan Mai Ardia
+						&lt;br&gt;
+						Art Radar Journal 
+						&lt;br&gt;
+						September 4, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Explosive artist Cai Guo-Qiang on politics and pyrotechnics</title>
+          <link>https://www.ft.com/content/c141c5a2-891d-11e7-8bb1-5ba57d47eff7</link>
+          <info>
+						By Leslie Hook
+						&lt;br&gt;
+						Financial Times 
+						&lt;br&gt;
+						August 25, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Meet the Artist Who Blows Things Up for a Living</title>
+          <link>https://www.smithsonianmag.com/arts-culture/meet-the-artist-who-blows-things-up-for-a-living-4984479/</link>
+          <info>
+						By Ron Rosenbaum
+						&lt;br&gt;
+						Smithsonian Magazine 
+						&lt;br&gt;
+						April 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gunpowder Plots: Cai Guo-Qiang at the Guggenheim</title>
+          <link>https://www.newyorker.com/magazine/2008/02/25/gunpowder-plots</link>
+          <info>
+						By Peter Schieldahl
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						February 25, 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cai Guo-Qiang</title>
+          <link>http://www.alexandramunroe.com/wp-content/uploads/2008/06/Cai-Guo-Qiang.kf_.pdf</link>
+          <info>
+						By Alexandra Munroe
+						&lt;br&gt;
+						Originally published in Cai Guo-Qiang: I Want to Believe 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Cai Guo-Qiang Paints with Exploding Gunpowder</title>
+          <link>https://www.youtube.com/watch?v=ViVEUa9bn8w</link>
+          <info>
+						Interview with the artist
+						&lt;br&gt;
+						Motherboard 
+						&lt;br&gt;
+						September, 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Explosive Genius of Cai Guo-Qiang</title>
+          <link>https://www.youtube.com/watch?v=DepIRbT6JDc</link>
+          <info>
+						Brilliant Ideas Ep. 30
+						&lt;br&gt;
+						Bloomberg
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cai Guo-Qiang: I Want to Believe - Footprints of History, 2008</title>
+          <link>https://www.youtube.com/watch?v=ovCh32CGgq0</link>
+          <info>
+						A video tour with Cai Guo-Qiang
+						&lt;br&gt;
+						Museo Guggenheim Bilbao 
+						&lt;br&gt;
+						April 30, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cai Guo Qiang - Making of a Gunpowder Drawing</title>
+          <link>https://www.youtube.com/watch?v=SEasgshEaFY</link>
+          <info>
+						Bonnefantenmuseum Maastricht
+						&lt;br&gt;
+						2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sky Ladder: The Art of Cai Guo-Qiang - Official Trailer</title>
+          <link>https://www.youtube.com/watch?v=lLTT8ogRf50</link>
+          <info>
+						Documentary by Netflix (2016)
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sky Ladder (2015)</title>
+          <link>https://www.youtube.com/watch?v=QPyiNzUVb34</link>
+          <info>Video of the fireworks artwork</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

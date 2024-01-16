@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>pollock_jackson</id>
+    <name>Jackson Pollock</name>
+    <type>artist</type>
+    <head_title>Artist - Jackson Pollock</head_title>
+    <is_influences>true</is_influences>
+    <active_section>artists</active_section>
+    <years>1930 - 1954</years>
+    <description>Pollock's innovative abstractions evoke the power of nature, but also suggest man's entrapment in an anxious mind and body, and in the frightening modern world.</description>
+    <barnebys_item>150</barnebys_item>
+    <use_big_images>false</use_big_images>
+    <highlight>5</highlight>
+    <occupation>Painter</occupation>
+    <nationality>American</nationality>
+    <birthDate>January 28, 1912</birthDate>
+    <birthPlace>Cody, Wyoming</birthPlace>
+    <deathDate>August 11, 1956</deathDate>
+    <deathPlace>East Hampton, New York</deathPlace>
+    <pub_time>7/1/2009</pub_time>
+    <big_bio_box_img>Pollock was represented on a number of US Postage Stamps over the last 50 years</big_bio_box_img>
+    <bio_highlight>Pollock lived the reclusive and passionate artistic life that ended in tragedy - at the source he had this self-described impulse: "Today painters do not have to go to a subject matter outside of themselves. Most modern painters work from a different source. They work from within."</bio_highlight>
+    <bio_short>Pollock's beginnings, passions, depressions, and various anecdotes</bio_short>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>abstract_expressionism</include>
+    <include>surrealism</include>
+    <include>action_painting</include>
+    <include>abstract_art</include>
+    <include>the_sublime_in_art</include>
+  </includes>
+  <similar_movements>
+    <movement>abstract_expressionism</movement>
+    <movement>surrealism</movement>
+    <movement>action_painting</movement>
+    <movement>the_sublime_in_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>motherwell_robert</artist>
+    <artist>rothko_mark</artist>
+    <artist>de_kooning_willem</artist>
+    <artist>guggenheim_peggy</artist>
+    <artist>greenberg_clement</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"It doesn't make much difference how the paint is put on as long as something has been said. Technique is just a means of arriving at a statement."</q>
+    <q>"The strangeness will wear off and I think we will discover the deeper meanings in modern art."</q>
+    <q>"My paintings do not have a center, but depend on the same amount of interest throughout."</q>
+    <q>"When I'm painting, I'm not aware of what I'm doing. It's only after a get acquainted period that I see what I've been about. I've no fears about making changes for the painting has a life of its own."</q>
+    <q>"Every good painter paints what he is."</q>
+    <q>"The painting has a life of its own. I try to let it come through."</q>
+    <q author="Willem de Kooning">"Every so often, a painter has to destroy painting. Cezanne did it, Picasso did it with Cubism. Then Pollock did it. He busted our idea of a picture all to hell."</q>
+  </quotes>
+  <authors>
+    <author link="remer">Ashley Remer</author>
+  </authors>
+  <article>
+    <synopsys>In its edition of August 8&lt;sup&gt;th&lt;/sup&gt;, 1949, &lt;i&gt;Life&lt;/i&gt; magazine ran a feature article about Jackson Pollock that bore this question in the headline: "Is he the greatest living painter in the United States?" Could a painter who flung paint at canvases with a stick, who poured and hurled it to create roiling vortexes of color and line, possibly be considered "great"? New York's critics certainly thought so, and Pollock's pre-eminence among the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; has endured, cemented by the legend of his alcoholism and his early death. The famous 'drip paintings' that he began to produce in the late 1940s represent one of the most original bodies of work of the century. At times they could suggest the life-force in nature itself, at others they could evoke man's entrapment - in the body, in the anxious mind, and in the newly frightening modern world.</synopsys>
+    <key_ideas>
+      <idea>Pollock's tough and unsettled early life growing up in the American West shaped him into the bullish character he would become. Later, a series of influences came together to guide Pollock to his mature style: years spent painting realist murals in the 1930s showed him the power of painting on a large scale; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; suggested ways to describe the unconscious; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; guided his understanding of picture space.</idea>
+      <idea>In 1939, Pollock began visiting a Jungian analyst to treat his alcoholism, and his analyst encouraged him to create drawings. These would later feed his paintings, and they shaped Pollock's understanding of his pictures not only as outpourings of his own mind, but expressions that might stand for the terror of all modern humanity living in the shadow of nuclear war.</idea>
+      <idea>Pollock's greatness lies in developing one of the most radical abstract styles in the history of modern art, detaching line from color, redefining the categories of drawing and painting, and finding new means to describe pictorial space.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Paul Jackson Pollock was born in Cody, Wyoming, in 1912, the fifth and youngest son of a family of Irish-Scottish extraction. Pollock was only ten months old when the family moved to San Diego. His father's work as a surveyor would force them to move repeatedly around the Southwest in subsequent years, until, when Pollock was aged nine, his father abandoned the family, only to return when Jackson himself had left home. Although Pollock had a tough upbringing, but he grew to love nature - animals and the expanse of the land - and while living in Phoenix in 1923 he discovered Native American art.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Pollock attended the Manual Arts High School in Los Angeles, where he befriended &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guston_philip"&gt;Philip Guston&lt;/span&gt;, and where he was also introduced to theosophical ideas which prepared him for his later interests in Surrealism and psychoanalysis. Two of Pollock's older brothers, Charles and Sanford, also pursued careers as artists, and it was their encouragement which lured him to New York in 1930, where he studied under Regionalist painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-benton_thomas_hart"&gt;Thomas Hart Benton&lt;/span&gt; at the Art Students League.</p>
+          <p type="p">In New York Pollock was attracted to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; and began to study mural painting. He posed for Benton's 1930-31 murals at the New School for Social Research, and he met the prominent &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mexican_muralism"&gt;Mexican Muralist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orozco_jose_clemente"&gt;José Clemente Orozco&lt;/span&gt;. He later spent a summer observing Diego Rivera paint murals at the New Workers School, and in 1936 he joined the Experimental Workshop of another muralist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-siqueiros_david_alfaro"&gt;David Alfaro Siqueiros&lt;/span&gt;, where he learned to employ unorthodox painting techniques. Pollock's own canvas, &lt;i&gt;Going West&lt;/i&gt; (1934-35), blends many of these influences and is typical of his style at this time. In 1937, he was assigned to the Easel Division of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-federal_art_project_of_the_works_progress_administration"&gt;Works Progress Administration's Federal Art Project&lt;/span&gt;.</p>
+          <p type="p">During much of the 1930s Pollock lived with his brothers in Greenwich Village, and was at times so poor that he had to work as a janitor and steal food to survive. In 1932, however, he was invited to participate in the 8&lt;sup&gt;th&lt;/sup&gt; Exhibition of Watercolors, Pastels and Drawings by American and French Artists at the Brooklyn Museum, his first exhibition.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1936, Pollock briefly met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-krasner_lee"&gt;Lenore ("Lee") Krasner&lt;/span&gt;. In time, their relationship would bring some of the few spells of calm and happiness that Pollock ever knew. But the two did not meet again until 1941, after which they became romantically involved and married in 1945. Meanwhile, Pollock's alcoholism - which had been a problem since his adolescence - drove him into treatment as early as 1938, and by 1939 he was receiving Jungian psychoanalysis. His analyst encouraged him to produce drawings to aid his recovery, and the methods and motifs in these drawings - albeit shaped by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orozco_jose_clemente"&gt;Jose Clemente Orozco&lt;/span&gt; and the theories of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-graham_john"&gt;John Graham&lt;/span&gt; - soon found their way into works such as &lt;i&gt;Guardians of the Secret&lt;/i&gt;(1943).</p>
+          <p type="p">Despite his personal problems, Pollock remained bullishly confident in his art. Krasner was impressed when she saw his work in the early 1940s and introduced him to her teacher, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hofmann_hans"&gt;Hans Hofmann&lt;/span&gt;. Hofmann was similarly enthusiastic, and the meeting blossomed into an enduring friendship between the two men. Hofmann is said to have remarked that Pollock needed to work more from nature, to which Pollock famously replied, "I don't paint nature, I am nature."</p>
+          <p type="p">The WPA came to an end in 1943 and Pollock was forced to find work on his own. Along with various odd-jobs he became a custodian at the Museum of Non-Objective Painting (later the Guggenheim Museum), and it was there that he met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guggenheim_peggy"&gt;Peggy Guggenheim&lt;/span&gt;, who invited him to submit work to her new gallery, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gallery_art_of_this_century"&gt;The Art of This Century&lt;/span&gt;. Eventually, Guggenheim put Pollock on a contract, and in 1943 she gave him his first solo exhibition, which was well received. The critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; noted with approval that Pollock had absorbed and transcended Mexican mural painting, Picasso and Miró. The pictures still carried much figuration, although the references remained concealed - as Pollock said, "I choose to veil the imagery."</p>
+          <p type="img" alt="Jackson Pollock Biography" show="0">/images20/photo/pollock_4.jpg</p>
+          <p type="p">At the same time, Peggy Guggenheim also commissioned a painting for the entry hall of her New York apartment. The resulting work was &lt;i&gt;Mural&lt;/i&gt; (1943), which would prove important in Pollock's transition from a style shaped by murals, Native American art and European modernism towards his mature drip technique. And it was Guggenheim who again helped Pollock when he needed a down-payment to secure an old farmhouse in the town of The Springs on Long Island. He and Krasner bought the farmhouse in the fall of 1945 and married in October. Krasner hoped that distance from the struggles and temptations of the city would offer a great opportunity for both of them to pursue their painting in seclusion and peace.</p>
+          <p type="p">Exactly how Pollock came upon his drip technique has been a matter of long and inconclusive scholarly argument, but his work was already taking steps towards it in the mid-1940s. He began to lose the symbolic imagery of his earlier pictures and looked for more abstract means of expression. His experience of painting &lt;i&gt;Mural&lt;/i&gt; for Guggenheim's apartment was also important in spurring him on, and in 1945 he painted &lt;i&gt;There Were Seven in Eight&lt;/i&gt;, a picture in which recognizable imagery was thoroughly suppressed and the surface was knitted together by a vivid tangle of lines. In the following years his style became more boldly abstract still, and he produced works like &lt;i&gt;Shimmering Substance&lt;/i&gt; (1946). The following year he finally hit on the idea of flinging and pouring paint, and thus found the means to create the light, airy and apparently endless webs of color that he was reaching towards. Masterpieces such as &lt;i&gt;Full Fathom Five&lt;/i&gt; (1947) were the result. Pollock had carried out another stylistic somersault and arrived at a method that synthesized Impressionism, Surrealism and Cubism.</p>
+          <p type="p">&lt;i&gt;Shimmering Substance&lt;/i&gt; led on to works like &lt;i&gt;Number 1A&lt;/i&gt; (1948), a larger canvas than Pollock was familiar with, and dense with a dazzling web of color. He found he was best able to approach works such as this by positioning the canvas flat on the floor, moving around it and applying the paint from all sides. By dipping a small stick, house brush or trowel into the paint and then rapidly moving his wrist, arm and body, he allowed it to drip and fall in weaving rhythms over the surface. The technique - the epitome of what critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosenberg_harold"&gt;Harold Rosenberg&lt;/span&gt; would call &lt;span class="marked_text chart-tooltip-target-top tooltip_id-action_painting"&gt;Action Painting&lt;/span&gt; - rarely permitted the brush to directly touch the canvas. "On the floor I am more at ease," he said. "I feel nearer, more a part of the painting, since this way I can walk around it, work from the four sides and literally be in the painting." Pollock's work thus became as much about process as they were about product. They became a record of the performance of painting - his play in and around the canvas, where he could enter them as a participant and hover above them as their creator. "There is no accident," Pollock once said, "just as there is no beginning or end.. Sometimes I lose a painting, but I have no fear of changes, of destroying the image, because a painting has a life of its own."</p>
+          <p type="img" alt="Jackson Pollock Drip Painting" show="0">/images20/photo/pollock_2.jpg</p>
+          <p type="p">Critics were quick to recognize the power of Pollock mature work. Greenberg, who would be his staunchest and most powerful supporter, wrote at the time, "[His] superiority to his contemporaries in this country lies in his ability to create genuinely violent and extravagant art without losing stylistic control." But when Pollock's pictures reached a wider public, through coverage in magazines such as &lt;i&gt;Vogue&lt;/i&gt; and &lt;i&gt;Life&lt;/i&gt;, the response was a mixture of shock and incredulity. Nor was he widely collected at first, having only a small circle of supporters. Commercial success would soon come, but even at its height - after Art of This Century Gallery had closed and gallery owner Betty Parsons had taken over Pollock's contract - the painter was still being treated for alcoholism.</p>
+          <p type="p">Pollock supposedly stayed dry from mid-1948 to late 1950, and during these years he lived primarily in Long Island, only occasionally coming into the city. In 1950, he had a successful solo exhibition, and, along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gorky_arshile"&gt;Arshile Gorky&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_kooning_willem"&gt;Willem de Kooning&lt;/span&gt;, was selected by MoMA director &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barr_alfred"&gt;Alfred H. Barr, Jr.&lt;/span&gt;, for the Venice Biennale. But a year later he was drinking again.</p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Jackson Pollock Photo Dancing and Painting Portrait" show="0">/images20/photo/pollock_3.jpg</p>
+          <p type="p">Pollock's radical abstraction seemed to herald an incredible new freedom for painting, yet semblances of recognizable imagery continued to hover in the background of his pictures. The vast expanse of Blue Poles (1952) is knitted together with the aid of diagonal lines. And &lt;i&gt;One: Number 31&lt;/i&gt; (1950) retains a strong sense of rhythmically dancing figures, amidst its remarkable diversity of effects. Pollock might have abandoned the realism of his youth, but he still managed to make his paintings eloquently metaphorical. Like many of his canvases from this time, &lt;i&gt;One&lt;/i&gt; evokes a mood of grandeur which ties it to the tradition of sublime landscape which stretches back into the 18&lt;sup&gt;th&lt;/sup&gt; century. It also glistens as if it were dappled with light in the manner of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Monet's&lt;/span&gt; canvases, and many critics have speculated on whether Pollock was influenced by the French Impressionist.</p>
+          <p type="p">Pollock never really lost his interest in figurative imagery - as he once put it, "I'm very representational some of the time, and a little all of the time. But when you're painting out of your unconscious, figures are bound to emerge." As early as the late 1940s, figuration showed signs of resurfacing in his work. By 1950, whilst his drinking increased, he returned to drawing, resurrecting some of his old motifs, and producing a series of mainly black and white poured paintings. Some, like &lt;i&gt;Yellow Islands&lt;/i&gt; (1952), incorporate touches of color and are highly abstract; some, like &lt;i&gt;Echo&lt;/i&gt; (Number 25, 1951), are calligraphic in style and only residually figurative; others bear clear images of heads. They were badly received when Pollock first exhibited them, but he continued to work on them right through 1953, his last productive year of work.</p>
+          <p type="p">His personal troubles only increased in his later years. He left Betty Parsons Gallery, and, his reputation preceding him, he struggled to find another gallery. He painted little in 1954, claiming that he had nothing left to say. In the summer of 1956, Krasner took a trip to Europe to get some distance from Pollock, and soon after the painter began a relationship with 25 year old artist Ruth Kligman, who he had met at the Cedar Bar. Then, on the night of August 11, 1956, while Pollock was drunk and out driving with Kligman and her friend, Edith Metzger, he lost control of the car, killing himself and Metzger, and seriously injuring Kligman.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Jackson Pollock Image Smoking" show="0">/images20/photo/pollock_5.jpg</p>
+          <p type="p">Pollock's immediate legacy was certainly felt most by other painters. His work brought together elements of Cubism, Surrealism, and Impressionism, and transcended them all. Beside that achievement even greats such as de Kooning, who remained closer to Cubism, and hung on to figurative imagery, seemed to fall short. And the best among subsequent generations of painters would all have to take on his achievement, just as Pollock himself had wrestled with Picasso.</p>
+          <p type="p">And as early as 1958, when pioneering performance artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kaprow_allan"&gt;Allan Kaprow&lt;/span&gt; explicitly addressed the question of his legacy in an article for &lt;i&gt;Art News&lt;/i&gt;, some were beginning to wonder if Pollock might even have opened up possibilities outside of the realm of painting. To borrow critic Harold Rosenberg's words, Pollock had re-imagined the canvas not as "a space in which to reproduce, re-design, analyze, or 'express' an object.. [but as] an arena in which to act." And it was a short step from this realization to interpreting Pollock's balletic moves around the canvas as a species of performance art. Since then, Pollock's reputation has only increased. The subject of many biographies, a movie biopic, and major retrospectives, he has become not only one of the most famous symbols of the alienated modern artist, but also an embodiment for critics and historians of American modernism in its finest hour.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="picasso_pablo">Bowl of Fruit, Violin and Bottle (1914)</artwork>
+    <artwork from="artist" page="benton_thomas_hart">City Building (Part of American Today Mural) (1930)</artwork>
+    <artwork from="artist" page="miro_joan">The Beautiful Bird Revealing the Unknown to a Pair of Lovers (1941)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>picasso_pablo</entity>
+        <entity>cezanne_paul</entity>
+        <entity>benton_thomas_hart</entity>
+        <entity>orozco_jose_clemente</entity>
+        <entity>miro_joan</entity>
+      </column>
+      <column>
+        <entity>greenberg_clement</entity>
+        <entity>motherwell_robert</entity>
+        <entity>krasner_lee</entity>
+        <entity>newman_barnett</entity>
+        <entity>de_kooning_willem</entity>
+      </column>
+      <column>
+        <entity>mexican_muralism</entity>
+        <entity>native_american_art</entity>
+        <entity>american_regionalism</entity>
+        <entity>cubism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>frankenthaler_helen</entity>
+        <entity>morris_robert</entity>
+        <entity>noland_kenneth</entity>
+        <entity>kline_franz</entity>
+        <entity>klein_yves</entity>
+      </column>
+      <column>
+        <entity>krasner_lee</entity>
+        <entity>guston_philip</entity>
+        <entity>guggenheim_peggy</entity>
+        <entity>reinhardt_ad</entity>
+        <entity>rosenberg_harold</entity>
+      </column>
+      <column>
+        <entity>abstract_expressionism</entity>
+        <entity>action_painting</entity>
+        <entity>color_field_painting</entity>
+        <entity>performance_art</entity>
+        <entity>minimalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Going West</title>
+      <year>1934-35</year>
+      <materials>Oil on gesso on composition board</materials>
+      <desc>&lt;i&gt;Going West&lt;/i&gt; exemplifies many aspects of Pollock's early interests. During the 1930s, he was strongly influenced by the American Regionalism of his mentor Thomas Hart Benton, yet &lt;i&gt;Going West&lt;/i&gt; is characterized by a dark, almost mystical quality similar to another American visionary painter Pollock admired, Albert Pinkham Ryder. The swirling forms which structure the image evoke the emotional intensity of El Greco and Van Gogh. This image of a pioneer journeying West connects Pollock's emerging style to his own origins. While the scene evokes a sort of gothic mystery, it has been suggested that it comes from a family photo of a bridge in Cody, Wyoming, where Pollock was born.</desc>
+      <collection>National Museum of American Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Guardians of the Secret</title>
+      <year>1943</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Guardians of the Secret&lt;/i&gt;, often interpreted as a metaphor for the emergence of unconscious impulses into conscious thought, represents a synthesis of Pollock's sources. The imagery draws on African, Native American, as well as prehistoric art, yet there are also touches of Miró and Picasso. The abstract male and female 'guardians' have been interpreted in myriad ways: as Northwest Indian totems; Egyptian gods; even as conflations of playing cards and chess pieces wearing African masks. They flank the sides, while along the bottom is a dog reminiscent of Anubis, the jackal-god of the ancient Egyptian underworld. An African mask, a scarab-like embryo, and a rooster, all line up like relics across the top. The rooster is a symbol of fertility, but it may also recall the time Pollock lost the tip of his finger as a child when he put his hand in the way of an axe meant to kill a chicken. In the center of the composition is a tablet, covered in an hieroglyphic inscription reminiscent of ancient tombs. When the canvas is turned upside down, stick figures in various poses emerge.
+	</desc>
+      <collection>San Francisco Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Mural</title>
+      <year>1943</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Mural&lt;/i&gt; is an early &lt;i&gt;tour de force&lt;/i&gt; in Pollock's career, a transition between his easel paintings and his signature drip canvases. This 'all over' painting technique was assimilated from a variety of sources: Picasso, Benton and Siqueiros, as well as Native American sand painting. Measuring nearly 8 x 20 ft, this was Pollock's first large-scale work, and was commissioned for Peggy Guggenheim's apartment. Although influenced by his earlier work in this format, Pollock struggled to control the composition. He incorporated decorative patterns in thinly brushed paint to achieve an intimate pattern within the grand scale. An apocryphal story exists that it was painted in one day and one night, though this is impossible given the quantity of layers in the picture.
+	</desc>
+      <collection>University of Iowa Museum of Art, Iowa City</collection>
+    </artwork>
+    <artwork>
+      <title>Full Fathom Five</title>
+      <year>1947</year>
+      <materials>Oil on canvas, with nails, buttons, tacks, key, coins, cigarettes, matches, etc.</materials>
+      <desc>&lt;i&gt;Full Fathom Five&lt;/i&gt; was among the first drip paintings Pollock completed. Its surface is clotted with an assortment of detritus, from cigarette butts to coins and a key. While the top-most layers were created by pouring lines of black and shiny silver house paint, a large part of the paint's crust was applied by brush and palette knife, creating an angular counterpoint to the weaving lines. "Like a seismograph," noted writer Werner Haftmann "the painting recorded the energies and states of the man who drew it." Since their first exhibition, critics have come to recognize that drip paintings such as this might also be read as major developments in the history of modern painting. With them, Pollock found a new abstract language for the unconscious, one which moved beyond the Freudian symbolism of the Surrealists. He broke up the rigid, shallow space of Cubist pictures, replacing it instead with a dense web of space, like an unfathomable galaxy of stars. He even updated Impressionism, creating pictures that seem to glitter with the effects of light, and yet which also suggest the pitch dark and anxious interior of the human mind.
+	</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Autumn Rhythm: Number 30</title>
+      <year>1950</year>
+      <materials>Oil on canvas</materials>
+      <desc>While only one painting from Pollock's 1950 solo exhibition was actually sold, the show gained much attention. It was described by &lt;i&gt;Art News&lt;/i&gt; as one of the three best exhibitions of the year, and Cecil Beaton staged a famous fashion shoot in the exhibition space, which subsequently appeared in &lt;i&gt;Vogue&lt;/i&gt;. &lt;i&gt;Autumn Rhythm&lt;/i&gt; was one of the major works which appeared in that show. As with many of Pollock's paintings, he began it with a linear framework of diluted black paint which in many areas soaked through the unprimed canvas. Over this he applied more skeins of paint in various colors - lines thick and thin, light and dark, straight and curved, horizontal and vertical. As the title suggests, the coloring, horizontal orientation, and sense of ground and space in &lt;i&gt;Autumn Rhythm&lt;/i&gt; are strongly evocative of nature. The balance between control and chance that Pollock maintained throughout his working process produced compositions that can have as much calm tranquillity as some works by Rothko.
+	</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Blue Poles</title>
+      <year>1952</year>
+      <materials>Enamel and aluminum paint with glass on canvas</materials>
+      <desc>&lt;i&gt;Blue Poles&lt;/i&gt;, or &lt;i&gt;Number 11, 1952&lt;/i&gt;, contains shoe and footprints and even shards of glass embedded in canvas - telling traces of Pollock's vigorous working methods and turbulent life. During the period he painted Blue Poles he was drinking in binges, though Krasner has stated that the painting took a great deal of time and was not the spontaneous result of a drunken fury. It is possible that he employed the blue lines to unite disparate parts of the large picture. Frank O'Hara commented, "The poles are an unusually definite form in the 'all-over' configuration of Pollock's poured paintings and various figurative connotations have been attributed to them - from totems to the swaying masts of tall ships."
+	</desc>
+      <collection>Australia National Gallery, Canberra</collection>
+    </artwork>
+    <artwork>
+      <title>Yellow Islands</title>
+      <year>1952</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Yellow Islands&lt;/i&gt; was produced in one of Pollock's last productive years of painting. Made during a period when he was concentrating on black and white pictures, &lt;i&gt;Yellow Islands&lt;/i&gt; likely began as a purely black canvas. Swift and aggressive gestures are interspersed with a large amount of black paint that was clearly poured onto the canvas while it was in a vertical position. After allowing a certain amount of stain, Pollock added areas of yellow and crimson with a brush on top of the black. He then lifted the canvas upright while the paint was still wet, allowing it to run.
+	</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>The Deep</title>
+      <year>1953</year>
+      <materials>Oil and enamel on canvas</materials>
+      <desc>The 1950s saw considerable changes in both Pollock's work and personal life. He began avoiding color in 1951, and started painting exclusively in black, though with alcoholism taking over his life, his productivity steadily declined. &lt;i&gt;The Deep&lt;/i&gt; evokes a chasm - an abyss either to be avoided or to get lost inside. White paint was built up with layered brush strokes, showing a return of Pollock's direct involvement with the canvas. Drips are still evident, now creating a web that floats above the chasm. Pollock was clearly looking for a new approach, an image to create, desperate to break away from his signature style, yet his last paintings represent neither a new beginning nor a conclusion.
+	</desc>
+      <collection>Centre Georges Pompidou, Paris</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="FEATURED RESOURCE" is_recommended="false">
+      <subcategory name="" class="">
+        <entry>
+          <title>Watch a short biography about the life of Jackson Pollock on Biography.com</title>
+          <link>http://servicesaetn-a.akamaihd.net/pservice/embed-player/?siteId=bio&amp;tPid=30348494</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Defining Modern Art</title>
+          <link>/definition/modern-art/</link>
+          <info>Take a look at the big picture of modern art, and Pollock's role in it.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Jackson Pollock: An American Saga</title>
+          <link>0913391190</link>
+          <info>By Steven Naifeh</info>
+        </entry>
+        <entry>
+          <title>Jackson Pollock: A Biography</title>
+          <link>0815411820</link>
+          <info>By Deborah Solomon</info>
+        </entry>
+        <entry>
+          <title>Jackson Pollock: Energy Made Visible</title>
+          <link>0306806649</link>
+          <info>By B. H. Friedman</info>
+        </entry>
+        <entry>
+          <title>No Limits, Just Edges: Jackson Pollock</title>
+          <link>0892073268</link>
+          <info>By David Anfam, Susan Davidson, Margaret Ellis</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artwork" class="artwork">
+        <entry>
+          <title>Jackson Pollock</title>
+          <link>3836512769</link>
+          <info>Taschen Publication</info>
+        </entry>
+        <entry recommended="true">
+          <title>Jackson Pollock</title>
+          <link>0870707698</link>
+          <info>The Museum of Modern Art Publication</info>
+        </entry>
+        <entry>
+          <title>Jackson Pollock: Works from the Museum of Modern Art, New York, and from European Collections</title>
+          <link>393325793X</link>
+          <info>By Volkmar Essers, Armin Zweite</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Jackson Pollock Drawing Application</title>
+          <link>http://www.jacksonpollock.org/</link>
+          <info>
+				Lets you draw a drip painting on your computer monitor
+				&lt;br/&gt;
+				Click on this link and then on big image on next page to start application
+			 </info>
+        </entry>
+        <entry>
+          <title>Jackson Pollock Web Feature</title>
+          <link>http://www.nga.gov/feature/pollock/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Capturing the Artist in Action</title>
+          <link>http://www.artnews.com/2007/11/01/top-ten-artnews-stories-capturing-the-artist-in-action/</link>
+          <info>By Ann Landi
+					&lt;br/&gt;
+					Art News
+					&lt;br/&gt;
+					November 2007</info>
+        </entry>
+        <entry>
+          <title>An American Legend in Paris</title>
+          <link>http://content.time.com/time/subscriber/article/0,33009,955012,00.html</link>
+          <info>By Robert Hughes
+					&lt;br/&gt;
+					Time
+					&lt;br/&gt;
+					February 1, 1982</info>
+        </entry>
+        <entry>
+          <title>Live to Paint/Paint to Live</title>
+          <link>http://www.theatlantic.com/unbound/criticaleye/ce990217.htm</link>
+          <info>By Lee Siegel
+					&lt;br/&gt;
+					The Atlantic Monthly
+					&lt;br/&gt;
+					February 17, 1999</info>
+        </entry>
+        <entry recommended="true">
+          <title>Pollock Paints a Picture</title>
+          <link>http://www.artnews.com/2012/11/26/pollock-paints-a-picture/</link>
+          <info>By Robert Goodnough
+					&lt;br/&gt;
+					ARTnews 
+					&lt;br/&gt;
+					May 1951</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="transcripts" />
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>About the Jackson Pollock And Lee Krasner Papers</title>
+          <link>https://www.aaa.si.edu/collections/jackson-pollock-and-lee-krasner-papers-8943</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Narrated by the Pollock</title>
+          <link>http://www.youtube.com/watch?v=CrVE-WQBcYQ</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Pollock painting (1950)</title>
+          <link>http://www.youtube.com/watch?v=7bICqvmKL5s&amp;feature=related</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry recommended="true">
+          <title>'Pollock' starring Ed Harris</title>
+          <link>http://www.imdb.com/title/tt0183659/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>'Jackson Pollock: Love and Death on Long Island' documentary</title>
+          <link>http://www.imdb.com/title/tt0285237/</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

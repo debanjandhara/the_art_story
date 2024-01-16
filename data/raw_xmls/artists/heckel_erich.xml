@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>heckel_erich</id>
+    <name>Erich Heckel</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1905 - 1970</years>
+    <description>A founding members of Die Brücke group, Heckel was instrumental in putting Expressionism on the map of twentieth century modernism.</description>
+    <art_description>Important art &amp; artworks analysis by Erich Heckel including: White House, Bathers in the Reeds, Praying Woman, Great dancing pair, &amp; more in Post-Impressionism &amp; Expressionism.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>German</nationality>
+    <occupation>Painter, Printmaker, Sculptor</occupation>
+    <birthDate>July 31, 1883</birthDate>
+    <birthPlace>Döbeln, Germany</birthPlace>
+    <deathDate>January 27, 1970</deathDate>
+    <deathPlace>Radolfzell, Germany</deathPlace>
+    <big_bio_box_img>Heckel painted by fellow Expressionist Ernst Ludwig Kirchner</big_bio_box_img>
+    <bio_highlight>Heckel can take credit for helping redefine German art: "[with] a short cobbler knife, and without a pré-sketch", he said, "the hand cuts freely into the wood - a woodcut, just like it would work on paper with a pen". Thus, was born German Expressionism.</bio_highlight>
+    <pub_time>2/6/2022</pub_time>
+  </main>
+  <includes>
+    <include>post_impressionism</include>
+    <include>expressionism</include>
+    <include>die_brucke</include>
+  </includes>
+  <similar_movements>
+    <movement>post_impressionism</movement>
+    <movement>expressionism</movement>
+    <movement>erotic_artists</movement>
+    <movement>die_brucke</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>kirchner_ernst_ludwig</artist>
+    <artist>mueller_otto</artist>
+    <artist>kandinsky_wassily</artist>
+    <artist>ensor_james</artist>
+    <artist>marc_franz</artist>
+    <artist>bleyl_fritz</artist>
+  </similar_artists>
+  <quotes>
+    <q>"...[with] a short cobbler knife, and without a pré-sketch, the hand cuts freely into the wood - a woodcut, just like it would work on paper with a pen."</q>
+    <q>"What we [Die Brücke] had to remove ourselves from was clear; where we were heading was certainly less clear."</q>
+    <q>"The first encounter with Otto Mueller's paintings was in Berlin, at the showing of the 'Rejects of the Berlin Secession'... And we met him personally the very same day in his studio on Mommsenstrasse. This meeting was very significant for all of us and occurred at a fruitful moment; and, as a matter of course, he belonged to Die Brücke community from then on."</q>
+    <q>"Differences arose that hindered the publication of the 'Chronik' [written by Kirchner] and brought us to the agreement of dissolving the group."</q>
+    <q>"Brücke will remain in an inner sense; only the outer organisational thing should be dissolved."</q>
+    <q>"He [Otto Mueller] himself omitted certain things in his pictures that his contemporaries deemed to be of importance, in order to capture the essence...with the greatest possible simplicity."</q>
+  </quotes>
+  <authors>
+    <author link="lewis">Shane Lewis</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>As one of the four founding members of the influential &lt;span class="marked_text chart-tooltip-target-top tooltip_id-die_brucke"&gt;Die Brücke&lt;/span&gt; group, Heckel was instrumental in putting &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt; on the map of twentieth century modernism. He made his own reputation on a series of woodcuts and paintings of nudes, city scenes, landscapes and still lifes but, like so many of his contemporaries, he fell foul to the Nazi's detestation of all forms of modernism. Heckel was, however, at the forefront of the revival in the medieval woodcut tradition in Germany and his distressed, angular, images have become emblematic of German art during the country's troubled first decades of the twentieth century. As he matured, Heckel's jagged contours and luminous colors softened, as he turned more-and-more to landscapes and still lifes. But it is his earlier pieces that have exerted lasting influence and have become symbolic of the rise of German modernism.</synopsys>
+    <key_ideas>
+      <idea>As a founding member of Die Brücke, Heckel's goal was to form a bridge ("brücke") between the arts of the past with the art of the present. He was part of a youthful remonstration against the German arts establishment and, with a preference for rough, spontaneous marks and bold, flat color, he took his inspiration from a range of sources including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;, Polynesian art, and Etruscan art.</idea>
+      <idea>Heckel was a key figure in restoring what was one of the most important (yet mostly forgotten) traditions in German art: the woodcut. Recalling the prints and drawings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer&lt;/span&gt;, and other medieval and Renaissance masters of the fifteenth century, Heckel was at the forefront of revitalizing a technique that was to become emblematic of the entire German Expressionist movement.</idea>
+      <idea>During the 1920s, Heckel had been lulled into the sense of liberation that followed the formation of the Weimar Republic. His work was expressive of this mood of optimism and showed in his Berlin paintings. Expressed through strong color contrasts, and angular poses (of, say, cabaret singers) his paintings were highly decorative affairs. The mood was short lived, however, and when the Nazis came to power in 1933, Heckel was dismissed as a decadent and his paintings placed in the infamous exhibition of Degenerate Art (&lt;i&gt;Entartete Kunst&lt;/i&gt;) which was toured throughout Germany in 1937.</idea>
+      <idea>Like many of his contemporaries on the European art scene, Heckel's art reflected his experiences of war. His jagged woodcut technique fitted well with the idea of the tortured soul lost in a world of unremitting horrors. Yet Heckel balanced this mood of despair with images of hope. Inspired by the symbolist poetry of Stefan George, the war years in fact provided a turning point in his career. As he became more contemplative, his palette and contours softened and, slowly but surely, the landscape, which dominates his later career, overtook his youthful preference for portraiture, nudes, and city scenes.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Erich Heckel was born in Döbeln, in the Central Saxony district of Germany, to railway engineer, Wilhelm Julius. Little is known about his early life but it is recorded that, from the age of about ten, he attended the Realgymnasium school in Chemnitz where he befriended his future collaborator in art, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schmidt_rottluff_karl"&gt;Karl Schmidt-Rottluff&lt;/span&gt;. On leaving school in 1904, Heckel studied architecture at Dresden's engineering university, Technische Hochschule. He only agreed to enrol to appease his father who did not support his son's ambition to pursue a career as an artist. It was at Technische Hochschule, however, that Heckel met the other founding members - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kirchner_ernst_ludwig"&gt;Ernst Ludwig Kirchner&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bleyl_fritz"&gt;Fritz Bleyl&lt;/span&gt; (and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schmidt_rottluff_karl"&gt;Karl Schmidt-Rottluff&lt;/span&gt;) - of what would soon be called the Die Brücke (The Bridge) group. After just three terms, Wilhelm relaxed his stand and offered to pay for his son to take a taught course in art but the idealistic Heckel respectfully declined the offer for fear of becoming conditioned to paint in the academic, or bourgeois, tradition.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">As a general movement in art, Expressionism moved away from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; of the late nineteenth century in favor of a style that emphasized personal expression through simplified forms and exaggerated color. It was initially associated with three cities: Munich in 1911, where &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marc_franz"&gt;Franz Marc&lt;/span&gt; established &lt;span class="marked_text chart-tooltip-target-top tooltip_id-der_blaue_reiter"&gt;Der Blaue Reiter&lt;/span&gt; group; in Vienna in 1908, where &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kokoschka_oskar"&gt;Oskar Kokoschka&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schiele_egon"&gt;Egon Schiele&lt;/span&gt; carried the torch for Austrian Expressionism; and, first of all, in Dresden in 1905, with the Die Brücke.</p>
+          <p type="img" alt="Edvard Munch's &lt;i&gt;The Scream&lt;/i&gt; made a strong impression on Heckel and others in the Die Brücke school." show="1">/images20/photo/photo_heckel_erich_1.jpg</p>
+          <p type="p">Heckel and his colleagues were seeking a way of building a "bridge (&lt;i&gt;brücke&lt;/i&gt;) to the future" by melding elements as diverse as Neo-Romantic German painting, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt; of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin&lt;/span&gt;, and the unique Symbolist/Expressionist paintings of the maverick Norwegian, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-munch_edvard"&gt;Edvard Munch&lt;/span&gt;. Die Brücke's art promoted the distortion and simplification of forms, and the provocative use of primary colours, with the goal of shaking the viewer into an emotional rather than intellectual response to the work. As such, the group promoted an attitude more than a prescribed style. As Heckel himself put it: "What we had to remove ourselves from was clear; where we were heading was certainly less clear".</p>
+          <p type="p">The Die Brücke school took inspiration from the famous German philosopher Friedrich Nietzsche who championed the idea of the self and encouraged individualistic tendencies and artistic free expression. His ideas lent weight to the virtues of natural living and a "floating" approach to life and sexuality and the four men duly appropriated his maxim: "what is great in man is that he is a bridge and not a goal". But there were also practical reasons for forming a "school" of artists as Heckel later explained: "Every individual among us [Die Brücke] would have had a much harder time being exhibited than several of us together [...] because no individual had enough pictures to fill a room [and because] art dealers in general hesitated to exhibit unknown artists".</p>
+          <p type="img" alt="The school's 1906 manifesto was a rallying call to the subversive youth of Germany." show="0">/images20/photo/photo_heckel_erich_2.jpg</p>
+          <p type="p">In 1906, the Die Brücke school published the first of six annual portfolios, which they distributed amongst "passive members". Financed by a small group of patrons, the portfolio(s), which included prints by Heckel, Kirchner and Bleyl, was supplemented by a manifesto that was printed as a woodcut. It read: "With a belief in continuing evolution, in a new generation of creators as well as appreciators, we call together all youth [...] Whoever renders directly and authentically that which impels him is one of us".</p>
+          <p type="p">Between 1906 and 1908, he worked in the office of architect Wilhelm Kreis. While there, he persuaded the businessman Max Seifert to include several Die Brücke pieces as part of an exhibition, which included works by Kandinsky, at the Seifert lamp factory in Dresden, in late 1906. The exhibition (their first) was marred at the outset with the official confiscation of Fritz Bleyl's promotional poster (featuring a nude model) and widespread critical vilification.</p>
+          <p type="img" alt="&lt;i&gt;Seated Child&lt;/i&gt; (1906). Die Brücke symbolized the German artist's journey to new freedoms and ideas of youth and rebellion. But there was little public or critical appetite for the extremities of Heckel's more brutal form of artistic expression." show="0">/images20/photo/photo_heckel_erich_3.jpg</p>
+          <p type="p">Heckel, as well as working as an artist, took on the role of Die Brücke's secretary and business manager. In this capacity he was able to liaise with Franz Marc of the "more spiritual" Blaue Reiter group. It was an association that brought welcome publicity for the Die Brücke school and between 1906 and 1907 the Die Brücke school exhibited next to works by the Blaue Reiter (where they became somewhat overshadowed by "more agreeable" works such as those by Kandinsky). Heckel's own art had developed towards a raw emotional aesthetic that stripped away convention to reveal an angst-riven subjectivity. But the German public was far from won over by the extremes of his and his colleagues' art, and Die Brücke's next three annual shows at the Emil Richter Gallery became infamous for their shocking content.</p>
+          <p type="p">The art historian Starr Figura writes, "Nudity and casual lovemaking were commonplace in Kirchner's communal studio, which the [Die Brücke] artists decorated with wall-paintings, fabrics, furniture, and objects of their own unorthodox, sometimes erotic, designs. In the summers, they and their girlfriends decamped for prolonged holidays at the Moritzburg lakes outside Dresden, or on the Baltic coast, bathing and resting in the nude and creating artworks depicting naked bodies in relaxed harmony with nature. As men in their early twenties, they had a youthful sense of rebellion and a naively utopian belief in their own and their generation's ability to effect revolutionary change, a belief grounded in part in a broader German youth movement at the time". But, as the historian Stefan Koldehoff describes, Heckel's name became linked to stories of a sexual proclivity that has shadowed Kirchner's reputation down through the decades. He observed that Kirchner's preference "for very young models" was well known and was confirmed in the "self-testimonies" and correspondences between the Brücke artists.</p>
+          <p type="p">As well-as his excursions to Moritzburg, Heckel visited Dangast, the southmost fishing village on the North Sea coast. Heckel lived a committed bohemian life in the city and the waterside excursions to Dangast provided him with much needed respite and inspiration for several landscapes. Heckel's landscapes of this period used brilliant colors that recalled painters such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vlaminck_maurice_de"&gt;Vlaminck&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;Derain&lt;/span&gt;, although it is thought unlikely that the German had encountered first-hand the works of these artists. Vergo has speculated, however, that "such influences could have been mediated through the example of Pechstein, who had discovered the art of the Fauves at first hand in Paris during the winter of 1907-1908".</p>
+          <p type="p">The years 1908 and 1909 proved to be a transitional for Heckel who, like others in the group, was beginning to demonstrate a strong preference for printmaking. As Figura points out, "the decoratively sinuous lines and flat patterning of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-jugendstil"&gt;Jugendstil&lt;/span&gt; (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt;) [...] was ubiquitous in book, periodical, and poster designs at the turn of the century. But by around 1909 the Brücke style evolved into a distinctively Expressionist idiom, involving sharper, more angular lines, occasionally mottled surfaces, and jagged forms [...] The roughly hewn wood- cuts of Paul Gauguin and Edvard Munch, along with the Oceanic and African wood carvings that they saw in Dresden's newly reopened ethnographic museum, stimulated their vision for the medium. Flatness, simplification, and distortion - Expressionism's most fundamental characteristics - are inherent to woodcut, and thus the medium served their interests more than any other". Heckel's 1909 Italian sojourn, meanwhile, merely intensified his taste for the "primitive" following his discovery of Etruscan art.</p>
+          <p type="p">Also in 1909, Heckel met the dancer Sidi Riha. The couple were married the following year (Riha posed for her husband on numerous occasions with Heckel later developing a taste for drawing/painting his wife while she slept). It would not be long before they abandoned Dresden for Berlin, which, through its recent propagation of museums and galleries, had overtaken Munich as the cultural center of Germany.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Heckel, Riha, and the other Brücke members, arrived in Berlin in 1911. Here Heckel became closely acquainted with artists including Marc, August Macke and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feininger_lyonel"&gt;Lyonel Feininger&lt;/span&gt; and with them took part in the 1912 Sonderbund exhibition in Cologne. As curator Jochen Kürten writes, the creators of the Sonderbund exhibition had the goal "'to document the most disputed paintings of our time' and to propel 'modernism to a breakthrough point.' The organizers, a club made up of artists, collectors, curators and art dealers, had a keen sense of marketing. They enticed the public by promising European style and the fathers of the avant-garde. The Sonderbund exhibition [which featured a total of 650 works] became the most important presentation of European modernism in Germany prior to World War I".</p>
+          <p type="p">By 1913, however, the Die Brücke school had disbanded. There had been artistic disagreements amongst its members, and these were brought to a head with the publication in 1913 of Kirchner's &lt;i&gt;Chronik KG Brücke&lt;/i&gt; (&lt;i&gt;Story of the Artists' Group Bridge&lt;/i&gt;). Kirchner's history of the group and its goals was hotly disputed by the three other founder members who took great exception to Kirchner's claims that it was he who was chiefly responsible for all the school's innovations.</p>
+          <p type="p">The disbandment of Die Brücke marked a further turning point in Heckel's style as he became increasingly interested in picture composition and color combinations. His work generally became more introspective, too, with the theme of malady and sickness emerging in key pieces such as the triptych &lt;i&gt;Convalescent Woman&lt;/i&gt; (1912-13). His work was still not to the tastes of most Berliners, however. As James Greene of the Harvard University Museum summed up: "[&lt;i&gt;Convalescent Woman&lt;/i&gt;] was clearly sympathetic to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitive_art"&gt;primitive art&lt;/span&gt; [...] it seemed to reject traditional realism if favor of a style suspiciously close to the lively jagged carvings and textiles [and] it dared to present an image that came dangerously close to ugliness".</p>
+          <p type="p">In the summer of 1913, Heckel and Sidi were guests at the Hamburg home of Gustav Schiefer, a former patron of the Die Brücke school. From Hamburg, the couple took a boat trip along Germany's Baltic coast. The couple became so captivated with the undulating shorelines they rented a property belonging to a local boat builder. In a letter to his mentor, the art historian Walter Kaesbach, Heckel enthused: "Naked forms, brilliant yellow, leap about in the blue-black water, while the rocks, blue and dark toned, and the limestone cliffs cast long shadows on the shore". Art historian Paloma Alarco observed that "In this remote northern spot the painter's work became more melancholic and less optimistic, while his forms grew more geometric and angular".</p>
+          <p type="p">With the outbreak of World War I, Heckel enlisted with the Red Cross medical corps which was headed by Kaesbach. Heckel spent the war in this capacity in Belgium, yet, with Kaesbach's backing, he continued to paint and make prints throughout his service. These landscapes and self-portraits/portraits tended to capture the artists own feelings of alienation and melancholy and reflected his engagement with the works of Nietzsche and the great Russian novelist and essayist, Fyodor Dostoyevsky. Even so, there remained an element of hope (for a better future) in Heckel's art. Heckel also met the artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ensor_james"&gt;James Ensor&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beckmann_max"&gt;Max Beckmann&lt;/span&gt; while in service (the latter being dismissive of Heckel's work and expressionism generally). The art historian Wolfgang Henze writes that "Heckel was fortunate enough to come out of the First World War and return to Berlin physically unscathed and his countless works produced during the war years, whilst depicting the wounded and the dead, had none of the brutal veristic quality of a Beckmann, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dix_otto"&gt;Dix&lt;/span&gt;, or &lt;span class="marked_text chart-tooltip-target-top tooltip_id-grosz_george"&gt;Grosz&lt;/span&gt;".</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">Heckel had been a friend of Berliner Franz Pfemfert since before the outbreak of war. Throughout the war years, Pfemfert had published the literary and political magazine, &lt;i&gt;Die Aktion&lt;/i&gt;, which carried a staunch anti-war agenda. Heckel's friendship with Pfemfert led to his participation in the "Workers' Council for Art" and the "November Group" in the immediate post-war years. But as Henze writes, Heckel soon became disillusioned with both party's poor organization and, "as early as 1919", retreated from political life to his "new studio in Berlin and a house for the summer months in Osterholz on the Baltic coast". Having withdrawn in this way, Heckel's "art gradually lost its violence of expression, its form became calm, magnificently restrained. His colours became delicate, at times fragile [and] light, which in Heckel's work had never served as illumination, and never would, mutated into an inner glow".</p>
+          <p type="p">In 1921 - and somewhat distracting from his move into what we might call his "pastel phase" - Heckel published a career-defining portfolio of woodcuts, &lt;i&gt;Eleven Woodcuts, 1912-1919 (Elf Holzschnitte, 1912-1919&lt;/i&gt;). As MoMA states, "J. B. Neumann, who had worked with the artist before World War I, published this portfolio in 1921, taking advantage of the booming print market of the early 1920s, when, as the German currency lost value, graphic works promised a secure investment". The eleven works of the book's title covered a range of genres including landscapes, nudes, and self/portraits but were connected by the overarching mood of anxiety that covered the earlier years of his career. MoMA describes how "Heckel puts this sense of foreboding in visual terms through Expressionist manipulations of space and stark contrasts of black and white. Abrupt cropping and the narrow, vertical format heighten the feelings of oppression and tension. Even when placed in a sweeping landscape, figures are compressed into a tight space".</p>
+          <p type="p">Between 1922 and 1924 Heckel was at work on a commission to paint a small room in the Angersmuseum in the central German city of Erfurt. These murals, painted using the secco technique (in which the plastered surface of a wall is soaked with slaked lime before lime-resistant pigments are applied, allowing colours to dry in lighter tones than when they were first applied) were entitled &lt;i&gt;Lebensstufen&lt;/i&gt;, or &lt;i&gt;Stages of Life&lt;/i&gt;, and are perhaps the most significant surviving murals of the German Expressionist movement.</p>
+          <p type="p">During the war, Heckel (following an introduction to his writing by Kaesbach) became a great admirer of the symbolist poet, Stefan George. Henze describes how "Heckel familiarized himself with George's ideas only indirectly, but the experience was enough to bring about a fundamental paradigmatic change in his life and art, and one of such lasting effect that, when commissioned [to] paint a comprehensive series of murals for the Angermuseum [...] he paid an outstanding artistic homage to George". Henze adds that despite this homage, "Heckel himself was never granted an audience by this prince among poets, for the latter detested Expressionism, remaining unconscious of the fact that Heckel had meanwhile developed beyond this movement towards his own special form of 'New Objectivity'". For Heckel, indeed, this "development had been, both in his art and in his life, a change from a &lt;i&gt;vita activa&lt;/i&gt; to a &lt;i&gt;vita contemplativa&lt;/i&gt;, a retreat to the essential and the permanent [and] the status of the landscape in his art rose considerably".</p>
+          <p type="img" alt="&lt;i&gt;Marienfeste bei Würzburg&lt;/i&gt; (1927) carries the influence of German Renaissance painter, Lucas Cranach the Elder. In particular, the “pushing back” effect of the trees in the right foreground was a favoured device of Cranach's - the trees stabilising the picture space and directing the eye into an orderly recession into the space by stages." show="1">/images20/photo/photo_heckel_erich_4.jpg</p>
+          <p type="p">From 1922 to the mid-1930s, Heckel travelled extensively throughout Germany, Italy, France, and Spain. He created what amounted to a visual travelogue painting numerous &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;&lt;i&gt;en plein air&lt;/i&gt;&lt;/span&gt; watercolors and oils. He enjoyed a growing domestic and international reputation, too, following his inclusion as an entry in the art competitions of the 1928 and 1932 Summer Olympic Games, in Amsterdam and Los Angeles respectively. His painting was by now much "less-expressive", with a clear preference for calming pastel tones. In fact, works such as &lt;i&gt;Marienfeste bei Würzburg&lt;/i&gt; (1927), carry no trace of the flat, constricted, angst of his earlier works. The giant Baroque castle of Marienburg near Würzburg dominates the surrounding countryside of vineyards, trees and dwellings, with the town occupying the right background. Heckel's approach here is almost one of "matter-of-fact" Realism; especially in any comparison to his earlier woodcuts and paintings. The influence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-northern_renaissance"&gt;Northern Renaissance&lt;/span&gt; artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cranach_lucas_the_elder"&gt;Lucas Cranach the Elder&lt;/span&gt;, a noted influence on Heckel, is evident, however.</p>
+          <p type="p">This shift could be indicative of the relative stability of interwar Germany, or even an escape from the widely-reported degeneracy of the Weimar republic. In either case, Heckel deserted the heaving city for the Bavarian countryside where his painting became more controlled and full of a nostalgia for simplicity, serenity, and the art of the past. But his new sense of equilibrium was shattered in 1933 when Hitler's National Socialist Party swept to power. In 1937, 729 of Heckel's works were seized by the Nazi's who displayed them in its notorious "degenerate art" (&lt;i&gt;Entartete Kunst&lt;/i&gt;) touring exhibition. Nevertheless, between 1940-42, he and Sidi managed to make trips to the Salzkammergut and Carinthia where he made several landscapes in both oil and watercolour. His misfortune soon returned to haunt him, however, when his Berlin studio was razed in a bombing raid in 1944, destroying woodcut blocks and print plates. (Compounding his earlier misfortune, a smaller number of paintings Heckel held in storage in Thuringia were destroyed in similar fashion a year later.)</p>
+          <p type="p">These setbacks notwithstanding, Henze notes that, "Heckel was a man of great patience and perseverance" and he and Sidi "were able to survive these terrible events in their lives, moving in 1944 into a small house in Hemmenhofen on Lake Constance and retreating into the special enclave of 'inner emigration' that existed there". From 1949, until he retired in 1955, he taught at the Badische Akademie der Bildenden Künste (Baden Academy of Fine Arts) (now the Karlsruhe Academy). This appointment coincided with several retrospective exhibitions of his works. He also found time to paint Lake Constance and to tour alpine regions of Europe where he focused predominantly on rocky mountain landscapes. He continued to paint until his death in 1970, aged 86.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Heckel's Westerholz memorial stone. Between 1913 and the 1940s Heckel spent the summer months in Westerholz where he painted many landscapes and coastal scenes at the nearby Flensburg Fjord." show="1">/images20/photo/photo_heckel_erich_5.jpg</p>
+          <p type="p">Heckel produced woodcuts, paintings, lithographs, and etchings that, especially in the first phase his career, gave full expression to the alienated early twentieth-century Germany subject. As Figura writes, "From a technical point of view, the Brücke artists made innovations that redefined the possibilities of each of the primary techniques of woodcut, etching, and lithography, freeing them from tired conventions and introducing a modern, experimental approach". He did more than any other artist in his circle to resurrect the "primitive" woodcut technique which, for Heckel, served a simplified aesthetic that did not allow for the pleasures of the eye or the intellect to overrule the other. Rather, he instituted, and legitimized, the expression of pure and, typically pained, emotion as being of the highest artistic value. The goal for Heckel was to translate this "pre-logical" or "pre-verbal" impulse into art.</p>
+          <p type="img" alt="&lt;i&gt;The Cabinet of Dr. Caligari&lt;/i&gt; (1920). Told from the first-person perspective of an asylum inmate, the film, now accepted universally as a masterpiece of European art cinema, used Heckel inspired angular and distorted painted woodcut-like sets to represent the interiority of the troubled imagination of its narrator. " show="1">/images20/photo/photo_heckel_erich_6.jpg</p>
+          <p type="p">Heckel was perhaps the most prolific printmaker of the Brücke artists - producing an estimated 400 woodcuts between the school's beginnings and the early 1920s. His angular and pointed woodcut technique was adapted to greatest effect by the post-World War domestic film industry which secured Germany its place in the upper echelons of international art cinema through Expressionist masterpieces including Robert Wiene's, &lt;i&gt;The Cabinet of Dr. Caligari&lt;/i&gt; (1920), FW Murnau's, &lt;i&gt;Nosferatu&lt;/i&gt; (1922), and Fritz Lang's, &lt;i&gt;Dr, Mabuse, der Spieler&lt;/i&gt; (1922), and &lt;i&gt;Metropolis&lt;/i&gt; (1927). Heckel's influence as a founder member of the Die Brücke school, meanwhile, was far-reaching, and many subsequent movements of the twentieth century, not least &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionism&lt;/span&gt;, owe a debt to the artist's ragged spontaneity and vibrant color contrasts.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>House in Dangast (The White House)</title>
+      <year>1908</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Heckel's painting is the raw result of an artist striving for a personal artistic expression. This canvas, of the Old Post House in Dangast (the "White House"), was painted by Heckel at the age of twenty-two and was produced on his second visit to the North Sea location. As art historian Wolf-Dieter Dube observed, "Landscapes became more important and more numerous when Heckel and Schmidt-Rottluff decided to make their first trip to Dangast in 1907". The painting itself strongly hints at the influence of Post-Impressionism and Fauvism which is obvious in the non-naturalistic, clashing, colours (which are in fact more evocative of a sun-ripened Mediterranean location than of Germany's more inclement North Sea coast). 
+				&lt;br/&gt;&lt;br/&gt;
+				The painting, according to historian Peter Vergo, marks something of a turning point - or maturation - in/of the artist's style. He wrote that "[the painting] signals a dramatic move away from the heavy impasto characteristic of his works done in the preceding year towards a flatter, clearer manner of painting. The pigment is now sparingly applied, the composition dominated by flat, luminous planes of colour. Heckel at this time started diluting paints with varnish or even paraffin, experimenting with ground pigments and attempting to devise a kind of thin distemper that might suit his increasingly rapid an impulsive brushwork". 
+				&lt;br/&gt;&lt;br/&gt;
+				Later in the year Heckel and other Die Brücke members exhibited alongside Fauvist works by the likes of Derain, Vlaminck, Kees Van Dongen and Othon Friesz at Dresden's Kunstsalon Richter gallery. Vergo wrote, "Matisse, too, was known in Germany in 1909 at the latest, in part through his exhibition at Cassirer's in Berlin of January of that year. &lt;i&gt;House in Dangast&lt;/i&gt; had, on the other hand, had been painted as early as the preceding summer, and it is possible that Heckel had arrived independently at similar conclusions, and that his later statement that he was unaware of contemporary French art should be taken quite literally".
+			</desc>
+      <collection>Carmen Thyssen-Bornemisza Collection, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>Bathers in the Reeds</title>
+      <year>1910</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The historian Wolfgang Henze writes: "Although the 'Brücke' painters had a relatively undramatic landscape at their disposal in the environs of Dresden and Berlin or on the North Sea and Baltic coasts, they nevertheless represented it in compositions of wildly exaggerated colours and forms, compositions in which their main subject matter, the human being in all his natural nakedness, exists in passionate, likewise gesturally exaggerated unison with the landscape, drawing a parallel, perhaps, with the artists' own coexistence, however dissonant, with the cultural landscape of the city". 
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;Bathers in the Reeds&lt;/i&gt;, six figures are frolicking in a summer landscape. On the left, a bather runs towards his companions. They are made up of a pair enjoying a piggy-back game, two who appear to be engaged in a game or conversation, and another who crouches, perhaps setting down a picnic, under the tree that dominates the right side of the frame. The colours are broadly naturalistic - the reeds and grasses are green and yellow, and the tree is rendered in a greenish blue. It isn't clear if the figures are clothed, as flesh colours are blended here with non-natural colours. Heckel does not give his players faces with their individualism carried rather by their movements. Their anonymity is perhaps meant as a cipher for the projection of the artist's own happy experiences. 
+				&lt;br/&gt;&lt;br/&gt;
+				The subgenre of bathing scenes recalls a series by Paul Cézanne and, like the Frenchman, Heckel's picture also celebrates the idea of being at one with nature. Yet Cézanne's more marshalled orchestration of his scenes is not shared by Heckel whose composition is more diffuse and relaxed. The viewer's eye runs, with the figure on the left, across the setting from figure to figure and back with freedom; gone here is the centralised organisation of the picture space. But there is still a concerted idealising impulse in the picture; it is not specific but speaks generally of the eternal power of nature. The ambiguity of the nudity/non-nudity, meanwhile, invokes the idea of an indeterminacy between modernity and eternity. We might ask: are we seeing a scene from the distant or mythological past, or is Heckel placing us firmly in the present?
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Crystalline Day (Day of Glass)</title>
+      <year>1913</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Art historians Norbert Wolf and Ute Grosenick have observed in Heckel's work of the 1910s that "[e]motional expression continued to play a key role, but combined with well-considered, rationally controlled form". Here, indeed, the forms are simplified but discordant. It is thought that Heckel was influenced by an encounter with an exhibition of Futurist work in 1912 and this image deploys devices, like the fracturing of pictorial space, that are strongly associated with the Futurists. 
+				&lt;br/&gt;&lt;br/&gt;
+				The art critic Tom Kwei said of the work: "The image really seems to clamp down around the viewer. The shoreline at the left-hand side extending out from the gently evoked greenery to the water itself and forming a hinge of sorts which leans forward reflecting the abstract clouds to the jagged icicles below. As a result of this inward cast horizon everything is foreshortened. The woman upfront bathing appears to perfectly embody this mildly contorted aesthetic as her oddly positioned arms fit snugly within the cliffside reflection of the water. The nearby worn rocks are neatly nestled but never touching the cloud patterns on the lake. Heckel's effect here then is one of the crystalline, a sense of direct statis in which all parts carefully lattice". 
+				&lt;br/&gt;&lt;br/&gt;
+				Heckel's intention remains uncertain here, however. The painting's title hints perhaps at a nostalgic wish for the return of some fragile and passing bliss he experienced with his erstwhile friends and colleagues who frolicked freely around the Moritzburg ponds. It is as if for him the memory of that idyll should be "crystalized" in this painting. Or it could be that Heckel was simply experimenting with new formal treatments. Either way, Kwei pointed to this kind of ambiguity when he concluded his analysis of the painting with the observation that "As with the majority of Expressionist influenced work of the period, there is an erratic quality burrowed beneath the vision so that the setting and figure are common, but the feelings are not".
+			</desc>
+      <collection>Staatsgalerie Moderner Kunst, Munich</collection>
+    </artwork>
+    <artwork>
+      <title>Praying Woman</title>
+      <year>1916</year>
+      <use_big_image>true</use_big_image>
+      <materials>Tempera on canvas</materials>
+      <desc>
+				Judged unfit for combat during World War I, Heckel worked throughout the war in the Red Cross medical corps in Flanders. His troupe was headed by the art historian Walter Kaesbach who encouraged Heckel to continue to paint and make prints throughout the conflict. It was during the terror and human suffering that surrounded him that this picture (referred to by some as simply as "Madonna") was painted. Heckel's "Madonna" is bedecked in modest black and she kneels by a brook that is illuminated by the reflection of the midday sun that hangs high in Heckel's heavenly blue sky. Her praying hands and intense fixed facial expression are complemented by the verdant richness of the landscape that contains her. 
+				&lt;br/&gt;&lt;br/&gt;
+				The hopeful (yet buried) religiosity and human solidarity elicited by this painting does not mark a departure from Expressionism; it is rather evidence of an exploration of one more phenomenon of human subjectivity. The woman's expression is solemn, even fraught. She carries the inscription of a fractured self. Yet, for a man shaken by his own experience of war, Heckel's art takes a perhaps unexpected turn in this picture. He offers an antidote to the pessimism and solitude engendered by war by bringing an anodyne hope in the face of such suffering. Heckel's "Madonna", placed in by him is such luscious natural surroundings, is the embodiment of hope. Painted using the medium of tempera, the image is executed in the manner of an early Renaissance Madonna; Heckel bringing the past into the present with his Madonna's intense green eyes staring forward towards a better world.
+				&lt;br/&gt;&lt;br/&gt;
+				Of this work's reception on the front where it was painted, Heckel said: "How glad I was to paint that for the soldiers, it is very beautiful, how much respect and even love for art there is in human beings, in spite of everything [...] and who would have thought that my style, which seemed so modern and incomprehensible to critics and public at rotten exhibitions in the cities, would now be able to speak and convey something to men to whom I make a gift of it".
+			</desc>
+      <collection>Germanisches Nationalmuseum, Nuremberg</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of a Man (Männerbildnis)</title>
+      <year>1919</year>
+      <materials>Woodcut on paper</materials>
+      <desc>
+				Heckel, who used printmaking as a means of simplifying and flattening his compositions, produced more than one thousand such prints during his career. The vast majority of these were made between 1903 and 1923. He created &lt;i&gt;Portrait of a Man&lt;/i&gt;, perhaps his most iconic self-portrait, in the direct aftermath of World War I. Although the Die Brücke school had long since folded, his image remains one of the most emblematic woodcuts of the German Expressionist movement. In it, Heckel's eyes are focused on some distant object or event while his hands, clasped beneath his chin, suggest a man deep in thought; possibly contemplating the troubled years that have just passed or which lay ahead. 
+				&lt;br/&gt;&lt;br/&gt;
+				The Sotheby's auction house describes how "Heckel has left apparent the basic characteristics of the material in the work's sharp and rugged lines; cuttings that have been largely pre-determined by the natural grain of the wood block. As this process of gouging or hacking away has been employed here to portray the artist's state of fatigued reflection, it is as if Heckel has chiselled into his own face the physical ravages of time and experience. The colouring of the print augments the affective power that has been generated by the vaguely aggressive connotations of its production. The sickly green that makes up the portrait appears as another physical manifestation of the artist's emotional temperament. Moreover, the ink has been applied - rather unconventionally - with a brush rather than a roller, leaving the covering of the colours less than comprehensive. Such partial application makes Heckel's face appear all the more pallid and worn".
+				&lt;br/&gt;&lt;br/&gt;
+				The woodcut technique was adopted, also in 1919, by the burgeoning post-war film industry which was looking for a "distinctively German" film style that would distinguish it from the dominant American films on international markets. The first of these was &lt;i&gt;The Cabinet of Dr. Caligari&lt;/i&gt; which modelled its painted expressionistic sets on the Heckelian woodcut as a means of "expressing" the tortured imagination of the film's narrator (&lt;i&gt;Caligari&lt;/i&gt; is in fact often cited as the first horror film). New York Museum of Modern Art's Deborah Wye suggests that "&lt;i&gt;Portrait of a Man&lt;/i&gt;, a gaunt self-portrait created in the difficult months just after the war ended, manifests a psychic weariness that may be interpreted as broadly symbolic of the German people at that time". In was a view taken up in one of the landmark books in film history, &lt;i&gt;From Caligari to Hitler&lt;/i&gt; (1946). Its author, Siegfried Kracauer, argued that in &lt;i&gt;Caligari&lt;/i&gt;, and in the series of German Expressionist films that followed throughout the 1920s, one could trace a collective national disquiet that would allow, albeit unconsciously, Nazism to rise up.
+			</desc>
+      <collection>Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Great dancing pair (Grosses tanzpaar)</title>
+      <year>1923</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This is one of the few surviving cabaret paintings Heckel painted during the 1920s. In it, an elegantly dressed couple dance on a raised stage. They are performing in front of yellowy-gold drapes, and they are flanked by the accompanying musicians who are positioned in the orchestra pit, to the performers' left. The painting is an expression of the (false) feeling of optimism that followed the formation (in 1919) of the Weimar Republic. Artists such as Heckel were lulled into a sense of freedom in the years after the war and before the full onset of fascism (the Republic was officially abolished in 1933). 
+				&lt;br/&gt;&lt;br/&gt;
+				Heckel's work was expressive of this new mood of optimism. His Berlin paintings became more decorative as he captured city nightlife in confident colors. Curator Laurie Benson notes that in this work, "there is a sense of frenzy and tension expressed by the strong colours, hard angularity of the dancers' pose and their rigid facial expressions [while the] way Heckel has treated the band seen in the background of the painting is reminiscent of the work of his close colleague Ernst Ludwig Kirchner".
+				&lt;br/&gt;&lt;br/&gt;
+				When the Nazis took power in 1933, Heckel was, like so many of his colleagues, labelled a "degenerate artist" and his artworks were removed from the walls of German art galleries. Some of his paintings were placed in the exhibition of Degenerate Art (&lt;i&gt;Entartete Kunst&lt;/i&gt;) which was toured throughout Germany in 1937. As Benson writes, "The aim of that exhibition was to ridicule modern art and incite hatred against progressive thinking. [Heckel] was also legally forbidden to practise his profession after 1933, although he did continue to paint. Unable to sell their works, and with art supplies critically scarce, it was common for artists to paint over old canvases or use the back of works they were no longer able to sell legally". Indeed, &lt;i&gt;Great dancing pair&lt;/i&gt; was only posthumously discovered and on the reverse of a landscape he painted in 1939. The landscape features the Flensburg countryside in northern Germany, a region to where Heckel retreated during World War II.
+			</desc>
+      <collection>National Gallery of Victoria</collection>
+    </artwork>
+    <artwork>
+      <title>Landscape on the fjord (Landschaft an der Förde)</title>
+      <year>1939</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The Head of Conservation at the National Gallery of Victoria, Michael Varcoe-Cocks, noted that "While it is common to find labels, stamps, hand-written inscriptions or even misplaced items wedged behind a work, the most treasured versos reveal additional images". He adds that although "delegated to face the wall, the opposing side of a two-dimensional work [verso] often accumulates valuable information that helps researchers understand more about an artist's practice, a work's provenance and issues of authenticity". And so it proved with Heckel's "recto" (front facing), &lt;i&gt;Landscape on the fjord&lt;/i&gt;, which, it transpired, hid what was thought to be the lost &lt;i&gt;Great dancing pair&lt;/i&gt; (1923). 
+				&lt;br/&gt;&lt;br/&gt;
+				At some point in the 1930s, and either because he disliked the original work or, more likely, in the knowledge that the painting was destined to fall foul of the Nazi purge, Heckel took the decision to cover his &lt;i&gt;Great dancing pair&lt;/i&gt; with a coating of distemper. On the reverse of the canvas, Heckel then painted this landscape. The landscape and still life were the dominant genres in his mature work and, as Benson observes, "painted in 1939 [&lt;i&gt;Landscape on the fjord&lt;/i&gt;] would have been considered relatively safe and non-confronting in the eyes of the authorities". His landscape still displays Expressionist traits - bold colours and sharply defined areas of the canvas - but here the work is calm and subdued in its execution. As such it fitted perfectly with Heckel's late-career "&lt;i&gt;orbis pictus&lt;/i&gt;" (visible world) series of landscapes and still lifes. Benson remarks, finally, that "Because the painting remained in Heckel's possession until he passed away in 1970 it must have been of great personal value to the artist, and he included it in many exhibitions after the war". Since the first work was only revealed posthumously, one can only wonder at what the artist's feelings were towards the earlier work.
+			</desc>
+      <collection>National Gallery of Victoria</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks/>
+  <chart>
+    <top>
+      <column>
+        <entity>munch_edvard</entity>
+        <entity>van_gogh_vincent</entity>
+        <entity>cezanne_paul</entity>
+        <entity>grunewald_matthias</entity>
+        <entity alt="Lucas Cranach the Elder">cranach_lucas_the_elder</entity>
+      </column>
+      <column>
+        <entity>kirchner_ernst_ludwig</entity>
+        <entity>mueller_otto</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>marc_franz</entity>
+        <entity>bleyl_fritz</entity>
+      </column>
+      <column>
+        <entity>post_impressionism</entity>
+        <entity>fauvism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>murray_elizabeth</entity>
+        <entity alt="lassnig_maria">lassnig_maria</entity>
+        <entity>baselitz_georg</entity>
+        <entity>kiefer_anselm</entity>
+        <entity>basquiat_jean_michel</entity>
+      </column>
+      <column>
+        <entity>kirchner_ernst_ludwig</entity>
+        <entity>mueller_otto</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>marc_franz</entity>
+        <entity>bleyl_fritz</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>lyrical_abstraction</entity>
+        <entity>neo_expressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"/>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""/>
+      <subcategory name="biography" class="biography">
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Expressionism: A Revolution in German Art</title>
+          <link>3836520052</link>
+          <info>By Dietmar Elger</info>
+        </entry>
+        <entry>
+          <title>Erich Heckel, The Convalescent Woman</title>
+          <link>https://search.alexanderstreet.com/preview/work/bibliographic_entity%7Cvideo_work%7C2098162</link>
+          <info>By James Greene</info>
+        </entry>
+        <entry>
+          <title>Erich Heckel: Selected Prints</title>
+          <link>B004AZ7OOG</link>
+          <info>By Lutz Riester</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"/>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Die Brücke: The Origins of Expressionism</title>
+          <link>http://www.thearttribune.com/Die-Brucke-The-Origins-of.html</link>
+          <info>
+						The Art Tribune
+					</info>
+        </entry>
+        <entry>
+          <title>Die Brücke: Origins of Expressionism - review</title>
+          <link>https://www.theguardian.com/culture/2012/may/08/die-bruke-german-expressionist-review</link>
+          <info>
+						By Philip Dagen
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 8, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Erich Heckel Dies; Expressionist, 86</title>
+          <link>https://www.nytimes.com/1970/02/12/archives/erich-heckel-dies-expressionist-86-was-founder-of-die-brucke.html</link>
+          <info>
+						The New York Times
+						&lt;br&gt;
+						February 12, 1970
+					</info>
+        </entry>
+        <entry>
+          <title>Expressionism at its Roots</title>
+          <link>https://www.nytimes.com/1983/11/20/arts/gallery-view-expressionism-at-its-roots.html</link>
+          <info>
+						The New York Times
+						&lt;br&gt;
+						November 20, 1983
+					</info>
+        </entry>
+		<entry>
+          <title>Erich Heckel (1883-1970)</title>
+          <link>https://kweiseye.wordpress.com/2015/02/13/erich-heckel-1883-1970/</link>
+          <info>By Tom Kwei</info>
+        </entry>
+		<entry>
+          <title>Erich Heckel - Watercolors from 1917 to 1962 - Landscapes and Some Still Lifes</title>
+          <link>http://www.henze-ketterer.ch/en/artists/erich-heckel/texts/</link>
+          <info>By Wolfgang Henze</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Days, Dreams, and the Aftermath of War in German Expressionist Prints'</title>
+          <link>https://youtu.be/iYAZBUvi6g4</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>German Expressionist Art 1905-1937</title>
+          <link>https://youtu.be/DIJELjmOnzU</link>
+          <info/>
+        </entry>
+        <entry recommended="true">
+          <title>Degenerate Art - The Nazis vs. Expressionism</title>
+          <link>https://youtu.be/1QE4Ld1mkoM</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

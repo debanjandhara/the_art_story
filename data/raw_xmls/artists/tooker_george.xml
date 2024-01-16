@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>tooker_george</id>
+    <name>George Tooker </name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1946 - 2007</years>
+    <description>George Tooker's eerie and captivating mid-20th century paintings took on art's biggest themes of desire, death, religion, and grief.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>American</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>August 5th, 1920</birthDate>
+    <birthPlace>Brooklyn, New York</birthPlace>
+    <deathDate>March 27th, 2011</deathDate>
+    <deathPlace>Hartland, Vermont</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>9/20/2018</pub_time>
+  </main>
+  <includes>
+    <include>magic_realism</include>
+    <include>social_realism</include>
+    <include>surrealism</include>
+    <include>photorealism</include>
+    <include>american_realism</include>
+  </includes>
+  <similar_movements>
+    <movement>magic_realism</movement>
+    <movement>social_realism</movement>
+    <movement>american_realism</movement>
+    <movement>surrealism</movement>
+    <movement>photorealism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>marsh_reginald</artist>
+    <artist>wood_grant</artist>
+    <artist>hopper_edward</artist>
+    <artist>wyeth_andrew</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Symbolism can be limiting and dangerous, but I don't care for art without it."</q>
+    <q>"I don't want too much attention. I never really wanted to be part of the New York scene."</q>
+    <q>"The Waiting Room is a kind of purgatory - people just waiting - waiting to wait. It is not living. It is a matter of waiting - not being one's self. Not enjoying life, not being happy, waiting, always waiting for something that might be better, which never comes."</q>
+    <q>"I think &lt;i&gt;Subway&lt;/i&gt; has been overreproduced - it's as if I've never painted anything but! And I've certainly painted better pictures than that."</q>
+    <q>"Painting is an attempt to come to terms with life. There are as many solutions as there are human beings."</q>
+    <q>"I suppose I don't paint such unpleasant pictures as I used to. I got to be known for unpleasant pictures. I think my pictures are happier now, with fewer complaints."</q>
+    <q>"I am after reality - painting impressed on the mind so hard that it recurs as a dream... but I am not after dreams as such, or fantasy."</q>
+  </quotes>
+  <authors>
+    <author link="davis">Charlotte Davis</author>
+  </authors>
+  <article>
+    <synopsys>George Tooker's eerie and captivating paintings took on art's biggest themes of desire, death, religion, and grief. As a queer artist working in the 1950s, Tooker railed against the established status quo in both his life and art, with his work focusing primarily on critiquing the isolation and disaffection prevalent in an increasingly Capitalist and bureaucratic world. His works combine qualities of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; dreamscapes, political commentary, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; painting techniques to create disturbing, yet beautiful, images of everyday human struggles.</synopsys>
+    <key_ideas>
+      <idea>As a staunch anti-Capitalist and critic of the government, George Tooker documented the effects of the Depression in the city, and the stranglehold of government imposed red tape and bureaucracy on people's lives as they became increasingly desperate and increasingly de-individualized &lt;i&gt;via&lt;/i&gt; officialdom.</idea>
+      <idea>Karl Marx's theory of alienation (1932) describes how individuals become estranged from themselves, and others via the Capitalist system and their own social classes. Tooker was himself a communist, and alienation is always present in his works, which multiply faceless or identically faced people, who are often alone and expressionless subjects of an employment or government machine.</idea>
+      <idea>Tooker was an out gay man in the 1950s, and his queerness is evidenced by the often androgynous, non-gendered, figures he portrays. Tooker's work also shows an unusual and remarkable empathy for women; while the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt; used women as symbols, erotic objects of their own desire, Tooker shows women as equal non-subjects of Capitalism, as well as painting experiences of social anxiety that are particularly linked to femininity (as in his most famous work, &lt;i&gt;The Subway&lt;/i&gt;).</idea>
+      <idea>Later in life, after the death of his life partner, Tooker moved inwards to works that explore his own internal and spiritual life. Although figures remain central to his work, the city is replaced by the artist's own imaginary life, rife with religious symbolism, particularly around death, grief, and the afterlife.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">George Tooker was born on August 5th, 1920 in Brooklyn to George Clair Tooker and Anela Montejo Roura. He had one sister named Mary. His father was of English and French descent and his mother was a mixture of German, English and Spanish-Cuban heritage. His family lived in Brooklyn until he was seven years old, after which his family moved to Bellport, Long Island. He was brought up as a member of the Episcopal Church and was of a middle class background.</p>
+          <p type="p">Tooker began taking painting lessons at age seven under professional artist Malcolm Fraser, who was a family friend. Fraser painted in the Barbizon style, and Tooker regarded his work as a "an important early influence," saying that his "ambition" to be an artist was "reinforced by him." Tooker attended Phillips Academy in Andover, Massachusetts, where he spent most of his time writing poetry or painting, neither of which awarded him course credit, as they were considered 'unacademic.' Nevertheless, Tooker continued with both poetry and painting, and gave away his finished pieces from a small shop in Belleport, which helped people in the Depression. He also visited nearby towns that had been hit hard by the Depression, which fostered a feeling of political obligaition within him. This feeling was especially significant for Tooker, because of his multicultural background and separation from his upper-class schoolmates because of his middle-class status. This resulted in a resonating socialist leaning and disdain towards the lack of the current societal and economic environment.</p>
+          <p type="p">Tooker attended Harvard University in 1938, where he graduated with a degree in English in 1942. While he did not take any art classes in college, Tooker spent much of his time at the Fogg Art Museum, where he was able to study Medieval and Renaissance painting. This became a crucial step in his artistic career, as he later accredits the Renaissance masters as significant influences on his own artistic style. He also became a member of the Young Communist League at Harvard, embracing the liberal political school of thought that he had been exposed to at Phillips Academy. After graduating from Harvard in 1942, Tooker joined a training program for the U.S. Marine Corps, but was discharged because of ulcerative colitis. The same year, the U.S. army had decriminalized homosexuality, adopting a more inclusive approach. However, although openly gay, Tooker stated that he never disclosed his homosexuality during his time in the Marine Corps, because he was never asked about it.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">After recovering from colitis, Tooker began studying at the Art Students League in New York City from 1943 to 1945 under American painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marsh_reginald"&gt;Reginald Marsh&lt;/span&gt;. He also studied with Kenneth Hayes Miller and Harry Sternberg, both of whom also taught at the Art Students League. As a monitor in one of Marsh's courses, Tooker met then sixteen-year-old &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cadmus_paul"&gt;Paul Cadmus&lt;/span&gt;, who became his lover, lifelong friend, and major artistic mentor. Cadmus was heavily engaged with satirical and sexualized depictions of high society; scandalizing images of sailors and sex workers, as well as sensitive drawings of male nudes. Tooker particularly identified with Cadmus' liberal thinking and subversive narratives of life in New York, assimilating them into his own work. During this time, Tooker also met artist Jared French, who had been a lover and mentor of Paul Cadmus, and also became a lifelong friend of Tooker. Cadmus and French encouraged Tooker to working with egg tempera, a method of using an egg yolk and water with pigment to paint, which became his primary medium. It was through these artists that Tooker was assimilated into a wider circle of artists, writers, dancers and composers, including W. H. Auden, Monroe Wheeler and Christopher Isherwood.</p>
+          <p type="p">During his time in New York, Tooker was also exposed to Urban Realism, also known as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ashcan_school"&gt;Ashcan School&lt;/span&gt; or "The Eight." The American tradition had become prominent in the early 20&lt;sup&gt;th&lt;/sup&gt; century, depicting the provincial lives of ordinary people. While earlier works in the movement gave little representation to the suffering of the people during the Depression, Kenneth Hayes Miller and other artists of the 1940s produced art that depicted a more realistic urban struggle, shifting Urban Realism into an increasingly socially conscious realm. Owing to Tooker's radical egalitarian beliefs, he drew on Urban Realism to produce political and social commentary in his art, while adding elements of spirituality and abstraction.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Paul Cadmus (left) and George Tooker (right) in Provincetown (c. 1947 by Jared French).">/images20/photo/photo_tooker_george_1.jpg</p>
+          <p type="p">In 1946, Tooker was included in Dorothy Miller's exhibition "Fourteen Americans" at the Museum of Modern Art (MoMA) in New York, which had a major effect on his career. He then spent six months travelling with Cadmus in Europe in 1949, where he was exposed to a plethora of artists and their styles. In Paris, he visited the Louvre and became fascinated with the work of French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassical&lt;/span&gt; painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt;. He was especially captivated by the Renaissance masters and their techniques, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duccio"&gt;Duccio&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mantegna_andrea"&gt;Mantegna&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-botticelli_sandro"&gt;Botticelli&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bellini_giovanni"&gt;Bellini&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bronzino"&gt;Bronzino&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giotto"&gt;Giotto&lt;/span&gt;. This exposure had an extremely significant impact on Tooker, and elements of Renaissance composition and technique can be seen in his work.</p>
+          <p type="p">After his return, Tooker applied the combined influence of Cadmus' contemporary exposé, Urban Realism's portrayal of the everyday, and the technique of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; masters to produce art of his own unique style. Tooker's socially provocative paintings depicted images of the prosaic, which he abstracted into unsettling, almost dystopian scenes. They recognized and deconstructed socially appropriate behavior and identification. As an openly gay man, Tooker's work during his mature period is rife with commentary about identity during the mid-20&lt;sup&gt;th&lt;/sup&gt; century. Specifically, they provide a leftist illumination about sexuality as a national security issue predating the Civil Rights movement. Many of his artworks during this time feature an element of surveillance, which was especially significant to members of the LGBTQ community during this time, because of the shifting of stereotypes and violence toward the community. He studied and praised the works of social realist painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-siqueiros_david_alfaro"&gt;David Alfaro Siqueiros&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rivera_diego"&gt;Diego Rivera&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orozco_jose_clemente"&gt;Jose Clemente Orozco&lt;/span&gt;, and applied a similar surrealist twists in his works. He took part in the "Symbolic Realism" exhibition in 1950, organized by writer and connoisseur Lincoln Kirstein, who became a fervent supporter of Tooker's work throughout his career. Tooker's work in this exhibition led to his categorization as a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magic_realism"&gt;Magic Realist&lt;/span&gt;, as it incorporated surrealist and spiritual elements within a realist setting. However, Tooker never personally identified with this such categorization, saying of both symbolic and Magic Realism, "Oh, I hate those terms." In the same year, he produced on of his most famous works, &lt;i&gt;Subway&lt;/i&gt; (1950), which was procured by the Whitney Museum of American Art. He then had his first solo exhibition at the Edwin Hewitt Gallery.</p>
+          <p type="img" alt="George Tooker, 1960s. N/A">/images20/photo/photo_tooker_george_2.jpg</p>
+          <p type="p">During the late 1950s, after becoming increasingly frustrated with urban life, Tooker and his then partner, painter and civil rights activist, William Christopher, began building a house in Hartland, Vermont, where they permanently relocated in 1960. Although no longer living in New York, Tooker was an active member of the Civil Rights movement. In 1965, he marched alongside Martin Luther King in Selma, Alabama. This continued advocating for community and justice for the subjugated was reflected in his artwork, which continued to constantly challenge preconceived norms about sexuality, race, and class. Tooker also taught at the Art Students League from 1965 to 1968, which required regular trips to New York. In 1968, Tooker was elected to the National Academy of Design, an honorary arts organization. However, in 1968, Tooker and Christopher started to spend winters in Spain as an escape from the Vermont weather. They purchased an apartment in Malaga, Spain in 1968, which they spent long periods of time in, and that Tooker had for decades following.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="George Tooker in his studio (c. 2001 by Tim Lowly).">/images20/photo/photo_tooker_george_3.jpg</p>
+          <p type="p">Following Christopher's death in 1973, Tooker underwent a personal crisis. As a result of this, he became increasingly isolated and spiritual, and he converted to Roman Catholicism, becoming a member of the St. Francis of Assisi Church in Windsor, Vermont in 1976. His increasing involvement with his local church was present in his works during this time, as they display more personal subject matter with a profound and overt sense of spirituality. It is at this time that his works also shift to the representation of more 'private' subject matter, rather than the more 'public' urban scenes in his previous works. His works also became more sentimental in nature, portraying the tenderness of human connection. He even produced art for the altarpiece at St. Francis of Assisi, titled &lt;i&gt;The Seven Sacraments&lt;/i&gt; (1980), which features seven panels of a Catholic procession. While he was openly gay, Tooker did not feel that he needed to reconcile his sexuality with his religion, as he maintained celibacy since the death of his partner Christopher. Although having fallen out of the public eye, Tooker continued to paint privately in his studio in Vermont, and had his first solo exhibition in 1998 at the DC Moore Gallery. He painted up until the mid-2000s, and died of kidney failure on March 27th, 2011 at his Vermont home at the age of 90.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="George Tooker receiving the National Medal of Arts in 2007.">/images20/photo/photo_tooker_george_4.jpg</p>
+          <p type="p">Tooker is regarded as a preeminent modernist American painter, and received the National Medal of Arts in 2007 from President George W. Bush. He remains an integral player in the development of American Magic Realism and Social Realism in painting alongside Paul Cadmus and other artists. Although his works remain separate from those of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, they had some similarities in their abstract figuration and developed somewhat simultaneously, with a lasting influence on postmodernism. He was also influential as a postmodern artist, because of his unwavering use of egg tempera, a Renaissance technique, to produce highly modern paintings rife with social commentary. His unique and eclectic combination of a Renaissance technique and modern political commentary with transcendental themes left Tooker with a legacy of being an artist who produced work on his own terms.</p>
+          <p type="p">Tooker also remains a role model for the LGBTQIA community as an openly gay painter in the mid-20th century, leading a lifestyle that was extremely progressive for the time. He also advocated justice for the subjugated by challenging the dominant norms in his artwork. His paintings projected a radical narrative that is still potent today, remaining relevant in their reflection on the anxieties and alienations of modern society. This attitude, very present in the artworks during the mid 20&lt;sup&gt;th&lt;/sup&gt; century, began a tradition of using art as a medium to question contemporary society, which has had an incalculable effect and changed the role that art plays in the modern world.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>The Subway</title>
+      <year>1950</year>
+      <materials>Egg tempera on composition board, 18 1/2 × 36 1/2 in</materials>
+      <desc>
+				This painting of a subway is one of the most famous works by Tooker. The central female figure is shown looking anxiously to her right and clutching her abdomen, surrounded by a series of anonymous, somewhat sinister looking figures. While the central figure wears a red dress, the surrounding figures are all shown in varying shades of beige, brown and blue. The surrounding figures are almost all men. The perspective of the painting presents the subway with a series of seemingly endless passageways. The scene itself is dominated by neutral tones and sharp, distinct edges.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting illuminates the feeling of isolation and alienation of modern, urban life, which is a theme that is omnipresent in his &lt;i&gt;oeuvre&lt;/i&gt;. The central figure is pictured alone, distinct from all the other figures, which is exemplified by the contrast of her vibrant red dress to the neutral tones of the surrounding figures. The background figures seem to look at the central woman from the corners of their eyes or from around corners, adding an element of paranoia to the painting. The maze-like depiction of the subway adds to this sentiment, presenting it almost as a labyrinthine prison in which the central figure is trapped. The subway thus becomes a metaphor for the imprisonment of urban society, to which we are all subject.
+				&lt;br/&gt;&lt;br/&gt;
+				Gender identity and the risks associated with femininity are both central to this piece. American art historian Michael Brooks states that the color contrasts between the male and female figures "echo the traditional symbols of passion and sanctity, and the woman uses her hand to protect her womb against the threatening messages of the men around her." The woman is thus pictured as sexualized and vulnerable - insulated and fearful in public amidst the threatening male influences around her.
+			</desc>
+      <collection>Whitney Museum of American Art, New York, NY</collection>
+    </artwork>
+    <artwork>
+      <title>Government Bureau</title>
+      <year>1956</year>
+      <materials>Egg tempera on wood, 19 5/8 x 29 5/8 in</materials>
+      <desc>
+				This painting portrays a government office, which seems to stretch to infinity. Variations of stock figures wait to be helped, no one interacting with one another, standing aimlessly and not in front of any particular window. The desks have privacy glass with a small circle cut through only to reveal the sickly, pale, and sunken in faces of the government employees, who all look the same. The color scheme of the office is varying shades of tan and brown, and all the figures wear variations of the same five colors.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Government Bureau&lt;/i&gt;, like &lt;i&gt;Subway&lt;/i&gt;, offers a social commentary about the anonymity of modern urban life, but with a different technique. Here he presents a marked juxtaposition between the civilians and the government clerks: the civilians stand turned away from the viewer, their faces not visible, while the government clerks are facing the viewer. The civilians are not given faces or any sort of individuality, reduced to just clients in need of service rather than humans. This emphasizes the lack of humanity that Tooker perceived from the government, especially in light of the political climate during the mid 20&lt;sup&gt;th&lt;/sup&gt; century. This distrust of authority is also evident in the characterization of the government clerks.
+				&lt;br/&gt;&lt;br/&gt;
+				In Marx's theory of alienation, we are told that although each individual worker seems to be an autonomous actor in their own life, they are in fact driven by the forces of the bourgeoisie's, or upper class's, demand for surplus labor to produce goods, which the workers themselves may never see (each one a faceless cog in a production line) nor afford themselves. Because workers are unable to be in charge of their own lives and decisions, they become separated from their essence as individuals. In &lt;i&gt;Government Bureau&lt;/i&gt; we clearly see this facelessness of clerk and civilian; different workers in the Capitalist machine.
+				&lt;br/&gt;&lt;br/&gt;
+				This work also utilizes themes of obscurity and surveillance to make a statement about the government and its services. The privacy windows of the bureau can only be permeated with a small, circular opening, through which the viewer is only able to see part of the clerk's face. This illuminates the lack of transparency about what goes on within the government, even though civilians are encouraged to blindly follow its decisions and contribute to them with taxation. Also of importance is the juxtaposed element of surveillance; while we cannot see the government, the government can see us. The clerks are able to see out of the small holes, and even look directly at the viewer. Tooker uses this imagery to display the hypocrisy of the governmental system, which monitors citizens while simultaneously dehumanizing them.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Waiting Room</title>
+      <year>1959</year>
+      <materials>Egg tempera on wood, 24 x 30 in</materials>
+      <desc>
+				This scene displays a series of people waiting for an unknown service, many of them in numbered stalls, which are identical and narrow. The people are occupying themselves in various ways, either alone or in couples. In the forefront are two men pictured on either end, one sitting and looking back towards the stalls, the other with sunglasses and his back turned towards the viewer. Behind them, two people sit who appear to be asleep. The lighting in the room appears to be fluorescent, and all of the figures have a grayish hue to their skin. Additionally, the wardrobes of each of the figures repeat the same five colors: orange, light pink, beige, navy blue and brown.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting speaks to the themes of bureaucracy, anonymity and anxiety, which are also present in &lt;i&gt;Subway&lt;/i&gt; and &lt;i&gt;Govrnment Bureau&lt;/i&gt;. Like in &lt;i&gt;Government Bureau&lt;/i&gt;, the figures wait for a service that is unknown, isolated from one another, in a space characterized by neutral, nondescript colors. The lighting gives the people a sickly color, and the room appears to be uncomfortable and dirty. The perspective of the painting suggests that the room itself, as well as the waiting, might go on forever. The painting was inspired by Tooker's own frustration waiting for building permits, and he says, "The Waiting Room is a kind of purgatory - people just waiting - waiting to wait. It is not living." The depiction of liminal space as a kind of purgatory is used throughout Tooker's works. As in &lt;i&gt;Government Bureau&lt;/i&gt;, this lack of any boundary or end to waiting questions the value of what the figures are waiting for, making a larger statement about personal satisfaction in modern society. This described "purgatory" seems to be omnipresent in modern life, but for what purpose, and to what effect? The lack of identification of the service or 'end goal' in &lt;i&gt;The Waiting Room&lt;/i&gt; tells us of the sameness of bureaucratic processes invented seemingly to intentionally alienate worker from product, or service.
+				&lt;br/&gt;&lt;br/&gt;
+				Tooker evokes anxiety at this idea of standardization with this scene, portraying people as nothing more than objects to be sorted. This painting shows a growing concern within modernity around anonymity, industrialization, and the treatment of citizens and workers, and remains a prescient and disquieting image of the depersonalized workforce under capitalism.
+			</desc>
+      <collection>Smithsonian American Art Museum, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Sleepers II</title>
+      <year>1959</year>
+      <materials>Egg tempera on wood panel, 16 1/8 x 28 in</materials>
+      <desc>
+				Tooker's &lt;i&gt;Sleepers II&lt;/i&gt; depicts a series of homogenous figures, all with blonde hair and blue eyes, lying in a sea-like mound of white blankets. They all stare blankly upward, completely expressionless. Only their heads are exposed from the blankets, as if they are floating in them. They lay in a seemingly infinite amount of blankets, without any boundaries or edges. The environment surrounding the figures is blue and white, as if they are in a dream world.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Sleepers II&lt;/i&gt; is one of Tooker's 'private' works, which displays a more personal, internal narrative than one of social commentary about contemporary urban life. The stares of the figures are a mixture of shock, uncertainty, discomfort and haunting placidity. This work evokes themes of spirituality and uncertainty, which Tooker often represented in his 'private' works. The figures do not appear to be either fully conscious or unconscious, alive or dead, and the setting could be interpreted as a sort of afterlife, or passageway to an afterlife or purgatory. The sheets then act like waves, or clouds, transporting and supporting the figures, while also drowning or enveloping them. The figures are passive bodies, which calls into question Tooker's viewpoint on religion and death. Are we all just subjects to religion and its consequential afterlife, no matter how we identify?
+				&lt;br/&gt;&lt;br/&gt;
+				The painting is also reminiscent of the space in between the conscious and unconscious mind, the dream state described by Sigmund Freud. The blankets here become a boundary between the conscious and unconscious, the head being in the conscious realm above the sheets and the body being in the subconscious realm below the blankets - the conscious mind trapped and held hostage by its troubled, bodily, subconscious beneath the sheets.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Farewell</title>
+      <year>1966</year>
+      <materials>Egg tempera on gessoed masonite, 24 x 23 11/16 in</materials>
+      <desc>
+				This painting deviates from most of Tooker's earlier work in several ways. It does not depict a scene from daily urban life, rather an abstract geometric gradient with an anonymous figure facing away from the viewer. However, like many of his other works, the perspective of the work presents the setting as seemingly infinite. The light appears to be coming from many different points, obscuring boundaries and exit points.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting was extremely personal to Tooker and yet represents the universality of grief. The figure is facing away from the viewer, and its anonymity allows the viewer to infer whatever identity they choose onto it, giving it potential resonance for any viewer. Additionally, the passageway is not given any indicators of setting, which also allows inference of setting from the viewer. The blue and gray color also gives the painting a feeling of loss, a theme present in Tooker's other works, amplified here through the cool color scheme's application throughout the surface of the canvas.
+				&lt;br/&gt;&lt;br/&gt;
+				Tooker describes the setting of the painting as "a reversible space... about a state of shock... about how I felt at the time of my mother's death." The 'reversible space' encapsulates the overwhelming and mutual experience of death for the deceased and their surviving loved ones. The seemingly infinite passageway between the deceased figure and the viewer, positioned as the living, exemplifies this. The disjointed lighting does not give the passageway cogency, disorienting the viewer and making the passageway an esoteric space, not of the living, but not of the dead. This infinite and abstract passageway represents the obscurity of death, and humanity's endless curiosity about what happens to the deceased human consciousness. This liminal space also addresses themes of spirituality and the afterlife, questioning what is next for the deceased. It draws on the archetypal 'passage into the light,' without giving the viewer the satisfaction of knowing what might come at the end of the passageway. The painting is a strange, and captivating representation of death, loss, and grief - all extremely important themes for artists today and throughout history.
+			</desc>
+      <collection>Hood Museum of Art, Dartmouth College, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Voice II</title>
+      <year>1972</year>
+      <materials>Egg tempera on gessoed panel, 17 1/2 x 11 ½ in</materials>
+      <desc>
+				&lt;i&gt;Voice II&lt;/i&gt;, the second of the &lt;i&gt;Voice&lt;/i&gt; series, shows two almost identical men on opposite sides of what appears to be a door trying to communicate. The man on the left, in shadow, has his mouth open and looks as if he is trying to speak, but has a look of significant fear. The man on the right, in the light, tries to listen, also with a look of anxiety. The color palette is light, tan and yellow colors, with a significantly darker left side.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting represents the inner monologue between different parts of the self. It iterates ideas of the way in which a hidden or obscured part of the self communicates with the outer, more overt part of the self. The portrait of the communicator on the left is shrouded in darkness and appears to be fearful, while the receiver of the communication on the right is in a lighter setting, with the majority of the painting dedicated to him. Both appear to be sorrowful, longing for communication. This is meant to position the viewer as the figure on the right, the more rational part of the self that must be open to communication with the subliminal part of the self. The almost monochromatic color scheme of the painting suggests that the space is not in real time, and is likely more an imagined scene of how two parts of the self communicate.
+				&lt;br/&gt;&lt;br/&gt;
+				The communication of the two parts of the self could have several connotations. The figure on the right is struggling to hear the figure on the left, and the figure on the left appears to be characterized by fear. Perhaps Tooker is commenting on the importance of being self-aware and listening to one's anxieties. However, neither of the figures appears to be satisfied, questioning whether these two parts of the self will ever be at peace with one another. The man on the outside of the door, in the light, could easily slam it shut on his alter ego's face. Like the Surrealists long before him, Tooker uses symbolism in this painting to depict a universal moment of suffering and conflict - the conflict of inner voices as if they might be coming from two different mouths and minds.
+			</desc>
+      <collection>National Academy Museum, New York</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>de_chirico_giorgio</entity>
+        <entity alt="Giovanni Bellini">bellini_giovanni</entity>
+        <entity alt="Sandro Botticelli">botticelli_sandro</entity>
+        <entity alt="W. H. Auden">auden_w_h</entity>
+      </column>
+      <column>
+        <entity>marsh_reginald</entity>
+        <entity>cadmus_paul</entity>
+        <entity alt="Malcolm Fraser">fraser_malcolm</entity>
+        <entity alt="Jared French">french_jared</entity>
+        <entity alt="William Christopher">christopher_william</entity>
+      </column>
+      <column>
+        <entity>realism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Guillermo del Toro">del_toro_guillermo</entity>
+        <entity alt="W. H. Auden">auden_w_h</entity>
+      </column>
+      <column>
+        <entity>cadmus_paul</entity>
+        <entity alt="George Platt Lynes">platt_lynes_george</entity>
+        <entity alt="Jared French">french_jared</entity>
+        <entity alt="Kenneth Hayes Miller">hayes_miller_kenneth</entity>
+        <entity alt="William Christopher">christopher_william</entity>
+      </column>
+      <column>
+        <entity alt="Magical Realism">magical_realism</entity>
+        <entity>photorealism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>George Tooker</title>
+          <link>1566400686</link>
+          <info>By Thomas H. Carver</info>
+        </entry>
+        <entry>
+          <title>George Tooker</title>
+          <link>B001QD6ALS</link>
+          <info>By Robert Cozzolino and Marshall Price</info>
+        </entry>
+      </subcategory>
+      <subcategory name="dissertations" class="biography">
+        <entry>
+          <title>George Tooker: a Reassessment of the Artist</title>
+          <link>https://search.proquest.com/docview/303622037/?pq-origsite=primo</link>
+          <info>
+						By Jodi Ann Wigmore 
+						&lt;br&gt;
+						University of Victoria (Canada), 1984 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>George Tooker: Paintings 1947-1973</title>
+          <link>0884010031</link>
+          <info>By George Tooker</info>
+        </entry>
+        <entry>
+          <title>Art and the Subway: New York Underground</title>
+          <link>0813544521</link>
+          <info>By Tracey Fitzpatrick</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>George Tooker - Artists - DC Moore Gallery</title>
+          <link>http://www.dcmooregallery.com/artists/george-tooker?view=slider#9</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Gay Influence: George Tooker</title>
+          <link>http://gayinfluence.blogspot.com/2012/04/george-tooker.html</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>George Tooker: A Retrospective</title>
+          <link>https://www.columbusunderground.com/george-tooker-a-retrospective-at-the-cma</link>
+          <info>
+						By Jeff Regensburger
+						&lt;br&gt;
+						Comlumbus Underground 
+						&lt;br&gt;
+						July 21, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>An Interview with George Tooker Th</title>
+          <link>https://www.jstor.org/stable/pdf/3109396.pdf?refreqid=search%3Ad6aca0a4d83fac28f931807612c1f6a0</link>
+          <info>
+						By Justin Spring and George Tooker
+						&lt;br&gt;
+						American Art 16 
+						&lt;br&gt;
+						Spring, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Baleful Visions of Modernity, Mystically Rendered</title>
+          <link>https://www.nytimes.com/2008/10/10/arts/design/10took.html</link>
+          <info>
+						By Ken Johnson
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 9, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>George Tooker, Painter Capturing Modern Anxieties, Dies at 90</title>
+          <link>https://www.nytimes.com/2011/03/29/arts/design/george-tooker-painter-capturing-modern-anxieties-dies-at-90.html</link>
+          <info>
+						By William Grimes
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						March 29, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>The Art of Anxiety: Painter George Tooker Dies at 90</title>
+          <link>https://www.npr.org/2011/04/02/135040094/the-art-of-anxiety-painter-george-tooker-dies-at-90</link>
+          <info>
+						By Nina Keck
+						&lt;br&gt;
+						NPR 
+						&lt;br&gt;
+						April 1, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Reappearing Act</title>
+          <link>http://archive.boston.com/ae/theater_arts/articles/2009/03/01/reappearing_act/?page=2</link>
+          <info>
+						By Sebastian Smee
+						&lt;br&gt;
+						The Boston Globe
+						&lt;br&gt;
+						March 1, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>George Tooker: Capturing Modern Anxieties</title>
+          <link>https://theculturetrip.com/north-america/usa/articles/george-tooker-capturing-modern-anxieties/</link>
+          <info>
+						By Melissa Leclezio
+						&lt;br&gt;
+						Culture Trip
+						&lt;br&gt;
+						November 27, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>George Tooker: A Purveyor of Modern Alienation and Despair</title>
+          <link>http://www.dailyartmagazine.com/george-tooker-a-purveyor-of-modern-alienation/</link>
+          <info>
+						By Wendy Gray
+						&lt;br&gt;
+						Daily Art Magazine
+						&lt;br&gt;
+						March 15, 2018
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Columbus Museum's George Tooker (Part 1 of 3)</title>
+          <link>https://www.youtube.com/watch?v=8i355jobtZk</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Josephine Meckseper on George Tooker's Government Bureau</title>
+          <link>https://www.youtube.com/watch?v=encj0PmFgLI</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

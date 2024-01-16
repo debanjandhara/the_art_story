@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>vermeer_johannes</id>
+    <name>Johannes Vermeer</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1653 - 1675</years>
+    <description>Vermeer's painting career was devoted to exploring tender moments of everyday life, documenting private spaces and environments.</description>
+    <art_description>Important paintings &amp; artworks analysis by Johannes Vermeer including Girl with a Perl Earing, Allegory of Faith, The Procuress in Baroque and Dutch Golden Age.</art_description>
+    <use_big_images>true</use_big_images>
+    <nationality>Dutch</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>1632</birthDate>
+    <birthPlace>Delft, The Dutch Republic</birthPlace>
+    <deathDate>1675</deathDate>
+    <deathPlace>Delft, The Dutch Republic</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>10/12/2018</pub_time>
+	<hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>baroque_art_and_architecture</include>
+    <include>dutch_golden_age</include>
+  </includes>
+  <similar_movements>
+    <movement>baroque_art_and_architecture</movement>
+    <movement>dutch_golden_age</movement>
+    <movement>chiaroscuro_tenebrism_sfumato</movement>
+    <movement>portrait_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>rembrandt_van_rijn</artist>
+    <artist>caravaggio</artist>
+    <artist>rubens_peter_paul</artist>
+    <artist>fabritius_carel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true" author="greer_germaine" alt="Germaine Greer, writer">"The art of a Vermeer...seeks not to amaze and appal but to invite the observer to come closer, to close with the painting, peer into it, become intimate with it. Such art reinforces human dignity"</q>
+    <q author="Arshile Gorky">"Vermeer does not just make a leaf and place it in the design, he relates space and leaf"</q>
+    <q author="Simon Jenkins, Journalist">"Vermeer was an authentic artistic genius - even if he did cheat"</q>
+    <q author="Arshile Gorky">"Johannes Vermeer paints in thin layers - there is no waste effort - and those small dots - no, they are not like Seurat's, though they contain all the light the pointillist may have wished for, concentrated, hovering before the object, but not obliterating it.. ..Vermeer is not a sun painter, but rather a moon-painter - like Uccello - that's good, it is the pure, final stage of art, the moment when it becomes more real than reality"</q>
+    <q author="Marcel Proust, Novelist">"Thanks to art, instead of seeing one world, our own, we see it multiplied and as many original artists as there are, so many worlds are at our disposal, differing more widely from each other than those which roll round the infinite and which, whether their name be Rembrandt or Vermeer, send us their unique rays many centuries after the hearth from which they emanate is extinguished"</q>
+  </quotes>
+  <authors>
+    <author link="birch">Ellie Birch</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Today, the name Vermeer instantly conjures an image of his &lt;i&gt;Girl with the Pearl Earring&lt;/i&gt; painting, known as the "Mona Lisa of the North." The 17&lt;sup&gt;th&lt;/sup&gt; century Dutch Master's rendition of an ordinary girl, sublimely glancing at the viewer from a mysterious black background with a shining pearl upon her lobe, has become a universal icon in the canon of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dutch_golden_age"&gt;Dutch Golden Age&lt;/span&gt; artwork. Vermeer's career was devoted to exploring tender moments of everyday life, documenting the private interior spaces of both mind and environment that epitomized the age of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; genre works. Yet his mastery of pigment and light elevated the artist beyond the realm of his contemporaries, providing an inimitable glimpse into the lifestyle of his thriving historical era.</synopsys>
+    <key_ideas>
+      <idea>Vermeer specialized in scenes of domestic life, a genre he helped catapult within the Baroque lexicon. Many of his paintings contain the same furnishings or motifs that inhabited his own private studio, and his models were often women that he knew or relatives of patrons.</idea>
+      <idea>Vermeer was posthumously titled the "Master of Light" due to the delicate attention he paid to express the way light played upon skin, fabrics, and precious stones in his work. His expertise stemmed from using Renaissance techniques such as chiaroscuro, mixed with his own signature utilization of light, shadow, and paint to evoke texture, depth, and emotion.</idea>
+      <idea>Colors and pigments were of extreme interest to Vermeer and he was known for his exquisite mixing of ethereal hues. It is said that his long-term patron Pieter van Ruijven bought and provided the artist with expensive ingredients such as lapis lazuli and carmine for these efforts. It is perhaps unsurprising that it was around this time that the painter began his own downward slide into debt, as obsessive as he was about his prized materials.</idea>
+      <idea>Vermeer was a modestly successful painter in his lifetime, yet only 34 paintings are attributed to him today (a few more are under question), signifying the artist's semi-lackadaisical handling of his career, which would eventually leave him and his family in debt and despair.</idea>
+      <idea>Because financial insecurity, madness, and depression peppered the artist's life, it has been surmised that the calm idyll Vermeer was known to capture in paint reflected a world that he, himself, perhaps wished to inhabit.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Johannes Vermeer was born the in the mercantile Dutch town of Delft in October 1632 to a lower-middle-class family. His father Reijnier Jansz was a hardworking cloth weaver turned innkeeper, and then art dealer. His mother Digna Baltus is thought to have been an illiterate housewife due to her ability to sign only an "x" in place of her name on her marriage certificate.</p>
+          <p type="p">Despite the painter's popularity during his life, criminality seems to have run in Vermeer's veins. In 1625, before the painter's birth, his father was convicted and acquitted of the manslaughter of a soldier following a brawl at an inn. It has been suggested that the acquittal was granted owing to the familiarity between the assailant and the master painter of the Guild of St Luke. The painter's maternal grandfather was also arrested and imprisoned for counterfeiting. It is of little surprise that drama and dalliances with the law were to plague Vermeer throughout his adult life.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">It is thought that in the mid 1640s, the teenage Vermeer was enrolled as an apprentice painter of his father who was willing to pay the expensive fees to ensure a promising future for his son. Due to lack of empirical evidence, it is impossible to name whom Vermeer was apprenticed to, but a number of historians suggest that Rembrandt's star pupil Carel Fabritius provided his early training. Others think that his teacher was the Delft-born and Guild of St Luke-bred painter Pieter van Groenwegen.</p>
+          <p type="img" alt="Detail of&lt;i&gt; The Procuress&lt;/i&gt; by Johannes Vermeer, (c.1656). Purported to be the only self-portrait of the artist." show="1">/images20/photo/photo_vermeer_johannes_1.jpg</p>
+          <p type="p">In 1653, Vermeer married Catherina Bolnes, the daughter of a well-to-do Catholic family in Delft. Despite both sets of parents being resistant to the marriage due to opposing Christian beliefs, the wedding went ahead after Vermeer's conversion to Catholicism. Perhaps in efforts to prove his devotion to his new found religion and in-laws, Vermeer painted &lt;i&gt;Christ in the House of Martha and Mary&lt;/i&gt; (1654-55), his only known depiction of a Biblical narrative. His marriage to Catherina allowed Vermeer to climb the social scale significantly, and it is thought that afterwards he even limited the contact he had with his family while living in the house of his formidable mother-in-law.</p>
+          <p type="p">In the same year as his marriage, Vermeer followed in his father's footsteps and enrolled as a master painter in the Guild of St Luke, which allowed him a wealth of opportunities, patrons, and connections to advance his career. His early work shows the influence of masters like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rembrandt_van_rijn"&gt;Rembrandt&lt;/span&gt;, the Italian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caravaggio"&gt;Caravaggio&lt;/span&gt;, as well as the Utrecht Caravaggisti painters like Gerrit van Honthorst and Dirck van Baburnen.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1662, Vermeer became the head of the Guild of St Luke, which meant that he would have been in close contact with numerous Delft patrons, artists, and collectors. The new position established him as a well-respected painter in his own right, although the few paintings that exist have led many scholars to calculate that the artist only produced three or so paintings per year.</p>
+          <p type="img" alt="The most frequent model, that is thought to be Vermeer's wife, is seen here in &lt;i&gt;Girl Reading a Letter at an Open Window&lt;/i&gt; (c. 1657-59). This young woman is pictured with her high brow, straight nose and wide-spaced eyes, and she also appears to be pregnant in two of the pictures." show="1">/images20/photo/photo_vermeer_johannes_2.jpg</p>
+          <p type="p">One day in 1663, while Vermeer was away from the house, his wife's absent and aggressive brother Willem returned and physically attacked the heavily pregnant Catherina, threatening to stab her with a pointed metal stick. The mother and unborn child were saved from the attack when the Vermeers' maidservant put herself between the siblings. According to court records, Willem was heard to shout "she-devil" and "old popish swine" at Catherina and her mother Maria, before being taken away and incarcerated until the end of his life. Interestingly, the traumatic, violent episode didn't make its way into Vermeer's art. On the contrary, the calm idyll that Vermeer was known to capture in paint reflects a world that he, himself, perhaps wished to inhabit.</p>
+          <p type="p">The wealth of his wife's family allowed Vermeer to paint for his own pleasure, rather than to support his family as was the case for most other painters, and he never took on pupils or apprentices. The painter was also known to have used expensive pigments like lapis lazuli for the skirt of &lt;i&gt;The Milkmaid&lt;/i&gt; and deep carmine for the dress of &lt;i&gt;The Girl with a Wineglass&lt;/i&gt;. While some have suggested that Vermeer's long-term patron Pieter van Ruijven would have bought and supplied the artist with these exclusive ingredients, it is perhaps unsurprising that it was around this time that the painter began his own downward slide into debt.</p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Tombstone from 1975. When Vermeer died, he left so much debt that his family was unable to pay for a grave marker for him" show="1">/images20/photo/photo_vermeer_johannes_3.jpg</p>
+          <p type="p">In Dutch history, the year 1672 was termed "The Year of Disaster," owing to the invasion of the Dutch Republic by the French, German, and British armies. This led to a dramatic economic crash for the once prosperous, middle-class country. The art market plummeted, and Vermeer could barely afford to keep himself, his wife, her mother, and his eleven children. He took on increasing amounts of debt, borrowing thousands of guilders, and was even caught pocketing his mother-in-law's money.</p>
+          <p type="p">Vermeer died on December 16, 1675, having fallen into a fit of madness and depression. In the court records, his wife stated that, "...during the ruinous war with France he not only was unable to sell any of his art but also, to his great detriment, was left sitting with the paintings of other masters that he was dealing in. As a result and owing to the great burden of his children having no means of his own, he lapsed into such decay and decadence, which he had so taken to heart that, as if he had fallen into a frenzy in a day and a half he went from being healthy to being dead."</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Salvador Dali with his wife, holding a poster of &lt;i&gt;The Lacemaker by Vermeer&lt;/i&gt;" show="0">/images20/photo/photo_vermeer_johannes_4.jpg</p>
+          <p type="p">Due to the very localized fame during his lifetime, Vermeer seemed to disappear from the art world until the 19th century when French artists in the manner of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet;&lt;/span&gt;  started to turn their eyes toward the real and unpretentious. Since Vermeer had been so adept at capturing moments of ordinary beauty, he became a major influence on these artists, who revived an awareness of the master's work. Despite the fact that only 34 (3 more are disputed Vermeers) of his pieces have survived, Vermeer is considered today to be one of the greatest artists of the Dutch Golden Age.</p>
+          <p type="p">In the twentieth-century, the Surrealist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dali&lt;/span&gt; became entranced by Vermeer's work and produced his own variations including &lt;i&gt;The Ghost of Vermeer of Delft which can be used as a Table&lt;/i&gt; in 1934, as well as &lt;i&gt;The Lacemaker (After Vermeer)&lt;/i&gt; in 1955.</p>
+          <p type="img" alt="Banksy, &lt;i&gt;Girl with a Pierced Eardrum&lt;/i&gt; (2014). Bristol, UK" show="1">/images20/photo/photo_vermeer_johannes_5.jpg</p>
+          <p type="p">Other artists like the Danish painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hammershoi_vilhelm"&gt;Vilhelm Hammershøi&lt;/span&gt; adapted Vermeer's calm domestic interiors for their own nineteenth and twentieth century subjects. Hammershøi has modernized Vermeer's &lt;i&gt;Woman in Blue Reading a Letter&lt;/i&gt; by reversing the image and subduing the color palette so that it almost feels the audience is looking at an early photograph of a domestic, Danish interior.</p>
+          <p type="p">Among many of his exalted paintings, &lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; is considered the "Mona Lisa of the North." Its staggering realism and emotional ambiguity has inspired artists, novelists, and filmmakers for decades. Most recently, the anonymous British graffiti artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-banksy"&gt;Banksy&lt;/span&gt; reinterpreted and reproduced the painting on a building in Bristol, UK, using a burglar alarm in place of the iconic pearl earring.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="caravaggio">The Calling of St. Matthew (1599-1600)</artwork>
+    <artwork from="movement" page="dutch_golden_age">The Anatomy Lesson of Dr. Nicolaes Tulp (c.1632)</artwork>
+    <artwork from="movement" page="baroque_art_and_architecture">Embarkation of the Queen of Sheba (1648)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Christ in the House of Martha and Mary</title>
+      <year>1654-56</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this painting, Christ sits in the house of his close friends, the sisters Martha and Mary. While Martha is busy cleaning, cooking for, and serving the son of God, Mary sits calmly and contentedly at his feet and listens to him preach. Martha rebukes Christ for not encouraging the other sister to get up and help with the chores but Christ explains that while Martha is "worried and upset by many things," Mary needs "only one," that being the word of God. Martha was seen to be a personification of the active Catholic path where good deeds and humility led to salvation, but Mary is thought to be a symbol for the quiet, contemplative life of Protestantism, which required only the word of God for redemption.
+				&lt;br/&gt;&lt;br/&gt;
+				In his own way, Vermeer was conveying the theological struggle between Protestants and Catholics that raged not only within his own country, but also within himself. As a recent convert to Catholicism, after his marriage to Catherina Bolnes in 1653, it is unsurprising that one of his first works would depict this Biblical scene. Interestingly, some art historians have suggested that owing to the canvas size, which is the largest of all Vermeer's surviving works, it seems likely that this was a commission for a hidden Catholic church. People who followed the Pope's religion were persecuted in much of Northern Europe and forced to hide their spiritual convictions and services in secret basements or disguised lofts.
+				&lt;br/&gt;&lt;br/&gt;
+				One of the rare Biblical depictions by Vermeer, the painting radically depicted an intimate scene with Christ as if it were an ordinary, everyday scene. The artist Diego Velázquez would go on to recreate his own version of this iconic scene.
+			</desc>
+      <collection>National Museum of Scotland, Edinburgh</collection>
+    </artwork>
+    <artwork>
+      <title>The Procuress</title>
+      <year>c. 1656</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This image of &lt;i&gt;The Procuress&lt;/i&gt; appears to take place within the walls of a shady, dark brothel. The viewer's eye is drawn immediately to the young woman on the right, as her pale yellow bodice, white lace head covering, and pale skin are the brightest parts of the painting. The woman is looking down at her open right palm, which will shortly receive the coin that the man in red is giving her. That man is possessively curling his body around her, placing his hand over her breast, clearly claiming her for himself. His face is largely hidden in a shadow cast by the broad brim of his feathered hat. In seventeenth century Dutch popular culture, the presence of a feather on headwear held connotations of lechery and sexual immorality, which Vermeer has used to further emphasize the sordid tone. This undertone is also emphasized by the way the man in the center, thought to be a self-portrait of Vermeer, is gripping the neck of a stringed instrument, possibly a cittern, which gives an undeniably phallic impression. The man on the left is dressed in a black beret and a black, possibly silk, doublet with ripped sleeves. These items were in vogue in the previous century, and their placement within this image would have been quite jarring to the first audience of the painting. It could be argued that this man, who attempts to make eye contact with the audience, is attempting to draw them into the scene and make them complicit in the transaction. The inanimate objects within the painting also convey details about the setting. The Turkish carpet in the foreground, which appears to be hanging over a banister, has been an important part of European portrait paintings for centuries, for example in &lt;i&gt;The Ambassadors&lt;/i&gt;, (c. 1533) by Hans Holbein the Younger.
+				&lt;br/&gt;&lt;br/&gt;
+				Vermeer's use of chiaroscuro, a popular technique of the Baroque period, in which light and shade contrast starkly with each other to improve the composition of the piece, appears to be directly influenced by the Italian artist Caravaggio. Similarly, Vermeer seems to have taken inspiration for this scene from other works like &lt;i&gt;The Procuress&lt;/i&gt; by Dirk van Baburen, (c. 1622) which was, in fact, owned by Vermeer's mother-in-law Maria Thins and displayed in their shared house.
+			</desc>
+      <collection>Gemäldegalerie Alte Meister, Dresden, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>The Officer and the Laughing Girl</title>
+      <year>1657-60</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This snapshot of 17th century Dutch life has divided opinion for many decades. Art historians are unable to ascertain whether the young woman is a prostitute greeting a customer or a love-struck girl. The map of The Hague, Netherlands behind her head implies that she is worldly, but her covered décolletage and headdress suggest that she is the daughter of a well-to-do Dutch mercantile family who has just met a dashing young officer.
+				&lt;br/&gt;&lt;br/&gt;
+				It has been suggested that Vermeer's wife, Catherina, posed for this and many of his other paintings. Certainly the delicacy and care with which he has painted her face would reinforce this notion.
+				&lt;br/&gt;&lt;br/&gt;
+				It has also been conjectured that this is one of the first paintings Vermeer produced with the help of a camera obscura. While no written records exist to prove that he used one and one was not recorded in the household inventory at the time of his death, the artist Joseph Pennell noticed the "photographic perspective" of the painting in 1891. He suggested that despite the two figures sitting closely together, the officer is twice the size of the girl. In the photographic age this is unremarkable, but for 17th century painters it would have been more striking and we can see that although other painters placed figures and objects in the foreground and close to the viewer, they were usually in proportion to the space they inhabited.
+			</desc>
+      <collection>Frick Collection, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The View of Delft</title>
+      <year>1660-61</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Vermeer has depicted a serene glimpse into city life during the Dutch Golden Age, a period when the economic, technologic, and art world in the Netherlands were at their peak. It is a morning scene with dark clouds overhead and the ships with their sails folded away, docked in their slips, as if a thunder and rain shower has just passed. The large black ships on the right and centre of the image allude to the wealth of the Dutch Republic - a nation that made its fortune through inter-continental, ocean going mercantile and colonial trade. In the foreground, two groups of blocky, sombrely dressed people are conversing. The attire of the two women standing alone is a stark juxtaposition. One is dressed in the typical muted black garments of the proudly Protestant Dutch nation. The other woman is dressed in a cadmium yellow bodice and blue apron, strikingly reminiscent of the woman in Vermeer's earlier paintings like the &lt;i&gt;The Milkmaid&lt;/i&gt;, (c.1658). The grey, tranquil river divides the barren foreground and the spiky urban landscape. Painted at a time when cityscapes were not particularly common, the gorgeous serenity of the piece suggests a "heaven on earth," as noted by art historian Andrew Graham-Dixon.
+				&lt;br/&gt;&lt;br/&gt;
+				One of &lt;i&gt;The View of Delft&lt;/i&gt;'s most startling qualities is its photorealism when seen at a distance. Thus, it is unsurprising that Vermeer is said to have often employed a camera obscura to help enhance the naturalism of the painting. Upon closer inspection, however, it is possible to make out the dots, flecks, and smudges that make up the tonal difference and details of the image. The details of the hull of the boats are pecked out in white and yellow, which hints at the wet surface of the cargo ships. The brickwork on the buildings is similarly brought forward with dabs and splotches, which delicately suggest a recent rain. This early use of what is ultimately Pointillism is refreshing in its simplicity. Vermeer is even reported to have mixed sand into his paint, in order to create the rough rooftops and brickwork of the buildings. With Vermeer's use of detail and realism, it is easy to see what prompted the novelist Marcel Proust, to call it "the most beautiful painting in the world."
+			</desc>
+      <collection>The Mauritshuis, The Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>Woman in Blue Reading a Letter</title>
+      <year>1662-63</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this painting, Vermeer shows us the private moments of a woman reading a recently opened letter. She is dressed in a pale blue, possibly silk, bed jacket, worn exclusively within the home for domestic chores or relaxing in private. Her facial expression appears startled, and her chair is pushed away as if she has stood up out of shock. A string of pearls and another piece of paper, possibly the first part of the letter, lie on the table in front of her. Within contemporary Dutch pop culture, pearls were seen as a symbol of virginity, vanity, and piety, as well as wealth, so we can interpret the pearls as a present from a lover or a husband. Her rounded stomach suggest that she is pregnant, although some historians have posited that her rounded stomach is created by the clothing and was fashionable during this period. However, this is at odds with the silhouettes of women in other Vermeer portraits such as &lt;i&gt;Girl Reading a Letter at an Open Window&lt;/i&gt;, (c. 1657-59). The map behind the woman might also suggest that she is a pregnant wife awaiting the return of her traveling husband. It is impossible to tell from the woman's expression whether the husband has sent good news or bad.
+				&lt;br/&gt;&lt;br/&gt;
+				The two blue leather Spanish chairs have appeared in other works by Vermeer, suggesting that these were chairs that existed in his house. Maps are also frequently depicted in Vermeer's oeuvre, providing visual symbolism for the trading and mercantile businesses on which many well-to-do Dutch citizens built their wealth. The hues of the image create a melancholic atmosphere and ultimately, the viewer is left with a sense of voyeuristic expectation, tinged with apprehension as we wait for the woman to tell us her news.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Woman in Blue Reading a Letter&lt;/i&gt; represents one of Vermeer's most enigmatic and powerful depictions of a new theme in Dutch genre painting (subjects from everyday life): well-to-do women in domestic settings, often so preoccupied that they are oblivious to the viewer's gaze.
+			</desc>
+      <collection>Rijksmuseum, Amsterdam, The Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>Girl with the Pearl Earring</title>
+      <year>c.1665</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; is undoubtedly the most famous and identifiable portrait of Northern Europe and is as iconic to the Dutch as da Vinci's &lt;i&gt;Mona Lisa&lt;/i&gt; is to the Italians. In it, a young woman's face floats against a dark background, left half in shadow. She gazes out at the audience with bright eyes and lips slightly parted as if she is about to speak. It is unclear whether she is turning towards or away from the viewer.
+				&lt;br/&gt;&lt;br/&gt;
+				The play of light on the &lt;i&gt;Girl&lt;/i&gt;'s cheek, eyelids, and lips are instantly recognizable as Vermeer was posthumously titled the "Master of Light" and was known for his delicate attention to the way light played on skin, fabrics, and precious stones. Scholars have admiringly noted the lack of linear distinction between the nose and cheek, as Vermeer has counted on his use of light tones to implying the different facets of her face. Similarly, pale pink and white highlights along the lips make them appear moist and fleshy, adding to the air of mysticism that surrounds the image. The audience is left to wonder whether she stopped speaking when she made eye contact with the viewer or had simply paused to take a breath.
+				&lt;br/&gt;&lt;br/&gt;
+				Rather than a true-to-life portrait of someone, Vermeer's contemporaries would have recognized this genre painting as a &lt;i&gt;tronie&lt;/i&gt; - a stock character in costume, with idealized, exaggerated facial expressions, representing characteristics of exotic or foreign lands, that were coming to light in Dutch society, through the thriving business of trade. The girl's fantastical turban is indicative of this, as it was certainly not part of everyday Dutch, or even European garb. The pearlescent globe, hanging from her left ear, is also suggestive of far off lands as pearls were imported from the Persian Gulf.
+				&lt;br/&gt;&lt;br/&gt;
+				As with many of Vermeer's works, mystery revolves around why he painted what he did. Certainly he had more freedom than many of his contemporaries, like Rembrandt, who took commissions, and trained pupils to earn a living. Thus it seems that Vermeer painted the &lt;i&gt;Girl&lt;/i&gt; to amuse himself and to challenge himself artistically. Some scholars have argued as to the identity of the sitter, with some suggesting that it was either his oldest daughter, Maria, or the daughter of his patron, Magdalena van Ruijven, both of whom would have been twelve or thirteen years old at the time of painting. If this is the case, it suggests a desire to document his child's or his friend's child's beauty for posterity and admiration.
+				&lt;br/&gt;&lt;br/&gt;
+				Painted in around 1665, it wasn't until the turn of the twentieth century, after long-overdue restoration work, and with the publication of Tracy Chevalier's 1999 novel &lt;i&gt;Girl with a Pearl Earring&lt;/i&gt; that the &lt;i&gt;Girl&lt;/i&gt; was catapulted to international stardom.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting continues to influence contemporary artists. The British graffiti artist Banksy repainted the portrait on an exterior wall in Bristol, UK, in his characteristic street-art style with tonally applied deep blue paint. The iconic pearl, which historians are unsure as to whether it is an unusually large pearl or simply polished tin, has been replaced with an unassuming burglar alarm.
+				&lt;br/&gt;&lt;br/&gt;
+				Regardless of the identity of the mysterious girl, or the authenticity of her pearl, her face remains an iconic image of youthful beauty in Baroque art.
+			</desc>
+      <collection>The Mauritshuis, Amsterdam, The Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>The Allegory of Faith</title>
+      <year>1670-74</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Vermeer ended his artistic career the way he started it, by painting an intrinsically, even inescapably Catholic image. Many scholars believe that this image was commissioned for yet another private hidden church, or &lt;i&gt;schuilkerk&lt;/i&gt;, by Dutch Catholics. In it we see a drawn tapestry that reveals the scene, in all a reflection of the curtains that hid many churches in Netherlandish homes. On a raised, altar-like platform, a woman in the white and blue of purity is thought to be the penitent Mary Magdalene.
+				&lt;br/&gt;&lt;br/&gt;
+				She is shown looking up from the Bible to gaze at the crucifix, transfixed by divine love. Her foot rests on a terrestrial globe, while above her head hangs a celestial globe; an indication that she is suspended between the earthly world and the heavens. On the floor in front of her, a snake symbolizing Satan lies crushed and bleeding under the weight of a stone slab. The slab denotes the rock of the Catholic Church. The large painting in the background is a simplified version of &lt;i&gt;Christ on the Cross&lt;/i&gt; by Jacob Jordaens (c.1620), which was also owned by Vermeer's mother-in-law. The older painting even appears in the inventory of Vermeer's belongings after his death in 1675. The chair holds a plump ultramarine cushion which could be a thinly disguised &lt;i&gt;prie-dieu&lt;/i&gt; - a low stool on which Catholics would kneel to pray and contemplate, which further reinforced the idea that the viewer is witnessing the transformation of wine into blood, the Transubstantiation, unfolding within this hidden sacred space.
+				&lt;br/&gt;&lt;br/&gt;
+				Ultimately, the viewer is left with the sure knowledge that Vermeer was devoted to his adopted faith.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>rembrandt_van_rijn</entity>
+        <entity>caravaggio</entity>
+        <entity alt="Dirk van Bamburen">van_bamburen_dirk</entity>
+        <entity alt="Pieter de Hooch">de_hooch_pieter</entity>
+        <entity alt="Gabriël Metsu">metsu_gabriel</entity>
+      </column>
+      <column>
+        <entity alt="Carel Fabritus">fabritus_carel</entity>
+        <entity alt="Gerrit ter Borch">ter_borch_gerrit</entity>
+        <entity alt="Leonaert Bramer">bramer_leonaert</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>dutch_golden_age</entity>
+        <entity alt="Utrecht Caravaggisti">utrecht_caravaggisti</entity>
+        <entity alt="genre painting">genre_painting</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>dali_salvador</entity>
+        <entity>banksy</entity>
+        <entity>reynolds_joshua</entity>
+      </column>
+      <column></column>
+      <column>
+        <entity>realism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Secret Knowledge: Rediscovering the Lost Techniques of the Old Masters</title>
+          <link>0142005126</link>
+          <info>
+						By David Hockney
+						&lt;br&gt;
+						Thames and Hudson
+						&lt;br&gt;
+						2001
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer and His Milieu: A Web of Social History</title>
+          <link>0691002894</link>
+          <info>
+						By John Michael Montias
+						&lt;br&gt;
+						Princeton University Press
+						&lt;br&gt;
+						1989
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer's Women: Secrets and Silence</title>
+          <link>0300178999</link>
+          <info>
+						By Marjorie Wiesman
+						&lt;br&gt;
+						Yale University Press
+						&lt;br&gt;
+						2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Cambridge Companion to Vermeer</title>
+          <link>0521653312</link>
+          <info>
+						Edited by W. Franits
+						&lt;br&gt;
+						Cambridge University Press
+						&lt;br&gt;
+						2001
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>The Young Vermeer</title>
+          <link>9040076804</link>
+          <info>
+						By Edwin Buijsen
+						&lt;br&gt;
+						WBooks
+						&lt;br&gt;
+						2010
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer in Detail</title>
+          <link>1419727648</link>
+          <info>
+						By Gary Schwartz
+						&lt;br&gt;
+						Abrams
+						&lt;br&gt;
+						2017
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer and Painting in Delft</title>
+          <link>0300091893</link>
+          <info>
+						By Axel Ruger
+						&lt;br&gt;
+						National Gallery London
+						&lt;br&gt;
+						2001
+					</info>
+        </entry>
+        <entry>
+          <title>Dutch Seventeenth-Century Genre Painting: Its Stylistic and Thematic Evolution</title>
+          <link>0300102372</link>
+          <info>
+						By Wayne Frantis
+						&lt;br&gt;
+						Yale University Press
+						&lt;br&gt;
+						2004
+					</info>
+        </entry>
+        <entry>
+          <title>Love Letters: Dutch Genre Paintings in the Age of Vermeer</title>
+          <link>0711223386</link>
+          <info>
+						By Peter Sutton
+						&lt;br&gt;
+						London
+						&lt;br&gt;
+						2004
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Essential Vermeer</title>
+          <link>http://www.essentialvermeer.com</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Vermeer Centrum Delft | Een ontdekkingstocht door het leven van Johannes Vermeer</title>
+          <link>https://www.vermeerdelft.nl/en/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Girl with a Pearl Earring</title>
+          <link>http://www.girl-with-a-pearl-earring.info</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Johannes Vermeer - Artists - Rijksstudio - Rijksmuseum</title>
+          <link>https://www.rijksmuseum.nl/en/rijksstudio/artists/johannes-vermeer</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Vermeer</title>
+          <link>https://www.mauritshuis.nl/en/explore/the-collection/vermeer/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Why Vermeer's paintings are less 'real' than we think</title>
+          <link>http://www.bbc.com/culture/story/20170425-why-vermeers-paintings-are-less-real-than-we-think</link>
+          <info>
+						By Alistair Sooke
+						&lt;br&gt;
+						BBC Culture 
+						&lt;br&gt;
+						April 25, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer: The artist who taught the world to see ordinary beauty</title>
+          <link>https://www.theguardian.com/artanddesign/jonathanjonesblog/2017/feb/08/vermeer-artist-who-taught-world-to-see-ordinary-beauty</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 7, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer and the Camera Obscura</title>
+          <link>http://www.bbc.co.uk/history/british/empire_seapower/vermeer_camera_01.shtml</link>
+          <info>
+						By Philip Steadman
+						&lt;br&gt;
+						BBC History 
+						&lt;br&gt;
+						February 17, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Vermeer's Palette</title>
+          <link>https://www.nationalgallery.org.uk/research/the-meaning-of-making/vermeer-and-technique/vermeers-palette</link>
+          <info>
+						By Helen Howard
+						&lt;br&gt;
+						National Gallery Research 
+						&lt;br&gt;
+						2013
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer was an authentic artistic genius - even if he did cheat</title>
+          <link>https://www.theguardian.com/commentisfree/2017/aug/10/vermeer-artistic-genius-cheat-painter</link>
+          <info>
+						By Simon Jenkins
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						August 10, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Secret Lives of the Artists: The Madness of Vermeer</title>
+          <link>https://www.bbc.co.uk/programmes/b0074pym</link>
+          <info>
+						Andrew Graham-Dixon
+						&lt;br&gt;
+						BBC
+						&lt;br&gt;
+						2003
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer's Masterpiece: The Milkmaid - Discreet Object of Desire</title>
+          <link>https://www.youtube.com/watch?v=JfMlEx5l5V0</link>
+          <info>
+						Walter Liedtke
+						&lt;br&gt;
+						The Metropolitan Museum of Art
+						&lt;br&gt;
+						2009
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer's Camera and Tim's Vermeer</title>
+          <link>https://www.youtube.com/watch?v=GFfmc4e7KgM</link>
+          <info>
+						Philip Steadman
+						&lt;br&gt;
+						University College London
+						&lt;br&gt;
+						2015
+					</info>
+        </entry>
+        <entry>
+          <title>Why is Vermeer's "Girl with a Pearl Earring" considered a masterpiece?</title>
+          <link>https://www.youtube.com/watch?v=pM_IzEAv5d4</link>
+          <info>
+						James Earle
+						&lt;br&gt;
+						TedEd
+						&lt;br&gt;
+						2016
+					</info>
+        </entry>
+        <entry>
+          <title>Vermeer: Beyond Time</title>
+          <link>https://www.youtube.com/watch?v=P5U2hRC0oKU</link>
+          <info>
+						RTÉ One
+						&lt;br&gt;
+						2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>The Girl with the Pearl Earring</title>
+          <link>https://www.amazon.com/gp/product/B0001K2L4W?tag=tharst-20</link>
+          <info>
+						Directed by Peter Webber, starring Scarlett Johansson, Colin Firth, Tom Wilkinson
+						&lt;br&gt;
+						2003
+					</info>
+        </entry>
+        <entry>
+          <title>A Zed and Two Noughts</title>
+          <link>https://www.amazon.com/gp/product/B0001ACJR6?tag=tharst-20</link>
+          <info>
+						Dir. Peter Greenway
+						&lt;br&gt;
+						1985
+					</info>
+        </entry>
+        <entry>
+          <title>The Girl in Hyacinth Blue</title>
+          <link>https://www.amazon.com/gp/product/0755305302?tag=tharst-20</link>
+          <info>
+						By Susan Vreeland
+						&lt;br&gt;
+						1999
+					</info>
+        </entry>
+        <entry>
+          <title>The Girl with the Pearl Earring</title>
+          <link>https://www.amazon.com/gp/product/0007232160?tag=tharst-20</link>
+          <info>
+						By Tracy Chevalier
+						&lt;br&gt;
+						1999
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>serusier_paul</id>
+    <name>Paul Sérusier</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1885 - 1927</years>
+    <description>Sérusier employed bold colors and flattened forms illustrating his visions on canvas and leading the group - Les Nabis.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <mini>true</mini>
+    <occupation>Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>November 9, 1864</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>October 7, 1927</deathDate>
+    <deathPlace>Morlaix, France</deathPlace>
+    <pub_time>2/25/2017</pub_time>
+  </main>
+  <includes>
+    <include>post_impressionism</include>
+    <include>les_nabis</include>
+    <include>symbolism</include>
+  </includes>
+  <similar_movements>
+    <movement>post_impressionism</movement>
+    <movement>les_nabis</movement>
+    <movement>symbolism</movement>
+    <movement>realism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>gauguin_paul</artist>
+    <artist>vuillard_edouard</artist>
+    <artist>bonnard_pierre</artist>
+    <artist>van_gogh_vincent</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Art is a means of communication between souls."</q>
+    <q>"Beauty is the love that we devote to an object."</q>
+    <q>"The signs that express love or beauty are the constituent elements of a work of art."</q>
+    <q>"To decorate a surface is to emphasize the right proportions."</q>
+    <q>"Others will give you advice on style, on feeling. Do not listen to them. There is only one style for you, yours. And, if you have your style, you will not notice it. To stylize is to abandon your style."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="archino">Sarah Archino</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Born in Paris, Paul Sérusier studied at the Académie Julian, an alternative to the elite and conservative École des Beaux-Arts. During his training, he visited the artist colony established in Pont-Aven, where he met a group of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolists&lt;/span&gt;. Working closely with his friends, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-denis_maurice"&gt;Maurice 
+			Denis&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bonnard_pierre"&gt;Pierre Bonnard&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vuillard_edouard"&gt;Édouard Vuillard&lt;/span&gt;, Sérusier employed bold colors and flattened forms to illustrate his thoughts on the canvas. Seeking liberation from the strictures of classical painting and the recent Impressionist movement, Sérusier was a pioneer of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt;, eventually founding the group &lt;span class="marked_text chart-tooltip-target-top tooltip_id-les_nabis"&gt;Les Nabis&lt;/span&gt;, named after the Hebrew word for "prophet." 
+			&lt;br/&gt;&lt;br/&gt;
+			As the leader of the Nabis, Sérusier sought to paint what he felt as well as what he saw. He also sought unity between decoration and fine art, as did the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arts_and_crafts"&gt;Arts and Crafts&lt;/span&gt; movement in England. Many of Sérusier's paintings were meant to fit in seamlessly with their surroundings, to be as aesthetically pleasing as they were intellectually stimulating. Advancing toward abstraction, Sérusier helped to usher in a new era in artistic innovation, pushing painting away from representation to focus on sensation and evocation. Beginning in 1908, his influence was broadened as an instructor at the École Ranson, founded by fellow Nabi &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ranson_paul"&gt;Paul Ranson&lt;/span&gt;, where students were encouraged to embrace the expressive and evocative potentials of abstraction. The École Ranson was a popular training ground for modernist painters until World War II.
+		</synopsys>
+    <key_ideas>
+      <idea>Moving away from the concept of art as imitation of the visible world, Sérusier introduced more conceptual and evocative elements into his painting, especially in the dissolution of forms and his use of non-descriptive color. Thought was paramount to his work and he placed it above representation: if he perceived the sky to be yellow, he painted it as yellow and not blue.</idea>
+      <idea>Sérusier strove to synthesize three key elements within his works: the appearance of the natural world, the sensation that it gave him, and the form in which he chose to represent it. In balancing these three elements, Sérusier also focused on flattening the shapes and forms in his works. Continuing what Manet had done before him, Sérusier emphasized the two-dimensionality of painting through the use of strong lines and bright colors.</idea>
+      <idea>Sérusier's abstraction of forms in the pursuit of translating emotion and perception onto the canvas not only distinguished him from previous artists but also inspired others. Historians, and his contemporaries, date the beginning of the Nabi movement with Sérusier's work, &lt;i&gt;The Talisman&lt;/i&gt;. His experimentation inspired new levels of abstraction in his paintings and those of his colleagues, contributing to the development of artists transferring their emotions onto their creations.</idea>
+      <idea>Sérusier encouraged greater experiments towards abstraction in an attempt to "free form and color from their traditional descriptive functions in order to express personal emotions and spiritual truths." This guiding principle of sensation through color was an astounding innovation that resonated with future generations of colorists, including Helen Frankenthaler, Mark Rothko, and Josef Albers.</idea>
+    </key_ideas>
+    <sections>
+      <section title="_collage">
+        <subsection title="Paul Sérusier: Of Interest">
+          <p type="img" alt="Portrait of Paul Sérusier by Georges C. Michelet (1887)" show="1">/images20/photo/collage_serusier_paul_1.jpg</p>
+          <p type="img" alt="Portrait of Paul Sérusier by Georges Lacombe (1894)" show="1">/images20/photo/collage_serusier_paul_2.jpg</p>
+          <p type="img" alt="Lithograph of Paul Sérusier by Odilon Redon (1903)" show="1">/images20/photo/collage_serusier_paul_3.jpg</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Le Talisman, the Aven River at the Bois d'Amour</title>
+      <year>1888</year>
+      <materials>Oil on Wood</materials>
+      <desc>
+				This work marks the beginning of Sérusier's exploration into color, sensation, and abstraction. Divorcing himself from the Impressionists' more faithful representation of what they observed, Sérusier focused instead on translating his sensations onto the canvas. Based upon his impressions of a day outside, Sérusier transformed each piece of nature into a swathe of color-filled energy, unified by vivid brushstrokes. The trees are yellow and the ground is orange, separating it from a traditional landscape. He painted what he felt, not what he saw. Gauguin encouraged him to move beyond the straightforward representation of a scene, but the artist went one step further, creating an abstracted marvel based predominantly on emotion and personal vision.
+				&lt;br/&gt;&lt;br/&gt;
+				It is also the painting that marks the creation of the Nabis: this painting was supposed to be their "talisman" (or the guide and good luck charm) for future work. With this small sketch-like painting, completed on the back of a cigar box, he aimed to free his fellow artists from the artistic shackles of representation and thus allow them to pour their thoughts and emotions onto the canvas. It was enthusiastically adopted by the group as an inspirational guide to future abstraction and an emblem celebrating the prioritization of sensation over visual fidelity. Maurice Denis explained the effects of &lt;i&gt;The Talisman&lt;/i&gt; best when he said "thus was introduced to us for the first time, in a paradoxical and unforgettable form, the fertile concept of a flat surface covered with colors assembled in a certain order. Thus we learned that every work of art was a transposition, a passionate equivalent of a sensation received." 
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Paul Ranson in Nabi Costume</title>
+      <year>1890</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				One of the few portraits painted by Sérusier, who mainly focused on landscapes, this painting is remarkable for its representation of Paul Ranson who was a member of the Nabis since its inception, and who favored the same symbolism as Sérusier. Overall, this group reflects a growing &lt;i&gt;fin-de-siècle&lt;/i&gt; trend of religiosity, both in traditional and occult circles; the members of the Nabis created a close brotherhood modeled after religious orders and were inspired by levels of consciousness beyond the concrete or visual, but their focus appears to have been predominantly visual rather than spiritual. Although it is not known whether the Nabis actually performed rituals, this clearly shows the group's interests in esoteric symbolism, including the details of the costume and objects. 
+				&lt;br/&gt;&lt;br/&gt;
+				The portrait is also notable for its use of Cloisonnism, the representational style favored by Sérusier and Gauguin. As is often seen in works of this style, there is very little depth in the painting; Ranson is in the extreme foreground and his form is firmly planted in the second dimension, not the third. His body is outlined in black, another distinct characteristic of Cloisonnism.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Farmhouse at le Pouldu</title>
+      <year>1890</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Motivated and inspired by his time in Brittany with Paul Gauguin, in this work Sérusier applies and expands on what he has learned from his mentors. Clearly showing his experimentation and fascination with Synthetism, Sérusier has filled his tableau with flattened forms and large swathes of color. The Breton woman is entirely two-dimensional, emphasizing the fact that this is a painting and dispelling with any attempt to fool the viewer into believing that a real person is on the canvas. She is walking in front of a simplistically shaped home, filled in and surrounded by unembellished pools of color. In a last burst of Synthetism, everyone and everything is clearly outlined. Sérusier also applies the proto-cubist techniques of Paul Cézanne to create his scene by using rows of short, visible brushstrokes in the sky, trees, and thatched roof.
+				&lt;br/&gt;&lt;br/&gt;
+				Additionally, this work also stands out in Sérusier's &lt;i&gt;oeuvre&lt;/i&gt; because of its unconventional representation of a genre scene. While at first it seems like a traditional depiction of country life, when one looks closer Sérusier's true objective becomes clear: decoration. This scene centers on the decorative organization of its objects. Each element has been placed in a way most appealing to the eye; the blues of the woman's dress blends into the blue of the shadows, and the green of her apron relates to the green of the trees behind her. &lt;i&gt;Farmhouse at le Pouldu&lt;/i&gt; is craftily organized and masterfully executed. 
+			</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Apple Harvest</title>
+      <year>1891</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Like his friend and collaborator Paul Gauguin did in &lt;i&gt;Where Do We Come From? What Are We? Where Are We Going?&lt;/i&gt; (1897), Sérusier's &lt;i&gt;Apple Harvest&lt;/i&gt; is a tripartite representation of the progression of life. Sérusier has more explicitly referenced the traditional triptych structure by using three panels. He was likely inspired by his time with Gauguin in Brittany, where the local women's costumes and activities had remained largely unchanged since the Middle Ages. This fascinated both artists, who depicted the lives of Breton locals in their works. 
+				&lt;br/&gt;&lt;br/&gt;			
+				Three different parts of female life are represented here: on the left a woman nurtures her child, in the center the women harvest crops, and on the right the women bring back food for the town and their families. These women are, to Sérusier, unchanging in their daily tasks, unwavering in their devotion for centuries. The work is as much about what the women symbolize(the physical manifestation of religious devotion) as it is about their representation. 
+				&lt;br/&gt;&lt;br/&gt;				
+				&lt;i&gt;Apple Harvest&lt;/i&gt; is the apex of Sérusier's explorations into Synthetism. This painting has been entirely constructed in the Synthetist style, devoid of other artistic stylistic influences. Nothing is complex. The flowers, the women, the lake, all forms are simple. Additionally, all forms are flattened. There is no attempt to instill the illusion of depth of three-dimensionality into the painting. There is no dilution of color. The blue of the lake pops against the yellow of the background. A dress is simply a broad stroke of orange or green. 
+				&lt;br/&gt;&lt;br/&gt;				
+				&lt;i&gt;Apple Harvest&lt;/i&gt; is an intellectual foray into demonstrating a new artistic style, but it is also aesthetically driven; an example of one of Sérusier's many achievements in uniting decoration with fine art. As in his previous depictions of Breton women, the scene is exquisitely organized. The colors are aesthetically pleasing and the arrangement of women, going from left to right, leads the eye on an intriguing journey much in the way that genre scenes on wallpaper do. The Nabis were as much interested in uniting decoration and painting as they were to focusing on translating emotion into color.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="gauguin_paul">The Yellow Christ (1889)</artwork>
+    <artwork from="movement" page="les_nabis">Nabi Landscape (1890)</artwork>
+    <artwork from="movement" page="les_nabis">Game of Shuttlecock (1892)</artwork>
+  </similar_artworks>
+  <chart />
+  <sidebar />
+</data>

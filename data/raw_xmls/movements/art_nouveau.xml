@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>art_nouveau</id>
+    <name>Art Nouveau</name>
+    <type>movement</type>
+    <head_title>Art Nouveau Movement</head_title>
+    <is_influences>false</is_influences>
+    <active_section>movements</active_section>
+    <years />
+    <keywords>art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy, art nouveau, Jugendstil, decorative, decorative art, nouveau, abstraction, worldwide, art nouveau artists</keywords>
+    <description>The artists of Art Nouveau drew inspiration from organic and geometric forms to create elegant, modern designs. Top works by Klimt, Horta, Gaudi, Guimard+</description>
+    <art_description>Famous art, design, architecture, posters and lamps+ of Art Nouveau with analysis, achievements, and overall contributions to the arts. Klimt, Mucha, Gaudi+</art_description>
+    <additional_artwork_link />
+    <use_big_images>true</use_big_images>
+    <image_desc>true</image_desc>
+    <profession />
+    <highlight>7</highlight>
+    <start>1890</start>
+    <end>1905</end>
+    <big_bio_box_img>Detail of &lt;i&gt;The Kiss&lt;/i&gt; (1907-08) by Gustav Klimt</big_bio_box_img>
+    <bio_highlight>&lt;span class="marked_text chart-tooltip-target-top tooltip_id-klimt_gustav"&gt;Gustav Klimt&lt;/span&gt; famously said, “Enough of censorship…I refuse every form of support from the state, I’ll do without all of it,” – because he was attacked for his work’s swirling erotic forms, he went on pioneer his &lt;i&gt;Gold Period&lt;/i&gt; – one of the highlights of Art Nouveau.</bio_highlight>
+    <art_type>Art</art_type>
+    <pub_time>1/21/2012</pub_time>
+  </main>
+  <similar_artists>
+    <artist>klimt_gustav</artist>
+    <artist>guimard_hector</artist>
+    <artist>horta_victor</artist>
+    <artist>mackintosh_charles_rennie</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>jugendstil</movement>
+    <movement>vienna_secession</movement>
+    <movement>art_deco</movement>
+    <movement>wiener_werkstatte</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>jugendstil</entry>
+    <entry>vienna_secession</entry>
+    <entry>art_deco</entry>
+    <entry>wiener_werkstatte</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="klimt_gustav">"Art is a line around your thoughts."</q>
+    <q author="Antoni Gaudi">"Color in certain places has the great value of making the outlines and structural planes seem more energetic."</q>
+    <q author="Otto Wagner">"Something impractical cannot be beautiful."</q>
+    <q author="Victor Horta">"I discard the flower and leaf, but keep the stalk."</q>
+    <q author="Henry van de Velde">"I believe that everything in Nature aspires to the acme of strength, well-being, and happiness; and everything that deviates from this I call immoral."</q>
+    <q author="Antoni Gaudi">"Those who look for the laws of Nature as a support for their new works collaborate with the creator."</q>
+    <q author="Emile Gallé">"Our roots are in the depths of the woods-on the banks of streams and among the mosses."</q>
+    <q author="Antoni Gaudi">"There are no straight lines or sharp corners in nature. Therefore, buildings must have no straight lines or sharp corners."</q>
+  </quotes>
+  <authors>
+    <author link="wolf">Justin Wolf</author>
+  </authors>
+  <editors>
+    <editor link="top">Peter Clericuzio</editor>
+  </editors>
+  <article>
+    <synopsys>Generating enthusiasts in the decorative and graphic arts and architecture throughout Europe and beyond, Art Nouveau appeared in a wide variety of strands, and, consequently, it is known by various names, such as the Glasgow Style, or, in the German-speaking world, Jugendstil. Art Nouveau was aimed at modernizing design, seeking to escape the eclectic historical styles that had previously been popular. Artists drew inspiration from both organic and geometric forms, evolving elegant designs that united flowing, natural forms resembling the stems and blossoms of plants. The emphasis on linear contours took precedence over color, which was usually represented with hues such as muted greens, browns, yellows, and blues. The movement was committed to abolishing the traditional hierarchy of the arts, which viewed the so-called liberal arts, such as painting and sculpture, as superior to craft-based decorative arts. The style went out of fashion for the most part long before the First World War, paving the way for the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_deco"&gt;Art Deco&lt;/span&gt; in the 1920s, but it experienced a popular revival in the 1960s, and it is now seen as an important predecessor - if not an integral component - of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modernism&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>The desire to abandon the historical styles of the 19&lt;sup&gt;th&lt;/sup&gt; century was an important impetus behind Art Nouveau and one that establishes the movement's modernism. Industrial production was, at that point, widespread, and yet the decorative arts were increasingly dominated by poorly-made objects imitating earlier periods. The practitioners of Art Nouveau sought to revive good workmanship, raise the status of craft, and produce genuinely modern design that reflected the utility of the items they were creating.</idea>
+      <idea>The academic system, which dominated art education from the 17&lt;sup&gt;th&lt;/sup&gt; to the 19&lt;sup&gt;th&lt;/sup&gt; century, underpinned the widespread belief that media such as painting and sculpture were superior to crafts such as furniture design and ironwork. The consequence, many believed, was the neglect of good craftsmanship. Art Nouveau artists sought to overturn that belief, aspiring instead to "total works of the arts," the famous &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gesamtkunstwerk"&gt;Gesamtkunstwerk&lt;/span&gt;, that inspired buildings and interiors in which every element worked harmoniously within a related visual vocabulary. In the process, Art Nouveau helped to narrow the gap between the fine and the applied arts, though it is debatable whether this gap has ever been completely closed.</idea>
+      <idea>Many Art Nouveau practitioners felt that earlier design had been excessively ornamental, and in wishing to avoid what they perceived as frivolous decoration, they evolved a belief that the function of an object should dictate its form. In practice this was a somewhat flexible ethos, yet it would be an important part of the style's legacy to later modernist movements, most famously the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="img" alt="The Hotel Tassel famous staircase designed by Victor Horta. Completed in 1894. Photo by  Henry Townsend" show="1">/images20/photo/photo_art_nouveau_architecture1.jpg</p>
+          <p type="p">The advent of Art Nouveau - literally "New Art" - can be traced to two distinct influences: the first was the introduction, around 1880, of the British &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arts_and_crafts"&gt;Arts and Crafts&lt;/span&gt; movement, which, much like Art Nouveau, was a reaction against the cluttered designs and compositions of Victorian-era decorative art. The second was the current vogue for Japanese art, particularly wood-block prints, that swept up many European artists in the 1880s and 90s, including the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klimt_gustav"&gt;Gustav Klimt&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-galle_emile"&gt;Emile Gallé&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Abbott McNeill Whistler&lt;/span&gt;. Japanese wood-block prints in particular contained floral and bulbous forms, and "whiplash" curves, all key elements of what would eventually become Art Nouveau.</p>
+          <p type="p">It is difficult to pinpoint the first work(s) of art that officially launched Art Nouveau. Some argue that the patterned, flowing lines and floral backgrounds found in the paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin&lt;/span&gt; represent Art Nouveau's birth, or perhaps even the decorative lithographs of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-toulouse_lautrec_henri"&gt;Henri de Toulouse-Lautrec&lt;/span&gt;, such as &lt;i&gt;Moulin Rouge: La Goulue&lt;/i&gt; (1891). But most point to the origins in the decorative arts, and in particular to a book jacket by English architect and designer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mackmurdo_arthur_heygate"&gt;Arthur Heygate Mackmurdo&lt;/span&gt; for the 1883 volume &lt;i&gt;Wren's City Churches&lt;/i&gt;. The design depicts serpentine stalks of flowers emanating from one flattened pad at the bottom of the page, clearly reminiscent of Japanese-style wood-block prints.</p>
+        </subsection>
+        <subsection title="Art Nouveau Exhibitions">
+          <p type="img" alt="Art Nouveau-style poster for the 1900 Expositions Universelle in Paris" show="1">/images20/photo/photo_art_nouveau_architecture3.jpg</p>
+          <p type="p">Art Nouveau was often most conspicuous at international expositions during its heyday. It enjoyed center stage at five particular fairs: the 1889 and 1900 Expositions Universelles in Paris; the 1897 Tervueren Exposition in Brussels (where Art Nouveau was largely employed to show off the possibilities of craftsmanship with the exotic woods of the Belgian Congo); the 1902 Turin International Exposition of Modern Decorative Arts; and the 1909 Exposition International de l'Est de la France in Nancy. At each of these fairs, the style was dominant in terms of the decorative arts and architecture on display, and in Turin in 1902, Art Nouveau was truly the style of choice of virtually every designer and every nation represented, to the exclusion of any other.</p>
+        </subsection>
+        <subsection title="The Regional Names for Art Nouveau">
+          <p type="img" alt="Entrance to Siegfried Bing's shop L'Art Nouveau" show="1">/images20/photo/photo_art_nouveau_architecture5.jpg</p>
+          <p type="p">Siegfried Bing, a German merchant and connoisseur of Japanese art living in Paris, opened a shop named L'Art Nouveau in December 1895, which became one of the main purveyors of the style in furniture and the decorative arts. Before long, the store's name became synonymous with the style in France, Britain, and the United States. Art Nouveau's wide popularity throughout Western and Central Europe, however, meant that it went by several different titles. In German-speaking countries, it was generally called &lt;i&gt;Jugendstil&lt;/i&gt; (Youth Style), taken from a Munich magazine called &lt;i&gt;Jugend&lt;/i&gt; that popularized it. Meanwhile, in Vienna - home to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klimt_gustav"&gt;Gustav Klimt&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wagner_otto"&gt;Otto Wagner&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hoffmann_josef"&gt;Josef Hoffmann&lt;/span&gt; and the other founders of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vienna_secession"&gt;Vienna Secession&lt;/span&gt; - it was known as &lt;i&gt;Sezessionsstil&lt;/i&gt; (Secession Style). It was also known as &lt;i&gt;Modernismo&lt;/i&gt; in Spanish, &lt;i&gt;Modernisme&lt;/i&gt; in Catalan, and &lt;i&gt;Stile Floreale&lt;/i&gt; (floral style) or &lt;i&gt;Stile Liberty&lt;/i&gt; in Italy (the latter after &lt;span class="marked_text chart-tooltip-target-top tooltip_id-liberty_arthur"&gt;Arthur Liberty's&lt;/span&gt; fabric shop in London, which helped popularize the style). In France it was commonly called &lt;i&gt;Modern(e)-Style&lt;/i&gt; and occasionally &lt;i&gt;Style Guimard&lt;/i&gt; after its most famous practitioner there, the architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guimard_hector"&gt;Hector Guimard&lt;/span&gt;, and in the Netherlands it was usually called &lt;i&gt;Nieuwe Kunst&lt;/i&gt; (New Art). Its numerous detractors also gave it several derogatory names: &lt;i&gt;Style Nouille&lt;/i&gt; (noodle style) in France, &lt;i&gt;Paling Stijl&lt;/i&gt; (eel style) in Belgium, and &lt;i&gt;Bandwurmstil&lt;/i&gt; (tapeworm style) in Germany - all names which made playful reference to Art Nouveau's tendency to employ sinuous and flowing lines.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Art Nouveau Graphics and Design">
+          <p type="p">Art Nouveau's ubiquity in the late-19&lt;sup&gt;th&lt;/sup&gt; century must be explained in part by many artists' use of popular and easily reproduced forms, found in the graphic arts. In Germany, &lt;i&gt;Jugendstil&lt;/i&gt; artists like Peter Behrens and Hermann Obrist had their work printed on book covers and exhibition catalogs, magazine advertisements and playbills. But this trend was by no means limited to Germany. The English illustrator &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beardsley_aubrey"&gt;Aubrey Beardsley&lt;/span&gt;, perhaps the most controversial Art Nouveau figure due to his combination of the erotic and the macabre, created a number of posters in his brief career that employed graceful and rhythmic lines. Beardsley's highly decorative prints, such as &lt;i&gt;The Peacock Skirt&lt;/i&gt; (1894), were both decadent and simple, and represent the most direct link we can identify between Art Nouveau and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-japonism"&gt;Japonism&lt;/span&gt;/&lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;Ukiyo-e prints&lt;/span&gt;. In France, the posters and graphic production of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cheret_jules"&gt;Jules Chéret&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-toulouse_lautrec_henri"&gt;Henri de Toulouse-Lautrec&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bonnard_pierre"&gt;Pierre Bonnard&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-prouve_victor"&gt;Victor Prouvé&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-steinlen_theophile"&gt;Théophile Steinlen&lt;/span&gt;, and a handful of others popularized the lavish, decadent lifestyle of the &lt;i&gt;belle époque&lt;/i&gt; (roughly the era between 1890-1914), usually associated with the seedy cabaret district of Montmartre in northern Paris. Their graphic works used new chromolithographic techniques to promote everything from new technologies like telephones and electric lights to bars, restaurants, nightclubs and even individual performers, evoking the energy and vitality of modern life. In the process, they soon raised the poster from the ranks of the pedestrian advertisement to high art.</p>
+        </subsection>
+        <subsection title="Art Nouveau Architecture">
+          <p type="img" alt="The Vienna Secession Building as it looks today. Photo by Gryffindor" show="1">/images20/photo/photo_art_nouveau_architecture2.jpg</p>
+          <p type="p">In addition to the graphic and visual arts, any serious discussion of Art Nouveau must consider architecture and the vast influence this had on European culture. In urban hubs such as Paris, Brussels, Glasgow, Turin, Barcelona, Antwerp, and Vienna, as well as smaller cities like Nancy and Darmstadt, along with Eastern European locales like Riga, Prague, and Budapest, Art Nouveau architecture prevailed on a grand scale, in both size and appearance, and is still visible today in structures as varied as small row houses to great institutional and commercial buildings. In architecture especially, Art Nouveau was showcased in a wide variety of idioms. Many buildings incorporate a prodigious use of terracotta and colorful tilework. The French ceramicist Alexandre Bigot, for example, made his name largely through the production of terracotta ornament for the facades and fireplaces of Parisian residences and apartment buildings. Other Art Nouveau structures, particularly in France and Belgium (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-guimard_hector"&gt;Hector Guimard&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-horta_victor"&gt;Victor Horta&lt;/span&gt; were important practitioners), show off the technological possibilities of an iron structure joined by glass panels.</p>
+          <p type="p">In many areas across Europe, local stone such as yellow limestone or a rocky, random-coursed rural aesthetic with wood trim characterized Art Nouveau residential architecture. And in several cases, a sculptural white stucco skin was used, particularly on Art Nouveau buildings used for exhibitions, such as the pavilions of the Paris Exposition Universelle of 1900 and Secession Building in Vienna. Even in the United States, the vegetal forms adorning Louis Sullivan's skyscrapers like the Wainwright Building and Chicago Stock Exchange are often counted among the best examples of Art Nouveau's wide architectural scope.</p>
+        </subsection>
+        <subsection title="Art Nouveau Furniture and Interior Design">
+          <p type="p">Like the Victorian stylistic revivals and the Arts and Crafts Movement, Art Nouveau was intimately associated with interior decoration at least as much as it was conspicuous on exterior facades. Also like these other styles of the 19&lt;sup&gt;th&lt;/sup&gt; century, Art Nouveau interiors also strove to create a harmonious, coherent environment that left no surface untouched. Furniture design took center stage in this respect, particularly in the production of carved wood that featured sharp, irregular contours, often handcrafted but occasionally manufactured using machines. Furniture makers turned out pieces for every use imaginable: beds, chaises, dining room tables and chairs, armoires, sideboards, and lamp stands. The sinuous curves of the designs often fed off the natural grain of woods and was often permanently installed as wall paneling and molding.</p>
+          <p type="p">In France, the chief Art Nouveau designers included Louis Majorelle, Emile Gallé, and Eugène Vallin, all based in Nancy; and, Tony Selmersheim, Édouard Colonna and Eugène Gaillard, who worked in Paris - the latter two specifically for Siegfried Bing's shop named L'Art Nouveau (later giving the whole movement its most common name). In Belgium, the whiplash line and reserved, more angular contours can be seen in the designs of Gustave Serrurier-Bovy and Henry van de Velde, who both admired the works of the English Arts &amp; Crafts artists. The Italians Alberto Bugatti and Augustino Lauro were well-known for their forays in the style there. Many such designers moved freely between media, often making them hard to categorize: Majorelle, for example, manufactured his own wooden furniture designs and opened up an ironworking foundry, which also produced many of the metal fittings for the glasswork put out by the Daum Brothers' glassworks.</p>
+        </subsection>
+        <subsection title="Painting and &quot;The High Arts&quot;">
+          <p type="p">Few styles can claim to be represented across nearly all forms of visual and material media as thoroughly as Art Nouveau. Besides those who worked mainly in the graphics, architecture, and design, Art Nouveau counts some prominent representatives in painting, such as the Vienna Secessionist Gustav Klimt, known for &lt;i&gt;Hope II&lt;/i&gt; and &lt;i&gt;The Kiss&lt;/i&gt; (both 1907-08), and Victor Prouvé in France. But Art Nouveau painters were few and far between: Klimt counted virtually no students or followers (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-schiele_egon"&gt;Egon Schiele&lt;/span&gt; went in the direction of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;), and Prouvé is known equally well as a sculptor and furniture designer. Instead, Art Nouveau was arguably responsible, more than any style in history, for narrowing the gap between the decorative or applied arts (to utilitarian objects) and the fine or purely ornamental arts of painting, sculpture, and architecture, which traditionally had been considered more important, purer expressions of artistic talent and skill. (It is debatable, however, as to whether that gap has ever been completely closed.)</p>
+        </subsection>
+        <subsection title="Art Nouveau Glasswork and Jewelry">
+          <p type="img" alt="Charismatic portrait of Art Nouveau glass designer Emile Gallé by Victor Prouvé (1892)" show="1">/images20/photo/photo_art_nouveau_architecture4.jpg</p>
+          <p type="p">Art Nouveau's reputation for luxury was also evident by its exploitation by some of the best-known glass artists in history. Emile Gallé, the Daum Brothers, Tiffany, and Jacques Gruber all first found renown, at least in part, through their Art Nouveau glass and its applications in many utilitarian forms. Gallé and Daum's firms established their reputations in vase designs and art glass, pioneering new techniques in acid-etched pieces whose sinuously curved, shapely surfaces seemed to flow between translucent hues effortlessly. The Daum Brothers and Tiffany also exploited the artistic possibilities of glass for utilitarian purposes such as lampshades and desk utensils. Both Tiffany and Jacques Gruber, who had trained in Nancy with the Daum Brothers, became specialists in stained glass that celebrated the beauty of the natural world in large-scale luminant panels</p>
+          <p type="p">In jewelry, René Lalique, Louis Comfort Tiffany, and Marcel Wolfers created some of the most prized pieces of the turn of the century, producing everything from earrings to necklaces to bracelets to brooches, thereby assuring that Art Nouveau would always be associated with &lt;i&gt;fin-de-siècle&lt;/i&gt; luxury, despite the hope that its ubiquity might make it universally accessible.</p>
+        </subsection>
+        <subsection title="Retailing and Corporate Identity">
+          <p type="p">Art Nouveau rose to prominence at the same time that retailing expanded to attract a truly mass audience. It was featured prominently by many of the major urban department stores established during the late-19&lt;sup&gt;th&lt;/sup&gt; century, including La Samaritaine in Paris, Wertheim's in Berlin, and the Magasins Reunis in Nancy. Furthermore, it was marketed aggressively by some of the most famous design outlets of the period, beginning with Siegfried Bing's shop L'Art Nouveau in Paris, which remained a bastion of the dissemination of the style until its closure in 1905 shortly after Bing's death. His was far from the only store in the city to specialize in Art Nouveau interiors and furniture.</p>
+          <p type="p">Meanwhile, Liberty &amp; Co. was the major distributor of the style's objects in Britain and to Italy, where Liberty's name became nearly synonymous with the style as a result. Many Art Nouveau designers made their names working exclusively for these retailers before moving in other directions. The architect Peter Behrens, for example, designed virtually everything from tea kettles to book covers to advertising posters to exhibition pavilions' interiors to utensils and furniture, eventually becoming the first industrial designer when in 1907 he was put in charge of all design work for AEG (&lt;i&gt;Allgemeine Elektrisitats-Gesellschaft&lt;/i&gt;, the German General Electric).</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">If Art Nouveau quickly took Europe by storm in the last five years of the 19&lt;sup&gt;th&lt;/sup&gt; century, artists, designers and architects abandoned it just as quickly in the first decade of the 20&lt;sup&gt;th&lt;/sup&gt; century. Although many of its practitioners had made the doctrine that "form should follow function" central to their ethos, some designers tended to be lavish in their use of decoration, and the style began to be criticized for being overly elaborate. In a sense, as the style matured, it started to revert to the very habits it had scorned, and a growing number of opponents began to charge that rather than renewing design, it had merely swapped the old for the superficially new. Even using new mass-production methods, the intensive craftsmanship involved in much Art Nouveau design kept it from becoming truly accessible to a mass audience, as its exponents had initially hoped it might. In some cases, such as in Darmstadt, lax international copyright laws also prevented artists from monetarily benefitting from their designs.</p>
+          <p type="p">Art Nouveau's association with exhibitions also soon contributed its undoing. To begin with, most of the fair buildings themselves were temporary structures that were torn down immediately after the event closed. But more importantly, the expositions themselves, though held under the guise of promoting education, international understanding, and peace, instead tended to fuel rivalry and competition among nations due to the inherently comparative nature of display. Many countries, including France and Belgium, considered Art Nouveau as potential contenders for the title of "national style," before charges of Art Nouveau's foreign origins or subversive political undertones (in France, it was variously associated with Belgian designers and German merchants, and was sometimes the style used in Socialist buildings) turned public opinion against it. With a few notable exceptions where it enjoyed a committed circle of dedicated local patrons, by 1910 Art Nouveau had vanished from the European design landscape.</p>
+        </subsection>
+        <subsection title="From Wiener Werkstätte to Art Deco">
+          <p type="p">Art Nouveau's death began in Germany and Austria, where designers such as Peter Behrens, Josef Hoffmann, and Koloman Moser began to turn towards a sparer, more severely geometric aesthetic as early as 1903. That year, many designers formerly associated with the Vienna Secession founded the collective known as the Wiener Werkstätte, whose preference for starkly angular and rectilinear forms recalled a more precise, industrially-inspired aesthetic that omitted any overt references to nature. This reification of the machine-made qualities of design was underscored in 1907 by two key events: the installation of Behrens as AEG's chief of all corporate design, from buildings to products to advertising, making him the world's first industrial designer; and the founding of the German Werkbund, the formal alliance between industrialists and designers that increasingly attempted to define a system of product types based on standardization. Combined with a newfound respect for classicism, inspired in part by the World's Columbian Exposition in Chicago in 1893 and given an official blessing by the City Beautiful movement in the United States, this machine-inspired aesthetic would eventually develop, in the aftermath of World War I, into the style that we now belatedly call Art Deco. Its distinctly commercial character was expressed most succinctly at the Exposition Internationale des Arts Décoratifs et Industriels Modernes in Paris in 1925, the event which would, in the 1960s, give Art Deco its name.</p>
+        </subsection>
+        <subsection title="Postmodern Influences">
+          <p type="p">Despite its brief life, Art Nouveau would prove influential in the 1960s and '70s to designers wishing to break free of the confining, austere, impersonal, and increasingly minimal aesthetic that prevailed in the graphic arts. The free-flowing, uncontrolled linear qualities of Art Nouveau became an inspiration for artists such as Peter Max, whose evocation of a dreamy, psychedelic alternative experience recalls the imaginative, ephemeral, and free-flowing aesthetic world of the turn of the century.</p>
+          <p type="p">Always recognized from the start as an important step in the development of modernism in both art and architecture, today Art Nouveau is understood less as a transitional bridge between art periods as it is an expression of the style, spirit, and intellectual thought of a certain time frame, centered around 1900. In its search to establish a truly modern aesthetic, it became the defining visual language for a fleeting moment of the age.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="symbolism">Jupiter and Semele (1895)</artwork>
+    <artwork from="movement" page="les_nabis">L'Indolence (Laziness) (1896)</artwork>
+    <artwork from="movement" page="bauhaus">Bauhaus building in Dessau, Germany (1919-1925)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity />
+      </column>
+      <column>
+        <entity />
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity />
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Cover design for Wren's City Churches</title>
+      <artist>Arthur Heygate Mackmurdo</artist>
+      <year>1883</year>
+      <materials>Woodcut on handmade paper</materials>
+      <desc>Mackmurdo's woodcut is an example of the influence of English design, particularly the Arts and Crafts movement, on Art Nouveau. The woodcut as a genre points to the handcrafted, unique quality of the work and the simplicity of Mackmurdo's use of positive and negative space both contribute to this association. Meanwhile, Mackmurdo's abstract-cum-naturalistic forms and the trademark whiplash curves are characteristic of the visual sense of free movement and energy that would eventually define Art Nouveau. The emphasis on the floral and vegetal imagery adorning the cover which refuses any real consonance with the professed subject matter of the book also highlights its purposefully decorative quality, hinting at how Mackmurdo's work is of an experimental nature rather than a definitive, mature example of Art Nouveau. The woodcut proves far more valuable than the actual content, which consists of a rambling, loose description of the architecture of the Baroque London churches designed by Sir Christopher Wren.</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>La Goulue at the Moulin Rouge</title>
+      <artist>Henri de Toulouse-Lautrec</artist>
+      <year>1891</year>
+      <materials>Lithograph</materials>
+      <desc>Toulouse-Lautrec is one of Art Nouveau's most important graphic artists who were responsible for raising the poster from the realm of advertising ephemera to high art during the 1890s (the same decade that saw the establishment of artistic magazines solely dedicated to this medium). Lautrec and his fellow graphic artists understood that they were innovative, though the stylistic label "Art Nouveau" was probably never applied to them until after Lautrec's death in 1901. 
+			&lt;br/&gt;&lt;br/&gt;
+			&lt;i&gt;La Goulue at the Moulin Rouge&lt;/i&gt; takes the flourish and messiness of a French can-can dancer's dress and breaks it down to a few simple, rhythmic lines, thereby suggesting the sense of movement and space. The flattening of forms to mere outlines with the flat infill of color recalls Art Nouveau's debt to Japanese prints as well as the lighting in such nightclubs that naturally would render the surface details of figures and other objects indistinct. Likewise, the repetitive red lettering of the cabaret's name suggests the pulsating energy of the performances for which dancers like La Goulue (stage name of Louise Weber, one of Lautrec's friends) took center stage.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>The Peacock Skirt</title>
+      <artist>Aubrey Beardsley</artist>
+      <year>1894</year>
+      <materials>Ink illustration</materials>
+      <desc>Beardsley's &lt;i&gt;The Peacock Skirt&lt;/i&gt; is an illustration made for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wilde_oscar"&gt;Oscar Wilde's&lt;/span&gt; 1892 play &lt;i&gt;Salome&lt;/i&gt;, based on the Biblical narrative centered on Salome's order to behead and serve on a platter the head of John the Baptist. (Salome was a popular subject for many other Art Nouveau artists, including Victor Prouvé.) Beardsley's &lt;i&gt;Salome&lt;/i&gt; is comparatively tame in comparison with some of the illustrator's more erotic and nearly pornographic works. It is a fine example of how many artists influenced by Art Nouveau laid great emphasis on line, often abstracting their figures to produce the fashionable sinuous curves so characteristic of the style. One might also take it as an example of how the formal vocabulary of the style could be used with exuberant excess, a quality that would later attract criticism. The influence of Japonese prints on Art Nouveau is also evident in Beardsley's work in its flattened rendition of form. But this illustration might also be taken as an example of the contemporaneous Aesthetic movement, and in that respect it demonstrates how Art Nouveau overlapped and interacted with various other period styles.</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>The Budapest Museum of Applied Arts</title>
+      <artist>Ödön Lechner and Gyula Pártos</artist>
+      <year>1893-96</year>
+      <materials />
+      <desc>Designed by Ödön Lechner, sometimes known as the "Hungarian Gaudi," with his partner Gyula Pártos, the Budapest Museum of Applied Arts is an example of the way that the Hungarian "national" strand of Art Nouveau (often called the Hungarian Secession because of its closeness to Vienna) consisted more of an amalgamation of various historical styles than a precise search for new ones. This building, on a trapezoidal site, encircles a courtyard that is largely filled by a glass atrium to the rear of the main facade. The forms used inside and out derive from a mixture of Islamic and Persian architecture, as seen in its elaborate multi-lobed arches, as well as Central European-derived baroque, bell-shaped domes and spires with onion-shaped carved finials. As with Gaudi's work, the highly ornamental building, articulated everywhere by tilework, stained glass and stone produces a lively, polychromed effect that keeps the viewer's eye moving and reminds one of the harmonious unity of the applied arts here in creating a "total work of art."</desc>
+      <collection>Budapest, Hungary</collection>
+    </artwork>
+    <artwork>
+      <title>Entrances to Paris Subway Stations</title>
+      <artist>Hector Guimard</artist>
+      <year>1900</year>
+      <materials />
+      <desc>When Hector Guimard was commissioned to design these famous subway station entrances, Paris was only the second city in the world (after London) to have constructed an underground railway. Guimard's design answered the desire to celebrate and promote this new infrastructure with a bold structure that would be clearly visible on the Paris streetscape. The entrances use the twisted, organic forms typical of Art Nouveau that appear at first to be nearly seamless, yet they are constructed out of several cast iron parts that were easily mass produced, at Osne-le-Val to the east of Paris. In effect, Guimard had concealed an aspect of the object's modernity beneath its sinuous continuity, a strategy that is symptomatic of Art Nouveau's ambivalent attitude to the modern age. Guimard's design was thus instrumental in bringing Art Nouveau's otherwise complex, labor-intensive designs to a mass audience for whom the style seemed like a symbol of unattainable luxury.</desc>
+      <collection>Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Ernst-Ludwig-Haus, Darmstadt</title>
+      <artist>Joseph Maria Olbrich</artist>
+      <year>1900-01</year>
+      <materials />
+      <desc>This is the centerpiece of the new Darmstadt Artists Colony (Kunstlerkolonie), formed in 1899 under the patronage of Grand Duke Ernst Ludwig of Hesse, an admirer of the Arts &amp; Crafts movement. It was designed by J.M. Olbrich, one of the Colony's founding artists, whom the Duke poached from the Vienna Secession. (Olbrich had designed the Secession's exhibition building three years before.) 
+			
+			&lt;br/&gt;&lt;br/&gt;
+			Like the Secession building, the Ernst-Ludwig-Haus is highly rectilinear, with a gleaming white exterior capped by a gently sloping roof, set on the brow of a hill. This is offset by the arched, centrally-located main entrance, delineated by its gold-plated, cloudlike geometric pattern surrounding the doorway, which is fronted by Ludwig Habisch's twin male and female sculptures personifying Strength and Beauty. The sloping skylights stretching the length of the rear of the structure disclose its function as one of the rare Art Nouveau buildings designed solely as studio space, and it served as the centerpiece of the opening exhibition of the Darmstadt group in 1901. Although the Colony only lasted until the outbreak of war in 1914, today the structure serves as a museum of their artistic endeavors.</desc>
+      <collection>Darmstadt, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Model #342, “Wisteria” Lamp</title>
+      <artist>Clara Driscoll for Tiffany Studios, New York</artist>
+      <year>c. 1901-05</year>
+      <materials>Leaded glass and patinated bronze</materials>
+      <desc>
+				Table lamps are some of the most famous Art Nouveau items produced by Louis Comfort Tiffany's firm. The model #342, commonly called "Wisteria," is one of the most prized. The bronze base resembles the roots and lower trunk of a tree, with the leaded glass shade that appears like the branches of a wisteria at its crown cast in bronze. These suspend the flowering petals that appear to drip like drops of water, created from nearly 2,000 individually-selected pieces of glass whose screen produces a warm, yet soft glow, suggesting the filtering of sunlight. The irregularity of the armature at the crown along with the border of the bottom of the shade add to the naturalism of the design, but they also recall the influence of Impressionism and Japonism on Art Nouveau, as wisteria are native to both the eastern United States, where Tiffany was based, and to China, Japan, and Korea. 
+				
+				&lt;br/&gt;&lt;br/&gt;
+				Recently-discovered evidence proves that Model #342 was designed by Clara Driscoll, head of Tiffany Studios Women's Glass Cutting Department and creator of over thirty of the company's famed lamps, including the Daffodil, Dragonfly, and Peony models. It thus also represents an important moment for women designers at the turn of the century, who were put in charge of a significant sector of the firm's production. Driscoll herself commanded $10,000 a year as one of the highest-paid women of her time, until she was required to leave Tiffany Studios when she married in 1909. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Hope II</title>
+      <artist>Gustav Klimt</artist>
+      <year>1907-08</year>
+      <materials>Oil and gold leaf on canvas</materials>
+      <desc>Klimt's work, like Aubrey Beardsley's, involves the distortion and exaggeration of forms and, often, highly sexually-charged subject matter. Unlike Beardsley, however, Klimt is famous, particularly in his post-1900 paintings, for his frequent use of gold leaf, often in concert with a kaleidoscope of other bright hues. This combination helped create Klimt's signature mature style, often summarized as a set of dreamy, visually luscious (and materially luxurious) paintings of women, sometimes real portraits but often imagined or allegorical personifications, including his &lt;i&gt;Hope II&lt;/i&gt;. The nearly-surreal imagery of exaggerated and flattened bodily forms, highlighted by the emphasis on pattern and the lack of depth and detached from a recognizable environment, underscores the way that Klimt focused on creating a literal "new art" that was free from prescribed rules or principles. As a founding member of the Vienna Secession, he rejected the tenets of academic painting under which he had been trained. The shocking reactions that Klimt's work has provoked - during his lifetime up to the present day - helps contribute to his renown as the most innovative Art Nouveau painter and a master of modernism.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Park Guell</title>
+      <artist>Antoni Gaudi and Josep Maria Jujol</artist>
+      <year>1900-14</year>
+      <materials />
+      <desc>
+				Antoni Gaudi, the foremost architect of Catalan &lt;i&gt;Modernisme&lt;/i&gt;, may be best-known for his work on the still-unfinished Expiatory Church of the Sagrada Familia in Barcelona, but his signature designs can be seen in dozens of buildings throughout the city. One of the last projects that Gaudi, a devout Catholic, undertook before devoting himself entirely to the Sagrada Familia in 1914 was a speculative hillside suburban community for his chief patron, the textile magnate Eusebi Guell. The development displays Gaudi's innovative design capabilities, even though the only homes completed were his own house plus one other residence and the project is generally considered a financial failure. 
+				&lt;br/&gt;&lt;br/&gt;
+				The park's design is thoroughly integrated into the landscape, with rough-hewn inclined columns seemingly excavated out of the hillsides and covered by vines. The centerpiece consists of a columned market space supporting an open plaza bounded by a serpentine bench covered with a conglomerate of discarded ceramic tiles, called &lt;i&gt;trencadís&lt;/i&gt;, a hallmark of Catalan craftsmanship. The market is connected to the Parc's entrance by a grand staircase with a tiled fountain sporting the face of a dragon and the striped Catalan flag. There, the gatehouse and concierge's residence consist of rocky lodges crowned by irregular, conical spires, appearing to be crafted out of gingerbread. The undulating forms, inspired by inverted catenary arches, and brilliantly-colored tilework point to the collaborative nature of Catalan Art Nouveau, involving teams of craftsmen specializing in different media and the reliance on the honest treatment of ecologically-sensitive materials.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>klimt_gustav</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>guimard_hector</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>horta_victor</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>mackintosh_charles_rennie</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>beardsley_aubrey</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>mucha_alphonse</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>mackmurdo_arthur_heygate</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>liberty_arthur</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hoffmann_josef</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>wagner_otto</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gaudi_antoni</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tiffany_louis_comfort</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>moser_koloman</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>olbrich_joseph_maria</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>lalique_rene</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>van_de_velde_henry</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>galle_emile</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="written about art nouveau" class="written-by">
+        <entry recommended="true">
+          <title>Art Nouveau: Utopia: Reconciling the Irreconcilable (Taschen)</title>
+          <link>3822830062</link>
+          <info>By Klaus-Jurgen Sembach</info>
+        </entry>
+        <entry>
+          <title>Art Nouveau</title>
+          <link>3833160039</link>
+          <info>By Gabriele Fahr-Becker</info>
+        </entry>
+        <entry>
+          <title>Art Nouveau: An Anthology of Design and Illustration from "The Studio" (Dover Pictorial Archive)</title>
+          <link>0486223884</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Art Nouveau (Architecture &amp; Design Library)</title>
+          <link>1567994547</link>
+          <info>By Robert Fitzgerald</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art Nouveau Architecture</title>
+          <link>0500282595</link>
+          <info>By Keiichi Tahara</info>
+        </entry>
+        <entry>
+          <title>Treasures of Art Nouveau: Painting, Sculpture, Decorative Arts in the Gillion Crowet Collection</title>
+          <link>8881183242</link>
+          <info>By Michel Draguet</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>An Art Nouveau Master Remembered in Prague</title>
+          <link>http://intransit.blogs.nytimes.com/2010/09/01/an-art-nouveau-master-remembered-in-prague/</link>
+          <info>					
+						By Dinah Spritzer
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						September 1, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Guest Column: The Social Agenda of Art Nouveau</title>
+          <link>http://www.collectorsweekly.com/articles/guest-column-the-social-agenda-of-art-nouveau/</link>
+          <info>
+						By Elisabeth Horth
+						&lt;br/&gt;
+						Collectors Weekly
+						&lt;br/&gt;
+						August 21, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>An Art Nouveau Room Thick With Wisteria</title>
+          <link>http://www.nytimes.com/2007/11/23/arts/design/23voge.html</link>
+          <info>
+						By Carol Vogel
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						November 23, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Louis Tiffany's Eclecticism a Harbinger of Art Nouveau</title>
+          <link>http://www.taipeitimes.com/News/feat/archives/2006/11/30/2003339136</link>
+          <info>
+						By Roberta Smith
+						&lt;br/&gt;
+						Taipei Times
+						&lt;br/&gt;
+						November 30, 2006
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts" />
+      <subcategory name="video clips" class="clips" />
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

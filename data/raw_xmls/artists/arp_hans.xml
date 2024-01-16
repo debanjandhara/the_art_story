@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>arp_hans</id>
+    <name>Hans Arp</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1910s - 1966</years>
+    <description>Something of a one-man movement, Jean Arp was one of the most versatile creative minds of the early twentieth century.</description>
+    <art_description>Important art &amp; artworks analysis by Hans Arp including: Collage with Squares Arranged According to the Laws of Chance, Shirt Front and Fork, Cloud Shepherd &amp; more in Dada, Surrealism &amp; Biomorphism.</art_description>
+    <barnebys_item>156</barnebys_item>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Sculptor, Painter, and Collagist</occupation>
+    <nationality>French-German</nationality>
+    <birthDate>September 16, 1886</birthDate>
+    <birthPlace>Strasbourg, Alsace</birthPlace>
+    <deathDate>June 7, 1966</deathDate>
+    <deathPlace>Basel, Switzerland</deathPlace>
+    <img_version>?1</img_version>
+    <art_type>Sculptures</art_type>
+    <pub_time>12/11/2015</pub_time>
+  </main>
+  <includes>
+    <include>dada</include>
+    <include>surrealism</include>
+    <include>surrealist_sculpture</include>
+    <include>biomorphism</include>
+    <include>abstract_art</include>
+  </includes>
+  <similar_movements>
+    <movement>dada</movement>
+    <movement>surrealism</movement>
+    <movement>surrealist_sculpture</movement>
+    <movement>biomorphism</movement>
+    <movement>abstract_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>taeuber_arp_sophie</artist>
+    <artist>ernst_max</artist>
+    <artist>schwitters_kurt</artist>
+    <artist>tzara_tristan</artist>
+    <artist>miro_joan</artist>
+  </similar_artists>
+  <quotes>
+    <q author="Stephanie Poley">"Arp was concerned with purity, with being free, being independent of everything unpleasant and limiting, and with the active, constant emission of positive energy as well as its perception."</q>
+    <q main="true">"Art is a fruit that grows in man like a fruit on a plant or a child in its mother's womb."</q>
+    <q author="Max Ernst">"Arp's hypnotic language takes us back to a lost paradise, to cosmic secrets and teaches us to understand the language of the universe."</q>
+    <q author="Michel Seuphor">"[A] man of accomplished spirituality might see in each of Arp's sculptures a translation of the highest activities of the spirit, the very soul of the Prajna Paramita of the Hindus. And is not a leaf as authentic an image of the supreme wisdom as the imaginary face of the Buddha? What is a form if not the expression of a force that animates it, of a spirit that inhabits it? To let this force, this spirit, speak freely is the aim that Arp undertakes to achieve without going beyond it. Now it is especially difficult not to go beyond it (through the richness of the imagination, in particular), for this language must be as simple as the song of a bird, as calm as the beating of the heart, as humble as water."</q>
+    <q author="Eduard Trier">"All these transmutations, transitions, pupations are not definitive...The forms remain fluid. They move on the road of one meaning to another... This is his syntax and it has imprinted itself on our minds by its modified repetition and underlying permanence."</q>
+  </quotes>
+  <authors>
+    <author link="buhmann">Stephanie Buhmann</author>
+  </authors>
+  <editors>
+    <editor link="epstein">Ruth Epstein</editor>
+  </editors>
+  <article>
+    <synopsys>Something of a one-man movement, Jean Arp could (and did) make anything into art. Best-known for his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-biomorphism"&gt;biomorphic&lt;/span&gt; sculptures, and one of the most versatile creative minds of the early-20&lt;sup&gt;th&lt;/sup&gt; century, he fashioned sculptures out of plaster, stone and bronze, and also expressed himself in paintings, drawings, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collages&lt;/span&gt;, and poems. His approach to form, often referred to as organic abstraction, was remarkably consistent: his wavy lines suggested plants, body parts and other natural motifs, while remaining entirely abstract. Like an extraterrestrial on earth for the very first time, Arp's genius was in presenting visual information as if he is first seeing it. Transformation, growth, fecundity, and metamorphosis are among the dominant themes in his work.</synopsys>
+    <key_ideas>
+      <idea>Arp's work is non-representational, yet firmly rooted in nature. His most abstract compositions suggest organic forms. This keeps the viewer curious, and provides a consistent framework for satisfying the eye.</idea>
+      <idea>One of the first artists to make randomness and chance part of the work, Arp saw chance as a collaborator in his process. This was a game-changer in the visual arts. Until then, Western artists had striven for a skilled level of control.</idea>
+      <idea>Rather than beginning with a subject (as artists had done for years), Arp generated the form first, and titled his works after they were completed. In this way, he sought to minimize the intervention of the conscious mind.</idea>
+      <idea>Arp is a transitional figure. As one of the founders of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;, and subsequently an active participant in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, his work forms a link between these two major movements of the early-20&lt;sup&gt;th&lt;/sup&gt; century.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">A restless thinker and a nomad, Arp was born into circumstances of uncertainty that shaped his path as an artist. Neither fully French nor fully German, the artist referred to himself as "Jean" when speaking French, and "Hans" when speaking German. Born Hans Peter Wilhelm Arp in 1886 in Alsace (still part of Germany at the time), he began studying art in his home town of Strasbourg, transferred to Weimar, completed his schooling in Paris and by 1911, had co-founded the first modern art alliance in Switzerland, &lt;i&gt;Der Moderne Bund&lt;/i&gt;. With &lt;i&gt;Der Moderne Bund&lt;/i&gt;, he worked for a brief period with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; and &lt;i&gt;Der Blaue Reiter&lt;/i&gt; group in Munich, but soon returned to Paris where he hobnobbed with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modigliani_amedeo"&gt;Amedeo Modigliani&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_sonia"&gt;Sonia&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, as well as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-jacob_max"&gt;Max Jacob&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Early Period">
+          <p type="img" alt="Hans Arp Biography" show="0">/images20/photo/arp_1.jpg</p>
+          <p type="p">Fleeing the horrors of World War I, Arp moved to Zürich, where he helped found the Dada movement at the international and independent art space founded by two poets (Sally Hemmings and Hugo Ball) whose stated aim was to create chaos. It was here, among the broad-minded international audience that best suited his temperament, that he found his niche. Like Arp himself, Dada was international and interdisciplinary. Inspired by the general mood of chaos, randomness and nonsense, he began making "chance collages" --scraps of paper dropped at random onto a larger sheet and pasted where they fell. He was tremendously productive during these years, focusing on creating collages and tapestries, often in collaboration with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-taeuber_arp_sophie"&gt;Sophie Taeuber&lt;/span&gt;, and crafted wooden reliefs with layered biomorphic forms. As an ambassador of the Dada movement, in 1918 Arp recruited a like-minded circle of artists in Berlin -- &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hoch_hannah"&gt;Hannah Höch&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hausmann_raoul"&gt;Raoul Hausmann&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schwitters_kurt"&gt;Kurt Schwitters&lt;/span&gt;, to join the Dada movement. At the dawn of the 1920s, he became a published writer in a variety of magazines, including &lt;i&gt;Merz&lt;/i&gt;, &lt;i&gt;Mécano&lt;/i&gt;, &lt;i&gt;De Stijl&lt;/i&gt;, and &lt;i&gt;La Révolution Surréaliste&lt;/i&gt;. In 1922 he married his friend, soul mate and collaborator Tauber, who from then on went by Tauber-Arp. The two continued to collaborate until her early and tragic death.</p>
+          <p type="p">In 1925 Arp was among the co-founders of another major movement: Surrealism. His work appeared alongside that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klee_paul"&gt;Paul Klee&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-masson_andre"&gt;André Masson&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt; in the first Surrealist exhibition at the Galerie Pierre in Paris. At this time, Arp began to enjoy significant commercial success. In 1926 he received a major commission to redesign the interior of the Aubette, a historic dance hall, a project he completed with Tauber-Arp and Theo van Doesburg and which, when reopened in 2006, was hailed by a reviewer in as the "Sistine Chapel of abstract art". By the end of the 1920s, fully immersed in French Surrealist circles, Arp had had his first solo exhibition at the Galerie Surréaliste in Paris, become a French citizen, and settled in Clamart, a town outside of Paris.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Hans Arp, Tristan Tzara (above), and Hans Richter - Zurich, 1917" show="1">/images20/photo/arp_hans_222.jpg</p>
+          <p type="p">The 1930s were an extraordinarily prolific period for Arp, who was at the height of his creative powers during this decade. "By the middle and later 1930s," James Thrall Soby noted, "Arp had reached his full stature as a sculptor in the round." In 1937 his sculptures were included in two major exhibitions at the Museum of Modern Art in New York: &lt;i&gt;Cubism and Abstract Art&lt;/i&gt; and &lt;i&gt;Fantastic Art, Dada, Surrealism&lt;/i&gt;. Arp continued his work in other mediums, however, including torn paper pieces (&lt;i&gt;Papiers dechirés&lt;/i&gt;), and published his poems even more frequently in French Surrealist journals such as &lt;i&gt;Minotaure&lt;/i&gt; and &lt;i&gt;Le Surréalisme au Service de la Revolution&lt;/i&gt;. A staunch supporter not only of Surrealism, but also abstraction, he helped found two international organizations in support of abstract art (&lt;i&gt;Cercle et Carré&lt;/i&gt; and &lt;i&gt;Abstraction Création&lt;/i&gt;) and joined a third in Switzerland, &lt;i&gt;Allianz&lt;/i&gt;. In 1940 he once again fled the German occupation, this time to Grasse, in the South of France. At the end of 1942, tragedy struck: Taeuber-Arp died tragically of accidental carbon monoxide poisoning, due to a malfunctioning stove at a friend's house in Zürich, where the couple was staying. The death of his wife and collaborator plunged Arp into a deep depression from which he did not emerge until the end of the decade. He withdrew from the public and focused primarily on poetry and a catalogue raisonne of Tauber-Arp's oeuvre. When World War II ended, he returned to Clamart and began making sculpture again, and by the late 1940s, a new woman had entered his life: Marguerite Hagenbach, a collector and friend who had been taking care of his correspondence and other administrative obligations, accompanied him on his first trip to the U.S. on the occasion of the artist's solo exhibition in New York in 1949. She stayed at the Hotel Chelsea, while he stayed with the Austrian artist and architect Frederick Kiesler, but it is clear that the two were already a couple, though they would not marry for another decade. Arp's growing reputation in the U.S. sparked the interest of architects, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, who arranged for Arp to receive the commission to create a large-scale relief sculpture for the Harvard Graduate Center in Cambridge, Massachusetts. A year later, in 1953, Arp executed his first monumental sculpture, &lt;i&gt;Cloud Shepherd&lt;/i&gt;, for the University of Caracas in Venezuela.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Hans Arp Portrait" show="0">/images20/photo/arp_3.jpg</p>
+          <p type="p">Arp continued to work with almost superhuman energy throughout the last decade of his life. By the mid-1950s, his fame was international. He received the prestigious Grand Prize for Sculpture at La Biennale di Venezia in 1956. Not one to rest on his laurels, the artist kept moving, always thinking bigger and organizing major solo exhibitions and public works. Among the triumphs of his final decade were two major retrospectives (at the Museum of Modern Art in New York and at the Musée National d'Art Moderne in Paris in 1958 and1962, respectively), and three large-scale reliefs (for the Paris branch of UNESCO, for the University of Caracas, and for the University of Applied Sciences in Braunschweig). Failing health prevented him from traveling after 1958, and in 1959 he finally married Marguerite Hagenbach, his longtime companion. Together they bought a property, Ronco dei Fiori in Locarno, Switzerland, which is still owned by the Arp foundation. Arp suffered a heart attack in Basel on June 7, 1966 and passed away shortly afterward, leaving behind him a legacy that continues to shape the history of art.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Arp made his imprint on a staggering array of disciplines, from sculpture and architecture to literature and mid-century modern furniture. As a co-founder of the Dada movement, his organically-inspired sculptures in the first Surrealist exhibition in 1925, played an integral role in linking the two movements, and shaping the future of Surrealism. His poetry (in particular, his random word play) inspired both Dada and Surrealist poets, most notably &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt; and Guillaume Apollinaire. He also inspired a diverse range of visual artists within the Dada and Surrealist circle, first and foremost among them Sophie Taeuber-Arp, who became his most valued collaborator. Reverberations of his biomorphic sculpture are visible in designs for tables and chairs by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eames_charles"&gt;Charles Eames&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-saarinen_eero"&gt;Eero Saarinen&lt;/span&gt;, two highly influential architects.</p>
+          <p type="p">More broadly, it was not simply Arp's biomorphism (abstract references to nature) that made him a major player on the 20&lt;sup&gt;th&lt;/sup&gt;-century stage. He was a pioneer in randomizing the results of art. This is perhaps his greatest contribution, inspiring numerous movements, including Dada (in which chance generated an aesthetic of chaos) Surrealism (in which chance was a means for exploring the unconscious) and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; (in which chance became a mode of gestural expression).</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="ernst_max">Celebes (1921)</artwork>
+    <artwork from="movement" page="dada">Cut with a Kitchen Knife Dada through the Last Weimar Beer Belly Cultural Epoch of Germany (1919)</artwork>
+    <artwork from="movement" page="surrealism">Harlequin's Carnival (1924)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Collage with Squares Arranged According to the Laws of Chance</title>
+      <year>1916-17</year>
+      <materials>Torn-and-pasted paper on blue-gray paper</materials>
+      <desc>One of Arp's earliest "chance collages," this composition demonstrates his signature technique of tearing paper into rough shapes and dropping them onto a larger sheet, and then pasting them where they happened to fall. However, if we look carefully at this composition, what are the "chances" that pieces of paper would fall this way? They are relatively evenly spaced and aligned with the frame, gently guided by the artist into an unfussy, yet harmonious composition. Even if Arp was not entirely willing to relinquish control over the process, this idea was incredibly radical for the period. One of the first attempts to engage the element of chance in a work of art, it demonstrates Arp's commitment to the ideal of chaos, a hallmark of Dada.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Shirt Front and Fork</title>
+      <year>1922</year>
+      <materials>Painted wood</materials>
+      <desc>One of a series of wooden relief sculptures made by Arp in the 1920s, &lt;i&gt;Shirt Front and Fork&lt;/i&gt; depicts a recognizable form in an unrecognizable context. Rendered in black, grey and white, the work has an overt graphic quality that allows the viewer to quickly identify the shape of a fork on the right side. The object to the left, which resembles an enlarged tooth, is less easy to identify, and remains mysterious, evoking a host of associations that are ultimately unresolved for the viewer. Completed only a few years after Arp joined the Zürich Dada group and shortly before he participated in landmark Surrealist exhibitions, this work marks the transition from one movement to another. It is rooted in a stream of unconsciousness that foreshadows the core ambition of the Surrealists to resolve the contradictions between dream and reality. Throughout his career, Arp favored a restricted palette and, as he put it in 1955, "especially...black, white and grey" because, he explained, "There is a certain need in me for communication with human beings. Black and white is writing."</desc>
+      <collection>National Gallery of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Configuration with Two Dangerous Points</title>
+      <year>1930</year>
+      <materials>Wood</materials>
+      <desc>This painted-wood relief belongs to a group of related works that Arp completed in Paris in the 1930s. Animated through the seemingly random placement of the assembled elements, but in fact the product of a careful series of aesthetic choices, &lt;i&gt;Configuration with Two Dangerous Points&lt;/i&gt; reveals Arp's strong focus on achieving a perfect structural balance without a loss of movement. Composed of four white and two black elements, this work exhibits an overt sense of play. This quality is further enhanced by its title, which is partially descriptive, but also humorous. In a work that essentially consists of floating blobs with gentle curves, where are these so-called dangerous points?</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Sculpture to be Lost in the Forest</title>
+      <year>1932</year>
+      <materials>Bronze</materials>
+      <desc>Arp usually created his sculptures in plaster, sanding away until he found the satisfying shape, and thought up the titles only when the work was complete. This sculpture, a bronze cast of an earlier plaster form, resembles a configuration of heavy objects: boulders, sacks, or figures on a bed. Rooted in Arp's lifelong fascination with the physiological processes of growth and death, the work's title strongly suggests some sort of landscape, but evokes multiple associations that shift as one looks at the work. This is exactly how the artist wanted it. Like Duchamp and others in the Dada circle, Arp believed that the viewer completes the work of art. &lt;i&gt;Sculpture to be Lost in the Forest&lt;/i&gt; is a prime example of Arp's ability to balance abstraction with allusion. His forms are constantly in flux and morphing, sometimes toward and sometimes beyond recognition.</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Metamorphosis (Shell Swan)</title>
+      <year>1935</year>
+      <materials>Plaster, paint</materials>
+      <desc>
+				Here as in &lt;i&gt;Sculpture to be Lost in the Forest&lt;/i&gt;, Arp began with the form, and titled the work after it was completed.
+				&lt;br/&gt;&lt;br/&gt;
+				While it is essentially a sturdy triangle, this apparently simple shape gathers complexity as one looks at it. Its vertical curves suggest fluidity and transience. A firm believer in purely abstract art, Arp was interested in alluding to forms in nature without actually depicting them. While &lt;i&gt;Metamorphosis (Shell Swan)&lt;/i&gt; employs the same visual information we find in the world around us, and even resembles the smooth white forms listed in its title, its unique shape seems otherworldly.
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Ptolemy</title>
+      <year>1953</year>
+      <materials>Limestone</materials>
+      <desc>Arp was keenly interested in opposites. In this particular sculpture the contrast between material and emptiness is showcased by the smooth limestone surface, with its elegant line twisted form embracing two gaping voids. Named after the Greco-Egyptian mathematician, astronomer, geographer, and astrologer Claudius Ptolemy (who was also interested in opposites) this work is about being and nothingness, and the complex relationship between nature and humanity, which were inseparable for Arp. Carola Giedion-Welcker described Arp's conception of nature as "&lt;i&gt;an immense vital process, both extraordinarily simple and complex, a cycle evolving between birth and death, constantly changing and growing, and hence to be grasped only dynamically, never statically in the field of art... We detect in Arp the profound experience of life, which conceives of creation as an eternal process, as permanent transformation and growth... This is why Arp's initial forms strike us as being so ready to be transmuted, so filled with inner organic tension.&lt;/i&gt;"</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Cloud Shepherd</title>
+      <year>1953</year>
+      <materials>Bronze</materials>
+      <desc>&lt;i&gt;Cloud Shepherd&lt;/i&gt; was the first monumental sculpture completed by Arp, and one of a number of bronzes generated by the artist in the 1950s. It is a triumphant, late-career statement of Arp's life-long ambition to create art that alludes to forms in nature while steadfastly avoiding representation. Its abstract, but organic, bulging forms suggest figures (a shepherd with his crook, one of the animals in his flock, or both) animated by a mysterious interior life. It is symbolic, for the infinite cycle of life is played out as it is in nature on a microscopic and macroscopic level. There is also a delightful contrast here, between the permanence of a material like bronze, and a form as transient as a cloud.</desc>
+      <collection>Collection of Central University of Venezuela, Caracas</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>brancusi_constantin</entity>
+        <entity>picasso_pablo</entity>
+        <entity>kandinsky_wassily</entity>
+      </column>
+      <column>
+        <entity>taeuber_arp_sophie</entity>
+        <entity>ernst_max</entity>
+        <entity>richter_hans</entity>
+        <entity>schwitters_kurt</entity>
+        <entity>bill_max</entity>
+      </column>
+      <column>
+        <entity>der_blaue_reiter</entity>
+        <entity>die_brucke</entity>
+        <entity>dada</entity>
+        <entity>cubism</entity>
+        <entity>de_stijl</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>miro_joan</entity>
+        <entity>moore_henry</entity>
+        <entity>hepworth_barbara</entity>
+        <entity>noguchi_isamu</entity>
+      </column>
+      <column>
+        <entity>tzara_tristan</entity>
+        <entity>miro_joan</entity>
+      </column>
+      <column>
+        <entity>minimalism</entity>
+        <entity>bauhaus</entity>
+        <entity>modern_sculpture</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Arp</title>
+          <link>B000DN7I4A</link>
+          <info>By James Thrall Soby</info>
+        </entry>
+        <entry recommended="true">
+          <title>Jean Arp</title>
+          <link>B0007DWFDA</link>
+          <info>By Carola Giedion-Welcker</info>
+        </entry>
+        <entry>
+          <title>Hans Arp: Sculpture 1957-1966</title>
+          <link>B001OCB81S</link>
+          <info>By Eduard Trier</info>
+        </entry>
+        <entry>
+          <title>The Early Sculpture of Arp</title>
+          <link>0835719391</link>
+          <info>By Margherita Andreotti</info>
+        </entry>
+        <entry>
+          <title>The Art of Jean Arp</title>
+          <link>B000K1SA3S</link>
+          <info>By Herbert Read</info>
+        </entry>
+        <entry>
+          <title>Jean Arp Scupture: His Last Ten Years</title>
+          <link>B0015TYHCW</link>
+          <info>By E. Trier</info>
+        </entry>
+        <entry>
+          <title>Arp - Painter Poet Sculptor</title>
+          <link>B00F44ILHG</link>
+          <info>By Eric Robertson</info>
+        </entry>
+        <entry>
+          <title>Hans Arp, Skulpturen-Eine Bestandsaufnahme</title>
+          <link>B0108D7DIK</link>
+          <info>By A. Hartog</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>On My Way: Poetry And Essays, 1912-1947</title>
+          <link>1258704846</link>
+          <info>By Jean Arp</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gesammelte Gedichte, Band III</title>
+          <link>380902192X</link>
+          <info>By Hans Arp</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Stiftung Arp e.V.</title>
+          <link>http://stiftungarp.de/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Fondation Arp, Clamart</title>
+          <link>http://www.fondationarp.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Fondazione Arp, Locarno</title>
+          <link>http://fondazionearp.ch/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Arp Museum, Remagen</title>
+          <link>http://arpmuseum.org/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Glimpses of Jean Arp's World</title>
+          <link>http://rendezvous.blogs.nytimes.com/2013/02/14/glimpses-of-jean-arps-world/?_r=0</link>
+          <info>
+						By Saskia de Rothschild
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						February 14, 2013
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Catherine Craft, Arp's Reception and Impact in the New York Art World after 1945</title>
+          <link>https://vimeo.com/134882721</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Cara Manes, Hans Arp and the Museum of Modern Art</title>
+          <link>https://vimeo.com/134885012</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Maike Steinkamp, The Exile Connection. Walter Gropius Commission of the "Harvard Relief" from Hans Arp</title>
+          <link>https://vimeo.com/134925344</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

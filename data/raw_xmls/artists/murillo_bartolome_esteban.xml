@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>murillo_bartolome_esteban</id>
+    <name>Bartolomé Esteban Murillo</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1639 - 1682</years>
+    <description>Murillo in his paintings combined a grasp of the sensual world with religious conviction and respect for narrative clarity.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>Spanish</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>	1617</birthDate>
+    <birthPlace>Seville, Spain</birthPlace>
+    <deathDate>April 3, 1682</deathDate>
+    <deathPlace>Seville, Spain</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <cname>Murillo</cname>
+    <pub_time>8/28/2018</pub_time>
+  </main>
+  <includes>
+    <include>baroque_art_and_architecture</include>
+  </includes>
+  <similar_movements>
+    <movement>baroque_art_and_architecture</movement>
+    <movement>rococo</movement>
+    <movement>high_renaissance</movement>
+    <movement>religious_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>goya_francisco</artist>
+    <artist>el_greco</artist>
+    <artist>velazquez_diego</artist>
+    <artist>gaudi_antoni</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true" author="palomino_antonio" alt="Painter Antonio Palomino">"Murillo was favored by Heaven not only in the eminence of his ability but also in his natural endowments; he had a good figure and an amiable disposition and was humble and modest so that he did not disdain to accept correction from anyone."</q>
+    <q author="Entry confirming Murillo's membership in the Franciscan Third Order">"[Murillo is a] famous painter who is the admiration of Europe; only in Spain, his land, is he unknown and less esteeed."</q>
+    <q author="Painter Antonio Palomino">"Today, outside of Spain, a picture by Murillo is esteemed more than one by Titian or Van Dyck."</q>
+    <q author="Historian Jacob Burckhardt">"Here hangs his portrait (by his own hand). It is the key to all his works.... It is the physical and intellectual power still wielded by this force of nature... These slightly retracted nostrils, these flashing eyes under the splendid, wrathfully arching eyebrows, this whole face, is it not an arsenal of passions?"</q>
+    <q author="French visitor to Madrid, 1831">"The eye can't follow any line in [Murillo's] pictures, any more than it can in nature."</q>
+    <q author="Author Hans Christian Anderson">"Murillo seems to me in the expression of the Madonna to surpass Raphael; there is something so pure and innocent that one only finds in [Raphael's] Madonna in Dresden."</q>
+    <q author="Critic John Ruskin">"Do not call this the painting of nature: it is mere delight in foulness."</q>
+    <q author="Scholar and Curator Xavier Bray">"Murillo is in many ways the opposite of what people think. The art of the previous generation - of artists such as Zurbarán, Ribera and the early Velázquez - is dark and austere. It's about punishment and penitence. Murillo's approach is lighter and more elegant. He wants to make the Bible stories accessible to the ordinary viewer. What we've come to think of as sentimentality, is Murillo drawing us in by stressing the human element."</q>
+    <q author="Scholar and Curator Xavier Bray">"[Murillo] brings the Bible stories alive not through symbols, but through human empathy."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>In &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; Spain, artists were more than painters or sculptors, in the eyes of the faithful, they had the power to make the sacred real; and in Seville, Bartolomé Esteban Murillo was known as the greatest religious painter of his age. He developed a lush, illusionistic, yet accessible style that combined his grasp of the sensual world with religious conviction and respect for narrative clarity. So, whether his subject was sacred or secular, he painted convincing human beings with recognizable emotions. Murillo's pictures of street children captured their raw energy and brio, while his religious paintings held a mirror up to people and encouraged them to recognise their best qualities, so that they might strive for them in daily life. Like any good artist, he was a storyteller, and like any good storyteller, he painted to show, not tell. His elegant images of the Immaculate Conception, and his reinterpretations of the Virgin, Christ, and saints as beautiful children, blended realism and otherworldliness to immensely popular effect. Even into the 19th century, his paintings of children remained highly prized by English and French collectors, and inspired works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gainsborough_thomas"&gt;Thomas Gainsborough&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-reynolds_joshua"&gt;Sir Joshua Reynolds&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greuze_jean_baptiste"&gt;Jean-Baptiste Greuze&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>Murillo achieved a balance between reality and spirituality in his religious paintings by combining the sculptural formalism and clarity of traditional Spanish art with the technical innovations of Venetian and Flemish art.</idea>
+      <idea>Murillo painted Christ, the Virgin and Saint John the Baptist as beautiful children to inspire empathy and by extension, charity. Such an emotional approach to religious painting was unprecedented in Spanish art, and with the exception of Murillo's many followers, does not reappear until the late 18th century, in the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goya_francisco"&gt;Francisco Goya&lt;/span&gt;.</idea>
+      <idea>Murillo enlivened and simplified traditional subject matter - religious or otherwise - by using local models, and replacing attributes with dramatic poses and gestures, painting stories and lessons in a visual language ordinary people could comprehend.</idea>
+      <idea>Murillo was fascinated by boundaries and challenged the idea that a viewer's engagement with a painting stops at its surface. He used foreshortening, shallow foregrounds, and &lt;i&gt;trompe l'oeil&lt;/i&gt; details to literally "fool the eye" and draw viewers deeper into his images.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="img" alt="Attrib. to Sanchez Coello, &lt;i&gt;View of Seville&lt;/i&gt;, c. 1576-88" show="1">/images20/photo/photo_murillo_bartolome_esteban_1.jpg</p>
+          <p type="p">In December 1617, Bartolomé Esteban Murillo was born in Seville, where he would live and work his entire life. Throughout his childhood, Seville remained the foremost city in Spain, equal in power and population to Venice, Amsterdam, or even Madrid. Seville had long held the monopoly on trade with the New World, and despite Spain's near constant wars with France and the Low Countries, the city remained prosperous well into the 1630s. Later, when Murillo established his career, Seville's population and standard of living decreased, while its churches and religious fraternities increased. Eventually, his identity became integrated so strongly with religion that his pictures arguably shaped Baroque Seville as much as the city moulded his career.</p>
+          <p type="p">Murillo's exact birthdate is unknown, but his parents were prosperous, middle-class, and by 1617, very old. Gaspar Esteban, a barber-surgeon, had been married to María Murillo for thirty years and Bartolomé was the last of their fourteen children. Effectively an only child, young Bartolomé lived a comfortable and happy life until around his ninth birthday, when his father and mother died within months of one another. His older sister Ana, and her husband, took him in and nothing indicates that he was unhappy with them, but his once carefree childhood was over. Murillo soon applied his nascent but evident talents towards becoming a painter and, at first, he aspired to the Americas, where some of his relatives had already emigrated. When he turned fifteen, he drew up a will in preparation for the voyage and painted several canvases to introduce himself to the colonial market but, in the end, he never saw the New World. In fact, for his entire career, there is no proof he ever left Spain.</p>
+        </subsection>
+        <subsection title="Early Career">
+          <p type="p">According to Antonio Palomino, in the first biography of the artist published in 1724, Murillo trained with Juan del Castillo, an accomplished if not particularly innovative artist, who was related to his mother. No contract survives, but Castillo probably taught Murillo between 1630 and 1636. Murillo painted his earliest known canvases for the monastery of La Regina Angelorum. These pictures, &lt;i&gt;The Vision of Fray Lauterio&lt;/i&gt; (c. 1638) and &lt;i&gt;Saint Dominic Receiving the Rosary from the Virgin Mary&lt;/i&gt; (c. 1639) feature the same warm palette and strongly delineated figures found in Castillo's work. But apart from these examples, very little of Murillo's early work survives, possibly, because, according to Palomino, he started out as a 'festival painter', designing decorations for ferias and religious festivals, and these works were by definition ephemeral.</p>
+          <p type="p">While we have only Palomino's word for Murillo's earliest career, 1645 was indisputably one of his pivotal years. He married Beatríz Cabrera in the Church of Santa Maria Magdalena (where he had been baptised), and she was soon pregnant with the first of nine children. Moreover, he won his first major commission to paint thirteen canvases for the Little Cloister of the Convento de San Francisco in Seville. About eleven of the paintings survive, dispersed throughout European and American collections, and each depicts a miracle, ecstasy, or charitable act of a Franciscan friar or saint. Murillo's sophisticated palette, split compositions and fluid brushwork illustrated such a radical departure from his early work, some scholars contend he must have been inspired by Italian and Flemish masterpieces in Madrid. Be that as it may, the series was so successful, it precipitated a steady stream of commissions during the 1650s: including Murillo's first &lt;i&gt;Adoration of the Shepherds&lt;/i&gt; (c. 1650), a subject he would paint at least eight more times; &lt;i&gt;The Virgin of the Rosary&lt;/i&gt; (c. 1650), painted at least twenty times; and his first interpretations of the Immaculate Conception (1652), which would become his most celebrated subject.</p>
+        </subsection>
+        <subsection title="Mature Career">
+          <p type="p">By the early 1650s, Seville, though still seen as Spain's cosmopolitan and intellectual centre, was no longer its commercial powerhouse. The city had lost its trade monopoly to Cadíz, and a plague had wiped out nearly half its population, a catastrophe followed by famine, recession and trade rebellion. Partly in reaction to this disintegration, Seville's religious orders - Franciscans, Dominicans and Capuchins - dedicated their considerable resources towards charity, and commissioning artworks that celebrated their charity. Murillo, who was deeply devout (even by the standards of Tridentine Spain), shaped his life and career on service to the Catholic Church and its fraternities, many of which are still active today.</p>
+          <p type="img" alt="Brotherhood Penitents during Holy Week, Seville" show="1">/images20/photo/photo_murillo_bartolome_esteban_2.jpg</p>
+          <p type="p">Unlike the previous generation of master painters, including Diego Velázquez, Francisco de Zurbarán and Alonso Cano, Murillo did not aspire to royal patronage. His connections to Seville's aristocracy and religious brotherhoods facilitated a flow of commissions throughout the 1650s and 1660s, and his career grew apace with his family and property investments. Eventually in the spring of 1658, he travelled to Madrid, where Velázquez was now the most powerful and admired painter to the Court of Philip IV. Fellow Sevillanos Zurbarán and Cano had also found success there, and these artists possibly arranged access to royal collections, where Murillo could study masterpieces by Titian, Rubens and Van Dyck.</p>
+        </subsection>
+        <subsection title="Later Career">
+          <p type="p">In January of 1660, Murillo oversaw the inauguration of Seville's new Real Academía de Bellas Artes, becoming its first co-president with Francisco de Herrera the Younger. The school was Spain's first official academy and taught life drawing, as well as painting, sculpture and gilding.</p>
+          <p type="img" alt="&lt;i&gt;Portrait of Nicolás de Omazur&lt;/i&gt; (1672). Oil on canvas - Coll. Of the National Gallery, London" show="1">/images20/photo/photo_murillo_bartolome_esteban_3.jpg</p>
+          <p type="p">As innovative as he was prolific, even at this relatively late phase of his career, Murillo developed a new genre. He began to render Christ, John the Baptist, the Virgin, and certain saints as beautiful Sevillian children and adolescents, introducing a sweetness and accessibility into religious subjects that was particularly appropriate for side chapels, private devotional spaces, and even domestic interiors.</p>
+          <p type="p">Don Justino de Neve, canon of Seville Cathedral was actually Murillo's closest friend and was instrumental in helping him secure commissions for the new church of Santa María la Blanca (c. 1665), and a superb &lt;i&gt;Immaculate Conception&lt;/i&gt; for the Hospital of the Venerables Sacredotes.</p>
+          <p type="p">In the 1670s, Murillo also completed paintings of various subjects for the Convento de los Padres Capuchinos (c. 1670); eight canvases illustrating the parable of the Prodigal Son (before 1670); and several works dedicated to Saint Thomas de Villanueva for the church of San Agustín (c.1670). Additionally, by 1667, he had begun his important series for the Hospital de la Caridad: six of the seven acts of mercy and two paintings respectively of Saint Elizabeth of Hungary and Saint John of God.</p>
+        </subsection>
+        <subsection title="Death">
+          <p type="img" alt="Murillo with Francisco Meneses Osorio, &lt;i&gt;The Mystic Marriage of Saint Catherine&lt;/i&gt; (c. 1682). Oil on canvas, Coll. of the Museo de Bellas Artes, Seville" show="1">/images20/photo/photo_murillo_bartolome_esteban_4.jpg</p>
+          <p type="p">In 1682, Murillo began his last commission, a group of canvases for the main altar of the church of the Capuchins in Cadíz. He blocked out each composition, sketching directly onto prepared canvases, which were then installed above the main altar, where he would paint them in situ working from scaffolding. While working on the central, most important canvas, a multi-figured composition illustrating the &lt;i&gt;Mystic Marriage of Saint Catherine&lt;/i&gt;, Murillo fell at least twenty feet to the church's marble floor. The impact ruptured his abdominal wall, and although he managed to return to Seville, certainly aided by assistants, he died a few months later of hernia and associated complications. The altarpiece was later completed by his pupil Francisco Meneses Osorio. Although talented, Osorio emulated Murillo's style and technique so faithfully that his paintings can be difficult to distinguish from those of his teacher.</p>
+          <p type="img" alt="Memorial to Bartolomé Murillo, Church of Santa María Magdalena, Seville" show="1">/images20/photo/photo_murillo_bartolome_esteban_5.jpg</p>
+          <p type="p">Only Murillo's youngest son Gaspar was with him when he died. He had lived as a widower since María's death in 1665 and, despite the deaths of five children, their life together was said to be a happy one. By 1682, two of his surviving sons had left Seville, one for the Americas, and his only remaining daughter had entered a convent. Surprisingly, for a painter who excelled at images of children, none survives of his own, nor any of María; only two self-portraits are known. Important paintings by Murillo hang in Seville's Cathedral, churches and the Museo de Bellas Artes, and yet, unlike El Greco in Toledo it is not always easy to find Murillo in Seville. He was interred in the church of Santa Cruz, but when the church was later demolished, his remains were lost. Today, there is only one traditional memorial: a nineteenth-century stone plaque noting Murillo's baptism, and his fame as Seville's "Painter of Heaven". This plaque hangs in the Baroque church of Santa María Magdalena, which was built in 1692 to replace the modest church where Murillo was baptised and married.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Henry Hugh Armstead, &lt;i&gt;Frieze of Parnassus&lt;/i&gt; (detail with Murillo in the middle; completed 1872), Albert Memorial, London" show="1">/images20/photo/photo_murillo_bartolome_esteban_6.jpg</p>
+          <p type="p">Until the late 19th century, Murillo was arguably the most famous artist of all his countrymen outside of Spain. His studio in Seville nurtured succeeding generations of painters, and the most successful - Francisco Meneses Osorio, Juan Simón Guitérrez, Sebastián Gómez, Pedro Núñez de Villavicencio, and Esteban Márquez - promulgated his style, sensibilities and iconography so devotedly that Murillo continued to embody the Seville School long after his death. This was particularly true of religious art. Murillo was inarguably the great Catholic painter of the Spanish Golden Age. Not only was he prolific and ambitious, he had a genius for balancing the doctrinal with the sensual. A deeply devout man himself, he illustrated religious subjects with empathy and immediacy, engaging viewers like no other artist before him. His angels and Virgins are graceful and true, while his urchins have an almost tangible energy, but whether his subject was sacred or profane, he always painted to draw hand and eye, making his figures appear both ideal and accessible. Murillo's treatment of traditional subjects and his inventive formulas for new ones freed sacred imagery from the mystical, monumental remove typical of Zurbarán and Juan Martínez Montañés, setting it eye-level with the faithful, and encouraging communion with the subject. Moreover, Murillo often painted recognisable Sevillanos, everyday people who practiced their faith as if their lives depended upon it, because it did.</p>
+          <p type="p">During the 19th century, however, Murillo's work fell precipitously out of favor and almost in parallel with Spain's fortunes. After a brief period of prosperity and enlightenment, decades of war, invasion, colonial losses, and last but not least, quarrels within the Church shattered the market for Catholic iconography. Collectors moved instead towards secular subjects, and genres more in keeping with the rise of a wealthy middle class, such as portraiture and still lifes. Murillo, having been known in Spain as a religious painter, and abroad as a genre painter, was ill-served on both sides, because the Church no longer financed vast commissions, and following the Industrial Revolution, many viewed Murillo's urchins and mendicants as patronising or worse, sentimental kitsch. As curator Xavier Salomon noted, "[Murillo] was incredibly famous up until the 19th century, but with shifting fashions for art - and because of the many of the subject matters he treated - he has [become] less popular, undeservedly".</p>
+          <p type="p">In the later 19th century, Murillo's genre paintings enjoyed a brief renaissance as the inspiration behind the Costumbrismos, painters of street life, who paid meticulous attention to narrative, costume, gesture and attitudes. And certain masterpieces, including &lt;i&gt;The Young Beggar&lt;/i&gt;, continued to appeal to Realists and proto-Impressionists. But it was only relatively recently that Murillo work has been reassessed by scholars and curators.</p>
+          <p type="img" alt="Casa de Murillo, Seville" show="1">/images20/photo/photo_murillo_bartolome_esteban_7.jpg</p>
+          <p type="p">Currently, 2018 is the quadricentennial of Murillo's "birthday", and in celebration Seville has launched a programme of events and exhibitions, including a show at the Museo de Bellas Artes reuniting paintings from around the world, while "Murillo and his Trail in Seville", at the Espacio Santa Clara, looks at his far-reaching influence on the Seville School and beyond. Soon, visitors to Seville will be able to experience some of Murillo's life and spirit at the Casa de Murillo, the artist's last home. Formerly a museum dedicated to Murillo, it closed in 1988 and is now the Office of the Andalusian Institute of Flamenco. However, Seville is currently planning a Research and Study Centre of the School of Murillo and Seville's Golden Age.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="velazquez_diego">Vieja friendo huevos (Old Woman Frying Eggs) (1618)</artwork>
+    <artwork from="artist" page="manet_edouard">Le Dejeuner sur l'Herbe (1863)</artwork>
+    <artwork from="artist" page="rembrandt_van_rijn">The Night Watch (1642)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>The Young Beggar</title>
+      <year>c. 1645</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Young Beggar&lt;/i&gt; was widely admired for its realism and is one of the finest examples of a subject effectively unique to Murillo: vignettes of local street children. Alternately known as &lt;i&gt;Boy Delousing Himself&lt;/i&gt; or &lt;i&gt;The Lice-Ridden Boy&lt;/i&gt;, these variations may have related to Andalusian folk wisdom which believed children with lice to be healthy and happy, because lice could not live on sick children. Here, as in similar pictures, most of which Murillo painted in the 1670s, his setting is only the barest suggestion of a room. He arranged the boy close to the picture plane (the child's dirty feet practically point at the viewer) and reserved only a shallow foreground to include the scattering of shellfish casings and bag of apples that hint at the boy's hunger and hardscrabble life. This level of realism would not have appealed to local collectors; Murillo actually painted these images specifically for his foreign market: the Genoese, Dutch and Flemish merchants who traded out of Seville's port on the river Guadalquivir. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although the picture is neither signed nor dated, scholars agree Murillo painted it around 1645, when he was still influenced by Zurbarán and Velázquez. Murillo's sombre palette, volumetric forms and impasto brushwork recall genre subjects Velázquez painted before he left for Madrid, such as &lt;i&gt;The Water-Seller of Seville&lt;/i&gt; (1620). Also, Murillo was known to share the current taste for picaresque literature, and his images of street children may have been informed by Miguel de Cervantès. 
+				&lt;br/&gt;&lt;br/&gt;
+				Since the early 19th century, the painting has been in the Louvre, where it influenced Realist painters, including François Bonvin, Gustave Courbet, and Édouard Manet (who actually copied it). While &lt;i&gt;The Young Beggar&lt;/i&gt; might appear at odds with Murillo's religious imagery, examined in context of his sympathy for the poor and his dedication to charity, it emerges as not only one of his most striking paintings, but also one of his most empathetic.
+			</desc>
+      <collection>Collection of the Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Angel's Kitchen</title>
+      <year>1646</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Around 1644, Murillo won his first major commission from the Convento de San Francisco in Seville to paint thirteen canvases depicting various miracles and ecstasies associated with the order's friars and saints. One of the very few paintings Murillo signed and dated, &lt;i&gt;The Angel's Kitchen&lt;/i&gt; possibly illustrates a vision of Saint Giles of Assisi, who, in 1212, made a pilgrimage to Santiago de Compostela en route to Jerusalem. 
+				&lt;br/&gt;&lt;br/&gt;
+				Giles, one of Saint Francis' first companions, was not particularly learned or articulate, but he was utterly committed to a life of poverty and pilgrimage. He wore a second-hand habit and lived as a nomad, earning his keep by doing odd jobs for any church or monastery that gave him food and shelter. Set in a space based on the Convento's actual kitchen, Murillo painted the saint twice. Giles first appears deep in spiritual ecstasy, floating in a nimbus. The Convento's Father Superior and two gentlemen (perhaps donors) look on in amazement. Then Giles appears again, at right, grounded and looking spellbound at a group of angels and cherubs, who variously prepare food, grind spices, wash pots and set the table. Every detail of the food, tools and kitchenware is tangibly present and injects a sense of reality into the scene that highlights an amusing fact: the divine helpers are actually doing Giles's work for him. In the middle of the canvas, two large angels punctuate the two scenes marking their existential difference (i.e. Giles's vision, and the angels' hard work). At the angel's feet a plinth notes a friar named Francisco, suggesting that perhaps Murillo based Giles on the Convento's cook, Francisco Perez, who was known for his piety.
+				&lt;br/&gt;&lt;br/&gt;
+				The series as a whole, and &lt;i&gt;The Angel's Kitchen&lt;/i&gt; in particular are masterpieces of Murillo's early style, which features graceful figures, realistic details, and a distinct spatial divide between reality and the spiritual world. 
+				&lt;br/&gt;&lt;br/&gt;
+				Eleven of the original thirteen canvases survived the Spanish War of Independence (1808-14). But four of these were stolen and dispersed, including the present work, to France. The Convento was demolished in 1841.
+			</desc>
+      <collection>Collection of the Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Virgin of the Rosary</title>
+      <year>c. 1650</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Also known as &lt;i&gt;The Virgin of the Escorial&lt;/i&gt;, this is arguably Murillo's finest Virgin and Child. A relatively early painting, it incorporates the strong chiaroscuro inspired by Caravaggio that endured in Spanish art well into the 17th century. Murillo would have known Caravaggio's paintings from prints, copies or possibly original works in local collections. However, this &lt;i&gt;Virgin of the Rosary&lt;/i&gt; has a delicacy and sweetness atypical of Caravaggio's work, and curator Jane Martineau has argued that Murillo was inspired by the work of Bartoloméo Cavarozzi, an Italian who worked in Madrid, and whose paintings were widely known in Spain. If Caravozzi and Murillo painted similar Virgins, that may also have been due to their shared admiration of Raphael's Virgins, which Murillo would have known from drawings and engravings after the Renaissance master circulated throughout the local studios and workshops. Initially, as in much of his early work, Murillo strived for a sculptural effect in his figures, and he particularly admired the monumentality of Raphael's Virgins. By 1650, however, Murillo introduced a new elegance into his style, and painted the Virgin as younger, more delicately featured, with feathery brushwork possibly borrowed from Anthony Van Dyck, whose paintings were known in Seville. Likewise, in the present work, the Christ Child is no longer a languid baby, but an active toddler, who plays with a rosary entwined in the Virgin's hand. The beads formally unite the Child and the Virgin and their cheek-to-cheek embrace imparts a sense of tenderness that is deeply empathetic. This shift in pose also changed the overall composition, making it necessarily more vertical, allowing Murillo space to paint luxurious draperies in sweeping brushstrokes of glowing, jewel-like color. 
+				&lt;br/&gt;&lt;br/&gt;
+				In 1644, Murillo joined the Brotherhood of the Virgin of the Rosary, a lay fraternity dedicated to the Virgin Mary. Murillo possibly painted this &lt;i&gt;Virgin of the Rosary&lt;/i&gt; for a private collector associated with the Brotherhood. It only entered the royal collections in the Escorial in 1788, before eventually passing to the Prado in 1827. However, the painting was always popular and well known, and it was copied by several accomplished painters. One copy in the Wallace Collection was apparently so good, it was long believed to be by Murilllo.
+			</desc>
+      <collection>Collection of the Museo Nacional del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>Two Women at a Window</title>
+      <year>c. 1655</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				One of the few genre paintings that does not include children, &lt;i&gt;Two Women at a Window&lt;/i&gt; was also one of Murillo's most widely celebrated; it was engraved several times during the 18th and 19th centuries. Strictly speaking, genre paintings were rare in Spanish Baroque art. During the 17th century, similar subjects were far more popular in the Low Countries, and for this reason, it is generally held that Murillo painted these pictures for the Dutch and Flemish merchants who traded out of Seville's port. One of these merchants, Nicolás Omazur was believed to own a copy of the present work, but this may have been a copy Murillo made after another similar painting. Murillo's window-sill composition and &lt;i&gt;trompe l'oeil&lt;/i&gt; effect were unprecedented in Spanish painting, but characteristic of contemporary Dutch paintings, notably by Rembrandt. 
+				&lt;br/&gt;&lt;br/&gt;
+				Are the two women maids, a young woman of good family and her &lt;i&gt;duenna&lt;/i&gt;, a prostitute and her procuress? A late eighteenth-century engraving after the painting was published as &lt;i&gt;Las Gallegas&lt;/i&gt; (&lt;i&gt;The Galician Women&lt;/i&gt;), and women from Galicia came to Seville to work as domestic servants (or prostitutes). Without pronouncing either way, the late art historian Diego Angulo Íñiguez noted an old Spanish adage that said a woman at a window spelled sexual opportunity (much like a modern red light). However, both women are young, which would be inappropriate for a prostitute and her procuress. Finally, there is Murillo's ambiguous setting. Only the lip of the window ledge is original. The area below is a later addition and it is not clear, even from later engravings, what he originally intended. 
+				&lt;br/&gt;&lt;br/&gt;
+				More to the point, as curator Xavier Bray pointed out, Murillo was fascinated by boundaries. Whether his subject was sacred or secular, he loved to subvert the idea that the viewer's experience of a painting is limited in any way by the physical fact of its surface. In the present picture, he painted two pretty, healthy girls in a plain, innocuous setting and included no background, nor any distracting details. In fact, he made the girls' presence so immediate, they almost seem to encroach on the viewer's physical space, an effect lightened by their smiles and direct eye contact, making this particular work a triumph of illusionism, and possibly even wish-fulfilment.
+			</desc>
+      <collection>Collection of the National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>The Vision of Saint Anthony of Padua</title>
+      <year>1656</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This vast canvas marked a pivotal point in Murillo's career, establishing his name as one of premier religious painters in Seville. Completed in 1656, the painting is still in its original location: the baptismal chapel of Santa María de la Sede, Seville's cathedral. The picture is difficult to view, due to its size, the lack of available light, and the fact that visitors need to peer over the baptismal font from behind a stanchion to see it. Nevertheless, even today - while other versions of this popular subject can appear whimsical or saccharine - Murillo's interpretation of the saint's dream still inspires a sense of frozen awe.
+				&lt;br/&gt;&lt;br/&gt;
+				An early example of Murillo's so-called "vaporous style" that combined golden tonal color with diffused form, it is possible, as some have argued, that he was inspired by Venetian painting, or works by Herrera the Younger. However, neither would explain what compelled Murillo to pair realism (the furniture and floor are typical of local décor) with the subtle sensitivity of gesture and expression in painting this serenely supernatural image. Contemporary critic Fernando de la Torre Farfán wrote that Murillo painted even the saint's desk "with such art that there are those who testify to having seen a bird labouring to sit on it so as to peck at the white lilies there are in a vase". Today, this reads as hyperbole, but the painting won Murillo a further string of religious commissions and is now acknowledged as a masterpiece of his mature period; as art historian Jonathan Brown wrote, it was Murillo's "first essay in the high baroque".
+				&lt;br/&gt;&lt;br/&gt;
+				Born in medieval Lisbon, Anthony opted first for a life of prayer, but soon his ambitions turned to martyrdom. En route to Morocco, where he planned to convert Saracens, his ship foundered off Sicily, so instead he roamed Italy as a preacher. One evening while praying in his cell, he saw the Infant Christ floating in a cloud of golden light with cherubim, a vision whose obvious appeal did not go unnoticed by the Counter-Reformation Church. Anthony also became known as the patron saint of lost property, an identity that became particularly resonant in 1874, when thieves cut out most of the lower right section of the painting. About a year later, the remnant re-appeared in New York, where a picture dealer recognized it, bought it and turned it over to the Spanish consulate. The stolen section was returned to Seville, and following careful restoration, the entire painting was reinstalled in the Cathedral. 
+			</desc>
+      <collection>Collection of the Cathedral of Seville</collection>
+    </artwork>
+    <artwork>
+      <title>The Good Shepherd</title>
+      <year>c. 1660</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Placed in a nominally classical setting, made intimate by his typically shallow composition, in &lt;i&gt;The Good Shepherd&lt;/i&gt;, Murillo has combined his gift for painting children, with an almost Rococo palette, and a limpid, silver sense of light to create images that expressed both spiritual divinity and human vulnerability. The Infant Shepherd's idealised beauty is the antithesis of Murillo's street children, but he maintained a sense of naturalism in the child's casual embrace of the lamb, and its woolly fleece. Also, seizing on the fact that children with domestic animals were a common sight in Seville, Murillo knew the lamb could carry a double meaning: as the Child's pet &lt;i&gt;and&lt;/i&gt; as His fate as the Lamb of God, allowing him to illustrate a sacred subject in the context of everyday life, therefore broadening its appeal.
+				&lt;br/&gt;&lt;br/&gt;
+				Even considering his success as a religious painter, Murillo's images of the Infant Christ and the Infant Saint John the Baptist were remarkably sought after by both Spanish and foreign collectors. Not only did these pictures have obvious decorative appeal and hung well in the luxurious interiors of the wealthy and devout, but they were ideal for private chapels. In Seville, Murillo sold many of these paintings to his main patrons, Don Justino de Neve and Nicolás Omazur, but they were also coveted by English collectors, such as Joseph Townsend, who wrote that during his travels in Spain he did not find works by any other artist that "equalled [Murillo] in expression and sweetness". In fact, for a time, Murillo's work was far more famous in England than in Spain, and its presence in British collections later inspired paintings by Gainsborough, Reynolds and Greuze. The charm of these paintings and their call to human emotion helped make complex theological concepts accessible and gave these images a mass appeal that endures; they are still some of most widely reproduced artworks in the Catholic Church.
+			</desc>
+      <collection>Collection of the Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Don Justino de Neve</title>
+      <year>1665</year>
+      <materials />
+      <desc>
+				Murillo became so famous as a religious painter that for many years his work as a portraitist was relatively unexamined. However, his portrait of Don Justino de Neve was, even in Murillo's lifetime, held to be a masterpiece, in fact, one of the greatest portraits of its time. 
+				&lt;br/&gt;&lt;br/&gt;
+				Painted as a gift, as thanks for helping Murillo secure major commissions, the portrait shows Don Justino - Canon of Seville Cathedral - seated in his study, a room that appears to open onto a terraced garden. This inside-outside situation was typical of Roman religious portraiture, and usually symbolized the challenges of living a religious life in the secular world. However, Murillo also used this formula to intensify his likeness of Don Justino. The garden's silvery grey-greens throw warmer areas - the red chair, terracotta floor, the golden clock, and the dog's red ribbon - into high relief. And instead of dressing Don Justino - who was below average height - in elaborate robes to make him appear more substantial, Murillo painted him in a simple cassock, known as a baladran, which offsets his elegant hands and handsome face; both appear almost sculptural against the thick black material. This focus also emphasises the prayer book in Don Justino's left hand, where his finger marks his place, as if someone had just entered his study. His right hand, which is more three-dimensional, rests on but outside the chair arm, testing the boundary between the sitter and the viewer. Finally, Don Justino's dog, a &lt;i&gt;perro inglese&lt;/i&gt; (possibly a pug) sits in the right foreground, its back to the viewer, looking up to his master. Murillo specifically included the animal, not just for &lt;i&gt;verismo&lt;/i&gt; and its obvious appeal, but also to express his own loyalty and devotion to his friend. 
+				&lt;br/&gt;&lt;br/&gt;
+				Murillo did not usually sign or date his paintings, but in this portrait, he was unequivocal; he inscribed, signed and dated it to the left above Don Justino's head on a panel beneath his coat of arms. Murillo's closest friend throughout much of his life, Don Justino owned at least eighteen of his paintings, and was one of the executors of his will. When Don Justino himself died in 1685, only three years after Murillo, he bequeathed his portrait and the magnificent &lt;i&gt;Immaculate Conception&lt;/i&gt; (1678) to the Venerables Sacredotes.
+			</desc>
+      <collection>Collection of The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Christ Healing the Paralytic at the Pool of Bethesda</title>
+      <year>1668-70</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This is one of eleven canvases commissioned for the Hospital de la Caridad in Seville. Founded in 1662, by Miguel de Mañara, the Hospital represented a new direction for the Brotherhood of Charity, whose former &lt;i&gt;raison d'etre&lt;/i&gt; had been to bury the dead. To complement and relate to the main altar's &lt;i&gt;Entombment of Christ&lt;/i&gt;, elaborately sculpted by Pedro Roldán, Murillo, who was actually a member of this Brotherhood, painted six large canvases, each illustrating the other Acts of Mercy (Burying the Dead having been embodied by Roldán). Two of Murillo's paintings remain in the church, but the other four, including the present work, were looted in 1810 by Napoleon's Marshal Soult, and are now in various foreign museums. 
+				&lt;br/&gt;&lt;br/&gt;
+				Murillo took his inspiration for Visiting the Sick, from the New Testament (&lt;i&gt;John&lt;/i&gt;, V, 2), which describes the pool at Bethesda visited regularly by angels who sanctified the waters, recharging them with healing powers. One day when Christ came to the pool a sick man lying upon a pallet complained that no matter how hard he tried, he could never reach its waters to be healed. Christ said to the man, simply, "Rise, take up thy bed, and walk", and the man, cured, did. 
+				&lt;br/&gt;&lt;br/&gt;
+				Murillo's Acts of Mercy cycle was an unqualified success, but the present work was singled out for his audacious use of architecture. The Gospel states that the pool was surrounded by five porches, which Murillo included not only to follow scripture, but also because they established a necessary level of depth separating the real and the miraculous, a distinction he emphasised further with silvery tones and diffused forms. In high contrast to the dreamlike background, Christ and his three Apostles loom tangibly in the foreground. Moreover, he painted the paralysed man at their feet from a slightly lower perspective that places the viewer alongside him, encouraging empathy with both his physical and spiritual weakness. 
+			</desc>
+      <collection>Collection of the National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Immaculate Conception of the Venerables Sacredotes</title>
+      <year>1678</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				"Taking the world as it exists, and the market as the standard, the best pictures by Murillo have sold, and will sell, for more than those of any artist, except Raphael." In 1883, when the American scholar C. B. Curtis made this claim, the highest known auction price ever achieved for a painting was the sum paid in 1852 by the French government for the &lt;i&gt;Immaculate Conception of the Venerables Sacredotes&lt;/i&gt; the last version of Murillo's most celebrated religious subject. 
+				&lt;br/&gt;&lt;br/&gt;
+				Murillo painted around two dozen Immaculate Conceptions, possibly more than any other Spanish painter of his time; he is even credited with creating a new iconography for this subject. Using the traditional composition of an Assumption, he got rid of redundant attributes, added the Apocalyptic crescent moon and a squadron of cherubs, and dressed the Virgin in a simple blue and white costume with a &lt;i&gt;mandorla&lt;/i&gt;, her hands crossed at the chest, and eyes lifted to Heaven. 
+				&lt;br/&gt;&lt;br/&gt;
+				Murillo became recognized as the master of this particular subject, but the present work differs from earlier versions in its determined sense of upward movement, and the absence of any virginal attributes. He may have deliberately omitted these objects (the tower of David, sealed fountain, palm and cypress trees, books, lilies, etc.) because he knew the painting would carry an elaborately carved frame featuring these attributes. However, it is also possible that this frame was made specifically to provide symbolism found lacking in the painting. This frame remains in the Hospital de Venerable Sacredotes in Seville, but the painting is now in the Prado.
+				&lt;br/&gt;&lt;br/&gt;
+				Following Church debates in 1616, the Immaculate Conception grew into one of Seville's genuinely local subjects, and ultimately became synonymous with Murillo. Often confused with the idea of virgin birth, the Immaculate Conception contends that Mary herself was born without the stain of original sin, making her intrinsically holy. In the Spanish Church, particularly in Seville, this was far more than some splinter belief; one actually had to swear a vow of Conceptionist faith to belong to a guild, or municipal corporation.
+			</desc>
+      <collection>Collection of the Museo del Prado, Madrid</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Francisco Zurbarán">zurbaran_francisco</entity>
+        <entity>velazquez_diego</entity>
+        <entity>rubens_peter_paul</entity>
+        <entity alt="Anthony Van Dyck">van_dyck_anthony</entity>
+        <entity>rembrandt_van_rijn</entity>
+      </column>
+      <column>
+        <entity alt="Justino de Neve">de_neve_justino</entity>
+        <entity alt="Miguel de Mañera">de_manera_miguel</entity>
+        <entity alt="Nicolás Omazur">omazur_nicolas</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity alt="Venetian School">venetian_school</entity>
+        <entity alt="Flemish School">flemish_school</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Francisco Meneses Osorio">osorio_francisco_meneses</entity>
+        <entity alt="Pedro Núñez de Villavicencio">de_villavicencio_pedro_nunez</entity>
+        <entity>reynolds_joshua</entity>
+        <entity>gainsborough_thomas</entity>
+        <entity alt="Jean-Baptiste Greuze">greuze_jean_baptiste</entity>
+      </column>
+      <column></column>
+      <column>
+        <entity alt="Seville School">seville_school</entity>
+        <entity>rococo</entity>
+        <entity>realism</entity>
+        <entity alt="Costumbrismo">costumbrismo</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Murillo: The Self-Portraits</title>
+          <link>0300225687</link>
+          <info>By Xavier F. Salomon and Letizia Treves</info>
+        </entry>
+        <entry recommended="true">
+          <title>Murillo at Dulwich Picture Gallery</title>
+          <link>1781300089</link>
+          <info>By Xavier Bray</info>
+        </entry>
+        <entry>
+          <title>El Joven Murillo</title>
+          <link>8496763218</link>
+          <info>By Benito Navarrete Prieto and Alfonso E. Perez Sanchez</info>
+        </entry>
+        <entry>
+          <title>Murillo: Scenes from Childhood</title>
+          <link>185894130X</link>
+          <info>By Peter Cherry and Xanthe Brooke</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bartolemé Esteban Murillo</title>
+          <link>0297781944</link>
+          <info>By the Royal Academy of Art and Jane Martineau</info>
+        </entry>
+        <entry recommended="true">
+          <title>Murillo</title>
+          <link>8450051983</link>
+          <info>By Diego Angulo Iñiguez (Spanish Edition)</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Murillo and Seville</title>
+          <link>http://www.murilloysevilla.org/en/home/</link>
+          <info>Ayuntamiento de Sevilla</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paintings by Murillo in UK Public Collections</title>
+          <link>https://artuk.org/discover/artists/murillo-bartolome-esteban-16171682</link>
+          <info>ArtUK</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>La Séville de Murillo</title>
+          <link>https://www.connaissancedesarts.com/archi-jardin-et-patrimoine/la-seville-de-murillo-1188762/</link>
+          <info>
+						By Manuel Jover
+						&lt;br&gt;
+						Connaissance des Arts
+					</info>
+        </entry>
+        <entry>
+          <title>Sevilla recupera una de las joyas de Murillo</title>
+          <link>https://elpais.com/cultura/2017/11/28/actualidad/1511870492_417710.html</link>
+          <info>
+						By Antonio J. Mora
+						&lt;br&gt;
+						El Pais
+					</info>
+        </entry>
+        <entry>
+          <title>Murillo: The Self-Portraits</title>
+          <link>https://www.frick.org/exhibitions/murillo</link>
+          <info>
+						The Frick Collection
+					</info>
+        </entry>
+        <entry>
+          <title>Face to Face with Murillo at the Frick</title>
+          <link>https://www.apollo-magazine.com/face-to-face-with-murillo-at-the-frick/</link>
+          <info>
+						By Louise Nicholson
+						&lt;br&gt;
+						Apollo
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>What You Need to Know about Bartolomé Esteban Murillo, Master of the Spanish Baroque</title>
+          <link>https://www.artsy.net/article/artsy-editorial-murillo-spent-200-years-spotlight-fell-favor</link>
+          <info>
+						Brendan Sainsbury
+						&lt;br&gt;
+						Artsy
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Murillo</title>
+          <link>https://youtu.be/iDjKCaqm130</link>
+          <info>Andrew Graham-Dixon on exhibition at the Dulwich Picture Gallery</info>
+        </entry>
+        <entry>
+          <title>Murillo: The Self-Portraits</title>
+          <link>https://youtu.be/q0j_ps92_kg</link>
+          <info>The Frick Collection (Xavier F. Salomon)</info>
+        </entry>
+        <entry recommended="true">
+          <title>Curator's Introduction: Murillo: The Self Portraits</title>
+          <link>https://youtu.be/Vr8swZ1JGdA</link>
+          <info>The National Gallery (Letizia Treves)</info>
+        </entry>
+        <entry>
+          <title>A Brief Introduction to Bartolomé Esteban Murillo</title>
+          <link>https://youtu.be/rdQAyyiRsaA</link>
+          <info>Art History, Philosophy of Life Channel</info>
+        </entry>
+        <entry>
+          <title>Bartolomé Esteban Murillo: A collection of 176 paintings</title>
+          <link>https://youtu.be/Rb8PcxNA5Yg</link>
+          <info>Learn From Masters</info>
+        </entry>
+        <entry recommended="true">
+          <title>Arte Acción- Los Condenandos de la Tierra</title>
+          <link>https://vimeo.com/268372649</link>
+          <info>
+						Flamenco and Cantata inspired by Murillo
+						&lt;br&gt;
+						Performed at Museo de Bellas Artes, Seville (May 2018)
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>jonas_joan</id>
+    <name>Joan Jonas</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1960 - Present</years>
+    <description>Joan Jonas is a pioneer of video and performance art often dealing with identity and feminist topics.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>American</nationality>
+    <occupation>Performance Artist, Film Maker, Installation Artist</occupation>
+    <birthDate>July 13, 1936</birthDate>
+    <birthPlace>New York</birthPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <art_type>Art</art_type>
+    <pub_time>10/5/2018</pub_time>
+    <big_bio_box_img>true</big_bio_box_img>
+    <img_version>?1</img_version>
+  </main>
+  <includes>
+    <include>performance_art</include>
+    <include>video_art</include>
+    <include>feminist_art</include>
+  </includes>
+  <similar_movements>
+    <movement>feminist_art</movement>
+    <movement>modern_photography</movement>
+    <movement>conceptual_art</movement>
+    <movement>video_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>oldenburg_claes</artist>
+    <artist>wilke_hannah</artist>
+    <artist>kruger_barbara</artist>
+    <artist>schneemann_carolee</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I rehearsed my work only at night, and when I rehearsed, I stepped into another space that was not the same as my everyday space. You could almost call it a séance."</q>
+    <q>"I'm just very interested in life, I'm curious about many things. And when I finish one piece, I'm challenged to do the next one to explore and experiment, and to go into the unknown continually. I mean one never know what a work is going to be at the start, I find the images as I work."</q>
+    <q>"From the very beginning, when I first started working with video I was involved with this idea around layering. And seeing more than one thing at once, simultaneously side by side, or now layered on top of each other. It's the way the brain works, you think of one thing and you see another. One's mind is layered in that way."</q>
+    <q>"The relationship between animals and humans is very mysterious, and I think it's very important, especially in this world right now, the planet we're living on."</q>
+  </quotes>
+  <authors>
+    <author link="treloar">Marley Treloar</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Rebecca Baillie</editor>
+  </editors>
+  <article>
+    <synopsys>Joan Jonas's practice is one full of the synergy, dynamism, and constant flux that is present in life itself. There is nothing static or easily definable about this art. Jonas works as a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance&lt;/span&gt; artist, but within this realm she incorporates drawing, dance, noise, video, travel, and at the same time introduces various sculptural objects, photographs, and props. She also interweaves a plethora of literary sources, including poems, myths, and fairytales, and as such, presents a highly complex and multi-layered private imaginative world to a public audience. The result is not usually simple, and often viewers feel overwhelmed, as though they cannot grasp any sense of linear narrative in the artist's work. This is the honesty and integrity of a Jonas piece; she exposes without restraint that the self is fragmentary, anxious, and ultimately nonsensical. Since the early 1960s, and still today, albeit now with more institutional support, Jonas continues to examine her own identity, often in relation to other artists, cultural rituals, gender equality, societal gaze, and contemporary politics.</synopsys>
+    <key_ideas>
+      <idea>Jonas is not afraid to let pieces take on a life of their own. Jonas's performances are more like paintings in this way; they start and then evolve intuitively. It is a major achievement to be able to make art without imposing limitations. Most performances by others are more tightly planned and wholly envisioned before they begin.</idea>
+      <idea>Jonas is interested in the relationship between humans and animals. She suggests that to live spiritually is to live alongside creatures, and for Jonas, this is usually a dog. In art history, interestingly, a dog is curled up by the feet of the figure of &lt;i&gt;Melancolia&lt;/i&gt; (1514)in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer's&lt;/span&gt; famous engraving, presenting the dog a suitable companion for the curious and reflective mind. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-smith_kiki"&gt;Kiki Smith&lt;/span&gt; visits the same themes, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuys&lt;/span&gt;, when locked in a room with a coyote, positioned himself a shaman, acknowledging the same sense of "magical intrusion" that Jonas's speaks of when in the company of animals.</idea>
+      <idea>Jonas brings movement to static &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; works, for example, Jonas's &lt;i&gt;My New Theater&lt;/i&gt; pieces, in which videos are displayed in wooden boxes with props inside recall the creations of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cornell_joseph"&gt;Joseph Cornell&lt;/span&gt;. Her whole career echoes the important Surrealist question, &lt;i&gt;Who Am I&lt;/i&gt;, and the recurrence of the mirror reasserts this idea. Her use of funnels, trumpets, and spheres are motifs also found in the canvases of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-varo_remedios"&gt;Remedios Varo&lt;/span&gt;, and all such parallels remind the viewer that Jonas too is interested in mixing the conscious and unconscious together. Like the Surrealists, she is an artist working to celebrate the imagination, to unite disparate elements, and to dissolve boundaries.</idea>
+      <idea>Today, Jonas re-visits old performances and restages these in new locations, with new props, and with new performers. As such she successfully communicates that everything evolves and changes, and that in fact, to freeze anything in time can only be something of an illusion. She reveals that although traditional art may bring peace and space for reflection, it only serves to provide contrast to the chaos and endless shift in life, whilst her work, by contrast, holds a mirror up to this.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Joan Amerman Edwards was born in New York in 1936. Her parents divorced when she was young, and she spent most of her childhood living between Manhattan and Long Island. Jonas has said that she knew that she wanted to become an artist from around age six and that this ambition was highly encouraged by her surrounding artistic family, especially by her father who was an aspiring writer. Her mother was an avid collector of curiosities and often took the young Jonas to art galleries and to the opera. Jonas's aunt was a painter, and her stepfather a jazz musician and a magician.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">In 1958 Jonas received a BA from Mount Holyoke College in Massachusetts, majoring in Art History and Sculpture. In 1965 she received an MFA from Colombia University. Throughout her studies, she taught art to children in nearby workshops, as well as in various schools in the Boston and New York area. In 1959, she married Gerald Jonas and the couple spent much of their time travelling in Europe, Canada, Japan, and touring the United States. The marriage lasted for five years, and since this separation Jonas has never remarried. During the mid-1960s, the aspiring young artist saw many inspirational performances from New York-based artists, dancers, and filmmakers; she was totally immersed in the art scene of the time and began to make her own "pieces". She was reluctant to call her work "performance" until later. At this time, she destroyed all of the sculptures that she had made previously, and began to study dance with the choreographer Trisha Brown. As a dancer, she also worked with the choreographers Yvonne Rainer and Steve Paxton.</p>
+          <p type="img" alt="A photograph of Jonas before her Mirror Mirror performance in 1968, New York" show="0">/images20/photo/photo_jonas_joan_1.jpg</p>
+          <p type="p">Jonas was a central figure in the Performance movement of the mid-1960s, with works that merged elements of dance, theater, and different cultural props and influences gleaned from her extensive travels. She carved a space for herself examining identity and pushing boundaries: social, personal, and political. In 1971, she collaborated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-serra_richard"&gt;Richard Serra&lt;/span&gt; on a nine-minute black and white film called &lt;i&gt;Paul Revere&lt;/i&gt;. This was "a didactic work inspired by the structure of educational films using instructional cards". Jonas bought her first video camera in 1972 while she was traveling in Japan, again with Richard Serra, and shortly afterwards began making her own films and recording "performances". Indeed, the "piece" had organically grown to become the "performance" by this time. By experimenting with different characters and alter egos, in the spirit of Surrealism, Jonas examined the theme of identity always beginning with the artist herself. &lt;i&gt;Organic Honey's Virtual Telepathy&lt;/i&gt;, a self-reflective study of female identity, was a groundbreaking work during this early period.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Jonas in her loft studio in New York with her dog Zena" show="0">/images20/photo/photo_jonas_joan_2.jpg</p>
+          <p type="p">Jonas's work made throughout the 1970s was performed to some of the most influential artists of her generation, including Richard Serra, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-smithson_robert"&gt;Robert Smithson&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-graham_dan"&gt;Dan Graham&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-anderson_laurie"&gt;Laurie Anderson&lt;/span&gt;. These artists were not only Jonas's friends and colleagues, but they were also fellow pioneers dedicated to pushing art forward. Interestingly, despite being a key figure within small artistic circles, during this time Jonas's work became more widely known in Europe than it did in the United States. Jonas herself has said that the 1980s, a decade all about money, was a bad time for her work and that the 1990s brought something of a new and revived vigour. Critic Douglas Crimp wrote in 1983 that her works made before the 1990s were generally "repressed, smoothed over". Indeed, Jonas's works remained relatively undiscovered while of the influence and visibility of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt; grew from strength to strength in her hometown, New York City. It wasn't until later in her career that her video performances gained recognition.</p>
+          <p type="p">In the 1990s, Jonas's &lt;i&gt;My New Theater&lt;/i&gt; series moved away from a dependence on her own body as the starting point and center of all of her artworks. Her initial three pieces made in this new, invented medium investigated a Cape Breton dancer and her local culture. The next series focused on a dog jumping through hoops, while Jonas drew a landscape in the foreground. In another series, also presented as a video encased inside a wooden box and fronted with objects, Jonas made a video about the act of performing and included actual stones and costumes. At this time, the artist also began to restage earlier works from her career, always adding new layers of meaning and questioning gender identity in a way that she had by this point been doing for almost 30 years.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">Since 2000, Jonas has taught at the Massachusetts Institute of Technology, Cambridge, MA. In 2004, she was honored with a retrospective at the Queens Museum of Art in New York, titled &lt;i&gt;Joan Jonas: Five Works&lt;/i&gt;; and in 2009, was awarded the Guggenheim's first annual Lifetime Achievement Award. Jonas has continued to make new video performance works, looking at fairy tales, folklore, and our relationship with nature. Many of these works depict her own dogs, appearing in her films &lt;i&gt;Dog Dance&lt;/i&gt; (2002/2005), &lt;i&gt;Beautiful Dog&lt;/i&gt; (2014), and &lt;i&gt;Stream or Rive - Flight or Pattern&lt;/i&gt; (2016-2017). Jonas explains in an interview with Tate that her dogs' appearances in her work are usually spontaneous, with them running into the scene of the performance and nudging her to play; "My dog is a character. She is a comedian and a natural performer. I never ask her; she just gravitates towards the action. It's very strange; she somehow knows what to do".</p>
+          <p type="p">In 2015 Jonas represented the United States in the 56&lt;sup&gt;th&lt;/sup&gt; Venice Biennale. Her installation for the five galleries of the United States Pavilion, &lt;i&gt;They Come to Us without a Word&lt;/i&gt;, was commissioned by the MIT List Visual Arts Centre. She also created a new video performance, with music by Jason Moran, &lt;i&gt;They Come to Us without a Word II&lt;/i&gt; in conjunction with other installations at the Biennale. For the first time, children were the performers of a Jonas work; they each wore white paper hats or papier-mâché masks. They played a game of tug of war with a stick, or stood in front of screen with projected imagery of honeycombs and horses. When being interviewed at the Biennale, Jonas said that the children were "friends of mine. I set up a series of workshops on Saturday afternoons, but I had to have it completely organized so that they could step into something with instructions. They of course bring their own aura into the piece. I don't give them a lot of direction - I only gave them tasks. Really I like just them as they are". Indeed, the artist has been inspired and has worked with children since the very beginning of her career.</p>
+          <p type="img" alt="Joan in her New York loft studio 2017 in preparation for her exhibition at Tate Modern" show="0">/images20/photo/photo_jonas_joan_3.jpg</p>
+          <p type="p">In 2018, the Tate Modern hosted a large exhibition of Jonas's works featuring performances, displays of her props and costumes, and video and installation works. Works shown ranged from early low-fi films from the '60s to recent installations dealing with climate change and issues of animal extinction. In an interview with Tate Jonas comments, "the installations we've been working on over the last two years, getting it all together. Then the performances, I've done big shows like this and then had performances later on after the opening; I've never done a show with four performances."</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Jonas with Marina Abramovic during the 2010 The Artist Is Present Performance" show="0">/images20/photo/photo_jonas_joan_4.jpg</p>
+          <p type="p">Joan Jonas is a prolific artist, who has greatly influenced the generation of performance artists to follow. She developed her own particularly fluid language and style of working, and furthermore revolutionized the practice by incorporating video and single circuit video loops into her work. Her interest in world travel, different cultures, societal roles, the behaviours of children and animals, and in the environment were in the 1960s and still today remain the most significant of themes. Jonas has influenced both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abramovic_marina"&gt;Marina Abramovic&lt;/span&gt; and Pipilotti Rist, who share the older artist's long-standing interest in gender and sexuality. Richard Serra too credits Jonas for great involvement in the evolution of his artistic practice.</p>
+          <p type="p">Indeed, Jonas acts as a major influence for contemporary artists working in the realms of performance and video across the globe. Ian White - whose work examines personal relationships, choreography, and theatre - is heavily inspired by Jonas. White had an exhibition in 2018 at the Camden Arts Centre, where he presented his series all about the 'absence of the performer'. Much like Jonas's &lt;i&gt;My New Theater&lt;/i&gt; works, White sought to explore the ephemeral nature of life without the need for the artist performer to be present.</p>
+          <p type="p">Most importantly, as a statement of Jonas's important legacy, her recent Tate exhibition was the first performance-related retrospective to be held at this major institution. It is difficult to present to audiences an art that at its very core endeavors to shows life in motion, and asserts the idea that all is transient and forever changing.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <artworks>
+    <artwork>
+      <title>Mirror Piece I</title>
+      <year>1969</year>
+      <materials>Performance</materials>
+      <desc>
+				In &lt;i&gt;Mirror Piece I&lt;/i&gt;, Jonas along with other female performers employs mirrors as props in which they slowly perform a series of choreographed movements in front of a live audience. The work immediately recalls the work of fellow artists Ana Mendieta and Francesca Woodman, but while these two artists performed only for their camera, the audience is crucial for Jonas. Indeed, in the Jonas version of this way of assessing identity, the mirrors reflect not only the bodies of the performers, but also, and just as importantly, the audience members themselves. Indeed, by using very large mirrors that could easily break if not handled correctly, Jonas sought to create an unsettling feeling. When asked about the use of the mirror in her work, Jonas has commented that she "was interested in how an audience might feel uneasy as they were caught looking at themselves in the performance. In a way, narcissism is the nature of the medium."
+				&lt;br/&gt;&lt;br/&gt;
+				This interest in narcissism, in the fabric of selfhood, remains an equally crucial focus today as it was in 1969. The work was re-staged in 2018 at the Tate Modern exhibition, and Jonas has said of such re-envisioning that she continues to find new layers and meaning in her work. As part of a larger series of other &lt;i&gt;Mirror Pieces&lt;/i&gt;, this family of works is used as a tool to confront viewers on the subject of voyeuristic social standards placed upon women in western society.
+			</desc>
+      <collection>Photo documentation in the Guggenheim collection</collection>
+    </artwork>
+    <artwork>
+      <title>Organic Honey's Video Telepathy</title>
+      <year>1972</year>
+      <materials>Video Performance</materials>
+      <desc>
+				Jonas's performance-based practice was revolutionized and invigorated in 1970 when - while visiting Japan - she bought her first hand-held video camera. Upon returning home she started to play and experiment with the capabilities and limits of this new portable technology. Using the camera, a TV screen, and a live video feed, she created her first video performance: &lt;i&gt;Organic Honey's Video Telepathy&lt;/i&gt;. In this performance, Jonas performs as herself, as well as a masked alter ego double, Organic Honey. Much like a character from a Claude Cahun performance or a Cindy Sherman film still, Honey, dressed in a costume and doll mask, stood for the artists' questioning of fixed identity, narcissism, and womanhood. Mirrors and reflected mirrored images were used on a technical level for spatial layering, as well as on the level of meaning to separate Jonas from Honey, and paradoxically to unite the two together. By using props including robes, fans, and headdresses, a curator at the Dia Art Foundation suggests that Jonas "foregrounds emblems of female identity."
+				&lt;br/&gt;&lt;br/&gt;
+				This work marks a cornerstone for Jonas in a long lineage of performances that discuss and question women's issues, body image, and societal demands placed on the female. She comments that this questioning, and indeed the work itself, came about at a time when she was an active part of a women's group; "It had a big effect on my life. The whole [women's liberation] movement did. Our group was small. We had a lot of pent-up anger about the whole situation. [We went in for] self-examination, and for revealing intimate aspects of one's sensibilities. &lt;i&gt;Organic Honey's Visual Telepathy&lt;/i&gt; was all about asking the question: what is the feminine? I was concerned with the roles women play". Furthermore, it is interesting that the words "organic" and "telepathy" creep into the title of this work. By using the word "organic" Jonas reveals her love of the earth and desire to nurture and protect its gifts. And by introducing "telepathy", she infers that there is some sort of spiritual and magical faculties at work in her examination of self.
+			</desc>
+      <collection>MACAB Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Juniper Tree</title>
+      <year>1976</year>
+      <materials>Installation and Performance</materials>
+      <desc>
+				The&lt;i&gt; Juniper Tree&lt;/i&gt; installation was first created in 1976, and has since been recreated in both 1994 and 2018. The work explores Jonas's love of folklore and of fairy tales. The work is her reinterpretation of the tale of the same name taken from the first volume of the Brothers Grimm fairy tales. The story begins with a woman wishing for a child "as red as blood and as white as snow", while standing by the juniper tree where she would eventually be buried. After giving birth to a boy, she dies and her husband re-marries and has a daughter. The step-mother, jealous of the step-son, kills him and serves his remains to his father in a stew. The son is then reincarnated into a bird and gets his revenge on his stop-mother by crushing her with a millstone. Upon the stepmother's death, the son is reborn and reunited with his father and half-sister.
+				&lt;br/&gt;&lt;br/&gt;
+				This work became an important transitional work for Jonas, in that she uses paint, the practice of drawing, as well as narrative and text to represent the symbols and motifs in the story. In the process of performing the work, she would make ritualistic and totem-like paintings, working on an installation stage-set filled with props and music. The documentation of this installation would then be added to following recreations, including sound, all serving to further layer and add to the rich narrative, symbolism, and imagery.
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, Jonas is particularly interested in how fairy tales change slightly as they are passed from one generation to the next. She is also interested in the extreme casting of the "good" or "evil" woman. In her performance, Jonas takes on multiple roles, that of the wise woman, the storyteller, and the evil woman, asserting to an audience that life is not easy to define, and human actions not easy to predict. Artist Kiki Smith shares a similar passion for fairytales and often re-envisions the classic: Little Red Riding Hood.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>My New Theatre 1: Tap Dancing</title>
+      <year>1997</year>
+      <materials>Video Sculpture</materials>
+      <desc>
+				Jonas's performative practice developed organically and led her to consider how to make performance works that could still operate while she herself was not present. &lt;i&gt;My New Theatre 1: Tap Dancing&lt;/i&gt; presents a film of the feet of a tap and ballet dancer moving through different choreography. The film is shown on a small screen, or projected, at the back of a long wooden rectangular structure, which stands on two sets of wooden legs. The structure is entirely plain on the outside, but inside, as well as the film playing, there is a miniature set placed before the moving image; the set is composed of objects that is some way bare resemblance to the happening on the film. Visually, the works take viewers directly back to iconic artworks made by the Surrealists. The collection of delicately placed curiosities recalls the intimate and magical boxes of Joseph Cornell, and the overall placement of disparate objects side by side, as well as playing with notions of scale, reminds one strongly of the dreamlike visions of Renée Magritte.
+				&lt;br/&gt;&lt;br/&gt;
+				In discussion with art critic Robert Ayers, Jonas comments that her theatre boxes are "an extension of the studio. It's as though you are looking into a miniature world. That's the indoor space, and then I also include landscape space". Over time, the artist has built eight of these structures each with its own custom made video and internal small stage set, the latter including objects which mimic props used in Jonas's live performances. This notion of how performance art can exist without the performer is a constant theme at the core of the theatre box works. The new medium challenges the notion of what performance is. In an interview with the Tate, Jonas comments that she felt drawn to video so that her performance work would not simply "disappear" after its execution. Jonas's use of objects, and film, set the groundwork for new methods of documenting performance that would go on to change the medium. It was no longer only photographs that provided evidence of the act and of performative work, but now multi-layered fragments of documentation could be made available. This is not the case for earlier versions of work by the artist, including &lt;i&gt;Mirror Piece I&lt;/i&gt;, which can now only be studied through remaining photographs.
+			</desc>
+      <collection>Artist Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Reanimation</title>
+      <year>2010</year>
+      <materials>Video Installation with Performance</materials>
+      <desc>
+				&lt;i&gt;Reanimation&lt;/i&gt; brings together many of the elements of multi-layered materials and meanings which Jonas has explored throughout her practice. Jonas comments that her interest in layers stems from "the way our brains function. We think of several things at the same time. We see things and think another, we see one picture and there's another picture on top of it. I think in a way my work represents that way of seeing the world - putting things together in order to say something." In this spirit, holding up a mirror to our multi-faceted brain, &lt;i&gt;Reanimation&lt;/i&gt; is composed of four video screens that show snowy mountain peaks and other views of Nordic landscape. The screens are situated in a fabricated 'house', in which there are also two benches, a frame with handing mirrored balls, two wooden theatre boxes, fifteen ink drawings, two paintings, a soundtrack, and a voice recording using excerpts from Norwegian novels. Then, as if that was not enough to absorb, Jonas herself performs in the space, wearing masks, robes, and using various props. Ice cubes melt as the artist moves rhythmically around the room wafting sheets of fabric to catch and reflect the light of the mirrored balls.
+				&lt;br/&gt;&lt;br/&gt;
+				The artist's experiences whilst travelling in Iceland and Norway have inspired many of the elements of this piece. Travelling has always been a major part of Jonas's practice, with the inclusion of other cultural dance and theatre traditions appearing both in very early works, and in pieces being made today. The artist has lived and worked in many different countries and endeavors to learn from all people. This particular work originally started as a performative demonstration, which was then reworked and added to over a three-year period, becoming equally poetic, as it is political. The piece pays close attention to landscape and to the environment through the lens of human interaction. It celebrates the beauty of glaciers and of nature, but at the same time mournfully highlights that these glaciers are now melting and that disaster will ensue if human beings to not do better. In fitting line with the Northern European chill and aesthetic, the work well deserves the bombastic title of a &lt;i&gt;Gesamtkunstwerk&lt;/i&gt;.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Stream or River, Flight or Pattern</title>
+      <year>2016-17</year>
+      <materials />
+      <desc>
+				&lt;i&gt;Stream or River, Flight or Pattern&lt;/i&gt; documents how travel simultaneously functions as a form of research and as a source of inspiration for Jonas. The work features a series of three films showing a montage of diverse settings including Japan, Greece, Morocco, India, Germany, the Netherlands, Norway, Poland, Hungary, and Ireland. The videos reveal snapshots of locations filmed on the move, as well as scenes of Jonas painting with long brushes through the reflection of a mirror. She comments in an interview with the Tate that she "is very inspired by travel, by seeing new things and new places. In &lt;i&gt;Stream or River, Flight or Pattern&lt;/i&gt;, I travelled quite a bit during the year that I was making that. In all the places I had my camera, and I would record things that interested me. Not just anything, but I was interested in birds for instance, and trees and rituals, that are in the video. That's how I stay inspired."
+				&lt;br/&gt;&lt;br/&gt;
+				This work uses the elaborate language built over the years of a long career, using mirrors and reflections, drawing without looking (paying homage to the Surrealist technique of automatism), assessing the very nature of performance itself and in turn how to document such, and all the while staying focused on the pinnacle importance of one's surrounding environment. Jonas explores different cultures, embraces ritual, and adds fairy tales to her travelling performance. Her paintings are made within the work while utterly immersed in nature, for example travelling to bird sanctuaries and redwood forests to find idyllic locations. Two curators who worked closely alongside Jonas during the course of the major Tate retrospective have commented, "Joan is always moving back and forth and remaking, rearranging, so there's this live culture that's inherent to how she thinks." In a social and political climate where global warming and immigration are hot topics, this work explores Jonas as a citizen of the world and her positive, thoughtful impact upon it.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>serra_richard</entity>
+        <entity alt="Trisha Brown">brown_trisha</entity>
+        <entity>rainer_yvonne</entity>
+        <entity alt="Steve Paxton">paxton_steve</entity>
+      </column>
+      <column>
+        <entity>smithson_robert</entity>
+        <entity>graham_dan</entity>
+        <entity>anderson_laurie</entity>
+        <entity alt="Jason Moran">moran_jason</entity>
+      </column>
+      <column>
+        <entity>performance_art</entity>
+        <entity>feminist_art</entity>
+        <entity>video_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Ian White">white_ian</entity>
+        <entity>nauman_bruce</entity>
+        <entity alt="Marina Abramovic">abramovic_marina</entity>
+        <entity alt="Pipilotti Rist">rist_pipilotti</entity>
+        <entity>smith_kiki</entity>
+      </column>
+      <column>
+        <entity>anderson_laurie</entity>
+        <entity>serra_richard</entity>
+      </column>
+      <column>
+        <entity>performance_art</entity>
+        <entity>installation_art</entity>
+        <entity>video_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Joan Jonas</title>
+          <link>3777429791</link>
+          <info>By Haus de Kunst</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas: I Want to Live in the Country (and Other Romances)</title>
+          <link>1846380251</link>
+          <info>By Susan Morgan</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas: In the Shadow a shadow. The Work of Joan Jonas</title>
+          <link>0980024285</link>
+          <info>By by J. Simon, J. Burton, B, Clausen, and D. Crimp</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas is on Our Mind</title>
+          <link>0982503385</link>
+          <info>By Frances Richard</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas - They Come To Us Without A Word</title>
+          <link>1941366074</link>
+          <info>By U.M. Bauer, A. Reynolds, M. Warner, P. Ha.</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas: Performances Film Installations 1968-2000</title>
+          <link>3775709770</link>
+          <info>By Johann-Karl Schmidt</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas</title>
+          <link>8881586592</link>
+          <info>By M. Warner, A. Daneri, and A. Ratti</info>
+        </entry>
+        <entry>
+          <title>PAJ (May 2014) - Performance Drawings (PAJ: A Journal of Performance and Art)</title>
+          <link>B00NF29O2A</link>
+          <info>By B. Marranca, M. O'Hara, T. Orrici, and J. Bokaer</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Perform (Artworks)</title>
+          <link>0500930066</link>
+          <info>By Jes Hoffmann and Joan Jonas</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas</title>
+          <link>0854328106</link>
+          <info>By Joan Jonas</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas: Timelines - Transparencies in a Dark Room</title>
+          <link>8489771448</link>
+          <info>By Joan Jonas</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas: The Shape, The Scent, the Feel of Things</title>
+          <link>0944521541</link>
+          <info>By Joan Jonas</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Five Things to Know: Joan Jonas</title>
+          <link>http://www.tate.org.uk/art/artists/joan-jonas-7726/five-things-know-joan-jonas</link>
+          <info>
+						Written by The Tate
+						&lt;br&gt;
+						2018
+					</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas</title>
+          <link>http://www.tate.org.uk/whats-on/tate-modern/exhibition/joan-jonas</link>
+          <info>
+						Exhibition Outline at The Tate
+						&lt;br&gt;
+						2018
+					</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas Is Taking Over Tate Modern With a Headline Performance</title>
+          <link>https://news.artnet.com/exhibitions/joan-jonas-headlines-tate-moderns-second-annual-live-exhibition-1243256</link>
+          <info>
+						Written by Naomi Rea
+						&lt;br&gt;
+						March 14&lt;sup&gt;th&lt;/sup&gt; 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Mirror mirror; Joan Jonas on the fairytales that have cast a spell over her 50 year career</title>
+          <link>https://www.theguardian.com/artanddesign/2018/mar/22/joan-jonas-exhibition-tate-modern-london</link>
+          <info>
+						Written by The Guardian
+						&lt;br&gt;
+						March 22&lt;sup&gt;nd&lt;/sup&gt; 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Joan Jonas</title>
+          <link>https://www.interviewmagazine.com/art/joan-jonas</link>
+          <info>
+						Written by R.H Quayman
+						&lt;br&gt;
+						December 10&lt;sup&gt;th&lt;/sup&gt;, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="video interviews" class="interviews">
+        <entry recommended="true">
+          <title>Video Interview with Tate Shots about her 2018 Exhibition</title>
+          <link>https://www.youtube.com/watch?v=rzp6Ehnxq34</link>
+          <info />
+        </entry>
+        <entry>
+          <title>BMW Tate Life Performance of and a livestreamed Q&amp;A</title>
+          <link>https://www.youtube.com/watch?v=exARgsB0pkM</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Louisiana Channel Interview "Advice to the Young"</title>
+          <link>https://www.youtube.com/watch?v=HaV9SHMRrTA</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Art21 Interview with Jonas on her early performances</title>
+          <link>https://www.youtube.com/watch?v=E6wI33GTnf0</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Joan Jonas: Reanimation</title>
+          <link>https://www.youtube.com/watch?v=C03dxPcZEas</link>
+          <info>Trailer. Directed by Michael Blackwood</info>
+        </entry>
+      </subcategory>
+      <subcategory name="archived video performances" class="clips">
+        <entry>
+          <title>Two Archived Videos of Art21 Interviews with Jonas discussing her performances and studios</title>
+          <link>https://www.moma.org/artists/2930</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Electronic Arts Intermix catalogue of archived video performances</title>
+          <link>https://www.eai.org/artists/joan-jonas/titles</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Draw without Looking performance 2013</title>
+          <link>https://www.tate.org.uk/research/publications/performance-at-tate/resources/films-and-videos/joan-jonas</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Joan Jonas "Instruction" Performance</title>
+          <link>https://www.youtube.com/watch?v=K1jDgfIwOco</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Reanimation Performance 2014</title>
+          <link>https://www.youtube.com/watch?v=aJ7uME3LbGc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Layers of Time Performance</title>
+          <link>https://vimeo.com/161898589</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

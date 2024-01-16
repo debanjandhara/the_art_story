@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>pissarro_camille</id>
+    <name>Camille Pissarro</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1851 - 1903</years>
+    <description>Pissarro Impressionist canvases offer day-to-day life of French peasants and empirical studies of nature under different conditions of light and atmosphere.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>5</highlight>
+    <occupation>Painter and Printmaker</occupation>
+    <nationality>Danish-French</nationality>
+    <birthDate>July 10, 1830</birthDate>
+    <birthPlace>St. Thomas, Danish West Indies</birthPlace>
+    <deathDate>November 13, 1903</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <pub_time>12/25/2014</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>impressionism</include>
+    <include>naturalism</include>
+  </includes>
+  <similar_movements>
+    <movement>impressionism</movement>
+    <movement>naturalism</movement>
+    <movement>post_impressionism</movement>
+    <movement>realism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>monet_claude</artist>
+    <artist>cezanne_paul</artist>
+    <artist>seurat_georges</artist>
+    <artist>degas_edgar</artist>
+    <artist>cassatt_mary</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"It is only by drawing often, drawing everything, drawing incessantly, that one fine day you discover to your surprise that you have rendered something in its true character."</q>
+    <q>"Everything is beautiful, all that matters is to be able to interpret."</q>
+    <q>"Don't be afraid in nature: one must be bold, at the risk of having been deceived and making mistakes."</q>
+    <q>"Paint the essential character of things."</q>
+    <q>"Work at the same time on sky, water, branches, ground, keeping everything going on an equal basis...Don't be afraid of putting on color...Paint generously and unhesitatingly, for it is best not to lose the first impression."</q>
+    <q>"[we Impressionists were like] mountaineers roped together at the waist."</q>
+    <q author="Paul Cézanne">"Pissarro was like a father to me: he was a man you turned to for advice, and he was something like &lt;i&gt;le bon Dieu&lt;/i&gt;."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>The only painter to exhibit in all eight &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt; exhibitions organized between 1874 and 1886, Camille Pissarro became a pivotal artist and mentor within the movement. While the Impressionists are known for their depictions of city streets and country leisure, Pissarro covered his canvases with images of the day-to-day life of French peasants. His greatest work joins his fascination with rural subject matter with the empirical study of nature under different conditions of light and atmosphere, deriving from intense study of French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt;. Like those of his Impressionist cohorts, his paintings are delicate studies of the effect of light on color in nature. However, he continually sought out younger, progressive artists as colleagues, and his articulation of scientific color theory in his later work would prove indispensable for the following generation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; painters.</synopsys>
+    <key_ideas>
+      <idea>Pissarro's earliest artistic studies were carried out in Paris, France, and Caracas, Venezuela. In Paris, his artistic education stressed an empirical Realism that carried through his entire career; in Caracas, he studied nature and peasant life under tropical conditions, focusing on the effects of light on color, which he would help theorize as a key Impressionist theme.</idea>
+      <idea>Pissarro's art cannot be divorced from his politics. Influenced artistically by the Realist painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, Pissarro's paintings dignify the labor of peasants in communal villages, reflecting the socialist-anarchist political leanings that the two artists shared.</idea>
+      <idea>Pissarro, working closely with the younger &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-impressionists&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-signac_paul"&gt;Paul Signac&lt;/span&gt; late in his life, was one of the earliest artists to experiment with color harmonies. In his canvases, complementary colors in broken, dashed brushstrokes weave together to heighten the vibrancy of his compositions. In doing so, they visually embed his peasant figures harmoniously into the landscapes to which they belong and which belong to them, communicating a symbolic link to their terrain largely absent from Impressionist painting.</idea>
+      <idea>Unlike the Impressionists who lived in Paris, Pissarro chose to live most of his life in the French countryside, where he received younger artists interested in studying his techniques. More than any other member of the movement, he is known for the gentle demeanor and passion for experimentation that made him an artistic mentor. His longtime collaboration with the young Cézanne, for example, made him an indispensable influence on 20&lt;sup&gt;th&lt;/sup&gt;-century modernism.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Jacob Abraham Camille Pissarro was born to a Jewish-Portuguese family and grew up in St. Thomas in the US Virgin Islands, then the Danish West Indies. His parents, Frederic Pissarro and Rachel Petit, owned a modest general hardware business and encouraged their four sons to pursue the family trade. In 1842, Pissarro was sent away to a boarding school in Passy near Paris, France, to complete his education. His artistic interests began to emerge thanks to the school's headmaster, Monsieur Savary, who encouraged him to draw directly from nature and to use direct observation in his drawings, empirically rendering each object in its truest form. At age 17, Pissarro returned to St. Thomas to immerse himself in the family business; however, the artist quickly tired of mercantile pursuits and continued to draw ship scenes in his leisure time at the shipping docks.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">In the early 1850s, Pissarro abandoned the family business after meeting the Danish painter Fritz Melbye, following Melbye to Caracas, Venezuela, and committing himself to becoming a painter. This act signals a dedicated independence that Pissarro would never abandon in his career; largely if not entirely self-taught, Pissarro was uncompromising in his commitment to his art, a major factor that contributed to his persistent poverty. By 1855, Pissarro had returned to Paris, where he was exposed to the artwork of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daubigny_charles_francois"&gt;Charles-François Daubigny&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-millet_jean_francois"&gt;Jean-François Millet&lt;/span&gt; at the Exposition Universelle and where he began attending private classes at the École des Beaux-Arts in 1856. He began working with Corot, who encouraged him to submit to the Salon. Taking classes at the Academie Suisse in 1859, Pissarro met Cézanne, who would become one of his closest lifelong friends. In 1861, Pissarro registered as a copyist at the Musée du Louvre, and around this same time he met Julie Vellay, the daughter of a vineyard owner in the Burgundy region. They married in London in 1871, eventually having eight children. His daughter Jeanne-Rachel (nicknamed "Minette") grew ill and died of tuberculosis in 1874 at the age of eight, an event that deeply impacted Pissarro, leading him to paint a series of intimate paintings detailing the last year of her life.</p>
+          <p type="p">Pissarro began submitting to the Salon in the late 1860s. His landscapes of that decade reflect his profound knowledge of and exposure to the compositional techniques of the eighteenth-century French masters. However, it was in these years that Pissarro also grew close with the Impressionist circle. Keeping a studio in Paris, he preferred to spend his time in Louveciennes, a rural region about 12 miles west of Paris favored by the Impressionists. There, distanced from the urban environment, he painted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;, depicting peasant subjects in natural settings and focusing on light effects and atmospheric conditions created by the change of the seasons. These new concerns in his art resulted in a more purely Impressionist mature style. Though Pissarro had work accepted at the official Salon in 1859, he would exhibit at the Salon des Refusés with Édouard Manet's dissident circle in the 1860s, an important antecedent to his contributions to the first Impressionist exhibition in 1874.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Camille Pissarro Photo" show="1">/images20/photo/pissarro_camille_2.jpg</p>
+          <p type="p">The first half of the 1870s is considered the height of Pissarro's career, when he completed some of his most significant pieces, including &lt;i&gt;Hoar Frost, the Old Road to Ennery, Pointoise&lt;/i&gt; (1873). Several personal developments contributed to the sophisticated output of his mature period. From 1870 to 1871, he fled to London to escape the chaotic events of the Franco-Prussian War and the Paris Commune, during which time the majority of his earlier works were destroyed. In London, Pissarro was introduced to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and the two grew to favor &lt;span class="marked_text chart-tooltip-target-top tooltip_id-turner_jmw"&gt;J.M.W. Turner&lt;/span&gt;'s work exhibited at the National Gallery. Daubigny introduced them to the art dealer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durand_ruel_paul"&gt;Paul-Durand Ruel&lt;/span&gt;, who would later serve as Pissarro's agent in France. Having returned to Paris, Pissarro and Monet organized the first Impressionist exhibition in 1874 at the photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Nadar&lt;/span&gt;'s gallery. Though the exhibition was met with harsh criticism and confusion from viewers, Pissarro's contributions received the more thoughtful commentary from writer and art critic Philippe Burty, who noticed the stylistic rapport between the work of Pissarro and Millet. The critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duret_theodore"&gt;Theodore Duret&lt;/span&gt; would reiterate this in personal correspondence with Pissarro. Perhaps most importantly, Pissarro's professional and personal relationship with Cézanne reached its height in the mid-1870s when the two worked together, closely reexamining and reworking Pissarro's paintings from the 1860s.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="img" alt="Camille Pissarro Portrait" show="1">/images20/photo/pissarro_camille_3.jpg</p>
+          <p type="p">By the late 1870s, Pissarro's work revealed conflicting stylistic choices drawing him away from a purely Impressionist aesthetic. As Impressionism became more widely accepted, Pissarro worked to keep his art &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; and relevant by testing new theoretical concepts. He and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt; made prints together based on the compositional techniques used by Japanese woodblock engravers; he also began collaborating with the next-generation Neo-Impressionist painters Paul Signac and Georges Seurat in the mid-1880s. This affiliation with younger artists was due to both political and professional affinity. Aesthetically, Pissarro was interested in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pointillism"&gt;Pointillist&lt;/span&gt; technique espoused by these artists for its theoretical basis in color theory, a concept that resonated with his original exposure to empirical drawing as a child and his Impressionist fascination with the effect of light on color. Politically, he was a committed anarchist, and the color harmonies underpinning Pointillism, created by the juxtaposition of complementary colors, were linked in his mind to the utopian promise of social harmony achieved by the union of individuals in an anarchist society.</p>
+          <p type="p">Though the notion of Pissarro as a political painter is a contested one, events in his personal life bear out his deeply held affiliations. In 1894, after an Italian anarchist assassinated the French president, Pissarro briefly moved his family into exile in Belgium to avoid political persecution. Briefly thereafter, Pissarro fell out with his close friend Degas over the Dreyfus Affair (1894-1906), which began when the French government convicted the Jewish military captain Alfred Dreyfus of treason. When it was discovered that Dreyfus was innocent and that the government chose to cover up their mistake rather than admit their fallibility, the reaction in French society showed a tendency toward anti-Semitism that was intensely troubling to the Jewish Pissarro. Degas was among those whose latent anti-Semitism came to the fore in response to the scandal, to the extent that he would cross the street to avoid his former friend and artistic collaborator. Pissarro died before the Dreyfus Affair was ultimately resolved, but the polarizing incident magnified his dedication to social justice in his final years. He contracted a recurring eye infection late in life that negatively affected his ability to work outdoors, but he continued painting from the windows of his home and certain Parisian hotels. He died of sepsis, or blood poisoning, in 1903 and was survived by his wife and seven children.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Pissarro was greatly influenced by the Realist landscapists Corot, Courbet, and Millet and greatly influential to a host of younger painters. As a result, his body of work created a vital bridge between 19&lt;sup&gt;th&lt;/sup&gt;- and 20&lt;sup&gt;th&lt;/sup&gt;-century realism and abstraction, especially within the legacy of French modernist painting. His personal investment in the evolution of aesthetic technique contributed to significant developments in the later avant-gardes.</p>
+          <p type="p">In particular, Cézanne famously learned the Impressionist style in the early 1870s by copying a work of Pissarro's when the two were painting together in Louveciennes. It is not a stretch to say this relationship was a pivotal step on the long road that ended with Cézanne becoming the father of 20&lt;sup&gt;th&lt;/sup&gt;-century modernism. Their artistic interchange lasted for decades, and Cézanne, three years after Pissarro's death, identified himself in a retrospective exhibition as "Paul Cézanne, pupil of Pissarro." Specifically, Cézanne's work shows a willingness to construct a painting not only via the intense study of nature, but also through the manipulation of color to arrive at a "truer" visual image. Gauguin affectionately referred to the "intuitive" nature of Pissarro's art, and Gauguin's frank and naive rendering of French peasants in his early career and Tahitian villagers in his mature work owes to Pissarro's direct, unadorned depictions of the rural countryside.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="courbet_gustave">Burial at Ornans (1849)</artwork>
+    <artwork from="artist" page="monet_claude">Boulevard des Capucines (1873)</artwork>
+    <artwork from="artist" page="cezanne_paul">Mont Sainte-Victoire (c.1905)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>corot_jean_baptiste_camille</entity>
+        <entity>courbet_gustave</entity>
+        <entity>millet_jean_francois</entity>
+      </column>
+      <column>
+        <entity>monet_claude</entity>
+        <entity>cezanne_paul</entity>
+        <entity>seurat_georges</entity>
+      </column>
+      <column>
+        <entity>realism</entity>
+        <entity>impressionism</entity>
+        <entity>post_impressionism</entity>
+        <entity>japonism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>renoir_pierre_auguste</entity>
+        <entity>seurat_georges</entity>
+        <entity>signac_paul</entity>
+        <entity>sisley_alfred</entity>
+      </column>
+      <column>
+        <entity>degas_edgar</entity>
+        <entity>cassatt_mary</entity>
+        <entity>cezanne_paul</entity>
+        <entity>seurat_georges</entity>
+      </column>
+      <column>
+        <entity>pointillism</entity>
+        <entity>neo_impressionism</entity>
+        <entity>post_impressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Two Women Chatting by the Sea, St. Thomas</title>
+      <year>1856</year>
+      <materials>Oil on canvas</materials>
+      <desc>This painting was completed the year after Pissarro permanently relocated to France. The subject depicts two women walking along a seaside path in St. Thomas, the Caribbean island where he was born. The purple hills that extend from the left middle frame downward toward the ocean act as a dividing line in the background, demonstrating Pissarro's ability to merge the local color of the Caribbean with the gentle color palette of the Barbizon School, the group of French painters who first stressed the necessity of painting landscapes outdoors. Here, the tutelage Pissarro obtained on direct observation in his early studies in Paris allowed him to capture the effects of local, tropical light on an outdoor scene, prefiguring his future as a pivotal member of the Impressionist circle.</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Jalais Hill, Pointoise</title>
+      <year>1867</year>
+      <materials>Oil on canvas</materials>
+      <desc>Pointoise was Pissarro's intermittent home northwest of Paris from 1866 to 1883, where he received and mentored Cézanne and Gauguin, among others. Gauguin famously painted his early &lt;i&gt;Pissarro's Garden, Pontoise&lt;/i&gt; while staying with Pissarro in 1881. &lt;i&gt;Jalais Hill, Pontoise&lt;/i&gt; was lauded by the French author and cultural critic Emile Zola as an exemplary modern landscape depicting a "rare poem of life and strength" following its exhibition in the Salon of 1868. "This little valley, this hill have a heroic simplicity and forthrightness. Nothing would be more banal were it not so grand," Zola wrote of the manner in which Pissarro handled his rural subject matter. Indeed, the positive reception of the painting by critics and writers positioned Pissarro as an avant-garde painter in the second half of the 19&lt;sup&gt;th&lt;/sup&gt; century, though he would soon turn his back on the Salon entirely, choosing to exhibit with the "Independent" Impressionists.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Road to Versailles at Louveciennes</title>
+      <year>1869</year>
+      <materials>Oil on canvas</materials>
+      <desc>For a time in 1869, Pissarro settled in Louveciennes, a rural suburb approximately 12 miles west of Paris. It was during this time period that Pissarro developed his mature Impressionist style, which reached its height in the mid-1870s. In this early Impressionist effort, Pissarro captures a fleeting sensation of the winter season, constructing his composition through the use of quick dashes of color. The long shadows cast on the new-fallen snow by passersby explore the atmospheric effects of cold winter light. The freshness and thickness of the brushstrokes, most easily identified in the trees' branches and the colorful garments of the townspeople, are the sort of constructive building blocks Pissarro would eventually pass down to Cézanne. The more smoothly distributed paint of the sky and the snow-covered ground demonstrate Pissarro's transformation of Realist naturalism into what would become the experimental, rough Impressionist aesthetic.</desc>
+      <collection>The Walters Art Museum, Baltimore</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait</title>
+      <year>1873</year>
+      <materials>Oil on canvas</materials>
+      <desc>More than a simple fellow traveler of the Impressionist movement, Pissarro was known by his artistic colleagues as a collaborator and mentor. Because of his willingness to allow younger artists to live with him for long periods of time to study and paint, and perhaps also due to his role as a family man and father of his own brood of eight children, he was affectionately referred to as "Pere Pissarro." In this iconic self-portrait, he depicts himself as a wise and respected paternal figure with his famous beard and his lively, observant eyes, looking much like a grandfather or old sage, despite being only 43 at the time. Indeed, Cézanne once wrote to his friend, the art dealer Ambroise Vollard, "As for old Pissarro, he was like a father to me. He was a man to be consulted, rather like God."</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Hoar Frost, the Old Road to Ennery, Pointoise</title>
+      <year>1873</year>
+      <materials>Oil on canvas</materials>
+      <desc>Considered one of Pissarro's masterpieces, &lt;i&gt;Hoar Frost&lt;/i&gt; is one of five paintings he exhibited at the first Impressionist exhibition in 1874. Here, a peasant worker traverses a field in Pissarro's hometown at the time, Pointoise. The painting's emphasis on color harmony is an important antecedent to Neo-Impressionist techniques, but his true achievement is bringing a focus on composition to the Impressionist canvas. Cézanne famously said "We must make of Impressionism something solid like the art of the museum" in reference to the movement's lack of underlying structure. Cézanne's mentor Pissarro, however, used tilled fields crossed with foot-trampled paths and regularly spaced trees on a horizon to create a balanced composition. The cool color palette and offset vanishing point fall comfortably into the rhythm of the canvas, directing the viewer's attention to the wandering figure.</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Jeanne Holding a Fan</title>
+      <year>1874</year>
+      <materials>Oil on canvas</materials>
+      <desc>Pissarro's youngest daughter Jeanne-Rachel, nicknamed "Minette," died of tuberculosis at age eight after a short, sickly life. Though Pissarro painted portraits of his wife and children in great numbers, his matter-of-fact paintings of his daughter's slowly deteriorating health are among his most poignant. In this portrait, painted in the months preceding her death, Pissarro tellingly represents his daughter sitting inside near a heating stove rather than playing outdoors. She holds a Japanese fan: an object that at once suggests her own beauty, preciousness, and delicacy, as well as her father's love of Far Eastern art. Less an impression than a concrete representation of a loved one, Pissarro nonetheless incorporates some of the asymmetry of the Japanese woodblock prints that he and his Impressionist cohorts enjoyed into the composition of this painting, with the oddly angled chair and Minette's slightly off-center head tilt.</desc>
+      <collection>The Ashmolean Museum, University of Oxford, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Hay Harvest at Eragny</title>
+      <year>1887</year>
+      <materials>Oil on canvas</materials>
+      <desc>After 1884, Pissarro settled in Eragny, a rural village three miles south of Pontoise that became the subject of hundreds of his paintings. In the 1880s, Pissarro acted as both student and mentor to the Neo-Impressionists Signac and Seurat, and &lt;i&gt;Hay Harvest at Eragny&lt;/i&gt; (1887) shows the results of their collaborative experiments in tonal value and painting style. Notably, though several of the Impressionists grew away from the movement in the 1880s and beyond, Pissarro is the only one to move into the Neo-Impressionist style seen here. More than ever before, his short, dashed brushstrokes evince something akin to Pointillism, weaving together landscape and figure. Recalling the cloud sketches of British landscapist John Constable (1821-22) and prefiguring Monet's series of views of Rouen Cathedral (1892-93), Pissarro studied the effects of seasonal conditions on color, depicting the varying seasons and creating multiple paintings of the same subject at different points throughout the year. His painting is carefully structured by the semicircle of hay bales and the sharp diagonals of the workers' tools, which coax the eye to meander into the luminous fields in the distant background of the composition. While the clothing is that of the French countryside, the figures and their peaceful surroundings achieve a certain universality via the lack of recognizable landmarks and the anonymity with which Pissarro paints the peasants' facial features.</desc>
+      <collection>The Van Gogh Museum, Amsterdam</collection>
+    </artwork>
+    <artwork>
+      <title>Two Young Peasant Women</title>
+      <year>1892</year>
+      <materials>Oil on canvas</materials>
+      <desc>A late manifestation of Pissarro's favorite theme, this painting depicts two young, female peasants taking a moment away from their work. Facing one another, the women are shown from an offset viewpoint that catches one in profile and the other from slightly above. The sky that takes up as much as a third of the canvas in his other landscapes is compressed into ten percent of the painted space, and the receding foreground is flattened to near two-dimensionality behind the closely positioned figures. This atypical angle shows the effects of Pissarro's experimental foray into printing, where, with Degas, he explored the dynamic compositional techniques of Japanese woodblock printmakers like Hokusai (1760-1849) and Hiroshige (1797-1858). Pissarro used these techniques here to emphasize the laborers' value in society at a time when France, and especially Paris, was rapidly industrializing and modernizing. In doing so, Pissarro spent his later life focused on presenting the pastoral values of a rural life that were being slowly overturned.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Boulevard Montmartre, Afternoon Sun</title>
+      <year>1897</year>
+      <materials>Oil on canvas</materials>
+      <desc>Pissarro's career, which spanned nearly four decades in and around Paris, saw great changes in the makeup of the city. City planner Georges-Eugene Haussmann's renovation of the city (1853-70) broadened Paris's avenues, and the liberalization of Parisian labor laws during those years allowed for greater free time for the average citizen. As a devoted anarchist, Pissarro surely applauded this opening up of the everyman's creative leisure time. In this late-career hybrid of Pissarro's many artistic styles (Realism in its underlying composition and depiction of cloud formations; Impressionism in its snapshot quality; and Neo-Impressionism in its use of complementary colors to heighten visual sensation), he celebrates the city's modernity in one masterly canvas. On the main street in the neighborhood of Montmartre, a famed Impressionist haunt, Pissarro indicates a freedom of both physical and social mobility through his emphasis on the breadth of the street, the openness of the sky, and the bustle of the people and carriages that populate the City of Lights.</desc>
+      <collection>The Hermitage Museum, St. Petersburg</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Camille Pissaro</title>
+          <link>0810937247</link>
+          <info>By Joachim Pissarro</info>
+        </entry>
+        <entry>
+          <title>Pissarro</title>
+          <link>8415113420</link>
+          <info>By Richard R. Brettell, Joachim Pissarro, and Guillermo Solana</info>
+        </entry>
+        <entry recommended="true">
+          <title>Camille Pissarro: Impressions of City and Country</title>
+          <link>0300124791</link>
+          <info>By Karen Levitov and Richard Shiff</info>
+        </entry>
+        <entry>
+          <title>The Impressionist and the City: Pissarro's Series Paintings</title>
+          <link>0300053509</link>
+          <info>By Richard R. Brettell and Joachim Pissarro</info>
+        </entry>
+        <entry>
+          <title>Pissarro and Pointoise: The Painter in a Landscape</title>
+          <link>0300043368</link>
+          <info>By Richard R. Brettell</info>
+        </entry>
+        <entry>
+          <title>Pissarro's People</title>
+          <link>3791351184</link>
+          <info>By Richard R. Brettell</info>
+        </entry>
+        <entry>
+          <title>Pissarro, Neo-Impressionism, and the Spaces of the Avant-Garde</title>
+          <link>0226873242</link>
+          <info>By Martha Ward</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Camille Pissarro: Letters to His Son Lucien</title>
+          <link>0878466487</link>
+          <info>By Camille Pissarro, John Rewald, and Barbara Stern Shapiro</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Pioneering Modern Painting: Cézanne and Pissarro 1865-1885 at the Museum of Modern Art</title>
+          <link>http://www.moma.org/interactives/exhibitions/2005/cezannepissarro/</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Pissarro's People at the Clark Art Institute</title>
+          <link>http://www.clarkart.edu/exhibitions/pissarro/content/exhibition.cfm</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Camille Pissarro Slideshow at the BBC</title>
+          <link>http://www.bbc.co.uk/arts/yourpaintings/artists/camille-pissarro-5403</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Camille Pissarro at the National Gallery</title>
+          <link>http://www.nationalgallery.org.uk/artists/camille-pissarro</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Populating the Landscape With Idealism</title>
+          <link>http://www.nytimes.com/2011/08/05/arts/design/pissarros-people-at-clark-art-institute-review.html?pagewanted=all&amp;module=Search&amp;mabReward=relbias%3As%2C%7B%221%22%3A%22RI%3A11%22%7D</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						August 4, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Radical Eye of Impressionism's Patriarch</title>
+          <link>http://www.nytimes.com/2007/09/14/arts/design/14piss.html?module=Search&amp;mabReward=relbias%3As%2C%7B%221%22%3A%22RI%3A11%22%7D&amp;_r=0</link>
+          <info>
+						By Karen Rosenberg
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						September 14, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>The Innovative Odd Couple of Cézanne and Pissarro</title>
+          <link>http://www.nytimes.com/2005/06/24/arts/design/24cott.html?pagewanted=all&amp;module=Search&amp;mabReward=relbias%3As%2C%7B%221%22%3A%22RI%3A11%22%7D</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						June 24, 2005
+					</info>
+        </entry>
+        <entry>
+          <title>When Paul Met Camille</title>
+          <link>http://www.artnet.com/magazineus/features/tuchman/tuchman9-29-05.asp</link>
+          <info>
+						By Phyllis Tuchman
+						&lt;br&gt;
+						Artnet 
+						&lt;br&gt;
+						2005
+					</info>
+        </entry>
+        <entry>
+          <title>Pissarro: The Outsider in Constant Search of the New</title>
+          <link>http://www.nytimes.com/1995/02/24/arts/art-review-pissarro-the-outsider-in-constant-search-of-the-new.html?module=Search&amp;mabReward=relbias%3As%2C%7B%221%22%3A%22RI%3A11%22%7D</link>
+          <info>
+						By Michael Kimmelman
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						February 24, 1995
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Camille Pissarro: Jewish Impressionist Painter on the Leonard Lopate Show</title>
+          <link>http://www.wnyc.org/story/54725-camille-pissarro-jewish-impressionist-painter/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Camille Pissarro Art Lecture by Dr.Christian Conrad</title>
+          <link>https://www.youtube.com/watch?v=ES5_kkOxKvM</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Camille Pissarro - UCO 155 Documentary (Fall 2019)</title>
+          <link>https://www.youtube.com/watch?v=o-zHmohKtnw</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>"The Shepherdess" by Pissarro</title>
+          <link>https://www.youtube.com/watch?v=Rw6grv85JFA</link>
+          <info>Discussion with historian Ruth Mackenzie CBE</info>
+        </entry>
+        <entry>
+          <title>Bonhams Auction House on a Camille Pissarro painting</title>
+          <link>https://www.youtube.com/watch?v=x_Eumt1WP3I</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>veronese_paolo</id>
+    <name>Paolo Veronese</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1540 - 1588</years>
+    <description>Veronese is one of the most famous master painters and draughtmen of the late, Venetian Renaissance.</description>
+    <use_big_images>true</use_big_images>
+    <nationality>Italian</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>1528</birthDate>
+    <birthPlace>Verona, Italy</birthPlace>
+    <deathDate>April 19, 1588</deathDate>
+    <deathPlace>Venice, Italy</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <pub_time>11/20/2018</pub_time>
+  </main>
+  <includes>
+    <include>venetian_school</include>
+    <include>mannerism</include>
+    <include>high_renaissance</include>
+  </includes>
+  <similar_movements>
+    <movement>venetian_school</movement>
+    <movement>mannerism</movement>
+    <movement>high_renaissance</movement>
+    <movement>northern_renaissance</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>tintoretto</artist>
+    <artist>tiepolo</artist>
+    <artist>titian</artist>
+    <artist>giorgione</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I paint my pictures with all the considerations which are natural to my intelligence, and according as my intelligence understands them."</q>
+    <q>"We painters use the same license as poets and madmen."</q>
+    <q>"I believe that there was only Christ and his Apostles; but when I have some space left over in a picture I adorn it with figures of my own invention."</q>
+    <q>"I agree that it is wrong, but I repeat what I have said, it is my duty to follow the examples given me by my masters."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Regarded as something of a child prodigy, Veronese matured into one of the most famous masters of the late Renaissance. The artist belongs to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-venetian_school"&gt;Venetian School&lt;/span&gt; and, though he post-dates the period by a generation, he is often grouped with the glorious triumvirate of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tintoretto"&gt;Tintoretto&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giorgione"&gt;Giorgione&lt;/span&gt;. Veronese came into his own however as a superb colorist and painter of the elegant and grandiose - in both theme and scale - of narratives that conveyed their meanings through rich and fluid color schemes. The figures in his works are often described as having the subtle foreshortening of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-correggio"&gt;Correggio&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo's&lt;/span&gt; heroism and Veronese typically placed them against a painted architectural "stage" that was redolent of a city (Venice) that was (and still is) thought to resemble a magnificent living arena in its own right. Regardless of the often sacred nature of his subject-matter - Veronese was himself a devout Catholic - his paintings would often exude the worldly, playful atmosphere of 16th-century Venice. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruskin_john"&gt;John Ruskin&lt;/span&gt; once wrote that he learned from Veronese's pictures that "to be a first-rate painter, you mustn't be pious - but rather a little wicked and entirely a man of the world." Ruskin was referring to the gayety in Veronese's paintings which did not always meet with the approval of the ruling Church bodies. Veronese was however a man of principled resilience. This was demonstrated in his defence of artistic freedoms when faced with condemnation from an executive Holy Office committee.</synopsys>
+    <key_ideas>
+      <idea>Veronese is considered one of the Master colorists, sharing the company of the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Rubens&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rembrandt_van_rijn"&gt;Rembrandt&lt;/span&gt;. He is also typically aligned with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerists&lt;/span&gt;, the name given to successors of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt; who were less naturalistic - &lt;i&gt;more mannered&lt;/i&gt; - than the great Masters of the High Renaissance. The Mannerists produced stylistic compositions which showcased their preference for sophisticated elegance. Their style features gestural poses, unusual effects of lighting and perspective, and vivid colorization. However, Veronese was admired by many for his ability to bring a little more élan to his paintings which he achieved through his fluid harmony of tones and in his transitional rendering of chiaroscuro.</idea>
+      <idea>Veronese is celebrated for his ability to produce clear narratives through complex, intelligent, compositions that brim with brio and painterly effects. As the 17th-century Baroque painter Marco Boschini observed: Veronese "mixed gold with pearls, rubies, emeralds and sapphires of the best quality, and the purest and most perfect diamonds [and] to flavor it he scattered the flowers most gentle that come from the East with all of the most beautiful things that Nature can make with its colors." In that respect his painting can be seen to reflect the cosmopolitan gala mood of mid-to-late 16&lt;sup&gt;th&lt;/sup&gt; century Venice.</idea>
+      <idea>Veronese was a Counter (Protestant) Reformation painter. He was committed to the promotion of Catholic culture and the need to "restage" Christian parables was paramount to his mission. His sumptuous narratives, often tinged with an air of mischief, were typically set within dramatic architectural settings and horizontal picture-planes. Veronese sought to replicate a sense of "performance" in his tableaus and his attraction to the theater would also help explain his preference for luxurious costume dramas. The writer Henry James spoke indeed of Veronese's "glorious garments" that "rustle in the air of the sea" while adding that the "sun-lighted faces" of his gayly dressed characters wore "the very complexion of Venice."</idea>
+      <idea>When called on to do so, Veronese would adapt his style to promote his patron's vanity. Though they are considerably fewer in number than his theatrical paintings, Veronese produced some notable portraits of aristocratic figures. Building on the conventions of classical portraiture, Veronese would use splendid costumes and props in an attempt to build the most composite picture of his sitters. Thus, his portraits would typically feature a greater level of psychological realism which was further emphasized in the delicacy of chiaroscuro.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">The youngest of five siblings, Paolo Caliari, nicknamed Veronese after his birthplace, was born in 1528 in the Italian city of Verona, then a mainland province of the Republic of Venice. His father, Gabriele, was a stonecutter; his mother, Catherina, the illegitimate daughter of a nobleman called Antonio Caliari. He was born moreover in Verona's artists' quarter in the district of San Paolo, which may well have accounted for his parents' choice of Christian name. Paolo initially apprenticed under his father which meant he went for a time by his professional name too: Paolo Spezapreda ("Paolo the Stonecutter"). However, while working with his father, Paolo's precocious talent for drawing became apparent and, aged 14, his apprenticeship was transferred to the studio of a local master named Antonio Bandile (he would later marry Bandile's daughter). It is suggested in some unconfirmed accounts that he may have studied simultaneously in the workshops of Giovanni Francesco Caroto, from whom, he may have inherited his fascination with the application of color.</p>
+          <p type="img" alt="Antiquity and classicism contrast in the city of Verona (seen here in a miniature representation)" show="1">/images20/photo/photo_veronese_paolo_1.jpg</p>
+          <p type="p">Veronese's talent soon saw him exceed the standards usually demanded of Bandile's students. He had already moved away from the naturalistic tones of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;High Renaissance&lt;/span&gt; and started to develop his own preference for a more colorful, more expressive, palette. He assisted Bandile with altarpieces in 1543 and 1544 and sections of these works would already bear his signature style. Having seen Veronese's work on the altarpieces, Michele Sanmicheli, the architect of many important buildings in Verona, provided Veronese with his first important commission working on frescoes for the Palazzo Canossa (1545-46). Veronese moved briefly to Mantua in 1548 where he made the acquaintance of Giulio Romano, Raphael's principle pupil and assistant, and one of the pioneers of the Mannerist style, a style well suited to Veronese's penchant for painterly elegance. Veronese created frescoes in the city's Duomo (Roman Catholic Cathedral) before he left for Venice in 1552.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Self portrait painted between 1558 and 1563" show="1">/images20/photo/photo_veronese_paolo_2.jpg</p>
+          <p type="p">1553 was an important year for Veronese. Not only had he relocated to Venice, but his father died. He took the name Caliari from his mother in the hope that this would afford him greater access to the Venetian aristocracy, while he used the name "Veronese" predominantly for signing purposes and to draw attention to his place of birth. Working in Venice allowed him to take advantage of the new demand for Venetian painting stirred by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giorgione"&gt;Giorgione&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tintoretto"&gt;Tintoretto&lt;/span&gt;. Following in their esteemed footsteps, Veronese quickly received commissions from governing bodies including the Hall of the Council of Ten and confraternities like San Sebastiano.</p>
+          <p type="img" alt="Possible self portrait as a hunter from the Villa Maser (c.1560)" show="1">/images20/photo/photo_veronese_paolo_3.jpg</p>
+          <p type="p">It is unusual to talk of a painter's "Mature Period" starting in their mid-twenties. But such was Veronese's talent even &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt;, author of newly published &lt;i&gt;The Lives of the Most Eminent Sculptors, Painters, and Architects&lt;/i&gt; (1550), was taken by the fact that someone so young could have already made such an illustrious career for himself. Indeed, Veronese's first Venetian commission was his &lt;i&gt;Sacra Conversazione&lt;/i&gt; (&lt;i&gt;Holy Conversion&lt;/i&gt;) for the San Francesco della Vigna church in 1552. This was followed in 1553 by his first state commissions: ceiling paintings for both the Hall of the Council of Ten (Sala dei Cosiglio dei Dieci) and Doge's Palace (Palazzo Ducale), the latter being the supreme seat of power for the Venetian republic. He followed with a &lt;i&gt;History of Esther&lt;/i&gt; in the ceiling for the church of San Sebastiano and further works in the Ducal Palace and the Marciana Library sealed his standing as a Venetian Master.</p>
+        </subsection>
+        <subsection title="Late period">
+          <p type="img" alt="Exterior of the Villa Barbaro, near Maser. Photo from British Academy" show="1">/images20/photo/photo_veronese_paolo_4.jpg</p>
+          <p type="p">Veronese soon began receiving patronage from powerful aristocratic families such as the Barbaro family for whom he decorated the Villa Barbaro (their stately home near Maser). In the latter part of the 1550s, Veronese decorated the villa of Venice's most renowned architect Andrea Palladio. The collaboration between artist and architect was widely regarded as a triumph of art and design and Palladio would later describe Veronese in his &lt;i&gt;Four Books on Architecture&lt;/i&gt; (1570) as "the most excellent painter". For his part, Veronese referenced their professional ties by including Palladian buildings in his great masterpiece, &lt;i&gt;The Wedding at Cana&lt;/i&gt; (1563). Meanwhile, Veronese continued to work (as did Tintoretto) on restorations at Doge's Palace (Palazzo Ducale) during the 1560s and 1570s following a succession of serious fires. Veronese married Elena (Bandile's daughter) in 1566, welcoming their first of five children (fours sons; one daughter) in 1568. Veronese's mother Catherina had also moved to Venice by this time.</p>
+          <p type="p">Though a decade of great uncertainty for Venice, Veronese consolidated his status and strong family ties during the 1570s. In 1571, as part of the Holy League (that being a league comprised of the great Catholic maritime powers) Venice defeated the Ottoman Empire and Veronese named his only daughter, Vittoria, in honor of this victory in 1572. The resultant Counter Reformation, which saw a great resurgence in Catholic culture, was beginning to bring its influence to Venice. There was now less demand for erotic or mythological works and Veronese was called on to produce smaller devotional paintings. Between 1574 and 1577 major fires and plagues afflicted Venice (the plague claiming Titian in 1576) and Veronese began investing his substantial wealth in land and property. By the 1580s he had established a workshop with his sons and brother Benedetto and while initially the quality of the studio's work was considered uneven (at best), the workshop eventually began producing great works independently of its Master's hand. Veronese, who, incidentally had reverted to his proper name Paolo Caliari in 1575, died from pneumonia in 1588 and was buried in the Church of San Sebastiano, surrounded by his artistic contributions to the church.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="The Church of San Sebastiano in Venice, Veronese's resting place" show="1">/images20/photo/photo_veronese_paolo_5.jpg</p>
+          <p type="p">For at least a decade after his passing Veronese's family used sketches and drawings to complete more works from the studio signed under the name "Heirs of Paolo" while prints of Veronese's work were in high demand even during his own lifetime; something highly unusual for a living artist at that time. This allowed for his Mannerist style to be transported and admired far beyond its time and place of origin. Art historian Clare Robertson links Veronese for instance to the important French artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugene Delacroix&lt;/span&gt;, whose &lt;i&gt;Liberty Leading the People&lt;/i&gt; (1830) utilises dramatic lighting and references contemporary architecture in the manner of the Veronese tableau&lt;i&gt; The Wedding at Cana&lt;/i&gt;. Xavier F. Solomon, author of the National Gallery's catalogue on Veronese, meanwhile, has linked him to Flemish &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt; painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Peter Paul Rubens&lt;/span&gt; through his focus on narrative and luminous color as seen in works like &lt;i&gt;The Descent from the Cross&lt;/i&gt; (1612-14).</p>
+          <p type="p">It is also known that &lt;span class="marked_text chart-tooltip-target-top tooltip_id-velazquez_diego"&gt;Diego Velázquez&lt;/span&gt;, acquired Veronese's &lt;i&gt;Venus and Adonis&lt;/i&gt; (c.1580) at some point during his trip to Italy between 1649 and 1651, and, through an intricate composition of figures set in a rigid architectural setting, Veronese's influence can be traced in works such as &lt;i&gt;Las Meninas&lt;/i&gt; (1656). It is known too that in 1797 Napoleon had thought so highly of &lt;i&gt;The Wedding at Cana&lt;/i&gt; (1563) that he ordered his troops to roll up the canvas and transport it to Paris. It eventually took its place in the Louvre opposite the &lt;i&gt;Mona Lisa&lt;/i&gt; where it was admired, not only by Delacroix, but also by the poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt; who was moved enough to write about Veronese's "heavenly, afternoon colors."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="northern_renaissance">The Descent from the Cross (before 1443)</artwork>
+    <artwork from="artist" page="titian">The Assumption of the Virgin (1516-18)</artwork>
+    <artwork from="movement" page="venetian_school">Miracle of the Slave (1548)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Crowning of Esther</title>
+      <year>1556</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Shortly after arriving in Venice, the 25-year-old Veronese accepted a prestigious commission from the Prelate, Bernardo Torlioni, to work on the San Sebastiano ceiling. His painting shows an early point in the biblical story of Esther as she is crowned Queen by the Persian King Ahasuerus. Esther went on to save the Jewish people (from the evil Haman pictured in the lower-right of the painting) and this deliverance from destruction became the Jewish religious celebration of Purim.
+				&lt;br/&gt;&lt;br/&gt;
+				Ceiling paintings like this, the function of which was to provide the Church with historic narrations, iconographic images and decorative motifs, were not intended to be viewed at eye level. &lt;i&gt;De Sotto in su&lt;/i&gt; ("from below to above") describes a Renaissance painting technique which requires the foreshortening of figures with the effect (when seen from the ground up) that the figures are suspended in air. The "floating" figures here are complemented by Veronese's brilliant coloring which helps intensify the sacred nature of the painting and its decorative impact. Art historian Carlos Ridolfi saw this early work as emblematic of Veronese's style in the way it displayed the "kings richly adorned, the diversity of draperies" against a stage of "ornate architecture". Veronese's contract with San Sebastiano was renewed several times between 1558 and 1561 making it a most fitting building for his own funerary monument.
+			</desc>
+      <collection>San Sebastiano Church, Venice, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Muse with Lyre</title>
+      <year>1560-61</year>
+      <materials>Fresco</materials>
+      <desc>
+				Amongst Veronese's early patrons was the Barbaro family who commissioned him to decorate their villa - the Villa Barbaro - near Maser. Indeed, Veronese's ability to adapt his work to satisfy his patron's intellectual tastes is well displayed in &lt;i&gt;Muse with Lyre&lt;/i&gt;. To complement portraits of the Barbaro family, Veronese painted figures (or Muses) drawn from antiquity. The Muses were typically the Greek goddesses of the arts and sciences and they were often depicted with musical instruments including, but not limited to, the lyre.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Clare Robertson writes that these paintings would utilize a "pictorial language" to breathe "life into abstract personifications" though Veronese's painting displays an unusual level of realism. Despite his more contemporary approach - the Muse is less idealized here - the figure is nevertheless depicted in accordance with classical architectural motifs which helped to solidify the Villa Barbaro's lineage with Classical Greek civilization. As a medium fresco, the work required a very quick execution but Veronese rose to the challenge as evidenced through the Muse's radiant drapery; something of a rarity in a genre that typically appears paler than oil on canvas. At the same time, this work is an excellent example of the terraferma style which combined Venetian coloring with references to antiquity.
+			</desc>
+      <collection>Villa Barbaro, Maser, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>The Wedding at Cana</title>
+      <year>1563</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Wedding at Cana&lt;/i&gt; was commissioned by the Benedictine monks of San Giorgio Maggiore in Venice to hang in their new refectory designed by Andrea Palladio. The terms of Veronese's commission stipulated that he produce a painting of the wedding feast large enough to fill the entire refectory wall. It took Veronese 15 months to complete, probably with the help of his brother, Benedetto Caliari. The masterpiece is based on the Biblical story of Christ's first miracle, though the spectator is asked to work to find that particular parable within the bustle of this multi-layered, modern, painting. As Deanna MacDonald described it: "All this imaginative grandeur swirls around a single miracle. With this image Veronese achieves a delicate balance between worldliness and piety, placing the Son of God amidst the fashionable sophistication of Venetian society."
+				&lt;br/&gt;&lt;br/&gt;
+				Along with Mary and a few Apostles, Christ was invited to a wedding in Cana in the city of Galilee. During the course of the festivities the supply of wine is exhausted and, responding to Mary's request, Christ asked the servants to fill stone jars with water (here, depicted in the right foreground) and offer them to the master of the house (sitting in the left foreground) who discovers to his amazement (and joy) that the water has been turned to wine. This story is also a precursor to the Eucharist, which is alluded to by the servant sacrificing the "Lamb of God" in the upper tier just above Christ (who sits next to Mary at the centre of the vast banquet table).
+				&lt;br/&gt;&lt;br/&gt;
+				Veronese freely mixes the biblical with the contemporary. As one would expect, Jesus and Mary are surrounded by luminous auras. They are joined however by no fewer than 130 figures, and while some are clothed in biblical dress, others, in the words of MacDonald again, look "as if they had just walked in from Piazza San Marco." Indeed, featured amongst the "supporting players" - these include servants, jesters, dwarfs and even a parrot and cats and dogs - are Venetian nobles, and distinguished foreigners identified through their exotic dress. Figures including Mary I of England, Suleiman the Magnificent (the tenth Sultan of the Ottoman Empire) and Emperor Charles V are all featured amongst the guests. As MacDonald suggests, "Veronese's lush, vivacious style would at first seem inappropriate for such a pious subject." She points to fact that his preference for luminous color schemes was "designed to delight the eye" while there was always the hint of eroticism in his "supple, sensuous fabrics [that] suggest the body beneath." Veronese's willingness to push these conventions points to a sense of daring that comes through his desire to underscore the sacred with the profane.
+				&lt;br/&gt;&lt;br/&gt;
+				Though the story cannot be verified, it has become part of the painting's legend that the musicians in the centre foreground are none other than Veronese (in white with a viola da gamba). He is flanked by two other Venetian Masters, Titian and Bassano, while the figure examining the wine glass (to his left) is the poet and author, Pietro Aretino.
+			</desc>
+      <collection>Louvre Museum, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Daniele Barbaro</title>
+      <year>1565-67</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Portraits constituted only a small fraction of Veronese's body of work and for that reason they carry their own significance. Here sits Daniele Barbaro, head of an aristocratic family and one of Veronese's major patrons. His clothes infer his high status within local religious institutions and the texts on his desk display his learned nature. Nevertheless, Barbaro sits at an angle historically only reserved for Cardinals and Popes: "such regal pomp and circumstance, such majestic actions, such weight and decorous manner!" said art historian Marco Boschini of Veronese's portrait. The sitter's posture can be understood then as a projection of professional intent as Barbaro was the Patriarch elect of Aquileia (in a cruel twist of fate, he died in 1570 before taking up his position). The upright book is his work &lt;i&gt;La Practica della Perspettiva&lt;/i&gt; (1568) whose meaning is inferred by the painting's different picture planes. The volume in his left hand is his writing on Vitruvius' &lt;i&gt;De Architectura&lt;/i&gt; (c.30 BCE), featuring illustrations by Palladio, highlighting the strong links between the three men. The interplay between light and textiles is brightened by the dark background. Titian had painted a portrait of Barbaro and his influence of idealized portraits incorporating psychological insight is seen here. Solomon notes that Veronese's portrait marked a "progress towards a more complex kind of portraiture in which the magnificent costumes and painterly effects were balanced with a deeper psychological representation".
+			</desc>
+      <collection>Rijksmuseum, Amsterdam, Holland</collection>
+    </artwork>
+    <artwork>
+      <title>The Family of Darius Before Alexander</title>
+      <year>1565-67</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This historical painting depicts Alexander the Great receiving the family of King Darius III of Persia, having just defeated him in battle. King Darius' mother, Sisygambis, kneeling in the centre of the painting, mistakes Alexander's friend and aide Hephaestion (probably having been taken in by the finery of the counsellor's dress) for the victorious monarch. This potentially grave insult is overlooked by Alexander in a demonstration of benevolence and nobility. Veronese's interpretation of the scene is subtly ambiguous, and the spectator can be forgiven for thinking that Hephaestion is indeed Alexander. However, most of the figures are elegantly dressed in the modern Venetian fashion while the victorious Alexander, who is clad rather in heroic armour, belongs to the origins of classical historical painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Like so many of Veronese's paintings, the architectural surroundings are constructed to form a tableau with the low horizon helping replicate the experience of watching a popular stage production. Indeed, Veronese has exaggerated the drama of the scene by setting events in the grounds of a palace (rather than in a war tent). He further forgoes any obligation to naturalism by dressing his figures - or "players" - in ostentatious clothing. No less a writer than Johann Wolfgang von Goethe defended the painting's sartorial extravagance when he commented that "Once it is understood that Veronese wanted to paint an episode of the sixteenth century, no one is going to criticize him for the costumes."
+				&lt;br/&gt;&lt;br/&gt;
+				The fact that Venice was at that time a major center of global trade meant that it imported a wide array of raw materials used in the production of paints. We can say then that the fact that Veronese is regarded as such a supreme colorist can be attributed, in part at least, to his milieu.
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Venus and Mars</title>
+      <year>c. 1570</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Venus and Mars&lt;/i&gt; depicts a scene from Ovid's &lt;i&gt;Metamorphoses&lt;/i&gt; (8 AD) in which the Greek God of love and beauty, Venus, seduces the God of War, Mars. Venus is accompanied by two putti - or cupids - serving as guarantors of the tryst. They ensure this by calming Mars' warhorse (with his own sword) and by tying a ribbon of love around Venus' leg. According to myth, moreover, a daughter, Harmonia, resulted from their union.
+				&lt;br/&gt;&lt;br/&gt;
+				This was one of three mythological love scenes commissioned by Emperor Rudolf II of the Holy Roman Empire. He was seeking to rival a collection by Titian held in Madrid by Rudolf's uncle King Philip II. Scenes depicting the foibles of the gods were very popular at the times (so much so in fact that Veronese returned to this scene with &lt;i&gt;Venus, Mars and Cupid&lt;/i&gt; of 1580). The key theme of this painting however is one of harmony through transformation - chastity transformed by love into charity - a theme highly revered by Emperor Rudolf who was known to surround himself with alchemists. Venus's love is a soothing kind of love and it transforms Mars by nullifying his aggression. Indeed, despite his protective armor, Mars is unable to resist Venus's breast milk which is itself a symbol of maternity and prosperity. Art historian Lawrence Gowing has noted in his analysis of &lt;i&gt;Venus and Mars&lt;/i&gt; that Veronese had suggested the theme of transformation too in the way he "established the harmony of natural tones in place of the modelling in dark and light that remained the method of academic chiaroscuro."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Feast in the House of Levi</title>
+      <year>1573</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In his analysis of &lt;i&gt;Venus and Mars&lt;/i&gt;, Gowing suggested that Veronese's "bright outdoor harmonies enlightened and inspired the whole nineteenth century" and that it was Veronese who had laid the very "foundation of modern painting." One might find further evidence for that argument in his most scandalous religious painting, &lt;i&gt;Feast in the House of Levi&lt;/i&gt;. Veronese was commissioned in 1573 by the convent of Basilica di Santi Giovanni e Paolo to produce a painting of the Last Supper. It was intended to replace Titian's &lt;i&gt;The Last Supper&lt;/i&gt; (1542-4) which had been destroyed in a refectory fire two years earlier. However, the finished work very quickly alerted the suspicions of the Holy Office, which summoned Veronese to defend the principles of artistic liberty.
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;House of Levi&lt;/i&gt; relies on a hierarchical composition fitting for its religious subject matter (recalling in many ways &lt;i&gt;The Wedding at Cana&lt;/i&gt; produced some ten years earlier). The middle section in which Christ sits is defined as a sacred space, with the staircases to the sides, and the luminous white table covering, drawing the spectator's eye to him. Veronese divides the painting into thirds through the device of the architectural arc, and overall, the composition acts to emphasize Christ's eminence at the very center of the narrative. We can see too a sliding shade of red in the costumes which grow richer the closer we get to Christ: further evidence of Veronese's use of a Venetian palette to manipulate the spectator's eye.
+				&lt;br/&gt;&lt;br/&gt;
+				Jesus has been invited to attend a banquet with his disciples but he is joined at the feast by tax collectors and other sinners. When questioned about his choice of company, Jesus explains to his followers that he did not seek out the company of the already pious but rather those he considered to be poised for salvation. It was not, of course, this element of the painting that caused offence. The Holy Office had objected to the painting on grounds of its irreverent details and what was perceived of as Veronese's playful treatment of this most holy of biblical parables. The panel objected to the inclusion of a series of what we might call (given what we have seen previously in works such as &lt;i&gt;The Wedding at Cana&lt;/i&gt;) "Veronesian emblems". Indeed Veronese was questioned as to why he had introducing "buffoons, drunken Germans [ergo drunken Protestants], dwarfs, and other such absurdities" (not to mention a dog, a jester holding a parrot and a servant with a nosebleed). Veronese defended their inclusion on grounds of artistic self-expression: "we painters [must be allowed to] take the same liberties as poets and madmen take" he said, while adding that, "when I have some space left over in a picture, I adorn it with figures of my own invention." The tribunal, perhaps influenced by the civil authority, resolved the quarrel by suggesting that a compromise might be reached and the title of the painting be changed for &lt;i&gt;The Last Supper&lt;/i&gt; (or a variation there on) to &lt;i&gt;The Feast in the House of Levi&lt;/i&gt;.
+			</desc>
+      <collection>Gallerie dell'Accademia, Venice, Italy</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>michelangelo</entity>
+        <entity>titian</entity>
+      </column>
+      <column>
+        <entity alt="Palladio">palladio</entity>
+      </column>
+      <column>
+        <entity>mannerism</entity>
+        <entity>venetian_school</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>delacroix_eugene</entity>
+        <entity>rubens_peter_paul</entity>
+        <entity>velazquez_diego</entity>
+      </column>
+      <column>
+        <entity>tintoretto</entity>
+        <entity>tiepolo</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>impressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>The Lives of the Artists</title>
+          <link>0199537194</link>
+          <info>By Giorgio Vasari</info>
+        </entry>
+        <entry recommended="true">
+          <title>Veronese</title>
+          <link>1857590082</link>
+          <info>By Clare Robertson</info>
+        </entry>
+        <entry recommended="true">
+          <title>Veronese</title>
+          <link>1857095537</link>
+          <info>By Xavier F. Solomon</info>
+        </entry>
+        <entry>
+          <title>Paolo Veronese</title>
+          <link>0500093830</link>
+          <info>By Alessandra Zamperini</info>
+        </entry>
+        <entry>
+          <title>Paolo Veronese: A Master and His Workshop in Renaissance Venice</title>
+          <link>1857597664</link>
+          <info>By Virginia Brilliant &amp; Fredrick Lichman</info>
+        </entry>
+        <entry>
+          <title>The Secret of Paolo. The Life of the Renaissance Painter Paolo Veronese in Venice</title>
+          <link>B002WPZTKC</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Paolo Veronese: 118 Masterpieces</title>
+          <link>B00I3984R6</link>
+          <info>By Maria Tsaneva</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Paolo Veronese 1528-1588</title>
+          <link>https://www.metmuseum.org/toah/hd/vero/hd_vero.htm</link>
+          <info>
+						By Xavier Solomon
+						&lt;br&gt;
+						Metropolitan Museum of Art 
+						&lt;br&gt;
+						November 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Prodigious Veronese</title>
+          <link>http://www.nybooks.com/articles/2014/06/19/prodigious-veronese/</link>
+          <info>
+						By Andrew Butterfield
+						&lt;br&gt;
+						The New York Review
+						&lt;br&gt;
+						June 19, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>A jester at the last supper? How Veronese became his era's Ai Weiwei</title>
+          <link>https://www.theguardian.com/artanddesign/jonathanjonesblog/2014/mar/19/veronese-ai-weiwei-national-gallery-last-supper</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						Mar 19, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Paolo Veronese: A moment in the story of Alexander the Great</title>
+          <link>https://www.youtube.com/watch?v=JOkJzvA91ac&amp;t=1395s</link>
+          <info>The National Gallery video in front of The Family of Darius before Alexander</info>
+        </entry>
+        <entry>
+          <title>Paolo Veronese - Feast in the House of Levi</title>
+          <link>https://www.youtube.com/watch?v=9g-r2007Y8c</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Veronese in Murano</title>
+          <link>https://www.youtube.com/watch?v=O69I0QWWlfk</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Paolo Veronese: I Luoghi Villa di Maser</title>
+          <link>https://www.youtube.com/watch?v=Qi1FjE-wKfM</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Monty Python sketch 'The Last Supper' references the Veronese artwork</title>
+          <link>https://www.youtube.com/watch?v=l9Aj7W3g1qo</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

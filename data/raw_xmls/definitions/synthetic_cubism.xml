@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>synthetic_cubism</id>
+    <name>Synthetic Cubism</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>The Synthetic phase of the Cubism movement embraced a broader palette, simpler geometric planes, and less abstracted subjects while experimenting with collage and other techniques.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <start>1912</start>
+    <end>1914</end>
+    <pub_time>3/26/2020</pub_time>
+  </main>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>collage</movement>
+    <movement>assemblage</movement>
+    <movement>readymade</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>picasso_pablo</artist>
+    <artist>braque_georges</artist>
+    <artist>gris_juan</artist>
+    <artist>rauschenberg_robert</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>cubism</entry>
+    <entry>collage</entry>
+    <entry>readymade</entry>
+    <entry>analytic_cubism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="braque_georges" alt="Georges Braque">"Color came into its own with papiers collés...with these works we succeeded in dissociating color from form, in putting it on a footing independent of form, for that was the crux of the matter. Colur acts simultaneously with form, but has nothing to do with form."</q>
+    <q author="">"After having made the first papier collé, I felt a great shock, and it was an even greater shock for Picasso when I showed it to him."</q>
+    <q author="Georges Braque">"The papiers collés in my drawings have also given me a kind of certainty."</q>
+    <q author="Georges Braque">"What greatly attracted me - and it was the main line of advance of Cubism - was how to give material expression to this new space of which I had an inkling. So I began to paint chiefly still life's, because in nature there is a tactile, I would almost say a manual space... It was that space that attracted me strongly, for that was the earliest Cubist painting - the quest for space."</q>
+    <q author="Juan Gris">"I try to concretise that which is abstract ... My art is an art of synthesis ... I consider that the architectural side of painting is mathematical, the abstract side, I want to humanise it."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>In an attempt to account for the most important advances in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde art&lt;/span&gt; made by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, historians have tended to split the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; movement into two key phases: &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytic_cubism"&gt;Analytic Cubism&lt;/span&gt; and Synthetic Cubism. Most scholars are agreed that the former covers a two-year period that ended around 1912 and by which time it had evolved into what became known as Synthetic Cubism. Through experiments in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt; using newspaper print and printed patterns, the Synthetic Cubists moved away from the multi-perspective (Analytic) approach in favor of "flattened out" images that all-but dispensed with their earlier allusions to three-dimensional space. Synthetic Cubism embraced a broader palette, simpler geometric planes, and more representable subject matter too. To achieve its ends, Synthetic Cubism brought together - or "synthesized" - a variety of mixed media through collage and its signature &lt;i&gt;papier collé&lt;/i&gt; technique. Synthetic Cubism is thought to have peaked by 1914 when World War One took many French artists (including Braque) away from their studios to fight in the conflict.</synopsys>
+    <key_ideas>
+      <idea>The revolutionary practice of presenting mundane materials as fine art introduced a more relaxed and more playful aesthetic option for the artists involved. This is not to imply, however, that Synthetic Cubism lacked conceptual rigor. Indeed, the prefix "synthetic" referred to the idea that by juxtaposing fragments from the real world with the painterly the artist creates a synthesis; something completely new out of a marriage of seemingly incompatible elements.</idea>
+      <idea>With &lt;i&gt;papier collé&lt;/i&gt;, Synthetic Cubism took scraps from the material world and pasted them into the constructed world of painting and drawing. The technique of creating new structures out of the already familiar asked the viewer to consider, not &lt;i&gt;just&lt;/i&gt; the content of the image, but also the texture, the color, and the materials of the work. The viewer was then invited to think about how these elements synthesised as a whole.</idea>
+      <idea>Synthetic Cubism was a self-conscious attempt to "deintellectualize" fine art by appropriating objects and signs from the realms of commodity culture. It was, certainly for Picasso, a politicized art in that its "makeshift" quality presented an affront to the time-honoured values of the art establishment.</idea>
+      <idea>Of the three men, it was Gris who produced Synthetic works that retained closest ties to what one might call "anti-pictorialism" (or abstraction). His works allowed for the methods of &lt;i&gt;papier collé&lt;/i&gt; to develop more compositional depth and optical distortion than his esteemed colleagues. Gris, who believed that there was more to art than &lt;i&gt;just&lt;/i&gt; replicating scenes from the bland material world, also drew on a more expressive palette to produce his works.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="p">By 1912, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt; had already embarked on an extraordinarily productive period of collaboration during which they had pioneered the early, and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytic_cubism"&gt;Analytic&lt;/span&gt; phases of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;. For his part, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, a friend and neighbour of his fellow countryman Picasso, had brought some of the Analytic technique into his own, more vibrant, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubism&lt;/span&gt; pieces. Though his junior by some seven years, Gris had earned the respect of Picasso (not to mention a suggestion, put by the author &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_gertrude"&gt;Gertrude Stein&lt;/span&gt;, that Picasso was even envious of Gris's talent), but while their temperaments often clashed, the two Spaniards were nevertheless engaged in passionate discussions about the future of Cubism. Indeed, Stein, who was a collector of works by Gris and Picasso, would suggest that Gris was the only artist that could annoy Picasso and this was because Gris was intent on revealing through his art what Picasso thought should remain inexplicable. Whatever their differences in personality, it was Picasso, Braque and Gris who would become the three great exponents of Synthetic Cubism.</p>
+          <p type="img" alt="Juan Gris's &lt;i&gt;Porträt Daniel-Henry Kahnweiler&lt;/i&gt; depicts the art dealer turned art historian in 1921." show="1">/images20/photo/photo_synthetic_cubism_1.jpg</p>
+          <p type="p">The art collector Daniel-Henry Kahnweiler, who had begun representing Braque and Picasso in 1908, played a pivotal role in supporting and representing the two men through his Paris gallery. Gris, meanwhile, joined his books a little later in 1912. Kahnweiler purchased many of the men's works, arranged and held exhibitions, and frequently met with the them to discuss their ideas about the future of art. Though forced to relocate to Switzerland during the First World War, he was to have a lasting influence on the Cubist movement when he published, on his return to Paris, the groundwork &lt;i&gt;Der Weg zum Kubismus&lt;/i&gt; (&lt;i&gt;The Rise of Cubism&lt;/i&gt;) in 1920. Emphasizing the innovative work of Braque and Picasso especially, it was he who separated the "Analytic" from "Synthetic" phase writing: "Instead of an analytical description, the painter can, if he prefers also create in this way a synthesis of the objects, or in the words of Kant, 'put together the various conceptions and comprehend their variety in one perception'".</p>
+          <p type="img" alt="This &lt;i&gt;Fiber Mask with Conical Eyes (Batwape)&lt;/i&gt; (late 19&lt;sup&gt;th&lt;/sup&gt; or early 20&lt;sup&gt;th&lt;/sup&gt; century) incorporates burlap, cowrie shells, and raffia." show="1">/images20/photo/photo_synthetic_cubism_2.jpg</p>
+          <p type="p">Both Picasso and Braque had been interested in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;primitivism&lt;/span&gt; and African art, and both men were collectors of African masks. As art historian Christine Poggi noted, "It seems likely that the idea of combining different materials in making a work of art was due in large measure to the example of African objects. The African masks in the Trocadero, including a Grebo mask, which Picasso must have known, contain various fibers - straw and raffia [while a] similar use of natural fiber appears in a Fang mask owned by Braque". Picasso in particular often explored the masks in his sketches and studies, not as an attempt at imitation, but rather to deconstruct their design in order to inform his own way of working. Braque and Picasso had already experimented with painting letters in their Analytic phase, adding sand to pigment to create texture to their works too. They had also including fragments of everyday items such as rope and fringe, but these later additions would become central to Synthetic Cubism's preference for incorporating the "variety" of everyday mixed media into their works.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Trends">
+        <subsection title="Collage">
+          <p type="p">Around 1912, Picasso and Braque coined the term "collage" (from the French meaning "to glue") to describe works of theirs that incorporated paper, newspaper clippings, fabric and other everyday objects. Picasso's &lt;i&gt;Still Life with Chair Caning&lt;/i&gt; (1912), assimilating wallpaper with a chair caning pattern and framed by a piece of ordinary rope, introduced the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage technique&lt;/span&gt; to the art world. As Poggi wrote, Picasso's still lifes "acquired legendary status [...] as the first deliberately executed collage; the first work of fine art, that is, in which materials appropriated from everyday life, relatively untransformed by the artist, intrude upon the traditionally privileged domain of painting". Collage artists often selected particular materials reflecting their own predilections: Picasso would often use cuts of rope or tassels, Braque favored elements of woodgrain, while Gris even brought broken pieces of mirrors to at least one of his works.</p>
+          <p type="p">In his book, Kahnweiler noted that Braque and Picasso's Cubist evolution was driven by the aesthetic question of "representation and structure conflict"; or to put it more simply, the question of how the artist might separate out colors and objects within the same work. The two men had addressed this "conflict" in their monochromatic Analytic works. But having established the collage technique, the practice opened up new possibilities for separating color from content so that each could be applied independently within the same flat pictorial space. As art historian Douglas Cooper put it, "If an object could be convincingly represented in a painting by some readymade equivalent of itself, Braque reasoned, it should be possible to treat color as a free element in the composition".</p>
+        </subsection>
+        <subsection title="&lt;i&gt;Papier Collé&lt;/i&gt;">
+          <p type="img" alt="Georges Braque's &lt;i&gt;Fruit Dish and Glass&lt;/i&gt; (1912), incorporating sections of oilcloth, is the first &lt;i&gt;papier collé&lt;/i&gt;." show="1">/images20/photo/photo_synthetic_cubism_3.jpg</p>
+          <p type="p">With &lt;i&gt;Fruit Dish and Glass&lt;/i&gt; (1912) Braque produced what is generally agreed to be the first &lt;i&gt;papier collé&lt;/i&gt;. The process involves combining fragments of oil-cloth, paper, wood, linoleum and newspaper with oil on canvas. Picasso and Gris quickly followed their friend's lead with the former stating that, "If a piece of newspaper can become a bottle, that gives us something to think about in connection with both newspapers and bottles [while adding that] This displaced object has entered a universe for which it was not made and where it retains, in a measure, its strangeness". The technique also informed the artists' approach to painting, with all three producing works that included planes resembling readymade pieces of various types of papers and wood with the effect of creating striking spatial and surface contrasts.</p>
+          <p type="p">According to the likes of art historian Sabine Rewald, the &lt;i&gt;papier collé&lt;/i&gt; technique caused a revolution within Cubism (not to mention the art world at large): "With this new technique of pasting colored or printed pieces of paper in their compositions, Picasso and Braque swept away the last vestiges of three-dimensional space (illusionism) that still remained in their 'high' Analytic work".</p>
+        </subsection>
+        <subsection title="Color and Juan Gris">
+          <p type="img" alt="&lt;i&gt;Pears and grapes on a table&lt;/i&gt; dates from the autumn of 1913 when Gris was painting in the Spanish border town of Céret with his friend and compatriot Picasso. The two men were engaged in deep discussions about the future of Cubism." show="1">/images20/photo/photo_synthetic_cubism_4.jpg</p>
+          <p type="p">According to historian Francis Francina, art history has tended to treat "Picasso and Braque as a sort of 'avant-garde' within the broader grouping of modernists [...] publicly known [as] Cubists". It was the Spaniard Gris (real name José Victoriano González-Pérez), however, who earned the special title of the "Third Musketeer", and it was he who helped widen the Cubist vocabulary, firstly through his involvement with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubists&lt;/span&gt;, and subsequently through his more expressive contributions to Synthetic Cubism.</p>
+          <p type="p">Like Braque and Picasso, Gris experimented with the &lt;i&gt;Papier Collé&lt;/i&gt; technique and this earned him a reputation as an artist with a keen eye for interlocked patterns. Speaking about his period of experimentation with Picasso, Christies Curator Tracy Atkinson stated that "the ambiguous, shifting uncertainties of Cubism were transformed by Gris into a regular, rhythmic system of shading over gleaming, icy surfaces and sharp, tightly organized, crystalline facets, qualities which are nowhere more evident than in the pictures [he] painted at Céret". Indeed, as the most "poetic" of the three men his work was more open to the possibilities of color. As the art critic John Russell observed, his work has "an imaginative energy, a multiplicity of lucid statement and an apparently limitless invention [that] stands for a depth and strength of color that on the whole were excluded from Cubism".</p>
+        </subsection>
+        <subsection title="Collage Constructions and Sculpture">
+          <p type="img" alt="Pablo Picasso's &lt;i&gt;Maquette for Guitar&lt;/i&gt; (1912) borrowed from collage to transform sculpture." show="1">/images20/photo/photo_synthetic_cubism_5.jpg</p>
+          <p type="p">Synthetic Cubism's development in collage had a radical effect on modern sculpture following Picasso's &lt;i&gt;Maquette for Guitar&lt;/i&gt; (1912), a three-dimensional collage incorporating paper, cardboard, string, and wire. Yet art historian and MoMA curator William Rubin argued that it was Braque (rather than Picasso) who was responsible for the first Cubist construction sculptures. As he said, "These Braque reliefs in painted cardboard, and later wood, were without mass or solidity and were cut out and assembled rather than (as in traditional sculpture) carved or modelled". However, Braque seems to have viewed the sculptural works primarily as tools for exploring new painting strategies, while Picasso saw rather the potential for transforming traditional sculpture. Picasso was also more directly influenced by African masks with, as art historian Christine Poggi noted, the "sound hole of the Guitar [resembling the] cylindrical eyes of a 'Wobe' mask in the artist's possession".</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">In the post-war years, and running till about 1922, a tendency known as Crystal Cubism emerged as part of the so-called "Return to Order" (also known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-interwar_classicism"&gt;Interwar Classicism&lt;/span&gt;) trend in Parisian art. Led by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gleizes_albert"&gt;Albert Gleizes&lt;/span&gt;, and including contributions from Braque, Picasso and Gris, the style of Crystal Cubism was associated with larger, more colorful, geometric planes.</p>
+          <p type="p">The influence of Synthetic Cubism can be traced, meanwhile, in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-archipenko_alexander"&gt;Alexander Archipenko's&lt;/span&gt; "sculpto-paintings" which incorporated nailed and pasted readymade objects. Collage became a dominant trend within the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada movement&lt;/span&gt;, as artists including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hoch_hannah"&gt;Hannah Höch&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-heartfield_john"&gt;John Heartfield&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hausmann_raoul"&gt;Raoul Hausmann&lt;/span&gt; developed photomontage, works composed of juxtaposed images cut from mass media publications. Subsequent movements, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt; not only adopted collage but evolved it, leading ultimately to the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;Assemblage&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-installation_art"&gt;Installation Art&lt;/span&gt;. Collage became a staple feature in 20&lt;sup&gt;th&lt;/sup&gt; century art and, as art critic Harriet Baker put it, it revealed "the fundamental concept of what it is to create art, whilst offering a prismatic reflection of the social change and upheaval of the twentieth century".</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Still Life with Chair Caning</title>
+      <artist>Pablo Picasso</artist>
+      <year>1912</year>
+      <materials>Oil and oilcloth on canvas, rope</materials>
+      <desc>
+				This oval canvas, framed by a piece of common rope, posits itself as a table, while a painted and multi-faceted tableau of items - a knife, a pipe, a slice of citrus - are arranged on a piece of oilcloth, printed with a chair caning pattern. As Poggi noted, "The rope, in marking the edge of the collage as a picture of a café table, also makes the oval canvas itself synonymous with that table, thus conflating the literal object with the table that it represents". The image proved iconoclastic in that it confused the viewers' idea of where the line between popular culture and fine art stood. 
+				&lt;br/&gt;&lt;br/&gt;
+				Not for the first time, Picasso included the painted letters "JOU", here in the guise of the title of a newspaper. He had explored the idea of the pun for its potential to exploit misunderstandings between words that are alike but which have different meanings. "JOU" is a slang abbreviation that could be part of a number of French words - &lt;i&gt;Jouailler&lt;/i&gt; (to play a musical instrument badly); &lt;i&gt;Jouasse&lt;/i&gt; (the initial rush of taking drugs); &lt;i&gt;Jouer&lt;/i&gt; (to act the fool); &lt;i&gt;Joueur&lt;/i&gt; (a participant in a game); &lt;i&gt;Joujou&lt;/i&gt; (a plaything or toy); &lt;i&gt;Jouissance&lt;/i&gt; (reach orgasm) - and Picasso used the pun as a device for making his viewer question the pictorial meaning of the work. Poggi put it thus: "Picasso was able to subvert the notion of realism from within the very genre most frequently concerned with visual description and the actuality of the referent", the letters that make up the pun in this example.
+				&lt;br/&gt;&lt;br/&gt;
+				Pioneering the use of collage, this work straddled the phases of Analytic and Synthetic Cubism, and in so doing it pointed towards a new transformation in modern art. Speaking of the move towards mixed media, the art critic Christine Poggi observed that "Picasso's &lt;i&gt;Still Life with Chair-Caning&lt;/i&gt; challenged some of the most fundamental assumptions about the nature of painting inherited by Western artists from the time of the Renaissance".
+			</desc>
+      <collection>Musée Picasso, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Compotier et verre (fruit dish and glass)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Georges Braque</artist>
+      <year>1912</year>
+      <materials>Charcoal and cut-and-pasted printed wallpaper with gouache on white laid paper; subsequently mounted on paperboard</materials>
+      <desc>
+				As the earliest Cubist &lt;i&gt;papier collé&lt;/i&gt; (a collage formed of pasted papers), Braque's work marked a decisive break in the move from the overtly complex (and serious) Analytic Cubism. During the summer of 1912, Picasso and Braque were working together in Sorgues in the Provence-Alpes-Côte d'Azur region of South Eastern France. Braque told the story of how he was strolling through the streets of the nearby city of Avignon when he spotted rolls of faux bois (fake wood-grain) wallpaper on display in the window of a hardware store. Once Picasso had returned to Paris, Braque began experimenting by pasting the faux bois into a series of charcoal drawings with lettering. 
+				&lt;br/&gt;&lt;br/&gt;
+				On the one hand, Compotier et verre might be considered a Cubist rebus (a puzzle containing pictures and letters). "Hidden" within its horizontal and curvilinear forms, we can clearly make out the drawer of a table (represented through the circular door-knob) and some grapes, while the lettering relates explicitly to a bar serving alcohol. But by bringing scraps from the material world into the artificial world of the drawing, Braque asks the viewer to consider the texture and material of the work just as much as the image's content. There is a clear separation between the shapeless color and the drawing in the work with the former becoming a thing in its own right. Braque commented later that "Colour came into its own with papiers collés [...] with these works we [he and Picasso] succeeded in dissociating colour from form, in putting it on a footing independent of form, for that was the crux of the matter". 
+				&lt;br/&gt;&lt;br/&gt;
+				Speaking about having created the first truly synthetic work, Braque recalled feeling "a great shock [that] was an even greater shock to Picasso when I showed it to him". The art critic William Rubin, meanwhile, alluded to the idea that the &lt;i&gt;papier collé&lt;/i&gt; had effectively deconstructed the idea of pure or divine artistic genius when he wrote "[Synthetic] Cubism had, in itself, the prophetic notion of an artwork as a pure idea, completely separated from the artistic talent and therefore, feasible by anybody".
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Le Lavabo (The Washstand)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Juan Gris</artist>
+      <year>1912</year>
+      <materials>Oil on canvas with paper and mirror collage</materials>
+      <desc>
+				Shortly after arriving in Paris in 1908, the Spaniard Juan Gris met Picasso and Braque and quickly became a disciple of Cubism. Gris, who became known as the "third musketeer" (with Braque and Picasso), was initially grouped with the Salon Cubists, and &lt;i&gt;Le Lavabo&lt;/i&gt; was the first collage to be exhibited at the 1912 Section d'Or where it effectively introduced the general public to the new direction of Cubism. Indeed, following the exhibition art critic Maurice Raynal commented on the "curious originality of Juan Gris [that showed] clearly that in his conception of pure painting, there exist objects that are absolutely antipictorial". 
+				&lt;br/&gt;&lt;br/&gt;
+				Gris's Synthetic collages differed most noticeably from those of Picasso and Braque in that they typically featured complex overlapping patterns made from carefully cut and pasted paper, and in this example, fragments of a mirror too. Positioned in front of an illusionist shuttered windows, one can discern the right angle of a washstand and perhaps fragments of other washroom fixtures and fittings. The illusionist fanned shower curtain, meanwhile, offers some relief from the faceted planes and viewpoints, and Gris pastes a bottle label towards the bottom right of the frame. It is, however, the inclusion of the fragments of mirror at the top right of the frame that provided the most radical feature of this collage. As Gris himself explained, "surfaces can be re-created and volumes interpreted in a picture, but what is one to do about a mirror whose surface is always changing and should reflect even the spectator? There is nothing to do but stick on a real piece [of mirror]". 
+				&lt;br/&gt;&lt;br/&gt;
+				Gris's "understanding of pictorial illusion," as art historian Christine Poggi noted, "presents, in some ways, an alternative to that of Braque [...] who felt that the depiction of depth on a flat surfaces necessarily involved undesirable optical distortion from the true form of an object [...] Gris apparently believed that there was no point to copying already flat images. In his view, such copying reduced the artist to a merely skilful artisan, a maker of &lt;i&gt;trompe l'oeil&lt;/i&gt; effects." 
+			</desc>
+      <collection>Private Collection Vicomtesse de Noailles, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life on a Table, (Duo pour Flute)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Georges Braque</artist>
+      <year>1913-14</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In order to orientate his viewer, Braque would often feature a table drawer with a rounded knob at the base of his still lifes. He does so here with the aim of drawing attention to the flat surface of the pictorial plane which has been topped with fragments of vessels, sheet music and lettering. The transparent and overlapping planes are stippled with pigment that creates an effect that might suggest that the still-life has been observed through the filter of a translucent window or glass cover. On the viewer's side of the stippled pigment/glass Braque positions a matte-effect triangle painted in relief to resemble a glued piece of paper. The wood-grained triangle acts as a &lt;i&gt;trompe l'oeil&lt;/i&gt; and its presence directs our attention to the flat picture two-dimensional picture plane (beneath the "glass"). 
+				&lt;br/&gt;&lt;br/&gt;
+				Using metal combs to make the triangle resemble wood grain, Braque's technique of painting elements that appeared to be "real" readymades can also be read as autobiographical inasmuch as it alludes to his early training as a designer of imitation marble and wood. Similarly, the sheet music, titled "duo" suggests sheet music for a "Duet for a Flute" but the term "duo" may allude to the artistic collaboration of Braque and Picasso or to Braque's recent marriage to Marcelle Lapre. The fact that the painting featured such ambiguities was, it seems, an act of creative intention on the part of the artist. As art historian Jennifer Mundy wrote, such works suggest, "that the overlapping and interpenetrating planes may represent to some degree visual memories of different views onto the objects. Such a painting [...] was conceptual in the sense that it was to be understood fully only through the use of the spectator's imagination".
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Wineglass, Bottle of Bass, Ace of Clubs and Visiting Cards</title>
+      <artist>Pablo Picasso</artist>
+      <year>1914</year>
+      <materials />
+      <desc>
+				Synthetic Cubism was all about bridging the gap between reality and art which it achieved by transporting pieces of the real world into the composition. As Picasso saw it, his raw collage's amounted to a self-conscious attempt to "deintellectualize" fine art and to draw on - and to play on - objects and signs from the realms of mass culture and consumerism. Picasso was in fact part of a left-wing group that art critic Francis Frascina called an "introverted elite" who were resistant to the commodification - or "selling-out" - of fine art and who sought rather to produce dissenting works that could not (in theory at least) pass as fine art. As Frascina put it, "Picasso's sub-group [...] use the signs of &lt;i&gt;mass&lt;/i&gt; or &lt;i&gt;popular&lt;/i&gt; culture as root-stock for a group language. They have to use this resource because the existing sign system of 'high art' is part of a dominant ideology which cannot be used to represent the group's experience of social crisis or revolutionary change". 
+ 				&lt;br/&gt;&lt;br/&gt;
+				Here, one can see, in the dice and playing card, that the theme of Picasso's painting is one of chance; a topical subject amongst pre-World War One artists, writers and poets. Picasso also revisits something a motif in his Synthetic work, namely the calling card. In this example the card, with its corner turned over (tradespeople would turn the corner over if no one was home when the called), carries the artist's name. It is a playful, or ironic gesture, in that what would normally be printed, the label on the bottle at the center of the frame, is hand-drawn, while what is traditionally handwritten, the artist's signature, is stencilled. The element of play is also evident in the diagonal ray of light that severs the "B" from the "AS" in the word "BAS" (Bass being an imported British ale that featured in other Cubist works). The "B" is depicted as if it were the liquid itself filling the ale jug. Meanwhile the letters "AS" spell the French word for "ace" which is the value of the playing card represented just below the letters.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Le Petit Déjeuner (Breakfast)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Juan Gris</artist>
+      <year>1914</year>
+      <materials>Gouache, oil, and crayon on cut-and-pasted printed paper on canvas with oil and crayon</materials>
+      <desc>
+				The papier collé technique was devised by Braque in 1912. It was an innovation that thrilled Gris who duly embarked on a long period of experimentation with the new medium. Of the three men, it is Gris who retained strongest ties to the lyricism of fine art. 
+				&lt;br/&gt;&lt;br/&gt;
+				As Gris wrote later, "I try to concretise that which is abstract [...] My art is an art of synthesis [...] I consider that the architectural side of painting is mathematical, the abstract side, I want to humanise it". Daniel-Henry Kahnweiler said of the artist, meanwhile, that he "started with the ensemble, whose rhythm he allowed to develop freely [and from] this rhythm sprang, in their turn, the objects. A few simple "stimulants" sufficed to make the spectator "see" the desired object". 
+				&lt;br/&gt;&lt;br/&gt;
+				This papier collé depicts a breakfast table - on which rests such breakfast items as a coffeepot, cups and saucers, an eggcup and a spoon - as a vertiginous play on interlocking perspectives. The artist incorporates two types of wood-grain paper which he uses to represent the table's surface and legs. Gris uses real wallpaper, meanwhile, to represent the far wall. These pre-printed sheets combined with the more luminous turquoise and white painted sections of the canvas. The breakfast items possess an illusionist quality that conflicts sharply with flatness of the pasted paper collage. We also see here in the detail of journal clipping the inclusion of the word "GRIS" which, while lacking the irony of the earlier "tradesman" example of Picasso, it too serves to "authenticate" the originality of the work by means of a signature. 
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>picasso_pablo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>braque_georges</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gris_juan</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Picasso and Braque's Cubist Experiment: "Like mountain climbers roped together"?</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ju1HsOAtN8c</link>
+          <info>
+						2012
+						&lt;br&gt;
+						Lecture by conservators Claire Barry and Bart Devolde
+						&lt;br&gt;
+						Santa Barbara Museum of Art
+					</info>
+        </entry>
+        <entry>
+          <title>The Cubist Cosmos - From Picasso to Léger / Kunstmuseum Basel</title>
+          <link is_inline_video="true" inline_video_type="youtube">bf6CP7z0ick</link>
+          <info>2019</info>
+        </entry>
+        <entry recommended="true">
+          <title>1913 | Guitar, Glass, and Bottle by Pablo Picasso</title>
+          <link is_inline_video="true" inline_video_type="youtube">-jXFckR2yoY</link>
+          <info>MoMA</info>
+        </entry>
+        <entry>
+          <title>Picasso: Guitars 1912-1914 | Picasso's Collage Materials</title>
+          <link is_inline_video="true" inline_video_type="youtube">qxqR3ld2RoA</link>
+          <info>MoMA</info>
+        </entry>
+        <entry>
+          <title>Picasso Posse: Collage and Papier Collé</title>
+          <link is_inline_video="true" inline_video_type="youtube">IHmeRiR5s_U</link>
+          <info>Philadelphia Museum of Art</info>
+        </entry>
+        <entry>
+          <title>Georges Braque, Le Violon (1914)</title>
+          <link is_inline_video="true" inline_video_type="youtube">2LBtZkYVUkc</link>
+          <info>Sotheby's</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry>
+          <title>Cubism: The Collaboration of Picasso &amp; Braque</title>
+          <link is_inline_video="true" inline_video_type="youtube">5N3s5jdUVFo</link>
+          <info>
+						Aspen Institute
+						&lt;br&gt;
+						Talk by Leonard Lauder
+					</info>
+        </entry>
+        <entry>
+          <title>Focus on Modern Art: Georges Braque's "Bottle of Rum," 1914</title>
+          <link is_inline_video="true" inline_video_type="youtube">1xEWxdl053M</link>
+          <info>Metropolitan Museum conservator Isabelle Duvernois</info>
+        </entry>
+        <entry>
+          <title>The Life and Times: Juan Gris's Violin and Playing Cards on a Table (1913)</title>
+          <link>https://www.metmuseum.org/metmedia/video/lectures/life-and-times-juan-gris</link>
+          <info>
+						Lecture by Rebecca Rabinow, Leonard A. Lauder Curator of Modern Art
+						&lt;br&gt;
+						Metropolitan Museum
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>In Defiance of Painting: Cubism, Futurism, and the Invention of Collage</title>
+          <link>https://books.google.ru/books?id=dNapCh3BLUEC</link>
+          <info>By Christine Poggi</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Cubist Epoch</title>
+          <link>https://books.google.com/books?id=v2r0HrOZmCMC</link>
+          <info>By Douglas Cooper</info>
+        </entry>
+        <entry recommended="true">
+          <title>Picasso and Braque PIONEERING CUBISM</title>
+          <link>https://www.moma.org/documents/moma_press-release_327550.pdf</link>
+          <info>By William Rubin</info>
+        </entry>
+        <entry>
+          <title>Cubism and its histories (Critical Perspectives in Art History)</title>
+          <link>0719050049</link>
+          <info>By David Cottington</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cubism: The Leonard A. Lauder Collection</title>
+          <link>https://books.google.com/books?id=U_10BAAAQBAJ</link>
+          <info>By Metropolitan Museum of Art</info>
+        </entry>
+        <entry>
+          <title>Cubism (Art of Century)</title>
+          <link>1844847497</link>
+          <info>By Dorothea Elmert and Guillaume Apollinaire</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>All about cubism</title>
+          <link>https://www.tate.org.uk/art/art-terms/c/cubism/all-about-cubism</link>
+          <info>Tate</info>
+        </entry>
+        <entry recommended="true">
+          <title>Cubism</title>
+          <link>https://www.metmuseum.org/toah/hd/cube/hd_cube.htm</link>
+          <info>
+						By Sabine Rewald
+						&lt;br&gt;
+						Metropolitan Museum of Ar
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Frames of Reference: "Table" and "Tableau" in Picasso's Collages and Constructions</title>
+          <link>https://picasso.shsu.edu/documents/776981.pdf</link>
+          <info>
+						By Christine Poggi
+						&lt;br&gt;
+						Art Journal
+						&lt;br&gt;
+						Vol. 47, No. 4, Revising Cubism (Winter, 1988) 
+					</info>
+        </entry>
+        <entry>
+          <title>Picasso and Braque, Brothers in Cubism</title>
+          <link>https://www.nytimes.com/1989/09/22/arts/picasso-and-braque-brothers-in-cubism.html</link>
+          <info>
+						By Michael Brenson
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						September 22, 1989
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>On "Cubism" in context</title>
+          <link>http://www.peterbrooke.org.uk/a&amp;r/Du%20Cubisme/contents</link>
+          <info>
+						By Peter Brooke
+					</info>
+        </entry>
+        <entry>
+          <title>Carl Einstein, Daniel Henry Kahnweiler, Cubism, and the Visual Brain</title>
+          <link>https://www.academia.edu/4981162/Carl_Einstein_Daniel-Henry_Kahnweiler_Cubism_and_the_Visual_Brain</link>
+          <info>
+						By Charles W. Haxthausen
+						&lt;br&gt;
+						Article, issue #2
+						&lt;br&gt;
+						June 12, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>ART VIEW; JUAN GRIS: THE OTHER CUBIST</title>
+          <link>https://www.nytimes.com/1983/10/23/arts/art-view-juan-gris-the-other-cubist.html</link>
+          <info>
+						By John Russell
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						October 23, 1983
+					</info>
+        </entry>
+        <entry>
+          <title>The Other Father of Cubism</title>
+          <link>https://www.nytimes.com/2011/10/14/arts/design/georges-braque-pioneer-of-modernism-review.html</link>
+          <info>
+						By Roberta Smith
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						October 13, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Is Braque Finally Coming Out of Picasso's Shadow?</title>
+          <link>https://news.artnet.com/exhibitions/is-braque-finally-coming-out-of-picassos-shadow-38488</link>
+          <info>
+						By Coline Milliard
+						&lt;br&gt;
+						Artnet
+						&lt;br&gt;
+						June 13, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Development Issues: Georges Braque at Acquavella Galleries</title>
+          <link>https://artcritical.com/2011/11/10/braque/</link>
+          <info>
+						By David Carrier
+						&lt;br&gt;
+						Artcritical: the online magazine of art and ideas
+						&lt;br&gt;
+						November 10, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Compotier et verre (fruit dish and glass) - Georges Braque</title>
+          <link>https://itsartalicious.wordpress.com/2015/04/28/compotier-et-verre-fruit-dish-and-glass-by-georges-braque/</link>
+          <info>
+						By William Rubin
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,867 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>assemblage</id>
+    <name>Assemblage</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>Assemblage is a style of sculpture inspired by the idea of introducing pre-existing, non-art objects into an art context. Although one can find precedents for the approach in the work of Duchamp and Picasso, it flourished as a tendency in the 1950s and 1960s, and continues to be a prominent technique today.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <start>1912</start>
+    <big_bio_box_img>true</big_bio_box_img>
+    <pub_time>4/15/2020</pub_time>
+  </main>
+  <similar_movements>
+    <movement>collage</movement>
+    <movement>photomontage</movement>
+    <movement>dada</movement>
+    <movement>young_british_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>rauschenberg_robert</artist>
+    <artist>schwitters_kurt</artist>
+    <artist>duchamp_marcel</artist>
+    <artist>kienholz_edward</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>collage</entry>
+    <entry>photomontage</entry>
+    <entry>cubism</entry>
+    <entry>young_british_artists</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="schwitters_kurt" alt="Kurt Schwitters">"I called Merz this new process whose principle was the use of any material."</q>
+    <q author="Kurt Schwitters">"The word Merz essentially denotes the combination of all conceivable materials, and in principle the equal evaluation of all materials.... It is unimportant if the material was already formed for some other purpose. The artist creates through the distribution of materials."</q>
+    <q author="Kurt Schwitters">"The work of art is created by an artistic evaluation of its elements. I know only how I do it; I know only my material, from which I derive, to what end I know not."</q>
+    <q author="Marcel Duchamp ">"Since the tubes of paint used by the artist are manufactured and ready made products we must conclude that all the paintings in the world are 'readymades aided' and also works of assemblage."</q>
+    <q author="Meret Oppenheim">"Every notion is born along with its form. I make reality of ideas as they come into my head."</q>
+    <q author="Robert Rauschenberg">"I think a picture is more like the real world when it's made out of the real world."</q>
+    <q author="Arman">"I have a very simple theory. I have always pretended that objects themselves formed a self-composition. My composition consisted of allowing them to compose themselves."</q>
+    <q author="Jasper Johns">"Take an object / Do something to it / Do something else to it. [Repeat.]"</q>
+    <q author="Betye Saar">"I am intrigued with combining the remnant of memories, fragments of relics and ordinary objects, with the components of technology. It's a way of delving into the past and reaching into the future simultaneously."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			In the early 20&lt;sup&gt;th&lt;/sup&gt; century, many artists increasingly began incorporating everyday objects into their paintings and sculptures, blurring the lines between art and life. Ranging across styles, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; artists created three-dimensional, mixed-media assemblages that questioned the very definition of art as it had come to be known. Using mass-produced objects and junk, artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; often made satirical and biting critiques of modern, commercial culture. In the 1950s, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt; coined the term Assemblage for this hybrid art form, and while other artists used terms like Combines or Accumulations, the trend took off in the second half of the 20&lt;sup&gt;th&lt;/sup&gt; century. 
+			&lt;br/&gt;&lt;br/&gt;
+			Artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arman"&gt;Arman&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosler_martha"&gt;Martha Rosler&lt;/span&gt; pushed the boundaries of Assemblage into the realm of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-installation_art"&gt;Installation&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance&lt;/span&gt;, creating immersive environments and experiential events. More contemporary artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hammons_david"&gt;David Hammons&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-emin_tracey"&gt;Tracy Emin&lt;/span&gt; engage Assemblage techniques to create works that confront viewers in challenging ways.
+		</synopsys>
+    <key_ideas>
+      <idea>Assemblage art combines mundane objects in new and surprising ways, requiring the viewer to question their relation to the world of objects around them. Sometimes used as social critique or as an exploration of the fantastical and dream worlds, Assemblage art gives objects new meanings, makes creative connections between disparate elements, and elevates non-art materials into the realm of art.</idea>
+      <idea>In combining &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt; or found objects with varying degrees of modifications, Assemblage art challenges the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;medium specificity&lt;/span&gt; that &lt;span class="marked_text chart-tooltip-target-top tooltip_id-formalism"&gt;formalist&lt;/span&gt; critics insisted structured the progress of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt;. Blurring the distinctions between painting, sculpture, and theater, Assemblage art is not just an optical experiences but engages multiple senses and often requires more physical interaction on the viewer's part.</idea>
+      <idea>Because it usually incorporates manufactured items and non-art materials, much Assemblage art aims to question notions of authorship and originality that have been so important to traditional concepts of the artist. In choosing the objects instead of hand-crafting them, the Assemblage artist subverts the traditional notion of the artist as a creator. Additionally, because Assemblage art is often a characteristic of folk art traditions, who can be considered an "artist" has greatly expanded over the decades, incorporating untrained and self-taught artists outside of the mainstream.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Historical Influences">
+          <p type="img" alt="Domenico Remps' &lt;i&gt;Cabinet of Curiosities&lt;/i&gt; (c. 1689) is a &lt;i&gt;trompe d'oeil&lt;/i&gt; oil painting on shaped canvas." show="1">/images20/photo/photo_assemblage_1.jpg</p>
+          <p type="p">The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; development of Assemblage drew upon long-standing cultural and artistic trends, dating back to the Renaissance. By the late 1500s, curiosity cabinets were popular among the aristocratic class, as shown by Gabriel Kaltemarckt's advice that a collection should include "curious items from home or abroad" and "antlers, horns, claws, feathers...belonging to strange and curious animals." Some collectors went so far as to combine taxidermied animal parts to create fantastical creatures. Such collections, essentially containing found objects and readymades, became &lt;i&gt;de rigeur&lt;/i&gt; symbols of intellectual and cultural distinction. Curiosity cabinets, often on a more intimate scale, subsequently became popular among the middle class and were often found in Victorian homes.</p>
+          <p type="p">In 1482, Carlo Crivelli included a gold key on an actual cord in his depiction of Saint Peter in his &lt;i&gt;Madonna and Child with Four Saints&lt;/i&gt; (1482). Though Crivelli's inclusion was somewhat novel, small, precious items were often used to enhance religious or secular objects. In the late 1890s, Antonio Mancini, an Italian painter best known for his impasto Impressionist works, at times included found materials, such as pieces of glass or tin foil and, in one painting of a clarinet, the instrument's keys. According to art historian William C. Seitz, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-italian_futurism"&gt;Italian Futurist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-severini_gino"&gt;Gino Severini&lt;/span&gt; began using found materials in his painting after talking with the French critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt; about similar methods used in Italian fifteenth-century paintings.</p>
+        </subsection>
+        <subsection title="Pablo Picasso and Umberto Boccioni">
+          <p type="p">Traditionally, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso's&lt;/span&gt; &lt;i&gt;Still-Life with Chair Caning&lt;/i&gt; (1912) is often credited as both the first &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt; and the precursor of Assemblage as it incorporates oilcloth and an ordinary piece of rope into the painting's composition. However, it should also be noted that by 1911 the Italian Futurists were exploring Assemblages, creating what they called "object sculptures."</p>
+          <p type="p">As art historian William C. Seitz noted, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boccioni_umberto"&gt;Umberto Boccioni's&lt;/span&gt; "&lt;i&gt;Fusion of a Head and a Window&lt;/i&gt;...which included a real wooden window frame and fastener was done in 1911 or perhaps 1912, the year of the first collages of Picasso and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Braque&lt;/span&gt;." The leader of Futurism, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-marinetti_filippo_tommaso"&gt;Filippo Marinetti&lt;/span&gt; noted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boccioni_umberto"&gt;Boccioni&lt;/span&gt; used "materials that were totally different as far as weight and tactile value: iron, porcelain, and female hair." In the &lt;i&gt;Technical Manifesto of Futurist Sculpture&lt;/i&gt; (1912) Boccioni advocated for a stunning inclusion of found materials, writing, "even twenty different materials can compete in a single work to effect plastic emotion. Let us enumerate some: glass, wood, cardboard, iron, cement, horsehair, leather, cloth, mirrors, electric lights, etc., etc." Futurist works of Assemblage were subsequently lost or destroyed and their impact overshadowed by Picasso's work in the genre, but their work influenced the Russian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivists&lt;/span&gt;, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tatlin_vladimir"&gt;Vladimir Tatlin&lt;/span&gt;.</p>
+          <p type="p">In 1913, Apollinaire published images of several of Picasso's constructions in his journal &lt;i&gt;Les Soirées de Paris&lt;/i&gt;. As art historian Jackie Heuman noted, the works "provoked uproar.... Criticism was based on the desultory finish, the use of ignoble materials and on the perceived inappropriateness of the subject matter. This hostile response may have expressed a sense that the sculptural canon was being subverted by popular culture. When asked whether the constructions were sculptures or paintings, Picasso replied: 'Now we are delivered from Painting and Sculpture, themselves already liberated from the imbecile tyranny of genres. It's neither one thing nor another.'" This blurring of genres became fundamental in the practice and theory of Assemblage.</p>
+        </subsection>
+        <subsection title="Readymades">
+          <p type="img" alt="Man Ray's &lt;i&gt;Marcel Duchamp&lt;/i&gt; (1920-21)" show="1">/images20/photo/photo_assemblage_2.jpg</p>
+          <p type="p">Many Assemblage artists trace their interest in the technique back to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; and his "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt;." In 1913, Duchamp combined a bicycle wheel and a common stool to create &lt;i&gt;Bicycle Wheel&lt;/i&gt;, which he cited as his first readymade, when he coined the word in 1915. Subsequently, the use of readymades, ordinary objects that are mass produced, and found objects, which can include natural objects such as feathers, butterfly wings, or bits of wood, became an integral part of Assemblage. As New York's Metropolitan Museum of Art's Nan Rosenthal wrote, "His most striking, iconoclastic gesture, the readymade, is arguably the century's most influential development on artists' creative process.... The object became a work of art because the artist had decided it would be designated as such." In many ways, Duchamp's insistence that the artist - not critic or curator - is responsible for defining what art is opened the door for other artists to expand notions of art beyond what had previously been imagined. From the beginning, Assemblage art questioned the canons that had been put in place by critics and art historians.</p>
+        </subsection>
+        <subsection title="Dada">
+          <p type="img" alt="Kurt Schwitters' &lt;i&gt;Das Undbild&lt;/i&gt; (&lt;i&gt;The And-Picture&lt;/i&gt;) (1919), incorporates chicken wire, leather, cork, and metal" show="1">/images20/photo/photo_assemblage_3.jpg</p>
+          <p type="p">As art historian William C. Seitz noted, "the admixture of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; in assemblage must not simply be granted; it must be insisted upon." Developing in the aftermath of World War I and rejecting traditional political and social structures as absurdities that had led to the war, Dada emphasized an "anti-art" or anti-aesthetic approach to art. Ardently embracing experimentation, artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hoch_hannah"&gt;Hannah Höch&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-heartfield_john"&gt;John Heartfield&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hausmann_raoul"&gt;Raoul Hausmann&lt;/span&gt;, transformed collage into pioneering forms of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photomontage"&gt;photomontage&lt;/span&gt; and Assemblage. Additionally, artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans Arp&lt;/span&gt; engaged ideas of chance in their collages and assemblages. By 1918, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schwitters_kurt"&gt;Kurt Schwitters&lt;/span&gt; scavenged scrap materials and trash to incorporate into works that he called &lt;i&gt;Merz&lt;/i&gt;, a term he explained both as a nonsense word and derived from the second syllable of the German word "commerce." As Seitz further noted, Schwitters "occupies a position of special honor in the history of assemblage.... It was he who conceived of an embracing medium that included painting, collage, agglomerate sculpture."</p>
+        </subsection>
+        <subsection title="Surrealism ">
+          <p type="p">Dada assemblage was subsequently adopted by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt; to create uncanny objects. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, who was associated with both movements, glued tacks to an iron to create &lt;i&gt;Cadeau&lt;/i&gt; (&lt;i&gt;Gift&lt;/i&gt;) (1921), while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-oppenheim_meret"&gt;Meret Oppenheim's&lt;/span&gt; &lt;i&gt;Object&lt;/i&gt; (1936) is a teacup, saucer, and spoon wrapped in fur. Provoking subconscious realities and desires, Surrealist Assemblage echoed &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;'s suggestion: "Recently I suggested that as far as is feasible one should manufacture some of the articles one meets only in dreams."</p>
+          <p type="p">Influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt; but distancing himself from Surrealist ideas of the subconscious, the American artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cornell_joseph"&gt;Joseph Cornell&lt;/span&gt; pioneered Assemblage in the United States with his shadow boxes in the mid-1930s. Described by art critic Jonathan Jones as "a new kind of art," Cornell's shadow boxes, known for their evocative juxtapositions of objects, had a noted impact on a diverse range of subsequent artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arman"&gt;Arman&lt;/span&gt; who used glass display boxes and cubes for his accumulations of detritus and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-saar_betye"&gt;Betye Saar&lt;/span&gt; who adopted the shadow box to social and political critique.</p>
+        </subsection>
+        <subsection title="International Trend: 1950s and Beyond">
+          <p type="img" alt="Robert Rauschenberg's &lt;i&gt;Canyon&lt;/i&gt; (1959) with its eerie bird perched in front of the collage, making the two-dimensional work becomes three-dimensional." show="1">/images20/photo/photo_assemblage_4.jpg</p>
+          <p type="p">In the 1950s, Assemblage came of age, its potential fully developed by leading international artists in a number of movements. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nouveau_realisme"&gt;Nouveau Réalisme&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; fully exploited the artistic potential of Assemblage, expanded its scale, ambition, and approach. Neo-Dadaist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt; created Assemblages that he termed "combines," while Arman in the Nouveau Réalism movement pioneered what he called "accumulations," collections of objects that expanded into &lt;span class="marked_text chart-tooltip-target-top tooltip_id-installation_art"&gt;Installation Art&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-public_art"&gt;Public Art&lt;/span&gt;. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tinguely_jean"&gt;Jean Tinguely&lt;/span&gt; created mechanized and motorized Assemblages that pioneered &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic Art&lt;/span&gt;. At the same time, artists not strongly associated with a particular movement also pioneered new approaches, as seen in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nevelson_louise"&gt;Louise Nevelson&lt;/span&gt;'s assembled wood sculptures. In 1961, the Museum of Modern Art in New York mounted an exhibition entitled &lt;i&gt;The Art of Assemblage&lt;/i&gt;, curated by William Seitz, and as art critic Alexander Glover wrote, "It would go on to establish the art of Assemblage as a global phenomenon and one that was indulged in by well-known artists."</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Assemblage and African Art">
+          <p type="p">Following colonial conquest, many African sculptures and masks were imported to Europe in the 1800s. Viewed as artifacts rather than artworks, some were displayed in various museums, including the Musée d'Ethnographie du Trocadéro in Paris, while other items were often sold for very little. These works had a profound influence on avant-garde artists and movements beginning in the early 1900s, lending to the trend of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;Primitivism&lt;/span&gt;. In 1906, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt; bought a small Vili figure and showed it to Picasso, prompting his many visits to the African art collection at the Trocadéro. African art, while exhibiting a wide range of styles and techniques originating in specific tribal cultures, often incorporated various materials, including cowrie shells, leather, feathers, metal nails, raffia and other plant fibers, and bits of glass or metal. As art historian Jackie Heuman wrote, Picasso's "constructions were launched at a time when Picasso had become deeply interested in tribal art. Ethnographic artifacts use a mélange of materials, including found objects, and their presence undoubtedly had a profound influence on him." This influence continued among subsequent generations of artists, including Arman, who had a museum-quality collection of African art.</p>
+        </subsection>
+        <subsection title="Blurring the Boundaries">
+          <p type="p">From the beginning, Assemblage blurred boundaries between art and the reality of everyday life and explicitly challenged the traditional separation of genres. Referencing Picasso's &lt;i&gt;Still Life&lt;/i&gt; (1914), a work that includes found pieces of wood, a shelf, and table tassels, art historian Jackie Heuman wrote, "The admission into the work itself of selected but otherwise untransformed fragments of the real world meant that art was not only addressing the everyday but being visibly invaded by it, challenging the concept of art as something precious and valuable." Duchamp's readymades also questioned the tradition of Western sculpture, the insistence on originality, and the nature of authorship, while Kurt Schwitter's &lt;i&gt;Merz&lt;/i&gt; works envisioned an art encompassing all genres in one immersive environment, as seen in his &lt;i&gt;Merzbau&lt;/i&gt; (1923-37). The trend became dominant in the 1950s, expressed in works like Rauschenberg's "combines," which combined sculpture and painting, and flew in the face of art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg's&lt;/span&gt; championing of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;media specificity&lt;/span&gt; as well as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Innovation">
+          <p type="p">Originating in experimentation, Assemblage played a notable role in innovating other artistic approaches, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kinetic_art"&gt;Kinetic Art&lt;/span&gt;, Installation Art, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-environmental_art"&gt;Environmental Art&lt;/span&gt;, and Performance Art. Schwitter's &lt;i&gt;Merzbau&lt;/i&gt; (1923-37), an early example of an Installation, influenced artists, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hamilton_richard"&gt;Richard Hamilton&lt;/span&gt;. Hamilton, along with other artists from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-independent_group"&gt;The Independent Group&lt;/span&gt;, collaborated on room installations for the 1956 exhibition &lt;i&gt;This Is Tomorrow&lt;/i&gt;. In time, Assemblages became vast "accumulations," as seen in Arman's &lt;i&gt;Le Plein&lt;/i&gt; (&lt;i&gt;Full Up&lt;/i&gt;) (1960), for which he filled a Parisian gallery with trash, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kaprow_allan"&gt;Allan Kaprow's&lt;/span&gt; &lt;i&gt;Yard&lt;/i&gt; (1961), consisted of a sculpture garden filled with tires. Such works also emphasized audience interaction in diverse ways, and exhibitions became events, performances, and happenings. Unveiled at the Museum of Modern Art, Yves Tinguely's performance &lt;i&gt;Homage to New York&lt;/i&gt; (1960) was a self-destructing sculpture, whose remnants audience members were to pick up as souvenirs, and is a touchstone of Kinetic Art. Christo's increasingly monumental Assemblages in the 1960s helped to spur the trend of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-environmental_art"&gt;Environmental Art&lt;/span&gt;. In 1966, Allan Kaprow's book &lt;i&gt;Assemblage, Environments &amp; Happenings&lt;/i&gt; became a foundational text, not only definitively describing contemporary developments, but also influencing subsequent artists.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Assemblage, as art critic Alexander Glover notes, "is still influential and prevalent among today's contemporary artists," though it often subsumed as a technique in works defined as installations. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt;, Neo-Pop, and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-young_british_artists"&gt;Young British Artists&lt;/span&gt; widely adopted Assemblage, while leading artists of the 1950s and 1960s continue to masterfully explore the technique. For instance, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosler_martha"&gt;Martha Rosler&lt;/span&gt;'s &lt;i&gt;Monumental Garage Sale&lt;/i&gt; (1973) and &lt;i&gt;Meta-Monumental Garage Sale&lt;/i&gt; (2012) were advertised as garage sales in local papers and as a performance in the art press.</p>
+          <p type="p">A new generation of artists uses Assemblage in large-scale installations, as seen in Tokomo Takahashi's &lt;i&gt;Clock Work&lt;/i&gt; (2010), her third reprisal of a 1998 work, and Song Dong's 2009 Museum of Modern Art installation of fifty years' worth of objects hoarded by his mother. Assemblage also reflects a contemporary ethos of reusing and recycling. Maha Mullah, whose sculpture &lt;i&gt;Food for Thought Almuallaqat&lt;/i&gt; (2014) assembled a large number of used Saudi Arabian aluminum pans, said, "I don't see the point in creating new objects while we have a lot of waste around us." &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orozco_gabriel"&gt;Gabriel Orozco&lt;/span&gt;, Fishli/Weiss, Mike Nelson, and Christina Mackie are just a few of the contemporary artists noted for installations, assembling found objects and scavenged materials.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Bicycle Wheel</title>
+      <artist>Marcel Duchamp</artist>
+      <year>1913</year>
+      <materials>Wooden stool, metal bicycle wheel</materials>
+      <desc>
+				While Picasso and Braque invented modern collage by incorporating real objects into their paintings, Marcel Duchamp's creation of a sculpture from only mundane objects was the spark that eventually led to Assemblage art. The first of its kind, the work consists of a bicycle wheel mounted on a four-legged stool. Both elements, immediately recognizable, are transformed into something new as their everyday functions are disrupted. Rather than meeting the ground, the bicycle wheel rotates freely and continuously through the air, its circular shape and radiating spokes creating a geometric contrast to the triangular stool, and with the seat of the stool occupied, it is no longer available for a sitter and instead becomes a makeshift pedestal. Duchamp wrote, "The &lt;i&gt;Bicycle Wheel&lt;/i&gt; is my first Readymade, so much so that at first it wasn't even called a Readymade. It still had little to do with the idea of the Readymade. Rather it had more to do with the idea of chance." As he further defined his concept of the readymade, he called this work, an "assisted readymade," indicating the alteration or combination of various found objects, a technique that greatly informed the development of Assemblage as a distinctive genre. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work is also considered a pioneering example of Kinetic Art, a trend that emphasized movement in the artwork, and is closely aligned with Assemblage. It was the bicycle wheel's potential for movement that attracted Duchamp, as he said, "To set the wheel turning was very soothing, very comforting, a sort of opening of avenues on other things than material life of every day." In many ways, the heart of Assemblage can be traced back to Duchamp's questioning of definitions of art, originality, and our relation - in ways both good and bad - to the modern, physical world.
+			</desc>
+      <collection>Israel Museum, Jerusalem</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Mechanischer Kopf (Der Geist Unserer Zeit) (The Mechanical Head (The Spirit of Our Time))</title>
+      <use_big_image>true</use_big_image>
+      <artist>Raoul Hausmann</artist>
+      <year>c. 1920</year>
+      <materials>Hairdresser's wigmaking dummy, crocodile wallet, ruler, pocket watch mechanism and case, bronze segment of old camera, typewriter cylinder, segment of measuring tape, collapsible cup, the number "22", nails, and bolt</materials>
+      <desc>
+				Various items, including a wooden ruler, a tape measure, a watch mechanism, a tin cup, are attached to a wooden model of a head, once used for making wigs. The work, the only existing Assemblage by Hausmann, conveys Hausmann's caustic assessment of the state of his country: "The German wants only his order, his king, his Sunday sermon, and his easy chair...has no more capabilities than those which chance has glued on the outside of his skull; his brain remains empty." In addition to being a commentary on the state of the German people, the subtitle &lt;i&gt;The Spirit of Our Time&lt;/i&gt; alludes to the influential German philosopher Friedrich Hegel, who thought everything was mind. But art critic Jonathan Jones notes, the "sculpture might be seen as an aggressively Marxist reversal of Hegel: this is a head whose 'thoughts' are materially determined by objects literally fixed to it... a head that is penetrated and governed by brute external forces."
+				&lt;br/&gt;&lt;br/&gt;
+				A leader of Berlin Dada, Hausmann's innovative use of Assemblage creates a sculpture that, by presenting a kind of robotic dummy, challenges the expressivity of the face that one sees in more realistic sculpture. At the same time, the work speaks to the fragmentation of identity and life that the artist and others experienced in the aftermath of World War I.
+				&lt;br/&gt;&lt;br/&gt;
+				While Hausmann was known for his innovative photomontage, &lt;i&gt;Mechanical Head&lt;/i&gt; has become his most famous work and is an important touchstone for the contemporary discourse on the cyborg. As art historian Matthew Biro wrote, Hasumann established "the cyborg as a figure of modern human identity: the cyborg to represent the new hybrid human: a half-organic, half-mechanized figure that he believed was appearing with ever greater frequency."
+			</desc>
+      <collection>Musée National d'Art Moderne, Centre Pompidou, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Merzbau (Merz Building)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Kurt Schwitters</artist>
+      <year>1923-37</year>
+      <materials>Paint, paper, cardboard, plaster, glass, mirror, metal, wood, electric lighting, and other materials</materials>
+      <desc>
+				This photograph depicts a partial view of Schwitter's most ambitious project - his living space in Hanover, transformed by Assemblage into an installation. A vertical and angular column rises toward a cluster of planes and cubes on the ceiling, while on both sides of the image a profusion of forms both invite and reject a rational reading of the architectural space. Destroyed during the Second World War, only accounts and a few photographs testify to the original construction. Following her 1924 visit to the site, Dada artist and art historian Kate Steinitz described it as a "three-dimensional collage of wood, cardboard, iron scraps, broken furniture and picture frames." 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Merzbau&lt;/i&gt; was a forerunner of what we today call installation, as Schwitters conceived of the space as an immersive environment where interactivity was a fundamental factor. As art historian Jaleh Mansoor wrote, &lt;i&gt;Merzbau&lt;/i&gt; was "a &lt;i&gt;continuous project altered daily&lt;/i&gt;, the small apertures were often sliced out of a larger mass, or covered over and buried under the agglomeration of objects, wood or plaster." Fellow Dada artists, including Raoul Hausmann, Hannah Hoch, Hans Richter, and Sophie Taeuber-Arp, contributed pieces to the installation, which Schwitters originally called the &lt;i&gt;Cathedral of Erotic Misery&lt;/i&gt;. 
+				&lt;br/&gt;&lt;br/&gt;
+				For Schwitters, the work was meant to be the all-consuming culmination of what he called Merz. In 1918, Schwitters began creating the over 2,000 abstract collages, paintings, and drawings that he called &lt;i&gt;Merz&lt;/i&gt;. He connected its origins to the traumatic effects of World War I, explaining, "Things were in terrible turmoil... Everything had broken down and new things had to be made out of the fragments; and this is &lt;i&gt;Merz&lt;/i&gt;." Including detritus, such as movie tickets, broken pipes, chicken wire, and metal scraps, he said &lt;i&gt;Merz&lt;/i&gt; was "the combination of all conceivable materials for artistic purposes. And technically the principle of equal evaluation of the individual materials... A perambulator wheel, wire-netting, string and cotton wool are factors having equal rights with paint."
+				&lt;br/&gt;&lt;br/&gt;
+				Forced to relocate several times during World War II, Schwitters created multiple &lt;i&gt;Merzbaus&lt;/i&gt;, which were destroyed, and he left an unfinished one in England before his death. Based upon the surviving photographs, a reconstruction of the &lt;i&gt;Merzbau&lt;/i&gt; was subsequently built in Hanover. Contemporary art critic Rachel Cook described visiting the site, "The walls have disappeared behind constructions which comprise a series of grottoes, columns, shelves and cubes.... The effect of all this strange geometry is disorienting and paradoxical. Even as you're beset by a sense that the floor is shrinking and the ceiling growing ever lower, the structure itself seems somehow to be infinite." Instead of creating a simple sculpture, Schwitters created a built environment, pushing Assemblage art beyond sculpture and into installation. Here was an art form that had to be physically experienced - walked through - in order to be comprehended.
+				&lt;br/&gt;&lt;br/&gt;
+				Schwitters became foundational to later artists, including Robert Rauschenberg and Richard Hamilton who, as a student, helped move and restore part of the third &lt;i&gt;Merzbau&lt;/i&gt; in England, and subsequent art movements, including Neo-Dada, Pop Art, and Arte Povera. 
+			</desc>
+      <collection>Destroyed in 1943</collection>
+    </artwork>
+    <artwork>
+      <title>Object</title>
+      <artist>Meret Oppenheim</artist>
+      <year>1936</year>
+      <materials>Fur-covered cup, saucer, and spoon</materials>
+      <desc>
+				This iconic Surrealist work presents an ordinary cup, saucer, and spoon lined with fur from a Chinese gazelle, which has been placed so that fur emphasizes the round shape of the cup and the spoon. The work confounds sensual pleasure, as the tactile nature of the fur both attracts the touch of the hand and repeals the mouth, the pleasure of drinking from the cup stymied. Following the Museum of Modern Art's 1936-37 exhibition &lt;i&gt;Fantastic Art, Dada&lt;/i&gt;, Alfred H. Barr Jr., the director, noted, "Few works of art in recent years have so captured the popular imagination... The 'fur-lined tea set' makes concretely real the most extreme, the most bizarre improbability."
+				&lt;br/&gt;&lt;br/&gt;
+				Oppenheim first unveiled this work at the &lt;i&gt;Exposition surréaliste d'objets&lt;/i&gt; in 1936, and it was subsequently shown in London and later New York. Breton saw the work as exemplifying Surrealism's aim to "hound the made beast of function," and Max Ernst noted the work's significance with a tone of wry rivalry, "Who covers a soup spoon with precious fur? Who has outpaced us? Little Meret." Subsequently, as art critic Alexxa Gotthardt wrote, the pioneering work "began to assume its position as a tantalizing expression of Surrealist ideals: a sculpture that joined incongruous parts to create an impossible, uncanny object."
+				&lt;br/&gt;&lt;br/&gt;
+				When the Museum of Modern Art purchased this work in 1936, it marked the first time the museum had purchased a work by a female artist. In addition to being an important example of Surrealism, the work is also a significant precursor of the Feminist Art movement. 
+			</desc>
+      <collection>The Museum of Modern Art, New York, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Untitled (Soap Bubble Set)</title>
+      <artist>Joseph Cornell</artist>
+      <year>1936</year>
+      <materials>Wood, glass, plastic, paper, box construction</materials>
+      <desc>
+				This shadow box, Cornell's first effort in the signature Assemblage for which he is famous, combines a bird's egg, a doll's head, a fluted glass, a soap bubble pipe, and four cups, displayed against a print of the moon's geography. The wood and glass planes dividing the box create a sense of geometric order, framing the soap bubble pipe and the moon, images of elevation and flight, within the box's confined space. As art critic Olivia Laing noted of Cornell, "In his own artwork, which he didn't begin until he was almost 30, he made obsessive, ingenious versions of the same story: a multitude of found objects representing expansiveness and flight, penned inside glass-fronted cases."
+				&lt;br/&gt;&lt;br/&gt;
+				Influenced by Max Ernst's &lt;i&gt;La Femme 100 Têtes&lt;/i&gt; (1929), Cornell began to make collages in the early 1930s. He associated with the leading Surrealists and exhibited in the 1932 &lt;i&gt;Surréalisme&lt;/i&gt; show. This work was made for MoMA's 1936 &lt;i&gt;Fantastic Art, Dada and Surrealism&lt;/i&gt;. As art critic Jonathan Jones wrote, "From his collections of glass swans, Baedeker guidebooks, clay pipes, compasses and other suggestive souvenirs of the day before yesterday he invented a new kind of art." Cornell's boxes are at once thoroughly avant-garde, with their connections to the then-current Dada and Surrealism, as well as nostalgic memories of the past, with their allusions to old film actresses, dove cotes, and children's pastimes.
+				&lt;br/&gt;&lt;br/&gt;
+				While he was well-known among New York avant-garde artists in the 1930s and 1940s, Cornell's work was only fully recognized in the 1960s, when the Guggenheim Museum held a retrospective in 1967. As Laing noted, "Cornell is seldom given his due in art-history textbooks, which tend to repeat the familiar post-war narrative in which Robert Rauschenberg and his 'Combines' (&lt;i&gt;Monogram&lt;/i&gt;, 1955-59) launched the junk-into-art aesthetic in America.... Yet Cornell directly inspired Rauschenberg's early use of found objects.... 'The only difference between me and Cornell,' Rauschenberg once told me, 'is that he put his work behind glass, and mine is out in the world.'"
+			</desc>
+      <collection>Wadsworth Atheneum Museum of Art, Hartford, Connecticut</collection>
+    </artwork>
+    <artwork>
+      <title>Monogram</title>
+      <artist>Robert Rauschenberg</artist>
+      <year>1955-59</year>
+      <materials>Oil paint, paper, fabric, printed reproductions, metal, wood, rubber shoe-heel, and tennis ball on two conjoined canvases with oil on taxidermied Angora goat with brass plaque and rubber tire on wood platform mounted on four casters</materials>
+      <desc>
+				This famous Assemblage improbably combines a taxidermied Angora goat, wearing a tire around its mid-section, with an abstract painting that includes a tennis ball and strips of wood. The work was prompted by Rauschenberg's discovery of the goat in a used furniture store, though he spent four years working out the possible combinations before deciding to attach the goat to the horizontal painting as if it were a pasture. The work evokes surprise and incongruity, as Rauschenberg said, "I wanted to use the surprise.... So the object itself was changed by its context and therefore it became a new thing." The effect of the surprising combination is made more compelling by its use of undeniably real materials, as the artist said, "I think a picture is more like the real world when it's made out of the real world."
+				&lt;br/&gt;&lt;br/&gt;
+				The work is a culmination of Assemblage's early history, with its combination of readymades, evoking Duchamp, and its wooden platform painting, evoking Schwitters' &lt;i&gt;Merz&lt;/i&gt;. As Frances Morris, director of Tate Modern said, "Rauschenberg is one of those artists who, in the decade after the second world war, truly transformed the nature of artistic practice, smashing through the boundaries of different media." A leader of what was later dubbed Neo-Dada, Rauschenberg called such works "combines," hybrids of sculpture and painting. His work influenced subsequent movements, including Conceptual Art, Performance Art, and the 1980s Young British Artists, including Damien Hirst and Tracey Emin.
+			</desc>
+      <collection>Moderna Museet, Stockholm</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Sky Cathedral</title>
+      <artist>Louise Nevelson</artist>
+      <year>1958</year>
+      <materials>Painted Wood</materials>
+      <desc>
+				Nevelson's Assemblage made of boxes and three-dimensional objects towers against a wall and is painted monochromatically black, giving it a pictorial quality. The allover color minimizes the depth of the objects, but the curving and geometric shapes both extend outward and recede inward, creating inky black entrances and crevices as if the work were the improbable edifice its title indicates. Nevelson salvaged these boxes, pieces of wood, spindles, dowels, architectural ornaments, and moldings from various construction sites in New York City before gluing and nailing them together. Nevelson said, "When I look at the city from my point of view, I see New York City as a great big sculpture." But as much as the Assemblage recalls New York architecture, the monumental work also evokes other mysterious spatial and spiritual realms. By painting the piece black, she unified the individual components and erased their past histories, as she described, black "is the total color. It means totality. It means: contains all." 
+				&lt;br/&gt;&lt;br/&gt;
+				It is clear that Nevelson carefully arranged the items in each of the smaller boxes creating intuitive and suggestive compositions, but she later denied being interested in the individual boxes. Initially, the boxes were not nailed together, and the arrangement of the stacked boxes was variable, changing each time it was installed, although eventually Nevelson became more particular about fixed arrangements. 
+				&lt;br/&gt;&lt;br/&gt;
+				With its scale, monochromatic color, and allover composition, Nevelson's work can be seen as a sculptural response to Abstract Expressionist painting that dominated her era, but it also challenges Clement Greenberg, champion of Abstract Expressionism, who emphasized flatness and media specificity, as the work's three dimensionality blurs the distinction between sculpture, painting, and installation. While she eschewed feminists labels, Nevelson's work was a primary influence upon subsequent artists, such as Eva Hesse and later feminists, and also influenced the development of Installation Art in the late 1960s. 
+			</desc>
+      <collection>The Museum of Modern Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Homage to New York</title>
+      <artist>Jean Tinguely</artist>
+      <year>1960</year>
+      <materials>Found objects, motorized elements</materials>
+      <desc>
+				This mechanical and kinetic Assemblage is composed of various found objects, including a piano, a go-cart, and a bathtub, along with autonomous motors, scrap metal, and mechanical wheels. The monumental work, standing twenty-seven feet tall and originally painted white, was meant to be set into clanking angular motion, providing a spectacle for the audience, before self-destructing in an explosion, triggered by a control button. According to the Museum of Modern Art, "During its brief operation, a meteorological trial balloon inflated and burst, colored smoke was discharged, paintings were made and destroyed, and bottles crashed to the ground. A player piano, metal drums, a radio broadcast, a recording of the artist explaining his work, and a competing shrill voice correcting him provided the cacophonic sound track to the machine's self-destruction - until it was stopped short by the fire department." Indeed, a mechanical misfire, 27 minutes into the performance, sparked a fire that destroyed the machine except for a fragment, now in the Museum of Modern Art's collection. 
+				&lt;br/&gt;&lt;br/&gt;
+				Tinguely pioneered mechanized kinetic Assemblage. As he wrote, "Everything moves continuously. Immobility does not exist. Don't be subject to the influence of out-of-date concepts. Forget hours, seconds, and minutes. Accept instability. Live in time. Be static - with movement." The innovative work also emphasized collaboration, as he worked with engineers, most notably Billy Klüver, and artists, including Robert Rauschenberg who contributed his &lt;i&gt;Money Thrower&lt;/i&gt;, which threw silver dollars into the crowd at one point in the performance. 
+				&lt;br/&gt;&lt;br/&gt;
+				Tinguely's concepts have become fundamental to contemporary art, as his influence can be seen in the works of Joep van Lieshout and Jordan Wolfson, as well as popular events, such as the Burning Man Festival, and art projects created by Survival Research Laboratories in San Francisco.
+			</desc>
+      <collection>The Museum of Modern Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Liberation of Aunt Jemima</title>
+      <artist>Betye Saar</artist>
+      <year>1972</year>
+      <materials>Mixed media</materials>
+      <desc>
+				In this Assemblage, an Aunt Jemima figurine, commonly sold as a pencil and notepad holder to housewives, transformed into a revolutionary, as she holds a rifle in her hand in addition to a broom and stands amidst a carpet of cotton. The "mammy" figure emerged in the United States in the late 1800s and was a grotesque stereotype of black women that was used to sell home goods to women who worked in the home. Standing in front of wallpaper displaying ads for Aunt Jemima syrup, the figure holds a postcard in front of her. As Saar described, "In front of her, I placed a little postcard, of a mammy with a mulatto child, which is another way black women were exploited during slavery. I used the derogatory image to empower the black woman by making her a revolutionary, like she was rebelling against her past enslavement." 
+				&lt;br/&gt;&lt;br/&gt;
+				The glass vitrine, recalls Joseph Cornell's surrealist shadow boxes, which she encountered in a 1967 Pasadena Art Museum exhibition, as well as Andy Warhol's gridded, Pop Art screen prints of Marilyn Monroe and other celebrities. In this early work, she turns her influencers into a work of social and political protest. Subsequently, she began collecting racist and derogatory items at local yard sales, and noted, "My work started to become politicized after the death of Martin Luther King in 1968. But &lt;i&gt;The Liberation of Aunt Jemima&lt;/i&gt;...was the first piece that was politically explicit. There was a community center in Berkeley, on the edge of Black Panther territory in Oakland, called the Rainbow Sign. They issued an open invitation to black artists to be in a show about black heroes, so I decided to make a black heroine." In 1960s Los Angeles, a number of African American artists turned to Assemblage, including David Hammons and John Outterbridge. They saw in it a way to bridge not only art and life, but the personal and the political, appropriating (and re-appropriating) racist images and objects and giving them new meanings. As art historian Caroline A. Miranda writes, "In Saar's hands...these notorious artifacts became something mighty," and the noted activist Angela Davis credits this work as the beginning of the black women's movement. Saar's work continues to attract contemporary attention, as seen in her 2019 solo exhibition at New York's Museum of Modern Art.
+			</desc>
+      <collection>University of California, Berkeley Art Museum and Pacific Film Archive, Berkeley, California</collection>
+    </artwork>
+    <artwork>
+      <title>Long Term Parking</title>
+      <artist>Arman</artist>
+      <year>1982</year>
+      <materials>Automobiles in concrete</materials>
+      <desc>
+				This monumental work, standing 50 feet high, is an Assemblage of 60 cars embedded in concrete. Made of 40,000 pounds of concrete, the work, as art critic Nessia Pope writes, "makes evident the undeniable mass of objects and our relationship to them by underlining the proportions of the cars and of the column they composed with that of a human being." 
+				&lt;br/&gt;&lt;br/&gt;
+				In 1960, Arman began developing Assemblages that he called "accumulations," which according to Pope, transformed the objects "into a new amalgamated object - a unique kind of sculpture." His works ranged from a collection of gas masks in a Plexiglas case to his famous and controversial &lt;i&gt;Full Up&lt;/i&gt; (1960), where he filled the Galerie Iris Clert with trash collected from the Paris streets. With &lt;i&gt;Long Term Parking&lt;/i&gt;, he also pioneered the use of Assemblage as public art. As he noted, "The perfect knowledge of the visual impact of objects is a part of my work. I have a very simple theory. I have always pretended that objects themselves formed a self-composition. My composition consisted of allowing them to compose themselves."
+				&lt;br/&gt;&lt;br/&gt;
+				To make this work he selected the various cars, almost all by French auto makers, by noting particular cars he saw driving by and then finding the same model in a junkyard. Before embedding the cars in concrete, they were restored and painted to enhance their visual effect. Over time, the pigments have faded, and exposed elements have begun to suffer some corrosion, reflecting Arman's view that over a long period of time, the cars would eventually began to collapse, leaving their empty space in the concrete as a wry comment on the disposable nature of consumer culture. His accumulations profoundly influenced subsequent artists, including Jeff Koons, Damien Hirst, and Martha Rosler.
+			</desc>
+      <collection>Chateau de Montcel, Jouy-en-Josas, France</collection>
+    </artwork>
+    <artwork>
+      <title>Meta-Monumental Garage Sale</title>
+      <artist>Martha Rosler</artist>
+      <year>2012</year>
+      <materials>Various items</materials>
+      <desc>
+				Ordered for the flow of traffic, this "garage sale" at New York's Museum of Modern Art includes neat rows of used furniture, display tables, two tents housing other items, a car, and a multitude of objects hung on the walls, from clothing to prints. A large flag and a sign reading "SAVE MONEY $" with an arrow painting down hang from the upper floor. Here, the Assemblage of disparate elements are not composed into a single work of art, but instead arranged separately in a large space, creating more of an installation to walk through than a sculpture to behold. Rosler supervised the event, for which she had also hired performance artists and actors to work the floor, and produced two issues of a pamphlet, including fake coupons made to resemble a newspaper. As Rosler noted, "The garage sale is about social and economic relations. It is a performance with an accompanying 'soundtrack.' Most visitors don't look beyond the fun and the bargains. That is why we needed this publication to function as it did, to offer news, history, notes, and critique. The themes of the two issues were The Social Lives of Objects and Work, Value, and Waste." 
+				&lt;br/&gt;&lt;br/&gt;
+				Rosler held her first garage sale, the &lt;i&gt;Monumental Garage Sale&lt;/i&gt;, in 1973, and said it "was prompted by my interest in commodity fetishism in the suburban world I was now inhabiting.... [It]... was as much about social transactions as about the exchange of money for goods." Reprised frequently, and also reconfigured as her &lt;i&gt;Traveling Garage Sales&lt;/i&gt;, Rosler's use of Assemblage masterfully challenges aesthetic categories and assumed boundaries between art and life. As art critic Randy Kennedy noted, the &lt;i&gt;Meta-Monumental Garage Sale&lt;/i&gt; was not a usual garage sale, but "a piece of performance art in which a garage sale is enacted." But the items are sold, making the event, as Rosler said, "...not symbolic activity. It's real activity. Like most things, it has symbolic dimensions. But it is what it is." 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>My Bed</title>
+      <artist>Tracey Emin</artist>
+      <year>1998</year>
+      <materials>Box frame, mattress, linens, pillows and various objects</materials>
+      <desc>
+				This controversial and iconic work consists of the artist's bed, linens strewn and stained, along with various items, including empty liquor bottles, used condoms, old newspapers, slippers, and underwear. Conveying an emotional rawness and plucked from real life, here Assemblage takes on a confessional quality in an installation that also shocks. As art critic Jonathan Jones wrote, Emin's works "remain flat, unredeemed; she transfigures nothing. But in many ways Emin's achievement is the same as Caravaggio's: she rubs our noses in reality, in a way that subverts all our illusions, fantasies, snobberies and repressions, those barriers we put up between us and death." In assembling these items, Emin does not transfigure them into something more aesthetic or artful but insists that the viewer confront them for what they are and how that might make for discomfort.
+				&lt;br/&gt;&lt;br/&gt;
+				Emin said the work was "a self-portrait, but not one that people would like to see." She explained the origins of the work: "I had a kind of mini nervous breakdown in my very small flat and didn't get out of bed for four days." When she was finally able to crawl out of bed, she described, "And then I thought, 'What if here wasn't here? What if I took out this bed...and placed it into a white space? How would it look then?' And at that moment I saw it, and it looked fucking brilliant. And I thought, this wouldn't be the worst place for me to die; this is a beautiful place that's kept me alive."
+				&lt;br/&gt;&lt;br/&gt;
+				Noting how the work evokes Rauschenberg's &lt;i&gt;Bed&lt;/i&gt; (1955), Jonathan Jones described Emin's innovation: "By lucky chance I saw Rauschenberg's &lt;i&gt;Bed&lt;/i&gt; again in New York a few weeks ago. In fact, the comparison helped me understand Emin's originality. Rauschenberg's bed is splattered with paint and...hangs on the wall.... Rauschenberg makes it quite clear that a transformation has taken place. Emin's bed, by contrast, has no aesthetic additions... it is just there, a messy fact, and a decade on, refuses to be anything else. It now looks like one of the truly great readymades."
+				&lt;br/&gt;&lt;br/&gt;
+				Shown at the Sagacho Exhibition Space in Tokyo in 1998, this work became iconic and exemplary of Young British Artists's emphasis on shock and spectacle, and later led to her being shortlisted for the Turner Prize. Emphasizing a messy and autobiographical reality, her work has redefined Assemblage for contemporary artists such as Song Dong and Tokomo Takahashi, whose installations include accumulations of autobiographical objects, displayed in their original chaos.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>schwitters_kurt</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>duchamp_marcel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hausmann_raoul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tatlin_vladimir</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>oppenheim_meret</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ray_man</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>dubuffet_jean</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>rauschenberg_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>kienholz_edward</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>dine_jim</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>merz_mario</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>arman</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>nevelson_louise</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cornell_joseph</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tinguely_jean</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>kaprow_allan</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>christo_and_jean_claude</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>spoerri_daniel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>rosler_martha</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>saar_betye</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hirst_damien</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>emin_tracey</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ossorio_alfonso</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="videos">
+      <subcategory name="name:" class="clips">
+        <entry>
+          <title>Kurt Schwitters: Merzbau 2013</title>
+          <link is_inline_video="true" inline_video_type="youtube">P-xUJmiEHW4</link>
+          <info>BAMPFA</info>
+        </entry>
+        <entry>
+          <title>Contemporary Responses to Kurt Schwitters | TateShots 2013</title>
+          <link is_inline_video="true" inline_video_type="youtube">8PF1KcGvJUw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Meret Oppenheim. Retrospektive. Martin-Gropius-Bau, Berlin 2013</title>
+          <link is_inline_video="true" inline_video_type="youtube">HsM4ivPItD0</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Mark Stokes - Joseph Cornell: Worlds in a box</title>
+          <link is_inline_video="true" inline_video_type="youtube">T65K0ipTQHo</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Jean Tinguely, Homage to New York, 1960</title>
+          <link>https://vimeo.com/218619751</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Audio. Robert Breer. Homage to Jean Tinguely's Homage to New York. 1960</title>
+          <link>https://www.moma.org/audio/playlist/40/649</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Robert Rauschenberg - Pop Art Pioneer Full BBC Documentary 2016</title>
+          <link is_inline_video="true" inline_video_type="youtube">yELmPbQNx9M</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Assemblage and Politics (Modern Art in Los Angeles)</title>
+          <link is_inline_video="true" inline_video_type="youtube">RkbTaY_XjZA</link>
+          <info>Getty Research Institute</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hunters &amp; Gatherers: The Art of Assemblage</title>
+          <link is_inline_video="true" inline_video_type="youtube">vGtWs3WU_ZU</link>
+          <info>Sotheby's</info>
+        </entry>
+        <entry recommended="true">
+          <title>Louise Nevelson Sky Cathedral video</title>
+          <link>https://www.moma.org/collection/works/81006</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Betye Saar: The Liberation of Aunt Jemima</title>
+          <link is_inline_video="true" inline_video_type="youtube">MvJvyFBcvD4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Tracey Emin on My Bed | TateShots</title>
+          <link is_inline_video="true" inline_video_type="youtube">uv04ewpiqSc</link>
+          <info>2015</info>
+        </entry>
+        <entry>
+          <title>Martha Rosler's Meta-Monumental Garage Sale at MoMA 2012</title>
+          <link is_inline_video="true" inline_video_type="youtube">fOJJdCh5TLE</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry recommended="true">
+          <title>Sunday at the Met - Robert Rauschenberg: Combines</title>
+          <link>https://www.metmuseum.org/exhibitions/listings/2005/robert-rauschenberg</link>
+          <info>Conversation with Robert Rauschenberg and Calvin Tomkins</info>
+        </entry>
+        <entry>
+          <title>ART EXPLAINED | Robert Rauschenberg Monogram at Tate Modern</title>
+          <link is_inline_video="true" inline_video_type="youtube">ojxkeP9HPbo</link>
+          <info>Talk by Sarah Phillips</info>
+        </entry>
+        <entry recommended="true">
+          <title>Inside 'Joseph Cornell: Wanderlust" 2015</title>
+          <link is_inline_video="true" inline_video_type="youtube">xjOLztKg0Pk</link>
+          <info>
+						Royal Academy of Arts
+						&lt;br/&gt;
+						Sarah Lea
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Assemblage</title>
+          <link is_inline_video="true" inline_video_type="youtube">alCiumy8tjE</link>
+          <info>
+						MOCA
+						&lt;br/&gt;
+						Artists George Herms and Betye Saar and MOCA Chief Curator Helen Molesworth
+					</info>
+        </entry>
+        <entry>
+          <title>Betye Saar interview</title>
+          <link is_inline_video="true" inline_video_type="youtube">Lhq9o0KEsr4</link>
+          <info>Netropolitan Artsconversations</info>
+        </entry>
+        <entry>
+          <title>Art and everyday life</title>
+          <link is_inline_video="true" inline_video_type="youtube">8JGoG6zuEvY</link>
+          <info>
+						Lecture by Martha Rosler 2014
+						&lt;br/&gt;
+						lisbonconsortium
+					</info>
+        </entry>
+        <entry>
+          <title>Assemblage - Sculpture: Jeremy Mayer at TEDxGoldenGatePark (2D)</title>
+          <link is_inline_video="true" inline_video_type="youtube">ae8fSGRjOuA</link>
+          <info>TEDx Talks November 29, 2012</info>
+        </entry>
+        <entry>
+          <title>The Art of Assemblage - George Herms | Agathe Snow - MOCA U - MOCAtv</title>
+          <link is_inline_video="true" inline_video_type="youtube">G-OSlFMOmc4</link>
+          <info>MOCA</info>
+        </entry>
+        <entry>
+          <title>HANNELORE BARON : A COLLAGE AND ASSEMBLAGE EXHIBITION</title>
+          <link is_inline_video="true" inline_video_type="youtube">EOFfwGkymk0</link>
+          <info>ERIC MINH SWENSON</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>The Art of Assemblage</title>
+          <link>https://www.moma.org/documents/moma_catalogue_1880_300062228.pdf</link>
+          <info>By William C. Seitz</info>
+        </entry>
+        <entry>
+          <title>Critical Writings: New Edition</title>
+          <link>https://books.google.ru/books?id=c-B9EJGYbAMC</link>
+          <info>By Filippo Tommaso Marinetti</info>
+        </entry>
+        <entry>
+          <title>Kurt Schwitters Merzbau: The Cathedral of Erotic Misery (Building Studies)</title>
+          <link>1568981368</link>
+          <info>By Elizabeth Burns Gamard</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="paintings" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Marcel Duchamp (1887-1968)</title>
+          <link>https://www.metmuseum.org/toah/hd/duch/hd_duch.htm</link>
+          <info>
+						Heilbrunn Timeline of Art History Essay
+						&lt;br&gt;
+						By Nan Rosenthal
+					</info>
+        </entry>
+        <entry>
+          <title>Louise Nevelson Foundation</title>
+          <link>https://www.louisenevelsonfoundation.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Robert Rauschenberg Foundation</title>
+          <link>https://www.rauschenbergfoundation.org/art/series/combine</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Betye Saar website</title>
+          <link>http://www.betyesaar.net/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Arman Studio</title>
+          <link>http://www.armanstudio.com/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Christo and Jeanne Claude Official Website</title>
+          <link>http://christojeanneclaude.net</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Martha Rosler website</title>
+          <link>http://www.martharosler.net/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>A Technical Study of Picasso's Construction Still Life 1914</title>
+          <link>https://www.tate.org.uk/research/publications/tate-papers/11/technical-study-of-picasso-construction-still-life-1914</link>
+          <info>
+						By Jackie Heuman
+						&lt;br&gt;
+						Tate Papers No. 11
+						&lt;br&gt;
+						Spring 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Kurt Schwitters: Reconstructions of the Merzbau</title>
+          <link>https://www.tate.org.uk/research/publications/tate-papers/08/kurt-schwitters-reconstructions-of-the-merzbau</link>
+          <info>
+						By Karin Orchard
+						&lt;br&gt;
+						Tate Papers No. 8 
+						&lt;br&gt;
+						Autumn 2007
+					</info>
+        </entry>
+        <entry>
+          <title>African Influences in Modern Art</title>
+          <link>https://www.metmuseum.org/toah/hd/aima/hd_aima.htm</link>
+          <info>
+						By Denise Murrell
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Raoul Hausmann's Revolutionary Media: Dada Performance, Photomontage and the Cyborg</title>
+          <link>https://pdfs.semanticscholar.org/7d89/ba23db790bcbf0f13af1ccd734aa8b93ac7d.pdf</link>
+          <info>
+						By Matthew Brio 
+						&lt;br&gt;
+						seminaticscholar.org 
+						&lt;br&gt;
+						2007
+					</info>
+        </entry>
+        <entry>
+          <title>Kurt Schwitters: the modernist master in exile</title>
+          <link>https://www.theguardian.com/artanddesign/2013/jan/06/kurt-schwitters-modernist-master-exile</link>
+          <info>
+						By Rachel Cooke
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						January 6, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Kurt Schwitters' Merzbau: The Desiring House</title>
+          <link>https://www.rochester.edu/in_visible_culture/Issue4-IVC/Mansoor.html</link>
+          <info>
+						By Jaleh Mansoor
+						&lt;br&gt;
+						InVisible Culture: An Electronic Journal for Visual Culture (IVC) 
+						&lt;br&gt;
+						Issue 4, March 1, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>The Spirit of Our Time - Mechanical Head, Raoul Hausmann (1919)</title>
+          <link>https://www.theguardian.com/culture/2003/sep/27/art</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 27, 2003
+					</info>
+        </entry>
+        <entry>
+          <title>MoMA's First Work by a Female Artist Was a Fur-Lined Teacup</title>
+          <link>https://www.artsy.net/article/artsy-editorial-momas-first-work-female-artist-fur-lined-teacup</link>
+          <info>
+						By Alexa Gotthardt
+						&lt;br&gt;
+						Artsy 
+						&lt;br&gt;
+						January 11, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>'Luncheon In Fur': The Surrealist Teacup That Stirred The Art World</title>
+          <link>https://www.npr.org/sections/thesalt/2016/02/09/466061492/luncheon-in-fur-the-surrealist-tea-cup-that-stirred-the-art-world</link>
+          <info>
+						By Nina Martyris
+						&lt;br&gt;
+						NPR 
+						&lt;br&gt;
+						February 9, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Jean Tinguely's Clamor Still Echoes Today</title>
+          <link>https://www.nytimes.com/2016/10/14/arts/design/jean-tinguelys-clamor-still-echoes-today.html</link>
+          <info>
+						By Nina Siegal
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 14, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Joseph Cornell: Pioneer of assemblage art</title>
+          <link>https://www.royalacademy.org.uk/article/joseph-cornell-shadow-boxes-assemblage-art</link>
+          <info>
+						By Deborah Solomon
+						&lt;br&gt;
+						Royal Academy of Arts 
+						&lt;br&gt;
+						May 21, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Joseph Cornell: how the reclusive artist conquered the art world - from his mum's basement</title>
+          <link>https://www.theguardian.com/artanddesign/2015/jul/25/joseph-cornell-wanderlust-royal-academy-exhibition-london</link>
+          <info>
+						By Olivia Laing
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						July 25, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Joseph Cornell: Wanderlust review - like being lost in a wondrous Victorian attic</title>
+          <link>https://www.theguardian.com/artanddesign/2015/jun/30/joseph-cornell-wanderlust-review-royal-academy-of-arts</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						June 20, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Arman, 76; Sculptor Made Art Out of Everyday Objects</title>
+          <link>https://www.latimes.com/archives/la-xpm-2005-oct-31-me-arman31-story.html</link>
+          <info>
+						By Mary Rourke 
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						October 31, 2005
+					</info>
+        </entry>
+        <entry>
+          <title>How Arman Opened the Door For Assemblage Art</title>
+          <link>https://www.artspace.com/magazine/art_101/close_look/close_look_arman-51788</link>
+          <info>
+						By Nessia Pope
+						&lt;br&gt;
+						Art Space 
+						&lt;br&gt;
+						November 21, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Betye Saar: the artist who helped spark the black women's movement</title>
+          <link>https://www.theguardian.com/artanddesign/2018/oct/30/betye-saar-art-exhibit-racism-new-york-historical-society</link>
+          <info>
+						By Nadja Sayej
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 20, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>For Betye Saar, there's no dwelling on the past; the almost-90-year-old artist has too much future to think about</title>
+          <link>https://www.latimes.com/entertainment/arts/miranda/la-ca-cam-betye-saar-20160501-story.html</link>
+          <info>
+						By Caroline A. Miranda
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						April 29, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Construction Industry: Contemporary Assemblage, Construction and Relief</title>
+          <link>https://www.studiointernational.com/index.php/construction-industry-contemporary-assemblage-relief-review-art-in-perpetuity-trust-london</link>
+          <info>
+						By Alexander Glover
+						&lt;br&gt;
+						Studio International 
+						&lt;br&gt;
+						February 9, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Martha Rosler on the Garage Sale, plights of modern workers, and her college days in California</title>
+          <link>https://www.miandn.com/attachment/en/57f5103384184e06458b4568/Press/57f5107184184e06458b65df</link>
+          <info>
+						By James Eischen
+						&lt;br&gt;
+						Bomblog 
+						&lt;br&gt;
+						November 7, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>No Picassos, But Plenty Off the Wall Bargains</title>
+          <link>https://www.nytimes.com/2012/11/17/arts/design/martha-roslers-meta-monumental-garage-sale-at-moma.html</link>
+          <info>
+						By Randy Kennedy
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						November 16, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Tracey was here</title>
+          <link>https://www.theguardian.com/culture/2008/aug/05/edinburghfestival.art</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						August 5, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Assemblages - The Entrails Explained</title>
+          <link>https://www.axonjournal.com.au/issue-9/assemblages</link>
+          <info>
+						By Drager Meurtant
+		</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

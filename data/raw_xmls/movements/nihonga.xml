@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>nihonga</id>
+    <name>Nihonga</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1882 - present</years>
+    <keywords>nihonga, art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy</keywords>
+    <description>Nihonga artists preserved the heritage of classical Japanese painting and techniques as opposed to Yoga artists that embraced Western traditions.</description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1882</start>
+    <pub_time>3/8/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>hokusai_katsushika</artist>
+    <artist>hiroshige_utagawa</artist>
+    <artist>murakami_takashi</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>sosaku_hanga_creative_prints</movement>
+    <movement>yoga_western_style_japanese_painting</movement>
+    <movement>gutai</movement>
+    <movement>superflat</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>sosaku-hanga-creative-prints</entry>
+    <entry>yoga_western_style_japanese_painting</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="bakusen_tsuchida" alt="Tsuchida Bakusen">"The more I stare at nature, the more I move away from aspects such as form and am overcome by a strange inspiration."</q>
+    <q author="Mise Natsunosuke">"All I want to do is convey the nuances of my own way of painting Nihonga (just as I would in speaking Japanese)."</q>
+    <q author="Mise Natsunosuke">"I am just a country painter with no political or financial power. And yet, I struggle and protest. The giants that appear in my paintings maybe evil itself, here to destroy everything in sight, or perhaps saviors who will help build a new future)."</q>
+    <q author="Fuyuko Matsui">"My interest in painting ghosts comes from a long, lost tradition in Japan that has almost disappeared...to use demons to control demons."</q>
+    <q author="Fuyuko Matsui">"...images act as talismans..."</q>
+    <q author="Hisashi Tenmyouya">"My intention is to dig down to the depth and moreover, to grip Japan."</q>
+    <q author="Hisashi Tenmyouya">"I thought about the various older drawing schools, the techniques that were used. We should go back to them. That's true Japanese painting. So I called it 'neo-Japanese' painting.'"</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Nihonga developed as an art movement in direct response to the transformation of Japanese society during the Meiji Period. As Japan opened its trade borders for the first time in over two centuries, a push toward modernity occurred in all sectors of the country's society. Nihonga artists, though, felt the need to preserve the heritage of classical Japanese painting and techniques resulting in a reinvigoration of the form that paid homage to the past while updating it for the newly sophisticated times of global exposure and artistic influence.</synopsys>
+    <key_ideas>
+      <idea>While based on Japanese painting traditions over a thousand years old, the term Nihonga was coined to differentiate such works from Western style paintings, or &lt;span class="marked_text chart-tooltip-target-top tooltip_id-yoga_western_style_japanese_painting"&gt;Yōga&lt;/span&gt;, which had simultaneously risen as a major art movement.</idea>
+      <idea>The motivation for adopting a more modern Japanese style was largely spurred by artists and educators who wanted to combat Japan's adoption of Western artistic styles and techniques by emphasizing the importance and beauty of native Japanese traditional arts.</idea>
+      <idea>Not merely extending the older Japanese painting traditions into a modern idiom, Nihonga artists also broadened the range of subjects portrayed, and used stylistic and technical elements from a wide range of traditional schools so that the lines of distinction were minimized and Nihonga became a wide and all-encompassing umbrella for classic Japanese art.</idea>
+      <idea>Despite early resistance, Nihonga artists eventually incorporated elements of Western influence like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;naturalism&lt;/span&gt; and perspective into their work while remaining true to the ideals of historical Japanese art, materials, and techniques.</idea>
+      <idea>Throughout its history, Japanese art has been marked by artistic periods dominated by foreign influence followed by periods that emphasized only the Japanese style of painting. This pendulum in artistic influences reflects Japanese society's overall approach to the outside world, yet Nihonga remains a dominant and highly regarded art movement that continues to this day.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Early History of Japanese Painting">
+          <p type="img" alt="A scene from the &lt;i&gt;Genji Monogatari Emaki&lt;/i&gt; (c. 1130), in the &lt;i&gt;yamato-e&lt;/i&gt; style, depicts an aerial perspective of an interior scene at court." show="1">/images20/photo/photo_nihonga_1.jpg</p>
+          <p type="p">Japanese painting emerged in the mid-seventh century during the Nara Period (710-794). It was largely influenced by the arrival of Chinese &lt;i&gt;sumi&lt;/i&gt; ink painting and inspired by work of the Tang dynasty. In the subsequent Heian Period, &lt;i&gt;yamato-e&lt;/i&gt;, or Japanese style painting, developed in &lt;i&gt;emaki-mono&lt;/i&gt;, or works on long hand scrolls. This became known as the classic Japanese style. The most famous example was the &lt;i&gt;Genji Monogatari Emaki&lt;/i&gt; (c. 1130), which portrayed scenes from the first novel ever written, a classic of Japanese culture called &lt;i&gt;Tale of the Genji&lt;/i&gt; (before 1021).</p>
+          <p type="p">In the Edo Period (1603-1868), while the country was under rule by the Tokugawa shogunate another style evolved from &lt;i&gt;yamato-o&lt;/i&gt; called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;&lt;i&gt;ukiyo-e&lt;/i&gt;&lt;/span&gt;, which also consisted of works on scrolls and mainly depicted the pleasure centers of Japan and its leisurely lifestyle of the time. The principle difference was a departure from the more classical painting techniques and the proliferation of woodblock prints, which were largely popular and more commercially accessible to the masses. Simultaneously, the Nanga movement was a form of Japanese painting that was viewed as highly intellectual and drew inspiration solely from Chinese culture. There were many different schools, which taught and proliferated these major forms of art.</p>
+        </subsection>
+        <subsection title="Commodore Perry and the Forced Opening of Japan">
+          <p type="img" alt="This 1854 &lt;i&gt;ukiyo-e&lt;/i&gt;, or woodblock print, by an unknown artist depicts Commodore Perry's black ship, the Commodore portrayed as its masthead." show="1">/images20/photo/photo_nihonga_2.jpg</p>
+          <p type="p">In 1853, Commodore Perry of the United States Navy arrived with U.S. warships in Japan with the sole purpose of forcing open trade agreements between the countries. His "black ships," as the Japanese called them, opened fire in Edo Bay and the Japanese were forced by the superior firepower and technology to succumb to outside trade and influence. In the previous two centuries, Japan had been essentially closed to outside contact. With the arrival of the West, Japanese art became caught in the tension between indigenous painting styles and Western painting.</p>
+        </subsection>
+        <subsection title="The Meiji Period">
+          <p type="p">The Meiji Restoration Government came to power formally in 1868 with the end of the Tokugawa shogunate and the ascension of Emperor Meiji. Emperor Meiji's ambition was to modernize Japan and become a peer to the West in all areas of thought and culture. He said, "Knowledge shall be sought all over the world, and thereby the foundations of imperial rule shall be strengthened."</p>
+          <p type="p">The opening of trade with the West sparked an artistic exchange between countries. &lt;i&gt;Ukiyo-e&lt;/i&gt; prints were exported to Europe and launched &lt;span class="marked_text chart-tooltip-target-top tooltip_id-japonism"&gt;Japonisme&lt;/span&gt;; a French term reflecting a craze for all things Japanese in art and design. Simultaneously, many Japanese artists became inspired by Western artworks and knowledge of Western techniques and styles began to influence Japanese art. The Meiji government actively promoted the study of Western art by establishing art schools and inviting distinguished Western teachers and artists to teach in those schools. These modern art schools replaced the traditional Japanese schools established by noted masters who had taught subsequent generations of artists.</p>
+        </subsection>
+        <subsection title="Ernest F. Fenollosa">
+          <p type="img" alt="This &lt;i&gt;Boston Globe&lt;/i&gt; photograph shows Edward S. Morse, Okakura Kakuzō, Ernest F. Fenollosa, and William Sturgis Bigelow, from left to right. Morse was a zoologist but both he and Bigelow were noted collectors of Japanese art." show="1">/images20/photo/photo_nihonga_3.jpg</p>
+          <p type="p">A new movement Nihonga, meaning "Japanese painting," originated during this time. It was driven by the theories and advocacy of Ernest F. Fenollosa, a Harvard graduate who was invited to teach Western philosophy at the Imperial University in Tokyo. He first used the term in 1882 in his "The New Theory of Art" lecture, given at the Dragon Pond Society in Japan. While favoring the efforts to modernize Japan, he also had a deep appreciation for historical Japanese culture and art and felt that, while Japanese artists could learn from Western techniques, they should do so only to enrich their own traditions. Fenollosa's lecture advocated for traditional Japanese painting and defined its elements as: using outlines, a reduced color palette, not having shadows, and not aspiring to realism but rather emphasizing simple expression. Nihonga emphasized using mineral based pigments and &lt;i&gt;nikawa&lt;/i&gt;, a binding agent, and painting on scrolls and screens, to portray subjects like landscapes, &lt;i&gt;kacho-ga&lt;/i&gt; (bird and flower paintings), &lt;i&gt;bijin-ga&lt;/i&gt; (paintings of beautiful women), and scenes from Japanese culture and history.</p>
+          <p type="p">Okakura Kakuzō, a brilliant student who became Fenollosa's assistant and then collaborator, became a leading Nihonga theorist. The two men both worked to create opportunities for Nihonga artists, first by starting the Kangakai, or Painting Appreciation Society, then launching the Tokyo Art Institute in 1889.</p>
+          <p type="p">The artists Kanō Hōgai and Hashimoto Gahō, both of whom had previously been masters of the Kanō School of Japanese painting, became the first artistic leaders of the movement which first developed in Tokyo and then quickly spread to Kyoto where Takuichi Seiho became another noted leader of the movement.</p>
+          <p type="p">Nihonga's advocacy for traditional Japanese artistic techniques, materials, and styles was in direct opposition to Yōga, an art movement that had risen six years earlier which was favored by the Japanese government in its promotion of Western artistic styles and techniques, largely oil painting. Yet, Fenollosa also advocated that Nihonga painters learn from Western techniques, adopting some elements, in order to create an art that exemplified Japanese art while also establishing such art on an equal footing with the West.</p>
+        </subsection>
+        <subsection title="The Technique of Nihonga">
+          <p type="p">Nihonga employed the traditional style of Japanese painting or &lt;i&gt;yamato-e&lt;/i&gt;, to create works that had a matte finish resembling watercolor, where brushstrokes were not apparent, and line, created by &lt;i&gt;sumi&lt;/i&gt; ink, was emphasized. Nihonga was viewed as a spontaneous art form, revealing the artist's mind in a particular moment, rather than creating a realistic image.</p>
+          <p type="img" alt="This photograph from the Yamatane Museum, the first museum devoted to Nihonga and founded in 1966 in Tokyo, shows the essential tools of Nihonga." show="0">/images20/photo/photo_nihonga_4.jpg</p>
+          <p type="p">Nihonga employed only the traditional materials of Japanese painting. The image would first be sketched on paper or silk, then outlined in &lt;i&gt;sumi&lt;/i&gt; ink, made by mixing &lt;i&gt;nikawa&lt;/i&gt;, an animal-derived gelatin or glue, with lampblack. &lt;i&gt;Kofun&lt;/i&gt; (chalk) would then be used to cover the surface and then background color applied. Once the background dried, other colors would be added to complete the image. Artists used traditional fude and hake brushes of many variations, their bristles made of animal hair. All the materials were selected or processed with great care; for instance, paper was made from different species of trees to obtain a particular surface, and the silk used was different from that used for clothing.</p>
+          <p type="p">The water-soluble pigments were derived from various sources, primarily minerals that were ground in varying degrees of fineness to create varying intensities of color, but also vegetable materials, and sometimes raw earth or clay. The color white (&lt;i&gt;Gofun&lt;/i&gt;) was made from pulverized seashells, particularly oyster shells. Some artists and schools would use only a particular type of shell, knowledge of which was a closely guarded secret. Regardless of the source of the pigment, &lt;i&gt;nikawa&lt;/i&gt; was used as a binding agent, and &lt;i&gt;sumi&lt;/i&gt; ink could also be &lt;i&gt;saikobu&lt;/i&gt;, or colored, by adding pigments.</p>
+          <p type="p">To achieve different decorative effects, finely beaten gold, platinum, and silver were often used as metallic leaf for backgrounds, and, in those cases, would be applied to the supporting silk. The metals, ground into fine dust, were also used for final touches. All of these elements of craft were considered to be part of the artistic process of painting.</p>
+        </subsection>
+        <subsection title="Okakura Kakuzō">
+          <p type="img" alt="A pre-1905 photograph of Okakura Kakuzō shows him wearing the traditional clothing of a Japanese literati or scholar." show="1">/images20/photo/photo_nihonga_5.jpg</p>
+          <p type="p">Okakura Kakuzō's writing was to have a great influence on the development of Nihonga and upon Japanese aesthetics. His concept that all Asian art had an essential unity was expressed in his book &lt;i&gt;The Ideals of the East with Special Reference to the Art of Japan&lt;/i&gt; (1903). In it, he wrote, "Asia is one." He identified Asian, for all of its differences between various cultures, as sharing a "broad expanse of love for the Ultimate and Universal," in contrast to the West, which he characterized as pursuing "the particular" and valuing "means without thought of an end." &lt;i&gt;The Awakening of Japan&lt;/i&gt; (1904) further developed his ideas that "the glory of the West is the humiliation of Asia" and emphasized a need to preserve Japanese culture, wedded to Asia, from domination by Western ideas. His theories became the foundation for Nihonga, and were felt internationally, influencing writers like the Indian poet Rabindranath Tagore and the American modernist Ezra Pound, as well as the philosopher Martin Heidegger, and the art patron Isabella Stewart Gardner.</p>
+        </subsection>
+        <subsection title="The Painting Appreciation Society (1884)">
+          <p type="img" alt="Kanô Hôgai's painting &lt;i&gt;fukuryû rakan zu&lt;/i&gt; (&lt;i&gt;Diving Dragon and Arhat&lt;/i&gt;) (1885) in the Kanô School style depicts an &lt;i&gt;arhat&lt;/i&gt;, a person who has attained enlightenment in the religious life, holding a dragon that coils around him." show="1">/images20/photo/photo_nihonga_6.jpg</p>
+          <p type="p">In 1884, Fenollosa launched the Kangakai, the Painting Appreciation Society. Such societies were important hubs of advocacy for artistic styles and the promotion of their artists' work. Kangakai's annual art competition became the leading venue for work by artists like Hôgai, whose painting &lt;i&gt;fukuryû rakan zu&lt;/i&gt; (&lt;i&gt;Diving Dragon and Arhat&lt;/i&gt;) (1885) won a prize in the first competition sponsored by the Society. Hôgai was a well-known painter, but in the early Meiji period, like many traditional artists, he fell on hard times and took up metal working and running a small shop to make ends meet. Winning an award in the subsequent year's competition as well, Hôgai became an acknowledged leader of the Nihonga movement, as did his former students Hashimoto Gahô and Yokoyama Taikan.</p>
+        </subsection>
+        <subsection title="Kakuzō">
+          <p type="img" alt="This photograph shows six early issues of Kokka: &lt;i&gt;An Illustrated Monthly Journal of the Fine and Applied Arts of Japan and Other Asian Countries&lt;/i&gt;, in the Japanese language version, hand-sewn to open left to right." show="0">/images20/photo/photo_nihonga_7.jpg</p>
+          <p type="p">In 1889 Okakura Kakuzō, along with newspaper editor Takahashi Kenzō and an unnamed wealthy art patron, founded the magazine &lt;i&gt;Kokka: An Illustrated Monthly Journal of the Fine and Applied Arts of Japan and Other Asian Countries&lt;/i&gt;. The first Japanese art magazine &lt;i&gt;Kokka&lt;/i&gt; meant "flower of the nation," and included scholarly articles, images of artworks, and an original woodcut print in each issue. The magazine became a prominent advocate for Japanese art and is still being published today. English editions started circulating in the early 1900s, reaching an international audience. At its inception, the magazine promoted Nihonga alongside other Asian art styles.</p>
+        </subsection>
+        <subsection title="The City of Kyoto and Takuichi Seiho">
+          <p type="img" alt="Okyo Maruyama's &lt;i&gt;Peacocks and Peonies&lt;/i&gt; (1768) showing the founder of the Maruyama School's masterful inclusion of Naturalism, influenced by the West, within the decorative design and traditional “birds and flowers” genre of Japan." show="1">/images20/photo/photo_nihonga_8.jpg</p>
+          <p type="p">The artists of the Kyoto region were primarily associated with the Maruyama and Shijo schools, which promoted realistic drawing, as shown by the Okyo Maruyama's &lt;i&gt;Peacocks and Peonies&lt;/i&gt; (1768). The art critic Robert Reed has described Maruyama's work as offering a fresh alternative. He said, "His new style of painting was based on a practice that was quite uncommon at the time: sketching directly from nature." This emphasis on naturalistic observation distinguished the work of Kyoto Nihonga.</p>
+          <p type="img" alt=" Takuichi Seihō's &lt;i&gt;Cockfighting&lt;/i&gt; (1926) depicts the dynamic encounter between two fighting roosters, flying up into the empty space around them, their talons reaching toward one another in a vivid display of movement." show="1">/images20/photo/photo_nihonga_9.jpg</p>
+          <p type="p">Kyoto became a noted center of Nihonga, sometimes engaging in friendly rivalry with Nihonga artists in Tokyo. However, it was primarily the artist Takuichi Seihō who became the leader of the movement. Seihō's work drew upon the Murayama School of painting, but as he was inexhaustibly innovative, he also drew upon 15&lt;sup&gt;th&lt;/sup&gt; century Chinese painting and Japanese &lt;i&gt;yamato-e&lt;/i&gt; art, as well as European artists. Because Kyoto artists also incorporated other traditions like Nanga, which was a style of painting closely allied with calligraphy and derived from the ink painting of the Chinese Song Dynasty, more styles were brought under the umbrella of Nihonga painting. This combination of individual artistic styles, traditional Japanese techniques and subjects, and Western influences marked Nihonga as one the country's major modern art movements of the time.</p>
+        </subsection>
+        <subsection title="Russo-Japanese War">
+          <p type="img" alt="Takehisha Yumeji's &lt;i&gt;The Sorrow of Victory&lt;/i&gt; (1905), like many images critical of the war, appeared in &lt;i&gt;Heimin Shimbun&lt;/i&gt;, a socialist and anarchist Japanese newspaper, published from 1904-1905 before being shut down by the government." show="1">/images20/photo/photo_nihonga_10.jpg</p>
+          <p type="p">In 1904 Japan went to war with Russia in a fight for imperial dominance over China. The Battle of Mukden, the largest battle fought prior to World War I, raged for over two weeks between 600,000 combatants along a 50 mile front. Though the Japanese were victorious, both sides sustained heavy casualties. With the following naval Battle of Tashima, the Japanese won the war, destroying two thirds of the Russian ships. The defeat marked the first time a Western country had been defeated by an Asian country, making Japan an acknowledged world power.</p>
+          <p type="p">While a number of artists decried the war, often in woodblock prints that reached a large audience, like Takehisha Yumeji's &lt;i&gt;The Sorrow of Victory&lt;/i&gt; (1905); the Meiji government saw the victory as a global validation of Japanese identity.</p>
+        </subsection>
+        <subsection title="The Bunten">
+          <p type="p">Because the arts were a vital part of establishing identity both in Japan and abroad, the government instituted an official annual Fine Arts Exhibition, called the Bunten, in 1907. Launched by the Ministry of Education, the Bunten was modeled after the Paris Salon, with the aim of presenting a unified image of Japanese art as world class. From 1907-1912, the exhibition showed works in three categories: Nihonga, Yōga, and sculpture. The intent was to dissolve the rivalry between Nihonga and Yoga painting and to create a framework where both were presented as viable alternatives for Japanese excellence in the arts.</p>
+          <p type="p">Many Nihonga artists became well known to the public through the Bunten, as attendance increased each year. For instance, in 1916 over 250,000 people attended in Tokyo, at a time when the city's population was a little over three million. Nonetheless, as the Ministry of Education presided over the selection of the exhibition's works and judges, rivalry and factionalism among artists of both Western and Japanese style painting only increased. Despite these divisions between Nihonga and Yōga artists, they were often united in their criticism of the Bunten as being both too political and conservative.</p>
+        </subsection>
+        <subsection title="Tokyo and Yokoyama Taikan">
+          <p type="p">Following the death of Okakura Kakuzō, Yokoyama Taikan, who was mentored by Kakuzō, became the artistic leader of Nihonga in Tokyo. He was an equally important teacher and led the revival of the Japan Fine Art Academy. Launched again in 1914, the school taught a new generation of Nihonga artists including Hishida Shunso, Shiokawa Bunrin, Kōno Bairei, Tomioka Tessai, and Shimomura Kanzan.</p>
+          <p type="img" alt="Yokoyama Taikan's &lt;i&gt;Holy peaks of Chichibu at spring dawn&lt;/i&gt; (1928) displays his monochromatic mastery of landscape that made him the acknowledged master of Tokyo Nihonga." show="1">/images20/photo/photo_nihonga_11.jpg</p>
+          <p type="p">The Rinpa School primarily influenced Taikan's work, though he also explored Western techniques. Acknowledging Taikan's primacy in Tokyo Nihonga and Seihō's in Kyoto, there was a popular saying among Nihonga painters, "Taikan in the east, Seihō in the west." The two men greatly respected each other and often collaborated, as seen in their work &lt;i&gt;Sho-chiku-bai&lt;/i&gt; (Pine, Bamboo, Plum), for which the artist Gyokudo Kawai joined them in creating a group of three scrolls.</p>
+          <p type="p">In 1914, reflecting the increased politicization of art, Taikan was expelled from the Bunten jury. He subsequently, founded the Inten, a separate exhibition that was to show both Nihonga and Yoga works at its inception. The Inten became an important venue for Nihonga artists and continues to this day.</p>
+        </subsection>
+        <subsection title="The Rise of Nihonga Collectives">
+          <p type="p">From 1910-1920 over twenty different alternative groups, in both Western and Japanese style painting, were formed in protest of the Bunten's conservatism and favoritism. As a result, the Japanese art world was, as art historian John Szostak described, less a clear division between two groups, than a "mosaic composed of myriad shifting cultural components, some of which were imported from the West, others of which were contributed by Japan's own cultural legacy."</p>
+          <p type="p">In Kyoto, Tuschida Bakusen played a leading role in forming new groups, beginning with the formation of the artists' collective Chat Noir in 1910. In 1911, when the group's planned exhibition fell through, Bakusen along with artists Arai Kinya, Tanaka Kisaku, and Kurado resumed the collective under the name The Masque. They held a critically acclaimed show where oil paintings and Nihonga work were both exhibited.</p>
+        </subsection>
+        <subsection title="The Society of the Creation of Japanese Painting, 1918">
+          <p type="p">Bakusen and other Nihonga artists continued to create new venues with the intent of creating modern Nihonga. The most important was the Kokuga Sosaku Kyokai, The Society of the Creation of Japanese Painting, formed in Kyoto in 1918. The Society launched its own annual exhibition called the Kokuten and invited artists in any style to exhibit. Bakusen saw Nihonga as a movement with international potential and felt that Western techniques could inspire new approaches to Nihonga. The Society encouraged collaboration, and also promoted artistic travel abroad so that Nihonga painters could draw inspiration from new sources. The Society was to have a great influence on subsequent Nihonga artists.</p>
+        </subsection>
+        <subsection title="Post-World War II">
+          <p type="p">Following World War II and Japan's defeat and subsequent occupation, the &lt;i&gt;Nihonga metsubō-ron&lt;/i&gt; ("theory on the death of Nihonga") ensued. Nihonga was seen as being too provincial, and its emphasis on Japanese culture was connected to the nationalism that had led to the war. The style continued to be taught in noted art schools but became increasingly identified with conservative taste, as seen in the popularity of Kaii Higashiyama's landscapes like &lt;i&gt;A Path Between the Rice Fields&lt;/i&gt; (1950). At the same time, many leading Japanese artists, while sometimes trained in Nihonga, abandoned it for exploration into international contemporary art movements.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Historical Themes">
+          <p type="img" alt="Seison Maeda's &lt;i&gt;Yorimoto in a Cave&lt;/i&gt; (1929) was a noted example of Nihonga historical painting." show="1">/images20/photo/photo_nihonga_12.jpg</p>
+          <p type="p">One genre of Nihonga was historical painting, which often included portraiture and focused on important historical events or heroes that had become part of Japanese culture. Seison Maeda was a noted leader of this style who used mineral watercolor pigment in works like his &lt;i&gt;Yoritomo in a Cave&lt;/i&gt; (1929). The work depicts a noted samurai, Minamoto no Yoritomo, with seven of his men as, after defeat by another clan, they took refuge in a cave. The work won the 1930 Asahi Prize, and the story has retained its importance in modern Japan as seen in the image being used for a postage stamp in 1982. While this genre was important, some of the second generation of Nihonga artists felt that the emphasis upon historical references was not enough to set Nihonga apart as a distinctive genre, independent of, but equal to Western art.</p>
+        </subsection>
+        <subsection title="Mōrōtai">
+          <p type="img" alt="Shunsō Hishida's &lt;i&gt;Autumn Landscape with Colored Leaves&lt;/i&gt; (1899) exemplified his early work in Mōrōtai." show="1">/images20/photo/photo_nihonga_13.jpg</p>
+          <p type="p">Members of the Japan Fine Arts Academy in Tokyo, Yokoyama Taikan and Shunsō Hishida, developed a new style to convey atmosphere, light, and increased modeling of form. In order to achieve stronger naturalistic effects, the artists emphasized color gradations and moved away from the traditional emphasis on line. &lt;i&gt;Mōrōtai&lt;/i&gt; (vague, or indistinct) was a negative term coined by Japanese critics of this style who thought the resulting works were, as one wrote, "far removed from the sense of clarity that has been the defining feature of Japanese painting." However, some scholars felt &lt;i&gt;morotai&lt;/i&gt; drew upon the atmospheric landscapes of early Japanese ink painting or the gold infused skies of earlier artists Kanō Hôgai and Hashimoto Gahō. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; is also credited as an influence upon the development of &lt;i&gt;morotai&lt;/i&gt;. Just as the Impressionists painted brushstrokes of pure color on the canvas, Taikan and Hashida began painting washes of color directly onto a chalk prepared surface, leaving out the linear underpainting of &lt;i&gt;sumi&lt;/i&gt; ink. Contours and forms were thus built up by variations of color, and the colors fluidly transitioned into one another without sharp edges or lines.</p>
+          <p type="img" alt="Detail of Hishida's &lt;i&gt;Black Cat&lt;/i&gt; (1910), combining a strong line with color gradations, is an example of his later style that came to typify Nihonga as distinct from other more conservative Japanese styles." show="1">/images20/photo/photo_nihonga_14.jpg</p>
+          <p type="p">Feeling that the technique worked well only for early morning and evening scenes, Hishida returned to employing a strong line, combining it with color gradation, resulting in what came to be considered as the identifiable Nihonga style, as seen in his &lt;i&gt;Black Cat&lt;/i&gt; (1910). Though both Hishida and Taikan abandoned &lt;i&gt;mōrōtai&lt;/i&gt;, a few artists among the next generation like Tsuchida Bakusen explored the style.</p>
+        </subsection>
+        <subsection title="1980s Revival of Nihonga">
+          <p type="p">In the 1980s artists like Tokyo University of the Arts' students Kawashima Junji, Saito Norihiko, and Keizaburo Okamura became part of a new generation that revived Nihonga. The movement was contemporanious with new painting movements in Europe, which were connected with a return to figurative and traditional techniques often with a geographical and nationalistic focus.</p>
+          <p type="p">The revival was equally inspired by historical art such as the work of 17&lt;sup&gt;th&lt;/sup&gt; century Japanese artist Tawaraya Sotatsu and contemporary new mediums like the use of graphics to create a folk art effect. The theories of art historians Kitazawa Noriaki and Sato Dashin played an important role in the revival as the two men argued that Nihonga, while originating in traditional Japanese art, was without a confining definition or conscribed idea. Subsequent artists like Mise Natsunosuke and Yamamoto Toro were drawn to Nihonga's expansion toward creating an individual aesthetic, reflecting the artist's own preoccupations.</p>
+        </subsection>
+        <subsection title="Neo-Nihonga">
+          <p type="img" alt="Hisashi Tenmyouya's &lt;i&gt;RX-78-2 Kabuki-mono&lt;/i&gt; (2005) using a traditional format, a wooden diptych with gold leaf, exemplifies the artist's Neo-Nihonga style." show="0">/images20/photo/photo_nihonga_15.jpg</p>
+          <p type="p">Hisashi Tenmyouya coined the term "Neo-Nihonga" in 2001 to convey his work's synchronism between Nihonga and contemporary globalization. This is seen in works like his &lt;i&gt;RS-78-2 Kabuki-mono&lt;/i&gt; (2005), in which he portrayed a large robot in samurai gear, wrapped round by a dragon, as he aims an automatic weapon. Kabuki-mono refers to samurai, without a master, who were known for their eccentric style of dress and exaggerated weaponry. The robot, instantly recognizable to a global pop culture audience, is also intrinsically Japanese, as shown in the tattoo on its shoulders of Katsushika Hokusai's iconic &lt;i&gt;The Great Wave&lt;/i&gt; (c.1830-1832). Tenmyouya's post-modern approach intends to honor the spirit of Japanese art by consciously positing it as a vital part of contemporary global culture.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Nihonga, routinely taught in various art schools in Japan, has been viewed as rigid and conservative by a number of contemporary artists. For instance, the internationally known &lt;span class="marked_text chart-tooltip-target-top tooltip_id-murakami_takashi"&gt;Takashi Murakami&lt;/span&gt; was trained in Nihonga but subsequently rejected it in favor of his own style that is now internationally recognized as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-superflat"&gt;Superflat&lt;/span&gt;.</p>
+          <p type="p">At the same time, Nihonga continues to attract new generations of artists, who, while continuing to employ traditional techniques, do so in new combinations with Western styles and materials. Tenmyouya for instance has incorporated the use of acrylic paint into his images painted on gold foil to depict contemporary subjects. Fuyuko Matsui in her searing psychological images employs a Western use of perspective combined with sources drawn from earlier periods of Japanese art.</p>
+          <p type="p">The generation of artists who were part of the 1980s revival of Nihonga continues to work in the form. For example, in the installations of Keizaburo Okamura, he uses cedar panels, then shaves, incises, and burns the surface before painting with mineral pigments, ground shells, glass, and sand in depicting subjects derived from early Japanese styles. Another artist, Nobuya Hoki, combines Nihonga with manga subjects. In many cases, contemporary Nihonga artists have expanded the media and subject matter, as seen in Hoki's work utilizing the rubbing prints of Jakuchu, an 18&lt;sup&gt;th&lt;/sup&gt; century Japanese artist.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="ukiyo_e_japanese_woodblock_prints">Under the Wave off Kanagawa (also known as The Great Wave) (c. 1830-32)</artwork>
+    <artwork from="movement" page="japonism">Maternal Caress (1890-91)</artwork>
+    <artwork from="movement" page="yoga_western_style_japanese_painting">Nude Beauty (1912)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Hibo Kannon</title>
+      <artist>Kanō Hōgai</artist>
+      <year>c. 1883</year>
+      <materials>Ink, color, gold, on silk</materials>
+      <desc>
+				This signature work depicts Kannon, an androgynous Japanese god who embodied loving compassion, and who was called Kuan-Yin by the Chinese and Avaklokitesvara by the Buddhists. The figure, standing on a cloud, fills the upper right of the painting and looks down upon a child floating in an orb who looks back, returning his gaze. The overall effect is of graceful harmony, accentuated by the swirling forms of the clouds, the folds of Kannon's robes, the red coil that like an umbilical cord wraps around the child, and reaches down into the depths of rocks. The halos of the two figures create a kind of visual diagonal between lower left and upper right, emphasizing the connection between the two as sacred sources of illumination, further emphasized by the subtle oval that extends upward from Kannon's feet, like a wide beam of light. The precise lines of the painting ground the subject within a space that could be in the sky looking down upon the rocky pinnacle of a mountain, underwater in a golden sea, or, as if in inner contemplation, looking into the Pure Land of Buddhism.
+				&lt;br/&gt;&lt;br/&gt;
+				Hōgai used the Kanô School's traditional mineral pigment and ink on a gold background to convey a traditional subject, but his treatment is innovative. By including the child, he depicted Kannon untraditionally, perhaps influenced by the Western depiction of the Madonna, and wanting to create an image that would appeal to both Asian and European audiences. He also adopted a more realistic treatment of the figures, with shading to create a sense of depth. A reproduction of the painting was included in an early issue of &lt;i&gt;Kokka&lt;/i&gt;, and the painting was prominently exhibited at the 1883 Paris Salon to critical acclaim. It became one of the artist's most favored works, and he was to make a second version for Tokyo University of the Arts where it has been designated as an Important Cultural Property of Japan. The art historian Chelsea Foxwell noted that Hogai's work exemplified "a break from the past while at the same time upholding a connection to it."
+			</desc>
+      <collection>Smithsonian Museum of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Dragon Against Tiger</title>
+      <artist>Hashimoto Gahō</artist>
+      <year>1899</year>
+      <materials>Color on silk</materials>
+      <desc>
+				This painting on silk focuses on the encounter between a powerful tiger, standing on a rocky crag, and a dragon that energetically takes form in serpentine curls borne of the clouds. A contrast between the elements of earth and air is conveyed, as the sold forms of the jagged rocks echo the lines of the crouching tiger and the dragon's fluid arabesques swirl up like white, golden tinged flames. The work is also equally divided between the two creatures, both mythical symbols of Japanese culture, the tiger often associated with earthly kings and the dragon with the Emperor of Heaven. Only the white foaming encroachment of waves cast up by the dragon upon the rocks breaks the almost equal symmetry between the two realms, suggesting the primacy of heaven.
+				&lt;br/&gt;&lt;br/&gt;
+				Gahō's work drew upon the Kanô tradition's frequent depictions of two powerful and symbolic creatures connected to the concepts of ruler ship, and the use of strongly outlined forms. Nonetheless, he also adopted Western elements, as shown in the naturalistic treatment of the tiger, and the work's depth, as seen in the distance that opens behind the dramatic scene, its negative space informed by a sense of Western atmospherics. Influenced by European Realism, his work made a convincing argument to later artists that such elements incorporated into Nihonga made the traditional style all the more compelling. As art critic Michael Sullivan wrote. Gahō's "brilliant synthesis of Kano style and technique with Western realism created a model for painters at an early stage in the Nihonga movement."
+			</desc>
+      <collection>Museum of the Imperial Collections, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Ochiba (Fallen Leaves)</title>
+      <artist>Shunsō Hishida</artist>
+      <year>1909</year>
+      <materials>Ink and color on paper, pair of six panel folding screens</materials>
+      <desc>
+				Each of these images depicts a six paneled &lt;i&gt;byobu&lt;/i&gt;, or folding screen, a traditional Japanese format for painting landscape. Usually these two panels are shown together, as an intended pair, and the panel in the upper image is displayed on the right. In the top image, a small pine stands to the left of the curving trunks and branches of a small grove. The bottom image holds a sapling topped with a profusion of gold and brown leaves on the left with a grove of sparsely spaced trees behind it. In both images the russet and gold leaves that have fallen in the foreground create horizontal movement around the base of the trees, drawing the viewer's eye to the space that opens into the distance. Precisely rendered, the groves are diffused with a glowing light that creates the atmospherics of the autumnal season.
+				&lt;br/&gt;&lt;br/&gt;
+				To achieve the work's luminosity, the artist used the &lt;i&gt;karabake&lt;/i&gt; technique of dripping pigment onto an already wet surface, and then worked the pigment with a dry brush. The technique, evolved from classical &lt;i&gt;sumi&lt;/i&gt; ink painting and calligraphy, allowed the artist to create a thin but radiant layer of color. Overall, this work exemplified Hishida's later style of luminous naturalism.
+			</desc>
+      <collection>Eisei Bunko Museum, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Serving Girl at a Spa</title>
+      <artist>Tsuchida Bakusen</artist>
+      <year>1918</year>
+      <materials>Color on silk</materials>
+      <desc>
+				This four paneled work on silk portrays the spreading boughs of a pine forest, viewed as if from above, inhabited on the left by a single bird perched on a branch above the white cone shaped clusters of flowers. On the right a woman in a red robe, falling open at her breasts, reclines on an upper floor balcony, her left hand reaching up as if to touch her heart in response to her thoughts and the music, which is being played by a partially visible musician in the upper right. The sensuality and luxury of the scene is emphasized by the curving lines of the vibrant green boughs that echo and curve toward the woman's form.
+				&lt;br/&gt;&lt;br/&gt;
+				In his desire to find new possibilities for Nihonga, Bakusen juxtaposed different Japanese styles with a Western influence, as seen in this work's treatment of the landscape taken from Heian period painting, the pines reflecting the influence of the Momoyama period's wall paintings, and the woman's odalisque form evoking a Western influence. The painting was exhibited by the National Creative Painting Association's show, as Bakusen was part of the group of artists who wished to challenge the official government show, the Bunten, with innovative works.
+				&lt;br/&gt;&lt;br/&gt;
+				Bakusen was one of the few artists whose work influenced both Nihonga and Yoga artists. His &lt;i&gt;Island Women&lt;/i&gt; (1912), while classified as Nihonga, used broad areas of color and simplified forms, influenced by Paul Gauguin, Henri Matisse, and Primitivism. In 1910 Bakusen also helped found various avant-garde collectives and later the Society of the Creation of Japanese painting in 1919 where artists of both movements gathered and were invited to exhibit, reflecting Bakusen's view that "the creation of art must be practiced with complete freedom. As a result, he has been described by art historian John Szostak as among "the most adventurous and inventive" painters of his era.
+			</desc>
+      <collection>The National Museum of Modern Art, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Seisei ruten</title>
+      <artist>Yokoyama Taikan</artist>
+      <year>1923</year>
+      <materials>Sumi on silk</materials>
+      <desc>
+				These monochromatic images, also known as &lt;i&gt;Metempsychosis&lt;/i&gt; or &lt;i&gt;The Wheel of Life&lt;/i&gt; depict two details of this iconic scroll that is more than 130 feet long, and painted in &lt;i&gt;sumi&lt;/i&gt;, traditional Japanese ink, on silk. The top image shows a dragon in a turbulent sky, its head visible in center left, and its light-filled form extending behind it, across the lower center. The dragon's form echoes and intensifies the energy of the sky itself, surging with swirling clouds against the ink black background, and displays the artist's mastery of tonal gradations in ink. The lower image shows a river, rippling with curves that suggest its depth, flowing along the lower third of the image, while behind it a waterfall cascades down a steep rock face. The black diagonals of jagged rocks emphasize the spot where the waterfall's white vertical intersects with the rippling river. To the right out of an inky black landscape a stream curves into the river. Both images convey a sense of nature's monumental power, viewed from a contemplative serenity, created by the use of a wide-angled, aerial perspective.
+				&lt;br/&gt;&lt;br/&gt;
+				In creating such a long scroll, Taikan used one of the oldest Japanese formats, much like the &lt;i&gt;Genji Monogatari Emaki&lt;/i&gt; (&lt;i&gt;Tale of the Genji Scroll&lt;/i&gt;) (c.1120-1140) that depicted scenes from a classical Japanese novel of the same name, which was almost 450 feet long. The artist adopted the format, reserved for works of fundamental importance to Japanese culture, to depict the wheel of life. This scroll depicts a varied landscape: quiet mountains thick with trees and deer, small villages and scenes of human activity, all connected by the element of water. Travelers and fishermen, groups of monkeys, and a pair of cormorants, populate the landscape. The overall effect is to convey the cycle of life, embodied and represented by the water cycle, flowing through the river, rising as mist, and falling again as rain, to reflect the Buddhist concept of existence as a cycle of rebirth. Water was believed to be the most powerful of the four sacred elements, and its eternal presence, changing in metempsychosis through different forms, is the central preoccupation of the work.
+				&lt;br/&gt;&lt;br/&gt;
+				In creating the scroll, Taikan used &lt;i&gt;katabokashi&lt;/i&gt;, a Japanese ink technique that had a similar effect to Western &lt;i&gt;chiaroscuro&lt;/i&gt;. The work, an Important Cultural Property, was acclaimed as a masterpiece at its first exhibition in 1923. The noted collector and founder of the Adachi Museum of Art Adachi Zenko wrote, "it is Taikan who stands out in terms of quantity and quality...His engagement in life's challenges with energy and a truth-seeking spirit give his works power, depth, and compositional integrity...such a painter comes along only once every 100 years, or even 300 years."
+			</desc>
+      <collection>National Museum of Modern Art, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Tabby Cat</title>
+      <artist>Takeuchi Seihō</artist>
+      <year>1924</year>
+      <materials>Color on silk</materials>
+      <desc>
+				Only a tabby cat, turning its green eyes to the viewer as it reaches back to groom its right flank, occupies this work, using a background of varying muted gold tones. Depicted in soft glowing shades of brown and grey, outlined at its top shoulder and front paw in white, the cat is both remarkably realistic and atmospheric in its treatment of colors. The cat is caught as if in movement, unconcerned with its surroundings, though the intensity of its gaze gives the somewhat humorous pose a kind of intense dignity.
+				&lt;br/&gt;&lt;br/&gt;
+				Seihō was a leading master of Kyoto Nihonga, primarily known for his portrayals of animals and landscapes, though works like this one, showing a domestic cat, also draw upon the popularity of &lt;i&gt;Ukiyo-e&lt;/i&gt; prints which had often featured images of cats, like Utagawa Kuniyoshi's &lt;i&gt;Cats Suggested as the Fifty-three Stations of the Tōkaidō&lt;/i&gt; (1850).
+				&lt;br/&gt;&lt;br/&gt;
+				Seihō was also a noted teacher to students including Tokuoka Shinsen and Uemura Shōen. His work brought a Western naturalistic sense of observation to his subjects while at the same time used Japanese reduced elements, negative space, and broad areas of subtly varying color.
+			</desc>
+      <collection>Yamatane Art Museum, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life - Salmon Slices and Sardines</title>
+      <artist>Tsuchida Bakusen</artist>
+      <year>1924</year>
+      <materials>Color on paper</materials>
+      <desc>
+				This still life has a delicate asymmetrical balance between the bowl of sardines and two slices of red salmon filling up the left, and the five sardines on the right, their horizontal lines interrupted by one sardine creating a diagonal, and the round earthenware teapot in the upper right of center. Curves contrasting with lines and the red punctuating a grey, black, and white palette, all create a sense of vibrant spontaneity, as the balance between them creates a feeling of serenity.
+				&lt;br/&gt;&lt;br/&gt;
+				Tsuchida Bakusen began as a Buddhist monk. While he was to abandon that path in favor of painting, studying under Seiho Takeuchi and attending Kyoto Municipal Painting College, his work was continually informed by Buddhist principles and values. He has said of his artistic philosophy, "Simply deepen the spirit and realize nature's inspirations." He was also interested in combining a more modern sensibility with Nihonga. While heavily influenced by Japanese genre works and early Buddhist painting, he also studied the Post-Impressionists and other European artists.
+			</desc>
+      <collection>Adachi Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Enbu (Dancing in the Flames)</title>
+      <artist>Gyoshū Hayami</artist>
+      <year>1925</year>
+      <materials>Color on silk</materials>
+      <desc>
+				This painting, showing a number of brightly colored moths dancing in the fire, dynamically depicts the swirling, glowing flames as they rise up, creating a kind of luminous form. He has painted the moths as if facing the viewer while blurring their wings to create an effect of dancing, and both the moths, as transitory beings, and the flame itself take on a deeply symbolic meaning. The image embodies the Buddha's well-known Fire Sermon that states, "all is burning... burning with birth, aging and death, with sorrows, with lamentations, with pains, with griefs, with despairs."
+				&lt;br/&gt;&lt;br/&gt;
+				During a summer stay in the country with his family, Gyoshû observed and sketched the moths that were attracted to the evening's bonfire. He was a pioneer of new treatments in Nihonga and often adopted new styles throughout his career. This, his most famous painting, is informed by ancient Buddhist paintings of flames but also derived from naturalistic observation, as seen in the curling fractals at the edge of the flames. The work was the first of its era to be designated an Important Cultural Property and has been widely reproduced, including as a government postage stamp.
+			</desc>
+      <collection>Yamatane Museum, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Sazanami (Ripples)</title>
+      <use_big_image>false</use_big_image>
+      <artist>Fukuda Heihachiro</artist>
+      <year>1932</year>
+      <materials>Color and platinum on silk</materials>
+      <desc>
+				This double panel image on silk deploys irregular lines of dark blue on a silver surface to convey the rippling patterns of water. Despite the title, the work is abstract. The pattern intensifies as the blue lines become closer, creating a field of movement, darker in intensity, and overlapping near the top of the image.
+				&lt;br/&gt;&lt;br/&gt;
+				From the beginning of his career Heihachiro often painted water scenes, and the story goes that one day while fishing, he noticed the ripples created on a lake by a breeze that was so gentle he could not feel it on his skin. Subsequently he began sketching to try and capture the changing ripples forming on the water. The viewpoint of the artist is implied in this work, as the relatively fewer ripples suggest the quieter waters near the shore intensifying to waves in the distance. The artist intended to paint the image on platinum on silk, but due to a processing mistake, gold leaf was applied to the silk, necessitating that the artist then apply the platinum on top of the gold. This created the subtle variation of color as seen here in the background, which enhances the abstract effect, as the color is not obviously associated with natural colors.
+				&lt;br/&gt;&lt;br/&gt;
+				Shown at the Imperial Fine Arts Academy Exhibition, this painting met with critical controversy, primarily because of its abstract treatment. Yet, subsequently, the work has been re-evaluated and seen as highly innovative in Japanese painting for its pioneering use of abstraction. The first abstract Japanese works were woodblock prints, created by Kōshirō Onchi, a leader of the &lt;i&gt;sōsaku-hanga&lt;/i&gt;, or creative prints movement that began in the early 1900s. However, abstraction in painting was a later development, as the art critic Matthew Larking noted "came into vogue during a reinvigorated period of the 1950s and '60s," though informed by an awareness of early forerunners like Heihachiro.
+			</desc>
+      <collection>Osaka City Museum of Modern Art, Osaka, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Feathered Snow</title>
+      <use_big_image>false</use_big_image>
+      <artist>Shoen Uemura</artist>
+      <year>1944</year>
+      <materials>Color on silk</materials>
+      <desc>This work, exemplifying the use of negative space as seen in the grey sky surrounding the figures sheltering under umbrellas in the left quadrant of the work, is also an iconic example of Uemura's &lt;i&gt;bijin-ga&lt;/i&gt; work, where, she portrays beautiful women but in unexpected ways to convey their inner feeling. The young woman in the lower center of the painting leans forward, her beauty conveyed by the broad planes of green, the elegant pattern of her clothing, and her face as if it were lighting up the grey scene, all further emphasized by the diagonals of the black and gold pattern of her open umbrella. Behind her another young woman can be glimpsed under the white umbrella her pale face wrapped in blue. The feathered snow falls upon them, but what is conveyed is of being caught in nature's vastness and unpredictability, and how under the grey horizon and the falling snow and implied wind, one huddles into one's umbrella or clothing, shrinking to a more confined space, to stay warm. Uemura who was one of the few women artists in her times brings a sense of feeling to her portrayals of women, and in a sense, the scene here is subtly symbolic of the circumscribed space that women inhabited in the World War II world.</desc>
+      <collection>Yamatane Museum of Art, Tokyo, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Peacock Displaying his Wings</title>
+      <use_big_image>false</use_big_image>
+      <artist>Shoko Uemura</artist>
+      <year>1983</year>
+      <materials />
+      <desc>				
+				This work, depicting a peacock with a multiple eyed tail that overflows the pictorial space, exemplifies the Japanese traditional style by focusing on a single bird that inhabits a large area of &lt;i&gt;yohaku&lt;/i&gt;, or negative space. The vibrant tones of green and gold become a kind of cloud that hovers between intense atmospherics and sharply defined points, like the v shapes at the outer edge of the bird's plumage. The white background lets the creature inhabit a kind of undefined space, a sense of visual meditation. In Japan the peacock was connected to Kannon, a god who looked upon the suffering of the world with loving compassion, as reflected in the bird's 'many-eyed' gaze.
+				&lt;br/&gt;&lt;br/&gt;
+				Uemura was the son of Shoen Uemura and began drawing as a child. However, unlike his mother who was known for her &lt;i&gt;bijinga&lt;/i&gt;, he preferred the genre of flower and bird paintings. He also emphasized the abstract play of color and negative space to make Japanese style works contemporaneous with Color Field painting. In his later works, an exaggerated sense of negative space, contrasted with vibrant color and a simplified object, in this case a single peacock, became, as art critic Matthew Larking wrote, "an opportunity for dialog with abstract color-field painting in variegated modulations of tone and color that also retained their representational function...[and] became psychological landscapes."
+			</desc>
+      <collection>The National Museum of Modern Art, Kyoto, Japan</collection>
+    </artwork>
+    <artwork>
+      <title>Football</title>
+      <use_big_image>false</use_big_image>
+      <artist>Hisashi Tenmyouya</artist>
+      <year>2006</year>
+      <materials>Acrylic, gold leaf on wood</materials>
+      <desc>
+				This work shows two soccer players, both dressed as traditional samurai warriors, trying to gain control of the soccer ball. One player, is down on one knee with his back to the viewer and his gaze focused on the ball near his extended right knee, while the other player, wearing a black helmet with long curved horns, malevolently bears down, his leg cocked back to deliver a bruising kick that threatens the other player. The players, sharply outlined, are almost cutouts against the golden tiles of the background, and the naturalistic depiction of the figures and their movement is contrasted with the bold lines and colors of their uniforms.
+				&lt;br/&gt;&lt;br/&gt;
+				What is conveyed most is a sense of ritualized action, as the combative competitiveness of soccer is paired with the samurai code of warfare, and a primal ferocity, conveyed by the emphasis on black helmet and its wearer's white-toothed snarl. In the upper right, a seal, encircled by a curving blue and purple dragon, evokes the traditional associations of Japanese scroll paintings, as the dragon hearkens back to a mythical creature revered in Japanese culture and identified with the Emperor. This work exemplifies Hisashi's concept of "Neo-Nihonga," seeking to connect the art movement to contemporary culture. This famous image was used as a poster for the 2006 World Cup in Barcelona. Critics have described him as a "punk samurai" due to what art historian Yumi Yamaguichi calls his "sophisticated grasp of both the ancient and the contemporary."
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Scattered Deformities in the End</title>
+      <use_big_image>false</use_big_image>
+      <artist>Fuyuko Matsui</artist>
+      <year>2007</year>
+      <materials>Hanging scroll - color pigment on silk</materials>
+      <desc>
+				This psychologically compelling image shows a nude woman, her skin flayed down her spine, as she flees, pursued by a dog that opens its jaws to bite her heel. Her black hair streaming out behind her is torn from her head by a flock of pursuing birds. Other birds are tearing a strip of flesh from under the woman's right arm, and her right leg, just above her ankle, has a band of flesh already torn from it, in the way that trees are girdled, a ring of bark taken from the trunk to kill the tree. The background is an atmospheric greenish grey with the suggestions of hands and birds reaching within it, while the top of the canvas darkens, revealing black lines of skeletal trees where pulses of color suggest the forms of more birds. The space the figure inhabits seems both interior, as if a closed room or within an interior consciousness, and exterior as if she were running outside on a street or path with a forest looming behind. The overall effect is to create a state like a &lt;i&gt;bardo&lt;/i&gt;, one of the transitory spiritual stages of Buddhism between life and death, or a psychological setting of abjection and fear.
+				&lt;br/&gt;&lt;br/&gt;
+				Matsui called her terrifying images "talismans," and described her artistic intent as "to visually express something that is usually felt physically." They are often seen as a kind of distanced self-portrait, within the hell realm, informed by a feminist sensibility in confronting the abjection and traumatic experience of a woman in patriarchal society. They reflect her belief that "if the paintings are horrible they might act as a protection," drawing upon the Japanese adage "to use demons to control demons." As the Japanese art critic Matsui Midori wrote, they are "paintings that express the pain of living."
+				&lt;br/&gt;&lt;br/&gt;
+				Her work draws upon a variety of influences, including Soga Jasoku, a 15&lt;sup&gt;th&lt;/sup&gt;-century artist, the tradition of Japanese ghost painting, and the Buddhist tradition of &lt;i&gt;Rokudou-e&lt;/i&gt;, or images depicting the &lt;i&gt;bardos&lt;/i&gt;. She has been compared to other psychologically compelled female artists such as Kiki Smith, Eva Hesse, and Shirin Neshat.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Shrine of the Water God (Suijingū)</title>
+      <use_big_image>false</use_big_image>
+      <artist>Hiroshi Senju</artist>
+      <year>2015</year>
+      <materials>Natural pigments on Japanese mulberry paper</materials>
+      <desc>
+				This large screen, twenty-four feet long, contains twelve panels all luminously depicting waterfalls, the streams of white water lighting up a dark background. The lower part of the panels fill with water mist and the dark edge of an implied shore borders the pools into which the water cascades. The overall effect is almost photographic, and yet fluid, as if one were looking at water actually streaming behind a panel of glass.
+				&lt;br/&gt;&lt;br/&gt;
+				Senju's work is unique in its scale and singular focus, and, as many of his works are large screens or installations, they become a way of transforming the relationship between human structures and the natural world. He presents a kind of sublime reality that involves the viewer's consciousness and the surface of the work, where tiny drops of paint can resemble mist and other slightly larger drops that reveal the paint's stroke blur the distinction between the subject of water and the materiality of paint. As art historian Rachel Baum has written, "These drips of paint interrupt the pictorial space and, insist, instead on the painted surface. The result of this contrast is...a transcendent synthesis of liquids...intricate, indexical correspondences of material, process, and image that create the paintings' unmistakable sense of unity...[and] make manifest the transience of experience."
+				&lt;br/&gt;&lt;br/&gt;
+				Waterfall depictions have a long tradition in Japanese art, and early Nihonga artists like Takeuchi Seihō explored the subject, as seen in his &lt;i&gt;Waterfall&lt;/i&gt; (1925). Senju began painting waterfalls in the early 1990s and his work has had a tremendous impact upon architectural and interior design, first coming to public attention in the 1995 Venice Biennale. The art critic David Kropit has described his work as having "exceptional clarity and presence."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class=""></subcategory>
+    </category>
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Living Artists of Japan: The Path of Tradition, Nihonga Artists</title>
+          <link is_inline_video="true" inline_video_type="youtube">rR4a6JVfvmI</link>
+          <info>Esprit Travel and Tours</info>
+        </entry>
+        <entry recommended="true">
+          <title>Contemporary artist Hiroshi Senju discusses his work at his upstate studio in New York</title>
+          <link is_inline_video="true" inline_video_type="youtube">2CjNIVF4Kyg</link>
+          <info>Artnet</info>
+        </entry>
+        <entry>
+          <title>Interview: Hiroshi Senju</title>
+          <link is_inline_video="true" inline_video_type="youtube">96IYE-soTMs</link>
+          <info>Hong Kong Tatler</info>
+        </entry>
+        <entry recommended="true">
+          <title>Garden of Unearthly Delights: Hisashi Tenmyouya</title>
+          <link is_inline_video="true" inline_video_type="youtube">f0AWx_1301s</link>
+          <info>Japan Society NYC</info>
+        </entry>
+        <entry>
+          <title>Hisashi Tenmyouya: Samurai Nouveau Trailer</title>
+          <link is_inline_video="true" inline_video_type="youtube">jm_i0yJyGr8</link>
+          <info>Films New People</info>
+        </entry>
+        <entry>
+          <title>Fuyuko Matsui on Her Work and the Supernatural</title>
+          <link is_inline_video="true" inline_video_type="youtube">U-ExreP3NSQ</link>
+          <info>Asian Art Museum</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Talks/Lectures:" class="clips">
+        <entry recommended="true">
+          <title>The Paintings of Sadness? The Beginnings and the End of Nihonga</title>
+          <link is_inline_video="true" inline_video_type="youtube">nkLtJUpLGJQ</link>
+          <info>
+						Lecture by Chelsea Foxwell
+						&lt;br&gt;
+						University of Michigan Center for Japanese Studies
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Nihonga: Transcending the Past: Japanese-Style Painting, 1868-1968</title>
+          <link>0834803631</link>
+          <info>By Ellen P. Conant, J. Thomas Rimer, Steven D. Owyoung, et al.</info>
+        </entry>
+        <entry>
+          <title>Taikan; Modern master of Oriental-style painting, 1868-1958</title>
+          <link>B0007IX1JC</link>
+          <info>by Taikan Yokoyama</info>
+        </entry>
+        <entry>
+          <title>Modern Masters of Kyoto: The Transformation of Japanese Painting Traditions, Nihonga from the Griffith and Patricia Way Collection</title>
+          <link>0932216536</link>
+          <info>By Michiyo Morioka, Paul Berry, and Seattle Art Museum, et al.</info>
+        </entry>
+        <entry>
+          <title>Painting Circles: Tsuchida Bakusen and Nihonga Collectives in Early Twentieth Century Japan</title>
+          <link>9004216723</link>
+          <info>By John D. Szostak</info>
+        </entry>
+        <entry recommended="true">
+          <title>Making Modern Japanese-Style Painting: Kano Hogai and the Search for Images</title>
+          <link>022611080X</link>
+          <info>By Chelsea Foxwell</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Detail images from Metempsychosis</title>
+          <link>http://search.artmuseums.go.jp/records.php?sakuhin=2807#;</link>
+          <info>Independent Administrative Institution National Museum of Art</info>
+        </entry>
+        <entry>
+          <title>MISE Natsunosuke Solo Exhibition "Diverse Gods"</title>
+          <link>http://www.acac-aomori.jp/work/2013-1/?lang=en</link>
+          <info>
+						April 27 - June 23, 2014
+						&lt;br&gt;
+						Aomori Contemporary Art Centre
+					</info>
+        </entry>
+        <entry>
+          <title>Here and There: The Birth of Nihonga: Seiho Takeuchi at the Yamatane Museum</title>
+          <link>http://www.dnp.co.jp/artscape/eng/ht/1211.html</link>
+          <info>By Alan Gleason</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Merciful Mother Kannon and Its Audiences</title>
+          <link>https://www.mutualart.com/Article/Merciful-Mother-Kannon-and-Its-Audiences/0EEB244346162B77</link>
+          <info>
+						By Chelsea Foxwell
+						&lt;br&gt;
+						The Art Bulletin 
+						&lt;br&gt;
+						December 2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hiroshi Senju's Alternative Materialism: The Waterfall Paintings in Contemporary Art Historical Context</title>
+          <link>https://www.fitnyc.edu/files/pdfs/Baum_Senju_Text.pdf</link>
+          <info>
+						By Rachel Baum
+					</info>
+        </entry>
+        <entry>
+          <title>Less meant more to Shunso Hishida</title>
+          <link>https://www.japantimes.co.jp/culture/2014/10/16/arts/less-meant-more-to-shunso-hishida/#.WhGPJLaZNsM</link>
+          <info>
+						By C.B. Liddell 
+						&lt;br&gt;
+						October 16, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>The Uemuras were not quite like mother, like son</title>
+          <link>https://www.japantimes.co.jp/culture/2014/06/18/arts/uemuras-quite-like-mother-like-son/#.WhGQXLaZNsM</link>
+          <info>
+						By Matthew Larking
+						&lt;br&gt;
+						June 18, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Meiji Crisis in Japanese Art</title>
+          <link>http://www.nytimes.com/2013/03/28/arts/28iht-conway28.html</link>
+          <info>
+						By Roderick Conway Morris
+						&lt;br&gt;
+						March 27, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>In the realm of hell</title>
+          <link>http://www.tate.org.uk/context-comment/articles/realm-hell</link>
+          <info>
+						Studio visit
+						&lt;br&gt;
+						By Yuko Hasegawa
+						&lt;br&gt;
+						1 September 2009 
+						&lt;br&gt;
+						Tate Etc. issue 17: Autumn 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Facing Forward, Looking Back: Hisashi Tenmyouya's 'Street-Samurai' Style</title>
+          <link>http://japansocietyny.blogspot.com/2014/10/facing-forward-looking-back-hisashi.html</link>
+          <info>
+						Oct 10, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Bijinga - The World of Shoen Uemura's Beautiful Women</title>
+          <link>http://japonica.info/the-world-of-bijinga-shoen-uemuras-beautiful-women/</link>
+          <info>
+						By Roisin Unglesby with photos from Yamatane Museum of Art
+						&lt;br&gt;
+						June 10, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

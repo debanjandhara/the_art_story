@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>viola_bill</id>
+    <name>Bill Viola</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1970s - present</years>
+    <description>Bill Viola pays homage to tradition, drawing the viewer into beautifully painted images and compelling narratives by creating immersive video installations.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Video Artist</occupation>
+    <nationality>American</nationality>
+    <birthDate>January 25, 1951</birthDate>
+    <birthPlace>Queens, NY</birthPlace>
+    <img_version>?1</img_version>
+    <art_type>Art</art_type>
+    <pub_time>1/17/2017</pub_time>
+  </main>
+  <includes>
+    <include>video_art</include>
+    <include>installation_art</include>
+    <include>the_sublime_in_art</include>
+  </includes>
+  <similar_movements>
+    <movement>video_art</movement>
+    <movement>installation_art</movement>
+    <movement>the_sublime_in_art</movement>
+    <movement>postmodernism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>paik_nam_june</artist>
+    <artist>anderson_laurie</artist>
+    <artist>taeuber_arp_sophie</artist>
+    <artist>nauman_bruce</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"We must take time back into ourselves to let our consciousness breathe and our cluttered minds be still and silent. This is what art can do and what museums can be in today's world."</q>
+    <q>"The honesty of that presence inside you will determine the quality of your work - not ego, filling a market or filling a niche. There is something higher than art."</q>
+    <q>"Renaissance artists were exploring the same thing. The renaissance was a meeting of science and art. Perspective would have seemed like computer CGI graphics now."</q>
+    <q>"Video treats light like water - it becomes fluid on the video tube. Water supports the fish like light supports man. Land is the death of the fish - darkness is the death of man."</q>
+    <q>"What digital technology is giving us is the ability to represent invisible things as well as visible things."</q>
+    <q>"Simple facts of life become the way to find a bridge and shared vision with people from different cultures, races, history, and religion,"</q>
+    <q>"That's a real important part of human beings, whether it happens in the secular context of a museum or it happens in the religious context of a church or a temple. A communal experience, in the sense of sitting together in silence or standing together in silence is a very special thing. It's people just quietly absorbing a presence in the space. That's part and parcel of what art has been, whether it's used for religious or secular purposes."</q>
+    <q>"When you think about eternity, it doesn't mean thinking about being here 1,000 years from now. It means thinking about what you're doing now, because what you do matters. It's part of the fabric of the present moment and always will be."</q>
+    <q>"I think that any time you are making something that touches the inner self of the human being, anything that emerges out of ourselves from a genuine, unguarded place is ultimately a sacred act, no matter whether you follow a religion or not."</q>
+    <q>"So in today's world, where our lives are filled with so many messages floating all around us and affecting us, art museums are a special place where you can be quiet and still and focus on another person's dreams".</q>
+    <q>"We can see the seeds of what some have described as the ultimate recording technology: total spatial storage, with the viewer wandering through some three-dimensional, possibly life-sized field of pre-recorded or simulated scenes and events evolving in time."</q>
+    <q>"I realized that my video work as an artist and my private life at that time were the same. It changed my life dramatically."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Bill Viola has been referred to as "the Rembrandt of the video age" and, indeed, his work pays homage not only to the famous Dutch master but to the tradition of creating large-scale works of art that draw the viewer into beautifully painted images and compelling narratives. There is often a spiritual component to his work, with elements of Zen Buddhism, Islamic Sufism, and Christian mysticism underpinning themes considered universal: birth, death, love, sex, grief, and redemption. Viola considers the "phenomena of sense perception" as a path to self-awareness; therefore, his work is a blend of experimental video art and sound, including avant-garde music performance. He was one of the earliest artists to explore the potential of the video camera, which in its most basic form in the 1970s only vaguely resembles the sophisticated devices of today. As one of the pioneers of the medium, he has consistently exploited its rapidly changing technology to create over 150 artworks over the last 40 years.</synopsys>
+    <key_ideas>
+      <idea>For Viola, the video camera functions as a "microscope for being" with which events, from milestones to minutiae, may be fixed in time without the gaps that result from sleep or memory loss or even conscious alteration. With video it is even possible to slow down the otherwise inexorable and rapid progression of time, thus his use of extreme slow motion is a kind of response to the anxiety of being aware of our mortality.</idea>
+      <idea>More than simply creating a video that is shown on a screen, Viola created environments that were highly immersive. For instance, his installations almost always incorporate sound, including experimental music, and are typically created and presented in an either darkened or at least otherwise barren exhibition space in order to eliminate any distractions that would prevent the viewer from fully engaging with the work.</idea>
+      <idea>Viola's videos are usually sparsely populated and furnished. Including fewer figures and objects shifts the attention to the narrative, which is often the artist's goal: giving visual form to experiences that we cannot normally see or experience.</idea>
+      <idea>When he first began producing videos, Viola was intent on "proving something, much like a scientist." He approached the creative process with video art like a "controlled experiment" in which he used the camera to record carefully devised images and narratives. As the technology improved, however, he realized that his approach should basically be the opposite: that he would adapt to the new possibilities presented by technological progress of the medium and be spontaneous, capturing life experiences rather than choreographing them. Rather than creating videos in the controlled environment of the studio, Viola began what would be a career-spanning practice of going out of the studio, turning on his camera, and opening his work to the spontaneity - and routine - of real life.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Early Years">
+          <p type="img" alt="Bill Viola" show="0">/images20/photo/viola_bill_3.jpg</p>
+          <p type="p">William "Bill" Viola was born and grew up in Queens, New York. He was a very shy, introverted child and found his internal world far more interesting and engaging than his external world of friends and family. He spent a lot of time drawing and by the age of three, with the help of his mother, he had perfected drawing motorboats. Once in school, the budding young artist received encouragement and validation. He recounted the story later in his life of his kindergarten teacher praising him for a finger painting he had made, holding it up and showing it to the class. Evidently, in response, Bill hid under the table in embarrassment. The teacher put the painting on the wall for everyone to admire and Viola, probably only half seriously, later identified that incident as his first "show." That small gesture of encouragement had a tremendous impact on the shy child, encouraging him to regard himself from that point onward as an artist.</p>
+          <p type="p">When Viola was six years old, he had a profoundly memorable experience, which deeply affected his life: he fell from a raft on which he had been playing with his cousins and sunk deep into the lake waters below. While submerged, he opened his eyes and observed the beautiful shafts of light coming down through the water, illuminating the organisms floating beneath the surface of the lake. His uncle pulled him from the water to safety but the experience inspired the small boy to consider what lay beneath the surface of life itself and also likely prompted his lifelong preoccupation with water.</p>
+          <p type="p">In 1969, when Viola was in high school, a generous donor presented a Sony Portapak video camera to the school providing him with an introduction to the medium to which he would devote his artistic career. He recalls being especially intrigued by the blue light emitted by the video camera and connected it to the experience in the lake.</p>
+        </subsection>
+        <subsection title="Education and Early Period">
+          <p type="p">After graduating from high school, Viola enrolled at Syracuse University in New York. While he had intended to attend art school, his father urged him to pursue a more conventional liberal arts education. Later, he admitted, "In saying that he saved me. A lot of my friends were planning to go to art school and had I gone with them I would have been at least five years behind." At Syracuse, Viola had access to "all the latest electronic equipment, as well as professors who were at the cutting edge of these new technologies." He knew that most art schools had very limited budgets and he would not have had the opportunity to explore video as an emerging artistic medium.</p>
+          <p type="p">Indeed, Syracuse was one of the first universities to introduce experimental studios for new media. Viola joined a video workshop initiated by a fellow student, Lance Wisniewski, in which participants created projects based on the use of portable video cameras. Fully immersed in the technology, he spent the summer helping put together the new cable-TV system for the university, connecting the cables all across the campus, pulling long cords through manholes, and so on. Later, working as the janitor in the technology center, Viola, who had keys to the building, would spend his nights mastering the new state-of-the-art, color video technology in the studio.</p>
+          <p type="p">It was at that time that he produced his first video artworks. Most significantly, in 1972 he created &lt;i&gt;Tape I&lt;/i&gt;. The video featured Viola's reflection in a mirror; he is looking down the lens just before uttering a blood-curdling scream, after which he destroys the image by placing a finger inside of the tape spool. He later remarked on the period and the work, "It was a time of intense experimentation in all sorts of ways; technological and also in terms of looking at the self, and the video camera played into that. "Viola recognized early on how the video camera had the capacity to reveal things about himself that might not otherwise come to the surface. He explained, "It was not just a matter of pointing it at something. It was about self-knowledge, and the camera could fracture the self. You realize that there are two dimensions: what you see and what you feel, and that was a huge area to explore."</p>
+          <p type="p">In 1973, Viola received his BFA after having completed his studies in the Experimental Studios of the College of Visual and Performing Arts, including the experimental program, Synapse, which eventually become Citrus TV. He then went to work at the Everson Museum of Art in Syracuse as an audio-visual technician in the museum's new video department. There he studied with David Tudor, the modernist composer who had at one point worked with John Cage. Starting in 1973 and extending until 1980, he performed repeatedly with David Tudor, the avant-garde composer, in the Rainforest ensemble, which was later renamed the Composers Inside Electronics.</p>
+          <p type="p">From 1974 to 1976, Viola lived in Florence, Italy and worked as the technical director of production for one of Europe's first video art studios, Art/Tapes/22, run by Maria Gloria Conti Bicocchi. There he met and worked with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-serra_richard"&gt;Richard Serra&lt;/span&gt; as well as other video artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-acconci_vito"&gt;Vito Acconci&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-paik_nam_june"&gt;Nam June Paik&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nauman_bruce"&gt;Bruce Nauman&lt;/span&gt;, all of whom were sources of influence and inspiration in a medium that was still very much in its infancy. Viola later discussed the reception of video artists by conventional filmmakers. "[They] thought we were idiots and that video would never last." However, that was definitely not the case and instead, diverse video artists began joining together, creating a kind of community after a couple of years. And that's when things began to heat up. He recalled, "We started to get letters from England, France and Asia from people who were working out what this video camera thing could do. We realized that this thing was going on everywhere."</p>
+          <p type="p">Following his stay in Florence, Viola went on to travel much further east, studying and recording the traditional arts - especially the performing arts - of Java, Bali, the Solomon Islands, and Japan. In 1976, he returned to New York to serve as the artist-in-residence at the WNET Channel 13 Television Laboratory, where he remained until 1980 and produced a series of video works that premiered on television.</p>
+          <p type="p">Beginning in the early 1970s, Viola began attracting the attention of the art world with his experimental videos. Academic and critical notoriety preceded by more than a decade of broader attention culminated in his first exhibition at a major venue, the Museum of Modern Art in New York in 1987. The show, titled &lt;i&gt;Viola: Installations and Videotapes&lt;/i&gt; was met with critical praise and was followed by many successful exhibitions on the international artistic stage, including at the Kunsthalle in Düsseldorf, the Whitney Museum in New York City, the J. Paul Getty Museum in Los Angeles, and the National Gallery of Australia in Canberra.</p>
+          <p type="p">Having begun receiving recognition for his work, in 1977, Viola was invited to present his video work by the director of cultural arts, Kira Perov, at La Trobe University in Melbourne, Australia. Perov and Viola began a romantic relationship and a year later she joined him in New York. They eventually married and had two children; theirs has been a years-long personal as well as professional collaboration, which has included both traveling and working together. Viola once described the evolution of their working relationship: "In the beginning it was really just me, with Kira doing what I said. But over time she has become like a midwife to the work, checking how the baby is doing, as well as handling all the practicalities of delivery."</p>
+          <p type="p">The couple traveled to the Sahara Desert in Tunisia in 1979 to make video recordings of mirages. In 1980, Viola was selected for a U.S./Japan Creative Artist Fellowship so he and Perov relocated to Japan, where they remained for a year and a half. During his residence in Japan Viola worked in his medium and also studied Zen Buddhism with Master Daien Tanaka. Significantly, he was also the first person to serve as artist in residence at the Atsugi research laboratories at the Sony Corporation.</p>
+          <p type="p">Once the fellowship in Japan ended in 1981, Viola and Perov returned to the United States. and made their home in Long Beach, California. It was an extremely fertile creative period, albeit distinguished by a broad range of experimentation, including a project involving medical imaging technologies, one at the San Diego Zoo relating to animal consciousness, and an investigation of fire walking rituals of Hindus in Fiji. For nearly half a year, the couple also traveled through the Southwestern United States, where they photographed Native American rock art sites and also used special video equipment to produce recordings of the desert at night.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1983, Viola was hired by the California Institute of the Arts in Valencia, California to teach Advanced Video courses. Around that same time, he had become increasingly dissatisfied with the work he was producing, felt that he was losing his creative spirit, and that he lacked inspiration. For two years he struggled to continue producing his video art without feeling particularly pleased with the results. Then, in 1988, Viola and Perov's first son was born and simultaneously his mother suddenly fell ill. She died a few years later, in 1991, right around the time that the couple's second son was born.</p>
+          <p type="p">Those two coinciding events affected Viola in a profound way and ultimately sparked a new period of artistic creativity and deepened spirituality. His focus turned to sorting through home videos and using them to produce some of his most important work of the period, video pieces that focused on the subjects of life and death. Initially, Viola had no intention of incorporating the videos he had made of his mother into his professional work. In fact, he kept the personal videos separate from those he produced for his artistic career; that is, until after his mother's death, at which time, he explained, "I realized I was an artist and I should do what I was set up to do, so I took all my home movies into the studio and I finished the next piece of work as if I was on fire and asked myself why I hadn't done this before." A video he produced during that period following his mother's death, &lt;i&gt;Nantes Triptych&lt;/i&gt; (1992), which was eventually purchased by the Tate, features images of Viola's dying mother as well as a man underwater and a woman in labor.</p>
+          <p type="p">Viola represented the United States in 1995 at the 46&lt;sup&gt;th&lt;/sup&gt; Venice Biennale, where he presented his video series titled &lt;i&gt;Buried Secrets&lt;/i&gt;. One of the works in the series, &lt;i&gt;The Greeting&lt;/i&gt;, echoes his embracing of the artistic tradition, particularly that of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;. It is an interpretation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pontormo_jacopo_da"&gt;Jacopo da Pontormo's&lt;/span&gt; &lt;i&gt;The Visitation&lt;/i&gt; (1528) over which is imposed a modern narrative in slow motion. Viola, who had throughout his college years and early career, rejected for the most part artistic tradition, a pivotal experience during a visit to the Art Institute of Chicago inspired him to think again about the value of the artistic past in both personal and professional regards. During that particular visit in Chicago, he passed through different galleries until he found himself in one in which 15&lt;sup&gt;th&lt;/sup&gt;-century paintings were on display. Standing before Dieric Bouts' painting, the &lt;i&gt;Weeping Madonna&lt;/i&gt; (1480-1500), he felt that he was interacting directly with the painting. He was so moved that he found himself weeping in front of the picture. For Viola, the artwork had almost miraculous spiritual properties; for him, it had transformed from a beautifully painted devotional object into a private emotional experience.</p>
+          <p type="p">The awakening that he felt in the gallery of Old Masters' paintings turned out to be, in a sense, a step back in a positive sense for Viola. He had attempted throughout his career to produce artwork that incorporated the frequent technological advances of his medium but afterwards he was urged to slow down, to look to the past and tradition, particularly painting, for inspiration. Although he confessed to having "hated" Old Masters' works when he was a student, he said of his apparent change of heart, "My appreciation of older art had started to grow before my mother passed away, and when my father died at the end of the 1990s I felt helpless and was looking for consolation. Although I'd never gone that way before, at that moment it was the most logical thing to do." Viola's &lt;i&gt;Passions&lt;/i&gt; (2003) series in a sense marks his experience, he said, of "coming to grips with the loss of my parents and being awakened to what death really means. And therefore what existence really means."</p>
+          <p type="p">In 2000, Viola was elected to the American Academy of Arts and Sciences. In keeping with his incorporation of traditional painting and themes, his 2002 work, &lt;i&gt;Going Forth By Day&lt;/i&gt;, took the form of a digital "fresco" cycle that explored the "cycles of human existence - birth, death and rebirth - through the different phases in each video with audio accompaniment."</p>
+          <p type="p">Viola has continued producing both video and musical works. In 2004, he collaborated with conductor Esa-Pekka Salonen and director Peter Sellars on a production of Wagner's opera, &lt;i&gt;Tristan and Isolde&lt;/i&gt;, which was first presented by the Los Angeles Philharmonic in project form and then premiered in full in 2005 at the Paris Opera. It features, says one review, "Viola's distinctive exquisitely detailed high-resolution slow-motion imagery emphasizes effects of water and fire and subjects' interaction with them."</p>
+          <p type="p">Throughout the 2000s, Viola has continued to exhibit around the world and, as of 2014, a number of his works including &lt;i&gt;Eternal Return&lt;/i&gt; (2000) and &lt;i&gt;Witness&lt;/i&gt; (2001) rank in the top five highest selling video artworks to date, with the former coming in at over $700,000 at auction. As the technology has changed, his work has also transformed. Of the integral relationship between his life and his preferred art form, Viola explained, "Video and I grew up together. As the equipment improved over the years, I was able to see some of my pieces finally shown the way that I had envisioned them. And new tools, especially projectors and flat screens, gave me new inspiration, and constantly expanded my palette."</p>
+          <p type="p">Most recently, Viola has seen several of his works installed in important sacred Christian sites. &lt;i&gt;The Messenger&lt;/i&gt; was first presented at Durham Cathedral in 1996 and a series of works showed at Bern Cathedral in German in 2014. Both were temporary installations unlike his multimedia installations, &lt;i&gt;Martyrs&lt;/i&gt; (2014) and &lt;i&gt;Mary&lt;/i&gt; (2016) both of which are permanent works commissioned by St. Paul's Cathedral in collaboration with the Tate Museum.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Bill Viola was instrumental in establishing video art as a viable medium in contemporary art. Overall, the works are powerful - for example art theorist Cynthia Freeland describes Viola's work as "'excessive': not only does its scale of presentation increasingly tend towards the grandiose, but the effects of encountering it may exceed our capacity to contain our responses".
+		  </p>
+          <p type="p">Video artists such as Douglas Gordon with his piece, &lt;i&gt;24 Hour Psycho&lt;/i&gt; (1993), which slowed down the classic Hitchcock film and presented it on an enormous screen, owe much to Viola, whose trademark slow motion style lends significance to even the most mundane of activities. Likewise, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barney_matthew"&gt;Matthew Barney's&lt;/span&gt; increasingly larger scale, cinematic (and some would say quite overblown) works that rely heavily on archetypal figures, symbolic meaning, and common "universal" themes like birth, death, and sexuality owe much to Viola's development of his own art from the fairly simple and intimate interactions encouraged by his early installations to the grand productions of more recent years.</p>
+          <p type="p">In more general terms, Viola's willingness to take up the video camera, explore the possibilities of the new medium, and combine the intimacy of family home videos with the grandiosity of his later works from the mid-1990s onward, has opened the field for subsequent video artists to experiment broadly without having to constantly defend the legitimacy of their medium.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Hatsu-Yume (First Dream)</title>
+      <year>1981</year>
+      <materials>HD Video (Color, Sound)</materials>
+      <desc>
+				&lt;i&gt;Hatsu-Yume (First Dream)&lt;/i&gt; was produced on a single-channel videotape in color and features stereo sound. It is a 56-minute-long video work, which is comprised of day-to-day recordings made during Viola's travels through the largest, main Japanese island, called Honshu. His journey took him both to densely populated spaces such as Tokyo as well as remote regions like the Osorezan or "Mountain of Souls" region. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Hatsu-Yume&lt;/i&gt; has been described as "dreamlike" or reminiscent of the experience of being in a trance. In the piece, the artist melds his own observations about the culture of Japan with a highly personal, spiritual contemplation of nature, life, and death by exploration the relationship of his medium, video, to light and to reflection. Viola mused about the video's symbolism, "Water supports the fish like light supports man. Land is the death of the fish - darkness is the death of man."
+				&lt;br/&gt;&lt;br/&gt;
+				Hatsu-Yume refers to Japanese folklore, which regards the first day of the new year as extremely significant. Viola explores that idea as a metaphor for the creation of the world. The video seems to progress from darkness to light, stillness to motion, silence to sound, simplicity to complexity, and nature to civilization. Indeed, Viola's work typically employs the concept of dualities that seem to have universal significance, including light and dark, the ancient and the modern, nature and civilization, object and subject, and rational thought and intuition. Viola wrote about this piece, "I was thinking about light and its relation to water and to life, and also to its opposite - darkness or the night and death. Video," he explained, "treats light like water - it becomes fluid on the video tube." 
+				&lt;br/&gt;&lt;br/&gt;
+				While he has been criticized for relying on standard symbolism, arguably, Viola tries to subvert the obvious conclusions by playing with duality. For instance, in the work, an enormous rock on the side of a mountain, surely a recognizable symbol of immobility and endurance, seems to change in scale and size as the light changes and time passes. A scene from the city, which should be illuminated with countless lights, instead is lighted by a lone match and on a dark, nighttime sea, fishermen haul in a luminous squid with light as their bait. The video becomes a haunting epic as Viola exploits fully his method of maintaining extreme focus and attention on his subjects, utilizing slow motion to emphasize an extension or compression of time and space. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Room for St. John of the Cross</title>
+      <year>1983</year>
+      <materials>Video/Sound Installation</materials>
+      <desc>
+				For this video and sound installation, Viola created a small black cubicle with a window through which viewers can peer to regard a miniature color monitor sitting on a wooden table alongside a metal pitcher and a glass of water. The screen displays a color image of a snow-covered mountain while a recorded voice quietly recites poetry, which speaks of love, ecstasy, flying and escape through the night. The poems Viola used for this piece were written in 1577 by the Spanish mystic St. John of the Cross while he was held prisoner in a small, dark, and windowless cell and intermittently tortured for nine months during the Spanish Inquisition. Outside of the black cubicle is a large projection on the gallery wall of snow-covered mountains moving chaotically as if caught in a storm. A roaring sound accompanies these moving images.
+				&lt;br/&gt;&lt;br/&gt;
+				Viola's interest in the mysticism of various religious traditions led him to the story of St. John of the Cross, whose disturbing prognostications via poetry he found both deeply unsettling and inspiring. This work marks a decisive moment in Viola's career when he introduced his most enduring goal: to restructure the audience's perceptions of time and space with the use of technology and new media. His contention that sleep and memory both create the impression that there are gaps in the experience of time and that video seems to undermine that perception in its seeming ability to capture the passage of time in an uninterrupted way. By separating the aural and different aspects of the visual in the work - both compartmentalizing and rendering epic the latter, Viola attempts to create the conditions for restructuring memory. All of the input the viewer receives is coming in simultaneously but also separately in this fascinating conceptualization of sense experience.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Heaven and Earth</title>
+      <year>1992</year>
+      <materials>Video Installation (Monitors, Wood Column, Black &amp; White Video)</materials>
+      <desc>
+				This installation resembles a pillar that extends from floor to ceiling in the exhibition space, ostensibly as a structural support. The structure is actually comprised of wood, the stripped down tubes of a pair of black-and-white video monitors, and metal brackets that support the screens and connect them to the wood. 
+				&lt;br/&gt;&lt;br/&gt;
+				The top screen, which is suspended from the portion of the pillar connected with the ceiling - or "Heaven," as the title implies - displays a close-up image of an old woman, the artist's mother, who lies in a coma and in the last week of her life. Her face is blank and her half-closed eyes seem lifeless. The lower screen, which is anchored to the earth via the wooden column constitutes the "Earth" component of the work, the counterpart or opposite of the other screen. This video features a newborn baby, Viola's son, looking around curiously, albeit with the limited vision of a neonate.	
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Heaven and Earth&lt;/i&gt; was produced in the midst of a profound existential crisis in Viola's life: his mother died shortly before his son was born. The close proximity of the screens suggests that the birth of the infant and the death of the elderly woman are inextricably linked as the images of each figure are reflected on the opposing screen, merging in a sense. The glass of the monitors creates the illusion that the images on the screens are conjoined, at least tenuously, a concept that relates to Buddhist philosophy, which sees birth and death as one rather than as separate experiences and also as cyclical. Indeed, the theme of continuity plays a critical role in the work as the pillar is meant to be perceived as continuous. However, Viola's emphasis on duality emerges here as well in the slight gap between the two screens.
+			</desc>
+      <collection>9 1/2 x 16 1/8 x 18 ft</collection>
+    </artwork>
+    <artwork>
+      <title>The Crossing</title>
+      <year>1996</year>
+      <materials>Video and sound installation</materials>
+      <desc>
+				&lt;i&gt;The Crossing&lt;/i&gt; is a large, two-channel color video installation that incorporates sound. It is comprised of two looped, 10-minute-and-57-second videos that are displayed on a large (just over life-size), two-sided screen. Two distinct yet similar videos are projected onto the separate sides of the screens. Viola shot both videos using high-speed film (registering 300 frames per second) and radically slowed down the playback speed to achieve extreme slow motion and to enhance the drama.
+				&lt;br/&gt;&lt;br/&gt;
+				On one side of the screen, a man in khaki pants and a blue button up shirt walks slowly toward the audience then pauses. Suddenly, a trickle of water begins to fall on his head and gradually the flow increases until it becomes torrential. As the flow of the water subsides, it becomes apparent that the man has disappeared completely. The water becomes a mere trickle once again and then only blackness remains. 
+				&lt;br/&gt;&lt;br/&gt;
+				On the opposing screen, the same man walks similarly, slowly towards the audience. He pauses and a small fire ignites beneath his feet. The flame grows gradually until the figure is completely engulfed in a raging fire. As the flames subside, this man, too, has disappeared and, like the opposite video, once the flames subside, only darkness remains.
+				&lt;br/&gt;&lt;br/&gt;
+				Viola uses large-scale projection, extreme slow motion, and precise sound editing and looping to create his visual rendition of the unfolding of events within the vastness of time. The almost painfully slow pace also urges the viewer to be patient, to concentrate, and to consider how much of life is comprised of just this kind of seemingly uneventful waiting that is actually rife with detail if one pauses and contemplates sufficiently. 
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;The Crossing&lt;/i&gt;, Viola uses the very obvious - and, critics have argued, somewhat cliche - fire and water symbolism to represent creation and destruction, which is reminiscent of many spiritual and religious traditions. Fire and water are also intended to represent change, redemption, transformation, and renewal, while the disappearing figures symbolize the destruction of the ego. 
+				&lt;br/&gt;&lt;br/&gt;
+				These dramas seem to unfold in a place beyond the real world where time comes nearly to a standstill and critic Lisa Slade applauds Viola for "breaking down 'the three second effect' (the average time that viewers give to artworks in galleries)." In contrast, critic Ken Bolton "acknowledges the beauty of the work" but asserts that Viola's grander works like &lt;i&gt;The Crossing&lt;/i&gt; are "ponderous and emptily portentous" and critic Mike Ladd wonders whether the artist's incorporation of mysticism may be "dogma in disguise." Such conflicting analyses of his work emphasize at the least that it inspires complex responses in viewers.
+			</desc>
+      <collection>16 ft. x 27 ft. 6 inches x 57 feet</collection>
+    </artwork>
+    <artwork>
+      <title>Going Forth By Day</title>
+      <year>2002</year>
+      <materials>Video Installation</materials>
+      <desc>
+				Viola's complex, &lt;i&gt;Going Forth By Day&lt;/i&gt;, is actually comprised of five separate videos, all of which were produced using on high-definition video technology. Each video is 35 minutes long, looped, and projected directly onto the gallery walls. The five videos play simultaneously in the space. The audience enters the installation by passing into the light of the videos. Each video tells a story of a different phase of human life, which collectively becomes a cohesive narrative.
+				&lt;br/&gt;&lt;br/&gt;
+				The first video is &lt;i&gt;Fire Birth&lt;/i&gt;, and features a figure who seemingly struggles for rebirth in a reddish orange water. In the next video, &lt;i&gt;The Path&lt;/i&gt;, a panoramic projection, a line of people moves slowly along a trail leading through a forest scene. The procession seems to be endless. In the third video, &lt;i&gt;The Deluge&lt;/i&gt;, a torrent of water rushes through a building, sending people inside fleeing outside, some being washed away while others escape seemingly unharmed. Viola titled the fourth video, &lt;i&gt;The Voyage&lt;/i&gt;, as it features an elderly man who is dying, surrounded by his family, as a boat below filled with his possessions awaits him. In the final video, &lt;i&gt;First Light&lt;/i&gt;, rescue workers are resting for the day beside a pond as a ghostly figure ascends from the water. Each projection can be experienced independently or the entire installation can be absorbed as a whole.
+				&lt;br/&gt;&lt;br/&gt;
+				The overall work takes its title from the literal translation of the title of the Egyptian Book of the Dead, which is "The Book of Going Forth by Day." &lt;i&gt;The Book of the Dead&lt;/i&gt; was intended to function as a guide for the soul once it was released from the body, assisting it in its efforts to "go forth by the light of day." Once again, Viola muses on the subject of the natural cycles of rebirth and regeneration while exploring the concept of individuality versus society. 
+				&lt;br/&gt;&lt;br/&gt;
+				Because it is presented in extremely slow motion, there is the sense that what the viewer is actually looking at is a series of paintings on display on the gallery walls. As such, it harkens back to frescos from the 14&lt;sup&gt;th&lt;/sup&gt; and 15&lt;sup&gt;th&lt;/sup&gt; centuries painted by Giotto and Signorelli (among others), which were full of images of hellfire, floods, earthquakes, tidal waves, and so forth. Indeed, the work of Old Masters, particularly those from the Italian Renaissance, is echoed in the monumentality of these videos, the rich, full color, and the emphasis on the narrative - on telling a story without text. Viola's work made up of multiple videos is a 21&lt;sup&gt;st&lt;/sup&gt;-century rendition of such imagery, which was deeply influential for him. 
+				&lt;br/&gt;&lt;br/&gt;
+				In addition to being moved by the images he saw as he wandered through the churches of Florence in particular, Viola was affected by the acoustics of those sacred spaces. Consequently, he went from place to place, from tiny churches to cathedrals, making recordings of ambient sound. Perov explained, "He was interested in the architecture of the cavernous spaces, and how sound bounces around and is altered by the volume of the archways and domes. His videos," like those that make up &lt;i&gt;Going Forth By Day&lt;/i&gt;, "are full of ambient sound; sound that does not represent anything in particular but at the same time is familiar."
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Martyrs (Earth, Air, Fire, Water)</title>
+      <year>2014</year>
+      <materials>Video Installation</materials>
+      <desc>
+				&lt;i&gt;Martyrs&lt;/i&gt;, a high definition video installation incorporating four plasma screens set on carbon-steel frames, emphasizes the extent of the technological progress of Viola's chosen medium and, furthermore, his efforts through the years to embrace innovation while simultaneously paying homage to tradition in the visual arts, especially painting. 
+				&lt;br/&gt;&lt;br/&gt;
+				Like artists who have come before him, Viola was commissioned by the church - in this case, St. Paul's Cathedral in London - to create monumental works for permanent display. This work was joined in 2016 by a second one, &lt;i&gt;Mary&lt;/i&gt;, which evokes the countless representations of the Virgin Mary holding the lifeless body of her martyred son, Jesus, on her lap - the centuries-old &lt;i&gt;pietà&lt;/i&gt; ("pity") theme. "The result of this commission," says the church's website, "sees St. Paul's Cathedral, which has always spearheaded the engagement of great artists, house a resonant work of art for our times. &lt;i&gt;Martyrs&lt;/i&gt; (and later, &lt;i&gt;Mary&lt;/i&gt;), will play an important role in connecting contemporary issues with the timeless themes embodied in the cathedral." Of course, very few &lt;i&gt;avant-garde&lt;/i&gt; and experimental artists have been hired by main-stream (rather traditionally-minded) churches in the era of Modern and Contemporary art, so Viola's commission at St. Paul's is that much more triumphant.
+				&lt;br/&gt;&lt;br/&gt;
+				The four different videos are looped and last seven minutes and 15 seconds; they run simultaneously. In this work, four human figures, one on each screen, undergo different methods of torture - of martyrdom. One has a figure being buried alive; another hangs with wrists and ankles bound; a third figure is engulfed in flames; a final figure is hanging upside-down while being drenched with water. Images in Christian art from the Middle Ages onward of martyrs being subjected to various forms of torture - from crucifixion to immolation - are directly referenced quite unapologetically in this 21&lt;sup&gt;st&lt;/sup&gt;-century version. As the work opens, explains Viola, these four figures "are shown in stasis, a pause from their suffering. Gradually there is movement in each scene as an element of nature begins to disturb their stillness." Subjected to extreme conditions like "flames raining down" and a roiling earth, the martyrs remain strong in their resolve, which is perhaps the most significant message intended by the artist.
+				&lt;br/&gt;&lt;br/&gt;
+				The four images side-by-side evoke the multi-paneled paintings or polyptychs that hung prominently over altars starting in the medieval period. Viola has heightened the experience of being in the cathedral by offering visitors and worshipers a dramatic visual contemplation on life, death, and the afterlife, as well as the human capacity to endure hardship in the name of faith. As the viewer observes this violent drama unfolding in this piece featuring images that might just have easily have been seen in centuries past, although in static form, on magnificently painted panels, they are meant to witness, says Viola, "the darkest hour of the martyr's passage through death into the light."
+			</desc>
+      <collection>St Paul's Cathedral</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="nauman_bruce">Clown Torture (1987)</artwork>
+    <artwork from="movement" page="fluxus">Zen for Film (1964/1965)</artwork>
+    <artwork from="movement" page="post_minimalism">Trademarks (1970)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>paik_nam_june</entity>
+        <entity>beuys_joseph</entity>
+        <entity>rothko_mark</entity>
+        <entity>giacometti_alberto</entity>
+        <entity>nauman_bruce</entity>
+      </column>
+      <column>
+        <entity>tudor_david</entity>
+      </column>
+      <column>
+        <entity>renaissance</entity>
+        <entity>baroque_art_and_architecture</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>barney_matthew</entity>
+        <entity>biggs_janet</entity>
+        <entity>hill_gary</entity>
+      </column>
+      <column>
+        <entity>ross_david</entity>
+      </column>
+      <column>
+        <entity>video_art</entity>
+        <entity>installation_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Bill Viola</title>
+          <link>050009392X</link>
+          <info>By John G. Hanhardt</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Reasons for Knocking at an Empty House: Writings 1973-1994</title>
+          <link>0262720256</link>
+          <info>By Bill Viola</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>The Unspeakable Art of Bill Viola: A Visual Theology</title>
+          <link>1620324717</link>
+          <info>By Ronald R. Bernier</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Artist's Official Website</title>
+          <link>http://www.billviola.com/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Bill Viola's Artist Page at James Cohan Gallery</title>
+          <link>http://www.jamescohan.com/artists/bill-viola</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Bill Viola: Going Forth by Day</title>
+          <link>https://www.guggenheim.org/artwork/10594</link>
+          <info>Guggenheim Museum</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Bill Viola</title>
+          <link>http://articles.latimes.com/2007/jan/28/magazine/tm-viola04/</link>
+          <info>
+						By Alan Rifkin
+						&lt;br&gt;
+						Los Angeles Times 
+						&lt;br&gt;
+						January 28, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Liberation of the Senses</title>
+          <link>http://www.smh.com.au/articles/2008/04/04/1207249434840.html</link>
+          <info>
+						By Gerard Wright
+						&lt;br&gt;
+						The Sydney Morning Herald
+						&lt;br&gt;
+						April 5, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Timeless Themes Suddenly Timely</title>
+          <link>http://www.nytimes.com/2002/09/27/arts/design/27GLUE.html</link>
+          <info>
+						By Grace Glueck
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						September 27, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Art Review: Themelessness</title>
+          <link>http://nymag.com/nymetro/arts/art/reviews/n_7987/</link>
+          <info>
+						By Mark Stevens
+						&lt;br&gt;
+						New York Magazine 
+						&lt;br&gt;
+						November 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Video Visionary</title>
+          <link>http://surface.syr.edu/cgi/viewcontent.cgi?article=1122&amp;context=sumagazine</link>
+          <info>
+						By David Marc
+						&lt;br&gt;
+						Syracuse University Magazine 
+						&lt;br&gt;
+						2010
+					</info>
+        </entry>
+        <entry>
+          <title>Hallelujah! Why Bill Viola's Martyrs Altarpiece at St. Paul's is to die for</title>
+          <link>http://www.theguardian.com/artanddesign/jonathanjonesblog/2014/may/21/bill-viola-matryr-video-installation-st-pauls</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 21, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>A Spiritual Journey in Bill Viola's art</title>
+          <link>http://www.necsus-ejms.org/spiritual-journey-bill-violas-art/</link>
+          <info>
+						By Elena Marcheschi
+						&lt;br&gt;
+						European Journal of Media Studies 
+						&lt;br&gt;
+						December 5, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews">
+        <entry>
+          <title>Inside Story: Bill Viola</title>
+          <link>https://www.royalacademy.org.uk/article/inside-story-bill-viola</link>
+          <info>
+						By Laura Gascoigne
+						&lt;br&gt;
+						June, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Interview with Bill Viola</title>
+          <link>http://www.tokyoartbeat.com/tablog/entries.en/2006/11/interview_with_bill_viola.html</link>
+          <info>
+						By Ashley Rawlings
+						&lt;br&gt;
+						Novermeber, 11, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Bill Viola in Conversation with Michael Nash</title>
+          <link>http://www.jca-online.com/viola.html</link>
+          <info>
+						June 30, 1990
+					</info>
+        </entry>
+        <entry>
+          <title>Bill Viola Interview</title>
+          <link>http://www.designboom.com/design/designboom-interview-bill-viola/</link>
+          <info>
+						By Nate Archer
+						&lt;br&gt;
+						November 7, 2007
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Interview with Bill Viola by the Louisiana Channel</title>
+          <link>https://www.youtube.com/watch?v=uenrts2YHdI</link>
+          <info />
+        </entry>
+        <entry>
+          <title>"The Movement in the Moving Image" a lecture by Bill Viola at UC Berkeley</title>
+          <link>https://www.youtube.com/watch?v=t0RCkNugozU</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

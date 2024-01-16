@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>church_frederic_edwin</id>
+    <name>Frederic Edwin Church</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1844 - 1900</years>
+    <description>Frederic Edwin Church's landscape paintings offer us the pious and the exotic, the natural and the artificial, in equal measure.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>American</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>May 4, 1826</birthDate>
+    <birthPlace>Hartford, CT, USA</birthPlace>
+    <deathDate>April 7, 1900</deathDate>
+    <deathPlace>New York City, NY, USA</deathPlace>
+    <image_desc>true</image_desc>
+    <pub_time>8/9/2018</pub_time>
+  </main>
+  <includes>
+    <include>hudson_river_school</include>
+    <include>romanticism</include>
+    <include>naturalism</include>
+    <include>the_sublime_in_art</include>
+    <include>american_realism</include>
+  </includes>
+  <similar_movements>
+    <movement>hudson_river_school</movement>
+    <movement>romanticism</movement>
+    <movement>naturalism</movement>
+    <movement>the_sublime_in_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>cole_thomas</artist>
+    <artist>turner_jmw</artist>
+    <artist>constable_john</artist>
+    <artist>adams_ansel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Imagine this fairy-like Temple blazing like sunlight among those savage black rocks."</q>
+    <q>"Nature has been very lavish here in the gift of her beauty - I am sure you would enjoy the noble scenes which our windows command"</q>
+    <q>"For several seasons after I selected this spot [Olana] as my home, I thought of hardly anything but planting trees, and had thousands and thousands of them set out on the southern and northern slopes."</q>
+    <q author="Mark Twain">"I have just returned from a visit to the most wonderfully beautiful painting which this city [New York] has ever seen - Church's Heart of the Andes."</q>
+  </quotes>
+  <authors>
+    <author link="farey">Luke Farey</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Frederic Edwin Church's landscape paintings offer us the pious and the exotic, the natural and the artificial, in equal measure. He was a vital figure in the movement in American painting known as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hudson_river_school"&gt;Hudson River School&lt;/span&gt;, and in the development of Western landscape painting more generally, and his work epitomizes all the contradictions of the culture that birthed it. A technically ingenious draftsman, interested in the accurate rendering of flora, fauna, and atmospheric effects, he was also aware of the value of illusion, often building up his landscapes from preparatory sketches made at several different sites. His subject-matter ranged from New York State to the Arctic and the Andes. To each location he brought the same heady combination of religious awe, scientific inquisitiveness, and a fascination with the exotic.</synopsys>
+    <key_ideas>
+      <idea>Frederic Edwin Church was one of the most gifted painters of light and air of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romantic&lt;/span&gt; period. His work became renowned not only for its meticulous rendering of landscape, but for the equal attention it lavished on sunlight, moonlight, cloud, mist, and other intangible qualities of location. In this sense, his work is related to the subgenre of American Romantic landscape painting known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-luminism"&gt;Luminism&lt;/span&gt;, though it lacks that style's emphasis on calm and stillness.</idea>
+      <idea>If &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cole_thomas"&gt;Thomas Cole's&lt;/span&gt; paintings made the Hudson River Valley famous, Frederic Edwin Church made the painters of the Hudson River Valley famous for painting the world. Whereas Cole's travels were restricted largely to the United States, Church's artistic tours took him to exotic and remote locations, from the Arctic Circle to the Middle East. His oeuvre is synonymous with the confident, inquisitive, sometimes astonished gaze of the nineteenth century West upon the rest of the world, and pulsates with the energy of discovery.</idea>
+      <idea>As a member of the second generation of Hudson River School painters, Church's work enacts a movement away from the symbolic unity of the first-generation painters such as Cole - in which each element of the landscape has a coded allegorical value - towards a purer emphasis on the natural scene. This went hand in hand with a desire to document, taxonomize and understand the landscape at a scientific level.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Frederic Edwin Church was born into a mercantile family in Connecticut in 1826. Though his ancestors were amongst the Protestant founding fathers of the United States, his immediate heritage was rather more prosaic. His father and uncle made a living from manufacturing bonnets, and from other business ventures including milling and insurance. Nonetheless, Church's father was wealthy and well-connected, and when his son showed an early talent for art he arranged through his contact Daniel Wadsworth, a noted Connecticut collector, for Frederic to study under the painter Thomas Cole.</p>
+          <p type="img" alt="A photograph of Thomas Cole, Church's teacher, taken in the mid-1840s. ">/images20/photo/photo_church_frederic_edwin_1.jpg</p>
+          <p type="p">The English-born Cole was, by the 1840s, regarded as the founding figure of the Hudson River School and of American landscape painting. His annual painting trips up the Hudson River Valley to the Catskill Mountains had become the stuff of art-historical myth. During a four-year tutelage from 1844 to 48, Church became Cole's favored pupil, and would carry forward the project of American Romantic landscape painting. At first, Church focused like Cole on the landscapes of upstate New York, where he settled in 1849. But increasingly he travelled far and wide in search of subject-matter, including to Vermont and Bar Harbor, Maine, and to South America, the Levant, and the Arctic Circle.</p>
+        </subsection>
+        <subsection title="Early Period">
+          <p type="p">Church had achieved significant critical acclaim by the end of the 1850s, and had also proved himself to be an astute businessman, viewing his paintings almost primarily as financial assets. When his 1859 work &lt;i&gt;The Heart of the Andes&lt;/i&gt; was transported to England for exhibition, for example, Church insisted that it was insured for up to $10,000, a huge sum of money at the time. His decision to display his paintings on both sides of the Atlantic - in New York and London - was also an important contributing factor to his success. His vast painting &lt;i&gt;Niagara&lt;/i&gt; (1857) was promoted in the same way, exemplifying a policy of maximum exposure which allowed him to increase his audience size and gain an international following. Art critic and Church specialist Tim Barringer has noted that Church's activities were exemplary of the cross-Atlantic culture of the period, when there was a constant flow of artists and businessmen back and forth across the Atlantic. It was this culture that kept Church, like his master Cole, in touch with the European landscape tradition, and especially with British artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constable_john"&gt;John Constable&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-turner_jmw"&gt;J.M.W. Turner&lt;/span&gt;.</p>
+          <p type="img" alt="A photograph of Church taken some time between 1855 and 1865, from the photography studio of Brady-Handy. The sideburns he wears were &lt;i&gt;de rigueur&lt;/i&gt; at the time.">/images20/photo/photo_church_frederic_edwin_2.jpg</p>
+          <p type="p">In 1860 Church married Isabel Carnes. It has been suggested that their relationship was prompted in part by the enormous success of Church's touring exhibition &lt;i&gt;The Heart of the Andes&lt;/i&gt;, an event that lasted two years and took in eight American cities and Britain. Church himself was a highly peripatetic spirit and, having achieved considerable financial success, was able to travel widely. In 1859 he undertook a two-man voyage with his friend the pastor Louis Legrand Noble to the North Atlantic, where he sketched icebergs between Labrador and Greenland, studies that would later be worked up into finished oil paintings.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Shortly after his marriage, Church settled with Isabel on a small estate in upstate New York. The property included a vantage point which he had used to sketch from some two decades earlier, while he was still a student of Thomas Cole. Church set about transforming the 126-acre plot, introducing a dairy herd, planting many trees, and building a small house named Cosy Cottage. He would regularly commute from his new home to New York City, where he took a studio in the 10th Street Studio Building. In 1865, Frederic and Isabel suffered a terrible loss when their two infant children died of diphtheria. During a six-month period of recovery, the couple lived in Jamaica, a trip that would ultimately prompt further work. The following year, their son Frederic Joseph was born, the first of four children who would survive into adulthood.</p>
+          <p type="p">Having made a substantial amount of money through painting, Church turned his hand later in life to a different kind of creative project. Acquiring a plot of land adjacent to his estate, in 1869 he began designing a home for him and his wife. Church had just returned from an eighteen-month tour which included a pilgrimage in the Holy Land, and was inspired by the details of buildings in Damascus, Jerusalem and Beirut to bring an Oriental sensibility to the design of the house. Christened Olana, his new home was completed in 1872, and still stands on a striking site overlooking the Hudson River. The architectural style of the building complements his work from this period, much of which depicts sites from the ancient Middle Eastern - as in &lt;i&gt;Springtime in the Levant&lt;/i&gt; (1879) - and has an exoticizing, Oriental glamor.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Olana, the house that Church built in upstate New York, overlooking the Hudson River.">/images20/photo/photo_church_frederic_edwin_3.jpg</p>
+          <p type="p">Church's work fell out of the public imagination towards the end of his life, partly because rheumatoid arthritis hampered his ability to create new work; partly because his most daring, creative landscapes were behind him. He continued to live at Olana, creating paintings that were often derived from his earlier experiences of travel to the Middle East and the North Atlantic. In order to escape the cold New York winters, Church travelled annually to Mexico. His son Louis and daughter-in-law Sally continued to live with him at Olana until his death in 1900.</p>
+          <p type="p">The last years of Church's life were not unhappy ones. His days at Olana were full of pleasures, including visits from Mark Twain, who read poetry for him, and Robert and Emily de Forest, who photographed the house and its surroundings. Church had also achieved a degree of material prosperity that freed him from the burden of creative work; indeed, such was his financial acumen that by the 1890s he was able to start buying back his own paintings, including &lt;i&gt;Catskill Mountains from the Home of the Artist&lt;/i&gt;, which he purchased at auction in 1890.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Church was a talismanic figure to a subsequent generation of American painters, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hopper_edward"&gt;Edward Hopper&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bellows_george"&gt;George Bellows&lt;/span&gt;, and other members of the so-called Ashcan School. His influence on such artists stemmed in part not from any particular quality of his work but from its sheer ubiquity, a product of the international renown and commercial success he had achieved during the middle years of his life. Nonetheless, for the scale and quality of his output, Church can be regarded as a central figure in the canon of American artists. His legacy is managed today by the Olana Partnership, a charity established by Church himself, which oversees the upkeep of his house in upstate New York and stages regular exhibitions of his work.</p>
+          <p type="p">Church's artistic process, involving &lt;i&gt;plein air&lt;/i&gt; sketches on site followed by detailed studio work combining motifs from various different locations, provided an important precedent for so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-american_impressionism"&gt;American Impressionism&lt;/span&gt;, a loose-knit movement associated with artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-homer_winslow"&gt;Winslow Homer&lt;/span&gt;. While rejecting his compositional process of building elaborate pictorial conceits from different sketches, such figures built on his basic observational methods and approach.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Morning, Looking East over the Hudson Valley to the Catskill Mountains</title>
+      <year>1849</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+
+				This atmospheric sunrise is exemplary of Church's early work, and of the influence of Thomas Cole in particular. In keeping with Church's Romantic heritage, the piece is subtly but carefully composed. A crescent-like break in the rocky terrain opens out onto the Valley, as the silver sliver of the Hudson River glistens far below. The clouds are streaked with reddish light, while the figure in the foreground - turned away from the viewer to observe the landscape, a motif familiar from earlier European works such as Caspar David Friedrich's &lt;i&gt;Wanderer above the Sea of Fog&lt;/i&gt; (c. 1818) - contemplates the world spread out before him. His presence serves as a fulcrum, offering the viewer a point of access into the scene, and presenting the landscape as a vessel for human desires and expectations. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				The landscape of upstate New York was of vital significance to the American school of landscape painting that coalesced around the figure of Thomas Cole during the 1820s-40s. Cole, Church's artistic and spiritual mentor, had been visiting the Hudson Valley since 1825 to make sketches for his work. In paintings of Cole's like &lt;i&gt;The Oxbow&lt;/i&gt; (1835-6), the landscape is at once depicted in hyper-naturalistic detail and presented as a symbol of all the hopes and contradictions of American settler culture. Church, like Cole, was a devout Protestant, and his early landscapes show the same coded engagement with themes such as Manifest Destiny. This scene in particular, presents ample opportunities for spiritual or symbolic allusion by playing on the relationship between the river plane below and mountains above and beyond.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				However, in works such as &lt;i&gt;Morning&lt;/i&gt; we can already sense a pronounced emphasis on atmospheric effects which is largely absent from Cole's work, and which would become more striking in the sublime works of Church's maturity. His handling of the American wilderness in this early work reflects a distinctively American order of Romanticism still coming into focus in the mid-nineteenth century. 
+
+			</desc>
+      <collection>Albany Institute of History and Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Heart of the Andes</title>
+      <year>1859</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+
+				This is the largest and most significant of the works that Church made following two visits to South America in 1853 and 1857. The painting is three meters wide, and presents a welter of fauna, most notably in the foreground, where several plants are rendered with exacting detail. One area of acute visual interest is the clump of silver-barked trees to the right. Projecting precariously over the central pool of water, their roots extend into thin air. Curious details like must surely be based on direct observation, and help to generate a peculiar visual intensity only found in a handful of other painters' work at this time. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Church's trips to the Andes were partly inspired by the naturalist and polymath Alexander von Humboldt, whose South American travelogue from the early nineteenth century was a well-known work in Church's day. On 9 May, 1859 Frederic wrote to a friend that he should like to have the recently completed canvas of &lt;i&gt;The Heart of the Andes&lt;/i&gt; shipped to Germany so that he might provide the elderly Humboldt with "a transcript of the scenery which delighted his eyes sixty years ago." This suggests that Church regarded landscape painting, at least in part, as a means of passing onto the viewer a sensation faithful to that generated by original encounter with a scene. To that end, however, he was not entirely ingenous in his recreation of particular landscapes. Key elements of this composition seem to follow the conventions of the Romantic landscape genre rather than the details of topography, such as the layering of foreground (the detailed plants), middle ground (the jungle and plane), and background (the towering rugged mountains). Nonetheless, Church made brilliant use of these conventions, building his pictures up from a series of detailed sketches.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Ironically, Humboldt passed away on 6 May 1959, just three days before Church penned his letter to his friend. Nevertheless, in contemplating &lt;i&gt;The Heart of the Andes&lt;/i&gt;, we get a concentrated, dramatized sense of what the lone traveller might have felt on his first encounter with the grand ridges and peaks of the South-American interior.
+
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Our Banner in the Sky</title>
+      <year>1861</year>
+      <materials>Oil on paper</materials>
+      <desc>
+
+				Though highly unusual in the context of Church's wider output, this is arguably one of the artist's most personally revealing works. &lt;i&gt;Our Banner in the Sky&lt;/i&gt; is thought to have been executed in the year that war broke out between the Unionist and Confederate forces. A break in the evening clouds, set in front of a blue, star-filled sky striped with red light, forms the image of the Union flag, with a dead tree in the foreground serving as makeshift flagpole. This is an overt - not to say overdone - visual allusion to the Civil War, and provides an obvious indication of Church's allegiances in that conflict.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Born and raised in the Federal-supporting north - having spent his early life in Connectictut, moving to New York State in 1849 - Church may even have been referring with this work to a specific event in the early stages of the war. Fort Sumter, a sea fort in South Carolina, was the site of the first battle of the Civil War, a defeat for the Federal forces who held out against a Confederate siege lasting more than thirty hours. It has been suggested that Church's tattered flag represents the wartorn stars-and-stripes which still hung over the fort following the battle, a symbol of defiance and hope that a united America would eventually win out. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				In offering such an overt symbolic conceit, Church stepped outside the general pattern of developmet which characterizes his work. The art historian Jennifer Raab has suggested that Church moved throughout his career towards a naturalistic accuracy, "challeng[ing] an earlier model of painting based on symbolic unity". Yet here, Church uses visual allegory to make a clear political point, indicating the personal significance of the theme, and his almost spiritual belief in the future unity of his nation.
+
+			</desc>
+      <collection>Fine Arts Museums of San Francisco</collection>
+    </artwork>
+    <artwork>
+      <title>Aurora Borealis</title>
+      <year>1865</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+
+				This painting depicts the Aurora Borealis or Northern Lights flickering over the icy wastes of the Arctic. The dancing light in the sky, captured with extraordinary sensitivity, indicates Church's talent for developing formal techniques which accurately relayed complex and subtle atmospheric phenomena. Amid a wash of blue, yellow, and red, a distinct but meandering line is traced across the sky. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				This work was inspired by a visit to the Arctic undertaken by Church's friend, the explorer Isaac Israel Hayes, whose account of his voyage was published as &lt;i&gt;The Open Polar Sea&lt;/i&gt; in 1867. Hayes made provisional sketches of what he saw which, in combination with the details of his written narrative, provided Church with his source-material. As the critic John K. Howat has noted, the picture is "an evocative rather than exact duplication of any specific scenario", recreating the general mood of Hayes's narrative and sketches. It has been incorrectly suggested that the small boat in the left foreground represents Hayes's vessel, but at no point did his own expedition become locked in ice. Church's use of Hayes's material for his own creative projects suggests a good-natured exchange between friends, but also a scholarly give-and-take, with both men profiting from the other's talents and resources (this painting functioned, amongst other things, to publicize Hayes's writing).
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				As scholars such as Jennifer Raab have stated, pictures like &lt;i&gt;Aurora Borealis&lt;/i&gt; indicate Church's interest in visually recreating atmospheric and light effects with scientific accuracy. It is also clear however, that he was able to combine this technical fidelity with an extraordinary affinity for rhapsodic qualities of mood. &lt;i&gt;Aurora Borealis&lt;/i&gt; can therefore be seen as bringing together a range of contemporary perspectives on its subject-matter, speaking to both the pioneering scientific spirit and awe-seeking Romantic sensiblities of its age. 
+
+			</desc>
+      <collection>Smithsonian American Art Museum, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Niagara Falls, from the American Side</title>
+      <year>1867</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+
+				This huge work represents Church's most significant contribution to landscape painting in the high Sublime style, an approach which originated in England in the late eighteenth century with the work of J.M.W. Turner and others. Intending to impress upon his viewers a sense of the enormity of his subject-matter, Church perhaps felt that the most effective tool at his disposal was scale. As such, this painting is more than two-and-a-half meters tall, with the viewer perched, as it were, on a rocky outcrop at the mouth of the falls, the eye drawn down and across into depths recreated with vertiginous accuracy.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				The function of the Sublime in art was to transport the viewer with an overwhelming sense of vastness, an inhuman vastness which was both inspiring and terrifying, taking them briefly out of their own bodies. This painting can be regarded as an artistic recreation of the Sublime quality of the Falls themselves: Church sought to immerse his viewers in an experience analogous to that of experiencing the cascade in person, hearing the rush of water, feeling the spray of mist. The marginalized line of the horizon is important in this sense, consuming the gaze in a tumult of flowing water. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Church had been visiting and painting the Niagara Falls since the 1850s, making oil sketches of the site during visits in 1857 and 1858. A full-scale painting made during one of those visits, &lt;i&gt;Niagara&lt;/i&gt; (1857), is horizontally disposed, emphasizing the flow of water towards and over the edge of the precipice. In this later work, Church's focus shifts towards the huge cloud of spray at the foot of the falls. A less definite, more suggestive subject, the spray forms a dense and impenetrable mass at the center of the picture, suggesting an intelligent discourse in Church's work between detailed description, on one hand, and allusion and affective atmosphere, on the other. Indeed, this work seems to undermine the criticism of Church's contemporary John Ruskin, who wrote dismissively that "[Church] can draw clouds as few men can, though he does not know yet what painting means, and I suppose he never will."
+
+			</desc>
+      <collection>National Gallery of Scotland, Edinburgh</collection>
+    </artwork>
+    <artwork>
+      <title>El Khasné, Petra</title>
+      <year>1874</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+
+				This is one of several painting that Church created following his travels across the Middle East during the late 1860s and early 1870s. Capturing perhaps for the first time a vista now familiar from various pop-culture references, Church offers a dramatic glimpse of the neoclassical columns of Petra emerging from dark, towering avenues of stone. The revelation of the building's façade is ingeniously managed, the irregular outline of the adjoining rock-faces creating a jagged frame around the building, directing the eye inwards. In the foreground, a small area of path seems to invite us into the image; indeed, the framing and angles are carefully managed to suggest the perspective of a viewer approaching on foot. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Having spent eighteen months in Europe and the Middle East from Autumn 1867 onwards, Church returned home full of ideas that would occupy him for several years thereafter. His eastward journeys took him to the holy land - like his teacher Thomas Cole, Church was a devout Protestant - and to the Greco-Roman ruins of the ancient Middle East, including the ancient city of Petra in Jordan. The building depicted here, El Khasné ("The Treasury"), was so named in the nineteenth century, but was in fact a temple and a mausoleum for the Nabatean king who oversaw its construction.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				The critic Jackie Wullschlager has described Church's work as offering "piety as visual imagination, a pre-Darwinian sense of harmonious design yet a scientist's accuracy and a pioneer's thrill of place: Church intrigues as a historical record of the mindset of mid-19th-century America." This sums up heady historical and intellectual conditions that underpinned the composition of works such as &lt;i&gt;El Khasné, Petra&lt;/i&gt;. At one level, the painting functions as an aesthetically pleasurable object; upon its completion, Church gifted it to his wife Isabel, and it still hangs in the sitting room at Olana. On the other hand, it suggests the uncomprehending wonder felt by Church and others like him on encountering the ancient past of the Middle East, a wonder colored by the impending intellectual relativism and religious crises of the late nineteenth century. The compositional treatment of the ruined façade captures this sense of awe perfectly, its dazzling emergence signaling not only a visual but an imaginative discovery. Interstingly, to this day, this is the most famous, post-card-type, view of Petra that any and all tourists to the site are likely to take away from their visit.
+
+			</desc>
+      <collection>Olana State Historic Site, New York</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks></similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>turner_jmw</entity>
+        <entity>constable_john</entity>
+        <entity>friedrich_caspar_david</entity>
+        <entity>cole_thomas</entity>
+      </column>
+      <column>
+        <entity>cole_thomas</entity>
+        <entity alt="Martin Johnson Heade">heade_martin_johnson</entity>
+      </column>
+      <column>
+        <entity>hudson_river_school</entity>
+        <entity>romanticism</entity>
+        <entity alt="Landscape Painting">landscape_painting</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Lockwood de Forest">de_forest_lockwood</entity>
+        <entity alt="Larry Lederman">lederman_larry</entity>
+        <entity>hopper_edward</entity>
+        <entity>bellows_george</entity>
+      </column>
+      <column>
+        <entity alt="Martin Johnson Heade">heade_martin_johnson</entity>
+        <entity alt="Erastus Dow Palmer">palmer_erastus_dow</entity>
+      </column>
+      <column>
+        <entity>luminism</entity>
+        <entity>ashcan_school</entity>
+        <entity>american_impressionism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Frederic Church</title>
+          <link>0300109881</link>
+          <info>By John K. Howat</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>100 Masterpieces from the National Galleries of Scotland</title>
+          <link>1906270015</link>
+          <info>By John Leighton</info>
+        </entry>
+        <entry>
+          <title>Frederic Church and the Landscape Oil Sketch</title>
+          <link>1857095502</link>
+          <info>By Katherine Bourguignon, Christopher Riopelle and Andrew Wilton</info>
+        </entry>
+        <entry>
+          <title>American Sublime: Landscape Painting in the United States, 1820 - 1880</title>
+          <link>1854373870</link>
+          <info>By Tim Barringer and Andrew Wilton</info>
+        </entry>
+        <entry>
+          <title>Frederic Church: The Art &amp; Science of Detail</title>
+          <link>B015Y1YOMO</link>
+          <info>By Jennifer Raab</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Frederic Edwin Church - The Complete Works</title>
+          <link>https://www.fredericedwinchurch.org/the-complete-works.html</link>
+          <info>This website has a large catalogue of Church's paintings with quality reproductions</info>
+        </entry>
+        <entry>
+          <title>The official Olana website gives information about the house that Church built in upstate New York and his artistic output</title>
+          <link>https://www.olana.org/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Frederic Edwin Church</title>
+          <link>https://www.metmuseum.org/toah/hd/chur/hd_chur.htm</link>
+          <info>
+
+						By Kevin J. Avery
+
+						&lt;br&gt;
+
+						The Metropolitan Museum of Art website 
+
+						&lt;br&gt;
+
+						August 2009
+
+					</info>
+        </entry>
+        <entry>
+          <title>Through American Eyes: Frederic Church and the Landscape Oil Sketch, National Gallery, London</title>
+          <link>https://www.ft.com/content/66d03ebc-71e1-11e2-89fb-00144feab49a</link>
+          <info>
+
+						By Jackie Wullschlager
+
+						&lt;br&gt;
+
+						The Financial Times 
+
+						&lt;br&gt;
+
+						February 10, 2013
+
+					</info>
+        </entry>
+        <entry>
+          <title>Graphic Making, Actuarial Knowing: Transfer and Countertransference in Frederic Edwin Church's South American Drawings</title>
+          <link>https://www.journals.uchicago.edu/doi/full/10.1086/688200</link>
+          <info>
+
+						By Matthew C. Hunter
+
+						&lt;br&gt;
+
+						West 86th 
+
+						&lt;br&gt;
+
+						Spring-Summer 2016
+
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Frederic Church in the Maine Wilderness</title>
+          <link>https://www.youtube.com/watch?v=75IF_vvRq28</link>
+          <info>A lecture about Frederic Church given at the Yale Center for British Art by John Walsh</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>vasari_giorgio</id>
+    <name>Giorgio di Antonio Vasari</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1524 - 1574</years>
+    <description>Vasari was important in the development of Italian Renaissance art and establishing an early art historical convention for future generations.</description>
+    <art_description>Important paintings and architecture by Vasari with analysis, influences, innovations, achievement, and overall contribution to architecture and the arts.</art_description>
+    <use_big_images>true</use_big_images>
+    <nationality>Italian</nationality>
+    <occupation>Painter, Architect, and Art Historian</occupation>
+    <birthDate>July 30, 1511</birthDate>
+    <birthPlace>Arezzo, Italy</birthPlace>
+    <deathDate>June 27, 1574</deathDate>
+    <deathPlace>Florence, Italy</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <cname>Giorgio Vasari</cname>
+    <pub_time>11/18/2018</pub_time>
+  </main>
+  <includes>
+    <include>high_renaissance</include>
+    <include>mannerism</include>
+  </includes>
+  <similar_movements>
+    <movement>high_renaissance</movement>
+    <movement>mannerism</movement>
+    <movement>venetian_school</movement>
+    <movement>early_renaissance</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>michelangelo</artist>
+    <artist>raphael</artist>
+    <artist>da_vinci_leonardo</artist>
+    <artist>masaccio</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Inspiration demands the active cooperation of the intellect joined with enthusiasm, and it is under such conditions that marvelous conceptions, with all that is excellent and divine, come into being."</q>
+    <q>"This &lt;i&gt;disegno&lt;/i&gt;, when it brings forth a creative idea from our critical faculty, requires a hand ready and able, thanks to years of study and practice, to draw and to express well whatever thing Nature has created, with a pen, a stylus, a charcoal stick, a pencil..."</q>
+    <q>"For when the intellect sends forth its concepts clearly and with judgment, those concepts will make hands that have exercised &lt;i&gt;disegno&lt;/i&gt; for many years understand both the perfection and excellence of the arts and the expertise of the artist."</q>
+    <q>"All the Arts belong to &lt;i&gt;disgeno&lt;/i&gt; or depend on it."</q>
+    <q>"As long as art lives never shall I accept that men are truly dead."</q>
+  </quotes>
+  <authors>
+    <author link="sethi">Zaid Sethi</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Missing the so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;High Renaissance&lt;/span&gt; period of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt; by almost a generation, Giorgio di Antonio Vasari emerged around the 1530s as an important link in the development of Italian Renaissance art. He is well respected as a painter and architect, especially in his frescos and his use of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerism&lt;/span&gt; style to intensify his biblical narratives. Yet most commentators would agree that his great contribution to the history of Western art history came not via an artwork at all, but rather via a tome: &lt;i&gt;The Lives of the Most Eminent Painters, Sculptors and Architects&lt;/i&gt;, first published in 1550. In &lt;i&gt;The Lives&lt;/i&gt; (as it has become known), Vasari introduced for the first time the now familiar art historical convention of using biological models to bring meanings to specific artworks. According to scholar Andrew Ladis, Vasari turned Michelangelo (in particular) into "the triumphant savior of the arts, a figure of light" as he put it. Presenting a view on the Renaissance which persists to this day, &lt;i&gt;The Lives&lt;/i&gt; decreed Vasari's era as the "rebirth" of art after the fall of Rome, with the works by proto-Renaissance artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-giotto"&gt;Giotto&lt;/span&gt; representing the beginnings of art's aesthetic ascent.</synopsys>
+    <key_ideas>
+      <idea>Vasari was first and foremost a frugal businessman. He realized the part "artistic influence" could play in elevating the value attached to an artwork. His position helped initiate a shift in thinking that saw painters - or, rather, some special painters - occupy a higher status than mere artisan. If one could present themselves as an artist, then the greater their chances of achieving fame and financial security. His position was summed up in this remarkable address to his erstwhile colleagues and masters: "Once I was poor like all of you but now I have three thousand scudi or more. You considered me awkward (as a painter), but the friars and priests consider me an able master. Once I served you, and now I have a servant of my own, who looks after my horse. I used to dress in those rags worn by poor painters, and now I am dressed in velvet. Once I went on foot, and now I go on horseback."</idea>
+      <idea>Vasari gained early notices for his commissioned portraiture. He favoured pastel tones to bring out a humanist and sympathetic quality in his venerated sitters. To the ends of posterity, he would also pepper his picture frame with symbolism that would connote the gravitas and status of the individual in question.</idea>
+      <idea>Having invested in the ideals of tonal harmony in his portraits, Vasari turned towards the techniques of Mannerism in his religious painting. These compositions relied more on artifice - unnatural colors, abnormalities in, and elongations of, scale, exaggerations in contrast and so on - with the intent of creating a sense of high elegance and heightened drama within the picture narrative.</idea>
+      <idea>As author of &lt;i&gt;The Lives of the Most Eminent Painters, Sculptors and Architects&lt;/i&gt; (Volume one: 1550; Volume two: 1568) Vasari effectively gave birth to a populist art history. It was by coming to understand the life and times of the Florentine and Venetian masters, Vasari believed, that one could get to the essence of Renaissance art. The book followed in fact an already established tradition in biographical writing, but Vasari brought a new anecdotal edge to proceedings while at times supplying a moral judgment on the activities of the artists in question. Many scholars have criticized &lt;i&gt;The Lives&lt;/i&gt; for its biases and its surfeit of factual inaccuracies and embellishments. But the principle that the history of art (and literature for that matter) could be understood through the exceptional deeds of divinely gifted individuals has stood firm. It is quite true that many radicals and revisionists have produced treaties that challenge this romanticized, "bourgeois", approach to art history, but it is the idea of the "biographical legend" that has done most to promote the pleasures of art appreciation across all classes of art lovers.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Giorgio Vasari, the eldest of six children, was born in 1511 into a middle-class family living in the Arezzo region of Tuscany. Giorgio's artistic leanings were passed down to him through the generations of family members. His great-grandfather Lazzaro Vasari had been a versatile artiste: a potter, a creator of decorated saddles, a painter of miniatures, and later, under the influence of his mentor Piero della Francesco, a fresco painter. Vasari's grandfather, after whom Giorgio was named, was less of an all-rounder but, like Antonio, he too was an accomplished potter. Vasari had been especially close to his great uncle, Luca Signorelli, himself a sitter for della Francesco's teachings and his perspective drawing. Indeed, little Giorgio had been a sickly child, stricken with frequent nosebleeds (and possibly severe eczema). Vasari would tell the story of how Signorelli would try to staunch his nosebleeds by applying a folk remedy that involved holding "a piece of red jasper to my neck with infinite tenderness."</p>
+          <p type="p">According to scholar Leon Satkowski, Vasari's early schooling was "uncustomarily rich in classical studies," which would later support the artist's advocacy for the Classical underpinnings of the Italian Renaissance. Fluency in Latin was considered a cornerstone of Arezzo public education, and by the age of twelve Vasari could recite long passages from Virgil's &lt;i&gt;Aeneid&lt;/i&gt; from memory. In Arezzo, Vasari also learned drawing techniques from Guillaume de Marcillat, a French craftsman, stained glass artist and panel painter. Yet despite being raised within such a long line of artisans, and despite his refined early schooling, Vasari would need to move to Florence if he was to develop true expertise in the fields of art and architecture.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">By 1524, Vasari left Arezzo to take up a Florentine apprenticeship. This opportunity arose as a consequence of Vasari's family ties to the Medici family, an Italian banking family and political dynasty who were at that time the most influential of all the patrons of the arts. Vasari enjoyed additional patronage from one Silvio Passerini, Cardinal of Cortona, papal legate to Florence, and tutor to Medici heirs Ippolito and Alessandro. Passerini had visited Arezzo in 1523 and had been so moved by the boy's recitation of the &lt;i&gt;Aeneid&lt;/i&gt;, and so admiring of the promise he showed in his drawings, that Cardinal extended an apprenticeship invitation to the young Vasari.</p>
+          <p type="p">Once in Florence, Vasari studied literature alongside the Medici heirs, and trained in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo Buonarroti's&lt;/span&gt; workshop. Though Vasari's apprenticeship with Michelangelo lasted only a matter of months, his esteemed tutor was sufficiently taken with the young apprentice's talent that he secured a place for Vasari in the painter Andrea del Sarto's workshop in 1525. Vasari preferred the training he received under Michelangelo and was frustrated with what he felt was del Sarto's wife Lucrezia's interference with the studio's working environment. Vasari soon left del Sarto's employ for a short-lived spell in the workshop of sculptor Baccio Bandinelli, an artist who Vasari came to despise (and who he vilified in the 2&lt;sup&gt;nd&lt;/sup&gt; edition of &lt;i&gt;The Lives of the Most Eminent Painters, Sculptors and Architects&lt;/i&gt;).</p>
+          <p type="p">In 1527 Vasari's father succumbed to the plague. The 16-year-old took over responsibility for the management of the family's financial affairs and he learned out of necessity to be meticulous in his accounting. Though something of an unwelcome responsibility at the time, the experience helped him appreciate the financial security that artistic status could bring. According to Satkowski, Vasari "set out early and deliberately to make himself an artist of influence," surrounding himself indeed with authors, architects, and artists of renown and developing a shrewd eye for cultivating patrons.</p>
+          <p type="p">In 1531 Vasari's Florentine friend and former schoolmate, the now Cardinal Ippolito de' Medici, asked the artist to join him, Vasari's close friend Francesco Salviati, and the Medici entourage in Rome. Vasari viewed this time in Rome as his golden age, where he and his colleagues spent their days drawing and studying Roman ruins, monuments, buildings, statues and the Vatican's Raphael and Michelangelo frescoes. A year later, the 21-year-old Vasari joined the Florentine painters' guild and he would become instrumental in elevating the guild's prestige.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Casa di Giorgio Vasari, is Vasari's house-museum in Arezzo, Italy" show="1">/images20/photo/photo_vasari_giorgio_1.jpg</p>
+          <p type="p">Scholar Leon Satkowski presents a biographical picture of Vasari as something of a narcissist. He was on the one hand "loyal, hard-working, and totally committed to the political aspirations of his patrons." On the other, he was known to have an "obsequious personality" which "did not make him universally popular". Vasari could be at once "confident," "proud," "hypersensitive to criticism," and "desirous of recognition and respectability." He could also show a level of impatience that "bordered on paranoia." When combined, these "qualities" would account for his impressive professional savvy.</p>
+          <p type="p">Vasari's employ with the Medici family was long-standing, and profitable both for his family - the Medici family sponsored one of his sister's dowries, for instance - as well as for him personally. In 1536, Alessandro de' Medici paid Vasari four hundred ducats for his work, and also, according to Ingrid Rowland and Noah Charney, "assigned him the revenue from fines levelled at artists who failed to fulfil their commissions, a further three hundred ducats a year": Vasari had become a financial success at the age of only 25.</p>
+          <p type="p">There is a popular argument that Vasari might have been a better architect than painter. However, according to Satkowski, Vasari "lacked conventional training in architecture and came to it relatively late in his distinguished career." His interest in architecture arrived first through personal experience with architectural masterworks and architects; his training as a painter and his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;Classical&lt;/span&gt; background would have also exposed him to imagery of architectural works and the works of Vitruvius, whose work was translated into Italian vernacular in 1521. According to Vasari himself, it was only in his twenties (c. 1536) that he sought out formal study of architecture. Vasari's buildings are characterized by their diversity in type, meanings, and style. He placed particular emphasis on his buildings' symbolism and conceptual ideas, and, in Satkowski's terms, provided "virtuoso solutions to the complexities posed by their urban sites."</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="A cover of &lt;i&gt;The Lives of the Most Eminent Sculptors, Painters, and Architects&lt;/i&gt;, (1550)" show="0">/images20/photo/photo_vasari_giorgio_2.jpg</p>
+          <p type="p">In 1550, Vasari published his seminal text, &lt;i&gt;The Lives of the Most Eminent Sculptors, Painters, and Architects&lt;/i&gt;, in collaboration with his friend Vincenzo Borghini as well as local experts. Despite its manifest shortcomings, the text crystalized the ideology of the Renaissance as the aesthetic progression out of the Dark Ages of the Medieval era and into an enlightened return to Classical ideals. It became a cornerstone of art historiography and the periodization of the Renaissance style. Vasari had conceptualized &lt;i&gt;The Lives of the Most Eminent Sculptors, Painters, and Architects&lt;/i&gt; around 1545, using both Plutarch's &lt;i&gt;Parallel Lives&lt;/i&gt; (100 AD), which compared Greek to Roman notable men, and Vitruvius' &lt;i&gt;Ten Books of Architecture&lt;/i&gt; (30-15 BC) as his key inspirations. &lt;i&gt;The Lives&lt;/i&gt; was thus envisioned as an ideological foundation for a Florentine art school. A second edition of &lt;i&gt;The Lives&lt;/i&gt; was published in 1568 and, in this version, Vasari afforded Venetian artists (including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;) their rightful place in the development of the Renaissance. Vasari had hoped that his original tome would guarantee his application to join Duke Cosimo de' Medici's court, though that honor would be denied him until 1554.</p>
+          <p type="p">Given his difficult personality, Vasari was ripe for criticism and public reproach. Around the time of the first publication of &lt;i&gt;The Lives&lt;/i&gt;, there were public accusations, in Satkowski's words, of "insalubrious habits," as well as concerns that the architect was imbibing of too much wine and becoming careless with money. These accusations, regardless of their authenticity, posed a risk to Vasari's career because they called into question his credibility and moral fitness for the first time. With important commissions now under threat, Vasari needed to shore up his public standing, and though "psychologically ill-prepared" and warned off doing so by his peers, Vasari wed Nicolosa Bacci, the daughter of a prominent apothecary in Arezzo, in 1550. Vasari had previously had an affair with Nicolosa's sister Maddalena, with two children resulting from this premarital union. His marriage to Nicolosa came in fact hard on the heels of Maddalena's death. Yet despite the views of the naysayers, and though often apart, Vasari was fond of his wife and was rueful of the fact that their union remained childless.</p>
+          <p type="p">Vasari's architectural career truly began after his admittance into the Duke Cosimo's court (in 1554), and he designed and executed many buildings and city plans both for Cosimo and for the Pope. He would also remodel church interiors, amongst them, the Gothic Church of Santa Maria Novella in Florence, which, under the instruction of the Council of Trent, he rebuilt with the aim of bettering the congregation's ability to see and hear the services. Vasari also took on the task of designing, rebuilding, and organizing the Palazzo della Signoria in Florence, which included Cosimo's private quarters, his assembly rooms, and the offices destined for his administrators, the &lt;i&gt;Uffizi&lt;/i&gt;. Vasari was subsequently instrumental in ensuring that Duke Cosimo approve the establishment of the Accademia e Compagnia dell'Arte di Disgeno. The Accademia took its model of an ideal artist and its educational program from &lt;i&gt;The Lives&lt;/i&gt; and aspired to educate artists in artistic skills as well as in literature and science. From Pope Pius V, Vasari received the honor of becoming a Knight of Saint Peter in 1571.</p>
+          <p type="p">Vasari died on June 27, 1574 at the age of 63. He was buried in a chapel he had designed for himself in the church of Santa Maria in Arezzo.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Vasari's greatest legacy is his 1550 text, &lt;i&gt;The Lives of the Most Eminent Sculptors, Painters, and Architects&lt;/i&gt;, a seminal document which contributed to the formation of art history as a viable academic discipline. From then till now, artists and scholars have drawn on &lt;i&gt;The Lives&lt;/i&gt; as an important, albeit problematic, and often apocryphal, guide to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;Italian Renaissance&lt;/span&gt; and its origins. Annotated copies of &lt;i&gt;The Lives&lt;/i&gt; have been found in the libraries of artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-el_greco"&gt;El Greco&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caracci_annibale"&gt;Annibale Caracci&lt;/span&gt;, and Frederico Zuccaro, and its alphabetical recordings of artist biographies ensured that there is a record of female Renaissance artists who might have otherwise been neglected: including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-anguissola_sofonisba"&gt;Sofonisba Anguissola&lt;/span&gt; and her sisters, and Properzia de' Rossi of Bologna.</p>
+          <p type="p">&lt;i&gt;The Lives&lt;/i&gt; used each artist's biography as an entry point to understand his or her work, a technique which was unique in Vasari's time but now a commonplace art historical methodology. Vasari structured each of his artist profiles within an identifiable progression, beginning with the artist's birthplace and family history; then rigorous, dedicated training; and then details and anecdotes about professional success and aesthetic significance. Vasari painted a portrait of an ideal artist who was financial savvy and successful, by right, and who conducted himself of herself morally. Scholars Ingrid Rowland and Noah Charney describe the text as "part historical urban legend, part morality tale," as Vasari showed "that talent is not enough to build a career: persistence counts too." Through Vasari, artists transcended their status as mere craftsmen, and instead "became thinkers as well as makers." &lt;i&gt;The Lives&lt;/i&gt; was, however, biased towards Tuscan and particularly Florentine artists and artists whose works fit Vasari's ideal. He went someway to remedy his geographical imbalance with his second volume (1568) that acknowledged the role of Venetian artists in the development of the Renaissance.</p>
+          <p type="p">As an avid collector of drawings, Vasari also contributed to the popularization of drawings as worthwhile aesthetic documents, rather than preparatory material to be discarded. He maintained books (now lost) entitled &lt;i&gt;Libri dei Disegni&lt;/i&gt; (Books of Drawings) in which he organized and displayed drawings by artists he admired. So the story goes, Vasari saved Michelangelo's drawings from his attempt to burn them over an open fire, an attempt by Michelangelo to conceal from posterity the hard work and preparation that might damage the idea that it was his creative spontaneity that produced his greatest masterpieces.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="della_francesca_piero">The Flagellation of Christ (c.1455)</artwork>
+    <artwork from="movement" page="early_renaissance">Camera Degli Sposi Frescoes (1465-74)</artwork>
+    <artwork from="movement" page="mannerism">Deposition from the Cross (1525-1528)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Portrait of Lorenzo de' Medici</title>
+      <year>1533</year>
+      <materials>Tempera on wood</materials>
+      <desc>
+				Painted by Vasari at the age of 22, this is a portrait of Lorenzo de' Medici - also known as Lorenzo the Magnificent - the Italian Statesman and famous ruler of Florence. De' Medici was held by many, including da Vinci, Michelangelo and Botticelli, to be the most important patron of the Renaissance art. He is shown here seated wearing a blue tunic with ermine sleeves surrounded by objects glorifying his reign with Latin inscriptions. The inscription on the vase reads "virtutum omnium vas" (the vessel of all the virtues) which sits on top of the mask of Vice. To his left is the mask of Music with a flute protruding from an eye. The inscription on the column reads "As my ancestors did for me, I honor them by my virtue". Hanging on his belt is a red purse as a symbol of his role as a financier and banker to the Papacy.
+				&lt;br/&gt;&lt;br/&gt;
+				As Vasari wrote: "My intention [was] to include in this portrait every ornament significant of the great qualities that made him illustrious in life and show that all his honors were solely of this own attainment." The portrait was commissioned by Cosimo I de' Medici, the Second duke of Florence (1537-74) in waiting, as an act of homage (Lorenzo had died in 1492, aged just 43) for one of his most powerful and revered ancestors. Vasari was pleased to oblige his most important patron and acknowledged his debt to the Medici family for their patronage throughout his life.
+				&lt;br/&gt;&lt;br/&gt;
+				Although an accurate rendering of its subject, Vasari is known to have disliked painting portraits, preferring compositions in which he could avoid a focus on the detail necessary to achieve a likeness of the sitter. We see in this work that Vasari managed to reveal a pensive and powerful patron of the arts. This image, painted in subdued colors, shows Vasari's ability to encourage the viewer's empathy in understanding his subject's power and humility. Lorenzo de' Medici was in fact painted by many important artists of the Renaissance including Verrocchio, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-botticelli_sandro"&gt;Botticelli&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ghirlandaio"&gt;Ghirlandaio&lt;/span&gt;, as well as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt; in his &lt;i&gt;Portrait of Lorenzo&lt;/i&gt; of 1500, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bronzino"&gt;Bronzino&lt;/span&gt;.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Allegory of the Immaculate Conception</title>
+      <year>1541</year>
+      <materials>Tempera on wood</materials>
+      <desc>
+				The subject of the painting is salvation which is explained by the scrolls carried by angels on either side of Mary: "Those who Eve's fault condemned, Mary's grace set free." Mary is bathed in splendor, with the moon at her feet. In the bottom half of the painting we see Adam and Eve tied to the Tree of Original Sin, surrounded by Abraham, Isaac, Jacob, Moses, Aaron, Joshua and David and other prophets from the Old Testament. Samuel and St John the Baptist are shown bound only by one hand "because they were blessed in the womb."
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Allegory of the Immaculate Conception&lt;/i&gt; was commissioned by Bindo Altoviti, a Florentine banker, for the family chapel at the Church of Santi Apostoli in Florence. As Vasari himself acknowledged, "I had not executed any work up to that time with more study or with more lovingness and labour." He is said, however, not to have been satisfied with what he achieved despite the time and effort he had put in. Indeed, one of the important paintings of religious subjects by Vasari, it is also one of the most difficult to read due to the excessive number of allegorical symbols contained within the frame. It also calls on the influence of Raphael in the upper part of the painting in which Mary is carried to the heavens by a group of angels; and Michelangelo, in the fluidity and dynamism in the allegorical figures in the bottom half of the painting.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Six Tuscan Poets</title>
+      <year>1544</year>
+      <materials>Oil on Panel</materials>
+      <desc>
+				As its title suggests, this painting shows six famous poets and philosophers from 13&lt;sup&gt;th&lt;/sup&gt; and 14&lt;sup&gt;th&lt;/sup&gt; century Tuscany engaged in conversation. They converse - as they wrote - in the Tuscan language. It shows Dante Alighieri (most famous for his poem about the afterlife, &lt;i&gt;The Divine Comedy&lt;/i&gt;) seated, facing Guido Cavalcanti, a poet famed for his love sonnets. To his right is the humanist scholar, Francesco Petrarch holding a copy of his &lt;i&gt;Scattered Rhymes&lt;/i&gt;. Between them is Giovanni Boccaccio, author of the &lt;i&gt;Decameron&lt;/i&gt;, and to the far left are the humanist, Marsilio Ficino and the philosopher, Cristoforo Landino. The four great poets of the Italian language wear laurel wreaths as a symbol of honor. In front of Dante is a table with objects of learning; the solar quadrant and celestial globe representing astronomy, a compass representing geometry, a terrestrial globe for geography, and books for rhetoric.
+				&lt;br/&gt;&lt;br/&gt;
+				Vasari received the commission from Luca Martini in 1543 to paint this picture as to announce the cultural supremacy of Tuscany, and to help raise Italian over Latin as the language of Italian culture. Dante holds a copy of Virgil, one of the great Latin poets, to remind the audience that all six poets in the painting were in fact masters of the Latin language. This was an important detail because some critics have suggested that the men had written in Italian because they were not well versed in Latin. This painting is then an important historical reference to the debate current to the times over the literary standing of the poets and the merits of Italian literature. As Vasari wrote in his &lt;i&gt;The Lives of the Most Excellent Painters, Sculptors, and Architects&lt;/i&gt;, "Tuscan genius has ever been raised high above all others."
+			</desc>
+      <collection>Minneapolis Institute of Art, Minneapolis, United States</collection>
+    </artwork>
+    <artwork>
+      <title>Deposition from the Cross</title>
+      <year>1540</year>
+      <materials>Oil on Canvas</materials>
+      <desc>
+				This painting was commissioned by the monks of the Camaldoli monastic order for their monastery just outside Florence. It shows Christ's descent from the cross, known as the Deposition of Christ, a subject which was popular for many Renaissance artists, and includes notable examples from Giotto, Fra Angelico, Raphael, Tintoretto and Caravaggio. It shows Christ being taken down from the cross after the crucifixion by Joseph of Arimathea and Nicodemus, accompanied by St John the Evangelist. At the bottom left of the painting we see Mary clothed in blue, in the arms of Mary Magdalene, and surrounded by other witnesses. It is interesting to note that Mary is shown fainting. This was a medieval narrative promulgated by the popular book, &lt;i&gt;Meditations on the Life of Christ&lt;/i&gt; (c. 1300) and repeated here in Vasari's commission. This narrative was however discouraged by the Counter Reformation with the Council of Trent in 1563. The painting itself marked a change in direction for Vasari. It belongs to the Mannerist style, a technique which took hold towards the end of the High Renaissance in the 1520s. Vasari was here less interested in the subdued tones and subtle shading that characterized his portraits. Here rather he relies on forced perspective, exaggeration and the technique of chiaroscuro lighting to intensify the drama in his painting.
+			</desc>
+      <collection>Santi Donato e Ilariano, Camaldoli, Tuscany, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Il Salone dei Cinquecento (Hall of the Five Hundred)</title>
+      <year>1555-1572</year>
+      <materials />
+      <desc>
+				This is probably the most famous arrangement of Vasari frescos. Collectively they demonstrate his mastery and understanding of the Mannerist style. This great hall, 54 meters long, 23 meters wide and 18 meters high, is the largest and most important room in the Palazzo Vecchio.
+				&lt;br/&gt;&lt;br/&gt;
+				The Palazzo was originally commissioned by Fra Girolamo Savonarola in 1494 to house the 500 members of the Grand Council of Florence after the Medici were ousted in that year. The hall, built in accordance with the austerity preached by Savonarola, was plain, with little scope for decoration. When Savonarola was burned at the stake as a heretic in 1498, however, his successor, Piero Soderini, commissioned da Vinci and Michelangelo to paint two murals, &lt;i&gt;The Battle of Anghiari&lt;/i&gt; and &lt;i&gt;The Battle of Cascina&lt;/i&gt; respectively, neither of which were completed. When the Medici returned to Florence in 1512 the hall had fallen into disuse until Cosimo I moved his residence into the Palazzo Vecchio in 1540 and used it to receive ambassadors and public audiences.
+				&lt;br/&gt;&lt;br/&gt;
+				Cosimo I commissioned Vasari to enlarge and decorate the hall with frescos to celebrate important moments in the history of Florence, and to celebrate his achievements, emphasising his eminence as Duke of Florence. Vasari enlarged the hall by raising the ceiling by seven meters and decorated the hall with frescos comprising 43 panels, 39 of which form the decoration of the ceiling. Despite being separate panels, each with its own motif, Vasari retained harmony and coherence in the fresco through the consistent use of gold, red and brown colors throughout. The centrepiece of the fresco is the depiction of Cosimo I in all his glory as Duke of Florence. This was an important political statement to all who saw it since it symbolized the rebirth of Florence. The other panels on the walls include allegories of Florence and Tuscany, and episodes in the wars of Pisa and Sienna; wars in which Cosimo I was victorious.
+			</desc>
+      <collection>Palazzo Vecchio, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>The &lt;i&gt;Vasari Corridor&lt;/i&gt; (&lt;i&gt;Corridoio Vasariano&lt;/i&gt;)</title>
+      <year>1565</year>
+      <materials />
+      <desc>
+				Most of Vasari's architectural work was undertaken in Florence (though he also worked on projects in Pisa, Arezzo and Rome). Vasari would work alone or in collaboration on projects with other architects. Arguably his most important collaboration was with Bartolomeo Ammannati with whom he worked on the façade of the &lt;i&gt;Uffizi&lt;/i&gt;, the centralized administration building of Cosimo I de' Medici (completed in 1560, the &lt;i&gt;Uffizi&lt;/i&gt;'s conversion to a major museum specializing in Italian art began some twenty years later). In 1565, Vasari then worked alone on what is known as the &lt;i&gt;Vasari Corridor&lt;/i&gt; (&lt;i&gt;Corridoio Vasariano&lt;/i&gt;), an enclosed passageway that linked the Palazzo Vecchio, the townhall that overlooks the Piazza della Signoria (and the seat of the Duke Cosimo I de' Medici government) and the Palazzo Pitti, the Duke's regal residence.
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;Vasari Corridor&lt;/i&gt; was conceived by Vasari as a prodigious regal footpath; an exclusive passageway fit to deliver a ruler of integrity and potency to the very heart of his dominion. It was built (over a period of only five months) to commemorate the wedding of Francesco I de' Medici and Giovanna of Austria. Moving northward, it connects the Palazzo Vecchio with the Palazzo Pitti and its practical function was to link the residence of the Grand Duke, the &lt;i&gt;Pitti Palace&lt;/i&gt;, and the &lt;i&gt;Uffizi&lt;/i&gt; from where he conducted his business. The covered overhead corridor is almost a kilometre in length, passing from Plazzo Vecchio, through the &lt;i&gt;Uffizi&lt;/i&gt;, following the Arno river north, until it crosses the Arno (and the medieval Ponte Vecchio bridge) at Ponte Vecchio. On the other side of the river, the corridor passes through the interior of the church of Santa Felicita, through the Boboli Gardens, over domestic rooftops, before reaching the Palace. Legend tells it that the corridor passed over a meat market and that the market was replaced in 1593 with goldsmiths (who still trade there to this day) so as to save the incumbent Grand Duke from the unpleasant smell on his daily journeys to-and-from his office.
+				&lt;br/&gt;&lt;br/&gt;
+				Today, the corridor, which can only be visited by appointment, is home to some 1000 paintings dating from the 17&lt;sup&gt;th&lt;/sup&gt; and 18&lt;sup&gt;th&lt;/sup&gt; century. It also displays many self-portraits from the 16&lt;sup&gt;th&lt;/sup&gt; to 20&lt;sup&gt;th&lt;/sup&gt; century including works by Andrea del Sarto, Beccafumi, Bernini, Annibale Carracci, Guido Reni, Salvator Rosa, Rubens, Canova, Ingres, Delacroix and many others.
+			</desc>
+      <collection>Palazzo Pitti (Pitti Palace), Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>The Last Judgement</title>
+      <year>1572</year>
+      <materials>Fresco</materials>
+      <desc>
+				This fresco was commissioned by Cosimo I in 1568 for the cupola of the Cathedral in Florence, the Roman Catholic Archdiocese of Florence designed by Filippo Brunelleschi. It comprises a space of approximately 4000 square meters and it was the last major commission undertaken by Vasari before his death in 1574. Up until then, Vasari had only been able to complete the upper part of the decoration representing the 24 Elders of the Apocalypse. Frederico Zuccari, a painter who had studied with Correggio, was commissioned to complete the work which would take a further five years to complete.
+				&lt;br/&gt;&lt;br/&gt;
+				While Vasari used a pure fresco technique which required the painting to be made on freshly applied wet plaster - thus becoming part of the wall itself - Zuccari used the Fresco-secco technique: a technique of painting onto dry plaster which is much less durable than pure fresco. Vasari forbade artists to retouch their wall paintings after they had dried which, in his words, ''aside from being an extremely vile act [it] also shortens the life of the work.'' (In Zuccari's defence, his use of the lesser secco technique was imposed on him because of strict time restrictions.) Although not completed by Vasari, it was he who had designed the Fresco which reads with figures of Christ and the Madonna up in the heavens circling down to the world of demons and the torment of the Hell and thus symbolizing the theme of redemption. Divided into six concentric circles, the upper most circle has the 24 elders of the Apocalypse, a group of saints, representations of the gifts of the Holy Spirit, the virtues and the eight Beatitudes (the blessings in the Sermon of the Mount), with the last tier, a vision of Hell full of tormented sinners.
+				&lt;br/&gt;&lt;br/&gt;
+				What is most remarkable about this fresco is that we see the contrast of styles between Vasari and Zuccari. Vasari's effort offers balance and harmony, a supreme example of the elegance characteristic of the late 16&lt;sup&gt;th&lt;/sup&gt; century. Zuccari's input, however, despite his reputation as an expert draughtsman, seems out of balance and lacks the finish or finesse of the figures of the Elders. As Dr. Acidini, one of the art historians who supervised the restoration of the fresco, commented, "If I didn't know these scenes so well, I would almost say that they were by Francis Bacon or one of the German Expressionists." Of Vasari's excellence, he countered, "In terms of fresco technique Vasari is second to no one. Not even to Michelangelo."
+			</desc>
+      <collection>Cattedrale di Santa Maria del Fiore (Florence Cathedral), Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Palladio">palladio</entity>
+        <entity alt="Giulio Romano">romano_giulio</entity>
+        <entity alt="Alberti">alberti</entity>
+        <entity>della_francesca_piero</entity>
+      </column>
+      <column>
+        <entity alt="Annibale Caro">caro_annibale</entity>
+        <entity alt="Vincenzo Borghini">borghini_vincenzo</entity>
+        <entity alt="Pietro Aretino">aretino_pietro</entity>
+        <entity alt="Paolo Giovio">giovio_paolo</entity>
+        <entity alt="Giovanni Lappoli">lappoli_giovanni</entity>
+      </column>
+      <column>
+        <entity>classical_greek_and_roman_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column></column>
+      <column>
+        <entity alt="Dominique Vivant Denon">vivant_denon_dominique</entity>
+        <entity alt="Karel van Mander">van_mander_karel</entity>
+        <entity alt="Jacob Burckhardt">burckhardt_jacob</entity>
+        <entity alt="Bernard Berenson">berenson_bernard</entity>
+      </column>
+      <column>
+        <entity alt="Italian Renaissance">italian_renaissance</entity>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>mannerism</entity>
+        <entity alt="art historiography">art_historiography</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>The Collector of Lives: Giorgio Vasari and the Invention of Art</title>
+          <link>0393356361</link>
+          <info>By Noah Charney &amp; Ingrid Rowland</info>
+        </entry>
+        <entry recommended="true">
+          <title>Giorgio Vasari: The Man and the Book</title>
+          <link>0691102120</link>
+          <info>By Thomas Sherrer Ross Boase</info>
+        </entry>
+        <entry>
+          <title>Giorgio Vasari: Architect and Courtier</title>
+          <link>0691032866</link>
+          <info>By Leon Satkowski &amp; Ralph Lieberman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>The Lives of the Artists</title>
+          <link>0199537194</link>
+          <info>By Giorgio Vasari</info>
+        </entry>
+        <entry>
+          <title>The Lives of the Most Excellent Painters, Sculptors, and Architects</title>
+          <link>0375760369</link>
+          <info>By Giorgio Vasari</info>
+        </entry>
+        <entry>
+          <title>Vasari on Technique</title>
+          <link>048620717X</link>
+          <info>By Giorgio Vasari</info>
+        </entry>
+        <entry>
+          <title>Great Masters</title>
+          <link>0883633027</link>
+          <info>By Giorgio Vasari</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>The Frescoes of Casa Vasari in Florence: An Interdisciplinary Approach to Understanding, Conserving, Exploiting and Promoting</title>
+          <link>8883049802</link>
+          <info>By Umberto Baldini &amp; Pietro Alessandro Vigato</info>
+        </entry>
+        <entry>
+          <title>58 Color Paintings of Giorgio Vasari - Italian Renaissance Painter</title>
+          <link>B009L5B8ME</link>
+          <info>By Jacek Michalak</info>
+        </entry>
+        <entry>
+          <title>Florence: The Paintings &amp; Frescoes, 1250-1743</title>
+          <link>1631910019</link>
+          <info>By Ross King &amp; Anja Grebe</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>"Lives of the most eminent painters, sculptors &amp; architects"</title>
+          <link>https://archive.org/stream/livesofmostemine01vasauoft/livesofmostemine01vasauoft_djvu.txt</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>How Giorgio Vasari Invented Art History as We Know It</title>
+          <link>https://www.nytimes.com/2017/12/01/books/review/collector-of-lives-giorgio-vasari-biography-rowland-charney.html</link>
+          <info>
+						By Deborah Solomon
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						December 1, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>'The Collector of Lives' Taught Us the Art of Art History</title>
+          <link>https://www.wsj.com/articles/review-the-collector-of-lives-taught-us-the-art-of-art-history-1507926146</link>
+          <info>
+						By Cammy Brothers
+						&lt;br&gt;
+						The Wall Street Journal 
+						&lt;br&gt;
+						Oct. 13, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Last judgement on Vasari fresco</title>
+          <link>https://www.independent.co.uk/news/world/last-judgement-on-vasari-fresco-its-not-all-its-cracked-up-to-be-1588219.html</link>
+          <info>
+						By Andrew Gumbel
+						&lt;br&gt;
+						The Independent 
+						&lt;br&gt;
+						June 25, 1995
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Travels with Vasari (Part 1)</title>
+          <link>https://www.youtube.com/watch?v=IZ31OKYtass</link>
+          <info>By Andrew Graham-Dixon</info>
+        </entry>
+        <entry>
+          <title>Travels with Vasari (Part 2)</title>
+          <link>https://www.youtube.com/watch?v=nSkCpvnn8HE</link>
+          <info>By Andrew Graham-Dixon</info>
+        </entry>
+      </subcategory>
+      <subcategory name="podcast" class="audioclips">
+        <entry recommended="true">
+          <title>Giorgio Vasari's Lives of the Artists (In Our Time)</title>
+          <link>https://www.youtube.com/watch?v=MpO2j4UrNNA</link>
+          <info>By Melvyn Bragg</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>The Battle of Marciano (1565), in the Hall of the 500 in the Palazzo Vecchio plays an important role in Dan Brown's novel Inferno, specifically the inscription "Cerca trova" (seek and find) and its anagram "catrovacer."</title>
+          <link>https://www.florenceinferno.com/cerca-trova-or-catrovacer/</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

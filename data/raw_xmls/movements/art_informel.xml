@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>art_informel</id>
+    <name>Art Informel</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1945 - 1950s</years>
+    <description>After World War II, Art Informel artists embraced anti-compositional forms, gestural techniques, and a Surrealist-influenced irrationality.</description>
+    <use_big_images>false</use_big_images>
+    <profession/>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1945</start>
+    <end>1950s</end>
+    <pub_time>1/05/2019</pub_time>
+    <bio_highlight>Danish artist Asger Jorn, a founding member of CoBrA (and very much a part of Art Informel movement), was known for fighting against capitalism in art so much so that he rejected the prestigious Guggenheim Prize in 1964, famously telling Harry Guggenheim: “Go to hell with your money.” </bio_highlight>
+  </main>
+  <similar_artists>
+    <artist>pollock_jackson</artist>
+    <artist>jorn_asger</artist>
+    <artist>de_stael_nicolas</artist>
+    <artist>saint_phalle_niki_de</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>abstract_expressionism</movement>
+    <movement>action_painting</movement>
+    <movement>color_field_painting</movement>
+    <movement>gutai</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>abstract_expressionism</entry>
+    <entry>action_painting</entry>
+    <entry>gutai</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" alt="Asger Jorn" author="jorn_asger">"The act of expressing oneself is a physical one. It materializes the thought."</q>
+    <q author="tapie_michel" alt="Michel Tapié">"[T]he ossified and ossifying false order of the past gave way to a fruitful and exhilarating anarchy that, having gained momentum, is now moving toward a new order, a new system of notions commensurate with our potential."</q>
+    <q author="Karel Appel">"Painting, like passion, is an emotion full of truth and rings a living sound, like the roar coming from the lion's breast. To paint is to destroy what preceded. I never try to make a painting, but a chunk of life."</q>
+    <q author="Wols">"Nothing can be explained, all we know is the appearances....The Abstract that permeates all things is ungraspable. In every moment, in every thing, eternity is present."</q>
+    <q author="Asger Jorn">"To get anywhere, one must choose one's mistakes, I chose experimental acts."</q>
+    <q author="Jean Fautrier">"No piece of art can depict feelings if a piece of reality is not included in it."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Responding to the atrocities and traumas of World War II, artists associated with Art Informel broke with previous traditions of naturalistic, figurative, and geometric work to embrace anti-compositional forms, gestural techniques, and a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt;-influenced spontaneity and irrationality. Coined by critic Michel Tapié, Art Informel was an umbrella term that encompassed an array of styles and artists who, as Tapié described, were not interested in movements but "in something much rarer, authentic Individuals." Tapié included in this grouping European artists as well as Americans, Dutch, and Japanese artists, making Art Informel into an international reaction to world events.
+			&lt;br/&gt;&lt;br/&gt;
+			While its diversity has made it a difficult style to define and while it has largely been confined to Europe, eclipsed by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, the various styles, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut&lt;/span&gt;, Lyrical Abstraction, Tachisme, Matter Painting, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cobra_group"&gt;CoBrA&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gutai"&gt;Gutai&lt;/span&gt; have had lasting influence on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionist&lt;/span&gt; painters, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_minimalism"&gt;Post-Minimalist&lt;/span&gt; sculptors, and the broad field of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance Art&lt;/span&gt;.
+		</synopsys>
+    <key_ideas>
+      <idea>Art Informel, in all of its guises, relies largely on gestural abstraction, but those gestures often contain various, even contradictory, intentions. From the existential explorations of the Abstract Expressionists to the virtuosic, dramatic performances of Georges Mathieu or the ironic drawings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-jorn_asger"&gt;Asger Jorn&lt;/span&gt;, gestural painting allowed the artists to embrace spontaneity and subvert the aesthetic status quo that emerged before World War II.</idea>
+      <idea>Despite the stylistic differences, Art Informel confronted the subjects of war, savagery, trauma, death, angst, and irrationality in an effort to come to terms with historical events and to reimagine a new way forward, to fashion a new society.</idea>
+      <idea>While the artists were loosely affiliated, the designation "Art Informel" created a unity that permeated several international exhibitions that echoed contemporaneous international calls for peace and unity.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Abstract Expressionism in the United States">
+          <p type="p">The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; imbibed the lessons of the early-20&lt;sup&gt;th&lt;/sup&gt; century European &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt;, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Matisse&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Kandinsky&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;the Surrealists&lt;/span&gt; - as they moved from quasi-representational forms to their abstract signature styles during and after World War II, but even the earliest accounts of the group by legendary critics &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosenberg_harold"&gt;Harold Rosenberg&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; emphasized the American identity of the group. By many accounts, however, the radical artistic freedom and autonomy embraced by the Abstract Expressionists was seen as encouragement by artists in parts of Europe, the Soviet Union, and Latin America. That being said, as art historian Joan Marter points out, the Abstract Expressionists' "intention to release subjective response, hail the importance of chance, and continue the exploration of the subconscious" was shared with international artists, including those associated with Art Informel. While the Europeans may have been aware of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Pollock&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_kooning_willem"&gt;de Kooning&lt;/span&gt; by the early 1950s, artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-jorn_asger"&gt;Asger Jorn&lt;/span&gt; had already embarked on their own journeys toward abstraction.</p>
+        </subsection>
+        <subsection title="Michel Tapié">
+          <p type="img" alt="Paolo Monti's &lt;i&gt;Jean Dubuffet&lt;/i&gt; (1960) shows the artist at work in his studio." show="1">/images20/photo/photo_art_informel_1.jpg</p>
+          <p type="p">Born into an aristocratic French family Michel Tapié de Céleyran, known as Michel Tapié, was trying to make a living as a self-taught musician when artist Jean Dubuffet persuaded him to give up music in favor of writing about art. As the two men began visiting exhibitions, Jean Fautrier's &lt;i&gt;Les&lt;/i&gt; &lt;i&gt;Otages&lt;/i&gt; (&lt;i&gt;The Hostages&lt;/i&gt;) exhibition in 1945 sparked Tapié's passionate involvement in promoting this new &lt;i&gt;art autre&lt;/i&gt;, or "other" art. Dubuffet, who went to the opening with him, said "Fautrier's exhibition made an extremely strong impression on me. Art had never before appeared so fully realized in its pure state. The word 'art' had never before been so loaded with meaning for me." Dubuffet found a resonance between his own ideas about &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut&lt;/span&gt;, or raw art, and Fautrier's navigation of emotional trauma. After the encounter and with Dubuffet's support, Tapié threw himself into the art world, taking on many roles, as he edited the catalogue for Dubuffet's 1946 exhibit, became an adviser to the Drouin gallery in 1947, lent support to Georges Mathieu's launch of Lyrical Abstraction in 1947, and helped organize Jackson Pollock's first solo exhibition in Paris in 1951 at the Studio Paul Fachetti.</p>
+          <p type="p">When in 1952 he held the &lt;i&gt;Un art autre&lt;/i&gt; exhibition at the Studio Paul Fachetti and published his book by the same title in conjunction with the opening, the show was the culmination of his active involvement in the art world, bringing the individual artists he had promoted under a single umbrella. The show, which included Jean Dubuffet, Karel Appel, Jean Fautrier, Jean-Paul Riopelle, Camille Bryen, Ruth Francken, and Wols, gathered the trends of post-war European art under the comprehensive term - Art Informel - and launched the theoretical basis of the new aesthetic trajectory. As a result, Tapié became a leading figure in the art world, as art historian Herschel B. Chipp wrote, "not only as an author of books, criticism, and exhibition catalogues, but also as an organizer of exhibitions of contemporary art in Europe, Latin America, and Japan, and as an adviser to galleries throughout the world."</p>
+        </subsection>
+        <subsection title="Jean Fautrier's &lt;i&gt;Les Otages&lt;/i&gt; (&lt;i&gt;The Hostages&lt;/i&gt;)">
+          <p type="img" alt="Jean Fautrier's &lt;i&gt;Tête d'otage&lt;/i&gt; (&lt;i&gt;Head of a Hostage&lt;/i&gt;) (1945) uses abstraction and thickly applied paint to convey the traumas of World War II." show="1">/images20/photo/photo_art_informel_2.jpg</p>
+          <p type="p">Jean Fautrier's 1945 exhibition of &lt;i&gt;Les Otages&lt;/i&gt; (&lt;i&gt;The Hostages&lt;/i&gt;) at the Galerie René Drouin was electrifying, having a profound effect on not only Michel Tapié, but on the artistic and literary community that saw it as a radical break with the past and the advent of a new art. The poet Francis Ponge described the work's witnessing of "tumified faces, crushed profiles, bodies stiffened by execution, dismembered, mutilated, eaten by flies," while André Malraux, the noted politician and writer, penned an essay for the catalogue, finding the work, "the most beautiful monument to the dead of the Second World War."</p>
+          <p type="p">The series drew upon the artist's experience during the war, when he became part of a French Resistance group of artists and writers that often met at his studio. He was arrested by the Nazis in 1943. When the German sculptor and Nazi sympathizer Arno Breker successfully intervened for Fautrier's release, the artist took refuge in a mental asylum in a Paris suburb. The Nazis regularly used the forest that surrounded the asylum to torture and kill their prisoners, and while the sanatorium residents could not see what was happening, they could hear the harrowing screams. From 1943 until the end of the war, Fautrier worked on the paintings and sculptures of his series, to try and express his horror. Using thick impastos, rough gestures, and near abstraction, the works embodied Art Informel's view that a new "other" art was necessary, impelled by the belief that Western traditions bore responsibility for the war, the concentration camps, and the aftermath.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Matter Painting">
+          <p type="p">Included under the umbrella of Art Informel, &lt;i&gt;matiérisme&lt;/i&gt;, or Matter painting (also known as Matter art) began in the early 1940s in the works of Jean Fautrier and Jean Dubufett. Following Fautrier's lead in thickly painted surfaces, in the mid-1940s, Dubuffet worked on what he termed "haute pates," or "raised pastes," as he used a thick impasto into which he mixed a variety of materials, including sand, cement, ground glass, and asphalt. The technique transformed the flat canvas into a raised and relief-like surface, emphasizing the materiality of the pigment, its tactile surface extending into space. As his work retained figurative elements, Dubuffet would then incise contours into the surface. By the late 1950s, Dubuffet turned to abstraction, as seen in his &lt;i&gt;The Exemplary Life of the Soil&lt;/i&gt; (&lt;i&gt;Texturology&lt;/i&gt; LXIII) (1958). The work was part of a series he called &lt;i&gt;Texturologies&lt;/i&gt;, with which he said he wanted to create an "impression of teeming matter, alive and sparkling, which I could use to represent soil, but which could also evoke all kinds of indeterminate textures, and even galaxies and nebulae." Matter painting was employed by a number of artists including Bram Bogart, Bert de Leeuw, René Guiette, Bernard Schultze, Antonio Tapies and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-burri_alberto"&gt;Alberto Burri&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Tachisme">
+          <p type="img" alt="Wols' &lt;i&gt;Untitled&lt;/i&gt; (1946-47) was the epitome of Tachisme and had much in common with American Abstract Expressionism." show="1">/images20/photo/photo_art_informel_3.jpg</p>
+          <p type="p">While the word "Tachisme" had a long history, as art critic Felix Fénéon first used it in 1889 to identify the painting technique of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;, its modern usage dates from 1951 with the art criticism of Charles Estienne and Pierre Guéguen. The word "tache" means splash or spot, and the use of blotches, spots or stains of color in abstract painting, along with scribbling that evoked calligraphy, defined this sub-style of Art Informel. Artists often employed pigment directly from the tube as well as employing spontaneous gestural brushwork. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wols"&gt;Wols&lt;/span&gt; was the leading pioneer of the style, and a 1947 exhibition of his Tachisme work, such as his &lt;i&gt;It's All Over&lt;/i&gt; (1946-47), had a profound influence on Georges Mathieu and the American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-francis_sam"&gt;Sam Francis&lt;/span&gt;. Other artists associated with the substyle included the British Patrick Heron, the French Pierre Soulanges, the Belgian Henri Michaux, and the American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tobey_mark"&gt;Mark Tobey&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Lyrical Abstraction">
+          <p type="p">&lt;i&gt;Abstraction lyrique&lt;/i&gt;, or Lyrical Abstraction, was a predominantly French substyle of Art Informel; it favored loose gestural painting with a more sensuous, romantic, or overall more "lyrical" effect. Often using rich color, evoking the natural world, the works were more balanced, animated, and often elegant. The painter George Mathieu coined the term and played a leading role in promoting Lyrical Abstraction, though his conception of it was informed by his enthusiastic response to the work of Wols. In 1947 after viewing the exhibition of Wols work at the René Drouin Gallery, he exclaimed, "Wols has pulverized everything... After Wols, &lt;i&gt;everything&lt;/i&gt; has to be reconstructed." Mathieu organized what he called "combat exhibitions," where he would show how the new form of painting "had nothing to do with what continues to be exhibited as contemporary." In 1947 &lt;i&gt;L'Imaginaire&lt;/i&gt;, his first combat exhibition at the Galerie du Luxembourg, included Wols, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Jean Arp&lt;/span&gt;, Jean-Paul Riopelle, Fernand Leduc, and, Hans Hartung, among others, as well as his own work. The art critic Jean José Marchand's introduction said the show revealed, "a lyricism disengaged from all servitude." Other artists associated with the substyle included Maria Helena Vieira da Silva, Patrick Heron, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stael_nicolas"&gt;Nicolas de Staël&lt;/span&gt;. Matthieu subsequently wrote a number of manifestos, defining Lyrical Abstraction's four conditions: no pre-existing shapes or references, the artist's spontaneous and unplanned movement, rapid execution, and a state of ecstasy. All four conditions emphasized the artistic sensibility in the moment, uninterrupted by conscious restraints.</p>
+        </subsection>
+        <subsection title="CoBrA">
+          <p type="p">In 1948, the Danish artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-jorn_asger"&gt;Asger Jorn&lt;/span&gt; organized &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cobra_group"&gt;CoBrA&lt;/span&gt;, along with Carl-Henning Pederson, Pierre Alechsinky, Corneille Beverloo, Karel Appel, and the writer Christian Dotremont. The name was derived from the first letters of the founders' native cities Copenhagen, Brussels, and Amsterdam, all in countries that had been occupied by the Nazis during World War II. Founded in Paris, the group's ideals were informed by the ruin and aftermath of World War II and a rejection of the society that had created Auschwitz. They emphasized "an art of immediacy," a free expression of the subconscious, and art that valued childlike impulse and spontaneity. Their use of strong colors and bold gestures to create works of near abstraction and their opposition to traditional &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modern art&lt;/span&gt; and geometric abstraction created a strong affinity with the theory and practice of Art Informel that was developing in France. Many of the artists moved to Paris and there met Michel Tapié who, seeing their works as exemplars of a new and other art, began promoting their work and arranging various exhibitions. At the same time as the Cold War between the Soviet Union and the West developed, the artists, many of whom were Marxists, found themselves politically conflicted, and already in 1951 the group disbanded. As a result, many of the CoBrA artists began to associate and exhibit with Art Informel, beginning with the 1952 &lt;i&gt;Un art autre&lt;/i&gt; exhibition.</p>
+        </subsection>
+        <subsection title="Gutai">
+          <p type="p">The formation of the Japanese &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gutai"&gt;Gutai Art Association&lt;/span&gt;, led by Jiro Yoshihara, in 1954 was shaped and strongly influenced by Abstract Expressionism and Art Informel. The name Gutai can be translated as concreteness, and the group experimented with both a wide range of materials, including mud, tar, paint, glue, and water; they emphasized the artistic process through &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;performance&lt;/span&gt; and multimedia events. Composed of twenty some young artists near Osaka, the group was united by the desire to create a new art in the void left by the atrocities of World War II and the aftermath of the atomic bomb. As Yoshihara said, "Do what no one has done before!"</p>
+          <p type="p">Art critic Matthew Larking explained Gutai's relevance to Art Informel, saying, "The splattered surfaces of Japanese painter Toshimitsu Imai and the more controlled applications of pigment by Hisao Domoto were integral to Tapié's &lt;i&gt;informel&lt;/i&gt; vision. It was these two Japanese artists, then based in France, who introduced the movement to Japan in 1953." Yoshihara and Tapié began a correspondence, and in 1957 Tapié, along with Sam Francis and Georges Mathieu, was invited to Japan where Francis and Mathieu gave public painting performances, which were described "as a whirlwind or typhoon." Tapié found Gutai art "free from conventional formalism, demanding something fresh and newborn," and he included Kazuo Shiraga, Jiro Yoshihara, and Shozo Shimamoto in his 1957 &lt;i&gt;Contemporary World Art&lt;/i&gt; exhibition and his 1958 &lt;i&gt;International Contemporary Art Exhibition&lt;/i&gt; as well as the &lt;i&gt;International Art of a New Era: Informel and Gutai&lt;/i&gt;. Due to Tapié's influence, in 1958 Gutai artists, such as Kazuo Shiraga began to focus on painting, as Tapié said that works on canvas sold for higher prices, were easier to transport to international venues, and would connect with Western audiences.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">By 1960, Art Informel had been eclipsed in the critical discourse by American Abstract Expressionism and was subsequently viewed as an art movement confined to post-war Europe. Nonetheless, many of the artists associated with the movement continued to make important and influential works. Burri's work influenced the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt;, while Asger Jorn's influenced the 1980s turn to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionism&lt;/span&gt;. Dubuffet's exploration of raw materiality had a profound impact on the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_minimalism"&gt;Post-Minimalists&lt;/span&gt; as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morris_robert"&gt;Robert Morris&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hesse_eva"&gt;Eva Hesse&lt;/span&gt;, and Alan Saret.</p>
+          <p type="p">By the late 1960s, a reaction against &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual art&lt;/span&gt; led to a return of lyrical and expressive painting and was marked by a 1971 Whitney Museum exhibition entitled &lt;i&gt;Lyrical Abstraction&lt;/i&gt;, that showcased American artists, including Helene Aylon, Pat Lipsky, Dan Christensen, John Seery, and Thornton Willis. Informed by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstraction Expressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-color_field_painting"&gt;Color Field Painting&lt;/span&gt;, and the Tachisme associated with Art Informel, the American version of Lyrical Abstraction employed new technologies, such as spray guns, in order that the viewer "read" the painting as if it were an object. However, as the movement was critiqued for its sensuous and somewhat romantic and decorative treatments, the term became a pejorative term until the late 1980s when art historians like Daniel Robbins argued that the term had "historical credibility" and should be re-evaluated. As a consequence of this re-evaluation, interest was also revived in Art Informel. Major exhibitions, such as the 2012 &lt;i&gt;Art of Another Kind: International Abstraction and the Guggenheim, 1949-1960&lt;/i&gt;, and &lt;i&gt;Soul of the Underground&lt;/i&gt;, Jean Dubuffet's 2014 retrospective at the Museum of Modern Art, have continued to spark contemporary interest.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks/>
+  <chart>
+    <top/>
+    <bottom/>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>La Juive</title>
+      <use_big_image>true</use_big_image>
+      <artist>Jean Fautrier</artist>
+      <year>1943</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Fautrier painted a deeply textured, organic shape, mottled with greens, browns, creams, and pinks that evokes an organic, even humanoid shape, set against a tactile, earthy ground. The crimson s-curve located in the top right barely suggests part of a face or a profile in the process of decomposition. Responding to the Nazi torture of his French comrades, Fautrier hoped to communicate the traumas and existential malaise felt in postwar Europe, and yet the painting's almost jewel-like beauty caused discomfort among viewers.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;La Juive&lt;/i&gt;, or &lt;i&gt;The Jewess&lt;/i&gt;, is part of the artist's series &lt;i&gt;Les Otages&lt;/i&gt; (&lt;i&gt;The Hostages&lt;/i&gt;) (1943-45), which in large part sparked the Art Informel movement. Its abstract and rough "otherness" connected with the materiality and non-traditional paint application championed by Tapié and others, and the organizing principles of the 1945 exhibition of &lt;i&gt;Les Otages&lt;/i&gt; emphasized the work's confrontational power, as the paintings were hung closely together in rows that evoked prisoners lined up for execution. Fautrier and other artists associated with Art Informel sought to grapple with the state of society and culture after World War II and with their art made a brute challenge to viewers to do the same.
+			</desc>
+      <collection>Musée d'Art moderne de la Ville de Paris</collection>
+    </artwork>
+    <artwork>
+      <title>It's All Over</title>
+      <artist>Wols</artist>
+      <year>1946-47</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This work depicts an energetic vortex of dark calligraphic lines, extending from a void-like center, a kind of swirling nebula of varying shades of brown and yellow. Small globular drops of intense blue, black dots, and squiggles, throng within the form, creating the sense of a small microscopic or molecular world, pulsing with the forces of creation and disintegration. The work reflects the artist's statement: "A tiny sheet of paper can contain the whole world." Stained with varying shades of blue, the edges of the canvas both frame the central image and enhance its buoyant and floating effect. Reflecting the influence of Miro's images of teeming small biomorphic forms, the image also evokes those nebulae, called star nurseries, as new stars form within them. The philosopher Jean-Paul Sartre described Wols as "human and Martian together... He applied himself to seeing the Earth with inhuman eyes: it is, he thinks, the only way of universalizing our experience."
+				&lt;br/&gt;&lt;br/&gt;
+				Wols created his own pictorial idiom by using paint in innovative and untraditional ways, including, as art curator Toby Kamps described, "thin glazes of color, scablike impastos, splashed and poured pigment, steered rivulets of liquid paint, scraped-down margins, back-of-the-brush scratching and writing, even marks made with the circular mouths of paint tubes." Often likened to Jackson Pollock, Wols' paintings were smaller and more controlled than Pollock's drip paintings. Interned in a camp in Provence in 1939 and escaping in 1940, Wols used his early training at the Bauhaus and with the Surrealists to create his &lt;i&gt;Zirkus&lt;/i&gt; Wols, as he called them, while he was in hiding from the Nazis. These unstructured intuitive watercolors relied on randomness and spontaneity and deeply informed his later oil paintings. His work was driven by a belief in the abstract, as he wrote in his &lt;i&gt;Aphorisms&lt;/i&gt; (1944), "Nothing can be explained, all we know is the appearances... The Abstract that permeates all things is ungraspable. In every moment, in everything, eternity is present." His work profoundly influenced Tapié's concept of Art Informel, as he wrote, "an entire system of certainty has collapsed" and needed to be replaced by a "fertile and intoxicating anarchy."
+			</desc>
+      <collection>The Menil Collection, Houston, Texas, USA</collection>
+    <use_big_image>true</use_big_image></artwork>
+    <artwork>
+      <title>The Corridor</title>
+      <artist>Maria Helena Vieira da Silva</artist>
+      <year>1950</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A Portuguese artist who spent considerable time in Paris in the 1930s and, after fleeing Europe to Brazil, returned to the city in the late 1940s, Maria Helena Vieira da Silva quickly made a name for herself among the Lyrical Abstractionists. Her distorted, warped, and fractured geometries suggest architectural interiors that create a kind of claustrophobic vertigo. While her compositions are more linear and at times more geometric than many Lyrical Abstractionists, she shared their subject matter - the trauma and devastation of World War II. The entire surface appears to be covered in small shimmering tiles, except for the structural beams along the edge of the ceiling. Diagonal lines intersect the opaque geometric tiles, giving them an effect of shattered glass. The conflicting shapes created by the contrasting black, grey, and white color palette enhances the effect, as perspective becomes fluid, shifting ambiguously, creating an anguished perception of space. As a result, the work evokes internal space, of a mind caught in a state of anxiety. As art historian Martha Meskimmon recalled, "As her admiring critics from the 1960s and 1970s would have it, her fascinating 'hypothetical geographies' were 'mysterious horizons,' 'vistas that exist nowhere but have become real because Vieira da Silva has brought them into being.'" Like Wols, Vieira da Silva made unseen, interior, abstract worlds real and palpable.
+				&lt;br/&gt;&lt;br/&gt;
+				Though iconoclastic, her intricate and spiky compositions were a unique contribution to Art Informel and made her a leading artist of the movement, as this work was shown internationally in 1950, where it also attracted the attention of the American Abstraction Expressionists.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Seventh Avenue</title>
+      <artist>Georges Mathieu</artist>
+      <year>1957</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Against a black background, white and red calligraphic lines burst outward from an off-center point and energetically extend across the canvas. The clustered lines, creating a matrix of horizontal and vertical movement, suggest a burst of graffiti, erupting from a spontaneous gesture. The flow of the piece is intuitive, as the few thin lines, scrolling into the relatively vacant left side of the canvas, become curvilinear and seem to resolve into a graceful energy. This work exemplifies Mathieu's calligraphic approach, as well as his emphasis on rapid execution as a way to connect with immediate intuitive expression. Around 1954, he began creating performances where he painted large canvases quickly in front of an audience, a kind of precursor of Yves Klein's later performative painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Mathieu pioneered Lyrical Abstraction and became one of the most famous and successful painters in France both among critics and the general public. In 1960, Clement Greenberg considered "him the strongest of all new European painters," and Mathieu's cultural currency was reflected in the psychedelic documentary made of his life, &lt;i&gt;Georges Mathieu, or the Fury of Being&lt;/i&gt; (1974). However, subsequently, his work fell out of favor for two decades, before interest was revived by his 2002 Paris retrospective and his inclusion in the Guggenheim's Art of Another Kind: International Abstraction and the Guggenheim, 1949-1960 in 2012.
+			</desc>
+      <collection>Musee Unterlinden, Colmar, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Hour of Suffering (L'heure de souffre)</title>
+      <artist>Jean-Paul Riopelle</artist>
+      <year>1952</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Riopelle's work employs thick patches of color, slashed by the incised lines made by a palette knife, creating an almost stained glass effect or evoking a window that has been shattered into small pieces. A multitude of intersecting diagonals turn the often pure pigments into shards, while the thick, almost oily, surface, exaggerates "the sensual materialism of painting," as art critic Ken Johnson noted. Working paint applied straight from the tube with a palette knife, Riopelle's artistic process and his physical engagement with the medium, made him a leading figure among the Lyrical Abstractionists.
+				&lt;br/&gt;&lt;br/&gt;
+				Montreal born and raised, Riopelle spearheaded the Refus Global (Total Refusal), a Quebec movement and manifesto that rejected the political, religious, and artistic establishments. Rejecting academic training, the group advocated for abstract painting, driven by intuition and the subconscious. He went to Paris in 1945 where he met Tapié and Mathieu, who exhibited his works in the 1947 &lt;i&gt;L'imaginaire&lt;/i&gt; exhibition. Known as the "bad boy" of the Art Informel circle, due to his tumultuous lifestyle that included being a noted racecar driver, he became internationally renowned when he represented Canada at the Venice Biennale in 1954. That same year he met Joan Mitchell, who had recently moved to Paris, and the two became longtime lovers and partners. Known as Canada's leading abstract painter, he also played a notable role in creating links between American and European abstraction.
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Composizione (Composition)</title>
+      <artist>Alberto Burri</artist>
+      <year>1953</year>
+      <materials>Burlap, thread, synthetic polymer paint, gold leaf, and PVA on black fabric</materials>
+      <desc>
+				In this innovative work, Burri sewed together irregularly shaped patches of burlap to replace the traditional canvas. The prominent and rough stitches, sometimes erupting in a snarl of thread, combined with the small droplets of blood-like bright red paint convey a sense of bodily injury and repair. The bit of gold leaf in the top right corner does not so much suggest the shimmer of gold as the remnant of a stain, and the sense of ruin is further echoed in the chopped edges and small burnt areas.
+				&lt;br/&gt;&lt;br/&gt;
+				Burri was a doctor in the Italian fascist army when he was captured by the British in 1943 and sent to a prisoner of war camp in Texas. There he turned to painting, making canvases out of burlap sacks attached to stretchers. When he went home to Italy in 1946, he gave up his medical profession and devoted himself to art, making a series of collage constructions he called &lt;i&gt;Sacchi&lt;/i&gt; (Sacks), of which this piece is a notable example. As art historian Jennifer Blessing writes, "His use of the humble bags may be seen as a declaration of the inherent beauty of natural, ephemeral materials, in contradistinction to traditional 'high' art mediums, which are respected for their ostentation and permanence."
+				&lt;br/&gt;&lt;br/&gt;
+				Some have argued that Burri's use of stitched burlap comes from his practice as a physician, but Burri suggested that it was simply the material he had at hand, saying, "If I don't have one material, I use another. It is all the same. I choose to use poor materials to prove that they could still be useful. The poorness of a medium is not a symbol: it is a device for painting." While he bristled at labels, Burri's work was exhibited as a notable example of Art Informel, and his works were viewed as innovative embodiments of &lt;i&gt;materia&lt;/i&gt;, or Matter art, even if Burri insisted on the cooler values of composition and construction, as seen in this work's generic title. His work was a primary influence upon the subsequent development of Arte Povera.
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Crying Crocodile Tries to Catch the Sun</title>
+      <artist>Karel Appel</artist>
+      <year>1956</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Appel used intense color, thickly applied paint, and heavy black outlines to depict the child-like rendering of a crocodile, standing on its hind legs, holding a sphere. Rejecting traditional modeling or perspectival illusion, Appel looked to childrens' drawings, the art of the mentally ill, and folk art to create an emotional intensity he felt was lacking in more recent art making. As with much Art Informel, Kappel's handling of paint suggests dramatic spontaneity that signals the rawness of emotion and feeling.
+				&lt;br/&gt;&lt;br/&gt;
+				Born and raised in Amsterdam, Appel was first associated with the Dutch Experimental Group and, subsequently in 1948, became a cofounding member of CoBrA, a movement inspired by nontraditional art forms. While his work retained figurative elements with aggressively distorted animals and human figures, evoking subconscious archetypes, the dynamic materiality of his painting led Tapié, after meeting Appel in 1950, to include his work in the &lt;i&gt;Un art autre&lt;/i&gt; exhibition and to subsequently arrange several solo exhibitions. As art critic Christopher Masters wrote, "it was the quality of the oil on canvas - vivid, viscous and roughly textured - that made Appel so distinctive." Appel said of his work, "I never try to make a painting; it is a howl, it is naked, it is like a child, it is a caged tiger ... My tube is like a rocket writing its own space."
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Untitled</title>
+      <artist>Asger Jorn</artist>
+      <year>1956-57</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In &lt;i&gt;Untitled&lt;/i&gt;, irregular blobs of acidic-colored pigment, applied in varying thicknesses and incised with dark lines, coalesce to create the contours of a human figure and a bird that eerily emerge from the background but yet remain bound to it, "scarcely distinguishable as representational forms," as art historian Lucy Flint notes. In the lower third of the canvas, other faces - distorted and demonic - appear, vanish, and reappear, blurring into one another and the background, as if the viewer, caught in a fantasy or a nightmare, were imagining them wherever dots resembling eyes or a line resembling a mouth appear.
+				&lt;br/&gt;&lt;br/&gt;
+				Beginning around 1948, influenced by Dubuffet and Paul Klee's works, Jorn created images containing a crowd of vaporous figures and faces that, materializing and dematerializing in amorphous shapes of color, were not unrelated to the Surrealists' experimentation with automatic drawing and that embodied the horrors and angst that filled Europeans after the war. Like other CoBrA artists, Jorn, according to art critic David Ebony, "emphasized pure intuition, spontaneity, and the role of chance, as they called it 'desire unbound.'" A leading figure of what would come to be called &lt;i&gt;tachiste&lt;/i&gt; painting, Jorn's work also presaged the later Neo-Expressionists, including German Georg Baselitz and American Julian Schnabel.
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Soul of the Underground</title>
+      <artist>Jean Dubuffet</artist>
+      <year>1959</year>
+      <materials>Oil and aluminum foil on composition board</materials>
+      <desc>
+				The rough and coarse surface of this painting and its irregular forms, grains, and striations, resemble a close-up of the earth as seen from space or a microscopic cross section of mineral deposits, and yet the association, evoked in the viewer's mind and further prompted by the title, is countered by the work's abstraction, its emphasis on sheer texture and materiality. A relentless innovator, Dubuffet here used crumpled up aluminum foil to build up layers and topographies. The artist said, "Perhaps I'm not alone in loving the ground." &lt;i&gt;Soul of the Underground&lt;/i&gt; conjures both the destructive effects of the war and the dirt and stones that, remaining, could be put to new uses, including the creation of a new art.
+				&lt;br/&gt;&lt;br/&gt;
+				While Dubuffet had an enormous influence on Michel Tapié, Dubuffet's immediate postwar work was figurative and primarily associated with Art Brut, his movement that emphasized the "raw art" of children and the mentally ill, as he said, "I have a great interest in madness, and I am convinced art has much to do with madness." By the 1950s, as he worked on his &lt;i&gt;Texturologies&lt;/i&gt; series, of which this work is a part, he was inspired by Jean Fautrier's earlier surface textures to abandon pictorial representation in favor of formlessness and &lt;i&gt;matiérisme&lt;/i&gt;. Dubuffet was among the most celebrated and influential artists of his era, and influenced the likes of Helen Frankenthaler, Georg Baselitz and, later, Anselm Kiefer and Robert Morris.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>fautrier_jean</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>wols</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>da_silva_maria_helena_vieira</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>mathieu_georges</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>riopelle_jean_paul</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>burri_alberto</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>appel_karel</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>jorn_asger</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>dubuffet_jean</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features"/>
+    <category name="current exhibitions"/>
+    <category name="videos">
+      <subcategory name="Artist Specific Videos" class="clips">
+        <entry>
+          <title>A short clip showing Karel Appel painting</title>
+          <link is_inline_video="true" inline_video_type="youtube">E1S1uOUG48w</link>
+          <info/>
+        </entry>
+        <entry recommended="true">
+          <title>Karel Appel: A Gesture of Color</title>
+          <link is_inline_video="true" inline_video_type="youtube">OD27czhCUu0</link>
+          <info>The Phillips Collection</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: 'Artist, Poet, and Creator of the New'</title>
+          <link is_inline_video="true" inline_video_type="youtube">klIpRwGZ5gY</link>
+          <info>Christie's</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: Guggenheim Exhibition</title>
+          <link is_inline_video="true" inline_video_type="youtube">I5A6Hg7N_Ik</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Clip from "Fury of Being: Georges Mathieu"</title>
+          <link is_inline_video="true" inline_video_type="youtube">Dsn5BnsK1cE</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks" class="clips">
+        <entry>
+          <title>Axel Heil, Helle Brøns and Karen Kurczynski on Asger Jorn</title>
+          <link is_inline_video="true" inline_video_type="youtube">fFVBkYbpWUU</link>
+          <info/>
+        </entry>
+        <entry recommended="true">
+          <title>Mark Haddon on Jean Dubuffet | TateShots</title>
+          <link is_inline_video="true" inline_video_type="youtube">cp21LTdvd0k</link>
+          <info/>
+        </entry>
+        <entry recommended="true">
+          <title>Alberto Burri: The Trauma of Painting</title>
+          <link is_inline_video="true" inline_video_type="youtube">YnjL3IcwTck</link>
+          <info>Lecture by curator Emily Braun</info>
+        </entry>
+        <entry>
+          <title>Alberto Burri: Material Painting</title>
+          <link is_inline_video="true" inline_video_type="youtube">6Ar5t7ocHY4</link>
+          <info>Emily Braun and conservator Carol Stringari</info>
+        </entry>
+        <entry>
+          <title>Inside the Mind of Canadian Artist Jean Paul Riopelle</title>
+          <link is_inline_video="true" inline_video_type="youtube">YvQ4flJXDFk</link>
+          <info>Talk by Pierre Schneider, Tate Modern</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books"/>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Georges Mathieu website</title>
+          <link>https://georges-mathieu.fr/en/</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Karel Appel Foundation</title>
+          <link>https://karelappelfoundation.com/</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Meet the Enigmatic French Painter That Inspired Daniel Templon to Become a Gallerist</title>
+          <link>https://news.artnet.com/partner-content/the-artist-that-inspired-daniel-templon-to-become-a-gallerist</link>
+          <info>
+						Artnet Gallery Network
+						&lt;br&gt;
+						September 12, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Asger Jorn</title>
+          <link>https://www.artinamericamagazine.com/reviews/asger-jorn/</link>
+          <info>
+						By David Ebony
+						&lt;br&gt;
+						Art in America 
+						&lt;br&gt;
+						September 26, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Karel Appel</title>
+          <link>https://www.theguardian.com/news/2006/may/10/guardianobituaries.artsobituaries1</link>
+          <info>
+						By Christopher Masters
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 10. 2006
+					</info>
+        </entry>
+        <entry>
+          <title>The Dark, Unruly Brilliance of a Master of Art Informel</title>
+          <link>https://hyperallergic.com/442637/jean-fautrier-matiere-et-lumiere-museum-of-modern-art-of-the-city-of-paris/</link>
+          <info>
+						By Joseph Nechvatal
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						May 14, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>WOLS: RETROSPECTIVE</title>
+          <link>http://artsandculturetx.com/wols-retrospective/</link>
+          <info>
+						By Devon Britt-Darby
+						&lt;br&gt;
+						Arts and Culture Texas 
+						&lt;br&gt;
+						September 20, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Great Works: The Blue Phantom 1951, Wols (73cm x 60 cm), Ludwig Museum, Cologne</title>
+          <link>https://www.independent.co.uk/arts-entertainment/art/great-works/great-works-the-blue-phantom-1951-wols-73cm-x-60-cm-2359200.html</link>
+          <info>
+						By Michael Glover
+						&lt;br&gt;
+						Independent
+						&lt;br&gt;
+						September 23, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Eye of Michel Tapié, 'Art Lover'</title>
+          <link>https://www.franck-prazan.com/en/2018/07/26/the-eye-of-michel-tapie-art-lover-by-juliette-evezard/</link>
+          <info>
+						By Juliette Evezard
+						&lt;br&gt;
+						July 26, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>The 'informel' whirlwind that swept across Japan</title>
+          <link>https://www.japantimes.co.jp/culture/2016/08/30/arts/informel-whirlwind-swept-across-japan/#.XBaTGRNKiYU</link>
+          <info>
+						By Matthew Larking
+						&lt;br&gt;
+						Japan Times
+						&lt;br&gt;
+						August 30, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Shedding New Light on the Late Dutch Artist Karel Appel</title>
+          <link>https://www.nytimes.com/2016/02/05/arts/international/shedding-new-light-on-the-late-dutch-artist-karel-appel.html</link>
+          <info>
+						By Nina Siegal
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						February 4, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>The Japanese painter Kazuo Shiraga is a 50-year "overnight" success.</title>
+          <link>https://news.artnet.com/market/ben-davis-on-why-kazuo-shiraga-was-one-of-the-worlds-most-radical-painters-and-still-is-260194</link>
+          <info>
+						By Ben Davis
+						&lt;br&gt;
+						Artnet
+						&lt;br&gt;
+						February 20, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Art in Review; Jean-Paul Riopelle</title>
+          <link>https://www.nytimes.com/2005/04/22/arts/art-in-review-jeanpaul-riopelle.html</link>
+          <info>
+						By Ken Johnson
+						&lt;br&gt;
+						New York Times
+						&lt;br&gt;
+						April 22, 2005
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips"/>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

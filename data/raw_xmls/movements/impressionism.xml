@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>impressionism</id>
+    <name>Impressionism</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <description>The Impressionists painters, such as Monet, Renoir, and Degas, created a new way of painting by using loose, quick brushwork and light colors to show how thing appeared to the artists at a particular moment: an "impression" of what they were seeing and feeling.</description>
+    <art_description>Famous artists and paintings of Impressionism with analysis and achievements. Monet, Degas, Pissarro, Cassatt, Morisot, Manet+</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>6</highlight>
+    <start>1862</start>
+    <end>1892</end>
+    <img_version>?2</img_version>
+    <big_bio_box_img>Detail of &lt;i&gt;A Bar at the Folies-Bergère&lt;/i&gt; (1882) by Édouard Manet</big_bio_box_img>
+    <bio_highlight>&lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt; said: "You would hardly believe how difficult it is to place a figure alone on a canvas, and to concentrate all the interest on this single and universal figure and still keep it living and real." Here he hints at the innovative thinking that went into Impressionism's new way of representing the world.</bio_highlight>
+    <pub_time>2/1/2012</pub_time>
+    <repub_time>6/11/2020</repub_time>
+    <youtube_intro>ru7QaicJOac</youtube_intro>
+    <custom_logo>true</custom_logo>
+  </main>
+  <similar_artists>
+    <artist>de_kooning_willem</artist>
+    <artist>guston_philip</artist>
+    <artist>bell_vanessa</artist>
+    <artist>soutine_chaim</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>american_impressionism</movement>
+    <movement>british_impressionism</movement>
+    <movement>neo_impressionism</movement>
+    <movement>naturalism</movement>
+    <movement>post_impressionism</movement>
+    <movement>realism</movement>
+    <movement>en_plein_air</movement>
+    <movement>flaneur</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>realism</entry>
+    <entry>barbizon_school</entry>
+    <entry>post_impressionism</entry>
+    <entry>en_plein_air</entry>
+    <entry>flaneur</entry>
+  </do_not_miss>
+  <quotes>
+    <q author="Claude Monet">"Impressionism is only direct sensation. All great painters were more or less Impressionists. It is mainly a question of instinct."</q>
+    <q author="Édouard Manet">"There are no lines in nature, only areas of color, one against another."</q>
+    <q author="Pierre-Auguste Renoir">"If the painter works directly from nature, he ultimately looks for nothing but momentary effects; he does not try to compose, and soon he gets monotonous."</q>
+    <q author="Mary Cassatt">"If painting is no longer needed, it seems a pity that some of us are born into the world with such a passion for line and color."</q>
+    <q author="James Whistler">"If the man who paints only the tree, or flower, or other surface he sees before him were an artist, the king of artists would be the photographer. It is for the artist to do something beyond this."</q>
+    <q author="Pierre-Auguste Renoir">"What seems most significant to me about our movement [Impressionism] is that we have freed painting from the importance of the subject. I am at liberty to paint flowers and call them flowers, without their needing to tell a story."</q>
+    <q author="Édouard Manet">"I paint what I see and not what others like to see."</q>
+    <q author="Edgar Degas">"It is all very well to copy what one sees, but it is far better to draw what one now only sees in one's memory. That is a transformation in which imagination collaborates with memory."</q>
+    <q author="Edgar Degas">"A painting requires a little mystery, some vagueness, some fantasy. When you always make your meaning perfectly plain you end up boring people."</q>
+    <q author="Camille Pissarro">"Work at the same time on sky, water, branches, ground, keeping everything going on an equal basis... Don't be afraid of putting on color... Paint generously and unhesitatingly, for it is best not to lose the first impression."</q>
+    <q author="Claude Monet">When you go out to paint try to forget what object you have before you - a tree, a house, a field or whatever. Merely think, here is a little square of blue, here an oblong of pink, here a streak of yellow, and paint it just as it looks to you, the exact color and shape, until it emerges as your own naive impression of the scene before you.</q>
+    <q author="Clement Greenberg, from essay &quot;The Later Monet&quot;">"After 1918, as we know, enlightened public - as well as critical - esteem went decidedly to Cézanne, Renoir and Degas, and to Van Gogh, Gauguin and Seurat. The 'unorthodox' Impressionists - Monet, Pissarro, Sisley - fell under a shadow. It was then that the 'amorphousness' of Impressionism became an accepted idea; and it was forgotten that Cézanne himself had belonged to, and with, Impressionism as he had to nothing else."</q>
+  </quotes>
+  <authors>
+    <author link="wolf">Justin Wolf</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>
+		Impressionism is perhaps the most important movement in the whole of modern painting. At some point in the 1860s, a group of young artists decided to paint, very simply, what they saw, thought, and felt. They weren’t interested in painting history, mythology, or the lives of great men, and they didn’t seek perfection in visual appearances. Instead, as their name suggests, the Impressionists tried to get down on canvas an “impression” of how a landscape, thing, or person appeared to them at a certain moment in time. This often meant using much lighter and looser brushwork than painters had up until that point, and painting out of doors, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;. The Impressionists also rejected official exhibitions and painting competitions set up by the French government, instead organizing their own group exhibitions, which the public were initially very hostile to. All of these moves predicted the emergence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt;, and the whole associated philosophy of the avant-garde.
+		</synopsys>
+    <key_ideas>
+      <idea>The Impressionists used looser brushwork and lighter colors than previous artists. They abandoned traditional three-dimensional perspective and rejected the clarity of form that had previously served to distinguish the more important elements of a picture from the lesser ones. For this reason, many critics faulted Impressionist paintings for their unfinished appearance and seemingly amateurish quality.</idea>
+      <idea>Picking up on the ideas of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, the Impressionists aimed to be painters of &lt;i&gt;the real&lt;/i&gt;: they aimed to extend the possible subjects for paintings. Getting away from depictions of idealized forms and perfect symmetry, they concentrated on the world as they saw it, which was imperfect in a myriad of ways.</idea>
+      <idea>Scientific thought in the Impressionist era was beginning to recognize that what the eye perceived and what the brain understood were two different things. The Impressionists sought to capture the former - the optical effects of light - to convey the fleeting nature of the present moment, including ambient features such as changes in weather, on their canvases. Their art did not necessarily rely on realistic depictions.</idea>
+      <idea>Impressionism records the effects of the massive mid-19&lt;sup&gt;th&lt;/sup&gt;-century renovation of Paris, led by civic planner Georges-Eugène Haussmann, which included the city's newly constructed railway stations; wide, tree-lined boulevards that replaced the formerly narrow, crowded streets; and large, deluxe apartment buildings. The works that focused on scenes of public leisure - especially scenes of cafés and cabarets - often conveyed the new sense of alienation experienced by the inhabitants of the first modern metropolis.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Realism, Naturalism, and The Challenge to Official Art">
+          <p type="img" alt="&lt;i&gt;The Painter's Studio&lt;/i&gt; (1854-55) by Gustave Courbet. The artist inserts himself into the painting, indicating Realism's newfound emphasis on depicting the life of the artist and his personal world, an emphasis carried forward by Impressionism." show="1">/images20/photo/photo_impressionism_1.jpg</p>
+          <p type="p">Although it was a revolutionary movement, Impressionism had roots in other styles of painting, such as Realism and Naturalism, that were already challenging conventional notions of artistic beauty and the artist’s relationship with the state. 
+					</p>
+          <p type="p">The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism movement&lt;/span&gt;, championed by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, was the first to confront the official Parisian art establishment, in the middle of the 19&lt;sup&gt;th&lt;/sup&gt; century. Courbet was an anarchist who thought that the art of his time closed its eyes on realities of life. The French were ruled by an oppressive regime and much of the public was in the throes of poverty. Instead of depicting such scenes, the artists of the time concentrated on idealized nudes, classical and mythological narratives, and glorifying depictions of nature. As an act of protest, Courbet financed an exhibition of his work directly opposite the Universal Exposition in Paris of 1855, a bold act that inspired future artists who sought to challenge the status quo.</p>
+          <p type="p">At the same time, the emergence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt; - a movement closely associated with Realism - showed how art could take the natural world for its subject-matter without cloaking it in the contexts of historical or mythological heroism. Since the 1820s, artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-millet_jean_francois"&gt;Jean-François Millet&lt;/span&gt; had been travelling to the Barbizon Forest south of Paris to create sketches &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt; of the trees, countryside, and rural laboring classes. The emergence of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barbizon_school"&gt;Barbizon School&lt;/span&gt; signified the start of a global trend in painting towards depicting the natural world in all of its unadorned glory, and celebrating the lives of rural workers. While Naturalism diverges from Impressionism in its frequent emphasis on hyperreal detail - embodied by much of the work of Jules Bastien-Lepage - the Impressionists' celebration of the natural world for its own sake, and use of &lt;i&gt;plein air&lt;/i&gt; technique, owes much to the earlier Naturalist ethos.</p>
+        </subsection>
+        <subsection title="Exhibitions in Paris and The Salon des Refusés">
+          <p type="p">In 1863, at the official yearly art salon, the all-important event of the French art world, a large number of artists were not allowed to participate, leading to public outcry. The same year, the Salon des Refusés ("Salon of the Refused") was formed in response, to allow the exhibition of works by artists who had previously been refused entrance to the official salon. The exhibited artists included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Whistler&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;. Although it was sanctioned by Emperor Napoleon III to placate the artists involved, the 1863 exhibition was highly controversial with the public, due largely to the unconventional themes and styles of works such as Manet's &lt;i&gt;Le déjeuner sur l'herbe&lt;/i&gt; (1863), which featured clothed men and naked women enjoying an afternoon picnic (these women were not classical nudes, but modern women - possibly prostitutes - in a state of undress whose connotations were far more explicitly sexual).</p>
+        </subsection>
+        <subsection title="Édouard Manet and the Painting Revolution">
+          <p type="p">Édouard Manet was among the first and most important innovators to emerge in the public exhibition scene in Paris. Although he grew up in admiration of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, he began to incorporate an innovative, looser painting style and brighter palette in the early 1860s. He also started to focus on images of everyday life, such as scenes in cafés, boudoirs, and on streets. His anti-academic style and quintessentially modern subject-matter soon attracted the attention of artists on the fringes and influenced a new type of painting that would diverge from the standards of the time. Works such as &lt;i&gt;Olympia&lt;/i&gt; (1863), which, like &lt;i&gt;Le déjeuner sur l'herbe&lt;/i&gt;, depicts a modern female nude assertively confronting the viewer, gave the emerging Impressionist group the impetus to depict subjects not previously considered art worthy.</p>
+        </subsection>
+        <subsection title="French Cafés and Diversity">
+          <p type="img" alt="&lt;i&gt;At The Café&lt;/i&gt; (1869) by Édouard Manet shows a group of artists gathering in a cafe to discuss their &lt;i&gt;avant-garde&lt;/i&gt; ideas." show="1">/images20/photo/photo_impressionism_2.jpg</p>
+          <p type="p">Amongst the most popular venues for the painters of the emerging Impressionist movement to meet and talk were Parisian cafés. In particular, Café Guerbois in Montmartre was frequented by Manet from 1866 onwards. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt;, Claude Monet, Paul Cézanne, and Camille Pissarro all visited the cafe, while Caillebotte and Bazille had studios nearby, and would often join the gatherings. Other personalities were attracted to this group, including writers, critics, and photographers.</p>
+          <p type="p">Part of the interest of the group lay in a dynamic variety of personalities, economic circumstances, and political views. Monet, Renoir, and Pissarro had merchant family or working-class backgrounds, while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caillebotte_gustave"&gt;Gustave Caillebotte&lt;/span&gt;, and Degas were from upper-class roots. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cassatt_mary"&gt;Mary Cassatt&lt;/span&gt; was American (and a woman) and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt; was Anglo-French. This diversity of personalities may be the reason so much creativity arose from the group's collective activities.</p>
+        </subsection>
+        <subsection title="The Impressionist Exhibitions">
+          <p type="img" alt="&lt;i&gt;A Studio in the Batignolles&lt;/i&gt; (1870) by Henri Fantin-Latour features Édouard Manet painting, surrounded by fellow artists including Auguste Renoir, Claude Monet, and Frederic Bazille." show="1">/images20/photo/photo_impressionism_3.jpg</p>
+          <p type="p">Though not yet united by any particular style, the group shared a general sense of antipathy toward overbearing academic standards of fine art, and decided to join a commercial cooperative, known as the Anonymous Society of Artists, Painters, Sculptors, Engravers, Etcetera. In general, the painters had very limited financial success, and few of their works were accepted for the salon exhibitions in Paris, so the company was important in establishing their financial solvency and creative independence. In 1874, they held the first of a series of exhibitions in the studio of photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Felix Nadar&lt;/span&gt;. It was not until the third exhibition in 1877 that they began to call themselves The Impressionists. While their first exhibition received limited public attention, and most of the eight exhibitions they held actually cost money rather than earning money for the group, their later shows attracted vast audiences, with attendances running well into the thousands. Despite this attention, most members of the group sold very few works, and some of them remained incredibly poor throughout this period.</p>
+        </subsection>
+        <subsection title="The Term &quot;Impressionism&quot;">
+          <p type="p">The movement gained its name after the French critic Louis Leroy, whose hostile review of the first major Impressionist exhibition of 1874, seized on the title of Claude Monet's painting &lt;i&gt;Impression, Sunrise&lt;/i&gt; (1873). Leroy accused the group of painting nothing but impressions. The Impressionists embraced the moniker, though in later decades they also referred to themselves as the "Independents," referring to the subversive principles of the Société des Artistes Indépendants, formed in 1884 by Impressionist painters who wanted to detach themselves from academic artistic conventions. Although the styles practiced by the Impressionists varied considerably (and in fact not all of the artists would accept Leroy's title) they were bound together by a common interest in the representation of visual perception, based in fleeting optical impressions, and the focus on ephemeral moments of modern life.</p>
+        </subsection>
+        <subsection title="The Development of Photography">
+          <p type="p">Impressionism was indebted to the science of photography. The origins of this medium are complex, spanning across nations, but one key event was the French inventor &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daguerre_louis"&gt;Louis Daguerre's&lt;/span&gt; unveiling of the Daguerreotype, in Paris in 1839. Daguerre had developed a technology by which images of the world could be transferred onto a copper sheet treated with silver which reacted to light. This allowed for a direct imprint of reality to be recorded on a two-dimensional surface, a process which revolutionized the ability to visually record the world and their own lives. By 1849, 100,000 Parisians per year were having their photos taken.</p>
+          <p type="p">The influence of photography on Impressionism was perhaps twofold. On the one hand, it revolutionized perceptions of what was worthy of visual recreation. Academic painting in France had traditionally focused on mythical and historical subject-matter, and portraiture of national leaders and heroes. But photography made it possible for all kinds of people, scenes, buildings, landscapes, to be preserved in pictorial form. This, in turn, altered some painters' sense of who and what was deserving of their attention; the café scenes, side streets, and bustling squares of Impressionist paintings reflect not only a newly vibrant urban realm, but a newfound sense that this world was worth recording.</p>
+          <p type="img" alt="Edgard Degas's &lt;i&gt;Place de la Concorde&lt;/i&gt; (1875), one of a number of Impressionist paintings that show the influence of photography in their subject-matter and composition." show="1">/images20/photo/photo_impressionism_4.jpg</p>
+          <p type="p">On the other hand, photography taught painters the art of spontaneous composition, and the related sense that a picture could capture a moment in time as well as a location in space. A work such as Degas's &lt;i&gt;Place de la Concorde&lt;/i&gt; is not so much a painting of a public square in Paris as a painting of that square, and of the people and animals that happened to be crossing over it, at a particular point in time. The carefully haphazard arrangement of bodies in motion in this and many other Impressionist paintings could only have been learned via engagement with a technology that had the capacity to freeze and visually convey a millisecond of time. There was a less pronounced sense of what the world might look like in this temporally specific condition prior to the science of photographic reproduction.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Painting Outdoors: Claude Monet">
+          <p type="p">Claude Monet is perhaps the most celebrated of the Impressionists. He was renowned for his mastery of natural light and painted at many different times of day in an attempt to capture changing conditions. He tended to create spontaneous impressions of his subjects, using very soft brushstrokes and unmixed colors to generate a subtle sense of vibration, as if nature itself were alive on the canvas. He did not wait for paint to dry before applying successive layers; this "wet on wet" technique produced softer edges and blurred boundaries that suggested three-dimensional planes rather than depicting them realistically.</p>
+          <p type="img" alt="John Singer Sargent painting outside or &lt;i&gt;plein air&lt;/i&gt;, in the tradition of the Barbizon School and Claude Monet." show="1">/images20/photo/photo_impressionism_5.jpg</p>
+          <p type="p">Monet's technique of painting outdoors, known as &lt;i&gt;plein air&lt;/i&gt; painting, was practiced widely among the Impressionists. Inherited from the landscape painters of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barbizon_school"&gt;Barbizon School&lt;/span&gt;, this approach led to innovations in the representation of sunlight and the passage of time, two central motifs of Impressionist painting. While Monet is seen as most central to the tradition of &lt;i&gt;plein air&lt;/i&gt; painting, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sargent_john_singer"&gt;John Singer Sargent&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt; and many others also painted outside, lucidly portraying the transience of the natural world.</p>
+        </subsection>
+        <subsection title="Impressionist Bodies: Degas, Renoir, and Cassatt">
+          <p type="p">Other Impressionists, like Edgar Degas, were less interested in painting outdoors, and rejected the idea that painting should be a spontaneous act. Considered a highly skilled draftsman and portraitist, Degas preferred indoor scenes of modern life: people sitting in cafés, musicians in an orchestra pit, ballet dancers performing mundane tasks at rehearsal. He also tended to delineate his forms with greater clarity than Claude Monet and Camille Pissarro, using harder lines and thicker brushstrokes.</p>
+          <p type="img" alt="The Child's Bath (1893) by Mary Cassatt is an example of the intimate domestic scenes sometimes depicted by women Impressionists." show="1">/images20/photo/photo_impressionism_6.jpg</p>
+          <p type="p">Other artists, such as Pierre-Auguste Renoir, Berthe Morisot, and Mary Cassatt, also focused on the human form, and on the psychology of the individual sitter or protagonist. Renoir, known for his vibrant, saturated colors, depicted the daily activities of characters from his neighborhood of Montmartre, in particular the social pastimes of Parisian society. While Renoir, like Morisot and Cassatt, also painted outdoors, he emphasized the physiognomy and emotional qualities of his subjects rather than the atmospheric conditions of the scene, using light and loose brushwork to highlight the human form.</p>
+        </subsection>
+        <subsection title="The Women of Impressionism">
+          <p type="p">Whereas the male Impressionists painted figures mainly within the public setting of the city, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt; concentrated on the private lives of women in late-19&lt;sup&gt;th&lt;/sup&gt;-century society. The first woman to exhibit with the Impressionists, she created rich compositions that highlight the domestic, highly personal sphere of feminine society, often emphasizing the maternal bond between mother and child, as in &lt;i&gt;The Cradle&lt;/i&gt; (1872). Together with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cassatt"&gt;Mary Cassatt&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gonzales_eva"&gt;Eva Gonzalès&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bracquemond_marie"&gt;Marie Bracquemond&lt;/span&gt;, she is considered one of the four central female figures of the Impressionist movement.</p>
+          <p type="p">Cassatt was an American painter who moved to Paris in 1866 and began exhibiting with the Impressionists in 1879. She depicted the private sphere of the home but also represented woman in the public spaces of the newly modernized city, as in her masterwork &lt;i&gt;At the Opera&lt;/i&gt; (1879). Her paintings feature a number of innovations, including the flattening of three-dimensional space and the application of bright, even garish colors in her paintings, both of which heralded later developments in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Impressionist Cityscapes">
+          <p type="img" alt="Monet's &lt;i&gt;Boulevard des Capucines&lt;/i&gt; (1873-74), a typical Impressionist cityscape. The portrait framing, unusual for a landscape painting, emphasizes the human's-eye view of the scene." show="1">/images20/photo/photo_impressionism_7.jpg</p>
+          <p type="p">Since the movement was deeply embedded within Parisian society, Impressionism was greatly influenced by Baron Georges-Eugène Haussmann's renovation of the city in the 1860s. The urban project, also referred to as "Haussmannization," sought to modernize the city and largely centered in the construction of wide boulevards which became hubs of public social activity. This reconstruction of the city also led to the rise of the idea of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-flaneur"&gt;&lt;i&gt;flâneur&lt;/i&gt;&lt;/span&gt;: the idler or lounger who roams the public spaces of the city, observing life while remaining detached from the crowd. In many Impressionist paintings, the detachment of the &lt;i&gt;flâneur&lt;/i&gt; is closely associated with modernity and the estrangement of the individual within the metropolis.</p>
+          <p type="p">These themes of urbanity are depicted in the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caillebotte_gustave"&gt;Gustave Caillebotte&lt;/span&gt;, a later proponent of the Impressionist movement, who focused on panoramic views of the city and the psychology of its citizens. Although more realistic in style than other Impressionists, Caillebotte's images, such as &lt;i&gt;Paris, Rainy Day&lt;/i&gt; (1877), express the artist's reaction to the changing nature of society, showing a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-flaneur"&gt;&lt;i&gt;flâneur&lt;/i&gt;&lt;/span&gt; in his characteristic black coat and top hat strolling through the open space of the boulevard while gazing at passersby. Other Impressionists depicted the fleeting qualities of movement and light within the metropolis, as in Monet's &lt;i&gt;Boulevard des Capucines&lt;/i&gt; (1873) and Pissarro's &lt;i&gt;The Boulevard Montmarte, Afternoon&lt;/i&gt; (1897). Similarly, these works emphasize the geometrical arrangement of public space through the careful delineation of buildings, trees, and streets. By applying crude brushstrokes and impressionistic streaks of color, the Impressionists evoked the rapid tempo of modern life as a central facet of late-19&lt;sup&gt;th&lt;/sup&gt;-century urban society.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Although the Impressionists proved to be a diverse group, they came together regularly to discuss their work and exhibit. The group collaborated on eight exhibitions between 1874 and 1886, but throughout this period they were slowly unravelling as a collective. Many felt they had mastered the early, experimental styles that had won them attention, and wanted to move on to explore other avenues of creativity. Others, anxious about the continued commercial failure of their work, changed course stylistically in the hopes of attracting better sales or patronage.</p>
+        </subsection>
+        <subsection title="The Triumph of Impressionism">
+          <p type="p">The ultimate acceptance of the Impressionist movement is largely the achievement of Paul Durand-Ruel, a French art dealer who lived in London. Monet met Durand-Ruel in 1871 and the gallerist purchased Impressionist works and exhibited them in London for many years. Sales were meager, but starting in the late 1880s, he started showing Impressionist works in the United States, with growing success. In the next few years, having exhibited in New York, Philadelphia, and Chicago, Durand-Ruel was able to entice an audience of American buyers who bought more Impressionist works than were ever sold in France. Prices for Impressionist works skyrocketed, to the point that Monet became a millionaire. Moreover, Impressionism came close to becoming an academic orthodoxy, so much so that a whole group of American painters descended on Monet's residence in Giverny to learn from the leader of the group.</p>
+        </subsection>
+        <subsection title="Cezanne and the Movement to Post-Impressionism">
+          <p type="p">Meanwhile, the lessons of the style were taken up by a new generation. If Manet bridged the gap between Realism and Impressionism, then &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; was the artist who bridged the gap between Impressionism and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt;. Cézanne learned much from Impressionist technique, but he evolved a more deliberative style of paint handling, and, toward the end of his life, paid closer attention to the structure of the forms that his broad, repetitive brushstrokes depicted. As he once put it, he wished to "redo &lt;span class="marked_text chart-tooltip-target-top tooltip_id-poussin_nicolas"&gt;Poussin&lt;/span&gt; after nature and make Impressionism something solid and durable like the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;." Cézanne wished to break down objects into their basic geometric constituents and depict their essential building blocks. These experiments would ultimately prove highly influential for the development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="The Schools and Painters of Post-Impressionism">
+          <p type="img" alt="Émile Bernard's &lt;i&gt;Breton Women in the Meadow&lt;/i&gt; (1888), an archetypal work of Cloisonnism." show="1">/images20/photo/photo_impressionism_8.jpg</p>
+          <p type="p">Such was the influence of Impressionism that its younger followers splintered off in a range of directions, forming a whole series of often short-lived groupings and schools. Underlying the development of Post-Impressionism, however, there was perhaps an essential split. On the one hand there were painters and schools who focused on the use of color and brushstroke to represent the mental and emotional life of the painter rather than the pure optical impressions conveyed by pioneers such as Monet. On the other hand, there were those who tried to formalize and refine the optical techniques underlying early Impressionist style.</p>
+          <p type="p">In the first camp are groups such as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cloisonnism"&gt;Cloissonists&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetism"&gt;Synthetists&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-les_nabis"&gt;Nabis&lt;/span&gt;, as well as individual painters whose style was never fully tied down to a particular grouping, perhaps most significantly &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gauguin_paul"&gt;Paul Gauguin&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt;. Cloisonnism emerged in the late 1880s, and its early advances are often credited to the painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bernard_emile"&gt;Émile Bernard&lt;/span&gt; and Louis Anquetin. Their work from this period uses large areas of vibrant color separated by thick dark outlines, making the different color-blocks reminiscent of the individual panels or "cloisonnes" of medieval stained-glass windows. Both painters spent time with Van Gogh, and also with the so-called Pont-Aven school of painters in rural Brittany, whose members included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-serusier_paul"&gt;Paul Sérusier&lt;/span&gt; and, for a time, Paul Gauguin. Serusier, Gauguin, Bernard, and Anquetin are also associated with the style of Synthetism, whose techniques and origins are near-identical to Cloisonnism, except that Synthetism is less associated with the thick outlines of Cloisonnist works.</p>
+          <p type="p">Amongst the most iconic works associated with the Cloisonnist-Synthetist style are Gauguin's &lt;i&gt;Vision After The Sermon&lt;/i&gt; (1888) and Sérusier's &lt;i&gt;The Talisman&lt;/i&gt; (1888), the latter of which became a lodestar for emergence of the Nabi group, whose works combined the bright, emotive block-colors of Cloisonnism with a new depth of religious and psychological symbolism. At this point, the story of Post-Impressionism starts to intersect with those of other late-nineteenth and early-twentieth-century styles such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;.</p>
+          <p type="p">At the more sober, scientifically inflected end of responses to Impressionism were those of the artists associated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pointillism"&gt;Pointillism&lt;/span&gt;, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-signac_paul"&gt;Paul Signac&lt;/span&gt;. As the critic Peter H. Feist notes, these artists were heavily invested in advances in optics during the late nineteenth century, in particular the discovery - also important to the Impressionists - that "colours reached the eye in the form of light of differing wavelengths, and were mixed in the eye to establish the colour that corresponded to the object seen". Therefore, "[i]f a painter juxtaposed tiny dots of unmixed primary colours in the right way, the eye would perceive them as the desired colour tone when looking from a certain distance; and that tone would appear lighter than if it had been mixed in the conventional way, on the palette or the canvas." The most famous work of Pointillism is Seurat's &lt;i&gt;A Sunday Afternoon on the Island of La Grande Jatte&lt;/i&gt; (1884-86). Van Gogh's work, with its prominent and hypnotically repetitive brushwork, can in a sense be seen to synthesize the pronounced stylistic qualities of Pointillism and the intense emotive appeal of the Cloisonnist-Synthetist approach.</p>
+        </subsection>
+        <subsection title="Impressionism Across the World">
+          <p type="img" alt="James Abbott McNeill Whistler's &lt;i&gt;Nocturne in Black and Gold&lt;/i&gt; (1875), one of the most striking works of British Impressionism. " show="1">/images20/photo/photo_impressionism_9.jpg</p>
+          <p type="p">Even as Impressionism in France was being overtaken by the advances of the Post-Impressionists, its legacy was travelling across continents. Amongst the most famous of the international Impressionist groupings was the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-american_impressionism"&gt;American Impressionist movement&lt;/span&gt;, associated not just with Cassatt but with painters such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chase_william_merritt"&gt;William Merritt Chase&lt;/span&gt;, who applied Impressionist techniques to the landscapes and bourgeois, cosmopolitan milieu of late-nineteenth-century US society; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hassam_childe"&gt;Childe Hassam&lt;/span&gt;, famous for his vivid coastal and city scenes; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-prendergast_maurice"&gt;Maurice Prendergast&lt;/span&gt;, who forged a distinctive North-American Post-Impressionist style. Other notable schools of Impressionism in the Anglophone world include the Australian Impressionist school, associated with the work of Tom Roberts and Arthur Streeton, amongst others, and with the dusty color palettes of its Antipodean climate and terrain.</p>
+          <p type="p">Particularly significant was the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-british_impressionism"&gt;British Impressionist movement&lt;/span&gt; of the late-nineteenth century. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Abbott McNeill Whistler&lt;/span&gt;, an American expatriate in London, pioneered a loose, liquid style of painting which, in his famous &lt;i&gt;Nocturne&lt;/i&gt; series, brilliantly conveyed the gloom and glamor of nightfall on the River Thames. Philip Wilson Steer, meanwhile, became associated with the Impressionist seascape, in particular with works focusing on the landscapes of Cornwall and the South-west of England, while the Scot William McTaggart produced stormier marine scenes, redolent of the wilder coastal landscapes of his home country. Other important Impressionist schools emerged all over Europe, notably in Germany, where &lt;span class="marked_text chart-tooltip-target-top tooltip_id-liebermann_max"&gt;Max Liebermann&lt;/span&gt; was one of the leading figures of the movement, and also in Holland, Belgium, and Denmark.</p>
+        </subsection>
+        <subsection title="The Twentieth Century">
+          <p type="p">Even after the demise of the Post-Impressionist schools, many artists continued to look to Impressionism. For example, although the movement is not generally considered to have had a powerful impact on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, one can trace important similarities in its artists' works. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guston_philip"&gt;Philip Guston&lt;/span&gt; was once described as a latter-day "American Impressionist," and the surface qualities, suggestions of light, and "all-over" treatment of form in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock's&lt;/span&gt; work, all point to the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;.</p>
+          <p type="p">The 1960s movement of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-op_art"&gt;Op Art&lt;/span&gt; is often considered a radical development on the underlying logic of Impressionism and Post-Impressionism, with its emphasis on the so-called "Responsive Eye" (a term coined for the title of a famous 1964 Op Art show in New York). Just as the Impressionists had stressed the difference between how color is perceived by the eye and how it is processed by the brain, Op Artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-riley_bridget"&gt;Bridget Riley&lt;/span&gt;, an avowed follower of George Seurat, based her oeuvre of visually dazzling abstract paintings on the premise that static forms can be made to seem as if in motion based on certain arrangements of line, color, and shape.</p>
+        </subsection>
+        <subsection title="Impressionism in Music and Literature">
+          <p type="p">It is also important to remember that, while Impressionism was a movement of the visual arts, it responded to, and helped to influence, a range of other media and genres. These included music - as in the dreamy, romantic work of Claude Debussy and Maurice Ravel - and, most importantly, literary prose. The French writer Émile Zola was not only an impassioned defender of the Impressionist painters but brought a representative impulse very similar to Impressionism to his writing, trying to recreate the complexity of human perception and sensation through his prose. Indeed, his novels were produced across a period of time that coincides almost exactly with the lifespan of the Impressionist movement.</p>
+          <p type="p">Whereas the Impressionist sought to convey the visual appearance of a particular scene at a particular time, the writing style which Zola developed, known as Naturalism, sought to convey the way in which the world appeared mentally and emotionally to a particular individual. In his 1886 book &lt;i&gt;The Masterpiece&lt;/i&gt;, Zola even narrated the struggle of the Impressionist movement in allegorical form. The novel tells the story of a young artist based in Paris struggling for recognition and acceptance of a bold new style, but who falls foul of poverty and disinterest. The story is told in a style that transposes the visual logic of Impressionism into the world of subjective perception, thought, and feeling.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="post_impressionism">Portrait of Doctor Gachet (1890)</artwork>
+    <artwork from="movement" page="expressionism">Street, Berlin (1913)</artwork>
+    <artwork from="movement" page="abstract_expressionism">Autumn Rhythm (Number 30) (1950)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Le déjeuner sur l'herbe</title>
+      <artist>Édouard Manet</artist>
+      <year>1863</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Edouard Manet's &lt;i&gt;Le déjeuner sur l'herbe (Luncheon on the Grass)&lt;/i&gt; was probably the most controversial artwork of the nineteenth century. It caused outrage with its frank depiction of nudity in a contemporary setting and was scorned by the high-minded salon juries and middle-class audiences of the era. But it also earned Manet fame and patronage. Rejected from the Paris Salon in 1863, it became the most controversial of the works displayed in the so-called "Salon des Refusés" held the same year in order to placate artists rejected from the main exhibition. The painting depicts two fully clothed men picnicking with a nude woman, while another scantily clad woman bathes in the background. By removing the female nude from the legitimizing contexts of mythology and orientalism, and in making his female subject confront the viewer assertively with her gaze, Manet hit a nerve in the bourgeois culture of 1860s Paris, and set the wheels of the avant-garde in motion.
+				&lt;br/&gt;&lt;br/&gt;
+				Édouard Manet was born in 1832 into an upper-class family with strong cultural and political ties. In terms of age, he found himself sandwiched between the generation of the great &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realists&lt;/span&gt;, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, and the Impressionists, most of whom were born in the 1840s. The great irony of Manet's reputation as a controversialist is that, throughout his life, he both sought and achieved mainstream success, generally having more work displayed at the official Paris Salons than his younger Impressionist peers. Similarly, although he was friendly with the Impressionists and exhibited with them - and is now often presented as one of them - his style was in some ways very different to theirs. He was far less reliant on &lt;i&gt;plein-air&lt;/i&gt; technique than most of the Impressionists, and, whereas artists such as Monet used loose, visible brushstrokes and blended color palettes to depict subtle tonal effects, Manet preferred sharper outlines and exaggerated color contrasts, often placing dark and light areas close together (as in the contrast between naked flesh and shadow in &lt;i&gt;Le déjeuner sur l'herbe&lt;/i&gt;).
+				&lt;br/&gt;&lt;br/&gt;
+				Nonetheless, &lt;i&gt;Le déjeuner sur l'herbe&lt;/i&gt; stands at the forefront of the whole Impressionist project in its fearless departure from inherited forms and techniques. From the subtly flattened picture plane to the defiance of time-honored motifs of high-brow nudity, everything about Manet’s painting courted shock and even ridicule. The Impressionists were inspired by Manet's example to follow their own creative paths, and while their subject-matter was generally less outrageous than Manet's nude picnic, his pioneering work cleared the space necessary for them to work in the way they wanted to.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Impression, Sunrise</title>
+      <artist>Claude Monet</artist>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Monet's &lt;i&gt;Impressionism, Sunrise&lt;/i&gt; is sometimes cited as the work that gave birth to the Impressionist movement, though by the time it was painted, Monet was in fact one of a number of artists already working in the new style. Certainly, however, it was the critic Louis Leroy's derogatory comments on the work and its title, in a satirical review of the First Impressionist Exhibition of 1874, that gave rise to the term "Impressionism". Leroy's review used the term as a comic insult, but the new school of painters quickly adopted it in a spirit of pride and defiance.
+				&lt;br/&gt;&lt;br/&gt;
+				Claude Monet was born into a middle-class merchant family in Paris. His parents were hardworking and financially secure but by no means rich or aristocratic, and throughout his early career Monet would struggle to survive as a painter. When he was very young his family moved from Paris to Le Havre, and though Monet returned to Paris in the early 1960s to train as an artist, it was during a visit to his family in Le Havre in 1872 that he created this and a number of other similar works.
+				&lt;br/&gt;&lt;br/&gt;
+				What is striking about &lt;i&gt;Impression, Sunrise&lt;/i&gt; is the continuity of the color palette between sea, land and sky. All are bathed in the gentle blues, oranges, and greens of sunrise. The subject of the painting is not the city it depicts nor the anonymous boatmen setting out across the water, but the enveloping warmth and color of sunlight itself, or rather the "impression" it makes on the senses at a certain moment in time. This painting of light and the time-specific effects of light was the hallmark of the new style. &lt;i&gt;Impression, Sunrise&lt;/i&gt; was one of a number of sketches of the same scene that Monet created in 1872. This serial approach to subject-matter was typical for the painter. In other cases, Monet would create large cycles of work depicting the same scene at different times of day, or during different seasons, emphasizing the way in which light and atmosphere shifted in time-specific ways. The most famous examples of this effect are in the 25 paintings that make up the series &lt;i&gt;Les Meules à Giverny&lt;/i&gt; (1890-91), known in English as "The Haystacks".
+			</desc>
+      <collection>Musée Marmottan Monet, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Fog, Voisins</title>
+      <artist>Alfred Sisley</artist>
+      <year>1874</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Alfred Sisley's beautiful pastoral scene showcases a gentle color-palette, evocation of tranquility and peace, and emphasis on the overall quality and atmosphere of a landscape over and above specific details and human forms. The female protagonist of this painting, serenely picking flowers, is almost entirely obscured by the dense fog that eclipses the meadow. As in much of Sisley's work, the human body seems melded into the natural scene, becoming both an aspect and expression of a wider natural world.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in France to English parents, Alfred Sisley met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Pissarro&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Monet&lt;/span&gt; early in the formation of the group, becoming their co-students at the Swiss painter Charles Gleyre's studio in 1862. Sisley and Monet would go on to become the most dedicated and dazzling proponents of the &lt;i&gt;plein air&lt;/i&gt; technique, but their fortunes would take them in different directions. Whereas the middle-class Monet had achieved financial success and fame by the end of his life, the silk-trader's son Sisley, born into riches, ended his days in relative poverty after his father's business failed during the Franco-Prussian War of 1870-71. Sisley's paintings would not yield true financial success until after his death. Nonetheless, he remained prolific throughout his life, and was deeply committed to the ideals of the Impressionist school.
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, the example of &lt;i&gt;Fog, Voisins&lt;/i&gt; suggests that Sisley was perhaps the most quintessential &lt;i&gt;Impressionist&lt;/i&gt; painter of the whole group. Focusing almost exclusively on representations of light and atmosphere while diminishing the importance of the human form - an approach that many of his peers would grow weary of later in-their careers - Sisley demonstrates his all-consuming preoccupation with representing the moment of perception.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>In a Park</title>
+      <artist>Berthe Morisot</artist>
+      <year>1874</year>
+      <materials>Pastel on paper</materials>
+      <desc>
+				A key artist of the Impressionist circle, Berthe Morisot is known for both her compelling portraits and her poignant landscapes. &lt;i&gt;In a Park&lt;/i&gt; combines these elements in this serene family portrait set in a bucolic garden. Like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cassatt_mary"&gt;Mary Cassatt&lt;/span&gt;, Morisot is recognized for her portrayals of the private and domestic spaces of female society, rather than the brash café scenes of many of her male peers. As in this quiet image of family life, she often centered on the bond between mother and child. Her loose handling of pastels, a medium embraced by the Impressionists, and visible application of color and form, were central characteristics of her work.
+				&lt;br/&gt;&lt;br/&gt;
+				Berthe Morisot was born in 1841 into a well-connected and rich family with ties to the Manets. Although she was a painter of prodigious skill, she was for a long time defined as a muse as much as an artist within portraits of the Impressionist circle, partly because &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt; produced a large number of portraits of her, emphasizing her dark features, brooding and enigmatic persona, and subtle sexual allure (Morisot would eventually marry Manet's brother Eugéne). Morisot was the only woman included in the first Impressionist exhibition of 1874. Indeed, the presence of a woman amongst a radical clique of painters increased the controversy surrounding both them and her. Morisot had previously been a relatively successful salon painter, but for a woman to associate herself with the scandals of the new school was seen as a particular impertinence.
+				&lt;br/&gt;&lt;br/&gt;
+				Berthe Morisot was described by the critic Gustave Geffroy in 1894 as one of the three great female painters of Impressionism, along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bracquemond_marie"&gt;Marie Bracquemond&lt;/span&gt; and the American Cassatt. But Morisot was the only one of these three integrated into the group from the start, involved in the founding of the Société Anonyme des Artistes, Peintres, Sculpteurs, Graveurs and the mounting of the first, critically eviscerated group exhibitions. As such, she can be considered one of the most important painters of the Impressionist circle and one of the most important and groundbreaking female modern artists of all time.
+			</desc>
+      <collection>Musee du Petit Palais, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>L'Absinthe</title>
+      <artist>Edgar Degas</artist>
+      <year>1876</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This dour scene, depicting two unfortunate individuals slumped on a bench outside a Parisian café, conveys a deep sense of isolation and degradation, revealing another side to the Impressionists' emphasis on truth to life. Degas's heavily-handled paint communicates the quality of emotional burden which his subjects convey, which in turn seems to stand for the whole oppressive atmosphere of Paris's &lt;i&gt;demi-monde&lt;/i&gt;. The work was scandalous, like so many other Impressionist paintings, when it was first exhibited, at the second Impressionist exhibition of 1876. The Irish writer George Moore remarked of its female subject: "a life of idleness and low vice is upon her face, we read there her whole life."
+				&lt;br/&gt;&lt;br/&gt;
+				Born in 1834, Degas was slightly older than the majority of the Impressionist circle, and his style continued to show clear points of divergence from the group's approach throughout his career (indeed, Degas rejected the Impressionist label throughout his life). Whereas Impressionists such as Monet and Sisley turned away, to varying degrees, from depicting the physiognomy and detail of the human body, Degas remained deeply preoccupied with the human form, particularly capturing it in motion. His paintings often depict groups of bodies, either static (as above), or in motion (as in his famous paintings of ballet dancers at rehearsal), with brilliant naturalism. Degas's works also suggest an attention to detail at odds with the spontaneous style of Impressionism. Indeed, Degas was famous for his rigorous and methodical approach. He banned all visitors from his studio, working laboriously on canvases all day. "I assure you", he once said, "no art is less spontaneous than mine."
+				&lt;br/&gt;&lt;br/&gt;
+				What tied Degas's work to the Impressionist movement was, on the one hand, a focus on &lt;i&gt;capturing&lt;/i&gt; spontaneity in his work, even if it was not a characteristic of composition, and on the other hand, an interest in everyday life represented for its own sake. Prior to the work of the later Realists and the Impressionists, genre painting was considered a lesser, escapist avenue of creativity. What Degas achieved with &lt;i&gt;L'Absinthe&lt;/i&gt; and similar works was to elevate the humble and commonplace aspects of human life to the status of serious art.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Paris Street, Rainy Day</title>
+      <artist>Gustave Caillebotte</artist>
+      <year>1877</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				While the work of Gustave Caillebotte adheres to a distinctly Realist aesthetic, it also reflects a concern with modern life that was central to Impressionism. &lt;i&gt;Paris Street, Rainy Day&lt;/i&gt; shows this tendency within Caillebotte's oeuvre. The panoramic view of a rain-drizzled boulevard shows us the newly renovated Parisian metropolis, while the anonymous figures in the background seem to encapsulate the alienation of the individual within the modern city. The painting centers on the apathetic gaze of the male figure in the foreground, who epitomizes the cool detachment of the &lt;i&gt;flâneur&lt;/i&gt;, poised in his characteristic black coat and top hat. Like Caillebotte's other paintings, this work explores the impact of modernity on human psychology, fleeting impressions of the street, and the effect of the changing urban sphere upon society.
+				&lt;br/&gt;&lt;br/&gt;
+				Caillebotte was one of the youngest artists associated with Impressionism, born into a rich upper-class family in 1848. His personal wealth meant that he was able to support fellow painters as a patron while also exhibiting alongside them. It is perhaps partly for this reason that he became connected to the group, as, despite his brilliance, there are several points of distinction in his approach. His great attention to the details of the human form, for example, and his relatively close, naturalistic brushwork, is closer in spirit to the tradition of Realism than to Impressionism. Caillebotte's work is often compared in this respect to that of Degas. Moreover, both artists were heavily influenced by photography, often framing their scenes in such a way that they seemed like snapshots rather than careful arrangements, with buildings and bodies cut in half by the edges of canvases (as above, or in Degas &lt;i&gt;Place de la Concorde&lt;/i&gt; [1875]).
+				&lt;br/&gt;&lt;br/&gt;
+				In spite of these points, Caillebotte's works were important in pushing forward the Impressionist emphasis on depicting everyday life. Indeed, despite his background, he was adept at capturing the working and psychological lives of everyday Parisians: not only in scenes of middle-class urban &lt;i&gt;ennui&lt;/i&gt; such as &lt;i&gt;Paris Street&lt;/i&gt;, but also in scenes of physical labor such as his monumental 1875 painting &lt;i&gt;The Floor Scrapers&lt;/i&gt;.
+			</desc>
+      <collection>The Art Institute of Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>At the Opera</title>
+      <artist>Mary Cassatt</artist>
+      <year>1880</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Much of Mary Cassatt's work focuses on the environs and inhabitants of Paris under Haussmannization, while emphasizing, in particular, the private and public lives of women. Here, she depicts the recently-built Palais Garnier of the Paris Opera which served as a social hub for the city’s upper classes. As the painting demonstrates, the opera was not only a site of culture and entertainment but a place for seeing and being seen. The pose of the female subject, training her binoculars on the stage, is mirrored by that of the main across the concert hall, who directs his binoculars at her. Through this witty composition, Cassatt offers a playful meditation on the act of looking, a central concern of the Impressionists, and also perhaps on the lot of the female artist, who is observed and visually assessed even as she seeks to be the observer.
+				&lt;br/&gt;&lt;br/&gt;
+				The American expatriate Mary Cassatt was born in Pennsylvania in 1844, the daughter of a successful stockbroker. Her family was culturally conventional but she sought the life of an artist and &lt;i&gt;flâneuse&lt;/i&gt;, training at the Pennsylvania Academy of Fine Arts before moving to Paris in 1866 (returning briefly to America during the Franco-Prussian War of 1870-71). Cassatt initially submitted paintings to the official Salons but she gradually became disillusioned with the conventional style and themes proffered by the judges and by the implicit snobbery and sexism of Paris's artistic establishment. By the late 1870s she had become friendly with the Impressionists and her work had begun to mirror theirs in form and subject-matter. Like many of her women counterparts, she focused a good deal on female subjects and social worlds. 
+				&lt;br/&gt;&lt;br/&gt;
+				As an avowed feminist, Cassatt played a key role in using Impressionist techniques to represent women’s lives, thoughts, and feelings. Her presence as an American expatriate in Paris is also symbolic of the strong relationship between French Impressionism and North America from the 1880s onwards. It was after their exposure to the American market, after all, that the Impressionists finally found real financial success.
+			</desc>
+      <collection>Museum of Fine Arts Boston, Boston, Massachusetts</collection>
+    </artwork>
+    <artwork>
+      <title>Girl with a Hoop</title>
+      <artist>Pierre-Auguste Renoir</artist>
+      <year>1885</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In the mid-1880s, Renoir was commissioned to create a portrait of a nine-year-old girl, Marie Goujon. A few year prior, following a trip to Italy, he had been inspired by the work of Renaissance painters to develop a new style which he dubbed "aigre" ("sour"), indicating a new emphasis on hardness and clarity of form. Using the "aigre" technique to create his new painting, he applied thick, elongated brushstrokes to evoke natural movement in the backdrop of the work and soft, textural brushstrokes complemented by hard lines to portray the young girl in the foreground. Though the painting represents a jump forward in Renoir's technique, his fluid handling of paint and portrayal of the young girl at play evokes the carefree mood of his entire oeuvre. While the other Impressionists focused on existential themes such as alienation in modern society, Renoir's disposition remained lighthearted, with much of his work depicting leisure activities and beautiful women.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in 1841, Renoir was from a far more modest background than many of his peers, his father a tailor who moved the family to Paris to improve their prospects. In 1862 Renoir enrolled at Charles Gleyre's studio, where he met Monet and Sisley, and so became one of the original members of the nascent Impressionist grouping. Like Monet, Renoir loved to employ natural light in his paintings. However, by the 1880s he had become dissatisfied with capturing fleeting visual effects. Having felt he had "wrung Impressionism dry," and losing all inspiration or will to paint, Renoir began to search for more clarity of form. The result of this process was his discovery of the "aigre" technique.
+				&lt;br/&gt;&lt;br/&gt;
+				In moving from the depiction of momentary perception to a more expressionistic use of brushwork, Renoir's development as a painter later in his career predicts the emergence of Post-Impressionism, whereby brushwork become ever more deliberative and idiosyncratic. For this reason and others, including his proximity to the other key artists of the movement, Renoir was one of the most important figures of the Impressionist generation.
+			</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>The Boulevard Montmartre, Afternoon</title>
+      <artist>Camille Pissarro</artist>
+      <year>1897</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Pissarro's &lt;i&gt;Boulevard Montmartre, Afternoon&lt;/i&gt; applies the techniques of his earlier &lt;i&gt;plein-air&lt;/i&gt; landscapes to the modern city. The work uses broad strokes of paint, carefully applied to the canvas, to represent the fleeting nature of modern life, and the visual impression made by the metropolis. It is one of a series of paintings, painted in Pissarro's room at the Hotel de Russie overlooking the street, that depict the same scene during different points of the day and different seasons of the year. The series emphasizes the changing effects of natural light upon the urban setting, resulting in a reflection on the passage of time and the transformation of the city.
+				&lt;br/&gt;&lt;br/&gt;
+				Pissarro was one of the oldest of the Impressionist group, referred to by Cézanne as "the first Impressionist." Of mixed Jewish-French-Portuguese heritage, he was born into a merchant family in 1830 on the tiny Caribbean island of St. Thomas. Pissarro's early paintings depict the sun-drenched beaches and palm trees of his island home, but he attended boarding school in Paris as a child, and moved there permanently in 1855. He became respected amongst the other Impressionist painters both for his artistic skill and for his wisdom, his works characterized by a bright palette, depiction of quiet landscapes, and representation of natural light. Pissarro served as a mentor to many of his younger friends, including Paul Cézanne, and was among the most radical of the Impressionist painters. Indeed, Pissarro saw their decision to form the Société Anonyme des Artistes, Peintres, Sculpteurs, Graveurs in 1874 as a politically significant one, matching his anarchist ideals of self-government.
+				&lt;br/&gt;&lt;br/&gt;
+				The only artist to have shown his work at all eight of the Impressionist's group exhibitions (1874-86), Pissarro also taught a number of Post-Impressionist artists, including Georges Seurat - pioneer of Pointillist techniques - Vincent Van Gogh, and Paul Gauguin. Pissarro's significance as both an artist and teacher to the development of modern art in the late-nineteenth century cannot be overstated.
+			</desc>
+      <collection>The State Hermitage Museum, St. Petersburg</collection>
+    </artwork>
+    <artwork>
+      <title>Nocturne: Blue and Gold - Old Battersea Bridge</title>
+      <artist>James Abbott McNeill Whistler</artist>
+      <year>c. 1872-75</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Whistler's &lt;i&gt;Nocturne: Blue and Gold&lt;/i&gt; is one of the most dazzling works of the wider Impressionist movement. Produced at a time of urban reconstruction in London, it depicts the old Battersea Bridge in the south of the city from a riverbank perspective, with the lights of the newer Albert Bridge winking in the background while rockets cascade from the sky. It is one of a whole series of &lt;i&gt;Nocturne&lt;/i&gt; paintings which convey the stillness, beauty, and subtle foreboding of London's nighttime atmosphere. Whistler deploys an Impressionist emphasis on individual, time-bound perspective in a context wholly different to the busy street-scenes of the Parisian school.
+				&lt;br/&gt;&lt;br/&gt;
+				The art critic Frances Spalding describes the innovative technique Whistler used to create his &lt;i&gt;Nocturnes&lt;/i&gt;. "[I]n the early 1870s he developed a system and a formula which he could vary with subtle effect. He would mix his colours beforehand, using a lot of medium, until he had, as he called it, a 'sauce'. Then, on a canvas often prepared with a red ground to force up the blues and suggest darkness behind, he would pour on the fluid paint, often painting on the floor to prevent the paint running off, and, with long strokes of the brush pulled from one side to another, would create the sky, buildings and river, subtly altering the tones where necessary and blending them with the utmost skill." Whistler then added individual features such as the barge and figure in this painting, which often appear ghostly or translucent against the background wash.
+				&lt;br/&gt;&lt;br/&gt;
+				Whistler was strongly informed by Japonism, particularly Japanese woodblock printing which is reflected in his &lt;i&gt;Nocturne&lt;/i&gt; series. This explains the subtly Oriental mood conveyed by the exaggerated shape of the barge in the water. At the same time, the curious profile perspective, which cuts off a large section of the bridge from view, suggests the position of an individual human viewer on the riverbank, while the depiction of two fireworks in the sky, one ascending and the other exploding, locates the image precisely in a single moment in time. It is perhaps for this reason that the title for this work and others, &lt;i&gt;Nocturne&lt;/i&gt;, refers to a musical composition evocative of night, connecting the works to the time-bound medium of music.
+				&lt;br/&gt;&lt;br/&gt;
+				Whistler's &lt;i&gt;Nocturnes&lt;/i&gt; caused outrage when first exhibited, provoking the Victorian critic John Ruskin to such harsh attacks that Whistler took him to court. In the decades following its composition, however, this and other paintings became recognized as masterpieces of a distinctly modern style. As Spalding notes, Whistler's works convey an ineffable, almost magical quality: "out of the decorative unity ... grow atmosphere and mystery, the sense that the visible world thinly veils the inexplicable".
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>manet_edouard</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>monet_claude</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>degas_edgar</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>renoir_pierre_auguste</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>pissarro_camille</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>sisley_alfred</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cassatt_mary</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>sargent_john_singer</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>morisot_berthe</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hassam_childe</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>whistler_james_abbott_mcneill</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>chase_william_merritt</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="written about impressionism" class="written-by">
+        <entry recommended="true">
+          <title>Impressionism: Art, Leisure, and Parisian Society</title>
+          <link>0300050836</link>
+          <info>By Robert L. Herbert</info>
+        </entry>
+        <entry>
+          <title>The Great Book of French Impressionism</title>
+          <link>0789206889</link>
+          <info>By Diane Kelder</info>
+        </entry>
+        <entry>
+          <title>Impressionism A&amp;I</title>
+          <link>0714838268</link>
+          <info>By James Henry Rubin</info>
+        </entry>
+        <entry>
+          <title>Impressionism</title>
+          <link>3836522861</link>
+          <info>By Ingo F. Walther</info>
+        </entry>
+        <entry>
+          <title>Art and Culture: Critical Essays</title>
+          <link>0807066818</link>
+          <info>
+						By Clement Greenberg
+						&lt;br/&gt;
+						Includes Essays on Claude Monet and Pierre-Auguste Renoir
+					</info>
+        </entry>
+        <entry>
+          <title>Impressionism</title>
+          <link>3822818933</link>
+          <info>By Peter H. Feist</info>
+        </entry>
+        <entry>
+          <title>Whistler</title>
+          <link>B00YDK0L5C</link>
+          <info>By Frances Spalding</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry>
+          <title>Impressionism: 50 Paintings You Should Know</title>
+          <link>3791338439</link>
+          <info>By Ines Janet Engelmann</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Impressionism: Painting Technique and the Making of Modernity</title>
+          <link>0300084021</link>
+          <info>By Anthea Callen</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Impressionist Art and Paintings</title>
+          <link>http://www.impressionism.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The National Gallery: Guide to Impressionism</title>
+          <link>http://www.nationalgallery.org.uk/paintings/learn-about-art/guide-to-impressionism/guide-to-impressionism</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>The Metropolitan Museum of Art: Impressionism: Art and Modernity</title>
+          <link>http://www.metmuseum.org/toah/hd/imml/hd_imml.htm</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>'Impressionism' at the de Young</title>
+          <link>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/05/20/DDOU1DGOOP.DTL</link>
+          <info>
+						By Kenneth Baker
+						&lt;br/&gt;
+						The San Francisco Chronicle
+						&lt;br/&gt;
+						May 21, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Suburban Pastoral</title>
+          <link>http://www.guardian.co.uk/books/2007/feb/24/art.art1</link>
+          <info>
+						By Andrew Motion
+						&lt;br/&gt;
+						The Guardian
+						&lt;br/&gt;
+						February 23, 2007
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Decade That Remade the World in Painting</title>
+          <link>http://www.nytimes.com/1994/09/25/arts/art-view-a-decade-that-remade-the-world-in-paint.html?src=pm</link>
+          <info>
+						By Michael Kimmelman
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						September 25, 1994
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>3 Artists Who Left A Fainter Impression</title>
+          <link>http://www.nytimes.com/1993/10/28/arts/3-artists-who-left-a-fainter-impression.html?src=pm&amp;gwh=9542EE038AC660FC879EC246F6C15D14</link>
+          <info>
+						By Alan Riding
+						&lt;br/&gt;
+						The New York Times
+						&lt;br/&gt;
+						October 28, 1993
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="transcripts" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>BBC Documentary: The Impressionists</title>
+          <link>http://www.youtube.com/watch?v=_eBah6c5kyA</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The National Gallery: Corot to Monet</title>
+          <link>http://www.youtube.com/watch?v=4akRH-FMDoA</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+  <plus>
+    <main>
+      <title>Impressionism - Plus</title>
+      <description>Impressionism Plus Section offers further insights into the lives and works of the Impressionists.</description>
+      <intro_left>The Impressionists have become legendary in the history of art. But beyond the official history of the movement there are a number of strange, funny, and peculiar episodes that are worth exploring.</intro_left>
+      <intro_right>The new Plus section of The Art Story offers more unusual and eclectic information on some of our very favorite pages. Please write us a comment or a suggestion &lt;a href="/contact-us.htm"&gt;here&lt;/a&gt;.</intro_right>
+      <acknowledgements>Some of the facts on this page come from Sue Roe's &lt;i&gt;The Private Lives of the Impressionists&lt;/i&gt; (Chatto &amp; Windus, 2006)</acknowledgements>
+      <link_text>A Deeper Dive into Impressionism: &lt;b&gt;Nudes in Impressionism&lt;/b&gt;, &lt;b&gt;Abstraction&lt;/b&gt;, &lt;b&gt;Serial Artworks&lt;/b&gt; and more...</link_text>
+    </main>
+    <editors>
+      <editor link="thomas">Greg Thomas</editor>
+    </editors>
+    <sections>
+      <section title="Impressionism Bonus Facts">
+        <subsection title="Manet And Monet">
+          <p type="img" class="left" alt="Edouard Manet, circa 1867-70, depicted by the famous photographer Nadar.">/images20/plus/plus_impressionism_1.jpg</p>
+          <p type="p">When &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet's&lt;/span&gt; works were first exhibited together, during the Salon of 1865, many viewers and critics thought the two artists were the same person because of their similar names. Manet never quite let go of the suspicion that the newcomer had deliberately copied his name to trade off the notoriety he had established with his &lt;i&gt;Le Déjeuner sur L'Herbe&lt;/i&gt;, and his equally provocative nude &lt;i&gt;Olympia&lt;/i&gt;, displayed at that year's salon.</p>
+        </subsection>
+        <subsection title="Monet's Despair">
+          <p type="img" class="left" alt="Claude Monet's &lt;i&gt;Self-portrait with Beret&lt;/i&gt; (1886)">/images20/plus/plus_impressionism_2.jpg</p>
+          <p type="p">Latterly the most famous and perhaps most revered of the Impressionists, in 1868 Claude Monet was so depressed at his lack of money and success that he threw himself into the Seine, before coming to his senses in the water and swimming for the bank.</p>
+        </subsection>
+        <subsection title="Artists at War">
+          <p type="img" class="center" alt="French soldiers during the Franco-Prussian War of 1870-71">/images20/plus/plus_impressionism_3.jpg</p>
+          <p type="p">Many of the Impressionists suffered during the Franco-Prussian War of 1870-71. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro's&lt;/span&gt; House in Louveciennes, on the route of advancing Prussian soldiers, was converted into a slaughterhouse. His canvases were used as butchers' aprons, and sheep pens were built in his kitchen. The best part of 1,500 paintings, including works of Monet's stored in the house, were reportedly destroyed.</p>
+        </subsection>
+        <subsection title="Naked Corruption">
+          <p type="img" class="center" alt="Renoir's &lt;i&gt;Reclining Nude&lt;/i&gt; (1883)">/images20/plus/plus_impressionism_4.jpg</p>
+          <p type="p">According to a story told by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, Paul-Durand Ruel, the Impressionists' main dealer and patron, had to bribe a Catholic New York customs official with donations to a church collection box in order to allow Renoir's nudes to enter the USA. Once they did, it was the North-American market that secured the Impressionists' fortune.</p>
+        </subsection>
+        <subsection title="Impressionist Cartoons">
+          <p type="img" class="left" alt="Monet's &lt;i&gt;Caricature of Léon Manchon&lt;/i&gt; (1855-56) one of the sketches he created as a teenager growing up in Le Havre.">/images20/plus/plus_impressionism_5.jpg</p>
+          <p type="p">Growing up in Le Havre, Claude Monet made a living for his family by selling sketch caricatures of local officials and dignitaries. He later remarked that he could have become a millionaire had he kept up this pursuit. Instead, it was a local artist's admiration for the sketches that helped convince Monet to become a painter.</p>
+        </subsection>
+        <subsection title="Public Mockery">
+          <p type="img" class="center" alt="An image from the 1850s-60 of Paris's Palace of Industry, where the 1863 Salon des Refusés took place">/images20/plus/plus_impressionism_6.jpg</p>
+          <p type="p">The Salon des Refusés was held in 1863 to exhibit works rejected from that year's official Salon. Though the event was organized by the French Emperor Napoleon III to placate angered avant-garde artists, the 70,000 visitors to the alternative salon went mainly to jeer at and insult the artworks, above all Édouard Manet's scandalous &lt;i&gt;Le Déjeuner sur L'Herbe&lt;/i&gt;.</p>
+        </subsection>
+        <subsection title="Manet's Love Child">
+          <p type="img" class="center" alt="Manet's &lt;i&gt;Déjeuner dans L'Atalier&lt;/i&gt; (1869) depicts the adolescent Léon, probably Manet's lovechild with his former piano teacher.">/images20/plus/plus_impressionism_7.jpg</p>
+          <p type="p">Édouard Manet and his partner Suzanne, formerly his adolescent piano teacher, are believed to have had a child out of wedlock when Manet was young (though by some accounts the child was his father's). To avoid scandal, their son Léon lived with Suzanne's mother and was presented as her child until the death of Manet's father ten years later.</p>
+        </subsection>
+        <subsection title="Suffering for His Art">
+          <p type="img" class="center" alt="Monet's &lt;i&gt;The Bodmer Oak, Fountainebleau Forest&lt;/i&gt; (1865)">/images20/plus/plus_impressionism_8.jpg</p>
+          <p type="p">Once, when painting &lt;i&gt;en plein air&lt;/i&gt; in the Forest of Fontainebleau, the young Claude Monet was badly injured when he was struck in the leg by the stray discus of a practicing athlete.</p>
+        </subsection>
+        <subsection title="Sketchy Business">
+          <p type="img" class="left" alt="Paul Cézanne's &lt;i&gt;Trees and Road&lt;/i&gt; (1890)">/images20/plus/plus_impressionism_9.jpg</p>
+          <p type="p">Though their paintings now command extraordinary prices at auction, the Impressionists suffered for decades from poor sales, and were often less than shrewd businessmen. The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt; painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, known to the Impressionists as a strange contemporary, once gave a just-completed painting for free to a man on the street after he said he admired the trees in it. Afterwards, Cézanne rushed to tell Monet and Renoir that he had made a sale. On another occasion, a raffle was held in Montmartre by a local pastry chef and friend of the Impressionists, with a painting by Pissarro as a prize. But the little girl who won the painting replied that she'd rather have a cream bun.</p>
+        </subsection>
+        <subsection title="An Arresting Impression">
+          <p type="img" class="left" alt="Pierre-Auguste Renoir in an 1861 photograph">/images20/plus/plus_impressionism_10.jpg</p>
+          <p type="p">During the occupation of Paris by the left-wing Communards, Renoir was mistaken for a government spy as he stood sketching the River Seine. He narrowly escaped a summary public execution, after being recognised by a young republican journalist and friend who was acting Chief of Police for the Commune.</p>
+        </subsection>
+        <subsection title="The Tragedy of Bazille">
+          <p type="img" class="left" alt="Frédéric Bazille in 1867, three years before his death in the Franco-Prussian War">/images20/plus/plus_impressionism_11.jpg</p>
+          <p type="p">The Impressionist painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bazille_frederic"&gt;Frédéric Bazille&lt;/span&gt; was killed in the Franco-Prussian War when commanding a unit in place of an injured officer during the Battle of Beaune-la-Rolande. His heartbroken father dug in the snow-covered battleground for ten days to find his body, which he took back to the Bazilles' home-city of Montpellier on the back of a peasant's cart.</p>
+        </subsection>
+        <subsection title="The Impressionists in London">
+          <p type="img" class="center" alt="Pissarro's &lt;i&gt;Lordship Lane Station, Dulwich&lt;/i&gt; (1871), one of the works he created as a refugee in London during the Franco-Prussian War.">/images20/plus/plus_impressionism_12.jpg</p>
+          <p type="p">Impressionism became popular in Britain partly due to the Franco-Prussian War. Monet, Pissarro, and the Impressionists' main dealer Paul Durand-Ruel all fled to southern England when the war took hold in Paris. Pissarro sketched the hamlets and villages south of London, while Durand-Ruel set up a studio in New Bond Street. It was in London that he met Monet for the first time, and began to patronise his work.</p>
+        </subsection>
+        <subsection title="Monet's Mini-Studio">
+          <p type="img" class="center" alt="&lt;i&gt;Monet Painting on his Studio Boat&lt;/i&gt;, an 1874 work by Manet.">/images20/plus/plus_impressionism_13.jpg</p>
+          <p type="p">In order to paint the play of light on water up close, Monet had a tiny studio installed on his boat, and would paint in it with his knees drawn up to fit inside.</p>
+        </subsection>
+        <subsection title="Artistic Sacrilege">
+          <p type="img" class="left" alt="The catalogue cover for the first Impressionist exhibition of 1874">/images20/plus/plus_impressionism_14.jpg</p>
+          <p type="p">The first Impressionist exhibition of 1874 was a commercial and critical disaster, castigated by press and public alike; the first art tutor of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, one of the artists included in the show, told her mother that as penance Berthe "should go to the Louvre twice a week, stand before Correggio for three hours, and ask his forgiveness."</p>
+        </subsection>
+        <subsection title="Outside Inside">
+          <p type="img" class="center" alt="Edouard Manet's &lt;i&gt;A Game of Croquet&lt;/i&gt;, one of his outdoor scenes">/images20/plus/plus_impressionism_15.jpg</p>
+          <p type="p">Édouard Manet once remarked to the painter Berthe Morisot that he felt the Impressionists' famous &lt;i&gt;plein-air&lt;/i&gt; painting technique was overrated, noting that "[y]ou can do plein-air painting indoors by painting white in the morning, lilac during the day and orange tones in the evening."</p>
+        </subsection>
+        <subsection title="Smudged Glasses?">
+          <p type="img" class="center" alt="Monet's &lt;i&gt;Gare Saint Lazare - Arrival of a Train&lt;/i&gt; (1877)">/images20/plus/plus_impressionism_16.jpg</p>
+          <p type="p">Monet's famous series of paintings of the Gare Sant Lazare was created in mockery of a critic who had once stated that looking at an Impressionist painting was like having a smudge on your glasses. Monet decided to depict the foggiest, smokiest subject-matter he could think of.</p>
+        </subsection>
+        <subsection title="From Rags to Riches">
+          <p type="img" class="center" alt="Renoir's &lt;i&gt;Dance at Le moulin de la Galette&lt;/i&gt; (1876)">/images20/plus/plus_impressionism_17.jpg</p>
+          <p type="p">When Renoir's &lt;i&gt;Dance at Le moulin de la Galette&lt;/i&gt; (1876) was sold at auction for $78.1 million in 1990, it became for some time the second most expensive painting in the world. The irony of the painting's fame is that Renoir created the work to celebrate the lives of the working poor in Montmartre, then a lively but run-down semi-rural district on the outskirts of Paris.</p>
+        </subsection>
+        <subsection title="An Extra Sprig">
+          <p type="img" class="left" alt="Manet's &lt;i&gt;A Bunch of Asparagus&lt;/i&gt; (1880) and, below, his &lt;i&gt;A Sprig of Asparagus&lt;/i&gt; (1880)">/images20/plus/plus_impressionism_18.jpg</p>
+          <p type="p">Manet's still life &lt;i&gt;A Bunch of Asparagus&lt;/i&gt; was commissioned by his patron Charles Ephrussi for 800 francs. Ephrussi was so pleased with the work on completion, however, that he paid Manet 1000 for it. In gratitude, Manet painted him an extra sprig, sending the second painting to Ephrussi with a note reading "there was one missing in your bundle."</p>
+        </subsection>
+        <subsection title="An Expensive Game of Cards">
+          <p type="img" class="center" alt="Paul Cézanne, &lt;i&gt;The Card Players&lt;/i&gt; (ca. 1894-95)">/images20/plus/plus_impressionism_19.jpg</p>
+          <p type="p">The Impressionists and their peers feature highly on lists of the most expensive artworks ever sold, with paintings from Monet's &lt;i&gt;Haystacks&lt;/i&gt; series appearing more than once on most rankings. The most recent of the group to top the list, however, is Paul Cézanne, whose &lt;i&gt;Card Players&lt;/i&gt; was sold for $225-300 million in 2011, only knocked off the top spot when &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci's&lt;/span&gt; &lt;i&gt;Salvator Mundi&lt;/i&gt; was auctioned off for $450.3 million in 2017.</p>
+        </subsection>
+      </section>
+      <section title="More Impressionism">
+        <subsection title="Abstract painting before and after Impressionism">
+          <p type="img" class="left" alt="El Greco's &lt;i&gt;View of Toledo&lt;/i&gt; (c. 1596-1600)">/images20/plus/plus_impressionism_20.jpg</p>
+          <p type="p">Impressionism is often seen as the first modern art movement, partly because it was the first movement in painting to make formal abstraction - that is, the rejection of obviously realistic representation - a central aspect of its approach. Abstraction in art prior to Impressionism was often more subtle, and could be dependent on the mannerisms and eccentricities of individual artists. After Impressionism, the evolution of abstraction became an absolutely vital element of the story of art.</p>
+          <p type="p">One historical era associated with abstraction in art is the Mannerism period (roughly 1520-1600), often known as the Late Renaissance, when artists began to play with, exaggerate, or embellish the qualities of beauty, formal harmony, and order developed during the Renaissance. One of the most extraordinary artists of this period was El Greco, whose works were beloved by modern artists such as the Cubists because of their strange and captivating use of proportions and perspective.</p>
+          <p type="img" class="center" alt="J.M.W Turner, &lt;i&gt;The Slave Ship&lt;/i&gt; (1840)">/images20/plus/plus_impressionism_21.jpg</p>
+          <p type="p">Later, artists of the Romantic era, from around the late 18&lt;sup&gt;th&lt;/sup&gt; century to the mid-19&lt;sup&gt;th&lt;/sup&gt; century, often worked with exaggerated brushwork and color palettes, and exaggerated forms and perspectives, to emphasise the emotional impact of the scenes they painted. The English Romantic landscape painter J.M.W Turner created extraordinary seascapes where hazy brushwork evoking sea and sky seemed to encompass the whole canvas. The French Romantic painter Eugène Delacroix often created paintings with loose brushwork, where bodies and forms seemed to be stretched or contorted.</p>
+          <p type="img" class="center" alt="Jean-Baptiste Camille Corot's painting &lt;i&gt;Le Repos sous les Saules&lt;/i&gt; (“Rest under the Willows”) (1865-70)">/images20/plus/plus_impressionism_22.jpg</p>
+          <p type="p">From the mid-19&lt;sup&gt;th&lt;/sup&gt; century onwards, French artists such as the Camille Corot began to use abstraction in a slightly more pronounced way. Corot, who often painted forest scenes, was interested in using fuzzy or mottled brushwork to show the play of light on foliage. In making light a subject of compositional interest though abstract formal techniques, he was a huge influence on the Impressionists.</p>
+          <p type="img" class="center" alt="Monet, &lt;i&gt;Vétheuil in the Fog&lt;/i&gt; (1879)">/images20/plus/plus_impressionism_23.jpg</p>
+          <p type="p">The Impressionists, however, made far more central use of abstraction than any previous group of painters. From the early 1870s onwards, artists such as Monet used amazingly loose, quick brushwork to show the effects of light and other atmospheric qualities - fog, rain, mist - on the appearance of a scene to the viewer. In this they were hugely influential on many artists and movements to come.</p>
+          <p type="img" class="center" alt="Paul Cézanne, &lt;i&gt;Houses in Provence: The Riaux Valley near L'Estaque&lt;/i&gt; (1883)">/images20/plus/plus_impressionism_24.jpg</p>
+          <p type="p">Around the same time, the artist Paul Cézanne, a contemporary of the Impressionists, began to use abstraction in a different way. He experimented with breaking up the picture plane: that is, creating paintings where it seemed as if different parts of a scene were being viewed from different perspectives. Cezanne's work, like El Greco's would be very important for the Cubist painters of the early 20&lt;sup&gt;th&lt;/sup&gt; century.</p>
+          <p type="img" class="center" alt="Wassily Kandinsky, &lt;i&gt;Composition 6&lt;/i&gt; (1913)">/images20/plus/plus_impressionism_25.jpg</p>
+          <p type="p">In the years following the Impressionist movement, the use of abstraction in art exploded. Painters from many different movements and countries started creating work that broke from realistic representation in myriad ways. French groups of the 1880s-90s, including the Synthetists, Nabis, Pointillists, and Post-Impressionists, used color and brushstroke in even more adventurous ways than the Impressionists, while in the early twentieth century a raft of movements, from Cubism to Constructivism to Expressionism, began to create abstract artworks with little or no basis in subject-matter at all. The Expressionist painter Wassily Kandinksy was amongst the first to create 'pure' abstraction in his work. But without the revolutionary gestures of the Impressionists, none of these advances might have been possible.</p>
+        </subsection>
+        <subsection title="Landscapes before and after Impressionism">
+          <p type="p">The Impressionists are often seen as the first artists to paint landscapes without adornment or embellishment, marking down only what they saw and felt. In fact, artists as far back as the seventeenth century had been engrossed with the natural world for its own sake. But the Impressionists were the first group to take to landscape painting with such singular intensity, and to set it on a pedestal amongst artistic genres.</p>
+          <p type="img" class="center" alt="Jacob van Ruisdael, &lt;i&gt;Windmill at Wijk bij Duurstede&lt;/i&gt; (1670)">/images20/plus/plus_impressionism_26.jpg</p>
+          <p type="p">In much historical Western painting landscape serves as mere backdrop to a mythical or historical scene. But the Dutch Masters of the 17th century were amongst the first artists to paint landscapes for their own sake, showing the cities, fields, and rivers of their lowland home. The most famous artists of this period include Rembrandt, Hercules Seghers, and Jacob van Ruisdael, whose &lt;i&gt;Windmill at Wijk bij Duurstede&lt;/i&gt; (1670) is exemplary in its captivating naturalism.</p>
+          <p type="img" class="center" alt="Caspar David Friedrich, &lt;i&gt;Two Men Contemplating the Moon&lt;/i&gt; (1825-30)">/images20/plus/plus_impressionism_27.jpg</p>
+          <p type="p">Across the late eighteenth and early nineteenth centuries, landscape painters based in Northern Europe, such as J.M.W Turner and Caspar David Friedrich, created stirring pastoral, mountain, and sea scenes, expressing the Romantic spirit of the era.</p>
+          <p type="img" class="center" alt="Camille Corot, &lt;i&gt;Scene in the Forest of Fontainebleau&lt;/i&gt; (1846).">/images20/plus/plus_impressionism_28.jpg</p>
+          <p type="p">During the middle years of the nineteenth century, painters began to focus on painting on location in beautiful natural environments, such as Fontainebleau Forest, where the "Barbizon School" congregated from the 1830s onwards. Among them was Camille Corot, whose soft natural scenes, often exploring the play of light on foliage, were a huge influence on the Impressionists.</p>
+          <p type="img" class="center" alt="Berthe Morisot, &lt;i&gt;Landscape of Creuse&lt;/i&gt; (1882).">/images20/plus/plus_impressionism_29.jpg</p>
+          <p type="p">When the Impressionist group, including Claude Monet, Pierre-Auguste Renoir, Alfred Sisley, and Berthe Morisot, began to form in the 1860s, they took the effects of light that Corot and others had explored and pushed much further with their formal experiments. The wanted to relay the impression a landscape made on the eyes and senses at the moment of viewing. In so doing, they elevated landscape painting to a position of primary importance amongst artistic genres. While there were precedents for their work, never had landscape painting been so crucial to the ethos of an artistic group.</p>
+          <p type="img" class="center" alt="Vincent Van Gogh, &lt;i&gt;Landscape at Twilight&lt;/i&gt; (1890)">/images20/plus/plus_impressionism_30.jpg</p>
+          <p type="p">Ironically, the Impressionists' attention to momentary detail meant their work often looked more abstract, and less realistic, than older landscape works. In the decades following the Impressionists, artists exaggerated the abstract effects which they had discovered. Painters such as Vincent Van Gogh used more experimental colour palettes and more mannered brush strokes.</p>
+          <p type="img" class="center" alt="Edvard Munch, &lt;i&gt;Landscape in the Winter&lt;/i&gt; (1915)">/images20/plus/plus_impressionism_31.jpg</p>
+          <p type="p">In the early twentieth century, groups such as the Expressionists and Cubists created ever more radical landscape works, fracturing the picture plane and playing with perspective, figurative accuracy, and truth to life; but these developments could still be traced back to the ground-breaking gestures of the Impressionists. Edvard Munch was amongst the famous artists of this period to create striking landscape paintings.</p>
+          <p type="img" class="center" alt="Peter Doig,&lt;i&gt; Gasthof zur Muldentalsperre&lt;/i&gt; (2000-02)">/images20/plus/plus_impressionism_32.jpg</p>
+          <p type="p">Although the late twentieth century and early twenty-first centuries have not produced famous landscape art movements, contemporary artists such as David Hockney and Peter Doig continue to work with the legacy of the Impressionist landscape with their dreamy, colourful, wild and rural scenes. While the Impressionists were not the first landscape artists, they made landscape painting vital to the story of art for the first time.</p>
+        </subsection>
+        <subsection title="Serial artworks: from Monet to Warhol">
+          <p type="p">Lots of modern artists have created sequences of works based on single subject-matter, but their reasons for doing so can be very different, and can teach us a lot about the contrasts and complexities of modern art. Two of the most famous artists to have worked in this way are Claude Monet and Andy Warhol. Their motives for creating works in sequence reveal radically opposed visions.</p>
+          <p type="img" class="center" alt="Claude Monet's &lt;i&gt;Haystack. End of the Summer. Morning&lt;/i&gt; (1891)">/images20/plus/plus_impressionism_33.jpg</p>
+          <p type="p">Claude Monet (1840-1926) was the figurehead of the Impressionist movement. His most famous sequence of works is the so-called "Haystacks" series, &lt;i&gt;Les Meules à Giverny&lt;/i&gt;. This consists of 25 paintings created during 1890-91, depicting stacks of wheat in the fields outside Giverny, a village in northern France where Monet had lived since 1883. Monet's Impressionist philosophy meant that he was concerned not just with capturing a physical subject-matter, but also with representing a moment in time. The haystacks looked different to him with each passing hour: at day and at night; in spring, summer, autumn, winter. The changing weather, mood, and atmosphere created a different subject-matter in each of these settings. Monet's "Haystacks" series is about paying close attention, trying to capture a subject in all its minute, time-bound complexity.</p>
+          <p type="img" class="left" alt="Andy Warhol's &lt;i&gt;Marilyn Diptych&lt;/i&gt; (1962)">/images20/plus/plus_impressionism_34.jpg</p>
+          <p type="p">Andy Warhol, the most famous artist of the Pop Art movement, had very different reasons for creating serial artworks. Amongst the many sequences of works he created based on his famous repeat-prints of Marilyn Monroe. Warhol created his first work in homage to Monroe, &lt;i&gt;Marilyn Diptych&lt;/i&gt;, in 1962, shortly after the actress's death. For Warhol, the repetition of Monroe's face across this work, and across much of his subsequent work (using his screen-print technique), reflected the mass consumption and reproduction of her image: its conversion into an icon and sales product at the same time. The repetition of subject-matter was therefore not about capturing detail but about showing how pop culture devours and regurgitates images, particularly images of its heroes: distorting and degrading them in the process.</p>
+          <p type="p">Serial artworks therefore stand for both sides of a key conflict within modern art: between desire for originality, the new, and an awareness that art is mediated through pop culture and the economy, and cannot escape the value systems they impose on it.</p>
+        </subsection>
+        <subsection title="The Impressionist nude and after: from Manet to Saville">
+          <p type="p">Édouard Manet caused a scandal when his nude portrait &lt;i&gt;Olympia&lt;/i&gt; was displayed at the 1865 Paris Salon. Manet was associated with the Impressionists, so his daring work was seen to epitomise the scandalous nature of the new movement. But he was responding to a whole tradition of nude portraiture in Western art, and inspired later artists to grant the female nude more power and autonomy.</p>
+          <p type="img" class="center" alt="Manet's &lt;i&gt;Olympia&lt;/i&gt; (1863), first exhibited in 1865.">/images20/plus/plus_impressionism_35.jpg</p>
+          <p type="p">Women's bodies had held a central place in modern Western painting since the Italian Renaissance, and Titian had already taken the bold step of placing the female nude in a modern rather than mythological context with his &lt;i&gt;Venus of Urbino&lt;/i&gt; (1538).</p>
+          <p type="img" class="center" alt="Titian's &lt;i&gt;Venus of Urbino&lt;/i&gt; (1538)">/images20/plus/plus_impressionism_36.jpg</p>
+          <p type="p">Manet's Olympia, however, caused controversy because the mythological context for nudity was gone. The name "Olympia", unlike "Venus," does not refer to a Greek god, but was one associated with prostitutes or 'courtesans' in late 19&lt;sup&gt;th&lt;/sup&gt; century Paris. And unlike Titian's Venus, Olympia's gaze is confident, almost quizzical; she is not shy or coy. For the first time in Western art, Manet presented us with a modern woman defiantly confronting the viewer with her own sexuality.</p>
+          <p type="img" class="left" alt="Picasso, &lt;i&gt;Les Demoiselles D'Avignon&lt;/i&gt; (1907)">/images20/plus/plus_impressionism_37.jpg</p>
+          <p type="p">Other artists were inspired by Manet's example. Picasso's &lt;i&gt;Les Demoiselles D'Avignon&lt;/i&gt; ("The Young Ladies of Avignon") is a brothel scene like Manet's, but many of the models' faces are replaced with West-African masks (on the racist terms of the era, the masks stood for primal energy and unbridled sexuality). Like &lt;i&gt;Olympia&lt;/i&gt;, the demoiselles stare intensely at the viewer. Combined with Picasso's angular, clashing picture planes, this made this painting almost as outrageous to audiences of the 1900s as Olympia had been to the audiences of the 1860s.</p>
+          <p type="p">Of course, the painters depicting these scenes were all men, and the female nude was still a symbol of women's subjugation. But the twentieth century saw a significant movement towards recognizing women's role as artistic creators rather than mere subjects, often through acts of artistic activism. In 1914, the Canadian suffragette Mary Richardson, protesting against the imprisonment of her fellow campaigner Emmeline Pankhurst, slashed Diego Velázquez's nude &lt;i&gt;The Rokeby Venus&lt;/i&gt; (1647-51) in London's National Gallery. In New York during the 1980s, a group of anonymous artists called The Guerrilla Girls created posters asking questions like "Do women have to be naked to get into the Met. Museum?"</p>
+          <p type="img" class="center" alt="The Guerrilla Girls, &lt;i&gt;Do Women Have to Be Naked to Get Into Met. Museum?&lt;/i&gt; (1989). This poster shows Ingres's &lt;i&gt;La Grande Odalisque&lt;/i&gt;, one of the models for Manet's Olympia, with the head of a gorilla.">/images20/plus/plus_impressionism_38.jpg</p>
+          <p type="p">From the late twentieth century onwards, women artists have depicted the female nude with more physical and psychological naturalism than was previously possible. The works of the British artist Jenny Saville, such as &lt;i&gt;Propped&lt;/i&gt; (1992), are a good example of this. Though Saville's works are very different from Manet's, they indicate the legacy of &lt;i&gt;Olympia&lt;/i&gt;, the first female subject in modern art to return the viewer's gaze in a way that expressed her own identity, not the desires or fantasies of the artist.</p>
+          <p type="img" class="center" alt="Jenny Saville's 1992 painting &lt;i&gt;Propped&lt;/i&gt;.">/images20/plus/plus_impressionism_39.jpg</p>
+        </subsection>
+      </section>
+    </sections>
+  </plus>
+</data>

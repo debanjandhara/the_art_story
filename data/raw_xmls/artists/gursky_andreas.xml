@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>gursky_andreas</id>
+    <name>Andreas Gursky</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1978 - Present</years>
+    <description>Gursky's massive and distanced surveys of public spaces, landscapes, and structures contributed to new picture taking and photographic ideas.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>German</nationality>
+    <occupation>Photographer</occupation>
+    <birthDate>January 15, 1955</birthDate>
+    <birthPlace>Leipzig, Germany</birthPlace>
+    <highlight>1</highlight>
+    <img_version>?1</img_version>
+    <art_type>Photography</art_type>
+    <pub_time>9/21/2017</pub_time>
+  </main>
+  <includes>
+    <include>dusseldorf_school</include>
+    <include>modern_photography</include>
+    <include>contemporary_photography</include>
+    <include>the_sublime_in_art</include>
+  </includes>
+  <similar_movements>
+    <movement>dusseldorf_school</movement>
+    <movement>modern_photography</movement>
+    <movement>the_sublime_in_art</movement>
+    <movement>abstract_photography</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>struth_thomas</artist>
+    <artist>ruff_thomas</artist>
+    <artist>bernd_hilla_becher</artist>
+    <artist>richter_gerhard</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Even if a picture is completely invented or built, it's necessary that you could imagine that it's a realistic location or place. I am not happy if the picture looks completely surreal. Even if I am working with montage, I want that you don't see it."</q>
+    <q>"It is not pure photography, what I do."</q>
+    <q>"In retrospect I can see that my desire to create abstractions has become more and more radical. Art should not be delivering a report on reality, but should be looking at what's behind something."</q>
+    <q>"All my pictures are based on a direct visual experience from which I develop an idea for a picture, which is subjected to testing in the studio and eventually worked on and precised at the computer."</q>
+    <q>"The American Abstract Expressionists fascinate me. The distinction between photography and painting is still that the viewer always reads photography as what is presented, whereas painting is about the presentation as such. That has always been a guidepost for me. It is interesting to me that someone looking at my work tends to be stunned initially by being first confronted with visual phenomena that cannot be immediately classified."</q>
+    <q>"I think I'm a very slow worker, so I focus on one picture and the background of the original idea for why I choose this location or this space is always a reference to a picture that I did before, but then I change the content a bit."</q>
+    <q>"I compare my work to that of a writer. He writes from what he remembers and his different impressions. In a way, a writer has the freedom to connect different thoughts, and this is the way I work with photography. It is not a straight documentary but the details that are going together, they come from the real world and they exist."</q>
+    <q>"I am never interested in the individual, but in the human species and its environment."</q>
+    <q>"My photographs are 'not abstract.' Ultimately, they are always identifiable. Photography in general simply cannot disengage from the object."</q>
+  </quotes>
+  <authors>
+    <author link="guzzo">Hope Guzzo</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>Emerging from the renowned Düsseldorf School in the late 1980s, Andreas Gursky was pivotal in creating a new standard in contemporary photography, a pioneer who furthered the possibilities of scale and ambition. His massive, clinical, and distanced surveys of public spaces, landscapes, and structures contributed to a new art of picture taking in contrast to the Minimalism and Conceptualism of the 1970s. His use of large-format cameras, scanning, digital manipulation, the layering of multiple pictures to create a cohesive image, and technical postproduction positioned him as an important bridge between the old ways of shooting and presenting pictures and the current highly, technologically advanced era of photography.</synopsys>
+    <key_ideas>
+      <idea>Vast, large places are of particular interest to the artist such as stock exchanges, concert arenas, big box stores, sweeping landscapes, racetracks, and other locations, which engage in regular relationship with the human population. His monumental photographs of these environments have the effect of fully encompassing the viewer within the spaces they aim to portray.</idea>
+      <idea>Gursky's photographs are often shot from an elevated, aerial perspective. This allows viewers to experience a scene in its full proportions, which would ordinarily be impossible, allowing for a visual comprehension of scope, center, and periphery.</idea>
+      <idea>A straightforward and distanced observation informs Gursky's work, leaving us to formulate our own opinions and responses. We recognize his world as our own rather than one adorned with any personal messaging.</idea>
+      <idea>Aggregate space performs largely in the success of each work. Even though his subject matter exists prior to his encounter with it, he manages to masterfully reveal its inherently harmonious sum of individual parts where objects become elements such as strata, line, geometry, color, and form.</idea>
+      <idea>Gursky's photographs create a dialogue between painting and representation in that they go beyond merely capturing a piece of visual documentation - they in fact oftentimes conjure the look and feel borrowed from such movements as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;.</idea>
+      <idea>Although Gursky refrains from social or political commentary with his work, he admits an overriding interest in capturing the existence of globalism and consumerism as it relates to modern man.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Andreas Gursky was born in Leipzig, East Germany on January 15, 1955. An only child, he later moved with his family to the West German city of Essen followed by Düsseldorf in 1957. Both his grandfather and father were successful commercial photographers and although he at first "denied anything to do with photography," he changed his mind in high school. He dabbled in a few commercial shoots before moving in a more artistic direction.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">In 1978 Gursky began to study photojournalism at the Folkwang University of the Arts in Essen, while working as a taxi driver. After graduating in 1980, he was encouraged by friend and future star photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-struth_thomas"&gt;Thomas Struth&lt;/span&gt; to join him at the Kunstakademie Düsseldorf in 1981, where he began to study under the seminal photographers &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bernd_hilla_becher"&gt;Bernd and Hilla Becher&lt;/span&gt;. The Bechers were the founders of what would become known as the Düsseldorf School, and were celebrated for their black and white typographic photographs of industrial archetypes. Their students, who included Candida Höfer, Axel Hütte, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruff_thomas"&gt;Thomas Ruff&lt;/span&gt;, Thomas Struth, and Gursky, were highly influenced by their teachers' interest in architecture and a detached presentation style. Although each would expand into using color in their work, together they went on to form a group of notable contemporary photographers.</p>
+          <p type="p">Gursky was considered a master student by 1985, and before graduating in 1987 was already showing signs of his signature foray into "aggregate space," a term used in social sciences to describe a whole made up of its individual parts. Although he went on to become famous for photographing voluminous landscapes and public spaces, his first published photograph of his oven indicated this eye for finding the smaller elements of a composition - seen as geometry, linearity, strata, color block, and form beyond its literal imagery.</p>
+          <p type="p">As his career progressed he began drawing inspiration from artists including the American Abstract Expressionist painters and photographers. These included Steven Shore, who photographed banal scenes with a bold depiction of color; and John Davies, who shot the urban and rural environment. But his most notable influence was the Canadian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wall_jeff"&gt;Jeff Wall&lt;/span&gt; who presents scenes of natural beauty, urban decay, and postmodern and industrial featurelessness through large-scale, cibachrome transparencies within fluorescent lightboxes.</p>
+          <p type="p">Gursky began to make his own massive color prints (eventually measuring up to six feet tall and ten feet long) in 1988, at the time when photography was beginning to be taken seriously in the fine art world - partly due to increasing the size of prints, thus drawing parallels to painting. His signature style beckoned comparison with abstraction, because although he photographed place and space in honest literality, his genius knack for recognizing composition within the frame of a lens, produced works akin to paintings. A Prada store interior became a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Rothko&lt;/span&gt;-like plane of key lime green and baby pink color blocks bisected by the splashes of colored shoes hanging in a horizontal box. A view of a black, cloudy sky became a gloomy watercolor of gradient gray splotches. A bikini shop wall morphed into a monotone beige minimalist piece, accentuated by a row of hanging swimmers that resembled drips of color.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Since the late 1980s Gursky has been "concerned with the human species," (as he put it) exploring the inner workings of contemporary society, specifically globalism and consumerism. He tends to read a photograph "not for what's really going on there, I read it more for what is going on in our world generally." Traveling internationally, his work consists of a wide range of subjects from landscapes to racetracks, public spaces such as stores, and sites of industry and trade. He has evolved a unique aerial perspective, often requiring cranes and helicopters to capture a high yet straightforward vantage point. Although many of his images appear to be abstract, upon close examination he is turning a critical yet detached eye toward the subject. Looking to "learn from the visual world, to learn how everything sticks together," his matter-of-fact confrontation sidesteps any personal political view; thus, allowing the viewer to form their own opinion. Gursky's practice, dense with conceptual and visual qualities derives from observation and research, creating a unique blend of fiction and reality whether the scene is built, heavily altered, or captured in its originally observed state.</p>
+          <p type="p">In the late 1990s critic Jerry Saltz gave Gursky and former classmates Thomas Ruff and Thomas Struth the nickname of "Struffsky," implying that the three German photographers were interchangeable because they were part of the 'Düsseldorf School', were classmates at Kunstakademie Düsseldorf, and worked with a similar aesthetic. Although they do make images in a similarly disengaged observatory style, they select and use their subjects differently. Gursky focuses on globalism; while Struth creates portraits, landscapes, and interiors that he has an abstract or personal relationship with; and Ruff focuses on different ways to use the medium of photography itself through portraits and 3D imagery.</p>
+        </subsection>
+        <subsection title="Current Practice">
+          <p type="p">Gursky still lives with his wife and family in Düsseldorf, where he shares a studio with fellow photographers Laurenz Berges, Axel Hütte, and Thomas Ruff in an electrical station that was renovated by renowned architects Herzog &amp; de Meuron. Since 2010 he has been a Professor at his former university Kunstakademie Düsseldorf.</p>
+          <p type="p">Although he continues to make expansive prints exploring aspects of postmodern society, in the early 2000s Gursky began to experiment with smaller prints and reprints of previous work to offer the viewer different experiences. While Gursky aims to be physically removed and politically neutral in most of his work, he exhibited a very rare self-portrait named &lt;i&gt;Untitled XVI&lt;/i&gt; (2008) in his exhibition &lt;i&gt;Works 80-08&lt;/i&gt;, depicting himself crouching before a wall, "more or less in my studio, thinking about doing a work."</p>
+          <p type="p">Interestingly, electronic music has been important to Gursky for over 22 years - as an interest, influence, and subject matter. He has photographed raves, festivals, and clubs and plays it while installing exhibitions. In 2016, he synthesized his images with music by inviting acclaimed DJ, producer, and friend Richie Hawtin (aka Platikman) to create a soundscape to accompany his exhibition &lt;i&gt;Not Abstract II&lt;/i&gt;. In an interview with Gursky and Hawtin, Gursky explains the music, "is neither merely accompanying the images nor is it a typical Richie Hawtin sound. It is much rather a soundscape... and permeates the images in the most peculiar way... it feels as if something is breathing, something is buzzing." He also feels that the integration of sound invites people to spend more time looking at and contemplating his photographs.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">In the words of former MoMA curator Peter Galassi, Gursky's work has "the service of a polished, signature style .. [which] made his work one of the most distinctive and challenging contributions to contemporary art." Gursky helped shape new ideas of photographic 'objectivity,' because although his style had roots in straight documentation, it was undeniably brought into the cutting edge arena via the advanced technical possibilities which arose from digital art. He also helped elevate the value of contemporary photography within the art world.</p>
+          <p type="p">Not only did Gursky blast open the door toward utilizing a massive scale to present imagery to the world, his eye for capturing the painterly aspects of an existing, everyday scene has influenced the world of contemporary photography in an enormous way, paving the way for many of today's artists working in the medium. Through artists such as Cristoffer Joergensen and Richard Caldicott who borrow from abstract practices; photographers like Paulo Catrica, Xiaovi Chen, and Vic Muniz, known for capturing large-scale public spaces; architecture explorers like Allison V. Smith; or those working with environmental and urban landscape like Hanah Collins, Mitch Dobrowner, Gregory Crewdson, Victoria Sambrunaris, and LM Chabot, we can see touches of Gursky's original impetus weaving its course through photographic art history.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="pollock_jackson">Autumn Rhythm: Number 30 (1950)</artwork>
+    <artwork from="movement" page="minimalism">Untitled (1969)</artwork>
+    <artwork from="artist" page="wall_jeff">The Destroyed Room (1978)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Gas Cooker</title>
+      <year>1980</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				&lt;i&gt;Gas Cooker (1980)&lt;/i&gt; is Andreas Gursky's first published photograph, depicting the lit gas stove in his Düsseldorf home. His consideration of form and texture in the piece reflects the burgeoning development of his signature style. Like his landscapes and interiors, he approaches the stove from a high vantage point in a way that is slightly unusual for the viewer. His choice of even light and a deadpan presentation of the scene emphasizes the milky fields of monotone color and causes the viewer to notice the geometry of squares, rectangles, and line within an otherwise ordinary, everyday object made further delightful by the circular rings of fire. 
+				&lt;br/&gt;&lt;br/&gt;
+				This image exists both in contrast and preface to the later work he is most known for. Gursky's mature work deals with globalism and capitalism in contemporary society, but this image was conceived from individual experience while cooking when "after a while I saw it as an image." Although this early photograph was not made upon complete impulse, his later work relies on extensive research and logistical planning. &lt;i&gt;Gas Cooker&lt;/i&gt; is also one of his most 'simple' images as is a still life with a single object-as-subject instead of a scene exploring how the chosen subject interacts within its environment.
+				&lt;br/&gt;&lt;br/&gt;
+				Although &lt;i&gt;Gas Cooker&lt;/i&gt; may appear different than Gursky's later works, upon examination one can see a consistency of approach that weaves through his &lt;i&gt;oeuvre&lt;/i&gt;. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>May Day II</title>
+      <year>1998</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				&lt;i&gt;May Day II&lt;/i&gt; depicts a crowd of people during a concert at Mayday, the oldest and most renowned German electronic music festival that draws thousands of people every year. This image is one in a series of photographs taken at various May Day festivals the Gursky created from 1997 through 2006. Gursky has a great passion for the electronic music scene.
+				&lt;br/&gt;&lt;br/&gt;
+				Upon first glimpse, the piece resembles a painting as dots of yellow light swarm in from the right of the frame to illuminate a strip of the crowd while the rest of the frame remains in pitch-black darkness. By shooting from his signature perspective of elevated distance, Gursky first delivers to the viewer a scene of color juxtaposition and distinct fields of color, withholding actual clues about the true reality of the event and its participants. Instead, in true character, he fosters an (initially) aesthetic and atmospheric experience, which similarly mirrors the act of observing a concert. It provides the experience of an international community in a public space and showcases Gursky's love of capturing vast spaces frequented by the human species. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>99 Cent</title>
+      <year>1999</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				This enormous photograph (over 6 by 11 feet) depicts the interior of a Ninety-Nine Cent store in Los Angeles. The shelves are filled with stacks of mass produced and widely recognizable branded items such as Kit Kat Bars, Reese's Peanut Butter Cups, and Colgate toothpaste, all sold below their normal market value. Six white poles in the middle and background break up the sea of color, moving the viewer's eye throughout the space and calling attention to the ".99 Cent Only" posters on the walls. As the assault of color dissipates the viewer discovers the presence of shoppers walking among the aisles. 
+				&lt;br/&gt;&lt;br/&gt;
+				Gursky says &lt;i&gt;99 Cent&lt;/i&gt; was inspired by an experience on his first trip to Los Angeles when he became "directly fascinated" by a dollar store window while driving at night. The result is this immersive and beautifully composed scene, in which he lends a critical eye to issues of manufacture and exchange. His manipulation of perspective combined with the reflection of merchandise in the mirrored ceiling radiates a sense of claustrophobia and forces the viewer to confront the details of an overwhelming number of brightly packaged objects. The piece is a great example of Gursky's use of parts to inform a whole, relying on the exorbitant amount of boxed products to inform the overall composition through both color and form and compiling a message about human beings' role in consumerism. 
+				&lt;br/&gt;&lt;br/&gt;
+				In 2001, he made a related piece, &lt;i&gt;99 Cent II, Diptych&lt;/i&gt; of two Ninety-Nine Cent store interiors. The layout and color palate of these interiors are so similar to each other and to those of this photograph that they could be the same store. Although the products displayed on shelves are different, the repetition of the architecture, color and signs shows little change in terms of the mass production and marketing in the years between the two. 
+			</desc>
+      <collection>San Francisco Museum of Modern Art</collection>
+    </artwork>
+    <artwork>
+      <title>The Rhine II</title>
+      <year>1999</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				&lt;i&gt;The Rhine II&lt;/i&gt;, (1999) is depicting a stretch of the river outside Düsseldorf. At first glance, the strips of creamy gray river, surrounding green grassy banks, and milky overcast sky appear like the painted strips of a Minimalist canvas, until our eyes begin to notice the details: the fluffy tufts of grass, the choppy waves, and the layers of clouds. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Rhine II&lt;/i&gt; showcases Gursky's regular dialogue between painting and representation. In it we see his ability to create precieved simplicity and borderline abstraction with conceptual depth. The smooth strips of water and land move horizontally across the frame reminiscent of a Barnett Newman monochrome color field painting. This feeling caused by the abstraction touches on the ideas of the sublimity and the beauty of nature that were explored in the 18&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; century Romanticism period as well. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although Gursky's work may draw comparison to painterly forebears in its visual acumen, he goes beyond these simple comparisons by making the ideas of photographic possibility a central, underlying motive in his work. For example, in making this image Gursky said that he "wasn't interested in an unusual, possibly picturesque view of the River Rhine, but in the most contemporary possible view of it" meaning he wanted to critically examine the river in the context of the current time period instead of focusing on an aestetically beautiful experience or idealized landscape. By removing "the elements that bothered me" through the use of progressive digital manipulation technology, such as buildings and people, Gursky calls attention toward recognizing those everyday spaces we populate without any remarkable narrative or distracting action. This type of innovation positioned Gursky as a forefather of the digital world, paving the way for today's influx of artists working in the medium. 
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Chicago, Board of Trade, II</title>
+      <year>1999</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				This piece is a large color chromogenic print depicting the Chicago Board of Trade Building. Shot from Gursky's signature aerial viewpoint, the photograph lends a privileged birds-eye-view glimpse into the chaos and frenzy of an ordinary day on the trading room floor. Jam-packed figures bustle about a maze of railings, desks, televisions, and computer monitors as white pieces of paper litter the floor. The artist's choice of perspective, distance, double exposure and his layering of some areas visually flattens the scene, causing the figures to melt together in clusters of yellow, orange, and blue. As a whole, the scene brings to mind the frantic drips of color in a Jackson Pollock painting. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Chicago, Board of Trade, II&lt;/i&gt; is part of a series of related images of international stock exchanges including Singapore Simex and the Hong Kong Stock Exchange. The Chicago Board of Trade is one of the world's oldest options and futures exchanges. However, the viewer is kept at a distance that obscures details of the location, activity, and subsequent participants. Instead of examining the minute details involved in this particular business, the composition leads the eyes throughout the floor in a search of pattern, shape, and color. In this way, the image is captivating - a push/pull between comprehending the rush of activity depicted involving trade and currency and the detached aesthetic experience one gains from visually absorbing the scene. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although actual physical space is undeniably important to Gursky, in this piece he is trying to present it in a more abstract way, attempting to understand, "not just that we are living in a certain building or in a certain location, but to become aware that we are living on a planet that is going at enormous speed through the universe...I read it more for what is going on in our world generally." With this in mind, this photograph is not simply an observation of the location, rather an investigation into two major themes of the artist's &lt;i&gt;oeuvre&lt;/i&gt;: it is a microcosm of contemporary commerce in an epicenter of globalism. 
+			</desc>
+      <collection>Museum of Contemporary Art Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>Bahrain I</title>
+      <year>2005</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				&lt;i&gt;Bahrain I&lt;/i&gt;, (2005) is a photograph depicting the motorsport racetrack that plays host to Bahrain's annual Formula One Grand Prix. It is a part of a larger body of work, the &lt;i&gt;F1 Boxenstopp (F1 Pit Stop)&lt;/i&gt; series, consisting of photographs taken at Formula One tracks throughout the world. From a lofty viewpoint, the image reveals a wide scale section of the empty black track cutting through beige desert. There is a grandstand in the center upper third of the image and a cluster of buildings in the horizon below a gray, cloudless sky - these markers allow the viewer to get a sense of what is presented, while the rest of the image looks quite abstract.
+				&lt;br/&gt;&lt;br/&gt;
+				A helicopter ride helped Gursky capture a large enough portrait of the track so that the resulting portrait becomes one the viewer is not ordinarily privy to. From this perspective, and through some photo manipulation, he succeeded in transforming a basic track into rich dark ribbons reminiscent of brushstrokes weaving through sand. The piece becomes a study of the riveting sinews of physical form; the juxtaposition between color, pattern, and landscape; and an exploration of how humans physically reshape their environment, in this case for sport and entertainment. 
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Amazon</title>
+      <year>2016</year>
+      <materials>Chromogenic Print</materials>
+      <desc>
+				&lt;i&gt;Amazon&lt;/i&gt; (2016) is a grand thirteen by eight-foot photograph depicting the inside of an Amazon distribution center in Phoenix, Arizona. Using an elevated platform to get the desired vantage point, Gursky captured a sea of books aligned in rows in front of storage shelves containing cardboard boxes. The wide depth of field and a distinct manipulation of pixels allow the entire scene to dwell in focus thus changing the natural foreground/background relationship into "a world without hierarchy, in which all the pictorial elements are as important as each other." Digital manipulation of the original image pushes it past simple observation to an aesthetic experience of rhythmic patterns, colors, and textures. 
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				His images of repetitive (and endless) patterns of the world connect Gursky to the notion of the Sublime.  The famous Argentinian writer Jorge Luis Borges wrote in his story &lt;i&gt;The Library of Babel&lt;/i&gt;: "The universe (which others call the Library) is composed of an indefinite and perhaps infinite number of hexagonal galleries". Similarly, art critics have described Gursky's tableaux as infinite, and thereby almost beyond human comprehension.
+
+				&lt;br/&gt;&lt;br/&gt;
+
+				Rhythm, in both obvious and subtle forms is an important element to Gursky's process and work. In an interview with his collaborator and friend Richie Hawtin, he draws parallels between their work - "you put the components into rhythm with each other, which is very related to my process as well. I follow a similar convention of composition in my latest works such as &lt;i&gt;Amazon&lt;/i&gt;." Furthermore, he states, "my repetitive pictorial patterns and your minimalistic structures of sound overlap."
+				&lt;br/&gt;&lt;br/&gt;
+				This center of e-commerce, Gursky says is, "a sign of our times. Amazon is a company that you can't ignore, and for me it doesn't matter if it's in Germany or the United States." Knowing that this massive quantity of books is for sale through one of the international powers of e-commerce speaks to societal patterns of the contemporary world.				
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>beuys_joseph</entity>
+        <entity>richter_gerhard</entity>
+        <entity>bernd_hilla_becher</entity>
+        <entity alt="Kasper Koenig">koenig_kasper</entity>
+        <entity alt="John Davies">davies_john</entity>
+      </column>
+      <column />
+      <column>
+        <entity alt="Industrial Photography">industrial_photography</entity>
+        <entity>new_objectivity</entity>
+        <entity>abstract_expressionism</entity>
+        <entity>minimalism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Candida Höfer">hofer_candida</entity>
+        <entity alt="Edward Burtynsky">burtynsky_edward</entity>
+      </column>
+      <column>
+        <entity alt="Sven Väth">vath_sven</entity>
+        <entity alt="Axel Hütte">hutte_axel</entity>
+        <entity alt="Laurenz Berges">berges_laurenz</entity>
+        <entity alt="Thomas Struth">struth_thomas</entity>
+        <entity alt="Thomas Ruff">ruff_thomas</entity>
+      </column>
+      <column>
+        <entity alt="Düsseldorf School">dusseldorf_school</entity>
+        <entity alt="Contemporary Landscape Photography">contemporary_landscape_photography</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Andreas Gursky</title>
+          <link>0870700162</link>
+          <info>By Peter Galassi</info>
+        </entry>
+        <entry>
+          <title>Andreas Gursky: Landscapes</title>
+          <link>0847849120</link>
+          <info>By Terrie Sultan</info>
+        </entry>
+        <entry>
+          <title>Andreas Gursky</title>
+          <link>3936859620</link>
+          <info>By Thomas Weski</info>
+        </entry>
+        <entry>
+          <title>Andreas Gursky: Architecture</title>
+          <link>3775721770</link>
+          <info>By Ralf Beil</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Official Artist Website</title>
+          <link>http://www.andreasgursky.com/en</link>
+          <info />
+        </entry>
+        <entry>
+          <title>MoMA interactive profile based off his March 4 - May 15, 2001 retrospective</title>
+          <link>https://www.moma.org/interactives/exhibitions/2001/gursky/index.html</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Andreas Gursky profile on gallery representative, Gagosian's site</title>
+          <link>http://www.gagosian.com/artists/andreas-gursky</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Andreas Gursky is Taking Photos of Things That Do Not Exist</title>
+          <link>https://nyti.ms/2FrU2kJ</link>
+          <info>
+						By Farah Nayeri
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						January 29, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Analysis and inclusion of Gursky at one of American Photo's "Top 5 Most Influential Photographers of the Last 25 Years"</title>
+          <link>http://www.americanphotomag.com/influencers-andreas-gursky</link>
+          <info>
+						By Michael Kaplan
+						&lt;br&gt;
+						AmericanPhotoMag.com
+						&lt;br&gt;
+						December 31, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>10 Things You Need to Know About Andreas Gursky</title>
+          <link>http://www.standard.co.uk/goingout/exhibitions/ten-things-you-need-to-know-about-andreas-gursky-9247895.html</link>
+          <info>
+						The Evening Standard
+						&lt;br&gt;
+						April 9, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="other" class="interviews">
+        <entry recommended="true">
+          <title>Conversation between Gursky and Richie Hawtin about their 2014 collaboration for the exhibition, Not Abstract II (2016)</title>
+          <link>https://www.theguardian.com/artanddesign/2016/nov/10/andreas-gursky-richie-hawtin-not-abstract-new-york</link>
+          <info>
+						By Alex Rainer
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						10 November 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Soundscape from collaboration with Richie Hawtin for his exhibition Not Abstract II (2016)</title>
+          <link>https://soundcloud.com/richiehawtin/richie-hawtin-mod9ex</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Conversation between Gursky, Richie Hawtin and Laura Käding</title>
+          <link>https://creators.vice.com/en_au/article/exclusive-andreas-gursky-richie-hawtin-nicht-abstract</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Interview with Nate Freeman regarding his exhibition Not Abstract (2016)</title>
+          <link>http://www.artnews.com/2016/11/11/its-not-just-an-imitation-of-painting-andreas-gursky-on-his-photos-of-tulips-german-leaders-and-amazon-storage-facilities-at-gagosian/</link>
+          <info>
+						Artnews
+						&lt;br&gt;
+						11 November 2016 
+					</info>
+        </entry>
+        <entry>
+          <title>Interview with Kyra Kordoski regarding his exhibition Werke/Works 80-08 (2009)</title>
+          <link>https://whitehotmagazine.com/articles/andreas-gursky-vancouver-art-gallery/1893</link>
+          <info>
+						White Hot Magazine 
+					</info>
+        </entry>
+        <entry>
+          <title>Interview with Nancy Tousley</title>
+          <link>http://canadianart.ca/features/andreas-gursky-insight/</link>
+          <info>
+						Canadian Art
+						&lt;br&gt;
+						9 July 2009
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Profile of Gursky by director Ben Lewis</title>
+          <link>https://vimeo.com/17692722</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Installation Gursky's work at the Louisiana Museum of Modern Art</title>
+          <link>https://www.youtube.com/watch?v=w1JNSgPiGgM</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

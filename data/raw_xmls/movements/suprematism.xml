@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>suprematism</id>
+    <name>Suprematism</name>
+    <type>movement</type>
+    <head_title>Suprematism Movement</head_title>
+    <active_section>movements</active_section>
+    <description>Suprematism was one of the most radical developments in abstract art that was meant to be superior to all prior, and that would lead to art's barest essentials.</description>
+    <use_big_images>true</use_big_images>
+    <start>1913</start>
+    <end>Late 1920s</end>
+    <image_desc>true</image_desc>
+    <img_version>?3</img_version>
+    <pub_time>1/21/2012</pub_time>
+	<repub_time>9/30/2022</repub_time>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>Reflecting on the birth of Suprematism, Malevich stated, "In 1913, trying desperately to liberate art from the ballast of the representational world, I sought refuge in the form of the square". And in so doing he envisioned "The first step of pure creation".</bio_highlight>
+  </main>
+  <similar_artists>
+    <artist>malevich_kasimir</artist>
+    <artist>chashnik_ilya</artist>
+    <artist>lissitzky_el</artist>
+    <artist>rodchenko_alexander</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>russian_futurism</movement>
+    <movement>constructivism</movement>
+    <movement>rayonism</movement>
+    <movement>futurism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>suprematism</entry>
+    <entry>rayonism</entry>
+    <entry>russian_futurism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="lissitzky_el">"Suprematism has advanced the ultimate tip of the visual pyramid of perspective into infinity.... We see that Suprematism has swept away from the plane the illusions of two-dimensional planimetric space, the illusions of three-dimensional perspective space, and has created the ultimate illusion of irrational space, with its infinite extensibility into the background and foreground."</q>
+    <q author="Kazimir Malevich">"By 'Suprematism' I mean the supremacy of pure feeling in creative art. To the Suprematist the visual phenomena of the objective world are, in themselves, meaningless; the significant thing is feeling."</q>
+    <q author="Kazimir Malevich">"Only with the disappearance of a habit of mind which sees in pictures little corners of nature, madonnas and shameless Venuses, shall we witness a work of pure, living art.</q>
+    <q author="Kazimir Malevich">I say to all: reject love, reject aestheticism, reject the trunks of wisdom, for in the new culture your wisdom is laughable and insignificant. I have untied the knot of wisdom and set free the consciousness of color! Remove from yourselves quickly the hardened skin of centuries, so that you can catch up with us more easily. I have overcome the impossible and formed gulfs with my breathing. You are in the nets of the horizon, like fish! We, the Suprematists, throw open the way to you. Hurry! For tomorrow you will not recognize us.</q>
+    <q author="Alexander Rodchenko">"I reduced painting to its logical conclusion and exhibited three canvases: red, blue, and yellow. I affirmed: this is the end of painting"</q>
+    <q author="Kazimir Malevich">"I transformed myself in the zero form and emerged from nothing to creation, that is, to Suprematism, to the new realism in painting- to non-objective creation"</q>
+    <q author="El Lissitzky, 1918">"[Suprematism] will liberate all those engaged in creative activity and make the world into a true model of perfection. this is the model we await from Kasimir Malevich. AFTER THE OLD TESTAMENT THERE CAME THE NEW — AFTER THE NEW THE COMMUNIST — AND AFTER THE COMMUNIST THERE FOLLOWS FINALLY THE TESTAMENT OF SUPREMATISM."</q>
+    <q author="El Lissitzky">"And amid the thunderous roar of a world in collision WE, ON THE LAST STAGE OF THE PATH TO SUPREMATISM BLASTED ASIDE THE OLD WORK OF ART LIKE A BEING OF FLESH AND BLOOD AND TURNED IT INTO A WORLD FLOATING IN SPACE. WE CARRIED BOTH PICTURE AND VIEWER OUT BEYOND THE CONFINES OF THIS SPHERE AND IN ORDER TO COMPREHEND IT FULLY THE VIEWER MUST CIRCLE LIKE A PLANET ROUND THE PICTURE WHICH REMAINS IMMOBILE IN THE CENTER. The empty phrase 'art for art's sake' had already been wiped out."</q>
+    <q author="Kazimir Malevich">"I have broken the blue boundary of color limits, come out into the white; beside me comrade-pilots swim in this infinity"</q>
+  </quotes>
+  <authors>
+	<author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+		<editor link="todd">Antony Todd</editor>
+	</editors>
+  <article>
+		<synopsys>Suprematism, the creation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-malevich_kasimir"&gt;Kazimir Malevich&lt;/span&gt;, was amongst the first, and highly radical, developments in abstract art. Its name related to Malevich's belief that Suprematist art would lead to the "supremacy of pure feeling or perception in the pictorial arts". Influenced by Russian avant-garde writers and poets, Malevich flouted the “old” rules or written language that were connected to storytelling. Inspired by this new way of thinking, Malevich rejected the idea that art should “copy nature”, and envisioned rather the possibility for an abstract art reduced to its most fundamental geometric forms. And, following the poets and literary critics who were interested in questioning what it was that constituted verse and prose, Malevich set about asking the same basic questions of art. </synopsys>
+		<key_ideas>
+			<idea>Suprematism focused on the application of elementary geometric forms such as the square, the cross, and the circle. Suprematists also explored the idea of non-Euclidean geometry; that being a practice that “defied logic” by giving the illusion of fixed geometric forms floating or moving in space. The movement’s simplification of form and color proved influential, especially through the efforts of Malevich’s famous understudy &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lissitzky_el"&gt;El Lissitzky&lt;/span&gt;, in the development of later avant-gardes including the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt; schools.</idea>
+			<idea>The Suprematists were in search of the point at which abstract art could be reduced to its most fundamental form, what Malevich called art’s “zero degree”. The “zero degree” was represented by his (in)famous &lt;i&gt;Black Square&lt;/i&gt; and &lt;i&gt;White on White&lt;/i&gt; paintings. Their emphasis on reduced geometric forms also compelled viewers to consider the texture of the painted surface. This too became a defining feature of the Suprematist project.</idea>
+			<idea>Although Suprematist art was austere and cerebral, there was still a tone of the anti-rational underpinning the movement. One of Malevich's initial inspirations was Zaum, or “transrational” poetry, that carried something of an absurdist quality. Malevich conceived of Suprematism indeed as a type of “transrational” painting. However, in Russian avant garde circles, anti-rationalism did not deny science or rule out scientific and mathematical research in the name of spontaneous expression. </idea>
+			<idea>While the idealism of Suprematism made it unsuitable for the socio-political Constructivist agenda, the gap between Suprematism and Constructivism was successfully spanned by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodchenko_alexander"&gt;Alexander Rodchenko&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lissitzky_el"&gt;El Lissitzky&lt;/span&gt; who took forward Suprematism’s basic colors and shapes, and even the idea of movement, under the strict materialist aims of the Constructivist movement.</idea>
+		</key_ideas>
+		<sections>
+			<section title="Beginnings">
+				<subsection title="">
+					<p type="img" alt="Kazimir Malevich, the creator of Suprematism, photographed around the turn of the 19&lt;sup&gt;th&lt;/sup&gt; – 20&lt;sup&gt;th&lt;/sup&gt; century." show="1">/images20/photo/photo_suprematism_1.jpg</p>
+					<p type="p">Suprematism, the first movement in art to promote pure geometrical abstraction, can be attributed to a single man, the Kyiv-born Russian, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-malevich_kasimir"&gt;Kazimir Malevich&lt;/span&gt;. Leaving behind his Cubo-Futurist leanings (the Cubo-Futurists was a uniquely Russian movement that combined elements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;), Malevich’s first Suprematist experiments were simple pencil drawings featuring a black square that appeared to “float” against its white background. In 1913, Malevich joined composer Mikhail Matyushin and poets Aleksei Kruchenykh and Velimir Khlebnikov (creators of the “behind the mind” Futurist poetry known as “Zaum”) to produce the “anti-rationalist” opera &lt;i&gt;Victory Over the Sun&lt;/i&gt;, which was first staged in St. Petersburg in the same year. Malevich was responsible for the costume designs, which he created using simple geometric shapes, and the plain black and white décor, while the stage itself took the form of simple square. Although it retained remnants of Cubo-Futurism, Malevich proclaimed that, through its reductive simplicity, &lt;i&gt;Victory Over the Sun&lt;/i&gt; was the first flowering of Suprematism. </p>
+				</subsection>
+				<subsection title="Faktura">
+					<p type="p">In 1914 Vladimir Markov published a dense theoretical treatise entitled “The Principles of Creativity in the Plastic Arts: Faktura”. For Markov, faktura related to the surface texture of anti-academic artworks that was shared in “the field of sculpture, and architecture, and in all those arts where a certain ‘noise’, produced with colors, sounds and with other methods, is perceived in one way or another by consciousness”. Faktura creates a conflict (“noise”) in the viewers’ field of perception and Malevich’s own thinking was greatly influenced by this idea. </p>
+					<p type="p">Malevich defined faktura as a kind of “noise” (or what he called “chaos”) that abstraction creates in the viewer’s consciousness because that viewer has been conditioned historically to perceive art as a kind of harmonic natural order. Historian Irina Lyubchenko writes “Malevich’s definition of noise as an outcome of the conflict in the consciousness of the spectator prompts an analogy between the nervous system and a radio receiver that is not tuned to the frequency an artwork transmits its harmony on, allowing one to hear only the hiss of radio noise. It is the artist’s role to attune the perception apparatus of the viewer — the process that enables the perceptual shift necessary for sensing the harmony of new realism”. </p>
+					<p type="p">There was a spiritual dimension to the idea of faktura too. It was a way of leaving behind the “tangible world” and to enter a new sphere; that being the sphere of the Divine. Lyubchenko writes, “the creative act is stimulated by an attempt to give form to the experience of the Divine in such a way as to allow re-entering the state of spiritual insight granted by the original experience [of primeval man]. It is as if a diminished presence of the Divine is stored in the artwork’s form”.</p>
+				</subsection>
+				<subsection title="The Last Futurist Exhibition of Painting 0.10">
+					<p type="img" alt="&lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt;, Petrograd (winter 1915-16). Malevich placed his &lt;i&gt;Black Square&lt;/i&gt; in the top corner of the room. It was a place usually reserved by Russians for religious icons." show="1">/images20/photo/photo_suprematism_2.jpg</p>
+					<p type="p">In 1915, Malevich was joined by Russian artists Kseniya Boguslavskaya, Ivan Klyun, Mikhail Menkov, Ivan Puni, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rozanova_olga"&gt;Olga Rozanova&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-popova_lyubov"&gt;Lyubov Popova&lt;/span&gt;. They announced themselves as the Suprematist group at &lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt; in Petrograd (formally St. Petersburg) in the winter of 1915-16. Their works (including 39 by Malevich) featured an array of geometric shapes suspended above a white or light-colored background. The variety of shapes, sizes and angles created a sense of depth in these compositions with squares, circles and rectangles appearing to be floating in, or moving through, space. </p>
+					<p type="p">Malevich complimented the exhibition with brochures and lectures extolling the virtues of Suprematism and published his manifesto, &lt;i&gt;From Cubism and Futurism to Suprematism in Art&lt;/i&gt;, in which he argued that Suprematism had brought about a new sense of awareness and transcendence in art. Historian Martin Dean writes, “In developing Suprematism [Malevich] sought to transcend form entirely, creating works which did not reference an environment and its objects, but instead expressed the pure feeling at the heart of the creative impulse. In doing so, he created non-objective work that sought to escape the rational, rigid world where expression was mediated by the conditions and contents of the environment”.</p>
+					<p type="p">Suprematism can be seen as the culmination (in Russia at least) of Futurism’s interest in dynamism and Cubism’s reduced geometric forms with Malevich declaring that Suprematism had passed beyond the boundaries of reality into a new awareness. The motifs in his Suprematist paintings had narrowed to include only the circle, square and rectangle. Several critics have interpreted these motifs as references to mystical ideas, and some of Malevich's more florid and opaque pronouncements seemed to offer support for this view. Of his use of the circle, for instance, he declared, "I have destroyed the ring of the horizon and escaped from the circle of things". Malevich went in search of art’s “vanishing point”, and by reducing it to basic shapes (squares, circles, crosses) one could create art that was nothing more (or nothing less) than a “supremacy of feeling”.</p>
+				</subsection>
+				<subsection title="Malevich’s Phases of Suprematism">
+					<p type="p">Under Malevich’s direction, Suprematism evolved through three overlapping phases: black, color, and white. Each phase presented paintings that explored a different geometric combination, but each was linked by Malevich’s ideal form, the square. As historian JW Harrington writes, “Malevich declared his ‘stages’ of Suprematism conceptually, superimposing that conception on the actual chronology of his [own] painting” and that he had in fact conceptualized and painted color works, such as &lt;i&gt;Suprematist Painting (with Black Trapezium and Red Square&lt;/i&gt;), before he “arrived at the negation of color in &lt;i&gt;Black Square&lt;/i&gt;”. </p>
+					<p type="p">The “black” phase earns its name simply because most of Malevich’s paintings featured black forms on a white background. It was in this phase that he produced &lt;i&gt;Black Square&lt;/i&gt; (1913-15) – the so-called “zero degree” in painting - that is not just the most iconic work in the Suprematist canon, but also one of the landmark works/events in the development of abstract art &lt;i&gt;per se&lt;/i&gt;. &lt;i&gt;Black Square&lt;/i&gt; (painted in 1915 but dated 1913, when Malevich claimed to have first conceived of the idea) was, in Malevich’s words, "a living, royal infant" and “the face of a new art”. &lt;i&gt;Black Square&lt;/i&gt; became a symbol of the new movement and carried spiritual significance for many avant-gardists. It was such radical idea others were not won over and accused Malevich of artistic nihilism. The artist and critic Alexandre Benois, for example, denounced &lt;i&gt;Black Square&lt;/i&gt; as a "sermon of nothingness and destruction". Undeterred by such criticism, Malevich described the &lt;i&gt;Black Square&lt;/i&gt; as “the first step of pure creation in art. Before it, there were naïve deformities and copies of nature”. </p>
+					<p type="img" alt="&lt;i&gt;Suprematist Composition&lt;/i&gt; (1916). In the “color phase” of Suprematism, Malevich explored the potential for color to accelerate the illusion of movement.  " show="1">/images20/photo/photo_suprematism_3.jpg</p>
+					<p type="p">In the “color” phase, sometimes referred to Dynamic Suprematism, Malevich incorporated a limited color range. By widening his palette (albeit moderately), Malevich was able to experiment with shape and color relations that challenged accepted ideas of pictorial harmony and created a greater sensation of movement and energy. Olga Rozanova had begun producing colored geometric collages around 1915 and, while supportive of Dynamic Suprematism as a concept, she accused Malevich of stealing her ideas (a claim that is debated by historians).  Harrington notes that after she exhibited four three-dimensional works at &lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt; in 1915, Rozanova started to distance herself from Malevich but that her “color experiments and resultant paintings influenced Malevich’s later Suprematist work”. Harrington concludes, however, that “By late 1917, Malevich began producing paintings in which colored shapes dissipate into the white ground”. It was a process Malevich described as “dissolution”. </p>
+					<p type="p">In the “white” phase, Malevich’s painting &lt;i&gt;White on White&lt;/i&gt; (1918) (there were in fact four versions with subtle variations between each) was the apex of the Suprematist movement. Dispensing with form almost entirely, &lt;i&gt;White on White&lt;/i&gt; presented art as ostensibly nothing more than an idea or concept (hence Malevich’s use of the term “dissolution”). The painting was exhibited at the &lt;i&gt;Tenth State Exhibition: Non-objective Creation and Suprematism&lt;/i&gt; in 1919. Malevich wrote, “even the color white is still white, and to show shapes in it, it must be created so that the shape can be read, so that the sign can be taken in. And so there must be a difference between them but only in the pure white form”. </p>
+				</subsection>
+			</section>
+			<section title="Concepts, Styles and Trends">
+				<subsection title="Abstraction">
+					<p type="img" alt="Wassily Kandinsky, &lt;i&gt;Composition 6&lt;/i&gt; (1913). Kandinsky was interested in spiritualism which he sought to express through non-representational patterns rendered in brilliant colors which he likened to musical compositions." show="1">/images20/photo/photo_suprematism_4.jpg</p>
+					<p type="p">Abstract – or “non-objective” or “non-representational” - art was a phenomenon that took hold within the European &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; during the second decade of the 20&lt;sup&gt;th&lt;/sup&gt; century. Russia can claim to have given birth to two of abstract art’s greatest pioneers, Malevich, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; (who, having made his name earlier in the decade as a co-founder of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-der_blaue_reiter"&gt;Der Blaue Reiter&lt;/span&gt; movement, returned to Moscow between 1914-21). But, as the author David W. Galenson has pointed out, there were clear differences in terms of the methods and aims of the two artists (and, in Kandinsky’s case, a certain antipathy towards the work of his compatriot which at the time overshadowed his own). Galenson writes, “Kandinsky dreamed of an abstract art that would originate in nature, in which natural forms would be simplified and harmonized through the judgment of sensitive and experienced artists. In contrast, Malevich foresaw an abstract art that rejected nature, in which mathematics would be used systematically to construct revolutionary new forms that would become understood as symbols of the dynamism of a revolutionary new society”. </p>
+					<p type="p">Galenson refers to a recent survey of “several hundred important artists” that indicates that “artistic innovators can broadly be divided into two groups". The first are called “Experimental Innovators” and encompasses artists like Kandinsky who “generally have imprecise visual goals [and whose] innovations consequently appear gradually, over long periods, as they make discoveries in the process of executing their paintings”. Malevich belongs to the second category, “Conceptual Innovators”. In this category, the artist’s methods and goals of the artwork are “stated clearly, before its execution, and [the artist] can consequently plan their paintings precisely and execute them systematically. Conceptual innovations appear suddenly, as the embodiment of new ideas”. </p>
+					<p type="p">Under Galenson’s diagram, one might even draw direct comparisons between the emergence of Suprematism to that of Cubism. As he says, “Recognizing the difference between the empirical seeker Kandinsky and the conceptual finder Malevich serves to give us a deeper understanding of their attitudes and their achievements. Like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Cézanne&lt;/span&gt; and other great experimental artists, Kandinsky worked cautiously and slowly toward an uncertain aesthetic goal, whereas Malevich, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; and other conceptual innovators, proceeded rapidly and confidently toward an art that expressed his ideas. Kandinsky’s impact was greatest on later artists whose concern was with the aesthetic values of their work, whereas Malevich became an inspiration for later conceptually-minded artists, for having “’liberated the concept of painting from that of picturing’”.</p>
+				</subsection>
+				<subsection title="Anti-Rationalism">
+					<p type="p">Given that Suprematist art was essentially a product of the intellect, it might seem counter-intuitive to speak of an irrational impulse underpinning the movement. But one of Malevich's earliest influences was the anti-rational &lt;span class="marked_text chart-tooltip-target-top tooltip_id-russian_futurism"&gt;Russian Futurist&lt;/span&gt; poetry, Zaum. Although his association with Futurism would prove to be relatively short lived, Malevich, as historian Charles Harrison observes, “was among those many European artists for whom the transitional self-image of a ‘Futurist’ was the means to disavow provincialism, to express impatience with the conservative in culture and to assert a commitment to idea of a modernized world”. Zaum was designed to be read aloud - to be performed - and to communicate, not through grammar and syntax, but through sound patterns that crossed all language barriers. One of the best-known examples of Zaum poetry was Velemir Khlebnikov’s "Incantation of Laughter" (1908-09). In the poem Khlebnikov (for whom Malevich provided book illustrations and who wrote the prologue for &lt;i&gt;Victory Over the Sun&lt;/i&gt;) selected words and sounds that are similar to the Russian word for laughter (“smex”). </p>
+					<p type="p">And yet, Suprematism was essentially the product of a deductive reasoning in that it was produced to support an existing idea, or thesis.  It is the opposite of inductive reasoning which produces (or can produce) anti-rationalist works (such as Zaum poetry) that privilege the sensory and the emotive over logic and reason. Anti-rationalists (and in art one probably thinks first and foremost of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaists&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt; in this sphere) oppose the rationalist idea on the grounds that the work is essentially completed in the artist’s mind before it has been painted (we might recall that Malevich often backdated his paintings to acknowledge the date they were conceived of as an idea rather than when they were painted). </p>
+					<p type="p">But, as the literary historian Sergei Kibal’nik observes (citing Semen Frank), in Russian culture there is an important distinction to be observed between the “anti-rational” and the “irrational”. Frank wrote, “The Russian way of thinking is anti-rationalist. This anti-rationalism, however, is not identical with irrationalism, that is some kind of Romantic and lyrical vagueness, a logical disorder of spiritual life. [Russian anti-rationalism] does not involve either a tendency to deny science or the inability to carry out scientific research”. Indeed, Malevich’s take on Suprematism was that it should symbolize the cosmos (rather than try to represent it). Indeed, Kibal’nik calls Suprematist paintings “hypothetical images, conceptual images, plastic formulation images, ‘factorizations’ carried out by the artist’s imagination”.</p>
+				</subsection>
+				<subsection title="Suprematism and Soviet Socialism">
+					<p type="p">Artworks, of whatever stripe, cannot deny their time and place of production and, especially with his audacious &lt;i&gt;Black Square&lt;/i&gt; painting (1913-15), Malevich had caused a revolution within the Russian avant-garde. As art historian Mike O’Mahony writes, &lt;i&gt;Black Square&lt;/i&gt; was presented by Malevich “not as a culminating point but as a new beginning, a &lt;i&gt;tabula rasa&lt;/i&gt; [“clean slate”] upon which new cultural forms and ideas could be developed”. (“We, Suprematists, throw open the way to you. Hurry! - For tomorrow you will not recognize us”, wrote Malevich, in “From Cubism and Futurism to Suprematism: The New Realism in Painting”, in 1916.)</p>
+					<p type="p">The rise of Suprematism anticipated the onset of the Bolshevik Revolution (of 1917) and Malevich was a vocal supporter of the Bolshevik cause. He wrote in 1917: "The powerful storm of revolution has born off the garret [attic room], and we, like clouds in the firmament, have sailed to our freedom […] our spirit like a free wind, will make our creative work flutter in the broad spaces of the soul”. Indeed, Malevich believed naively that the art of the Revolution would remain “quite apart from the environment in which it is called forth” and would contain no visual reference to the material world from which it had risen. </p>
+					<p type="p">Harrison did not believe “that ‘revolutions’ in art cause social revolutions or provoke wars”. He did argue, however, that “the faith in human capacities which impelled those [such as Malevich] who entertained ideas of abstract art may have been realistic to this extent: firstly that the form of faith involved may have been consistent with the state of mind (the bravery) required to envisage a progressive social and historical change, and secondly that there may have been practical grounds for believing such a change was worth pursuing” (namely the imminent Bolshevik Revolution). Sadly (from the Suprematist point of view) the conceptual nature (ergo “difficulty”) of the movement did not fit with the socialist/materialist aims of a nascent Soviet Union. However, Suprematism did provide the point of departure for Russian avant-gardists as it evolved into &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;. Indeed, Suprematism’s aesthetic (if not its ideological) principles provided the foundations for the propagandist Constructivism movement and were carried forward to greatest effect by Malevich’s two most famous understudies, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lissitzky_el"&gt;Lazar (“El”) Lissitzky&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodchenko_alexander"&gt;Alexander Rodchenko&lt;/span&gt;.    </p>
+				</subsection>
+			</section>
+			<section title="Later Developments">
+				<subsection title="From Suprematism to Constructivism">
+					<p type="p">Constructivism was conceived of out of a need for a new aesthetic language, already provided by the Suprematists, that would serve a new era in Soviet socialist history. At its heart was the idea that artmaking should be approached as a process of cerebral “construction”. Rejecting the old romantic stereotype of the artist tied to the studio and the easel, Constructivist artists were reborn as technicians and/or engineers who were not caught up in the “folly” of painting pictures but were rather seeking constructive solutions to modern day problems. To the layperson, it might even be difficult to distinguish between the two movements (El Lissitzky was, for example, active in Suprematism, Constructivism, and International Constructivism) but the Constructivists were united in their commitment to the idea that their art would meet its utilitarian goals by representing Bolshevik interests. </p>
+					<p type="img" alt="Malevich and El Lissitzky both have a black square on the sleeves of their jackets, displaying their union in the short lived UNOVIS group (1919-22), a collective that practiced the principles of Malevich's Suprematism." show="1">/images20/photo/photo_suprematism_5.jpg</p>
+					<p type="p">By the turn of the decade Malevich had turned his energies towards teaching and writing. At the Vitebsk Art School, he led the UNOVIS group (which included El Lissitzky) that started to promote Suprematism through different mediums. Malevich himself produced architectural models and even designs for fabric and ceramics. He had by now come around to the idea that Suprematism might have a utilitarian function but on the strict stipulation that (what were in effect) Constructivist designs “have in them no trace of an ‘artistic’ imitation of natural forms [and] they are new creations of human culture”. </p>
+					<p type="p">However, as Harrison has observed, by the early 1920s “there was an increasing tendency for the avant-garde factions in Russia to polarize along the lines of that split between idealists [Suprematists] and materialists [Constructivists]”. Harrison adds that in 1921 Malevich had made a failed attempt to transfer to the newly formed INKhUK (institute of Artistic Culture) in Moscow. He writes, “Opposition came from the Leftist majority of artists in INKhUK, who had already rejected a programme drawn up by Kandinsky and who were concerned to re-establish the practice of art on the model of technical laboratory work or as a form of utilitarian production in the rhetoric of the Constructivists, ‘art’ and ‘style’ were associated with (bourgeois) ‘ideology’ and ‘constructivism’ and ‘line’ with ‘intellectual production’ and thus with labour”.   </p>
+					<p type="img" alt="&lt;i&gt;Boy&lt;/i&gt; (c. 1928) represents Malevich’s forlorn attempts to reconcile Suprematism with the official state art, Socialist Realism." show="1">/images20/photo/photo_suprematism_6.jpg</p>
+					<p type="p">But by the early 1930s, all elements of the Russian avant-garde had fallen victim of Stalin’s hostility towards abstraction and intellectualism in art, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-socialist_realism"&gt;Socialist Realism&lt;/span&gt; newly established as the official art of the state. But the 1920s was a transitional decade in Russian art during which time idealist (Suprematist), materialistic (Constructivist) and Social Realist art overlapped. The Constructivist sculptors (and brothers) &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gabo_naum"&gt;Naum Gabo&lt;/span&gt; and Antoine Pevsner, for instance, baulked at the idea that art should express specific Bolshevik doctrines or meet prescribed utilitarian goals and duly co-authored the “Realistic Manifesto” of Constructivism in 1920 through which they insisted that “true art” must remain independent of all state interests. In the case of Malevich, meanwhile, Harrison writes, “In the late 1920s and early 1930s we find Malevich ‘combining’ Suprematist form and color with stereotypical human figures. If this image of confrontation between Abstraction and Socialist Realism represents an actual struggle, it was one in which there could be no victor. At best there was the possibility that the struggle itself could be continued, as it seems to have been, at least intermittently, to the end of Malevich’s career as a painter” (he died in 1935).  </p>
+					<p type="p">Outside of Russia the Suprematist aesthetic would take on new life in avant-garde circles. El Lissitzky, who unveiled his famous &lt;i&gt;Proun Room&lt;/i&gt; at the Great Art Exhibition in Berlin in 1923, proved the pivotal link between Suprematism and the formation of International Constructivism and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt; schools. Between them, these movements/schools extended Suprematist motifs across art, architecture, typography, exhibition design, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photomontage"&gt;photomontage&lt;/span&gt;, and book design.  One might also acknowledge Malevich’s &lt;i&gt;White on White&lt;/i&gt; for its totemic-like influence on the development of monochromatic art. </p>
+				</subsection>
+			</section>
+		</sections>
+	</article>
+  <similar_artworks>
+    <artwork from="movement" page="constructivism">Pure Red Color, Pure Yellow Color, Pure Blue Color (1921)</artwork>
+    <artwork from="movement" page="bauhaus">Homage to the Square: Dissolving/Vanishing (1951)</artwork>
+    <artwork from="movement" page="minimalism">Two Open Modular Cubes/Half-Off (1972)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity/>
+      </column>
+      <column>
+        <entity/>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity/>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+		<artwork>
+			<title>Study for Décor for Victory Over the Sun</title>
+			<artist>Kazimir Malevich</artist>
+			<year>1913</year>
+			<materials>Pencil on paper</materials>
+			<desc>
+				Malevich collaborated with Alexei Kruchenykh and Mikhail Matiushin on the decor for the Futurist opera, &lt;i&gt;Victory Over the Sun&lt;/i&gt;, performed for the St. Petersburg Union of Youth, in December 1913. The Futurist movement that inspired the opera was the trigger for Malevich’s vision for a Suprematist art. But whereas Futurism aimed for a total renewal of Russian culture, Malevich envisioned in Suprematism an artform that would supersede &lt;i&gt;all&lt;/i&gt; current and previous art movements. 
+				&lt;br/&gt;&lt;br/&gt;
+				Malevich's designs for the opera marked a major break with theatrical convention since they were neither decorative nor illustrative (such as painted landscapes or interiors). As art historian Charles Harrison describes, “For the backdrop [Malevich] adopted the overall format of a box shaped perspective framing a square aperture or window. In the sketch for Act 2, Scene 5, the square is bisected diagonally, signifying the encroachment of darkness and the coming of victory over the sun – a ‘victory’ consistent with the anti-rationalist irony of the opera as a whole”. As most modern art histories tell us, Malevich’s design predicts the development of Suprematism in its use of basic geometric motifs. But, as Harrison records, it seems from a letter he wrote to Matiushin with respect of a potential second staging of the opera in 1915, that the idea of a Suprematist art came to Malevich unconsciously. Malevich wrote, “I’ll be very grateful if you yourself would position my curtain design for the act in which the victory is won […] This drawing will have great significance for painting, what had been done unconsciously, is now bearing extraordinary fruit”.
+			</desc>
+			<collection>State Theater Museum, St. Petersburg</collection>
+		</artwork>
+		<artwork>
+			<title>Black Square</title>
+			<artist>Kazimir Malevich</artist>
+			<year>1913-15</year>
+			<materials>Oil on canvas</materials>
+			<desc>
+				Once described by Malevich as a "living, royal infant," &lt;i&gt;Black Square&lt;/i&gt; has been seen as a major landmark in the history of abstract art, a point of new beginnings for the European avant-garde outside of Paris. Yet to the layperson and the sceptic, the painting, which has abandoned all concessions to the mimetic world, appears as pointless and/or an afront to standards of artistic credibility. Predating by two years Marcel Duchamp’s equally infamous &lt;i&gt;Fountain&lt;/i&gt; (an upturned factory urinal that Duchamp signed (“R. Mutt”), dated, and displayed as a legitimate sculpture) Malevich became the first trailblazer for the development of conceptual art. 
+				&lt;br/&gt;&lt;br/&gt;
+				Malevich would paint four versions between 1915 and the early 1930s, and it is said that the last version was carried behind his coffin during his funeral (in 1935). Pared down from a design he painted for the &lt;i&gt;Victory Over the Sun&lt;/i&gt; (1913) opera, this first version depicts a plain black square against a thin border of white, further obscuring any sense of normal space or perspective. At &lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt; exhibition in 1915, Malevich emphasized its importance by hanging it across the corner of a room, emulating the Russian tradition for displaying religious icons in domestic dwellings.
+				&lt;br/&gt;&lt;br/&gt;
+				Harrison writes, “What Malevich meant by ‘pure creation’ was not a &lt;i&gt;process&lt;/i&gt; of abstraction. That’s to say, the &lt;i&gt;Black Square&lt;/i&gt; as he represented it was not, like Mondrian’s &lt;i&gt;Pier and Ocean&lt;/i&gt;, the end product of a gradual reduction of formalization of some aspect of the natural world. Albeit the evidence of underpainting now visible suggests that Malevich may have worked &lt;i&gt;towards&lt;/i&gt; his painting from some less ‘absolute’ starting point, as he actually presented the work it was supposed to be the elementary component of a new ‘purely painterly’ order, quite independent of naturalistic appearances”.
+			</desc>
+			<collection>Tretyakov Gallery, Moscow</collection>
+		</artwork>
+		<artwork>
+			<title>Suprematist Composition: Airplane Flying</title>
+			<artist>Kazimir Malevich</artist>
+			<year>1915</year>
+			<materials>Oil on canvas</materials>
+			<desc>
+				Malevich divided Suprematism into three phases - black, color and white – although this work indicates that they did not follow a strict chronology. The painting (which self-evidently belongs to the color phase) was exhibited (with &lt;i&gt;Black Square&lt;/i&gt;) at &lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt; (in 1915-16). But, given that Malevich dated the painting 1914 on the reverse of the canvas, we might accept that &lt;i&gt;Airplane Flying&lt;/i&gt; was painted before &lt;i&gt;Black Square&lt;/i&gt; (conceived of in 1913 but painted in 1915). Indeed, the fact that Malevich gives the image a concrete title, coupled with his declaration (made in the exhibition pamphlet) that “painters should abandon subject and objects if they wish to be pure painters” (as indeed &lt;i&gt;Black Square&lt;/i&gt; does), suggests that this painting was in fact a marginally earlier work and that, in the words of Harrison, Malevich was here still “toying with Futurist iconography”.  
+				&lt;br/&gt;&lt;br/&gt;
+				Harrison’s argument is supported by the fact that Malevich had become captivated by the idea of mechanical flight (as had the Futurists) and he saw the aeroplane as a searing symbol of the age of modernity. It is known, too, that Malevich was interested in aerial photography, and armed with this knowledge, we might even be encouraged to interpret this image as a landscape, pictured, as it were, from the “heavens above”.  However, in his 1919 essay, “Non-Objective Art and Suprematism”, Malevich referred to other Suprematist artists as “comrade aviators” which raises the possibility that this painting’s title was not so much a rebuttal of Futurism, but rather a metaphor for Malevich’s vision for Suprematist art and its scope to penetrate the limitless expanses of space.    
+				&lt;br/&gt;&lt;br/&gt;
+				Malevich employs a palette of red, yellow, blue, black, and a plain white background against which the shapes might appear to float. Indeed, the painting represents his interest in the idea of non-Euclidean geometry, an anti-rational practice that “defied logic” by giving the illusion of flat and irregular geometric forms floating or moving in/through space. Inspired by Vladimir Markov’s concept of “faktura” which related to the idea of the search for “the divine” in the plastic arts, Malevich’s vision could offer the viewer a route to this new spiritual awareness through an absolute focus on color and texture. Indeed, in the same exhibition literature, Malevich wrote, “Color and texture in painting are ends in themselves. They are the essence of painting, but this essence has always been destroyed by the subject”.
+			</desc>
+			<collection>MoMA, New York</collection>
+		</artwork>
+		<artwork>
+			<title>Color Painting (Non-Objective Composition) </title>
+			<artist>Olga Rozanova</artist>
+			<year>1917</year>
+			<materials>Oil on canvas</materials>
+			<desc>
+				Rozanova met Futurist Aleksey Kruchonykh, her future husband, and co-creator (with Malevich, Mikhail Matyushin, and Velimir Khlebnikov) of the Futurist opera &lt;i&gt;Victory Over the Sun&lt;/i&gt; (1912-13), in 1912.  She illustrated many of his Zaum (“antirational”) poems and worked with him on a new kind of Futurist book, &lt;i&gt;samopismo&lt;/i&gt;, which interweaved handwritten text and image. She joined Malevich in the Suprematist movement during or soon after &lt;i&gt;The Last Futurist Exhibition of Painting 0.10&lt;/i&gt; in the winter of 1915-16. Rozanova brought to the movement a more decorative element through a style she simply called &lt;i&gt;Color Painting&lt;/i&gt;.      
+				&lt;br/&gt;&lt;br/&gt;
+				An interest in fabrics led Rozanova to her experiments in textural effects of painting. She employed Suprematism’s basic reduction of geometric shapes but expanded its limited color palette. In keeping with the Suprematist agenda, she was exploring ways in which plain shapes and colors could bring about emotional or spiritual responses in the viewer. Indeed, &lt;i&gt;Color Painting (Non-Objective Composition)&lt;/i&gt;, a mediation on the tonal juxtaposition of yellow, red, orange, and black, illustrates her project which she called “transfigured color far from utilitarian goals”. 
+				&lt;br/&gt;&lt;br/&gt;
+				Rozanova is specifically associated with the so-called color phase of Suprematism, sometimes referred to Dynamic Suprematism. Indeed, Malevich, who Rozanova accused of stealing her ideas, incorporated a limited color range (especially red) into his own palette as a way of pushing further his interest in the illusion of movement. Sadly, as Historian Reed Enger writes, a weakened immune system made Rozanova a “victim to diphtheria, and in 1917 she died” (aged just 32). Nevertheless, Enger argues that her “final contribution to art — her fledgling concept of ‘colour painting — bold, radically simple canvasses’ […] would pre-empt the color fields of Rothko, and [the] vertical lines [of] Barnett Newman”.
+			</desc>
+			<collection>State Russian Museum, St. Petersburg</collection>
+		</artwork>
+		<artwork>
+			<title>White on White</title>
+			<artist>Kazimir Malevich</artist>
+			<year>1918</year>
+			<materials>Oil on canvas</materials>
+			<desc>
+				Unveiled to the public at the &lt;i&gt;Tenth State Exhibition: Non-objective Creation and Suprematism&lt;/i&gt;, in 1919, Malevich’s painting &lt;i&gt;White on White&lt;/i&gt; – referred to by the artist himself simply as “The White” - would prove to be the climax of the Suprematist movement; the final stage in Malevich’s "transformation in the zero of form". Although the black and colors phases had by now “served their purpose”, Malevich stayed true to the diagonal orientations of earlier Suprematist works. He stated that the paintings (there were four versions of &lt;i&gt;White on White&lt;/i&gt;) “must be created so that the shape can be read, so that the sign can be taken in. And so there must be a difference between them but only in the pure white form” (Malevich in fact used three different white pigments on the painting(s): lead white, zinc white, and titanium white).
+				&lt;br/&gt;&lt;br/&gt;
+				In its formal progression through black and color phases, Suprematism had delivered art to what Malevich described as the point of “dissolution” and painting had become, in Malevich’s words, “an end in itself […] the way to direct creation”. Malevich had arrived at the conclusion that white embodied the full color spectrum, and it was only white that offered his viewer a chance to contemplate the existence of the divine. Influenced by the writings of the British mathematician, Charles Howard Hinton, who, at the beginnings of the 20&lt;sup&gt;th&lt;/sup&gt; century, had published a series of essays that argued for the existence of the undiscovered sphere of the “fourth dimension”, Malevich declared “I have ripped through the blue lampshade of the constraints of colour. I have come out into the white. Follow me, comrade aviators. Swim into the abyss”.
+			</desc>
+			<collection>Museum of Modern Art, New York</collection>
+		</artwork>
+		<artwork>
+			<title>Non-Objective Painting no. 80 (Black on Black)</title>
+			<artist>Alexander Rodchenko</artist>
+			<year>1918</year>
+			<materials>Oil on canvas</materials>
+			<desc>
+				Rodchenko first showed the painting at the &lt;i&gt;Tenth State Exhibition: Non-objective Creation and Suprematism&lt;/i&gt;, in 1919 where it was placed directly opposite Malevich’s &lt;i&gt;White on White&lt;/i&gt; (1918). In addition to the similarities between the titles, there are other parallels between the two works. They were roughly the same size, the texture and tonality (featuring combinations of matt and gloss paint) is similar, and Rodchenko’s thick black curves taking the overall form of a circle acted like a counterpart to Malevich’s white square (on white background). Indeed, if for Malevich the white in his paintings connoted the infinite expanse of the ideal, Rodchenko used black, in a variety of textures and finishes, to ground painting in its physical properties, bringing attention to the material quality of its surface. And in contrast to the tilting plane of White on White, the arcing forms of Rodchenko's canvas suggest dynamic motion.
+				&lt;br/&gt;&lt;br/&gt;
+				Historian Margarita Tupitsyn writes, “Equally oppressive for both Malevich and Rodchenko was the view held by some critics at home and abroad that Russian modernists ‘imitate[d] the West!’ Malevich’s term ‘Suprematism,’ coined to describe flat geometric painting, encodes an assertion of originality and pre-eminence over Western movements. Yet [Rodchenko] resisted Malevich’s claim for ‘supremacy’ in nonobjective circles by reason of suspecting him of mysticism […] However, Rodchenko’s desire to free himself from the cultural bondage of the West outweighed this kind of issue with Malevich, as he realized that cooperating with him would guarantee the formation of ‘an entirely original identity in Russia’s art’ and position them as ‘the first inventors of the new, as yet unseen in the West.’ Pledging to be Russia’s ‘own art,’ and thus a national style, it asserted a competition with the West and, significantly, declared a position of difference from a Bolshevik internationalism that is embodied in, for instance, Tatlin’s [famous Constructivist] Monument to the Third International (1920)”.
+			</desc>
+			<collection>Museum of Modern Art, New York</collection>
+		<use_big_image>false</use_big_image></artwork>
+		<artwork>
+			<title>Beat the Whites with the Red Wedge</title>
+			<artist>El Lissitzky</artist>
+			<year>1919</year>
+			<materials>Lithograph</materials>
+			<desc>
+				Malevich taught at the &lt;i&gt;Revolutionary People’s Art School&lt;/i&gt; in Vitebsk which had been founded by Marc Chagall. Having replaced Chagall as the School’s director, Malevich formed a workshop called &lt;i&gt;UNOVIS&lt;/i&gt;, which ran between 1919-22. The aim of &lt;i&gt;UNOVIS&lt;/i&gt; was to promote Suprematism. One of Malevich’s students was Lazar Markovich Lissitzky, better known as El Lissitzky. His &lt;i&gt;Beat the Whites with the Red Wedge&lt;/i&gt; is a Russian Civil War propaganda poster produced in support of the Bolshevik Red Army and their fight against the anti-Communist White Army in the Russian Civil War. 
+				&lt;br/&gt;&lt;br/&gt;
+				Lissitzky’s lithograph is now considered one of the most iconic of all early Constructivist artworks and, in its preference for basic geometric forms and colors, it is indicative of the transition of Suprematism to Constructivism. The image shows a red triangle (representing the Communists) penetrating a white circle (the bourgeoise). The combination of red, white, and black and basic geometric shapes was symbolic of Lissitzky’s Suprematist work, while the use of words helps the viewer follow the trajectory of dominant red triangle which seems to pierce the white circle as a pin might pop a balloon. The action of red penetrating white is repeated across the image with smaller geometric shapes.  
+				&lt;br/&gt;&lt;br/&gt;
+				Art historians Dr. Charles Cramer and Dr. Kim Grant write, “In this poster we see not only a masterpiece of modern graphic design, but also a new application of the Suprematist visual language, which signified spiritual transcendence, into a practical language intended to convey specific ideas and information about the material world”. They observe that this might seem “like a betrayal of the aims of Suprematism” but Malevich himself supported the “practical application of Suprematism’s forms” in this way.
+			</desc>
+			<collection/>
+		</artwork>
+	</artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>malevich_kasimir</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>chashnik_ilya</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>lissitzky_el</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>rodchenko_alexander</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>rozanova_olga</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>suetin_nikolai</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+        <entry>
+          <id>yermolayeva_vera</id>
+          <link/>
+          <title/>
+          <info/>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="current exhibitions"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>The Russian Experiment in Art 1863-1922</title>
+          <link>0500202079</link>
+          <info>By By Marian Burleigh-Motley, Camilla Gray</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Struggle for Utopia: Rodchenko, Lissitzky, Moholy-Nagy, 1917-1946</title>
+          <link>0226505162</link>
+          <info>By Victor Margolin</info>
+        </entry>
+        <entry>
+          <title>0,10: The Last Futurist Exhibition of Painting</title>
+          <link>9064501351</link>
+          <info>By Linda S Boersma</info>
+        </entry>
+        <entry>
+          <title>Kazimir Malevich and Suprematism: 1878-1935</title>
+          <link>3822819611</link>
+          <info>By Gilles Neret</info>
+        </entry>
+        <entry>
+          <title>Kazimir Malevich: Suprematism</title>
+          <link>0892072652</link>
+          <info>By Nina Gurianova, Jean-Claude Marcade, Tatyana Mikhienko, Yevgenia Petrova, Vasilii Rakitin, Matthew Drutt, Kazimir Malevich</info>
+        </entry>
+        <entry>
+          <title>Malevich on Suprematism: Six Essays 1915-1926</title>
+          <link>0874141192</link>
+          <info>By Kazimir Severinovich Malevich, Patricia Railing</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artists" class="written-by"/>
+    </category>
+    <category name="resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Kazimir Malevich, Suprematism Manifesto</title>
+          <link>http://www.moodbook.com/history/modernism/malevich-suprematism.html</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>WebMuseum - Malevich, Kasimir: Suprematist Compositions</title>
+          <link>http://www.ibiblio.org/wm/paint/auth/malevich/sup/</link>
+          <info>Provides Additional Examples of Suprematist Works by Malevich</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Kazimir Malevich: Suprematism</title>
+          <link>http://www.brooklynrail.org/2003/08/artseen/kazimir-malevich-suprematism</link>
+          <info>
+						By Jim Long
+						&lt;br/&gt;
+						Brooklyn Rail
+						&lt;br/&gt;
+						August 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Kasimir Malevich - An Introduction</title>
+          <link>http://www.db-artmag.com/archiv/06/e/thema-malewitsch.html</link>
+          <info>
+						By Katrin Bettina Muller
+						&lt;br/&gt;
+						Deutsche Bank ArtMag 
+						&lt;br/&gt;
+						February 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Review/Art; The Roiling Panorama Of Malevich's Lifework</title>
+          <link>http://www.nytimes.com/1991/02/08/arts/review-art-the-roiling-panorama-of-malevich-s-lifework.html</link>
+          <info>
+						By Roberta Smith
+						&lt;br/&gt;
+						New York Times
+						&lt;br/&gt;
+						February 8, 1991
+					</info>
+        </entry>
+		<entry>
+			<title>Who Were the Suprematists?</title>
+			<link>https://www.sothebys.com/en/articles/who-were-the-suprematists</link>
+			<info>
+				By Martin Dean
+				&lt;br&gt;
+				Sotheby’s 
+				&lt;br&gt;
+				May 10, 2018
+			</info>
+		</entry>
+		<entry>
+			<title>Suprematism: Revolutionary Art for Revolutionary Times</title>
+			<link>https://static1.squarespace.com/static/552c6ad2e4b0d3f18486d2c4/t/5fe01365ef735726d2843c0b/1608520555171/Suprematism-+Revolutionary+Art+for+Revolutionary+Times.pdf</link>
+			<info>
+				By JW Harrington
+				&lt;br&gt;
+				December 2020
+			</info>
+		</entry>
+		<entry>
+			<title>Primitivism, Cubism, Abstraction, The Early Twentieth Century</title>
+			<link>https://books.google.co.uk/books?id=8fMCLqhEKYoC</link>
+			<info>
+				By Charles Harrison
+				&lt;br&gt;
+				Yale University Press 
+				&lt;br&gt;
+				1993
+			</info>
+		</entry>
+		<entry>
+			<title>Faktura as Noise in Markov and Malevich</title>
+			<link>https://www.stedelijk.nl/en/digdeeper/faktura-noise-markov-and-malevich</link>
+			<info>
+				By Irina Lyubchenko
+				&lt;br&gt;
+				Stedelijk Museum, Amsterdam 
+				&lt;br&gt;
+				February 22, 2018
+			</info>
+		</entry>
+		<entry>
+			<title>Olga Rozanova, The intellectual mother of Abstract Expressionism</title>
+			<link>http://arthistoryproject.com/artists/olga-rozanova/.</link>
+			<info>
+				By Reed Enger
+				&lt;br&gt;
+				Obelisk Art History 
+				&lt;br&gt;
+				May 21, 2018 
+			</info>
+		</entry>
+		<entry>
+			<title>Suprematism Part II: El Lissitzky</title>
+			<link>https://www.khanacademy.org/humanities/art-1010/cubism-early-abstraction/russian-avant-garde/a/suprematism-part-ii-el-lissitzky</link>
+			<info>
+				By Dr. Charles Cramer and Dr. Kim Grant
+				&lt;br&gt;
+				Khan Academy
+			</info>
+		</entry>
+		<entry>
+			<title>Two paths to abstract art: Kandinsky and Malevich</title>
+			<link>https://www.nber.org/system/files/working_papers/w12403/w12403.pdf</link>
+			<info>
+				By David W. Galenson
+				&lt;br&gt;
+				National Bureau of Economic Research 
+				&lt;br&gt;
+				July 2006 
+			</info>
+		</entry>
+		<entry>
+			<title>On the Philosophical Sources and Nature of Dostoevskii’s Anti-Rationalism</title>
+			<link>https://brill.com/view/book/9789004311121/B9789004311121-s010.xml</link>
+			<info>
+				By Sergei Kibal’nik
+			</info>
+		</entry>
+		<entry>
+			<title>The Subject of Non-objective Art</title>
+			<link>https://post.moma.org/the-subject-of-nonobjective-art/</link>
+			<info>
+				By Margarita Tupitsyn
+				&lt;br&gt;
+				MoMA 
+				&lt;br&gt;
+				May 1, 2019
+			</info>
+		</entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

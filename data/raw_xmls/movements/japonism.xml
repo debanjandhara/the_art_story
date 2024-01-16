@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>japonism</id>
+    <name>Japonism</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1854 - 1920</years>
+    <keywords>japonism, art story, movement, art movement, foundation, art, education, analysis, artworks, resources, ideas, topics, beginnings, themes, concepts, styles, information, history, legacy</keywords>
+    <bio_title>The Japonism Style - Concepts &amp; Styles</bio_title>
+    <art_title>The Japonism Style - Important Paintings</art_title>
+    <description>The introduction of Japanese art to Europe was a revolution in composition, palette, and perspective. The Japonism style was inspiring for many early modernists</description>
+    <art_description>Famous artists and paintings in the style of Japonism with analysis and achievements. Van Gogh, Manet, Degas, Gauguin, Cassatt, Whistler++</art_description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <start>1854</start>
+    <end>1920</end>
+    <image_desc>true</image_desc>
+    <img_version>?1</img_version>
+    <pub_time>12/14/2017</pub_time>
+  </main>
+  <similar_artists>
+    <artist>hokusai_katsushika</artist>
+    <artist>whistler_james_abbott_mcneill</artist>
+    <artist>degas_edgar</artist>
+    <artist>van_gogh_vincent</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>ukiyo_e_japanese_woodblock_prints</movement>
+    <movement>nihonga</movement>
+    <movement>impressionism</movement>
+    <movement>gutai</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>ukiyo_e_japanese_woodblock_prints</entry>
+    <entry>nihonga</entry>
+    <entry>impressionism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="van_gogh_vincent">"All my work is based to some extent on Japanese art.."</q>
+    <q author="Frank Lloyd Wright">"A Japanese artist grasps form always by reaching underneath for its geometry, never losing sight of its spiritual efficacy."</q>
+    <q author="Vincent van Gogh">"I envy the Japanese the extreme clarity that everything in their work has.. Their work is as simple as breathing, and they do a figure with a few confident strokes with the same ease as if it was as simple as buttoning your waistcoat."</q>
+    <q author="Vincent van Gogh">"Just think of that; isn't it almost a new religion that these Japanese teach us, who are so simple and live in nature as if they themselves were flowers? And we wouldn't be able to study Japanese art, it seems to me, without becoming much happier and more cheerful, and it makes us return to nature, despite our education and our work in a world of convention."</q>
+    <q author="Frank Lloyd Wright">"Why are we so busy elaborately trying to get earth to heaven instead of seeing this simple Shinto wisdom of sensibly getting heaven decently to earth?"</q>
+    <q author="Gustav Klimt">"Sometimes I miss out the morning's painting session and instead study my Japanese books in the open."</q>
+    <q author="William Rossetti">"the very best fine art practiced at the present day in any corner of the globe, is the decorative art of the Japanese."</q>
+    <q author="Christopher Dresser">"the introduction of the works of Japanese handicraftsmen into England has done as much to improve our national taste as even our schools of art and public museums...for these Japanese objects have got into our homes and among them we live."</q>
+    <q author="Vincent van Gogh">"If you study Japanese art you see a man who is undoubtedly wise, philosophic and intelligent, who spends his time how? In studying the distance between the earth and the moon? No. In studying the policy of Bismarck? No. He studies a single blade of grass. But this blade of grass leads him to draw every plant and then the seasons, the wide aspects of the countryside, then animals, then the human figure. So he passes his life, and life is too short to do the whole."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="archino">Sarah Archino</editor>
+  </editors>
+  <article>
+    <synopsys>Depicting the world through an alternate lens from the Western &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt;, the introduction of Japanese art and design to Europe brought about revolutions in composition, palette, and perspectival space. Japonism, also often referred to by the French term, &lt;i&gt;japonisme&lt;/i&gt;, refers to the incorporation of either iconography or concepts of Japanese art into European art and design. It is important to note that this integration was often based on European notions of Japanese culture as much as authentic influence. Most of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionist&lt;/span&gt; artists, as well as the members of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic&lt;/span&gt; movement, were deeply influenced by this new approach to representation.</synopsys>
+    <key_ideas>
+      <idea>As Japan began trade with Europe, the aesthetic and philosophies of Japanese design quickly became fashionable. European collectors amassed both high-end &lt;i&gt;objets d'art&lt;/i&gt; and inexpensive prints (which were actually originally included as packing material for fragile luxury goods).</idea>
+      <idea>Artists seeking a fresh alternative to the Renaissance tradition of illusionistic painting were drawn to the vivid colors and new perspectives of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;Ukiyo-e Japanese woodblock prints&lt;/span&gt;. While these images remained realistic, their simplified palettes, unusual viewpoints, minimalistic arrangements, and flattened space inspired European painters to experiment with their compositions.</idea>
+      <idea>Studying Japanese prints, painters began to experiment with new ideas of perspective. They copied the common juxtapositions of objects near and far, along with unconventional cropping to create less symmetrical and more engaging compositions. This, combined with bright patterns of juxtaposed colors, often rendered in flat planes reminiscent of woodblock prints, created a flattening effect that became central to modernist painting.</idea>
+      <idea>The appeal of Japonism was paradoxical: it was both appreciated for its exoticism and quickly assimilated as the organic expression of Western artistic ideals. Elements of the Japanese style were considered to express French and British sensibilities, even when they remained identifiable as Asian influences.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Precedents">
+          <p type="p">Japonism built upon the Orientalist influences that were pervasive in European &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassical&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romantic art&lt;/span&gt;. The 18&lt;sup&gt;th&lt;/sup&gt;-century aristocratic fashion for &lt;i&gt;chinoiserie&lt;/i&gt;, based in imported Chinese art, merged with styles learned from French colonialist expansion in the Middle East and northern Africa. In the first half of the 19&lt;sup&gt;th&lt;/sup&gt; century, artists as varied &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt; turned to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orientalism"&gt;Orientalist&lt;/span&gt; subjects, developing dramatic intensely colored scenes as seen in Delacroix's &lt;i&gt;Death of Sardanapalus&lt;/i&gt; (1827) or reconfiguring figurative work with sensual treatments such as Ingres's &lt;i&gt;La Grande Odalisque&lt;/i&gt; (1814).</p>
+          <p type="img" alt="&lt;i&gt;The International Exhibition of 1862 -The Japanese Embassy at the International Exhibition&lt;/i&gt;, from &lt;i&gt;The Illustrated London News&lt;/i&gt; (May 24, 1862) depicts a Japanese delegation arriving at the International Exhibition." show="1">/images20/photo/photo_japonism_1.jpg</p>
+          <p type="p">Japan, which (with the exception of its contact with the Dutch) had been isolated since 1633, was forced to accept international trade agreements after the 1852 arrival of Commodore Matthew Perry and the United States Navy. The 1854 Convention of Kanagawa compelled international exchange and, as a result, Japanese artworks and &lt;i&gt;objets d'art&lt;/i&gt; were extensively imported into Europe. This provided an introduction to a new history of art production, including the format of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;&lt;i&gt;Ukiyo-e&lt;/i&gt;&lt;/span&gt; prints. Collectors rushed to acquire and exhibit Japanese objects, while the affordable price of many prints encouraged artists to collect them.</p>
+        </subsection>
+        <subsection title="Félix Henri Bracquemond in France">
+          <p type="p">The French artist Félix Henri Bracquemond was primarily known in the early 1850s for his etchings, which included landscapes, portraits, and studies of birds. He was also celebrated for his mass-produced interpretations of paintings by artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moreau_gustave"&gt;Gustave Moreau&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt;, creating affordable reproductions that launched a revival of engraving and etching in France.</p>
+          <p type="img" alt="Two pages from Katsushika Hokusai's &lt;i&gt;Denshin Kaisu: Hokusai Manga&lt;/i&gt; (&lt;i&gt;Transmitting the Spirit and Revealing the Form of Things: Random Drawings of Hokusai&lt;/i&gt;), (1814) depict his sketches of various birds." show="1">/images20/photo/photo_japonism_2.jpg</p>
+          <p type="p">In the early days of trade, cheap Japanese prints were often used as an inexpensive and attractive way to wrap porcelain for shipping. Finding some such prints in his dealer's shop, where they had been included as mere packing material, in 1856, Bracquemond discovered the &lt;i&gt;Hokusai Manga&lt;/i&gt; (1814). While today &lt;i&gt;manga&lt;/i&gt; is used as a term for comic books, this was an album of woodblock prints by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hokusai_katsushika"&gt;Katsushika Hokusai&lt;/span&gt; that depicted landscapes, birds, flowers, and everyday scenes. Bracquemond was particularly drawn to Hokusai's sketches in the style of &lt;i&gt;Kachô-ga&lt;/i&gt;, a Japanese genre, which captured individual specimens of flowers and birds in close detail.</p>
+          <p type="img" alt="Bracquemond's &lt;i&gt;Service Rousseau&lt;/i&gt; (c. 1867) used the asymmetrical composition and images of 200 flowers, birds, and butterflies from Hokusai." show="1">/images20/photo/photo_japonism_3.jpg</p>
+          <p type="p">When Bracquemond received an 1860 commission from Eugène Rousseau to create tableware, he based the designs on Japanese prints, including Hokusai's &lt;i&gt;Manga&lt;/i&gt;, Taito's &lt;i&gt;Flower and Bird Paintings&lt;/i&gt; (1848) and Hiroshige's &lt;i&gt;Grand Series of Fishes&lt;/i&gt; (1830). His &lt;i&gt;Service Rousseau&lt;/i&gt; (c. 1867) was among the first works to showcase the inspiration of Japanese art. The set was enormously popular, included in both the 1876 Paris Universal Exhibition and Philadelphia Centennial Exhibition (the same year) as an example of French porcelain. While it might seem incongruous to display work so heavily indebted to Japanese sources as an example of French art, contemporaries viewed the two traditions as totally compatible. The poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mallarme_stephane"&gt;Stéphane Mallarmé&lt;/span&gt; specifically praised the &lt;i&gt;Service Rousseau&lt;/i&gt; as an expression of French artistic sensibility. Thus, from the beginning, Japanese art and design was not considered to be the inclusion of foreign elements but reframed as an expression of European artistic impulses and development.</p>
+          <p type="p">Bracquemond was equally well known for his printmaking, and most of his engravings were of animals or landscapes, like his &lt;i&gt;Reed and Teals&lt;/i&gt; (1882). His work encouraged a number of artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt;, to explore the artistic possibilities of printmaking. He became a founding member of the "Société du Jing-lar," a group brought together by their admiration of Japonism, which included Henri Fantin-Latour, Marc-Louis Solon, and Carolus Durgan. Bracquemond was also an influential author; his book, &lt;i&gt;Du dessin and la couleur (Design and Color)&lt;/i&gt; (1886) was also important to the next generation of artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Anglo-Japanese Style in Britain">
+          <p type="p">Following an 1851 exhibit of Japanese art and objects in London, British artists and collectors began a fascination with what was dubbed the "Anglo-Japanese" style. Indeed, this show had such an immediate and forceful impact that the Museum of Ornamental Art (now known as the Victoria and Albert Museum) began acquiring Japanese objects in 1852, adding mostly porcelain and lacquer works to its permanent collection. In the following decade, exhibits of Japanese art occurred throughout Britain, Ireland, and Scotland, fueling this enthusiasm for the style in both the public and the artistic community.</p>
+          <p type="img" alt="From &lt;i&gt;The Illustrated London Times&lt;/i&gt; (20 September, 1962), this illustration, &lt;i&gt;The International Exhibition of 1862 - Japanese Court&lt;/i&gt; shows a man with his two children looking at a display a variety of Japanese objects (in the background appears a display from Siam)." show="1">/images20/photo/photo_japonism_4.jpg</p>
+          <p type="p">The London International Exhibition of 1862 displayed a wide selection of Japanese art alongside works by British designers, like Christopher Dresser and Edward William Godwin, that incorporated Japanese design. This aesthetic, which predominantly featured ebonized rectangular forms with little decoration, came to be known as the Anglo-Japanese style. The Aesthetic Movement developed at this same time and the two styles heavily influenced each other. For example, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James McNeill Whistler&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tonalism"&gt;Tonalist&lt;/span&gt; composition, &lt;i&gt;Harmony in Gold and Blue: The Peacock Room&lt;/i&gt;, also exemplifies the Aesthetic Movement and the Anglo-Japanese style. These directions in art would also lead to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arts_and_crafts"&gt;Arts and Crafts&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; movements.</p>
+        </subsection>
+        <subsection title="Ukiyo-e">
+          <p type="p">&lt;i&gt;Ukiyo-e&lt;/i&gt;, or "pictures of the floating world," refers to a genre of Japanese woodblock prints. These inexpensive prints were produced in variety of styles, some using only black ink, while others used layers of color or added materials like metal flakes or glue to create textured, shimmering, or lacquer-like surfaces. Considered a low form of art created for merchants and workers, &lt;i&gt;ukiyo-e&lt;/i&gt; originated in 1670, but soon became a form of art that was known both for its appeal to the average person and its artistic quality.</p>
+          <p type="img" alt="Katsushika Hokusai 's &lt;i&gt;Under the Wave off Kanagawa&lt;/i&gt; (c. 1830-32), from the series &lt;i&gt;Thirty-six Views of Mount Fuji&lt;/i&gt;, is world-renowned for its striking design, original perspective and delicately balanced color palette." show="1">/images20/photo/photo_japonism_5.jpg</p>
+          <p type="p">The work of the great masters of &lt;i&gt;ukiyo-e&lt;/i&gt;, Kitagawa Utamaro, Utagawa Hiroshige, and Katsushika Hokusai greatly impacted European artists. Some artists, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-toulouse_lautrec_henri"&gt;Henri de Toulouse-Lautrec&lt;/span&gt;, were particularly drawn to Japanese prints depicting urban night life and its famous or notorious denizens. Utamaro, known primarily for his prints of beautiful Japanese women, influenced artists like Whistler. Others, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt;, were more interested in composition strategies and the portrayal of figures in unconventional poses. Hiroshige's work, which focused on landscape and scenes of ordinary life (unlike the more common depictions of celebrities and scenes of what were called Tokyo's "pleasure district") influenced &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt; artists like Vincent van Gogh. Indeed, van Gogh made multiple copies of images from Hiroshige's One Hundred &lt;i&gt;Famous Views of Edo&lt;/i&gt; (1856-58). Some works became widely popular: Hokusai's The &lt;i&gt;Great Wave off Kanagawa&lt;/i&gt; (c. 1831), an iconic work became known worldwide and remains very popular.</p>
+        </subsection>
+        <subsection title="La Porte Chinoise">
+          <p type="p">To meet consumer demand, many small stores and teashops began selling Japanese objects in the early 1860s. &lt;i&gt;La Porte Chinoise&lt;/i&gt; became a destination and an artistic hub. Having lived in Japan, in 1863 the French merchant E. de Soye opened the shop in Paris, and it actually specialized in imports from Japan, China, and other Asian countries. French artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, James Tissot, Theodore Duret, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fantin_latour_henri"&gt;Henri Fantin-Latour&lt;/span&gt; frequented the store, as did the British artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rossetti_dante_gabriel"&gt;Dante Gabriel Rossetti&lt;/span&gt; and Whistler. Many of the fans, screens, textiles, and porcelains that Whistler included in his paintings like &lt;i&gt;Variations in Flesh Colour and Green: The Balcony&lt;/i&gt; (1864-79) were purchased there. Interestingly, rivalries occasionally flared as artists competed to buy or reserve the best objects; Rossetti complained in 1864 that Tissot had purchased all the shop's kimonos.</p>
+        </subsection>
+        <subsection title="Siegfried Bing and Art Nouveau">
+          <p type="p">First introduced to Japanese prints through Bracquemond, in the 1870s, the German-French art dealer Siegfried Bing began importing Japanese &lt;i&gt;objets d'art&lt;/i&gt;; and recognizing a demand for the style, he hired artists and designers to create similarly styled work.</p>
+          <p type="img" alt="Siegfried Bing's cover for an issue of &lt;i&gt;Le Japon artistique; documents d'art et d'industrie&lt;/i&gt; (1888-91)" show="1">/images20/photo/photo_japonism_6.jpg</p>
+          <p type="p">Bing launched the journal &lt;i&gt;Le Japon artistique: documents d'art et d'industrie&lt;/i&gt; in 1888. The magazine promoted Japanese art and &lt;i&gt;objets d'art&lt;/i&gt; to an international audience, appeared monthly in English, French, and German, until its demise in 1891. Its influence was far-reaching, impacting the late work of Pre-Raphaelite artists, Post-Impressionists (like Vincent van Gogh, who was briefly hired to promote the magazine), and the next generation of artists such as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vienna_secession"&gt;Vienna Secessionist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klimt_gustav"&gt;Gustav Klimt&lt;/span&gt;.</p>
+          <p type="p">Following the collapse of the magazine, in 1895, Bing founded the &lt;i&gt;Maison d l'Art Nouveau&lt;/i&gt;, a gallery where he sold and promoted Japanese art alongside contemporary fine art and decorative objects by Édouard Vuillard, Edward Colonna, William Benson, George de Feure, Eugène Gaillard, Henry van de Velde, and Louis Comfort Tiffany.</p>
+          <p type="img" alt="Édouard Pourchet's photograph, &lt;i&gt;Hôtel Bing&lt;/i&gt; (1895), depicts the street view of Bing's Maison d l'Art Nouveau. Designed by the noted architect Louis Bonnier and featuring windows designed by Toulouse-Lautrec and created by Louis Comfort Tiffany, this shop gave the Art Nouveau movement its name." show="1">/images20/photo/photo_japonism_7.jpg</p>
+          <p type="p">Bing's influence was greatest upon the development of Art Nouveau, as his magazine, galleries, and attending exhibitions, brought together his enthusiasm for Japonism with stylistic trends that were emerging across Europe. The resulting combination came to be known as Art Nouveau, inspired (in part) by the name of Bing's gallery.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="Painting">
+          <p type="img" alt="As a self-taught artist, Vincent van Gogh often copied images as a way of studying them. In his &lt;i&gt;Bridge in the Rain (after Hiroshige)&lt;/i&gt; (1887), he heightened the color contrasts and added a fanciful painted frame but retained the composition of the original &lt;i&gt;Sudden Shower over Shin-Ōhashi bridge and Atake&lt;/i&gt; as shown on the right." show="1">/images20/photo/photo_japonism_8.jpg</p>
+          <p type="p">Perhaps the most extensive and far-reaching impact of Japonism was reflected in painting. The foundations of modern art, particularly the emphasis on the flattened and decorative surface, were based on innovations found in Japanese woodblock prints. Arriving as artists sought new ways of depicting their world and a break from the Western Renaissance tradition, the Japanese aesthetic was a major impetus in the development of Impressionism, Post-Impressionism, Aestheticism, Art Nouveau, and Tonalism; it also influenced members of the Pre-Raphaelite and Nabis groups. Virtually all of the Impressionists were influenced by &lt;i&gt;ukiyo-e&lt;/i&gt; prints, inspired by the everyday subject matter, limited palette and flat planes of color, asymmetrical composition, and unexpected points of view. Claude Monet's extensive collection of prints can be seen today at his house/museum in Giverny, France; Vincent van Gogh and Auguste Rodin also amassed large collections of prints.</p>
+          <p type="p">Among the Post-Impressionists, van Gogh, Toulouse-Lautrec, Paul Gauguin, Georges Seurat, Camille Pissarro, and Paul Cézanne, were all influenced by the woodblock prints. Cézanne's series of paintings featuring &lt;i&gt;Mont Saint-Victoire&lt;/i&gt; (c. 1886-88), show the mountain in the distance with trees framing it in the foreground, similar to Hokusai's &lt;i&gt;Fuji Seen from the Katakura Tea Plantation in the Province of Suruga&lt;/i&gt; (c. 1830-31). Even Cézanne's repeated versions of this subject parallels Hokusai's repetition in Thirty-six &lt;i&gt;Views of Mount Fuji&lt;/i&gt;. The depictions of casually posed figures common to Hokusai's images influenced the figurative work of Edgar Degas and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cassatt_mary"&gt;Mary Cassatt&lt;/span&gt;, as well as Toulouse-Lautrec's portraits of the denizens of Paris nightlife. The flat pictorial space, use of rectilinear composition and exaggerated gestures in Seurat's Neo-Impressionist &lt;i&gt;The Circus&lt;/i&gt; (1889) were all influenced by Japanese prints.</p>
+          <p type="p">In England, Whistler blurred the boundaries between Tonalism, the Aesthetic and Anglo-Japanese styles, echoing prints by Hokusai in works such as &lt;i&gt;Nocturne: Blue and Gold - Old Battersea Bridge&lt;/i&gt; (1872-75). Edward Burne-Jones and Dante Gabriel Rossetti,part of the late Pre-Raphaelite group incorporated elements into their work, such as the flatness and tiered vertical composition of Burne-Jones's &lt;i&gt;The Nativity&lt;/i&gt; (1887). It also influenced the Japanese-inspired aesthetic of Beardsley's block print, &lt;i&gt;Peacock Skirt&lt;/i&gt; (1894).</p>
+        </subsection>
+        <subsection title="Architecture">
+          <p type="img" alt="A photograph of The White House, designed by Godwin for Whistler in 1877-78." show="1">/images20/photo/photo_japonism_9.jpg</p>
+          <p type="p">Japanese design influenced an international assortment of architects. In England, Edward William Godwin was a leader in developing the Anglo-Japanese style. Among the first to adopt elements of Japanese design into his Aesthetic buildings and interiors, he built The White House (1877-78) as a private residence for Whistler. The simplified contours and rectilinear forms of Japanese prints were also important to Louis Bernard Bonnier's design for Bing's &lt;i&gt;Maison d l'Art Nouveau&lt;/i&gt; (1895).</p>
+          <p type="p">The Prairie School style of Frank Lloyd Wright was influenced by Japanese architecture, which he first encountered at the 1893 Columbian World Exposition in Chicago. Travelling to Japan in 1905, he collected hundreds of prints, which informed the rectangular forms and simplified elements of his designs. In his book, The &lt;i&gt;Japanese Print&lt;/i&gt; (1912) he explained, "A Japanese artist grasps form always by reaching underneath for its geometry." He was also deeply influenced by the Japanese philosophy that a building should be open to and part of its environment. Marion Mahony Griffin, who worked with Wright for fifteen years. also incorporated Japanese elements into her later designs for the city of Canberra in Australia and, subsequently, in India.</p>
+        </subsection>
+        <subsection title="Design">
+          <p type="img" alt="&lt;i&gt;Harmony in Yellow and Gold - The Cloud Cabinet&lt;/i&gt; (c. 1878) was designed by Godwin and painted by Whistler, who added golden clouds of butterflies on the doors of the side cabinets." show="0">/images20/photo/photo_japonism_10.jpg</p>
+          <p type="p">Japonism affected nearly all facets of late-19&lt;sup&gt;th&lt;/sup&gt; century European design, from tableware to furniture to high fashion. Following the first, 1851 exhibit of Japanese work in London, English designers like Godwin and Christopher Dresser began incorporating Japanese design in their designs for furniture and household items. Dresser is credited for the first Anglo-Japanese piece of furniture: an ebonized chair displayed at the 1862 International Exhibition in England. &lt;i&gt;Harmony in Yellow and Gold - The Cloud Cabinet&lt;/i&gt; (c. 1878), designed by Godwin and painted by Whistler is a notable example of the Anglo-Japanese and Aesthetic styles. James Hadley used Japanese pictorial elements in his designs for Royal Worcester Porcelain.</p>
+          <p type="p">In Paris, textiles, furniture, tableware, and interior décor items infused with Japanese elements became ubiquitous. The fashion magazine, &lt;i&gt;Journal des demoiselles&lt;/i&gt; promoted clothes in "the Japanese style" in 1867 and the writer Emile Zola commented that department stores in Paris were even selling Japanese-style umbrellas.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Japonism faded in the early 1900s with the arrival of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; modernist abstractions, although the rise of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;Primitivism&lt;/span&gt; can be linked to its role in popularizing non-Western sources. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso's&lt;/span&gt; proto-Cubist &lt;i&gt;Les Demoiselles d'Avignon&lt;/i&gt; (1907) or Matisse's Fauve &lt;i&gt;Dance&lt;/i&gt; (1910), can be seen as following in the footsteps of earlier generations that had similarly turned to Japanese and Asian work. Many artists, following the example of Gauguin, turned to the artworks of what were then considered to be 'primitive' cultures, studying African masks and statues and incorporating their elements and principles into a modern idiom.</p>
+          <p type="p">Some scholars have suggested that as the most often emulated Japanese printmaker, Hokusai could be considered an implicit "father" of modern Western art, since Tonalism, Impressionism, Post-Impressionism, Art Nouveau, and the Aesthetic movement were informed by the broad planes of color, asymmetrical compositions, rectilinear forms, unconventional poses, and everyday subjects of his prints.</p>
+          <p type="p">Whistler's &lt;i&gt;Nocturnes&lt;/i&gt; can be seen as the beginning of a development toward abstraction, and his &lt;i&gt;Peacock Room&lt;/i&gt; informed the thinking of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-motherwell_robert"&gt;Robert Motherwell&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-smith_david"&gt;David Smith&lt;/span&gt;, and later conceptual artists like Darren Waterson in the creation of an immersive space that seeks to envelope the viewer.</p>
+          <p type="p">The Japanese-influenced architecture of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wright_frank_lloyd"&gt;Frank Lloyd Wright&lt;/span&gt; reconfigured architectural design, and the Anglo-Japanese style, practiced by Godwin and Dresser, prefigures the sparse geometric design of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;The International Style&lt;/span&gt;.</p>
+          <p type="p">Japonism also had a noted influence upon the development of new museums and collections. It featured prominently in the expansion of the British Museum of Ornamental Art (now known as the Victoria and Albert Museum), which began adding Japanese work to its collection as early as 1852. Isabella Stewart Gardner, who was close friends with Whistler, pioneered collecting Asian art in America; her gifts to the Boston Museum of Fine Arts have created what some scholars believe to be the best collection of Japanese art outside of Japan. The Freer Gallery of Art in Washington D.C., which houses the Peacock Room of Whistler, is home to the largest research library on Asian art in the United States.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="matisse_henri">Joy of Life (Le Bonheur de Vivre) (1905-06)</artwork>
+    <artwork from="movement" page="bauhaus">Club Chair (Model B3) (The Wassily Chair) (1925)</artwork>
+    <artwork from="movement" page="international_style">German Pavilion, Barcelona, Spain (1929)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Portrait of Émile Zola</title>
+      <artist>Édouard Manet</artist>
+      <year>1868</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				What appears to be a casual portrait of the writer Émile Zola is really a carefully composed array of symbols and references. Zola is shown in Manet's studio, but the objects around him were chosen to suggest Zola's character and convey the friendship between the artist and the sitter. When Manet's &lt;i&gt;Olympia&lt;/i&gt; had scandalized the 1865 Salon, Zola, a respected art critic, published a brochure (1866) to defend Manet's work; that essay is clearly visible on the desk. In it, Zola argued that Olympia was Manet's best work, and it was due to his ardent support that Manet offered to paint this portrait. The men are shown as comrades in the battle for modern art, hinted at by the juxtaposition of reproductions of Manet's &lt;i&gt;Olympia&lt;/i&gt; with Utagawa Kunaiki II's print of a wrestler. Zola sits in profile, looking up from the open book with a thoughtful expression. The text is likely Charles Blanc's &lt;i&gt;L'Histoire des peintres&lt;/i&gt; (1861), a book which Manet often consulted, further linking these two men.
+				&lt;br/&gt;&lt;br/&gt;
+				Other objects in the room also point to their shared tastes and artistic influences. On the left, a Japanese screen depicting a landscape and a bird on a branch, is partially visible. Manet, however, doesn't simply import these exotic objects into the portrait, he incorporates elements of &lt;i&gt;japoniste&lt;/i&gt; design into the composition. The lines of the gray screen and the white border of the Japanese print on the right transform the black background into a series of intersecting rectangles. This creates a flat pictorial plane that contrasts sharply with the writer's head and shoulders before merging with the almost solid form of his black jacket. This effect is strikingly similar to the figure of the wrestler in the Japanese print, who is also strongly outlined by his black long coat. Thus, the elements of Japonism are included not only to convey the shared interests of Manet and Zola, but as a means of flattening and simplifying the shapes and palette to create a new, modern style of Western portraiture.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Sideboard</title>
+      <use_big_image>false</use_big_image>
+      <artist>Edward William Godwin</artist>
+      <year>1867-70</year>
+      <materials>Mahogany, ebonized, with silver-plated handles and inset panels of embossed leather paper</materials>
+      <desc>
+				This sideboard, made of ebonized mahogany, exemplifies Godwin's Anglo-Japanese style. While it remains a functional piece of furniture, the form has been abstracted and ornamented to create a visually intricate series of rectangular shapes. Adopting elements of Japanese design, Godwin arranges the cubic cabinets on top of the table so that they call attention to the negative space surrounding them. The process of ebonizing the wood made it more uniform in color and texture, allowing the viewer to focus on its structure. It seems almost metallic in its perfection, the smooth lines interrupted only by selective decoration and the silver-plated handles. With its geometric forms and austere lines and material, the work prefigures the modernism of Dde Stijl and the Bauhaus.
+				&lt;br/&gt;&lt;br/&gt;
+				Godwin began his career as an architect and designer working in the mid-century Victorian Gothic style. Through his association with Whistler, for whom he built The White House (1877-1878), Godwin began studying Japanese design and became a pioneer of the Anglo-Japanese style. His luxurious furniture and architectural spaces were also closely allied with the Aesthetic Movement.
+			</desc>
+      <collection>Victoria and Albert Museum, London</collection>
+    </artwork>
+    <artwork>
+      <title>Harmony in Blue and Gold: The Peacock Room</title>
+      <artist>James Whistler</artist>
+      <year>1876-77</year>
+      <materials>Oil paint and gold leaf on canvas, leather, and wood</materials>
+      <desc>
+				This multi-media installation was designed to display Frederick R. Leyland's prominent collection of Chinese porcelain. A wealthy shipping magnate, Leyland had commissioned Whistler to only paint a portrait of the renowned beauty, Christine Spartall, to decorate his dining room. When the architect in charge of the larger project, Thomas Jeckyll, became ill, Whistler took it upon himself to complete the decoration of the room. Although Leyland was pleased with the design, the unapproved and expensive project (some estimated $200,000 above budget) led to a falling-out between artist and patron. As an entire environment, however, the Peacock Room is a masterpiece; it was purchased by Charles Freer and is installed today at the Smithsonian Museum.
+				&lt;br/&gt;&lt;br/&gt;
+				This view of The Peacock Room shows Whistler's &lt;i&gt;Rose and Silver&lt;/i&gt;: &lt;i&gt;The Princess from the Land of Porcelain&lt;/i&gt; (1863-64), in a gold frame and framed by golden shelves. Nestled amongst the intricate geometry of this display, the painting is also &lt;i&gt;japoniste&lt;/i&gt; in iconography and composition. In its subject, it directly reflects the influence of Kitagawa Utamaro, most known for his prints of beautiful women. Holding a Japanese fan in her right hand and dressed in a floral kimono, the beauty stands pensively on a blue and white patterned rug, in front of a &lt;i&gt;byobu&lt;/i&gt; (Japanese screen).
+				&lt;br/&gt;&lt;br/&gt;
+				In designing the room, Whistler took his painting as the central motif, for instance, adding a blue and white rug similar to the one in his portrait. At the same time, the portrait is enriched by its placement, as the rose of the kimono takes on a golden hue from its surroundings. The painting and its environment are built to be considered as one unity.
+				&lt;br/&gt;&lt;br/&gt;
+				In the 20&lt;sup&gt;th&lt;/sup&gt; century, Whistler's all-encompassing design would influence Abstract Expressionists such as Robert Motherwell and David Smith. A more contemporary interpretation of the room was Darren Waterston's installation &lt;i&gt;Filthy Lucre&lt;/i&gt; (2013-2014), which recreated the opulent room in a state of decaying ruin, shelves overturned, vases broken, its gold oozing down the walls.
+			</desc>
+      <collection>Freer Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Dancers in the Rehearsal Room</title>
+      <artist>Edgar Degas</artist>
+      <year>1882-85</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This unusually elongated, horizontal canvas is further made strange by its unconventional composition. The left half is dominated by a blank diagonal wall, while a series of dancers are crowded into the remaining space. The viewer is further disoriented by the strange pose of the central figure, a young dancer who bends in half. As she stretches in this awkward position, her tulle creates a lacy white circle around her. Behind her, another ballet dancer stands in profile, and a third dancer, her skirt and arm flaring out, is partially visible. In the upper right, a flurry of partially visible dancers can be seen.
+				&lt;br/&gt;&lt;br/&gt;
+				Unlike other artists who included Japanese props or clothing in their paintings, Degas avoids all obvious reference to Japonism. Yet this painting, and many of his depictions of 19&lt;sup&gt;th&lt;/sup&gt;-century Paris are deeply infused with what he considered to be Japanese principles of composition and perspective. The elongated canvas, the emphasis on the asymmetrical diagonals of the wall, the large color planes, and the use of aerial perspective, all reflect the influence of &lt;i&gt;ukiyo-e&lt;/i&gt; prints. The pose of the ballet dancer bending over is directly borrowed from Hokusai who often depicted his figures caught in movement. Degas adopted this approach to figurative poses to create a greater sense of spontaneity and instantaneity, ideas that were central to his Impressionist style.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Père Tanguy (Father Tanguy)</title>
+      <artist>Vincent van Gogh</artist>
+      <year>1887</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				When van Gogh arrived in Paris, the self-taught artist set to studying both Impressionist painting and Japanese prints. Both sources quickly became incorporated in his personal style, as demonstrated by this portrait of Julien-François Tanguy, an art dealer and owner of an art supplies shop who was affectionately known as Père Tanguy. Painted with highly visible brushstrokes and brilliant colors, Tanguy appears before a background of Japanese woodblock prints. The pure and contrasting complementary colors and flat picture space of his Neo-Impressionism are indented to both Impressionism and Japanese art.
+				&lt;br/&gt;&lt;br/&gt;
+				Not only does van Gogh's portrait reveal his own interest in these influences, but he uses Japonism to conveys the character of Tanguy who appears as an introspective sage. Indeed, the stability of this generous supporter (who often accepted paintings in exchange for supplies) is implied by van Gogh's blending of Tanguy's hat with the print of Mt. Fuji behind him. Flattening the body of his sitter with strong outlines and brushwork, Tanguy appears to merge into the center of these vivid, yet harmonious juxtapositions of colors and images. The Japanese prints do not convey a sense of the exotic or mere visual interest, they are used to convey the honor and respect van Gogh felt for his friend. One of a series of three portraits, Tanguy kept this work in his personal collection until his death (when it was purchased by Auguste Rodin).
+				&lt;br/&gt;&lt;br/&gt;
+				Van Gogh preferred to use the term "Japonaiserie" to describe the inclusion of Japanese art and methods into his work. He had first encountered &lt;i&gt;ukiyo-e&lt;/i&gt; when he was still living in Antwerp; when he moved to Paris in 1886, he began collecting the prints along with his brother, Theo. The prints in the background are some of the Japanese prints that both brothers had collected (and van Gogh's &lt;i&gt;La courtisane&lt;/i&gt; (&lt;i&gt;The Courtesan&lt;/i&gt;) (1887) copied Keisai Eisen's print seen on the lower right of the canvas).
+				&lt;br/&gt;&lt;br/&gt;
+				Prone to mythologizing Japanese culture, van Gogh idealized Japanese life and artists. He imagined them working as monks in a communal setting, hoping to recreate this atmosphere in the Yellow House, where he briefly lived with Paul Gauguin in 1888. Quite tellingly, van Gogh wrote to Theo, "Look, we love Japanese painting, we've experienced its influence - all the Impressionists have that in common - [so why not go to Japan], in other words, to what is the equivalent of Japan, the south? So I believe that the future of the new art still lies in the south after all."
+			</desc>
+      <collection>Musée Rodin, Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Japanese Woodcut</title>
+      <artist>Paul Gauguin</artist>
+      <year>1889</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Gauguin's interest in non-Western cultures included elements of Japonism, both in the iconography of his paintings and their structure. This still life of two floral arrangements includes Utagawa Toskiiu's print, depicting Ichikawa Kodajki, a famous actor, in his role as the white-haired, spear bearing hunter, Nagohe. But Gauguin has also adopted the simplified color palette, absence of depth and shadow, and the division of the pictorial plane into several broad areas found in Japanese prints, creating a pictorial minimalism and flatness that pushes his still life away from the illusionistic tradition of the genre. The leaves along the border further suggest that the work is not trying to create an illusionistic depth but signals that it is in fact only a flat painted surface, vibrant with color.
+				&lt;br/&gt;&lt;br/&gt;
+				In selecting these objects, the work exemplifies how Japonism informed Gauguin's development of Symbolism and Synthecism, two movements where he played a major role. The jug is Gauguin's own sculpture, &lt;i&gt;Jug in the Form of a Head, Self-portrait&lt;/i&gt; (1889). It seems to gaze at the other vase of flowers, as does Nagohe, creating a humorous portrait effect. Gauguin sets himself as an equal to the Japanese artist. He chooses elements that become symbols, here, juxtaposing nature with his self-portrait, exotic culture, and art.
+			</desc>
+      <collection>Tehran Museum of Contemporary Art, Tehran, Iran</collection>
+    </artwork>
+    <artwork>
+      <title>Maternal Caress</title>
+      <artist>Mary Cassatt</artist>
+      <year>1890-91</year>
+      <materials>Drypoint, aquatint and soft ground etching, printed in color from three plates</materials>
+      <desc>
+				In 1890, after seeing the &lt;i&gt;ukiyo-e&lt;/i&gt; prints at the École des Beaux-Arts in Paris, Cassatt began work on a series of ten color etchings, including this one, inspired by Kitagawa Utamaro's prints of ordinary moments in women's lives, such as &lt;i&gt;Midnight: Mother and Sleepy Child&lt;/i&gt; (1790). Finding an analogue to her own paintings of domestic spaces, Cassatt explored the composition and flatness of the print medium. This work, with its empty foreground and simple background rendered in broad planes of color, emphasizes the figure of a young mother. The pattern of her white patterned and floral chair (a pattern continued in the wallpaper) contrast with the nude child she embraces, creating a play between two- and three-dimensional forms.
+				&lt;br/&gt;&lt;br/&gt;
+				This compression of space is further emphasized by the cropping of the image, which limits the view to a series of repeating patterns. As a result, line and color become a focal point, underscoring the intimate relationship of mother and child. The curving outlines of the two figures in the chair, coupled with the variations of the limited color palette create a sense of harmony. Cassatt's subsequent masterpiece, &lt;i&gt;The Child's Bath&lt;/i&gt; (1893) echoed this flattened pictorial space, limited palette, and emphasis on pattern to become nearly abstract in its geometry, demonstrating the importance of Japonism to her style.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Divan Japonais</title>
+      <artist>Henri de Toulouse-Lautrec</artist>
+      <year>1892-93</year>
+      <materials>Lithograph printed in four colors, woven paper</materials>
+      <desc>
+				Commissioned by the owner of the popular Montmartre dance hall, Le Divan Japonais, this lithographic poster celebrated the club's 1893 renovation in the Japanese style. In his advertisement, however, Toulouse-Lautrec focuses not on the trendy new décor of the hall, but rather the fashionability of its identifiable clientele. Jane Avril, a famous cancan dancer, appears at the center, watching a performance by Toulouse-Lautrec's favorite singer, Yvette Guilbert (the performer is recognizable by her characteristic long black gloves). The art critic Édouard Dujardin lingers in the background, his cane mirroring the delicate curve of a golden chair back.
+				&lt;br/&gt;&lt;br/&gt;
+				Except for the title, which repeats the name of the hall, the work makes no obvious references to Japanese art, but rather draws upon its principles to invent modern graphic design. The Japonism of the new club is expressed through the style of the poster itself. This recreates the atmosphere by simulating aspects of Japanese prints, including the strong silhouettes, pictorial flatness, limited color palette, and asymmetrical diagonals of the composition. Like many popular Japanese prints, the subjects are famous courtesans, actors, and other celebrities, depicted with exaggerated expressions and body language. Toulouse-Lautrec sharply conveys the character of the place and the attitudes of its denizens, and at the same time elevates advertising to a fine art.
+				&lt;br/&gt;&lt;br/&gt;
+				Toulouse-Lautrec's work is an enduring influence in graphic design, but it was also important to the avant-garde in its contemporary subject matter that erased boundaries between high and low art. Pablo Picasso was particularly influenced by his work, drawn to its raw energy, its louche subjects, and its bold composition. It also prefigures Pop Art with its emphasis on celebrity.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Design for the Frederick C. Robie Residence</title>
+      <use_big_image>false</use_big_image>
+      <artist>Frank Lloyd Wright</artist>
+      <year>1910</year>
+      <materials>Pencil and ink on paper</materials>
+      <desc>
+				This private residence famously exemplifies Wright's influential Prairie School style with its bands of windows, strong horizontal lines, hipped pyramidal roofs, and a large rectangular fireplace. Although the horizontals do suggest the broad expanse of prairie marked by the horizon, the design was deeply influenced by Wright's study of Japanese design, a lifelong preoccupation.
+				&lt;br/&gt;&lt;br/&gt;
+				First encountering Japanese architecture in Chicago at the Phoenix Pavilion of the1893 World's Columbian Exposition, Wright became enamored of Japanese art and design. Travelling to Japan in 1905, he bought hundreds of Japanese prints (even becoming a noted dealer in &lt;i&gt;ukiyo-e&lt;/i&gt;) and he often included elements of Japanese print design in his architectural sketches. More fundamental, however, was his research into the philosophy of Japanese architecture, particularly in the relationships between exterior and interior spaces and the simplification of forms. As he said, "At last I had found one country on earth where simplicity, as nature, is supreme."
+			</desc>
+      <collection>Collection of the Frank Lloyd Wright Trust , Chicago, Illinois</collection>
+    </artwork>
+    <artwork>
+      <title>Lady with Fan</title>
+      <artist>Gustav Klimt</artist>
+      <year>1917-18</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this example, Klimt's iconic portrayals of beautiful women makes explicit a Japanese influence in the woman's kimono and open fan.
+				&lt;br/&gt;&lt;br/&gt;
+				Klimt was influenced by Japanese prints; his early graphic work, &lt;i&gt;Fish Blood&lt;/i&gt; (1897-98), reflects their cropped composition, linear outline of form, and eroticism. The Rinpa school was also important to his creation of highly stylized and decorative portraits. For example, Klimt's work is not unlike Ogata Kōrin's &lt;i&gt;Red and White Plum Blossoms&lt;/i&gt; (early-18&lt;sup&gt;th&lt;/sup&gt; century) in its use of a gold foil-like background, arabesque lines, curvilinear patterns, and flower imagery. Yet, Klimt's Japonism is somewhat diluted, as we move into the 20&lt;sup&gt;th&lt;/sup&gt;-century: the dragons are a borrowed Chinese motif, and Byzantine mosaics also inspired his use of gold backgrounds.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Tanagra (The Builders, New York)</title>
+      <artist>Childe Hassam</artist>
+      <year>1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Childe Hassam's images of New York City life were popular among the American upper class who appreciated how his Impressionist approach softened and beautified the urban grid. This work, while predominantly an interior scene, juxtaposes this refined domestic space with the modern city, visible through the open curtains.
+				&lt;br/&gt;&lt;br/&gt;
+				At the painting's center, an elegant woman holds a small sculpture, identified in the title as a Tanagra. This style of ancient Greek terracotta had been widely popular during the 19&lt;sup&gt;th&lt;/sup&gt; century, admired for their delicate realism. This classical reference is amplified by the woman's flowing gown that evokes both a classical Greek garment and a Japanese silk. The room is richly appointed with the inclusion of an elaborately decorated Japanese folding screen and blue-and-white porcelain bowl on a highly polished table. The elegant apartment radiates with Impressionistic light and color; even the lace-curtained window shimmers with blue highlights.
+				&lt;br/&gt;&lt;br/&gt;
+				Hassam's painting suggests a certain ambivalence. While the interior is warm and rich, it appears static when compared to the city outside. The woman herself echoes the statue, particularly as her pale complexion contrasts with the vivid palette of her surroundings. The Japonism in this work conveys the splendor of a distant and exotic world, but also a sense of a world that belongs to the past.
+			</desc>
+      <collection>Smithsonian Museum of American Art, Washington DC</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>manet_edouard</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>whistler_james_abbott_mcneill</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>degas_edgar</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>van_gogh_vincent</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>gauguin_paul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>cassatt_mary</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>toulouse_lautrec_henri</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>wright_frank_lloyd</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>klimt_gustav</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>hassam_childe</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>godwin_e_w</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Looking East: How Japanese Art Inspired Monet, van Gogh, and other Western Artists</title>
+          <link is_inline_video="true" inline_video_type="youtube">FvDJFxnXlsU</link>
+          <info>
+						By Asian Art Museum
+					</info>
+        </entry>
+        <entry>
+          <title>The Peacock Room Comes to America</title>
+          <link is_inline_video="true" inline_video_type="youtube">8ATaaVkiYmc</link>
+          <info>Explanation by curators and a view behind the scenes</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures and Talks:" class="clips">
+        <entry recommended="true">
+          <title>Trading in Japonisme: the French Obsession with Japanese Art</title>
+          <link is_inline_video="true" inline_video_type="youtube">lh68WIiTBXI</link>
+          <info>
+						By Julie Nelson Davis, James Ulak, Gabe Weisberg, 
+						&lt;br&gt;
+						Freer/Sackler
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Many Worlds of Ukiyo-e</title>
+          <link is_inline_video="true" inline_video_type="youtube">46w-140Zf9E</link>
+          <info>
+						By Sarah E. Thompson
+						&lt;br&gt;
+						Museum of Fine Arts, Boston, Massachusetts
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Vincent van Gogh and Japan</title>
+          <link is_inline_video="true" inline_video_type="youtube">-mnBo87-T80</link>
+          <info>
+						By Simon Kelly
+						&lt;br&gt;
+						FristCenter lecture
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Other Videos:" class="clips">
+        <entry recommended="true">
+          <title>The Peacock Room: A Closer Look</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ah48jGe-xpI</link>
+          <info>
+						ForaTV lecture
+						&lt;br&gt;
+						The Frick
+					</info>
+        </entry>
+        <entry>
+          <title>Traditional Japanese Art as a means to Organic Architecture (Frank Lloyd Wright)</title>
+          <link>http://flwright.org/researchexplore/nutevideo</link>
+          <info>
+					By Kevin Nute
+					&lt;br&gt;
+					Terra Foundation for American Art 
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Peacock Room: Filthy Lucre by Darren Waterstone</title>
+          <link>http://archive.asia.si.edu/filthylucre/</link>
+          <info>
+						Smithsonian
+					</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Japonisme and the Rise of the Modern Art Movement: The Arts of the Meiji Period</title>
+          <link>0500239134</link>
+          <info>By Gregory Irvine</info>
+        </entry>
+        <entry recommended="true">
+          <title>Japonisme: The Japanese Influence on Western Art Since 1858</title>
+          <link>0500281637</link>
+          <info>By Siegfried Wichmann</info>
+        </entry>
+        <entry>
+          <title>Influence of Japanese Art on Design</title>
+          <link>1586857495</link>
+          <info>By Hannah Siggur</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Collection of Bracquemond's Service Rousseau</title>
+          <link>http://www.musee-orsay.fr/fr/collections/catalogue-des-oeuvres/resultat-collection.html?no_cache=1&amp;S=2&amp;zsz=1&amp;zs_r_2_z=3&amp;zs_r_2_w=Bracquemond%2C%20Félix&amp;zs_ah=oeuvre&amp;zs_rf=mos_a&amp;zs_mf=21&amp;zs_sf=0&amp;zs_send_x=1&amp;zs_liste_only=1</link>
+          <info>
+						Musée d'Orsay
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Examination: Cassatt's Artistic Portrayals of Contemporary Women and Children</title>
+          <link>http://www.artic.edu/aic/resources/resource/296</link>
+          <info>
+						By J. Barter, et al.
+						&lt;br&gt;
+						Art Institute of Chicago 
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>
+						Whistler's Peacock Room is Reimagined in a State of Oozing and Broken Decay						
+					</title>
+          <link>https://www.smithsonianmag.com/smithsonian-institution/whistler-peacock-room-reimagined-state-oozing-broken-decay-180955505/</link>
+          <info>
+						By Wendy Moonan
+						&lt;br&gt;
+						smithsonian.com 
+						&lt;br&gt;
+						June 5, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Frank Lloyd Wright Credited Japan for His All-American Aesthetic</title>
+          <link>http://www.smithsonianmag.com/arts-culture/frank-lloyd-wrights-japanese-education-180963617/</link>
+          <info>
+						By Kevin Nute
+						&lt;br&gt;
+						smithsonian.com 
+						&lt;br&gt;
+						June 8, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Frank Lloyd Wright and Japanese art: Heaven, closer to earth</title>
+          <link>https://www.economist.com/blogs/prospero/2012/10/frank-lloyd-wright-and-japanese-art</link>
+          <info>
+						By A.Y.
+						&lt;br&gt;
+						The Economist 
+						&lt;br&gt;
+						Oct 12, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>How a Set of Rediscovered 19&lt;sup&gt;th&lt;/sup&gt;-Century Japanese Doors Leads to Frank Lloyd Wright</title>
+          <link>https://hyperallergic.com/233218/how-a-set-of-rediscovered-19th-century-japanese-doors-leads-to-frank-lloyd-wright/</link>
+          <info>
+						By Claire Voon
+						&lt;br&gt;
+						Hyperallergic
+						&lt;br&gt;
+						August 31, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The ecstasy of influence: An exhibition of precious objects and jewelry inspired by Japan's arts</title>
+          <link>https://www.economist.com/blogs/prospero/2011/05/japonisme</link>
+          <info>
+						By P.W.
+						&lt;br&gt;
+						The Economist 
+						&lt;br&gt;
+						May 10, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>East Meets West - Japonisme and Impressionism</title>
+          <link>http://www.artic.edu/aic/collections/my/east-meets-west-japonisme-and-impressionism/13453</link>
+          <info>
+						Art Institute of Chicago
+					</info>
+        </entry>
+        <entry>
+          <title>
+						Birds of a Feather					
+					</title>
+          <link>https://www.newyorker.com/magazine/2011/04/18/birds-of-a-feather-peter-schjeldahl</link>
+          <info>
+						By Peter Schjeldahl
+						&lt;br&gt;
+						April 18, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Frank Lloyd Wright and Japanese Prints</title>
+          <link>https://www.jstor.org/stable/3258756?seq=1</link>
+          <info>By Julia Meech-Pekarik</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

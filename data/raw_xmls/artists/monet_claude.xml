@@ -1,0 +1,494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>monet_claude</id>
+    <name>Claude Monet</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1852 - 1926</years>
+    <description>Claude Monet was masterful painter of light and atmosphere whose observations viewed at various times of the day, were captured in sequences of paintings.</description>
+    <barnebys_item>147</barnebys_item>
+    <use_big_images>true</use_big_images>
+    <highlight>4</highlight>
+    <image_desc>true</image_desc>
+    <occupation>Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>November 14, 1840</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>December 5, 1926</deathDate>
+    <deathPlace>Giverny, France</deathPlace>
+    <big_bio_box_img>Detail of &lt;i&gt;Garden at Giverny&lt;/i&gt; (1900) by Claude Monet</big_bio_box_img>
+    <bio_highlight>From the theoretical and critical battles with the emerging Impressionists in Paris, to the later love of spending his time outdoors studying light, Monet was driven all his life by his passions.  As he said "I am good at only two things, and those are gardening and painting."</bio_highlight>
+    <bio_short>Monet's life, progression of art making, and various anecdotes</bio_short>
+    <pub_time>11/22/2011</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>impressionism</include>
+    <include>naturalism</include>
+  </includes>
+  <similar_movements>
+    <movement>impressionism</movement>
+    <movement>realism</movement>
+    <movement>post_impressionism</movement>
+    <movement>naturalism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>renoir_pierre_auguste</artist>
+    <artist>bazille_frederic</artist>
+    <artist>sisley_alfred</artist>
+    <artist>whistler_james_abbott_mcneill</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Color is my daylong obsession, joy, and torment."</q>
+    <q>"For me, a landscape does not exist in its own right, since its appearance changes at every moment; but the surrounding atmosphere brings it to life - the light and the air which vary continually. For me, it is only the surrounding atmosphere which gives subjects their true value."</q>
+    <q>"Everyone discusses my art and pretends to understand, as if it were necessary to understand, when it is simply necessary to love."</q>
+    <q>"I am driven more and more frantic by the need to render what I experience. Working so slowly I become desperate, but the further I go the more I see that one must work very hard to succeed in rendering what I am looking for: 'Instantaneity', especially the envelope, the same light that diffuses everywhere and, more than ever, things come easily and at once disgust me."</q>
+    <q>"The motif is insignificant for me; what I want to represent is what lies between the motif and me."</q>
+    <q>"Once more I have undertaken things which are impossible to do; water with grasses waving in depths...It's wonderful to see but it drives you mad to want to do it. But I am always trying things like that."</q>
+    <q>"When you go out to paint try to forget what object you have before you - a tree, a house, a field or whatever. Merely think, here is a little square of blue, here an oblong of pink, here a streak of yellow, and paint it just as it looks to you, the exact color and shape, until it emerges as your own naive impression of the scene before you."</q>
+    <q>"I tell myself that anyone who says he has finished a canvas is terribly arrogant. Finished means complete, perfect, and I toil away without making any progress, searching, fumbling around, without achieving anything much."</q>
+    <q>"Other painters paint a bridge, a house, a boat.. I want to paint the air in which the bridge, the house and the boat are to be found - the beauty of the air around them, and that is nothing less than the impossible."</q>
+    <q>"Everything that is painted directly and on the spot always has a force, a power, a vivacity of touch that cannot be re-created in the studio."</q>
+    <q>"Since the appearance of Impressionism, the official salons, which used to be brown, have become blue, green, and red... But peppermint or chocolate, they are still confections."</q>
+    <q author="Paul Cézanne">"Monet is just an eye - but God, what an eye!"</q>
+  </quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <article>
+    <synopsys>Claude Monet was the leader of the French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt; movement, literally giving the movement its name. As an inspirational talent and personality, he was crucial in bringing its adherents together. Interested in painting in the open air and capturing natural light, Monet would later bring the technique to one of its most famous pinnacles with his series paintings, in which his observations of the same subject, viewed at various times of the day, were captured in numerous sequences. Masterful as a colorist and as a painter of light and atmosphere, his later work often achieved a remarkable degree of abstraction, and this has recommended him to subsequent generations of abstract painters.</synopsys>
+    <key_ideas>
+      <idea>Inspired in part by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, Monet departed from the clear depiction of forms and linear perspective, which were prescribed by the established art of the time, and experimented with loose handling, bold color, and strikingly unconventional compositions. The emphasis in his pictures shifted from representing figures to depicting different qualities of light and atmosphere in each scene.</idea>
+      <idea>In his later years, Monet also became increasingly sensitive to the decorative qualities of color and form. He began to apply paint in smaller strokes, building it up in broad fields of color, and exploring the possibilities of a decorative paint surface of harmonies and contrasts of color. The effects that he achieved, particularly in the series paintings of the 1890s, represent a remarkable advance towards abstraction and towards a modern painting focused purely on surface effects.</idea>
+      <idea>An inspiration and a leader among the Impressionists, he was crucial in attracting &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt; to work alongside each other in and around Paris. He was also important in establishing the exhibition society that would showcase the group's work between 1874 and 1886.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in Paris, Oscar Claude Monet moved at the age of five to Le Havre, a seaside town in northern France. His father was a successful grocer that later turned to shipping.  His mother died when he was 15. The ocean and rugged coastline of Northern France had a profound effect on him at an early age, and he would often run away from school to go for walks along the cliffs and beaches. As a youth, he received instruction at the College du Havre from a former pupil of the famous Neo-Classical artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;. Creative and enterprising from an early age, he drew caricatures in his spare time and sold them for 20 francs apiece. Capitalizing on his early aptitude for art, he managed to save a good bit of money from his art sales.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Claude Monet (1860-1861) Photograph by Etienne Carjat" show="0">/images20/photo/monet_claude_11.jpg</p>
+          <p type="p">A pivotal experience occurred in 1856 when Monet became friends with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boudin_eugene"&gt;Eugéne Boudin&lt;/span&gt;, a landscape painter famous for his scenes of northern French coastal towns. Boudin encouraged him to paint outdoors, and this &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt; technique changed Monet's concept of how art could be created: "It was as if a veil was torn from my eyes; I had understood. I grasped what painting could be."</p>
+          <p type="p">Despite being rejected for a scholarship, in 1859 Monet moved to Paris to study with help from his family. However, instead of choosing the more customary career path of a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_salon"&gt;Salon painter&lt;/span&gt; by enrolling at the École des Beaux-Arts, Monet attended the more &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; Académie Suisse, where he met fellow artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Portrait of Claude Monet (1860-1861) by Gilbert de Severac" show="1">/images20/photo/monet_claude_1a.jpg</p>
+          <p type="p">Obliged to serve in the military, in 1861 Monet was sent to Algiers. Like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt; before him, the north African environment stimulated Monet and affected his artistic and personal outlook. Coming home to Le Havre after his service, his "final education of the eye" was provided by the Dutch landscape and marine artist Johan Jongkind. Following this, Monet again left for Paris, attending the studio of Swiss artist Charles Gleyre, which included such students - and future Impressionists - as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bazille_frederic"&gt;Frédéric Bazille&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt;.</p>
+          <p type="p">In 1865, the Paris Salon accepted two of Monet's seascapes for exhibition. However, the artist was feeling confined by working in a studio, preferring his earlier experience of painting in nature, so he moved just outside Paris to the edge of the Fontainebleau forest. Using his future wife, Camille Doncieux, as his sole model, his ambitiously large &lt;i&gt;Women in the Garden&lt;/i&gt; (1866-67) was a culmination of the ideas and themes in his earlier work. Monet was hopeful that the work would be included in the Paris Salon, but his style kept him at odds with the jurors and the picture was refused, leaving the artist devastated. The official salon at this time still valued &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romanticism&lt;/span&gt;. (In 1921, to assuage the 50-year-old insult, Monet made the French government purchase the painting for the enormous sum of 200,000 francs.)</p>
+          <p type="p">To escape the Franco-Prussian War in 1870, Monet took refuge in London, producing many scenes such as &lt;i&gt;Westminster Bridge&lt;/i&gt; (1871). His wife and their new baby boy Jean joined him. He visited London museums and saw the works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constable_john"&gt;John Constable&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-turner_jmw"&gt;J.M.W. Turner&lt;/span&gt;, whose romantic naturalism clearly influenced his use of light. Most importantly, he met Paul Durand-Ruel, who ran a new modern art gallery on Bond Street. Durand-Ruel became a major supporter of Monet and Pissarro, and later Renoir, Degas, and other French Impressionists.</p>
+          <p type="p">Returning to France after the war, Monet settled his family in Argenteuil, a suburb of Paris along the Seine River. Over the next six years he developed his style and documented the changes in the growing town in over 150 canvases. His presence also attracted Parisian friends including Renoir and Manet. While Manet was 10 years older and became an established artist much earlier than Monet, by the 1870s each influenced the other in significant ways, and Monet had successfully won Manet over to &lt;i&gt;plein air&lt;/i&gt; painting by 1874.</p>
+          <p type="img" alt="Claude Monet Photo by Theodore Robinson" show="0">/images20/photo/monet_claude_13.jpg</p>
+          <p type="p">In a continued effort to protest the salon system, Monet and his friends organized their own exhibition in 1874, held in the vacated studio of photographer and caricaturist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Nadar&lt;/span&gt;. This became known as the first Impressionist exhibition. These artists, including Renoir, Degas, and Pissarro, were the first artists to collectively respond to the changes in their city. The modernization of Paris was evident in the wider boulevards needed to accommodate the expanding fashions of public life and growing traffic of consumerism. Not only was their subject matter new, but the way they portrayed this reality was unique as well. Intuitive feeling and the essence of spontaneity, of the moment, were impressed upon the canvas. It was through the 1873 work &lt;i&gt;Impression, Sunrise&lt;/i&gt; that Monet inadvertently gave the movement its name, although that name was actually initially used by writers to criticize these types of works.</p>
+          <p type="p">While Monet's upbringing was rather middle class, his extravagant tastes led him to live much of his life in varying degrees of poverty and debt. His paintings were not a decent source of income and he often had to borrow money from his friends. After receiving several commissions throughout the 1870s, Monet enjoyed some financial success, but was in dire straits by the end of the decade. </p>
+          <p type="img" alt="Claude Monet Self-Portrait with a Beret - 1886" show="1">/images20/photo/monet_4.jpg</p>
+          <p type="p">In 1877, the Monet family was living in the town of Vetheuil with Alice Hoschede and her six children.  The Hoschede family were great friends and patrons of Monet's work, but the husband's business went bankrupt, and he ended up abandoning his family.  Thus, Monet had to find an inexpensive house for the large household.  Camille gave birth to their second son, Michel in 1878. But when Camille died about a year and a half later, there was a change in Monet's work, focusing more on the flux of experiential time and the mediating effects of atmosphere and personality on subject matter.  Alice continued living with Monet, and she became his second wife in 1892 (after Ernest Hoschede passed away).</p>
+          <p type="img" alt="Monet’s gardens and waterlily pond at Giverny." show="1">/images20/photo/monet_claude_16.jpg</p>
+          <p type="p">In 1883, Monet was looking for a house for Alice and their (combined) eight children.  He happened on a property in a sleepy town called Giverny, that had a total of 300 inhabitants. He fell in love with a house and garden that he as able to rent, and later buy (and greatly expand) in 1890.</p>
+          <p type="p">The property at Giverny was Monet's primary inspiration for the last three decades of his life. He created a Japanese garden for contemplation and relaxation, making a pond filled with water lilies with an arched bridge.  He famously said: "My garden is my most beautiful masterpiece. I work at my garden all the time and with love. What I need most are flowers. Always.  My heart is forever in Giverny, perhaps I owe it to the flowers that I became a painter."</p>
+          <p type="p">It was at Giverny that Monet found his ultimate success.  His paintings began to sell in the United States, England, and locally.  He became quite the gentleman employing a large staff in his house, including six gardeners that maintained his beloved garden and lily pond.</p>
+          <p type="p">Monet was less concerned with modernity in his works and more with atmosphere and environment. His series of grainstacks, painted at different times throughout the day, received critical acclaim from opinion-makers, buyers, and the public when exhibited at Durand-Ruel's gallery. He then turned his sights to Rouen Cathedral, making similar studies of the effects of changing mood, light, and atmosphere on its facade at different times of the day. The results were dozens of canvases of brilliant, slightly exaggerated colors that formed a visual record of accumulated perceptions.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="img" alt="Toward the end of his life, Monet preferred the solace of nature. He is pictured here int he late 1910s, after the death of his second wife and of his son Jean." show="1">/images20/photo/monet_claude_17.jpg</p>
+          <p type="p">Ultimately, Monet preferred to be alone with nature, creating his paintings rather than participating in theoretical or critical battles within the artistic and cultural scene of Paris. Whereas he traveled throughout the 1880s and 1890 to places like London, Venice, Norway, and around France - in 1908 he settled for the remainder of his life in Giverny. The year 1911 saw the death of his second wife Alice, followed by the passing on of his son Jean. Shattered by these deaths, the ragings of the First World War, and even a cataract forming over one of his eyes, Monet essentially ceased to paint.</p>
+          <p type="p">At the time, the French statesman Georges Clemenceau who happened to also be Monet's friend asked Monet to create an artwork that would lift the country out of the gloom of the Great War. At first, Monet said he was too old and not up to the task, but eventually Clemenceau lifted him out of his mourning by encouraging him to create a glorious artwork - what Monet called "the great decoration". Monet conceived a continuous sequence of waterscapes situated in an oval salon as a world within a world. A new studio with a glass wall facing the garden was built for this purpose, and despite having cataracts (one of which he had surgically removed), Monet was able to move a portable easel around to different places within the studio to capture the ever-changing light and perspective of his water lilies.  He continued to work on his water paintings right up until the end of his life.</p>
+          <p type="p">The Orangerie museum was ultimately built with two eliptical rooms constructed to house Monet's water lilies.  The all-over compositions of the canvases and the designed rooms allowed the viewer to feel as if they were within the water surrounded by the foliage.  The ultimate installation was loved by many critics, and was most famously proclaimed "the Sistine Chapel of Impressionism" by the Surrealist writer and artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-masson_andre"&gt;Andre Masson&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Claude Monet in Garden" show="0">/images20/photo/monet_claude_15.jpg</p>
+          <p type="p">Monet's extraordinarily long life and large artistic output befit the enormity of his contemporary popularity. Impressionism, for which he is a pillar, continues to be one of the most popular artistic movement as evidenced by its massive popular consumption in the form of calendars, postcards, and posters. Of course, Monet's paintings command top prices at auctions and some are considered priceless, in fact, Monet's work is in every major museum worldwide.</p>
+          <p type="p">Even though his works are now canonized, for a number of years after Monet's death, he was only known in select circles of art lovers. The major renaissance of his work occurred in New York by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;.  Artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rothko_mark"&gt;Mark Rothko&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, and critics such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt; learned much from Monet's large canvases, and semi-abstract, all-over compositions.  &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop artists&lt;/span&gt; also referred to Monet's haystacks in pieces like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol's&lt;/span&gt; repeating portraits. Similarly, many &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalists&lt;/span&gt; used the same technique in their serial display of objects.  In fact, Impressionism and Monet are now considered the basis for all of modern and contemporary art, and are thus quintessential to almost any historical survey.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="courbet_gustave">The Wave (1870)</artwork>
+    <artwork from="artist" page="manet_edouard">Boating (1874)</artwork>
+    <artwork from="artist" page="renoir_pierre_auguste">La Grenouillère (1869)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>boudin_eugene</entity>
+        <entity>courbet_gustave</entity>
+        <entity>millet_jean_francois</entity>
+        <entity>manet_edouard</entity>
+        <entity>turner_jmw</entity>
+      </column>
+      <column>
+        <entity>renoir_pierre_auguste</entity>
+        <entity>bazille_frederic</entity>
+        <entity>baudelaire_charles</entity>
+        <entity>sisley_alfred</entity>
+        <entity>zola_emile</entity>
+      </column>
+      <column>
+        <entity>neoclassicism</entity>
+        <entity>japonism</entity>
+        <entity>realism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>van_gogh_vincent</entity>
+        <entity>cezanne_paul</entity>
+        <entity>degas_edgar</entity>
+        <entity>seurat_georges</entity>
+        <entity>pissarro_camille</entity>
+      </column>
+      <column>
+        <entity>durand_ruel_paul</entity>
+        <entity>mallarme_stephane</entity>
+        <entity>whistler_james_abbott_mcneill</entity>
+        <entity>clemenceau_georges</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>post_impressionism</entity>
+        <entity>symbolism</entity>
+        <entity>pointillism</entity>
+        <entity>fauvism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Women in the Garden</title>
+      <year>1866-67</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Women in the Garden&lt;/i&gt; was painted at Ville d'Avray using his future wife Camille as the only model. The goal of this large-scale work (100" by 81"), while meticulously composed, was to render the effects of true outdoor light, rather than regard conventions of modeling or drapery. From the flickers of sunlight that pierce the foliage of the trees to delicate shadows and the warm flesh tones that can be seen through his model's sleeve, Monet details the behavior of natural light in the scene. In January 1867, his friend and fellow Impressionist Frederic Bazille purchased the work for the sum of 2,500 francs in order to help Monet out of the extreme debt that he was suffering from at the time.</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Westminster Bridge (aka The Thames below Westminster)</title>
+      <year>1871</year>
+      <materials>Oil on canvas</materials>
+      <desc>Painted on the Embankment in London, Monet's &lt;i&gt;Westminster Bridge&lt;/i&gt; is one of the finest examples of his work during the time he and his family were in wartime refuge. This simple, asymmetrical composition is balanced by the horizontal bridge, the boats floating upon the waves with the vertical wharf and ladder in the foreground. The entire scene is dominated by a layer of mist containing violet, gold, pink, and green, creating a dense atmosphere that renders the architecture in distant, blurred shapes.</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Boulevard des Capucines</title>
+      <year>1873</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Boulevard des Capucines&lt;/i&gt; captures a scene of the hustle and bustle of Parisian life from the studio of Monet's friend, the photographer Felix Nadar. Applying very little detail, Monet uses short, quick brushstrokes to create the "impression" of people in the city alive with movement. Critic Leroy was not pleased with these abstracted crowds, describing them as "black tongue-lickings." Monet painted two views from this location, with this one looking towards the Place de l'Opera. The first Impressionist exhibition was held in Nadar's studio, and rather appropriately, Monet included this piece in the show.</desc>
+      <collection>Nelson-Atkins Museum, Kansas City, USA</collection>
+    </artwork>
+    <artwork>
+      <title>Woman with a Parasol - Madame Monet and Her Son</title>
+      <year>1875</year>
+      <materials>Oil on canvas</materials>
+      <desc>One of Monet's most popular figure paintings, &lt;i&gt;Lady with a Parasol&lt;/i&gt; showcases the woman's accessory. The parasol itself makes many appearances in his work, primarily because when painting from real life outdoors, most women would use one to protect their skin and eyes. But the object also creates a contrast of light and shadows on the figure's face and clothing, indicating which direction the actual light is coming from. Quite uniquely, Monet paints into the light letting the model's features fade into the shadow.  Most artists would avoid such a positioning of their subject as it is difficult to reproduce any detail - and even to look at your subject.  But Monet is interested in light itself, and captures it in the scene in an unmatched way.</desc>
+      <collection>The National Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>The Rue Montorgueil in Paris. Celebration of June 30th, 1878</title>
+      <year>1878</year>
+      <materials>Oil on canvas</materials>
+      <desc>Historians and scientists believe that Monet happened upon discoveries in vision and optics.  Professor Ian Aaronson believes that Monet was endowed with hyper-sensitive visual abilities where he could notice things that most people would miss.  For example, in this work if one were to look at the way the flags themselves are painted, they look quite blurry and unclear.  But when the viewer looks down at the crowd, the flags seem to wave in peripheral vision (best to try this on the real painting, not a reproduction).  As in this example, Monet seems to have come upon several particularities of vision, and painterly effects, that were not properly proved by science for many years after his death.</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Rouen Cathedral: The Facade at Sunset</title>
+      <year>1894</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+		Monet's &lt;i&gt;Rouen Cathedral: The Facade at Sunset&lt;/i&gt; series is one of his most renowned. He painted the cathedral at different times of day to explore the effects of different light during winter. The burnt orange and blue appearance of the cathedral dominates the canvas, with only scattered views of sky at the top. Layered over the top of the Gothic structure, the brushstrokes play with the light and atmosphere on the stones, and the details on their carved surfaces. In 1895, he exhibited twenty &lt;i&gt;Cathedrals&lt;/i&gt; at the Durand-Ruel Gallery that were both criticized and praised by viewers that either struggled with or championed his artistic, scientific, and poetic innovations. As art historian Madalena Dabrowski wrote: "the site is [only] a reference point, but is transformed and conditioned by light, color, and Monet's own vision."
+		&lt;br/&gt;&lt;br/&gt;
+		Painting in a series, or making any kind of artwork with subtle changes from one piece to the next has been a staple of modern art for many artists, from Andy Warhol to the Minimalists, to Conceptual artists.  Not only has it been a way for artists to explore subtle difference between subjects, but some artists reference Monet directly in their series works. 
+		</desc>
+      <collection>Museums of Fine Arts, Boston</collection>
+    </artwork>
+    <artwork>
+      <title>Water Lilies</title>
+      <year>1915-26</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+		The &lt;i&gt;Nymphéas&lt;/i&gt; cycle is a part of Monet's water landscape group that he started working on in the late 1890s. As explained on the Musée de l'Orangerie website: the word nymphéa comes from the Greek word numphé, meaning nymph, which takes its name from the Classical myth that attributes the birth of the flower to a nymph who was dying of love for Hercules. In fact, it is also a scientific term for a water lily.
+		&lt;br/&gt;&lt;br/&gt;
+		This series occupied Monet until his death 30 years later and includes dozens of canvases creating a panorama of water, lilies, and sky in his studio inspired by his Giverny garden. The most famous of this series are the eight large panels of Water Lillies that are installed in two eliptical rooms of the L'Orangerie museum in Paris. 
+		&lt;br/&gt;&lt;br/&gt;
+		Monet describes his goals for the project: "Imagine a circular room, whose walls are entirely filled by a horizon of water spotted with these plants. Walls of transparency - sometimes green, sometimes verging on mauve. The silence and calm of the water reflecting the flowering display; the tones are vague, deliciously nuanced, as delicate as a dream."		
+		&lt;br/&gt;&lt;br/&gt;
+		The ultimate installation is considered to be one of the greatest achievement of Monet, Impressionism, and even 20&lt;sup&gt;th&lt;/sup&gt;-century art. The lighting and setup in the museum maximizes the viewers' experience next to these works, providing, as Monet said, an "illusion of an endless whole, of a wave with no horizon and no shore".  These works would be enormously influential for many artists, but the all over composition would particularly inspire the Abstract Expressionist large-scale canvases of The New York School.
+      </desc>
+      <collection>Musée de l'Orangerie, Paris</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Mad About Monet</title>
+          <link is_inline_video="true" inline_video_type="youtube">0vWWBIhItE4</link>
+          <info>Life of Monet, and all the fanfair around a major London exhibition by the artist</info>
+        </entry>
+        <entry recommended="true">
+          <title>Impressionism Revenge of the Nice (2004)</title>
+          <link is_inline_video="true" inline_video_type="youtube">dk9XruRJPbY</link>
+          <info>Monet in focus, within a look at the Origins and Overview of Impressionism by critic Matthew Collings</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Art History Lectures:" class="clips">
+        <entry recommended="true">
+          <title>Easels in Eden</title>
+          <link is_inline_video="true" inline_video_type="youtube">FKXvJxwCpP4</link>
+          <info>Monet Overview, with emphasis on his gardening and painting at Giverny by Professor Eric Haskell</info>
+        </entry>
+        <entry recommended="true">
+          <title>Modern Light, Monet, and the Americans</title>
+          <link is_inline_video="true" inline_video_type="youtube">wjoQUW9iQEA</link>
+          <info>Scientific advances in light and optics by scientists, and by the Impressionists. Lecture by Art Historian Dr. Nancy Mowll Mathews</info>
+        </entry>
+        <entry>
+          <title>How Artists See - Claude Monet</title>
+          <link is_inline_video="true" inline_video_type="youtube">zbdgaZMd_74</link>
+          <info>Professor Ian Aaronson discusses how Monet was likely endowed with hyper-sensitive eyes that enabled him to catch details most didn't</info>
+        </entry>
+        <entry>
+          <title>Through The Eyes of the Artist: Claude Monet</title>
+          <link is_inline_video="true" inline_video_type="youtube">3ySfLyVS3jg</link>
+          <info>Overview of Monet by art historian Felicia Zavarella Stadelman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Monet's Garden at Giverny:" class="clips">
+        <entry recommended="true">
+          <title>"Monet's Passion" Photography &amp; Garden Lecture</title>
+          <link is_inline_video="true" inline_video_type="youtube">d5VFAsWn8FA</link>
+          <info>Author, photographer, painter, and garden designer Elizabeth Murray speach at The Eastman House</info>
+        </entry>
+        <entry>
+          <title>Monet's Garden at Giverny</title>
+          <link is_inline_video="true" inline_video_type="youtube">rjWx2WNXFF4</link>
+          <info>Royal Academy curator Ann Dumas introduces Monet's garden</info>
+        </entry>
+        <entry>
+          <title>Monet's Garden Visit (1 of 4 parts)</title>
+          <link is_inline_video="true" inline_video_type="youtube">dHWFeJjGFmA</link>
+          <info>Detailed visit the garden in Giverny with the landscape designer Margery Erickson</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website" is_recommended="false">
+      <subcategory name="artist features" class="features">
+        <entry>
+          <title>Defining Modern Art</title>
+          <link>/definition/modern-art/</link>
+          <info>Take a look at the big picture of modern art, and Monet's role in it.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Mad Enchantment: Claude Monet and the Painting of the Water Lilies</title>
+          <link>1632860120</link>
+          <info>
+			By Ross King 
+			&lt;br&gt;
+			Details Monet's process of painting the Water Lilies series.</info>
+        </entry>
+        <entry recommended="true">
+          <title>Monet: His Life &amp; Works in 500 Images</title>
+          <link>0754819531</link>
+          <info>
+			By Susie Hodge 
+			&lt;br&gt;
+			Monet's life depicted by groupings of works he painted.</info>
+        </entry>
+        <entry>
+          <title>Monet or the Triumph of Impressionism</title>
+          <link>3836523213</link>
+          <info>By Daniel Wildenstein</info>
+        </entry>
+        <entry>
+          <title>First Impressions: Claude Monet</title>
+          <link>0810936208</link>
+          <info>By Ann Waldron</info>
+        </entry>
+        <entry>
+          <title>Claude Monet - 1840-1926: A Feast for the Eyes</title>
+          <link>3822850241</link>
+          <info>By Karin Sagner</info>
+        </entry>
+        <entry>
+          <title>Monet</title>
+          <link>0810980916</link>
+          <info>By Robert Gordon, Andrew Forge</info>
+        </entry>
+        <entry>
+          <title>Monet's Impressions</title>
+          <link>B0057DCBR0</link>
+          <info>By the Metropolitan Museum of Art</info>
+        </entry>
+        <entry recommended="true">
+          <title>Claude Monet: Life and Art</title>
+          <link>0300062982</link>
+          <info>By Paul Hayes Tucker</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="paintings" class="artwork">
+        <entry recommended="true">
+          <title>Monet: Water Lilies: The Complete Series</title>
+          <link>2080300768</link>
+          <info>By Jean-Dominique Rey, Denis Rouart</info>
+        </entry>
+        <entry recommended="true">
+          <title>Claude Monet: The Color of Time</title>
+          <link>0500282730</link>
+          <info>By Virginia Spate</info>
+        </entry>
+        <entry>
+          <title>The Unknown Monet: Pastels and Drawings</title>
+          <link>0300118627</link>
+          <info>By James A. Ganz, Richard Kendall</info>
+        </entry>
+        <entry recommended="true">
+          <title>Claude Monet: Water Lilies</title>
+          <link>0870707744</link>
+          <info>By Ann Temkin, Nora Lawrence, Claude Monet</info>
+        </entry>
+        <entry recommended="true">
+          <title>Claude Monet: The Truth of Nature </title>
+          <link>3791358707</link>
+          <info>By Ortrud Westheider, Michael Philipp, and Christoph Heinrich</info>
+        </entry>
+        <entry>
+          <title>Monet (Basic Art Series 2.0)</title>
+          <link>3836503999</link>
+          <info>By Christoph Heinrich </info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Claude Monet Foundation</title>
+          <link>http://fondation-monet.com/en/</link>
+          <info>Official Website</info>
+        </entry>
+        <entry>
+          <title>Monet Website</title>
+          <link>http://giverny.org/monet/welcome.htm</link>
+          <info>Organized by Giverny government</info>
+        </entry>
+        <entry>
+          <title>Claude Monet Gallery</title>
+          <link>http://www.claudemonetgallery.org/</link>
+          <info>Over 1700 paintings by Monet</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Inside His Sketchbooks, Clues to Monet</title>
+          <link>http://www.nytimes.com/2007/08/10/arts/design/10mone.html?ref=claudemonet</link>
+          <info>
+						By Benjamin Genocchio
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						August 10, 2007
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Monet Arrives and Ripens</title>
+          <link>http://www.nytimes.com/2007/05/04/arts/design/04mone.html?ref=claudemonet</link>
+          <info>
+						By Roberta Smith 
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						May 4, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>15 Things You Might Not Know Aout Monet's Water Lillies</title>
+          <link>http://mentalfloss.com/article/63929/15-things-you-might-not-know-about-monets-water-lilies</link>
+          <info>
+						By Kristy Puchko 
+						&lt;br&gt;
+						MentalFloss.com
+					</info>
+        </entry>
+        <entry>
+          <title>Variability, Constraints, and Creativity: Shedding Light on Claude Monet </title>
+          <link>https://205.186.157.44/imats/MonetAmPsychologist.pdf</link>
+          <info>
+				By Patricia D. Stokes
+				&lt;br&gt;
+				American Psychologist 
+				&lt;br&gt;
+				April 2001
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>The French Impressionists rediscovered: ‘They didn’t know their works would be masterpieces’</title>
+          <link>https://www.theguardian.com/artanddesign/2021/jun/25/the-french-impressionists-rediscovered-they-didnt-know-their-works-would-be-masterpieces</link>
+          <info>
+				By Elizabeth Flux
+				&lt;br&gt;
+				The Guardian 
+				&lt;br&gt;
+				June 25, 2021
+			</info>
+        </entry>
+        <entry>
+          <title>Under a Monet Painting, Restorers Find New Water Lilies</title>
+          <link>https://www.nytimes.com/2019/06/03/arts/monet-wisteria-water-lilies.html</link>
+          <info>
+				By Nina Siegal
+				&lt;br&gt;
+				The New York Times 
+				&lt;br&gt;
+				June 3, 2019
+			</info>
+        </entry>
+        <entry>
+          <title>A Glimpse Inside Claude Monet’s Private Art World</title>
+          <link>https://www.nytimes.com/2017/09/08/arts/design/claude-monets-private-collection.html</link>
+          <info>
+				By Farah Nayeri
+				&lt;br&gt;
+				The New York Times 
+				&lt;br&gt;
+				September 8, 2017
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Five Experts Discuss Monet’s Most Beguiling Paintings</title>
+          <link>https://www.artnews.com/art-news/artists/claude-monet-best-paintings-1234580881/</link>
+          <info>
+				By Claire Selvin
+				&lt;br&gt;
+				ArtNews 
+				&lt;br&gt;
+				January 6, 2021
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="articles" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry recommended="true">
+          <title>Monet: Shadow and Light (1999)</title>
+          <link>http://www.imdb.com/title/tt0229592/</link>
+          <info>Feature Film</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

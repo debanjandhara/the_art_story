@@ -1,0 +1,636 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>abstract_photography</id>
+    <name>Abstract Photography</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1916 - present</years>
+    <description>Abstract Photography is a movement with a long history which includes photograms, surreal close-ups, Conceptual and even installation-based works.</description>
+    <art_description>Famous photographers and photos of Abstract Photography with overview, analysis, and overall contributions to the arts. Strand, Siskind, Moholy-Nagy, Tillmans+</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <start>1916</start>
+    <image_desc>true</image_desc>
+    <art_type>Photos</art_type>
+    <pub_time>8/14/2018</pub_time>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>"Move on objects with your eye straight on…Watch them grow large as you approach…Relationships gradually emerge and...assert themselves...that's your picture," Aaron Siskind said. His close-ups of ordinary objects made him a leader of 20th century abstract photography.</bio_highlight>
+  </main>
+  <similar_artists>
+    <artist>strand_paul</artist>
+    <artist>schad_christian</artist>
+    <artist>ray_man</artist>
+    <artist>stieglitz_alfred</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>straight_photography</movement>
+    <movement>modern_photography</movement>
+    <movement>cubism</movement>
+    <movement>abstract_expressionism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>straight_photography</entry>
+    <entry>modern_photography</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="moholy_nagy_laszlo" alt="László Moholy-Nagy">"The most astonishing possibilities remain to be discovered in the raw material of the photograph"</q>
+    <q author="László Moholy-Nagy">"It is not the person ignorant of writing but the one ignorant of photography who will be the illiterate of the future."</q>
+    <q author="László Moholy-Nagy">"Space, time, material - are they one with light?"</q>
+    <q author="Alvin Langdon Coburn">"Why should not the camera throw off the shackles of conventional representation?"</q>
+    <q author="Alvin Langdon Coburn">"Why, I ask you earnestly, need we go on making commonplace little exposures that may be sorted into groups of landscapes, portraits and figure studies?...I do not think we have begun even to realize the possibilities of the camera."</q>
+    <q author="Barbara Kasten">"Abstract photography challenges our popular view of photography as an objective image of reality by reasserting its constructed nature.... Freed from its duty to represent, abstract photography continues to be a catchall genre for the blending of mediums and disciplines. It is an arena to test photography."</q>
+    <q author="Wolfgang Tillmans">"Ever since I started printing in 1990, I've been collecting things that went wrong in the darkroom."</q>
+    <q author="Wolfgang Tillmans">"And that's the interesting role that the abstract pictures play: they activate shapes in the other pictures."</q>
+    <q author="Wolfgang Tillmans">"So in a way I started being interested in photography through deconstructing or destroying photography."</q>
+    <q author="Walead Beshty">"I was never engaged with making the perfect print. I'm much more interested in photography as a place where picture-making or a discourse on images intersects with reality and also in the glitches and the noise that the different kinds of technologies produce."</q>
+    <q author="Thomas Ruff">"When you make photograms, without the use of a camera, you can indeed call that abstract photography, as the lens and the corresponding registration medium are lacking. No longer do you have pictures of reality or objects; you only have their shadows. It is a bit like Plato's cave, where one could only imagine reality; the objects themselves were not visible."</q>
+    <q author="Aaron Siskind">"First, and emphatically, I accept the flat plane of the picture as the primary frame of reference of the picture"</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Abstract photography is a term with ambiguous connotations, associated but not limited to the achievements of groups such as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photo_secession"&gt;Photo-Secession&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-straight_photography"&gt;Straight Photography&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-new_vision"&gt;New Vision&lt;/span&gt; movements. Since the late nineteenth century, photographers have been determined to match the formal and conceptual advances of other genres within &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;Modern Art&lt;/span&gt;. The result is an extraordinary and varied body of work in which the compositional traits and subject-matter of traditional photography recede from view. Here are abstract photograms made without cameras by exposing found objects and treated photosensitive paper to natural light; surreal close-up and long-distance images, in which the details of natural or architectural patterning become abstract compositional motifs; and conceptual and installation-based works in which photography is incorporated into sophisticated mixed-media practices.</synopsys>
+    <key_ideas>
+      <idea>One of the key advances of abstract photography has been the realization that cameras are not required to make photographs. In the early twentieth century, artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schad_christian"&gt;Christian Schad&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moholy_nagy_laszlo"&gt;László Moholy-Nagy&lt;/span&gt; began to create bricolage-style works by placing found objects directly onto photosensitive paper, generating graphically-arresting images in which the everyday detritus of modern life is rendered luminous and strange.</idea>
+      <idea>Since the early advances of Schad, Man Ray &lt;i&gt;et al&lt;/i&gt;, abstract artists have continually returned to the "photogram" - the cameraless photograph - as a medium allowing for uniquely self-reflexive and creative interventions into the photographic form. Rather than capturing an image by the passage of light through shutters onto photosensitive paper, the paper itself is directly manipulated and treated - often brought into contact with other objects - allowing for a potentially endless array of effects.</idea>
+      <idea>As a general rule, abstract photography has tended to avert its gaze from extraordinary and arresting subject-matter. Instead, it focuses on the irregular forms and impressions which can be generated by representing familiar objects in new ways: from Alvin Langdon Coburn's Vortographs, made using a camera lens adapted with fragments of broken mirror, to contemporary works by Walead Beshty, Liz Deschenes and others.</idea>
+      <idea>It is impossible to evoke the spirit of abstract photography without mentioning the specific development of aerial photography, a method which now has a much wider currency across commercial and popular art. In the 1940s, however, when William A. Garnett began to photograph tract housing and machine-harvested fields from the wing of his domestic aircraft, the idea of photographing the earth from above was new and strange, in many cases producing surreal images which seemed totally disconnected from the subject-matter they represented.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Definition and Topic Overview">
+          <p type="p">"Abstract Photography" is an ambiguous term, without a commonly accepted definition. Like abstract art, it has also been called non-objective or concrete, and like abstract art it occupies a sliding scale from broadly representational work with abstract elements to wholly non-representational images. It can also involve a wide variety of photographic materials, processes and equipment, and is not always created with the use of a camera. In many cases, it may instead involve the manipulation of photosensitive materials such as paper and cloth.</p>
+          <p type="p">The evolution of abstract photography has primarily been driven by the pioneering explorations of individual artists. Some, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-strand_paul"&gt;Paul Strand&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt;, used traditional methods to photograph real-life scenes and objects in ways which emphasized their abstract qualities, while others, such as Christian Schad, Man Ray, and László Moholy-Nagy, made abstract "photograms", contact-prints created without a camera. The rise of abstract art from the early twentieth century onwards, and of its various associated genres - including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vorticism"&gt;Vorticism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;, and, later in the century, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptualism&lt;/span&gt; - has had a notable influence on the development of abstract photography, much of which was produced in association with one or other of these movements.</p>
+        </subsection>
+        <subsection title="Predecessors">
+          <p type="img" alt="Anna Atkin's “Dictyota dichotoma, in the young state; and in fruit” is a cyanotype impression from her &lt;i&gt;Photographs of British Algae: Cyanotype Impressions (1843)&lt;/i&gt;" show="1">/images20/photo/photo_abstract_photography_1.jpg</p>
+          <p type="p">The first photographs now seen to have abstract qualities were taken for scientific purposes, and were only later viewed for their artistic merit. In 1842, the American-British scientist John William Draper, who was active across a number of fields including photochemistry, made a series of photographs of the light-rays dispersed by a spectroscope. The resulting images were fascinating (if inadvertent) works of abstract art, making invisible scientific forces perceptible to the naked eye. In 1843, the English botanist and photographer Anna Atkins started working with a new cyanotype process now more commonly known as "blueprints", which had been developed by the British scientist John Herschel the previous year. Atkins produced various cyanotype photograms of algae specimens, contact-printing them by placing them on the cyanotype paper and exposing them to light. The resulting images were published in &lt;i&gt;Photographs of British Algae: Cyanotype Impressions&lt;/i&gt; (1843), the first botanical book to use photographic illustrations. The beautiful patterns created by early scientific photographers were later viewed with wonder by avant-garde artists, who saw them as presaging their own experiments in abstract photography. The idea of the cameraless image, in particular, would have a profound effect on the development of the genre across the twentieth century.</p>
+        </subsection>
+        <subsection title="Alvin Langdon Coburn's &lt;i&gt;Vortographs&lt;/i&gt; (1916)">
+          <p type="img" alt="Alvin Langdon Coburn's &lt;i&gt;The Octopus&lt;/i&gt; (1912), taken from a window of the Flatiron building, emphasizes the abstract patterns created by the paths of Madison Square, intersected by the building's shadow. " show="1">/images20/photo/photo_abstract_photography_2.jpg</p>
+          <p type="p">The first artist to make intentionally abstract photographs was Alvin Langdon Coburn. At the beginning of his career Coburn was associated the Photo-Secession movement - which sought to present photography as a legitimate medium for fine art - and with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pictorialism"&gt;Pictorialism&lt;/span&gt;, which brought to photography the impressionistic, mannered qualities of some late-nineteenth-century painting. Heralded by the influential gallerist and photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt; as the Photo-Secession's "youngest star", Coburn's early works, such as &lt;i&gt;Station Roofs, Pittsburgh&lt;/i&gt; (1910) and &lt;i&gt;The Octopus&lt;/i&gt; (1912), already indicate a movement towards abstraction in their emphasis of abstract pattern through novel aerial views. Other photographers, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-strand_paul"&gt;Paul Strand&lt;/span&gt; and Stieglitz himself, as well as various figures connected to the so-called Straight Photography movement, were inspired by Coburn to focus on abstract forms and utilize idiosyncratic vantage-points.</p>
+          <p type="p">In 1916 Coburn published an influential essay, "The Future of Pictorial Photography," in which he asked "why should not the camera throw off the shackles of conventional representation and attempt something fresh and untried?" He proposed staging an exhibition entitled "Abstract Photography", where "no work will be admitted in which the interest of the subject matter is greater than the appreciation of the extraordinary."</p>
+          <p type="img" alt="Four of Coburn's portraits of the poet Ezra Pound (1916), the two on the left being examples of what he called Cubist works, and the two on the right amongst those dubbed “Vortographs” by Pound." show="1">/images20/photo/photo_abstract_photography_3.jpg</p>
+          <p type="p">Coburn's interest in abstraction led him towards &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vorticism"&gt;Vorticism&lt;/span&gt;. In 1913, while taking photographs for his portrait book &lt;i&gt;More Men of Mark&lt;/i&gt; (1913), he met the avant-garde poet Ezra Pound, one of the founding figures of that movement, and the two developed a close working relationship. Coburn produced several portraits of Pound, supposedly made using broken pieces of the poet's shaving mirror. The artist initially referred to these images as "Cubist," acknowledging the influence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;. He subsequently made an attachment for his camera lens by clamping three mirrors together in a triangular shape, using the adapted machine to photograph prismatic crystals, or pieces of wood arranged on a glass table. Pound dubbed these images "Vortographs", acquisitively associating them with the movement he was then spearheading.</p>
+          <p type="img" alt="The cover of the second and final issue of the Vorticist journal &lt;i&gt;Blast&lt;/i&gt; (July 1915), featuring one of Wyndham Lewis' distinctive wood-cut prints." show="1">/images20/photo/photo_abstract_photography_4.jpg</p>
+          <p type="p">The movement of Vorticism had been launched in 1914, by Pound's friend, the artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lewis_wyndham"&gt;Wyndham Lewis&lt;/span&gt;, and the pair were primarily responsible for its conception and development. Though it purportedly spanned over a range of media, as a visual-art movement Vorticism favored a combination of Cubist fragmentation of the picture plane with a depiction of motion seen to be more sophisticated than that propagated by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-italian_futurism"&gt;Italian Futurists&lt;/span&gt;. Coburn shared the movement's belief in producing "a New Living Abstraction", as Lewis put it in the movement's flagship journal &lt;i&gt;Blast&lt;/i&gt;, and the young photographer fell under the influence of the Vorticist aesthetic.</p>
+          <p type="p">Pound was an early advocate of Coburn's abstract photography, promoting the first exhibition of Vortographs at the London Camera Club in 1917. The show was met with critical controversy, however, and as a result, a plan for the exhibition to travel to New York and Boston was abandoned. However, Coburn's work would have a profound effect on a range of modern artists: for the first time, as critics Mark Antliff and Vivian Greene note, he had brought photography up to speed with the advances of modern painting.</p>
+        </subsection>
+        <subsection title="Straight Photography and Paul Strand">
+          <p type="p">Straight Photography was a movement that developed in the early 1900s, marking a movement away from the Pictorialist emphasis on painterly composition. The Straight Photographers sought to capture their subject-matter with a clarity that only the camera could achieve, utilizing the unique merits of their medium - sharp focus and close cropping - rather than attempting to define photographic style by referencing painting. At the same time, their striking use of shadow, and of clear lines and shapes, facilitated a move towards abstraction.</p>
+          <p type="p">The work of the American photographer Paul Strand, who had previously been a Pictorialist and member of the Photo-Secession group, perhaps best exemplifies the ethos of Straight Photography. With pieces like &lt;i&gt;Wall Street&lt;/i&gt; (1915), he offered both a crisp and direct treatment of recognizable subject-matter, and a formally striking emphasis on interlocking shapes and lines. Strand's work, like Coburn's, was championed by Albert Stieglitz, featuring in the final two issues of his journal &lt;i&gt;Camera Work&lt;/i&gt;. Strand's photographs often emphasize the abstract designs or patterning of ordinary things: fences, furniture, or stacks of bowls.</p>
+          <p type="p">Strand titled many of his pictures from 1915-16 "Abstractions," stating that his exposure to the work of Picasso, Braque, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brancusi_constantin"&gt;Constantin Brancusi&lt;/span&gt; at Stieglitz's 291 Gallery in New York had inspired him to "apply their then strange abstract principles to photography." His approach to the Straight image influenced not only contemporaries, but also a younger generation of photographers such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-weston_edward"&gt;Edward Weston&lt;/span&gt;, who emphasized abstract form and pattern in works such as &lt;i&gt;Cabbage Leaf&lt;/i&gt; (1931).</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="The Sky and Worker's Tools: Photographs of the Everyday Objects">
+          <p type="p">In 1922, Alfred Stieglitz decided to create a series of photographs of clouds, "to show that [the success of] my photographs [was] not due to subject matter - not to special trees or faces, or interiors, to special privileges - clouds were there for everyone." He was partly responding to the critic Waldo Frank, who had suggested that the interest of his images simply reflected his striking choices of subject-matter. Stieglitz had been interested in photographing the effects of clouds as early as 1887. Returning to the subject in later decades, he recalled that "[e]very time I developed [a cloud negative] I was so wrought up, always believing I had nearly gotten what I was after - but had failed." Part of the difficulty was that the orthochromatic nature of most emulsions made them very sensitive to blues, and tended to lighten the sky and blend the clouds into it, creating a washed-out look.</p>
+          <p type="img" alt="Alfred Stieglitz's &lt;i&gt;Songs of the Sky&lt;/i&gt; (1924), a photograph taken near his home at Lake George in New York State, creates a near abstract image, evocative of the psychological mood of the photographer as much as a natural landscape." show="1">/images20/photo/photo_abstract_photography_5.jpg</p>
+          <p type="p">With renewed vigor, and using a new panchromatic emulsion, Stieglitz produced a more successful series of cloud photographs between 1922 and 1923, published as &lt;i&gt;Music: A Sequence of Ten Cloud Photographs&lt;/i&gt; (also known as &lt;i&gt;Clouds in Ten Movements&lt;/i&gt;). A further series, &lt;i&gt;Songs of the Sky&lt;/i&gt;, appeared in 1924. By describing his images as "songs" and "movements", he was consciously alluding to the synesthetic credo of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionist&lt;/span&gt; painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt;, whose abstract works, such as &lt;i&gt;Composition VII&lt;/i&gt; (1913), were intended to express musical concepts. In 1925, Stieglitz began referring to his cloud images as &lt;i&gt;Equivalents&lt;/i&gt; - work under this title was produced between 1922 and 1934 - and to produce images of almost totally abstract effect. Art historian Sarah Greenough and artist Juan Hamilton have described the &lt;i&gt;Equivalents&lt;/i&gt; as "photographs of shapes that have ceded their identity, in which Stieglitz obliterated all references to reality normally found in a photograph."</p>
+          <p type="img" alt="Pierre Dubreuil's &lt;i&gt;Antithesis&lt;/i&gt; (1929) evinces what Andy Grundberg called “a modernist bent for machinery, overall pattern and abstraction.”" show="1">/images20/photo/photo_abstract_photography_6.jpg</p>
+          <p type="p">Other artists previously connected to the Pictorialist Movement, such as Pierre Dubreuil, developed similarly unique photographic idioms in the 1920s. The art critic Andy Grunberg has described how Dubreuil "managed to absorb the compositional tropes of the modern style without abandoning his reliance on atmosphere."</p>
+          <p type="p">Steiglitz's work would influence a younger generation of Straight Photographers, including Lotte Jacobi, Henry Holmes Smith, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-white_minor"&gt;Minor White&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-siskind_aaron"&gt;Aaron Siskind&lt;/span&gt;. All of these artists began during the 1940s to create abstract work using landscapes and found objects: a metal hook and eye; rock formations; peeling paint on a wall. Minor White was particularly influenced by Stieglitz's &lt;i&gt;Equivalents&lt;/i&gt; series, while Smith pioneered the use of high-speed flash photography, drawing on the experiments of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moholy_nagy_laszlo"&gt;László Moholy-Nagy&lt;/span&gt;. Siskind's work was uniquely informed by his close association with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionist&lt;/span&gt; painters, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kline_franz"&gt;Franz Kline&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-newman_barnett"&gt;Barnett Newman&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gottlieb_adolph"&gt;Adolph Gottlieb&lt;/span&gt;.</p>
+          <p type="p">A number of these artists felt that the image had a correspondence or equivalence to inner states or elemental realities. Frederick Sommer referred to his near-abstract photographs of desert landscapes, in which the dense, all-over detail of vegetation and rock tends to flatten out any implied perspective, as "constellations". While containing representational imagery, these landscapes and found-object photographs have a formal effect largely disconnected from representational source.</p>
+        </subsection>
+        <subsection title="The Photogram">
+          <p type="p">In the heyday of the European avant-garde, various artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schad_christian"&gt;Christian Schad&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, and László Moholy-Nagy, explored the idea of cameraless photography, placing objects directly onto photo-sensitive papers to create what were known as "photograms" (a term actually coined in 1858). This would have a profound impact on the development of abstract photography later in the century.</p>
+          <p type="img" alt="Christian Schad's &lt;i&gt;Schadograph 27 (Jeudi IV)&lt;/i&gt; (1919) showed the evolution of his photograms toward completely abstract shapes. " show="0">/images20/photo/photo_abstract_photography_7.jpg</p>
+          <p type="p">The German printmaker and painter Christian Schad joined the Zurich &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; group after moving to Switzerland during World War I. The Dada movement, with its "anti-art" aesthetic, was a nurturing environment for mixed-media experiments of all kinds, including experimental photography. In 1918, Schad began creating what the Dadaist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt; referred to as "Schadographs", a pun on the artist's name and the German word for shadow, "Schad." Schad was the first artist to use contact-printing for artistic effect, placing objects such as string, newspaper, fabric, and torn paper - often rummaged from trash bins - on sheets of photographic paper, and exposing them to light by leaving them in his window.</p>
+          <p type="img" alt="Man Ray's &lt;i&gt;Ribbons&lt;/i&gt; (1924) " show="0">/images20/photo/photo_abstract_photography_8.jpg</p>
+          <p type="p">A few years later, in 1921, the American photographer and artist Man Ray moved to Paris and became close friends with two figureheads of the Dada movement, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans Arp&lt;/span&gt; and Tristan Tzara. Tzara introduced Man Ray to Schad's work, and, though Man Ray never acknowledged the influence, he began making his own contact prints with found objects. He called the resulting images "Rayograms" or "Rayographs", publishing a volume of them, &lt;i&gt;Les Champs Délicieux&lt;/i&gt; ("The Delightful Fields"), in 1922, with an introduction by Tzara. The Rayographs were largely abstract in effect, and their rendering of everyday objects as enigmatic oddities resonated with the aims of the Dada movement. Their striking graphic qualities also led to their being used in advertising.</p>
+          <p type="img" alt="László Moholy-Nagy's &lt;i&gt;Untitled&lt;/i&gt;, a self-portrait from 1925." show="0">/images20/photo/photo_abstract_photography_9.jpg</p>
+          <p type="p">In 1922, the Hungarian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist&lt;/span&gt; artist László Moholy-Nagy also began creating cameraless photographic works, referring to them simply as "photograms". Moholy-Nagy was associated with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; and with the New Vision movement in film and photography. Like other figures associated with New Vision, Moholy-Nagy saw the camera as capable of generating a new, objective, and impersonal visual language for art. By allowing for the perception of light itself, and through its capacity for extreme close-up, the camera undid traditional ways of seeing. The photogram, meanwhile, by removing the camera from the creation process, made the photographic image and the subject-matter it depicted one and the same.</p>
+          <p type="img" alt="Raphael Hefti's &lt;i&gt;Lycopodium&lt;/i&gt; (2011) is a photogram created by contact with the organism Lycopodium. " show="0">/images20/photo/photo_abstract_photography_10.jpg</p>
+          <p type="p">Moholy-Nagy continued experimenting with the photogram throughout his career, and his work would have a major influence on later photographers such as Henry Holmes Smith, Arthur Siegel, Lois Field, and Nathan Lerner, all of whom created photogram-based work. These artists in turn influenced a further generation of abstract photographs, as seen in the impact of Siegel's work upon the contemporary photographer Thomas Ruff's monumental digital photograms. Other artists, such as the contemporary Swiss photographer Raphael Hefti and the German Floris Neusüss, are known for producing photograms in which organic lifeforms are placed in contact with the photosensitive sheet. Light exposure techniques can be similarly inventive, Neusüss sometimes relying on lightning for his exposure processes.</p>
+          <p type="p">Contemporary artists such as Sam Falls, Marco Breuer, Len Lye, Jason Lazarus, Liz Deschenes, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tillmans_wolfgang"&gt;Wolfgang Tillmans&lt;/span&gt;, Christian Marclay, and Walead Beshty have also created innovative variations on the photogram. Falls is known for his work with photosensitive fabric, while the German Breuer scratches and abrades the surface of his photograms, often using power tools.</p>
+        </subsection>
+        <subsection title="Aerial Views">
+          <p type="img" alt="William A. Garnett's &lt;i&gt;Death Valley&lt;/i&gt; (1954) exemplifies his abstract approach to landscape photography, as the desert appears as an almost molten play of light and shadow" show="0">/images20/photo/photo_abstract_photography_11.jpg</p>
+          <p type="p">Aerial photography was first practiced by the French caricaturist and portraitist Gaspard-Félix Tournachon, known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Nadar&lt;/span&gt;, who took pictures from a hot air balloon in 1858. Across the following century, the kinds of images which he produced - and those created in the early twentieth century from dirigibles and light aircraft - were primarily used for scientific and military purposes. But in the late 1940s, the American artist William A. Garnett began to focus on the artistic possibilities of aerial photography. Garnett had served in World War II as an army cameraman, and on his release from military duty trained as a pilot, creating long-range images of the American landscape from above. Works such as &lt;i&gt;Strip Farm, East Slope of the Tehachapi Mountains&lt;/i&gt; (1951), and photographs of tract housing such as &lt;i&gt;Furnished Housing, Lakewood, California&lt;/i&gt; (1950), emphasize dramatic abstract patterning, in the style of Stieglitz's work. The Getty Museum's entry on Garnett remarks that "his photographs resemble abstract expressionist paintings [...] As landscapes, they do not have the conventional grounding of a horizon line. All reveal astonishing patterns that are not seen from the ground." A number of contemporary artists continue to explore the possibilities of aerial photography, though most use different methods of flight, such as Kacper Kowalski, who creates his images while paragliding, and Zack Zeckler, who photographs from a helicopter.</p>
+        </subsection>
+        <subsection title="Sculptural Effects">
+          <p type="img" alt="Wolfgang Tillmans's &lt;i&gt;Paper Drop&lt;/i&gt; (2014) is a photogram-based sculptural form. " show="0">/images20/photo/photo_abstract_photography_12.jpg</p>
+          <p type="p">Explorations of the formal boundaries of photography have led other contemporary artists to create works with three-dimensional and architectonic effects. Wolfgang Tillmans began making his &lt;i&gt;Paper Drop&lt;/i&gt; series (2001-08) by crafting simple sculptural forms in photographic paper, exposing them to colored light and then photographing them. For his &lt;i&gt;Lighter&lt;/i&gt; series (2005-08), he displayed the sculpted photograms themselves. Barbara Kasten, in her &lt;i&gt;Constructs&lt;/i&gt; series (1979-86), has created entire installations in which the perceptual boundary between material object and photogram vanishes.</p>
+          <p type="p">Liz Deschenes has created photogram-based installations such as &lt;i&gt;Stereographs #1-4 (Rise/Fall)&lt;/i&gt; (2012), in which photographic paper exposed to moonlight is mounted on thin rectangles to create minimalist sculptural works. These are hung symmetrically to mimic the effects of nineteenth-century stereoscopy and linear perspective.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Abstraction is an important trend in contemporary photography, as artists continue to push at the boundaries of the medium. The photogram remains a vital aspect of this exploratory work, as is clear from the recent output of Wolfgang Tillmans, Walead Beshty, Penelope Umbrico, Gaston Bertin, Ellen Carey, Nicki Stager, Harvey Lloyd, Adam Broomberg, and Oliver Chanarin.</p>
+          <p type="p">Photographers have also turned to digital technology, creating abstract artworks which build on the earlier advances of abstract photography. The Dutch artist Carel Balth sandwiches images created from video stills between aluminum plates and layers of epoxy resin, while the American Tom Friedman has pioneered the genre of Photoshop abstraction.</p>
+          <p type="p">Abstract photography's vital presence in contemporary art is shown by the number of artists included in the exhibition &lt;i&gt;Light Play: Experiments in Photography, 1970 to the Present&lt;/i&gt;, held at the Los Angeles Country Museum of Art in 2017. Including work sourced from the museum's permanent collection, this was a complementary exhibition to &lt;i&gt;Moholy-Nagy: Future Present&lt;/i&gt;, and was intended to feature the work of artists who "extended, as did Moholy, the parameters of photography."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="vorticism">The Mud Bath (1914)</artwork>
+    <artwork from="movement" page="straight_photography">Bowls (1917)</artwork>
+    <artwork from="artist" page="kandinsky_wassily">Several Circles (1926)</artwork>
+  </similar_artworks>
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Vortograph</title>
+      <artist>Alvin Langdon Coburn</artist>
+      <year>1916-17</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This image, one of a number by Coburn seen as the first truly abstract photographs, consists of an intricate pattern made up of sharp diagonal planes. Converging towards the top of the photograph, they contrast with the compact crystalline shapes to the lower left. A sense of dynamic movement is generated, as light is embodied in multilayered planes which seem as tangible as the fractured object from which they are thrown off.
+				&lt;br/&gt;&lt;br/&gt;
+				Prior to his work as an abstract photographer, Alvin Langdon Coburn was associated with the Pictorialist movement, which sought to bring to photography the impressionistic and atmospheric qualities of late-nineteenth-century painting. He was also a noted portrait photographer, whose 1913 publication &lt;i&gt;Men of Mark&lt;/i&gt; contained prints of a raft of venerable authors, artists, and statesmen. His &lt;i&gt;Vortographs&lt;/i&gt; thus represent a pronounced turn towards avant-garde approaches later in his career, following his interactions with the artists and writers of the English Vorticist movement - primarily Ezra Pound - and his publication of "The Future of Pictorial Photography" in 1916.
+				&lt;br/&gt;&lt;br/&gt;
+				Photography writer Keith Davis describes Coburn's Vortographs as "the first body of artistic photographs in history to embrace total abstraction [...] the best of these Vortographs are quite remarkable: boldly composed, mysteriously unreal, and intensely vibrant with light and energy [...] These images are, most importantly, about the &lt;i&gt;idea&lt;/i&gt; of form and power, and come as close as any ever made to giving pictorial expression to thought itself." Later photographers such as the Japanese Kiyoshi Koishi adopted Coburn's approach in works including &lt;i&gt;Early Summer Nerves&lt;/i&gt; (1933), while Coburn's influence can also be sensed in the work of contemporary artists such as Barry Stone.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Porch Shadows</title>
+      <artist>Paul Strand</artist>
+      <year>1916</year>
+      <materials>Silver platinum print</materials>
+      <desc>
+				Depicting an upturned table on a porch, Paul Strand's witty, improvisational photograph from 1916 emphasizes the interplay of geometric planes of light and shadow, the very banality of the subject-matter encouraging the viewer to focus on the abstract connotations of the image. A large pale oval fills the frame, bisected by sharp diagonal lines which divide sections of white and grey. The cumulative effect is of a sharply-focused image whose basis in reality is obscure. 
+				&lt;br/&gt;&lt;br/&gt;
+				An early associate of the influential photographer and gallerist Alfred Stieglitz, the New York-born Paul Strand was a pioneer of both Straight Photography and the abstract photography movement that partly emerged from it. Like Stieglitz, he can be considered one of the most vital figures in the development of abstract photography during the early twentieth century, though his career spanned across a later period. Strand's work influenced a whole raft of artists who themselves made decisive contributionst to abstract photography, including Stieglitz himself, Edward Weston, Imogen Cunningham, and the artists of the San Francisco-based F/64 Group.
+				&lt;br/&gt;&lt;br/&gt;
+				Made on Satista paper - a substitute for platinum paper during the shortages of World War I - this particular print has an unusually subtle tonal range, evident in the dark flecks of wear and tear visible on the table's shadowed surface. This was one of many abstract images of everyday objects that Strand created at this point in his career, though he also remained a committed social documentarist throughout hist life, creating various extraordinary portrait series depicting life in different regions of the world during the 1960s-70s, from Ghana to the Outer Hebrides.
+				&lt;br/&gt;&lt;br/&gt;
+				The art historian Helmut Gernsheim has argued that "Strand brought a new vision to photography [...] Nearly all of his pictures broke new ground both in subject matter and presentation." With specific reference to the early part of his career, critic Richard B. Woodward adds that "[w]hether photographing crowds in a park or individuals on the street, apartment-house backyards, a picket fence, trains in a rail yard, or a still life of a jug and fruit, the young artist sought to bring out their abstract components." 
+			</desc>
+      <collection>The Art Institute of Chicago</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Schadograph</title>
+      <artist>Christian Schad</artist>
+      <year>1918</year>
+      <materials>Gelatin silver printing-out-paper print</materials>
+      <desc>
+				Christian Schad's abstract photogram consists of an overlay of various irregular geometric shapes, of differing shades and patterns, some marked with fragments of text or illustration. The white shape rising up through the center of the image, set against the brown patterned areas which also seem to float against the deep black background, creates a sense of rough, bricolage-style texture and depth. The scraps and cuttings take on an obvious aesthetic energy without assuming recognizable form or meaning. 
+				&lt;br/&gt;&lt;br/&gt;
+				Fleeing as a pacifist during World War I to neutral Switzerland, the German artist Christian Schad became closely associated with the Zurich Dada, and later with the New Objectivity movement. His atmospheric portrait and genre paintings depicting life in interwar Europe are some of the best-known artworks of the period, and are often referred to as "Magical Realist".
+				&lt;br/&gt;&lt;br/&gt;
+				Though Man Ray's work in the area of cameraless photography would become more famous, Schad's experiments with contact prints on photosensitive paper precede - and probably influenced - Man Ray's pieces. To create these images, Schad gathered together fragments of discarded paper, fabric, and magazines - often retrieving them from roadsides or trash cans - and arranged them on light-sensitive paper. The "Schadographs", as Tristan Tzara dubbed the results of these experiments, reflected Schad's Dadaist sensibility both in the use of everyday compositional materials and in their avoidance of generic boundaries and obvious representational content. In particular, Schad aimed to create images with jagged and asymmetrical borders "to free them from the convention of the square." 
+				&lt;br/&gt;&lt;br/&gt;
+				Schad was the first photographer to employ the photogram for artistic purposes. Though he remains a more obscure figure than Man Ray, his work had an enormous impact on the development of abstract photography. Within a few years, both Man Ray and László Moholy-Nagy were developing their own versions of the technique pioneered by Schad. 
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Rayograph</title>
+      <artist>Man Ray</artist>
+      <year>1922</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				In Man Ray's iconic work from 1922, a spring is captured in reverse-silhouette, extending diagonally upwards across the frame. In the center of the image, a white circular ring frames a glowing bulb, while to the upper left, several smaller circular shapes seem to cascade downwards. A strong sense of asymmetrical composition is brought to bear, as a result of which the formal relationships between the object - the distance between them, their relative depth within the impied space - becomes enigmatic. These effects are typical of the Rayographs which Man Ray produced during the early 1920s.
+				&lt;br/&gt;&lt;br/&gt;
+				Like Paul Strand, the American artist Man Ray's prolific portfolio as a photographer extends across both abstraction and portraiture. He was also a notable sculptor and painter, with ties to the Dada and Surrealist movements. His preferred props for the Rayographs were mass-produced consumer items, giving his work a found-object feel typical of the Dada movement, and a proto-Pop Art energy. The striking graphic effects of the Rayographs led to their use in commercial fashion magazines such as &lt;i&gt;Vanity Fair&lt;/i&gt;, and for advertising purposes in &lt;i&gt;Harper's Weekly&lt;/i&gt;. A Parisian electrical company even commissioned a number of Rayographs to promote the use of electricity.
+				&lt;br/&gt;&lt;br/&gt;
+				As the art critic Benjamin Genocchio notes, "[i]n these images the artist depicts the high-tech futuristic commodities of his time - toasters, electric fans and the like - in poetic ways." It was the contemporary energy of his work, and his willingness to explore new technologies with an aesthetically enquiring mind, that made Man Ray such an influential figure within abstract photography and modern art.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Equivalent</title>
+      <artist>Alfred Stieglitz</artist>
+      <year>1926</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				A dark, cloud-mottled sky fills the frame of Alfred Stieglitz's &lt;i&gt;Equivalent&lt;/i&gt;, which was a photograph from a series with the same name. Lit by a glowing, moonlike sun to the upper right, the image takes on the quality of pure abstraction as the billowing patterns of light are emphasized, and any reference to a horizon-line disappears. All sense of time, location, or context is also absent, leaving the viewer free to ponder the visual qualities of the work, and the inner feeling or mood they evoke.
+				&lt;br/&gt;&lt;br/&gt;
+				The gallerist, critic, and artist Alfred Stieglitz (husband of Georgia O'Keeffe) was perhaps more influential than any other figure in championing the cause of modernist photography during the late nineteenth and early twentieth centuries. Stieglitz's own creative ventures included founding the influential 291 Gallery, one of the first to exhibit European avant-garde art in North America. In his own work, Stieglitz was influenced by Wassily Kandinsky's assertion that colors and forms corresponded to "vibrations of the soul," a much-discussed topic during artists' gatherings at the 291 in the 1920s. Art critic Hilton Kramer emphasizes the influence of the European avant-garde, and of American Precisionist painting, on Stieglitz's work, noting that the &lt;i&gt;Equivalents&lt;/i&gt; "undoubtedly owe something to the American modernist painting (Dove's and O'Keeffe's especially) that Stieglitz felt particularly close to at the time."
+				&lt;br/&gt;&lt;br/&gt;
+				Stieglitz's images had a significant impact when first exhibited, and would later influence photographers such as Ansel Adams, who described seeing the &lt;i&gt;Equivalents&lt;/i&gt; as his first "intense experience in photography." Art critic Andy Grundberg argues that the &lt;i&gt;Equivalents&lt;/i&gt; "remain photography's most radical demonstration of faith in the existence of a reality behind and beyond that offered by the world of appearances. They are intended to function evocatively, like music, and they express a desire to leave behind the physical world".
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Photogram</title>
+      <artist>László Moholy-Nagy</artist>
+      <year>1926</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				In this photogram from 1926, a curvaceous, glowing white shape floats against a rich black background. The abstractness of the form erases all explicit representational content, but part of the interest of the work lies in the competition between claims of identification which it establishes, as various figurative reference-points are suggested by different parts of the composition. In particular, the central white shape might suggest a face in profile.
+				&lt;br/&gt;&lt;br/&gt;
+				Influenced by the Northern-European strain of Constructivism associated with the Bauhaus - where he taught for several years - the Hungarian artist László Moholy-Nagy believed that photography could revolutionize modern vision, allowing the artist to assume a new, mechanically objective gaze upon the world. His 1925 book &lt;i&gt;Painting, Photography, Film&lt;/i&gt; deploys examples from scientific, journalistic, and amateur photography to show how the medium had revolutionized modes of seeing. The artist began creating the cameraless images that he dubbed "photograms" in 1922, placing objects on photographic paper which was exposed to light. As art historian Sylvie Pénichon notes, "he pushed the envelope" by his experimentation with materials, using transparent or translucent objects, and applying graphite, varnish, and other substances to his prints. To create this work - whose alternative title, &lt;i&gt;Self-Portrait&lt;/i&gt;, emphasizes its figurative suggestiveness - Moholy-Nagy pressed the side of his face against the print, inserting himself into the composition process in a gesture of spontaneous, whimsical irony. 
+				&lt;br/&gt;&lt;br/&gt;
+				Moholy-Nagy once described his practice as "the shaping of light". As curators Ute Eskidsen and Alain Savag put it, "[t]he photogram is not a copy but a transmutation of the real and, first and foremost, of the phenomenon of light [...] The abstraction of the photogram is thus deliberately linked to the pictorial issues of the day." Moholy-Nagy's work has influenced a whole range of subsequent photographers, including contemporary artists such as Barbara Kasten, Walead Beshty, and Wolfgang Tillmans. 
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Jerome, Arizona</title>
+      <artist>Aaron Siskind</artist>
+      <year>1949</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				A sharply-focused close-up image of a wall covered in peeling layers of paint, this 1949 photograph by Aaron Siskind exemplifies the way in which abstract photography began to interact with the development of Abstract Expressionist painting in North America following the Second World War. Like the work of the New York School painters, this image offers an all-over play of abstract motifs within a flattened pictorial space. The dark layers of textured paint peeling up through the center of the image, emphasized by smaller dark areas around the edges and receding into lighter surrounding areas intersected by fine networks of lines, indicate a strong compositional impetus.
+				&lt;br/&gt;&lt;br/&gt;
+				The New York-based Siskind worked as a school teacher for several decades before taking up painting relatively late in life, becoming closely associated with the new movement in abstract painting which emerged in New York during the 1940s. Around the start of that decade, Siskind began taking close-up photographs of found objects, emphasizing abstract patterning and shape in a manner that was initially influenced by Straight Photography. He was increasingly drawn, however, to the work of Abstract Expressionists such as Franz Kline, Adolph Gottlieb, Barnett Newman, and Robert Motherwell, and his work began to acquire a similar kind of surface-energy, suggestive of psychic conflict or inner mood. 
+				&lt;br/&gt;&lt;br/&gt;
+				Of his own practice, Siskind stated: "[w]hen I make a photograph, I want it to be an altogether new object, complete and self-contained." Art critic Andy Grundberg notes that "the division we are accustomed to drawing between abstract form and concrete reality starts to dissolve in [Siskind's] photographs; what remains is ambiguous, recalcitrant and endlessly tantalizing."
+			</desc>
+      <collection>The Nelson-Atkins Museum of Art, Kansas City, Missouri</collection>
+    </artwork>
+    <artwork>
+      <title>Moenkopi Strata, Capitol Reef, Utah</title>
+      <artist>Minor White</artist>
+      <year>1962</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This sharply focused, richly-detailed image shows a geological formation, the Moenkopi Strata, in Capitol Reef National Park in Utah. The image is isolated from its context, so the irregular forms and dynamic interplay between light and shadow become abstract compositional motifs. Due to the uncertain vantage point, the viewer might also wonder if this is an aerial view or a side view. As a result, the elements of rock formation become fluid, while the gaze is drawn to various figuratively suggestive areas such as a long, bone-like flank of rock, and another clenched like a human fist. Because these forms are natural, their textures, fissures and fractures become powerfully suggestive of human emotions. 
+				&lt;br/&gt;&lt;br/&gt;
+				Born in 1908 in Minnesota, Minor White, Like Aaron Siskind, represents a younger generation of abstract photographers, inspired by the pioneering experiments of Stieglitz, Coburn, and others. Steiglitz's &lt;i&gt;Equivalents&lt;/i&gt; in particular were a great influence on White, who once stated: "[w]hen a photographer presents us with what to him is an &lt;i&gt;Equivalent&lt;/i&gt;, he is telling us in effect, 'I had a feeling about something and here is my metaphor of that feeling' [...] that can direct the viewer into a specific and known feeling, state, or place within himself." For White, the natural objects he photographed - rock formations, beaches, fallen trees - were "only the objects upon which the significance is spread like sheets on the ground to dry." 
+				&lt;br/&gt;&lt;br/&gt;
+				White's insistence on internal feeling and spiritual meaning has given his work an almost cult-like appeal to some, while others have criticized his esotericism. The art historians Peter S. Bunnell argues that "White [...] forged a new photographic approach: one that blended the hard formalism of Western taste with the more subtle and intellectual stance of the East Coast," making him "one of the most important photographic artists active during the thirty years after World War II".
+			</desc>
+      <collection>Princeton University Art Museum, New Jersey</collection>
+    </artwork>
+    <artwork>
+      <title>Construct NYC 1</title>
+      <artist>Barbara Kasten</artist>
+      <year>1983</year>
+      <materials>Polaroid</materials>
+      <desc>
+				Barbara Kasten's Polaroid image from 1983, part of her &lt;i&gt;Constructs&lt;/i&gt; series, depicts various luminous planes of glass. Two white spheres appear in front, their shapes reappearing through the refractions and reflections created on the surrounding colored surfaces. A tangible sense of materiality is generated, while at the same time, the distinction between solid material form and mere shadow-play dissolves. With reference to such works, Kasten has described her "fascination with light and its inevitable companion, shadow."
+				&lt;br/&gt;&lt;br/&gt;
+				Born in 1936, Barbara Kasten trained as a painter and textile artist before turning to photography in the 1970s. The first result was her &lt;i&gt;Amalgam Series&lt;/i&gt; (1979), a set of black-and-white photograms influenced by Moholy-Nagy. As Kasten puts it, "[t]he process of making complex shadows led me to photograms, which were the entry point of my photographic career [...] the negative-positive photogram allowed me to explore the illusionist properties of photography with tangible sculptural materials and constructions." Expanding on these experiments in the 1980s, she began her &lt;i&gt;Constructs&lt;/i&gt; series, of which she has written: "[t]he sculptural constructions used to create large-scale photograms inspired studio installations. Referencing constructivism, the temporary theatrical tableau are made to be photographed in approximately 4 to 8 feet square spaces."
+				&lt;br/&gt;&lt;br/&gt;
+				Working with the legacy of Constructivism and Concrete Art, Kasten creates abstract sculptural environments whose dimensions and formal qualities are both extended and rendered ambiguous by a photography process which generates mirages, shadows, and illusory spaces. As the critic Piper Marshall notes, "[t]hese photographs offer an architecture that takes in the expired ideals of their historical forebears to expand them outward, splaying their shadows into a transitional space."
+			</desc>
+      <collection>Artist's collection</collection>
+    </artwork>
+    <artwork>
+      <title>Black Sea, Ozuluce</title>
+      <artist>Hiroshi Sugimoto</artist>
+      <year>1991</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This enigmatic image from Hiroshi Sugimoto's celebrated &lt;i&gt;Seascapes&lt;/i&gt; series shows an ocean view bisected almost imperceptibly, by a horizon line which seems to disappear at the very moment we attempt to focus on it. In the bottom third of the image, the dark, regular furrowing of the waves draws our gaze, while moving in and out of focus. The result is a powerful, semi-abstract image, evoking the sea as a kind of elemental, archetypal presence, sublime but undefinable (even while the title places the image in a particular geographical location).
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Toyko in 1948, Hiroshi Sugimoto has become famous for his long-exposure images, and for exploring single subject-matters over extended series of photographs. He began creating his &lt;i&gt;Seascapes&lt;/i&gt; in 1999. Each image in the series depicts a particular place, and is dated to a particular time, but each is identifiable only by elementary qualities of light and atmosphere. The series offers a subtle, self-reflexive commentary on the nature of looking and thinking, as our eyes and brain attempt to fill in the visual details of the images, rendering our engagement with the work an act of creative perception.
+				&lt;br/&gt;&lt;br/&gt;
+				Sugimoto is amongst the most celebrated of contemporary abstract photographers, particularly for this series. The photo editor Myles Little has described Sugimoto as "one of the great photographic masters of our age," calling his work "awe-inspiring" for its ability to capture moments of timelessness. 
+			</desc>
+      <collection>The Solomon R. Guggenheim Museum, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Three Color Curl (CMY: Irvine, California, August 19th 2008, Fuji Crystal Archive Type C)</title>
+      <artist>Walead Beshty</artist>
+      <year>2008</year>
+      <materials>Color-photographic paper</materials>
+      <desc>
+				Influenced by the color-field painting of Mark Rothko and Morris Louis, this 2008 work by British-American artist Walead Beshty consists of multiple bands of color, extending at irregular angles across a vertically aligned frame. Drawing the viewer in with its suggestions of energy and movement, the image repels our gaze as we attempt to find a secure foothold or fulcrum around which to arrange the composition. 
+				&lt;br/&gt;&lt;br/&gt;
+				Beshty began making photograms in 2005, following a conversation with the grandson of László Moholy-Nagy, who referred to a number of lost Moholy-Nagy artworks created "using nothing more than crumpled photographic paper". Inspired by this idea, Beshty created his 2006 work &lt;i&gt;Abstraction Made by My Hand with the Assistance of Light&lt;/i&gt; by crumpling up photographic paper and exposing it to light. To create the image above, he curled photographic paper in the darkroom before exposing the warped sheets to cyan, magenta, and yellow light, creating light-and-shade patterns on the surface of the paper using the edges of the paper itself.
+				&lt;br/&gt;&lt;br/&gt;
+				Beshty has described the results of such experiments as "multiple tracings of a three-dimensional object [...] both a depiction of the photographic paper and the paper itself, as the paper casts an image of itself onto itself through the exposure process." He has also argued that such works are "[c]oncrete photographs (with a lower case 'c'), not abstract or pictorial photographs," because "the viewer is always presented with the referent and the image at the same time." As art historian James Nisbet has written, "Beshty's art nonetheless remains utterly of our own historical moment, presenting [...] so many possibilities leading to so many indecisions."
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Tilt/Swing (360° field of vision, version 1)</title>
+      <artist>Liz Deschenes</artist>
+      <year>2009</year>
+      <materials>Installation of six photograms</materials>
+      <desc>
+				This installation work by contemporary New York-based artists Liz Deschenes consists of six unique, black-and-white photograms arranged in a ring around an imagined viewer who would stand in the center of the room, offering them a 360-degree immersion in the images. Through their dynamic placement, the photograms take on something of the quality of domestic architectural features, surrounding the viewer like the tiles on the floor or vertical panels which divide up the gallery, altering our physical engagement with the space as a whole.
+				&lt;br/&gt;&lt;br/&gt;
+				Deschenes works with post-minimalist and post-conceptual themes, often creating works as cues or spurs to a physical or conceptual process which is itself the true 'art-work'. To create these photograms, she exposed photosensitive paper to moonlight over an extended period of time, bringing out the images using silver fixer in the darkroom. Each of the panels thus has a silver tone, full of subtle variations, seeming like a pool or mirror of moonlight. The artist's intention was to surround the viewer with these images at every conceivable turn of the head from a particular position, an idea inspired by the graphic designer Herbert Bayer's 1935 diagram showing a theoretical "full field of vision".
+				&lt;br/&gt;&lt;br/&gt;
+				Writing in the &lt;i&gt;New York Times&lt;/i&gt;, art critic Martha Schwendener has described Deschenes as "one of the quiet giants of post-conceptual photography", arguing that in works such as &lt;i&gt;Tilt/Swing&lt;/i&gt;, she is "increasingly engaged with the legacy of minimalism." Her unique contribution, however, is that "'[p]hotography' in her hands becomes immanently material, with images, stereoscopes and other devices structuring our experience as concretely as the architectural spaces in which they are displayed."
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Freischwimmer 199</title>
+      <artist>Wolfgang Tillmans</artist>
+      <year>2012</year>
+      <materials>Chromogenic color print</materials>
+      <desc>
+				Wolfgang Tillman's large-scale image evokes complex figurative associations while remaining abstract in form. The mobile ripples and shapes which fill the frame, in varying tones of blue, become variously and enigmatically embodied: hair-like, body-like, resembling water, yet evading any precise contextual definition.
+				&lt;br/&gt;&lt;br/&gt;
+				The only non-British recipient of the prestigious Turner Prize, the German photographer Wolfgang Tillmans has worked across a range of photographic genres, including portraiture and landscape photography, but has explored abstract idioms since the 1990s. He began his &lt;i&gt;Freischwimmer&lt;/i&gt; series in 2005, naming it after the German classification system for swimming proficiency. Created on a monumental scale perhaps inspired by the large-scale canvases of Color Field Painting, the &lt;i&gt;Freischwimmer&lt;/i&gt; photographs generate an all-encompassing visual atmosphere, notable for its associations of meditative lyricism. As if to emphasize the enigmatic quality of the pieces, the artist has not revealed the process used to create them, beyond indicating that they are contact prints made in the darkroom, with photo-sensitive paper exposed in stages and three-dimensional objects used to create various effects. 
+				&lt;br/&gt;&lt;br/&gt;
+				Of the distinctions between his different photographic styles, Tillmans has stated: "[i]n a way, abstraction is something that I have always done [...] this exploration of the image surface, of the very nature of what constitutes an image, has always been of great fascination to me, how in a way it's all just a likeness and never the real thing, but also how something you mark on paper is transformed into something that you look at and see something else in". As Matthew MacLean writes, "[e]ven when [Tillmans] eschews representation, working without cameras, the results [...] are a numinous sublime."
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>coburn_alvin_langdon</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>strand_paul</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>schad_christian</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>ray_man</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>stieglitz_alfred</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>moholy_nagy_laszlo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>siskind_aaron</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>white_minor</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>kasten_barbara</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>sugimoto_hiroshi</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>beshty_walead</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>deschenes_liz</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>tillmans_wolfgang</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry recommended="true">
+          <title>Abstraction in Photography</title>
+          <link is_inline_video="true" inline_video_type="youtube">CODdp5UPfMA</link>
+          <info>The Art of Photography</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Artist Specific Videos:" class="clips">
+        <entry recommended="true">
+          <title>Alvin Langdon Coburn</title>
+          <link is_inline_video="true" inline_video_type="youtube">KOVcWUQHNC4</link>
+          <info>The Art of Photography</info>
+        </entry>
+        <entry>
+          <title>"Crimes Against Photography": Man Ray and the Rayograph</title>
+          <link is_inline_video="true" inline_video_type="youtube">2umyxWJslJY</link>
+          <info>San Francisco Museum of Fine Art</info>
+        </entry>
+        <entry>
+          <title>Wolfgang Tillmans</title>
+          <link is_inline_video="true" inline_video_type="youtube">f9RrmzUXnhA</link>
+          <info>FondationBeyeler</info>
+        </entry>
+        <entry recommended="true">
+          <title>2012 Biennial: Liz Deschenes</title>
+          <link is_inline_video="true" inline_video_type="youtube">jhLiT5RUKyw</link>
+          <info>Whitney Museum of American Art</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures and Talks:" class="clips">
+        <entry recommended="true">
+          <title>Alvin Langdon Coburn's The Octopus (1909) at the Ben Uri London Exhibition</title>
+          <link is_inline_video="true" inline_video_type="youtube">xIEbxubCDu8</link>
+          <info>
+						Talk by Dr. Percy North
+						&lt;br/&gt;
+						BenUriGallery
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Moholy-Nagy and Photographic Processes</title>
+          <link is_inline_video="true" inline_video_type="youtube">e66Z5WgDJW4</link>
+          <info>Talk by Sylvie Pénichon</info>
+        </entry>
+        <entry>
+          <title>Moholy-Nagy: Exhibition Overview at the Guggenheim</title>
+          <link is_inline_video="true" inline_video_type="youtube">vBZj4Me3RK8</link>
+          <info>With Curator Karole P. B. Vail</info>
+        </entry>
+        <entry>
+          <title>Lecture: First Hugh Edwards Lecture in Photography - Wolfgang Tillmans</title>
+          <link is_inline_video="true" inline_video_type="youtube">tFEecCWxd7M</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Artist Barbara Kasten and curator Alex Klein</title>
+          <link is_inline_video="true" inline_video_type="vimeo">124443397</link>
+          <info>ICA</info>
+        </entry>
+        <entry>
+          <title>Liz Deschenes on her camera-less photography</title>
+          <link>https://www.sfmoma.org/watch/liz-deschenes-on-her-cameraless-photography/</link>
+          <info>San Francisco Museum of Modern Art</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Photographs by Man Ray: 105 Works, 1920-1934</title>
+          <link>0486238423</link>
+          <info>By Man Ray</info>
+        </entry>
+        <entry>
+          <title>Wolfgang Tillmans: Abstract Pictures</title>
+          <link>3775740813</link>
+          <info>By Dominic Eichler and Wolfgang Tillmans</info>
+        </entry>
+        <entry recommended="true">
+          <title>Aaron Siskind: Another Photographic Reality</title>
+          <link>0292762917</link>
+          <info>By Gilles Mora, Aaron Siskind, and Charles Traub</info>
+        </entry>
+        <entry>
+          <title>Minor White: Manifestations of the Spirit</title>
+          <link>1606063227</link>
+          <info>By Paul Martineau</info>
+        </entry>
+        <entry recommended="true">
+          <title>Liz Deschenes</title>
+          <link>3791355112</link>
+          <info>By Eva Respini, Sarah Charlesworth, Eric Crosby, et al.</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Moholy-Nagy Foundation</title>
+          <link>http://moholy-nagy.org/photograms/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Man Ray Trust</title>
+          <link>http://www.manraytrust.com</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Stieglitz Equivalent Series</title>
+          <link>http://www.phillipscollection.org/research/american_art/artwork/Stieglitz-Equivalent_Series1.htm</link>
+          <info>Phillips Collection</info>
+        </entry>
+        <entry recommended="true">
+          <title>Barbara Kasten website</title>
+          <link>http://barbarakasten.net</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Camera-less photography artists</title>
+          <link>http://www.vam.ac.uk/content/articles/c/camera-less-photography-artists/</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Through a glass darkly: Tate Britain celebrates the work of Alvin Langdon Coburn</title>
+          <link>http://www.independent.co.uk/arts-entertainment/art/features/through-a-glass-darkly-tate-britain-celebrates-the-work-of-alvin-langdon-coburn-2288839.html</link>
+          <info>
+						By Clare Dwyer Hogg 
+						&lt;br&gt;
+						Independent 
+						&lt;br&gt;
+						May 27, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Photosynthesis</title>
+          <link>http://nymag.com/nymetro/arts/art/reviews/2389/</link>
+          <info>
+						By Mark Stevens
+						&lt;br&gt;
+						NY Magazine 
+						&lt;br&gt;
+						March 30, 1998
+					</info>
+        </entry>
+        <entry>
+          <title>Paul Strand's Sense of Things</title>
+          <link>https://www.newyorker.com/culture/photo-booth/paul-strands-sense-of-things</link>
+          <info>
+						By Andrew Dickson
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						April 15, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Barbara Kasten</title>
+          <link>https://bombmagazine.org/articles/barbara-kasten/</link>
+          <info>
+						By Leslie Hewitt
+						&lt;br&gt;
+						Bomb Magazine 
+						&lt;br&gt;
+						March 18, 2015 
+					</info>
+        </entry>
+        <entry>
+          <title>Equivalents</title>
+          <link>http://media.artic.edu/stieglitz/equivalents/</link>
+          <info>
+						Art Institute of Chicago 
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The fiery stimulator</title>
+          <link>https://www.theguardian.com/artanddesign/2006/mar/18/art.modernism</link>
+          <info>
+						By Fiona MacCarthy
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						March 18, 2006 
+					</info>
+        </entry>
+        <entry>
+          <title>Thomas Ruff - New Work</title>
+          <link>https://brooklynrail.org/2003/08/artseen/thomas-ruff-new-work</link>
+          <info>
+						By Megan Heuer
+						&lt;br&gt;
+						Brooklyn Rail 
+						&lt;br&gt;
+						August 1, 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Out of the light, into the shadows: Photograms</title>
+          <link>http://www.tate.org.uk/context-comment/articles/out-light-shadows</link>
+          <info>
+						By Jonathan Griffin
+						&lt;br&gt;
+						Tate Etc. 
+						&lt;br&gt;
+						March 11, 2015 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

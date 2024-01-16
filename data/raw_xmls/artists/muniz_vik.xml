@@ -1,0 +1,379 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>muniz_vik</id>
+    <name>Vik Muniz</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1985 - present</years>
+    <description>Vik Muniz treats photographs as source material, building block, and inspiration for inspiring works that uncover layers of deeper meaning.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>Brazilian</nationality>
+    <occupation>Photographer, Sculptor, and Conceptual Artist</occupation>
+    <birthDate>December 20, 1961</birthDate>
+    <birthPlace>São Paulo, Brazil</birthPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <big_bio_box_img>Glass mosaic of subway riders that Muniz envisioned, a work that is now publicly displayed at the 72nd street, 2nd Ave subway line in New York City.</big_bio_box_img>
+    <bio_highlight>Muniz decided to become an artist when he discovered Jeff Koons’s enigmatic vacuum cleaner and basketball sculptures. Muniz said: “I realized that I could be an artist too. He was speaking my language.”</bio_highlight>
+    <pub_time>6/20/2019</pub_time>
+  </main>
+  <includes>
+    <include>conceptual_art</include>
+    <include>modern_photography</include>
+  </includes>
+  <similar_movements>
+    <movement>conceptual_art</movement>
+    <movement>modern_photography</movement>
+    <movement>neoclassicism</movement>
+    <movement>dusseldorf_school</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>gericault_theodore</artist>
+    <artist>cai_guo_qiang</artist>
+    <artist>david_jacques_louis</artist>
+    <artist>gursky_andreas</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Things look like things, they are embedded in the transience of each other's meaning; a thing looks like a thing, which looks like another thing, or another. This eternal ricocheting of meaning throughout the elemental proves representation to be natural and nature to be representational."</q>
+    <q>"My work questions the connecting elements between the image and the real, without discrediting either."</q>
+    <q>"Reality or representation? As soon as I discovered how similar these two notions are once they become visual information, I began to feel more comfortable using this polarity to my advantage."</q>
+    <q>"Sometimes I feel that I am not a real photographer, because I only use photography to document everything else that I truly like doing."</q>
+    <q>"I tried to find and establish a visual language that, while individual, could be understood by everyone."</q>
+    <q>"To copy is to extend the symbolic value of an image by suffusing it with new technology, thus updating its rhetorical approach. Copying has been an extensive part of my work as an artist, not only because of the constant feeling of debt I owe to artists before me, but also because of my firm belief in the non-revolutionary pattern of creativity."</q>
+    <q>"Whenever I think of myself, I do so via an image."</q>
+    <q>"My primary motivation to make art is the negotiation with the observer about the manner in which we perceive the visual world."</q>
+  </quotes>
+  <authors>
+    <author link="flaksman">Catarina Flaksman</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Art photography has been around since the early 19th century as a viable way to see behind the eyes and into the mind of an artist. Yet contemporary artist Vik Muniz has managed to repurpose its traditional uses beyond presenting images at face value by treating photographs as source material, building block, and inspiration for more complex works. Verging on mixed media, and with a conceptual spin, Muniz's art asks us to question our relationship with illusion and perception, going deeper into the familiar to uncover layers of added meaning. 
+			&lt;br/&gt;&lt;br/&gt;
+			With his recycling and manipulation of imagery, Muniz's work questions the idea that artistic creativity involves coming up with a completely original idea and champions the idea of expounding upon the existent. Historical artworks, scenes from popular culture, iconic people from our communal consciousness, and cross sections of contemporary, global life highlighting lesser known social issues and marginalized communities are all prey to Muniz's investigations into how we are affected by, and find meaning within, what we see. 
+		</synopsys>
+    <key_ideas>
+      <idea>In addition to his reworking of the age-old medium of photography, Muniz is noted for using a variety of eclectic and found materials such as chocolate, jelly, tomato sauce, diamonds, toys, and trash to recreate his or others' original imagery. The materials forward connections between what he is visually presenting and the underlying messages he wishes to convey about his subject matter.</idea>
+      <idea>Multi step process defines much of Muniz's work. Whether drawing, then photographing his own drawings for presentation; taking pictures that are then recreated using non-photographic materials on varying scales; or creating manufactured instances to photograph as reality, the steps involved in the artist's finished work catapults him beyond the realms of mere photography into the annals of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt;.</idea>
+      <idea>By photographing the "simulated real," Muniz destabilizes the concept of photography itself and instigates viewers to look beyond the surface. Described as both a "provocateur" and a "prankster," the artist questions the notion of reality and representation. In doing so, he touches on a variety of issues like "the reconnection of art with its public; art's relation to figuration and with the social-historical; and the demystifying of the false quarrel between photography and painting," as writer Affonso Romano de Sant'Anna maintains.</idea>
+      <idea>Muniz has said that he does not believe in originals, but rather believes in individuality. And indeed, in his photo manipulation and methodology, he truly creates signature works that repurpose and showcase themes in different lights for his viewers. He sees photography as having "freed painting from its responsibility to depict the world as fact."</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born Vicente José de Oliveira Muniz, the artist grew up in a modest house in downtown São Paulo with his parents, a telephone operator and a waiter, and his maternal grandparents. Because of his dyslexia, Muniz's grandmother would read to him from the Encyclopedia Britannica, the only books they had in the house. At seven years old, Muniz could read but not yet write. Instead, he began drawing compulsively in his notebooks and developed a system of writing that only he could understand. Today, he considers these challenges and his relative lack of formal education as advantages and distinctions in his artistic practice.</p>
+          <p type="p">In 1975, at age fourteen, Muniz earned money by fixing televisions. At the same time, a professor saw his drawing and recommended his participation in a state-sponsored arts festival held among public schools. Muniz participated and won a partial scholarship to study in an academy of drawing and sculpture. As he recalls, his three years learning to draw and model geometric solids and nudes taught him almost everything about art making, including "how to organize visual information in a hierarchical way," giving him "a more detailed understanding of the mechanisms of representation." Although the academy did not offer courses in contemporary art, Muniz maintained contact with the Brazilian and international arts scene through attending readings, museum visits, and theater performances.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">In 1979 Muniz enrolled in the Publicity and Advertising course at Fundação Armando Álvares Penteado (FAAP) in São Paulo, and the following year he was hired by a small advertising company. In 1983, after leaving a party, Muniz was accidentally shot in the leg after trying to help a victim of a fight. In order not to press charges, the shooter offered him a substantial amount of money, which Muniz accepted. With it, he bought a ticket to the United States where he lived with his maternal aunt in the suburbs of Chicago. Speaking little English, Muniz helped take care of his cousins and worked in the parking lot of a supermarket. Without many friends, he recalls that reading the newspaper and watching TV were comforting and allowed him to participate in this new environment.</p>
+          <p type="p">After visiting New York for the first time in 1984, Muniz decided to move to the city. He lived in the East Village and worked various jobs while taking night classes in theater direction and set design. At first, Muniz planned to work in the theater industry, but his work at a frame shop led to a first contact with the New York City art scene. After meeting artists and going to openings, he eventually rented his first studio in the Bronx, where he began to produce sculptures and objects. In 1988 Muniz exhibited his work for the first time at P.S. 122, a performance space at an abandoned school in the East Village. Soon after that he sold his first pieces and began exhibiting frequently in the United States and Europe.</p>
+          <p type="p">What marked Muniz as different than many of his photographic peers at the time was his methodology. Starting with his &lt;i&gt;The Best of Life&lt;/i&gt; series, he eschewed the traditional mode of photography by not simply snapping pictures and presenting them as art, but by using the medium of photography as an element in concocting uniquely composed pieces of art. After drawing from memory the pages of &lt;i&gt;Life&lt;/i&gt; magazine, he then photographed his drawings and presented those as art. Subsequently, he would go on to recreate photographs of cultural icons such as the Mona Lisa or Marilyn Monroe using odd materials like chocolate syrup or dust. Photography became an inspiration, a tool, and a systematic step in his overall creative process.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Muniz lived in Paris for a year and a half (due to a growing interest in his work in France), before returning to New York in 1992 with a permanent residency visa. At this point, he decided to focus on photography as the essential medium for his work, revealing his concern for "the logic of perception." In 1993, Muniz and his friend Kim Caputo created and became editors of the contemporary photography magazine &lt;i&gt;Blind Spot&lt;/i&gt;.</p>
+          <p type="p">A turning point in his career that established his reputation in the art world came in 1996, when Muniz created the series &lt;i&gt;Sugar Children&lt;/i&gt;. Having grown up under the Brazilian military regime (1964-1985), Muniz was accustomed to censorship and to the fact that people could not speak their minds freely, but rather had to express themselves through double meanings. The concept of double meaning would become a major motif in &lt;i&gt;Sugar Children &lt;/i&gt;and all of his future work. &lt;i&gt;Sugar Children&lt;/i&gt; consisted of photographic likenesses of children he encountered in the Caribbean drawn with sugar on black paper. The beautiful works evoked deeper reflections into the working conditions of these children whose labor provided the world its highly prized sweet stuff. The project also evolved Muniz's out-of-the-box style, using highly experimental processes and materials to expand his artwork from mere photography into mixed media, adding conceptual layers to the imagery causing viewers to consider more than just visual aesthetics.</p>
+          <p type="p">Muniz continued to exhibit frequently, and started to gain visibility in Brazil as well. His first solo exhibition in a major museum took place in 1998 at the International Center for Photography in New York.</p>
+          <p type="p">Inspired by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-smithson_robert"&gt;Robert Smithson's&lt;/span&gt; &lt;i&gt;Spiral Jetty&lt;/i&gt; (1970) in his studio, from 2002-2006 Muniz created a series of earthwork photographs consisting of images of mundane objects such as an electrical outlet, a pair of scissors, a key, a clothes hanger, and a pipe. These images were dug into the landscape in northern Brazil using GPS and construction equipment. Dangling from a helicopter, he then photographed the earthworks, recreated the images in sand in his studio and re-photographed them. The resulting works referenced Peruvian Nazca lines, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magritte_rene"&gt;Rene Magritte's&lt;/span&gt; &lt;i&gt;The Treachery of Images&lt;/i&gt; (1929), and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-land_art"&gt;Land Art&lt;/span&gt; movement in general.</p>
+          <p type="p">From the 2000s onwards, Muniz expanded his artistic practice, lecturing at various universities and museums, curating photography exhibitions worldwide, and designing covers for the &lt;i&gt;New York Times Magazine&lt;/i&gt;. In 2009, after his widely acclaimed first retrospective exhibition took place at major Brazilian museums in São Paulo, Rio de Janeiro, and Belo Horizonte, Muniz decided to take up a part-time residence in Rio de Janeiro, reconnecting with his country after having lived abroad for almost thirty years.</p>
+        </subsection>
+        <subsection title="Current Practice">
+          <p type="p">In 2010, the documentary film &lt;i&gt;Waste Land&lt;/i&gt; detailed the process of creation involved in Muniz's &lt;i&gt;Pictures of Garbage&lt;/i&gt; series, which resulted from three years working with the garbage pickers at Jardim Gramacho in Rio de Janeiro - one of the world's largest trash dumps. The criticism that the artist had profited from the sale of the &lt;i&gt;Sugar Children&lt;/i&gt; photographs, while the subjects themselves continued to live in poverty, inspired him to use this project to improve the lives of his subjects.</p>
+          <p type="p">The following year, UNESCO nominated Muniz to be a Goodwill Ambassador "in recognition of his contributions to education and social development through his artistic career." His artistic altruism continued in 2015 when he opened the Escola Vidigal, a school of art and technology that aims to introduce the idea of visual literacy to children from an underprivileged community in Rio de Janeiro.</p>
+          <p type="p">Muniz completed his first permanent public art work in New York City in 2016, a mosaic tile masterpiece called &lt;i&gt;Perfect Strangers&lt;/i&gt;, which was located in the new Second Avenue subway at the 72&lt;sup&gt;nd&lt;/sup&gt; Street station.</p>
+          <p type="p">The artist continues to expand his practice, working with different mediums and contexts. A self-described "low-tech illusionist," Muniz's mission is to urge audiences to reflect on the concepts of illusion and perception embedded in our psyches and to question what lies beneath, or behind, everyday imagery. He continues to challenge by presenting art that contains multiple meanings - both in the immediate response to his visual stimuli and then in the reaction to its underlying message.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Muniz's practice expounds upon the idea that photography involves simply pointing the camera at a scene or object and clicking the shutter. For this reason, he becomes an example of both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;Postmodernism&lt;/span&gt; and the art historical tradition of &lt;i&gt;trompe l'oeil&lt;/i&gt;, or "fooling the eye." According to curator Matthew Drutt, Muniz's works "challenge audiences to focus more carefully on what they think they see or perceive, setting traps along the way that undermine their self-confidence in those processes."</p>
+          <p type="p">Although his work has a strong foundation in art history and explores the fundamental question of how the viewer experiences a work of art, Muniz also strives to create work that is appealing to general audiences.</p>
+          <p type="p">Muniz helped pave the way for a sea of contemporary photographers who also rely on photography as a base tool for which to build their work upon and to help reflect myriad meaning from a single image. Via advanced technology, the digital art world has become flush with artists whose manipulation and repurposing of imagery leads to reflection on what lies beneath as well as offering new and exciting ways to experience visual stimuli.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="magritte_rene">The Treachery of Images (1929)</artwork>
+    <artwork from="movement" page="modern_photography">Migrant Mother, Nipomo, California (1936)</artwork>
+    <artwork from="artist" page="warhol_andy">Gold Marilyn Monroe (1962)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Clown Skull</title>
+      <year>1990</year>
+      <materials>Plastic, paint, wood, metal, plexiglass</materials>
+      <desc>
+				At first sight, &lt;i&gt;Clown Skull&lt;/i&gt; looks like an actual human skull with a strange, protruding round nose that is the same color and texture as bone. However, it is made of plastic and other materials. 
+				&lt;br/&gt;&lt;br/&gt;
+				Muniz's artistic practice started after his move to New York City, where he rented a studio. His earliest art consisted of sculptures, which according to the artist, was a concrete way to use a separate creative muscle than he had for his commercial work in the advertising industry. Ironically though, many of the themes he explored through this medium would appear later when he primarily used photography as his chosen form. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Clown Skull&lt;/i&gt; comes from the &lt;i&gt;Relics&lt;/i&gt; series, which drew upon the definition of relic as referring to an idolized or valued object from the past. Muniz's relics, though, also contained a dark sense of humor, showcasing not only the relic but turning it into a contemporary object of multiple interpretations. For instance, the skull makes references to both the European tradition of skulls and skeletons serving as reminders of death in &lt;i&gt;memento mori&lt;/i&gt; still life paintings and popular culture's tendency to interpret clowns as frightening (Stephen King's &lt;i&gt;It&lt;/i&gt;, John Wayne Gacy, etc.) Other &lt;i&gt;Relics&lt;/i&gt; included a pre-Columbian pot stuffed with a coffee filter like a modern day breakfast appliance, and an Ashanti sculpture artifact turned into a video game joystick. What results is a humorous commentary on the nature of representation and how objects from the past circulate in the present.
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;Relics&lt;/i&gt; works introduced Muniz's themes of representation, appropriation, and history, which would become more important in his later photographic work. They also represented a personal milestone, marked by (as the artist said) a "comprehension of the object as an image and, provoked by this comprehension, a kind of identity crisis of the object itself, a discrepancy between what is expected from the material and what it offers."
+				&lt;br/&gt;&lt;br/&gt;
+				After a professional photographer took photos of these works for a gallery, Muniz decided to photograph the objects himself. According to him, the professional pictures "seemed to go against the three-dimensional nature and dynamics" that he had sought to imbue in his objects. This episode ended up inspiring him and soon after that he began making two-dimensional things solely to photograph them.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Memory Rendering of Kiss at Times Square</title>
+      <year>1995</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				&lt;i&gt;Memory Rendering of Kiss at Times Square&lt;/i&gt; appropriates one of the most famous works of photojournalism by the photographer Alfred Eisenstaedt in &lt;i&gt;Life&lt;/i&gt; magazine. The image celebrates the end of World War II, in which a sailor in the US Navy grabbed a nurse and kissed her upon learning that Japan had surrendered. 
+				&lt;br/&gt;&lt;br/&gt;
+				Upon his arrival in the United States in 1983, Muniz bought the book &lt;i&gt;Best of Life&lt;/i&gt;, a collection of photographs published in &lt;i&gt;Life&lt;/i&gt; magazine. It presented photographs from historical moments such as the moon landing, the Vietnam War, and the Kent State shootings, and iconic images of pop cultural heroes such as John Lennon. The artist recalls that the book brought him comfort, acting as a kind of family album - "family of humankind." After losing it, Muniz decided to undergo a process of recreation via drawing exercises. For two years, he drew what remained of the photographs from his memory, filling in what he couldn't remember with his imagination. After keeping the drawings in a shoebox for a while, he decided to photograph them somewhat out of focus and print the images with half tone dots (some of them on newsprint). After noticing that no one questioned the photographs' authenticity, Muniz realized that he could leave out many of the original details in his renderings and the spectator would fill in the blanks themselves. 
+				&lt;br/&gt;&lt;br/&gt;
+				The process involved in creating Muniz's work adds layers of personal meaning to the original. His interference in the image calls attention to the fact that it is a product of the artist's imagination and not a straightforward reproduction. This addresses one of the fundamental questions of photography, including photojournalism: what role does the photographer play in the creation of the image? This work led Muniz to further explore the representational and highly mediated nature of photographs, as well as the idea that documentation can be transformed into an art form. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Memory Rendering&lt;/i&gt; illustrates several themes: the obvious use of previous sources as inspiration for further works of art, the relationship of an individual to "the news" and to larger histories, and the imperfections and inconsistencies of memory itself. 
+			</desc>
+      <collection>Whitney Museum of American Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Valentina, The Fastest</title>
+      <year>1996</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				The &lt;i&gt;Sugar Children&lt;/i&gt; series originated after a trip to the Caribbean, where Muniz played with the children from the island of Saint Kitts for several days on a black sandy beach. After meeting the children's parents, he learned about the harsh conditions of the sugar plantations at which they worked, and was intrigued by the contrast between the happiness of the children and the sadness of their parents. Inspired by a poem from Brazilian poet Ferreira Gullar entitled &lt;i&gt;Açúcar&lt;/i&gt; (&lt;i&gt;Sugar&lt;/i&gt;), Muniz remembers: "It occurred to me that sugar had sapped the sweetness from those people." He returned to New York with Polaroids of the children, reproducing them into temporary images "by sifting various types of sugar onto black paper." He then photographed the images before discarding the sugar into a jar with the original photograph glued outside on the glass. When he exhibited the series for the first time, Muniz placed each corresponding jar next to its final photograph. Although the resulting photographs appear at first glance to belong to the canon of stereotypical tourist photos of happy children in developing countries, the use of sugar simultaneously references the candy and sweetness of youth, its impermanence, and the manual labor awaiting the children once they reach adulthood. 
+				&lt;br/&gt;&lt;br/&gt;
+				Muniz defines this work as the "founding moment" of his career. After years of drawing photographs, Muniz began to photograph drawings. This idea revolutionized his practice. Instead of using photography to appropriate and document the work of another artist, Muniz made the process of creating a work of art and documenting it into the main focus of his work. Muniz soon began to create ephemeral drawings using perishable, inexpensive, and impermanent materials such as chocolate, soil, dust, peanut butter, jam, wire, and garbage. 
+				&lt;br/&gt;&lt;br/&gt;
+				Curator and historian Pedro Corrêa do Lago asserts that the series is "a fundamental contribution to the thinking and practice of art at the turn of the century."
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Clouds</title>
+      <year>2001</year>
+      <materials>Smoke</materials>
+      <desc>
+				Muniz's first large-scale public art project took place in February 2001, when the New York-based non-profit Creative Time realized the artist's work &lt;i&gt;Clouds&lt;/i&gt;. Using a modified crop-dusting plane, a skywriter drew white cartoon-like clouds designed by Muniz over the Manhattan skyline on four separate occasions over a period of six days. The action occurred on a monumental scale, contrasting with the public art that people walked past every day and ignored, or even with conventional skywriting. &lt;i&gt;Clouds&lt;/i&gt; jolted people out of their routine and forced them to stop and look - if for no other reason, then for the fact that the image would soon disappear. 
+				&lt;br/&gt;&lt;br/&gt;
+				As writer and curator Kirby Gookin wrote, Muniz "conjured an anti-monument." &lt;i&gt;Clouds&lt;/i&gt; "lifts art off its pedestal, removes it from park and plaza, and sends it soaring thousands of feet into the sky to be seen by millions of potential viewers," he remarked. Similar to Gordon Matta-Clark's cutting of holes into architecture slated for demolition, Muniz's &lt;i&gt;Clouds&lt;/i&gt; created a work of art from the idea of absence: there was no art object, since the medium of the work was smoke, and this is one of the few mature works by Muniz in which photography did not play a direct role in the creation. 
+				&lt;br/&gt;&lt;br/&gt;
+				Even though the work was a departure from Muniz's use of photography, it maintained his common theme of pinpointing the relationship between illusion and perception. Clouds, in their ephemeral signature way of denoting forms and familiar objects from life became a perfect subject to further examine this theme. The artist had already worked with clouds in his &lt;i&gt;Equivalents&lt;/i&gt; series of 1993, which consisted of pieces of cotton worked into familiar shapes, such as a pig, a snail, and a teapot. In 1995, he made additional works with the same title named after Alfred Stieglitz's photographs of the sky and clouds from the 1920. In both &lt;i&gt;Equivalents&lt;/i&gt; and &lt;i&gt;Clouds&lt;/i&gt;, the cloud was not really what it appeared to be at first glance, provoking a reconsideration of the work. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work also added to a category of art in which artists create ephemeral or temporary events that are seen once but remain forever documented in their absence by the use of photography. Other artists such as Andy Goldsworthy are noted for this type of installation, using elements of fleeting nature. 
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Black Marilyn</title>
+      <year>2004</year>
+      <materials>Chromogenic print mounted on Sintra</materials>
+      <desc>
+				Muniz created this image of Marilyn Monroe from diamond dust placed against a black background, which he then photographed. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work affirms the strong influence of Pop Art in his practice, drawing from the movement's central concept of incorporating imagery from commercial products, television, and movies as a critique of popular culture. Like Andy Warhol, Muniz also worked in advertising before embarking on an artistic career. After Monroe tragically died, Warhol used this image of Monroe in a series of silkscreen paintings to question the cult of celebrity and reveal the public's fascination with mortality. Here, Muniz uses the same image to evoke the superficial glamour of Hollywood through his choice of material, in this case the dust from diamonds. The use of dust, however, also evokes the fragility of the subject and the impermanence of both life and the composition. Muniz has also created diamond portraits of other deceased celebrities, including Elizabeth Taylor, Grace Kelly, Bette Davis, and Marlene Dietrich. Although many artists have created their own versions of these celebrated women, Muniz's use of material lends an added level of interpretation to the familiar images, expressing his own opinion onto the mainstream imagery, and making them unique once again.
+				&lt;br/&gt;&lt;br/&gt;
+				As in much of his practice, Muniz transforms iconic works from the art historical canon by recreating them with unconventional materials. This strategy is part of his longstanding goal of making art accessible to a wider audience. Through the use of familiar images, Muniz is able to attract the observer's gaze, at the same time provoking surprise through the exploration of the work's actual materials. "Once the surprise is gone, the artist educates the spectator's gaze, stimulating their satisfaction in unpeeling the many layers of interpretation," writes historian Pedro Corrêa do Lago. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Marat (Sebastião)</title>
+      <year>2008</year>
+      <materials>Trash (clothes, plastics)</materials>
+      <desc>
+				For three years, Muniz worked with garbage pickers from Jardim Gramacho, the site of one of the largest trash dumps in the world, on the outskirts of Rio de Janeiro. The artist persuaded the workers to participate in his project, shot their portraits, and asked them to pick garbage to help sculpt their portraits in his studio. The result of this collaboration was the creation of large-scale "drawings" consisting of garbage that portrayed the workers themselves, which Muniz then photographed. 
+				&lt;br/&gt;&lt;br/&gt;
+				The goal of this work was to transform the lives of the people involved in its creation. The workers of Jardim Gramacho belonged to the lowest level of Brazilian society, however, this project brought them into contact with the elite world of galleries and art auctions. Muniz educated the participants about his work as he interacted with them, gave them some of the final prints and proceeds, and brought the head of the garbage pickers' collective to London to view the auction in person. 
+				&lt;br/&gt;&lt;br/&gt;
+				Muniz selected canonical portraits from the history of art for inspiration in this series. As the title of this photograph suggests, the image appropriates the Neoclassical French painter Jacques-Louis David's iconic &lt;i&gt;Death of Marat&lt;/i&gt; (1793), in which the painter portrayed his friend, a radical journalist and politician active during the French Revolution, moments after he was murdered in his bathtub. Other photographs from this series draw inspiration from a Renaissance Madonna and Jean-François Millet's &lt;i&gt;The Sower&lt;/i&gt;. Here, the model is Sebastião Santos (known as Tião), the youthful and charismatic president of the cooperative of garbage collectors. The selection of the work by David intentionally draws parallels between Marat and Tião, implying that the two men share similar roles as politically subversive leaders and thus similar levels of revolutionary potential. This image also references concepts unique to Brazilian art, including &lt;i&gt;antropofagia&lt;/i&gt;, the "cannibalization" or use and transformation of European sources, and director Glauber Rocha's idea of an aesthetic of hunger, which addresses the role of poverty in Brazilian culture. 
+				&lt;br/&gt;&lt;br/&gt;
+				The documentary film &lt;i&gt;Waste Land&lt;/i&gt;, directed by Lucy Walker chronicled the creation of &lt;i&gt;Marat (Sebastião)&lt;/i&gt; and received an Academy Award nomination for Best Documentary Feature in 2010. In the movie, Muniz states: "I'm at this point in my career where I'm trying to step away from the realm of fine arts because I think it's a very exclusive, very restrictive place to be. What I want to be able to do is to change the lives of people with the same materials they deal with every day." For this reason, &lt;i&gt;Marat (Sebastião)&lt;/i&gt; and the other photographs associated with &lt;i&gt;Waste Land&lt;/i&gt; make connections to the idea of social practice, a recent movement of the past twenty years in which artists develop works with the intention of collaborating with and improving local communities. However, while the participants received the proceeds from the sale of Muniz's work, the larger question of whether this has made any lasting difference in their lives remains. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>ray_man</entity>
+        <entity>levine_sherrie</entity>
+        <entity>lewitt_sol</entity>
+        <entity>richter_gerhard</entity>
+      </column>
+      <column>
+        <entity alt="Kim Caputo">caputo_kim</entity>
+        <entity alt="Leonilson">leonilson</entity>
+      </column>
+      <column>
+        <entity>conceptual_art</entity>
+        <entity>pop_art</entity>
+        <entity>fluxus</entity>
+        <entity>dada</entity>
+        <entity>modern_photography</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Jason Mecier">mecier_jason</entity>
+      </column>
+      <column>
+        <entity alt="Carlos Saldanha">saldanha_carlos</entity>
+        <entity alt="Fernando Meirelles">meirelles_fernando</entity>
+      </column>
+      <column>
+        <entity alt="Contemporary Photography">contemporary_photography</entity>
+        <entity alt="Public art">public_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Vik Muniz: Catalogue Raisonné 1987-2015 - Everything So Far</title>
+          <link>8589063577</link>
+          <info>By Pedro Corrêa do Lago and Vik Muniz</info>
+        </entry>
+        <entry>
+          <title>Vik Muniz</title>
+          <link>3791355198</link>
+          <info>By Arthur Ollman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Reflex: A Vik Muniz Primer</title>
+          <link>1931788405</link>
+          <info>By Vik Muniz</info>
+        </entry>
+        <entry>
+          <title>Vik Muniz: The Weimar File</title>
+          <link>8494053582</link>
+          <info>By Vik Muniz</info>
+        </entry>
+        <entry>
+          <title>Vik Muniz: Verso</title>
+          <link>8881587238</link>
+          <info>By Vik Muniz</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Seeing Is Believing</title>
+          <link>1892041006</link>
+          <info>By Charles Ashley Stainback and Mark Alice Durant</info>
+        </entry>
+        <entry>
+          <title>Vik Muniz: Model Pictures</title>
+          <link>0939594536</link>
+          <info>By Matthew Drutt</info>
+        </entry>
+        <entry>
+          <title>Vik Muniz</title>
+          <link>8837026021</link>
+          <info>By Germano Celant</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Vik Muniz exhibition history, bibliography, and artworks</title>
+          <link>http://vikmuniz.net/</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Vik Muniz: Illusionism beyond Specular Appearance</title>
+          <link>http://vikmuniz.net/library/vik-muniz-illusionism-beyond-specular-appearance</link>
+          <info>
+						By Aracy Amaral
+						&lt;br&gt;
+						Ver Para Crer exhibition catalog, Museum of Modern Art, São Paulo 
+						&lt;br&gt;
+						June 2001
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Vik Muniz by Mark Magill</title>
+          <link>http://vikmuniz.net/library/vik-muniz-by-mark-magill</link>
+          <info>
+						By Mark Magill
+						&lt;br&gt;
+						Bomb Magazine 
+						&lt;br&gt;
+						Fall 2000
+					</info>
+        </entry>
+        <entry>
+          <title>An Interview with Vik Muniz</title>
+          <link>http://vikmuniz.net/library/an-interview-with-vik-muniz</link>
+          <info>
+						By Linda Benedict-Jones
+						&lt;br&gt;
+						The Frick Art Museum, Pittsburgh 
+						&lt;br&gt;
+						February 2000
+					</info>
+        </entry>
+        <entry>
+          <title>Smile and Say 'Peanut Butter,' Mona Lisa</title>
+          <link>http://www.nytimes.com/2007/03/02/arts/design/02muni.html</link>
+          <info>
+						By Martha Schwendener
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						March 2, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Where Art Meets Trash and Transforms Life</title>
+          <link>http://www.nytimes.com/2010/10/24/arts/design/24muniz.html</link>
+          <info>
+						By Carol Kino
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 21, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>The "Imposter" and the Sugar Children</title>
+          <link>http://www.newcitybrazil.com/2015/12/01/the-imposter-and-the-sugar-children-vik-muniz-tells-us-how-his-non-education-helped-him-become-an-artist-for-the-ages/</link>
+          <info>
+						By Cynthia Garcia
+						&lt;br&gt;
+						New City Brazil 
+						&lt;br&gt;
+						December 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Podcast from NYPL with Arthur Ollman interviewing Vik Muniz</title>
+          <link>http://vikmuniz.net/library/vik-muniz-and-arthur-ollman-at-nypl-podcast</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>TED Talk by Vik Muniz: Art with wire, sugar, chocolate and string</title>
+          <link>https://www.ted.com/talks/vik_muniz_makes_art_with_wire_sugar</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Vik Muniz: The Illusionist</title>
+          <link>http://vikmuniz.net/library/vik-muniz-the-illusionist-2</link>
+          <info>The artist at the UM Stamps School of Art and Design</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

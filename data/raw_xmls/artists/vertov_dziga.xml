@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>vertov_dziga</id>
+    <name>Dziga Vertov</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1917 - 1954</years>
+    <description>Vertov was one of the most acclaimed of the Soviet filmmakers closely aligned with the Constructivist movement.</description>
+    <art_description>Important film &amp; achievement analysis of Dziga Vertov including: Kino-Pravda, Man with a Movie Camera, Three Songs About Lenin &amp; more in Documentary Film &amp; Constructivism.</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Russian</nationality>
+    <occupation>Filmmaker</occupation>
+    <birthDate>January 2, 1896</birthDate>
+    <birthPlace>Bialystok, Russia</birthPlace>
+    <deathDate>February 12, 1954</deathDate>
+    <deathPlace>Moscow, USSR</deathPlace>
+    <big_bio_box_img>Dziga Vertov photographed by his brother Mikhail Kaufman (1913)</big_bio_box_img>
+    <bio_highlight>Vertov believed that cinema (moving image) was blessed with qualities unavailable to the other arts: "From the viewpoint of the ordinary eye you see untruth. From the viewpoint of the cinematic eye you see the truth [...] It has been revealed by the kino-eye".</bio_highlight>
+    <pub_time>1/5/2023</pub_time>
+  </main>
+  <includes>
+    <include>documentary_film</include>
+    <include>constructivism</include>
+  </includes>
+  <similar_movements>
+    <movement>documentary_film</movement>
+    <movement>constructivism</movement>
+    <movement>socialist_realism</movement>
+  </similar_movements>
+  <quotes>
+    <q>"I am the Cine-Eye. I am the mechanical eye. I the machine show you the world as only I can see it...My path leads towards the creation of a fresh perception of the world. I can thus decipher a world that you do not know"</q>
+    <q>"Our eyes see very little and very badly - so people dreamed up the microscope to let them see invisible phenomena; they invented the telescope...now they have perfected the cinecamera to penetrate more deeply into the visible world, to explore and record visual phenomena so that what is happening now, which will have to be taken account of in the future, is not forgotten"</q>
+    <q>"Cine-Eye means the conquest of space, the visual linkage of people throughout the entire world based on the continuous exchange of visible fact, of film-documents as opposed to the exchange of cinematic or theatrical presentations. Kino-Eye means conquest of time. Kino-Eye is the possibility of seeing life processes in any temporal order or at any speed, inaccessible to the human eye"</q>
+    <q>"In the face of the machine we are ashamed of man's inability to control himself, but what are we to do if we find the unerring ways of electricity more exciting than the disorderly haste of active people"</q>
+    <q>"From the viewpoint of the ordinary eye you see untruth. From the viewpoint of the cinematic eye you see the truth. If it's a question of reading someone's thoughts at a distance, then you have that opportunity right here. It has been revealed by the kino-eye"</q>
+  </quotes>
+  <authors>
+    <author link="banister">Alexandra Banister</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Vertov was one of the most acclaimed of the Soviet Formalist filmmakers. Closely aligned with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist movement&lt;/span&gt;, he developed his Kino-Glaz ("Film Eye") theory that proposed that film (the moving image) had a status and potential all of its own and should therefore sever all ties to theater or contrived studio production. For Vertov, the movie camera should be treated as a machine that could highlight hidden truths that were otherwise unseeable by the naked human eye. Taking his camera onto the streets, and experimenting with non-linear editing techniques in his studio, Vertov's Kino-Glaz approach led to a radical rethinking of what documentary filmmaking could be. Like other artists connected to the Soviet avant-garde, however, Vertov fell afoul of the Stalin administration's preference for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-socialist_realism"&gt;Socialist Realism&lt;/span&gt;, and he was obliged to spend his later years working on aesthetically undemanding propaganda films.</synopsys>
+    <key_ideas>
+      <idea>Through his Kino-Glaz theory, Vertov pioneered an improvisational approach to documentary filmmaking that later transformed into a universal film style known as &lt;i&gt;cinéma vérité&lt;/i&gt; (cinema truth). Although &lt;i&gt;cinéma vérité&lt;/i&gt; developed in different ways (even finding its way into commercial narrative filmmaking), at basis it remains true to Vertov's maxim that the moving image could capture (or at least could give the impression of) some living truth hidden behind a false or contrived reality.</idea>
+      <idea>Vertov formed the Kinoki Group ("Cinema-Eye Group") and in its name published manifestos railing against the manifold falsehoods of fiction in film. Under Vertov's lead, Kinoki produced a weekly &lt;i&gt;Kino-pravda&lt;/i&gt; ("Film-truth") newsreel series that used radical editing techniques which juxtaposed new and found film footage. New York's &lt;i&gt;MoMA&lt;/i&gt; said of the filmmaker, "Like others of his generation, Vertov believed that the creation of an objective 'cinema eye' would, in destroying old habits of viewing, help build a new, proletarian society".</idea>
+      <idea>Vertov experimented with all manner of self-reflexive editing techniques including slow motion, oblique camera angles, double exposures, extreme close-shots, and jarring image juxtapositions. He also varied the length of his shots to test film's rhythmic potential, and pioneered the idea of mobile framing by attaching his bulky camera to motorcycles, locomotives, and other engine driven contraptions. He pulled all these techniques (and others) together to dazzling effect in his crowning masterpiece, &lt;i&gt;Man with a Movie Camera&lt;/i&gt; (1929).</idea>
+      <idea>Although he would soon by stymied by state's hostility towards avant-garde experimentation, Vertov was a pioneer in early film sound. For his film &lt;i&gt;Enthusiasm: The Symphony of Donbas&lt;/i&gt; (1931), Vertov - who referred to the film as his "Symphony of Noises" - integrated original industrial sounds - such as those recoded in railway station, on the streets and while riding trams - with a musical score that underwent various transformations and distortions in post-production.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="img" alt="Vertov's brother, Boris Kaufman, was a cinematographer who emigrated to New York in 1940. He later won the Best Cinematography Academy Award on Elia Kazan's 1954 film &lt;i&gt;On the Waterfront&lt;/i&gt;. His other brother, Mikhail, worked in Soviet documentary film and collaborated with Dziga on projects including his most famous film, &lt;i&gt;Man with a Movie Camera&lt;/i&gt;." show="1">/images20/photo/photo_vertov_dziga_1.jpg</p>
+          <p type="p">A son of Jewish book dealers, David Abelevich was born in Bialystok, part of the Russian Empire (now Poland). He was one of three brothers, with Boris and Mikhail, who became key players in the cinematic arts. Vertov attended Bialystok Modern School between 1905-14, and, from 1912, studied violin, piano, and music theory at the Bialystok Conservatory. In the fall of 1914, David undertook a "general course of study" at Vladimir Bekhterev's Psychoneurological Institute in Petrograd. It was the only pre-revolution Russian institution to accept Jewish students (and he would soon Russify his name, to Denis Arkadyevich Kaufman, in order to conceal his Jewish heritage). In 1915, with German armies advancing on Białystok. the Abelevich's fled Bialystok, first to Petrograd, then Moscow.</p>
+          <p type="p">During 1916, David became interested in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-russian_futurism"&gt;Russian Futurism&lt;/span&gt; and began writing science fiction stories and experimenting with sound poems, or what he called "audio art". He stated, "I had an idea about the need to enlarge our ability for organized hearing. Not limiting this ability to the boundaries of usual music. I decided to include the entire audible world into the concept of 'Hearing' [...] I became interested in the rhythmic organization of separate elements of the visible and audible world in general. [...] I was not satisfied experimenting with available pre-recorded sounds. In nature I heard considerably more different sounds, not just singing or a violin from the usual repertoire of gramophone discs".</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="p">In the fall of 1916, David was recruited into a special musical section at a military academy in Chuguev, near Khar'kov, Ukraine. He returned to Moscow following the February Revolution of 1917. Moscow would remain his home city for the rest of his life. He attended Moscow University where he studied law and attended additional lectures in mathematics. Historian John MacKay writes, "He took his pseudonym at around 1918. 'Vertov' is a futurist neologism derived from the Russian verb &lt;i&gt;vertit'sia&lt;/i&gt;, to spin or turn; 'Dziga' is the Ukrainian word for a '(spinning) top', although he has been signing his poems in that fashion since at least 1915. As an adult, he was formally addressed as 'Denis Arkadievich Vertov', and this sort of Russification of name was typical for the young members of the Russophilic Jewish milieu in which he grew up".</p>
+          <p type="p">In 1918, Vertov was hired as secretary for the newsreel division of the All-Russian Cinema Committee of the People's Commissariat of Enlightenment. Vertov, who described himself as an "anarchistic-individualist", never joined the Bolshevik Party but was fully behind the Revolutionary cause and, also in 1918, he was married to his first wife, the pianist and Bolshevik activist, Olga Toom. Vertov's good year was rounded off when he assumed administrative control of the Soviet Union's first weekly newsreel series, &lt;i&gt;Kino-Nedelya&lt;/i&gt; (&lt;i&gt;Cinema Week&lt;/i&gt;).</p>
+          <p type="img" alt="A still from Vertov's 1921 newsreel film, &lt;i&gt;Agit-Train of the Central Committee&lt;/i&gt;. For most rural Russians, the Agit-Trains were their first exposure to the moving image and other forms of mechanical reproduction such as (still) photography, and phonographs." show="1">/images20/photo/photo_vertov_dziga_2.jpg</p>
+          <p type="p">As the Civil War continued, the newsreels became increasingly focused on the struggle against the counter-revolutionary White Army. Vertov travelled to the fighting near Tsaritsyn as a war correspondent in 1919 and, between 1920-21, toured areas captured by the Red Army in the southwest of the country on an agit-train called &lt;i&gt;The October Revolution&lt;/i&gt;. (The agit-trains were funded by the revolutionary government to promote their politics and boost morale in the isolated regions of the Soviet Union. The trains featured onboard printing presses, libraries of books and pamphlets, and travelling movie theatres showing propaganda newsreel films.)</p>
+          <p type="p">On the second tour, Vertov made the acquaintance of two important players in the development of Soviet revolutionary cinema, the actor/director Vladimir Gardin, and the filmmaker and theorist Lev Kuleshov whose radical experiments in montage editing at the famous Kuleshov Workshop in Moscow provided the theoretical foundations for Soviet Formalist cinema. In 1919, Vertov made his first feature length documentary, &lt;i&gt;Anniversary of the Revolution&lt;/i&gt;. The following year he made &lt;i&gt;Battle of Tsaritsyn&lt;/i&gt; (now lost). The latter would be significant because it was the first film on which he worked with his lifelong collaborator and companion, Elizaveta Svilova. He followed with two documentaries of note: &lt;i&gt;The Agit-Train VTSIK&lt;/i&gt; (1921), and &lt;i&gt;History of Civil War&lt;/i&gt; (1922). Vertov and Svilova married in 1923 (they remained a couple until his death in 1954).</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Vertov published his theory on film in Kino-Fot magazine (6 issues between 1922-23), which was edited by the Constructivist theorist and avant-garde designer Alexei Gan. Vertov's claim that he was an "anarchistic-individualist" meant that he came late to the Constructivist mission. MacKay notes, for instance, that "in 1921-22, while Constructivism was taking shape in the art studios of the cities, Vertov was touring the countryside on the agit-trains" and it was not until "he met Gan that their ideologies combined, and Gan realized the potential of film to display "reality ... without the subjective narrowness ... of the heartsick maestros of art".</p>
+          <p type="p">It was in the pages of Kino-Fot that Vertov first introduced the term "kinoks" ("film-eyes"), which he, Mikhail and Elizaveta used as an alternative term to "cinematographer". Those who identified as "kinoks" would promote the concept of the "kino-glaz": a way of employing the movie camera to make visible things that would be otherwise imperceptible to the human eye. As Vertov himself declared: "I am an eye. A mechanical eye [...] This is what I am, a machine that runs in chaotic manoeuvres, recording movements one after the other, assembling them in a patchwork. Freed from the constraints of time and space, I organize each point of the universe as I wish. My route is that of a new conception of the world. I can make you discover the world you did not know existed".</p>
+          <p type="img" alt="Alexander Rodchenko's poster for Dziga Vertov's &lt;i&gt;Kinoglaz&lt;/i&gt; (&lt;i&gt;Kino-Eye: Life Caught Unawares&lt;/i&gt;) (1924). MacKay writes that the culmination of the &lt;i&gt;Kino-Pravda&lt;/i&gt; period was the feature-length film &lt;i&gt;Kinoglaz&lt;/i&gt; which “comprises five autonomously structured reels joined only by the overriding theme of the activities of the Young Pioneer troops”." show="1">/images20/photo/photo_vertov_dziga_3.jpg</p>
+          <p type="p">MacKay writes that around this time, "the Commissariat of Enlightenment (Narkompros) decided to entrust the task [of state film propaganda] to Vertov's documentary group" and between 1922-25, the "Council of Three" as they were also known, produced a series of 23 newsreels under the banner title &lt;i&gt;Kino-Pravda&lt;/i&gt; (&lt;i&gt;Cine-Truth&lt;/i&gt;). MacKay states "[&lt;i&gt;Kinoks&lt;/i&gt;] offered reportage on an extremely wide variety of subjects and acted as a laboratory for the development of a film vocabulary (particularly from the thirteenth issue onward). During this period, Vertov developed his montage techniques and honed his growing theories about cinema as the art form best suited for the masses. The evolution of the series was characterised both by the deployment of an increasingly rich repertoire of devices - including archival footage, news footage, animations, experiments with moving intertitles, reenactments, and (contrary to Vertov's stated principles) staged sequences - and by increasing structural and thematic unity [...] The fourteenth &lt;i&gt;Kino-Pravda&lt;/i&gt; (late 1922) includes mobile constructivist intertitles designed by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodchenko_alexander"&gt;Rodchenko&lt;/span&gt;".</p>
+          <p type="img" alt="Cover art of the journal of the Left Front of the Arts (LEF). &lt;i&gt;LEF&lt;/i&gt; saw cinema as one of the greatest tools in the “fight” against bourgeois culture." show="1">/images20/photo/photo_vertov_dziga_4.jpg</p>
+          <p type="p">In 1923, meanwhile, a troupe of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-suprematism"&gt;Suprematist&lt;/span&gt;/&lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist&lt;/span&gt; artists organized themselves into a sub-group called "Left Front of the Arts" and under whose auspices they produced the highly influential avant-garde journal LEF, (1923-25) (and later, New LEF (1927-29)). The journal defended the avant-garde against the rise of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-socialist_realism"&gt;Socialist Realism&lt;/span&gt; and the threat of a rebirth of a traditional bourgeois/capitalist art. For the contributors of LEF (which was edited by the futurist poets Vladimir Mayakovsky and Nikolai Aseyev, and the literary critic Osip Brik) the moving image held great potential for defence against easel painting and traditional narratives. LEF's most prominent filmic members/contributors were Vertov, Kuleshov, Sergei M. Eisenstein, Vsevolod Pudovkin, and Esfir Shub.</p>
+          <p type="p">Vertov published further manifestos in &lt;i&gt;LEF&lt;/i&gt; as part of the "Council of Three" (with brother Mikhail and wife Elizaveta). MacKay writes that in an article called "Kinoks: A Revolution (Appeal for a Beginning)" published in June 1923 "they derided all fiction films as backward, packed with lies and powerless while lauding those films that recorded the truth of real life 'caught unawares'".</p>
+          <p type="p">The mid-1920s saw most of Vertov's work take the form of commissions from Soviet state agencies. He completed two commissions of special note: &lt;i&gt;Stride, Soviet!&lt;/i&gt; (1926), and &lt;i&gt;One Sixth of the World&lt;/i&gt; (1926) (the latter a film commissioned to promote Soviet exports overseas). Both films were remarkable for their levels of formal experimentation, and they garnered considerable attention within Soviet avant-garde groups. Indeed, Vertov's dream of the "kino-glaz", and the idea that movie cameras (machines) could focus the public's perception of their surrounding world, was firmly aligned with the Constructivist ambition to "awaken" its citizens to the dawning of a new modern/Soviet age.</p>
+          <p type="p">However, by 1926 Vertov's relationship with the Bolshevik lawyer, and head of Moscow's Sovkino Studios, Ilya Trainin, had disintegrated beyond repair. Trainin was critical of the artistic and monetary excesses of &lt;i&gt;One Sixth of the World&lt;/i&gt;, and Vertov was incensed at Trainin's decision to hand the directorial role for a film commemorating the tenth anniversary of the Revolution to Esfir Shub. MacKay describes how relations between the two men finally "reached boiling point [...] when Vertov, advocate of the non-scripted film, refused to present Trainin with a script for &lt;i&gt;Man with a Movie Camera&lt;/i&gt; [or any] footage for the never-realised first version [of the film] which Vertov had been amassing through 1925-26". Vertov was fired by Trainin at the beginning of 1927.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="The Stenberg Brothers, Constructivist poster for &lt;i&gt;Man with a Movie Camera&lt;/i&gt; (1929) captured the dynamism of Vertov's signature work." show="1">/images20/photo/photo_vertov_dziga_5.jpg</p>
+          <p type="p">After his break with Goskino, Vertov moved to Ukraine where he joined the All-Ukrainian Photo Cinema Directorate (VUFKU) (an organization aligned with the Ukrainian Futurists). Here he enjoyed a new freedom which allowed for him to experiment more with his filming style. The result was three of his most innovative and influential projects: &lt;i&gt;The Eleventh Year &lt;/i&gt;(1928), &lt;i&gt;The Man with a Movie Camera&lt;/i&gt; (1929), and &lt;i&gt;Enthusiasm: Symphony of the Donbass&lt;/i&gt; (1930), the latter being his first sound film. Unfortunately, VUFKU ceased operations in 1930 by order of the Soviet Union's Superior Board of the People's Economy.</p>
+          <p type="p">Following the closure of VUFKU, Vertov was hired again by the Soviet Union's propaganda film studios and created, amongst other works, &lt;i&gt;Three Songs About Lenin&lt;/i&gt; (1934), celebrating the regime's former leader. This film looked at the revolution through the eyes of the peasantry and had a more outward focus than his more experimental propaganda films. MacKay writes, "1928-35 marked the apex of Vertov's worldwide fame and influence, and during those years, articles about his work were published everywhere from the US and Argentina to Czechoslovakia and Japan. He took two trips to Europe - from the beginning of May through the beginning of August 1929, and from July 1931 to the beginning of 1932 - during which time he showed his films in Germany, France, the Netherlands, and England, and met Germaine Dulac, Léon Moussinac, and Joris Ivens among others. Both trips were primarily lecture tours accompanied by film screenings. For example, in June 1929 he presented his paper 'What is Cinema-Eye' in Hanover, Berlin, Dessau, Essen and Stuttgart".</p>
+          <p type="p">As the decade progressed, Vertov came under increasing pressure to create films in line with the codes of Socialist Realism: a highly idealized style which drew from classical tradition and was enforced by Stalin as the state's official approach to culture. Although Vertov was a supporter of the Revolution, he possessed an independent voice and, in 1937, made &lt;i&gt;Lullaby&lt;/i&gt;, a critique of the exploitation of women throughout Russian history. However, any idea that Vertov might be allowed to work with any degree of autonomy was crushed once and for all when &lt;i&gt;Lullaby&lt;/i&gt; (which played in theaters in the US) was heavily doctored by the Soviet state and re-presented as a film about the maternal instincts of Soviet women and Stalin's state support for the family.</p>
+          <p type="p">During the late 1930s/early 1940s, Vertov worked on a few projects that were never realized or never released (such as &lt;i&gt;Three Heroines&lt;/i&gt; (1938) about three pioneering female pilots). In 1942 he successfully competed and released &lt;i&gt;Kazakhstan - Frontu!&lt;/i&gt;, a propaganda film about Kazakhstan's war effort. The film was well received but Vertov suffered a nervous breakdown during production and post-production; a situation exacerbated no doubt by the terrible news that the Nazis had murdered his parents and other close relatives. Vertov's last film of note, although it received only a very limited release, was, &lt;i&gt;The Oath of Youth&lt;/i&gt; (1944), about the Komsomol (the communist youth organization). Vertov proposed several new script ideas in the following months, but none were realized. Forward of 1944, Vertov worked infrequently on anonymous newsreel films. He died in Moscow in 1954 of stomach cancer. Svilova retired soon after her husband's death and, despite her own not insignificant achievements as a filmmaker, dedicated the rest of her life to promoting his memory.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">In discussing the work of Vertov, Michelson referred to the eye as being transformed into an "agent of critical production" and cited Vertov as "the world of truth's ... great discoverer". This concept of truth in cinema is perhaps Vertov's greatest legacy, and one that has been drawn on most heavily by future generations of filmmakers. Edgar Morin and Jean Rouch, for example, directly borrowed Vertov's term "&lt;i&gt;cinéma vérité&lt;/i&gt;" ("cinema truth") from his &lt;i&gt;Kino-Pravda&lt;/i&gt; film series in naming their documentary filmmaking style in the 1960s. In the late 1960s (or early 1970s), the Groupe Dziga Vertov was formed by the filmmakers Jean-Luc Godard (arguably France's most radical New Wave filmmaker) and Jean-Pierre Gorin, who created several films according to Marxist/socialist principles. Even without its left-wing political motivations, &lt;i&gt;cinéma vérité&lt;/i&gt; became a staple of American experimental cinema, such as that practiced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frank_robert"&gt;Robert Frank&lt;/span&gt; and John Cassavetes, and the gay American Underground Cinema movement (with which &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; became involved). &lt;i&gt;Cinéma vérité&lt;/i&gt; even found its way into the "new" Hollywood cinema of the late-1960s-'70s when the lines between art and commercial cinema became more blurred.</p>
+          <p type="p">Following Stalin's death, there was a revived interest in Vertov's work with retrospectives of his films and the publications of new editions of his writings. Much of this work was carried out by Vertov's wife and long-term collaborator Elizaveta, who re-published his theoretical writings in the collection &lt;i&gt;Dziga Vertov: Articles, Diaries, Projects&lt;/i&gt; in Russian in 1966 and kept a detailed catalogue of his work. Of &lt;i&gt;Man with a Movie Camera&lt;/i&gt;, MacKay writes, "This work, shown in Germany, France, England and the United States after its initial release, fell into almost total obscurity for the next thirty years. Now widely regarded as the most formally inventive and intellectually complex film of the silent era, &lt;i&gt;Man with a Movie Camera&lt;/i&gt; has become a touchstone for discussions of documentary, experimental practice in film, and cinematic self-reflexivity". In 2012 the &lt;i&gt;British Film Institute's&lt;/i&gt; journal, &lt;i&gt;Sight and Sound&lt;/i&gt;, voted &lt;i&gt;Man with a Movie Camera&lt;/i&gt; 8&lt;sup&gt;th&lt;/sup&gt; in its poll of the greatest films ever made.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Kino-Pravda</title>
+      <year>1922</year>
+      <materials>Film</materials>
+      <desc>
+				Launched in June 1922, Vertov produced 23 issues of &lt;i&gt;Kino-Pravda&lt;/i&gt; newsreel series over a 3-year period. Each episode lasted around 20 minutes and reported on a variety of subjects focused on the everyday experiences of the proletariat. Using functional, and candid cinematography - sometimes achieved through the use of hidden cameras - Vertov captured daily Soviet life in markets, bars, and the workplace. Episodes also covered themes such as the boom in Soviet industry and urbanization, and the reorganization of farms into communes. The films had no narrative structure, but rather used formalist techniques to juxtapose scenes. 
+				&lt;br/&gt;&lt;br/&gt;
+				Film historian Erik Barnouw notes how the title &lt;i&gt;Kino-Pravda&lt;/i&gt; was in itself a "kind of manifesto". The series took its title indeed from the official government daily newspaper &lt;i&gt;Pravda&lt;/i&gt; ("truth"), founded in 1912, and in this way asserted a central role for itself as the filmic mouthpiece of an "official truth". As well as introducing Vertov's filmic technique of montage, the &lt;i&gt;Kino-Pravda&lt;/i&gt; films marked the start of Vertov's collaboration with his brother Mikhail, and future wife (and editor) Elizaveta Svilova. &lt;i&gt;Kino-Pravda&lt;/i&gt; also illustrates how film formed part of Vertov's wider vision: to use radical forms and methods to reveal new truths for the purpose of furthering the socialist agenda of the Soviet government. Dissatisfied with narrative fiction, Vertov's use of seemingly unrelated scenes spliced together was employed in order to, in Barnouw's words, "edit, to wrest, through the camera, whatever is most typical, most useful, from life; to organize the film pieces ... into a meaningful rhythmic visual order, a meaningful visual phrase, an essence of 'I see'".
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>A Sixth Part of the World</title>
+      <year>1926</year>
+      <materials>Film</materials>
+      <desc>
+				Produced and distributed by Sovkino, the State Committee for Cinematography, and edited by Elizaveta Svilova (Vertov's second wife), &lt;i&gt;A Sixth Part of the World&lt;/i&gt; showcased Vertov's filmic methods in a longer format than the &lt;i&gt;Kino-Pravda&lt;/i&gt; newsreel series. Taking the form of a 73-minute film, this work expands upon the mini-series project by mixing newsreels with footage filmed by eight teams of kinoks, including Vertov's brother Mikhail, travelling throughout the newly formed Soviet Union. Vertov cut the footage together to take the viewer on a journey through the outer reaches of the country, showing its agricultural production, fur farming, and machine building, and generally promoting the message that diverse groups of Soviet society all contributed to the national economy. 
+				&lt;br/&gt;&lt;br/&gt;
+				This film also showcased the deeply embedded links between Vertov's aesthetic and his political concerns. In 1925, Gostorg, the Central State Trading Organization, sought a director to produce a film promoting internal trade, with the overarching message that everyone involved in manufacture and production was working towards the greater good of the socialist revolution. Vertov was the ideal fit, and, in an interview with &lt;i&gt;Kino-Fot&lt;/i&gt; magazine in August 1926, he implored "all citizens of the Union of Soviet Socialist Republics from 10 to 100 years old must see this work. By the tenth anniversary of [the] October [Revolution] there must not be a single Tungus [people of Siberia] who has not seen &lt;i&gt;A Sixth Part of the World&lt;/i&gt;!". 
+				&lt;br/&gt;&lt;br/&gt;
+				The film promoted Soviet unification and encouraged collective pride in domestic manufacturing and agriculture. Vertov used the camera to transport viewers to the remotest areas of the Soviet Union and thereby introducing them to otherwise unfamiliar rural practices taking place in the furthest outreaches of the country. The film historian Oksana Sarkisova summarized: Vertov's films display a "persistent fascination with travel. Movement across vast spaces is perhaps the most recurrent motif in his oeuvre ... creating a heterogeneous cine-world". 
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Man with a Movie Camera</title>
+      <year>1929</year>
+      <materials>Film</materials>
+      <desc>
+				Universally accepted to be his masterpiece, Vertov's feature-length movie depicts citizens living and working in the newly formed Soviet Union. Divided into six numbered sections, the film has no human agent to carry a plot with the role of "storyteller" taken over by the camera (operated by Vertov's brother, Mikhail Kaufman). The film presents "day in the life" scenarios filmed in three unidentified Soviet cities - it was shot, in fact, in Moscow, Kiev and Odessa (the latter two, now Ukraine) - that are populated with citizens from different economic classes. The camera/narrator is shown travelling to different locations to record sporting events, laborers at work, funerals, marriages, and other everyday activities and events. 
+				&lt;br/&gt;&lt;br/&gt;
+				The movie interweaves a complex of avant-garde montage techniques - precipitous juxtaposition, double-exposure, split screen, slowed down, speeded up, and stop motion photography (a walking camera tripod, for instance), superimposition (the cameraman filming from inside a beer glass for instance), and so on - and is described by Vertov in its credits as an "experiment in cinematic communication of visible events". It represented a radical break from traditional documentary filmmaking with the film historian and avant-garde filmmaker Jay Leyda enthusing that Vertov had turned the camera into an "heroic participant in the currents of Soviet life". On the film's release, Vertov issued a statement which read: "This new experimentation work by Kino-Eye is directed towards the creation of an authentically international absolute language of cinema on the basis of its complete separation from the language of theatre and literature". 
+				&lt;br/&gt;&lt;br/&gt;
+				Co-edited with his wife, Elizabeta Svilova (she appears on film working in her editing suite), the film was produced under the auspices of VUFKA (All-Ukrainian Photo Cinema Administration) which granted Vertov complete creative freedom. However, Vertov's total commitment to avant-garde experimentation saw him marginalized by the early 1930s when Constructivism (in the Soviet Union at least) was unceremoniously banned by the Stalin administration in favor of the more immediately communicable, Socialist Realism. Nevertheless, &lt;i&gt;Man with a Movie Camera&lt;/i&gt; was to change the rules for documentary filmmaking and today it competes with Eisenstein's &lt;i&gt;Battleship Potemkin&lt;/i&gt; (1925) and &lt;i&gt;October&lt;/i&gt; (1927), as the Soviet Union's greatest gift to international cinema. 
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Enthusiasm: The Symphony of Donbas</title>
+      <year>1931</year>
+      <materials>Film</materials>
+      <desc>
+				Vertov's first sound film was intended to promote the successes of socialism in industry as a result of Stalin's Five Year Plan. The Donbas region was rich in natural resources, particularly coal, through which the Soviet Union could meet its production goals. Vertov mixed images of the old, pre-communist society - churchgoers and revolutionaries removing the contents of churches - with the new socialist society - a woman wearing a radio headset, smiling workers, and an emphasis on the importance of coal to the industrialization of the Soviet Union. However, the film was most remarkable for Vertov's innovative use of sound recording. 
+				&lt;br/&gt;&lt;br/&gt;
+				Vertov wanted to experiment with the way in which noise could be used in cinema, and preferred recording urban sounds (through Alexander Sorin's purpose-built "sound-on-film" system) on location rather than using "imitative" library recordings or studio-produced sound. Despite the bulky and heavy equipment (which was difficult to transport form location to location) Vertov created a montage of sound from industrial sites (such as train and tram stations, on the streets of Donbass and at a nearby harbor) which he combined with a musical score (by Nikolai Timofeev) to create a "complex symphony" of distorted and transformed sound. In justifying his vision of a cinematic of truth, Vertov stated, "If [...] you go to the Donbass, then all you'll hear [at first] is one uninterrupted roar and noise - that's the first impression [...] I studied these sounds [...] and for us these sounds are 'noise' - but for the worker in the Donbass every sound has a specific meaning; for him there are no 'noises'".
+				&lt;br/&gt;&lt;br/&gt;
+				The jarring shifts in rhythm between sound and image, however, left many viewers confused, resulting in the film being quickly removed from theaters. Indeed, Vertov himself criticized elements of the film, claiming that the sound layering was technically difficult to achieve and that he never saw the film as a finished work. However, as historian John MacKay explains, "After its first public screenings in Europe in 1931 the film achieved significant success. In a note sent to Vertov from London, Charlie Chaplin wrote: "Never had I known that these mechanical sounds could be arranged to sound so beautiful. I regard it as one of the most exhilarating symphonies I have heard. Mr. Dziga Vertov is a musician. Professors should study with him and not argue". 
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Three Songs About Lenin</title>
+      <year>1934</year>
+      <materials>Film</materials>
+      <desc>
+				Commissioned to commemorate the 10&lt;sup&gt;th&lt;/sup&gt; anniversary of Lenin's death, &lt;i&gt;Three Songs About Lenin&lt;/i&gt;, consists of three sections totalling around an hour, each based around specific pieces of music. The film marks Vertov's continued experimentation with sound and features a mix of new material spliced with stock footage of Lenin. It would be the last film over which he would have complete creative control.
+ 				&lt;br/&gt;&lt;br/&gt;
+				In the first episode, music from the second movement of Beethoven's piano sonata &lt;i&gt;Pathétique&lt;/i&gt; provides a backdrop to footage celebrating Communism's successes, such as the education of Islamic women. The second episode is more sombre, featuring the funeral march from Chopin's &lt;i&gt;Piano Sonata in B flat major&lt;/i&gt; and Wagner's &lt;i&gt;Siegfried's Funeral March&lt;/i&gt; from &lt;i&gt;Der Ring&lt;/i&gt;. Here footage details the mourning of the Soviet people following Lenin's death. The final episode returns to the nation's triumphs, including the period of modernization and economic growth of the 1920s.
+				&lt;br/&gt;&lt;br/&gt;
+				This three-part propagandistic documentary illustrates how, later in his career, Vertov relied on the prescriptive commissions of the Soviet government. Rather than depicting rapid developments of the present through experimental styles, these later works were more concerned with building the Soviet Union's legacy through a less agitational style. The film was in fact very well received by critics at the time who saw it as a more humanistic piece of cinema. Nevertheless, the film scholar Mariano Prunes had argued that &lt;i&gt;Three Songs About Lenin&lt;/i&gt;, while often overlooked in discussions of Vertov's work, remains a "comprehensive example of his creative and ideological principles", as well as being a central film in the understanding of the role of montage in Soviet avant-garde cinema. MacKay adds the footnote that Vertov "was awarded the Order of the Red Star in 1935, and had the opportunity to re-release the film in 1938, after adding a section of a speech by Stalin to the conclusion, and removing images of political luminaries who had in the interim become 'enemies of the people' (Trotsky, Zinoviev, Kamenev or Radek)". 
+			</desc>
+      <collection/>
+    </artwork>
+  </artworks>
+  <similar_artworks/>
+  <chart>
+    <top>
+      <column>
+        <entity>mayakovsky_vladimir</entity>
+        <entity alt="Nikolai Aseyev">aseyev_nikolai</entity>
+        <entity alt="Osip Brik">brik_osip</entity>
+        <entity alt="Alexei Gan">gan_alexei</entity>
+      </column>
+      <column>
+        <entity alt="Boris Kaufman">kaufman_boris</entity>
+        <entity alt="Mikhail Kaufman">kaufman_mikhail</entity>
+        <entity alt="Elizaveta Svilova">svilova_elizaveta</entity>
+        <entity alt="Lev Kuleshov">kuleshov_lev</entity>
+      </column>
+      <column>
+        <entity alt="The Left Front of the Arts (LEF)">the_left_front_of_the_arts</entity>
+        <entity>constructivism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Edgar Morin">morin_edgar</entity>
+        <entity alt="Jean Rouch">rouch_jean</entity>
+        <entity alt="Jean-Luc Godard">godard_jean_luc</entity>
+        <entity alt="Jean-Pierre Gorin">gorin_jean_pierre</entity>
+        <entity alt="John Cassavetes">cassavetes_john</entity>
+      </column>
+      <column/>
+      <column>
+        <entity alt="Cinéma Verité">cinema_verite</entity>
+        <entity alt="Groupe Dziga Vertov">groupe_dziga_vertov</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"/>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Kino-Eye: The Writings of Dziga Vertov</title>
+          <link>0520056302</link>
+          <info>Edited by Annette Michelson. Translated by Kevin O'Brien</info>
+        </entry>
+        <entry recommended="true">
+          <title>Dziga Vertov: Life and Work (Volumes 1 - 3)</title>
+          <link>164469011X</link>
+          <info>By John MacKay</info>
+        </entry>
+        <entry>
+          <title>Dziga Vertov: Defining Documentary Film</title>
+          <link>B07PBR12CN</link>
+          <info>By Jeremy Hicks</info>
+        </entry>
+        <entry>
+          <title>Lines of Resistance: Dziga Vertov and the Twenties</title>
+          <link>8886155158</link>
+          <info>Edited by Yuri Tsivian</info>
+        </entry>
+        <entry>
+          <title>Vertov and the Line: Art, Socialization, Collaboration</title>
+          <link>B008HFHEVS</link>
+          <info>By John MacKay</info>
+        </entry>
+        <entry>
+          <title>Documentary: A History of the Non-Fiction Film</title>
+          <link>0195078985</link>
+          <info>By Erik Barnouw</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"/>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="artworks" class="artwork"/>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"/>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Dziga Vertov</title>
+          <link>https://monoskop.org/Dziga_Vertov</link>
+          <info>
+						By John MacKay et al
+						&lt;br&gt;
+						Monoskop
+					</info>
+        </entry>
+        <entry>
+          <title>Dziga Vertov's "Man with a Movie Camera" and the Phenomenology of Perception</title>
+          <link>https://www.jstor.org/stable/24777403</link>
+          <info>
+						By Sergio Delgado
+						&lt;br&gt;
+						Film Criticism, Vol. 34, No. 1 
+						&lt;br&gt;
+						2009
+					</info>
+        </entry>
+        <entry>
+          <title>Across One Sixth of the World: Dziga Vertov, Travel Cinema, and Soviet Patriotism</title>
+          <link>https://www.jstor.org/stable/40368479</link>
+          <info>
+						By Oksana Sarkisova
+						&lt;br&gt;
+						October, Vol. 121 
+						&lt;br&gt;
+						Summer 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Dziga Vertov's "Three Songs about Lenin" (1934): A Visual Tour through the History of the Soviet Avant-Garde in the Interwar Years</title>
+          <link>https://www.jstor.org/stable/23126346</link>
+          <info>
+						By Mariano Prunes
+						&lt;br&gt;
+						Criticism, Vol. 45, No. 2 
+						&lt;br&gt;
+						Spring 2003
+					</info>
+        </entry>
+        <entry>
+          <title>Dziga Vertov as Theorist</title>
+          <link>https://www.jstor.org/stable/1225210</link>
+          <info>
+						By Vlada Petric
+						&lt;br&gt;
+						Cinema Journal, Vol. 18, No. 1 
+						&lt;br&gt;
+						1978
+					</info>
+        </entry>
+        <entry>
+          <title>"The Man with the Movie Camera": From Magician to Epistemologist</title>
+          <link>https://www.artforum.com/print/197203/the-man-with-the-movie-camera-from-magician-to-epistemologist-37506</link>
+          <info>
+						By Annette Michelson
+						&lt;br&gt;
+						ArtForum, Vol. 10, No. 7 
+						&lt;br&gt;
+						March 1972
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Kino-Pravda, 1922</title>
+          <link>https://en.wikipedia.org/wiki/File:1925._Kino-Pravda_23.webm</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>A Sixth Part of the World, 1926</title>
+          <link>https://en.wikipedia.org/wiki/File:A_Sixth_Part_of_the_World_(1926).webm</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Man with a Movie Camera, 1929</title>
+          <link>https://www.youtube.com/watch?v=mpJpEO8OE-s</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Enthusiasm: The Symphony of the Donbas, 1931</title>
+          <link>https://www.youtube.com/watch?v=vUInm2dC6Ug</link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Three Songs about Lenin, 1934</title>
+          <link>https://en.wikipedia.org/wiki/File:Three_Songs_about_Lenin_(1934).webm</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

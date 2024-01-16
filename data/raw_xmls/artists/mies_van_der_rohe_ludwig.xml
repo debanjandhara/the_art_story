@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>mies_van_der_rohe_ludwig</id>
+    <name>Ludwig Mies van der Rohe</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1901 - 1969</years>
+    <description>Ludwig Mies van der Rohe was a patriarch of modern architecture and one of the founders of the International Style in Germany.</description>
+    <art_description>Important architecture by Ludwig Mies van der Rohe with analysis, influences, innovations, achievement, and overall contribution to the Bauhaus and the arts.</art_description>
+    <use_big_images>true</use_big_images>
+    <nationality>German-American</nationality>
+    <occupation>Architect and Designer</occupation>
+    <birthDate>March 27, 1886</birthDate>
+    <birthPlace>Aachen, Kingdom of Prussia, German Empire</birthPlace>
+    <deathDate>August 17, 1969</deathDate>
+    <deathPlace>Chicago, Illinois, USA</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <cname>Mies van der Rohe</cname>
+    <art_type>Architecture</art_type>
+    <pub_time>9/15/2017</pub_time>
+    <img_version>?3</img_version>
+    <big_bio_box_img>true</big_bio_box_img>
+  </main>
+  <includes>
+    <include>international_style</include>
+    <include>modern_architecture</include>
+    <include>bauhaus</include>
+    <include>art_nouveau</include>
+  </includes>
+  <similar_movements>
+    <movement>international_style</movement>
+    <movement>bauhaus</movement>
+    <movement>art_nouveau</movement>
+    <movement>modern_architects</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>gropius_walter</artist>
+    <artist>le_corbusier</artist>
+    <artist>wright_frank_lloyd</artist>
+    <artist>breuer_marcel</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Less is more."</q>
+    <q>"Architecture is the will of an epoch translated into space."</q>
+    <q>"A chair is a very difficult object. A skyscraper is almost easier. That is why Chippendale is famous."</q>
+    <q>"God is in the details."</q>
+    <q>"I don't want to be interesting. I want to be good."</q>
+    <q>"Architecture starts when you carefully put two bricks together. There it begins."</q>
+    <q>"Architecture is a language. When you are very good, you can be a poet."</q>
+    <q>"Architecture is the real battleground of the spirit."</q>
+    <q>"Never talk to a client about architecture. Talk to him about his children. That is simply good politics. He will not understand what you have to say about architecture most of the time."</q>
+    <q>"An architect of ability should be able to tell a client what he wants. Most of the time a client never knows what he wants."</q>
+    <q>"No design is possible until the materials with which you design are completely understood."</q>
+    <q>"Architecture has the power to create order out of unholy confusion."</q>
+  </quotes>
+  <authors>
+    <author link="clericuzio">Peter Clericuzio</author>
+  </authors>
+  <article>
+    <synopsys>On November 20, 1938, the Armour Institute of Technology held a gala at the Palmer House hotel in Chicago to celebrate its new head of the architecture program. Introducing him was &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wright_frank_lloyd"&gt;Frank Lloyd Wright&lt;/span&gt;, who admired virtually no other architect alive. But this occasion was different. Of the guest of honor, Wright intoned, "I admire him as an architect, respect and love him as a man. Armour Institute, I give you my Mies van der Rohe. You treat him well and love him as I do. He will reward you." Wright then promptly left the stage. The rarity of publicly receiving Wright's unqualified accolades underscores the brilliance of Ludwig Mies van der Rohe and his vaunted place within modern architecture as one of the founders of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt; in Germany. Mies did not disappoint his new employers, either: over the next thirty years, he helped establish the International Style as the definitive architectural language of North American postwar modernism and influenced hundreds of emulators worldwide. His steel-and-glass aesthetic became the archetype of the term "modern architecture" for decades even after his death. Mies' buildings became the prime targets for postmodernists who later attacked the International Style.</synopsys>
+    <key_ideas>
+      <idea>Along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, Mies helped pioneer the crystallization of the International Style as the core movement of modern architecture during the early 1920s. Unlike Le Corbusier and other early champions of the International Style who moved away from it, in part due to critiques of modern architecture in the 1960s, he remained completely devoted to the movement over the last four decades of his career.</idea>
+      <idea>Mies first called his designs for steel-and-glass skyscrapers and horizontally-oriented houses and pavilions "skin-and-bones" architecture due to their minimal uses of industrial materials, definition of space, along with the rigidity of structure, and their transparency. His architecture promotes the dissolution between interior and exterior and the negation of feeling completely enclosed. Instead, they encourage maximum flexibility in their spatial configurations, which for Mies meant that they maximized their spatial utility.</idea>
+      <idea>Mies' buildings often emphasize their own singularity relative to their surroundings, putting themselves - and through their transparency, their inhabitants - on view. This makes many of them, such as the Barcelona Pavilion, ideal for public functions, but it also makes some of them, such as the Farnsworth House, notoriously difficult to inhabit when privacy is needed.</idea>
+      <idea>Having grown up around his father's stonecutting shop, Mies was very sensitive to the choices of materials in his designs, including fine stone, chrome, bronze, and even brick. Many of his buildings, especially the Tugendhat House and Seagram Building, were extremely expensive structures to build and are noted equally for their fine craftsmanship along with their industrial methods of construction.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Early Life and Training">
+          <p type="p">Maria Ludwig Michael Mies was born in the city of Aachen in western Germany, in the spring of 1886. Aachen, known in French as Aix-la-Chapelle, had been the capital of Charlemagne's Frankish Empire in the eighth and ninth centuries AD. By the time of Mies' birth almost 1100 years later, however, it had become one of the numerous centers of heavy industry in the Ruhr region of the Kingdom of Prussia, the dominant state in the Wilhelmine Empire before World War I.</p>
+          <p type="p">Mies' father was a stonecutter, but while Mies accompanied his father to building sites, he never received any formal architectural training. Mies developed his skill for drawing beginning at age 15, when he was apprenticed to several local Aachen architects to produce renderings for architectural ornaments.</p>
+          <p type="img" alt="Mies standing in a doorway of the Riehl House in Potsdam, Germany, his first completed commission, about 1907" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_1.jpg</p>
+          <p type="p">In 1905 Mies moved to Berlin, where he obtained an apprenticeship with Bruno Paul, who was known both for his work in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; and for his furniture design. Within two years he received his first independent commission, the Riehl House in Potsdam, just outside Berlin, which so impressed the architect Peter Behrens, then the best-known and most progressive architect in Germany, that he offered Mies a job in his office. It was there that Mies met both Walter Gropius and Le Corbusier, who also would join Behrens' office staff during Mies' tenure.</p>
+          <p type="p">Mies was frustrated, however, working under Behrens. He would later claim credit for the courtyard elevations of Behrens' great Turbine Factory for AEG, built between 1907-10 in Berlin, saying that Behrens "didn't realize what he was doing." Mies often expressed great admiration for Dutch architect Hendrik Petrus Berlage and his Amsterdam Exchange, finished in 1903, a building Behrens once remarked to be &lt;i&gt;passé&lt;/i&gt;. Mies apparently responded "Well, if you aren't badly mistaken," which made Behrens furious, barely restraining himself from striking Mies.</p>
+        </subsection>
+        <subsection title="The War Years">
+          <p type="p">Mies' physical maturation had given him an imposing frame, but his personality was reticent, laconic, and deliberative. In 1913 he married Adele Auguste (Ada) Bruhn, the daughter of a wealthy industrialist. Much like Le Corbusier would later do in 1920, in order to mark his professional transformation from craftsman to architect, Mies changed his name by adding his mother's surname "Rohe," with the Dutch connection "van der," since in Germany at the time (still an Empire) the use of "von der" was legally restricted to those who could prove noble heritage. It also offset his father's familial name, as "mies" translates to "rotten" or "lousy."</p>
+          <p type="img" alt="Mies' first daughter, Georgia van der Rohe, who became an actress and dancer" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_2.jpg</p>
+          <p type="p">By most accounts his marriage to Ada was not a happy one, though it did produce three daughters. Dorothea, (1914-2008), known as Georgia (van der Rohe), made a name for herself as a dancer and later actress, primarily in New York. Marianne (1915-2003), and Waltraub (1917-1959), who later became a curator and researcher at the Art Institute of Chicago. Mies was conscripted for World War I in 1915, posted initially to Frankfurt-am-Main, then to Berlin, and finally in 1917 to Romania, where he spent the rest of the war and fathered a child out of wedlock.</p>
+        </subsection>
+        <subsection title="Postwar Return to Architecture">
+          <p type="p">Mies returned from war service in November 1918. Though his family, through Ada's father, remained well-off, even during the period of hyperinflation in Germany, Mies grew restless. Though he resumed his practice, he was experiencing a professional crisis about the direction of his architecture, and in February 1920 he and Ada separated. She assumed custody of their daughters, whom Mies only saw on occasion until after he moved to the USA. He kept their apartment in Berlin while Ada and the girls moved to the western suburb of Bornstedt.</p>
+          <p type="p">Through most of the first half of the 1920s Mies lived the life of an artist-bachelor, moving in the great melting pot of architectural and design ideas that Berlin had become, becoming acquainted with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_doesburg_theo"&gt;Theo van Doesburg&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-graeff_werner"&gt;Werner Graeff&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lissitzky_el"&gt;El Lissitzky&lt;/span&gt;, and staying abreast of the developments of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;de Stijl&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;. He kept his practice afloat through commissions for private residences for wealthy clients, which remained aesthetically very traditional. At the same time, his theoretical ideas about architecture began to move in new directions.</p>
+          <p type="p">By 1924 Mies had become involved with Lily Reich, a furniture designer who also became his office manager until he moved to the United States (and even then she still maintained his personal and professional records until her death in 1947). Nonetheless, Mies maintained a separate residence from her, as he did from all the women he was involved with after the breakup of his marriage.</p>
+          <p type="img" alt="Mies and Le Corbusier talking in Stüttgart during preparations for the Weissenhofsiedlung housing exhibition (1927)" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_3.jpg</p>
+          <p type="p">Reich was responsible for organizing and installing an exhibition of interior furnishings in Stüttgart in 1927 that coincided with Mies' organization of the Weissenhofsiedlung prototypical housing exposition. For the exposition, Mies unveiled his MR tubular steel chair, inspired by earlier examples by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breuer_marcel"&gt;Marcel Breuer&lt;/span&gt; and Mart Stam. Together, Reich and Mies designed the famed Barcelona chair, quite possibly the most famous furniture design of the century, which premiered inside Mies' eponymous German Pavilion at the world's fair in 1929.</p>
+        </subsection>
+        <subsection title="A Stalling Career under Nazi Germany">
+          <p type="img" alt="Mies enjoying a puff on his ubiquitous cigar" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_4.jpg</p>
+          <p type="p">Mies had been rewarded handsomely for his German Pavilion at the 1929 world's fair and received a considerable salary when he took over as director of the Bauhaus in 1930 from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-meyer_hannes"&gt;Hannes Meyer&lt;/span&gt;, who had resigned under controversy after he had been accused of Socialist political activism by the anti-leftist municipal government of Dessau, where the school was then located. Mies set out to depoliticize the environment, jettisoning the school's associations with manufacturing in order to focus solely on teaching art, architecture, and design. Upon his appointment, Mies personally interviewed each student, dismissing those he deemed uncommitted or too political. He did not change the makeup of the faculty, with the exception of adding Lily Reich to it. He began to dress the part of his newfound authority, invariably wearing suits set off by fashionable bowlers and homburg hats. Briefly he even wore a monocle. He gained weight and became a nearly-ceaseless cigar smoker, a habit which would many, many years later kill him.</p>
+          <p type="p">Mies' naturally reserved personality, meanwhile, deepened as an educator into a kind of "magisterial aloofness," playing the part of the strong, silent type. Indeed, one friend observed that Mies habitually let others dominate a conversation until he gauged that they had spilled everything they wanted to say, then would often sneak in and make a summary pronouncement or inject something that nobody had considered yet, which gave his words a certain &lt;i&gt;gravitas&lt;/i&gt;.</p>
+          <p type="img" alt="Mies as director of the Bauhaus in Dessau (1931)" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_5.jpg</p>
+          <p type="p">Mies took over the Bauhaus, but with the rise of Nazis and the continued hostility in Dessau, it became clear that even after the move to Berlin in 1932, the school was doomed. Mies invested his own money in an abandoned telephone factory on the outskirts of Berlin as the school's new home, but that was seized by the Nazis. After protracted wrangling with Hitler's underlings to allow the school to reopen, Mies received a green light, after which he and his fellow faculty closed the school on their own accord, realizing that it would not survive in the new German political order.</p>
+        </subsection>
+        <subsection title="Move to the USA">
+          <p type="p">Despite Mies' professed apolitical stance, it was clear that his professional situation in Nazi Germany had become untenable by 1937. After negotiations with several institutions, Mies finally accepted an invitation to head the architecture program at the Armour Institute of Technology (renamed the Illinois Institute of Technology a short time later). In August 1938, after some harassment by Nazi officials over his passport, Mies immigrated permanently to the USA in time for the start of the new school year.</p>
+          <p type="p">On one trip to Chicago during these negotiations, Mies managed to get in touch with Frank Lloyd Wright, who uncharacteristically invited him to Taliesin, where the two bonded despite the fact that Mies spoke no English and Wright no German. Mies was highly impressed with Taliesin, strolling out onto the terrace overlooking the Wisconsin countryside and exclaiming, "Freedom! This is a kingdom!" At the end of a four-day visit, Wright even drove Mies back to Chicago, stopping at Racine to show him the Johnson Wax Building under construction. Once they reached Chicago, Wright also gave Mies a tour of Oak Park and the Robie House. Wright, of course, would famously introduce Mies to the architectural community in Chicago once Mies had finally settled into his new home.</p>
+          <p type="img" alt="Mies and Lora Marx in Chicago (1941)" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_6.jpg</p>
+          <p type="p">Mies settled in Chicago, picking up a command of English as he went. On New Year's Eve 1940, he met Lora Marx, a sculptress recently divorced from the architect Samuel Marx. It was, according to everyone present, love at first sight, a relationship that would last, with a year's interruption between 1947-48, until Mies' death, though they would never marry, and actually never lived together. Mies would later call the years between 1941 and the temporary break in their relationship the best years of his life.</p>
+          <p type="p">Lora helped Mies find permanent residence at 200 East Pearson Street in downtown Chicago, an apartment in a neo-Renaissance building designed in 1916-17 - hardly the modern structures he was designing himself. Mies usually had the place to himself, except for when his daughters began to visit, starting in the late 1940s. He also in the 1940s began to develop a relationship with Dirk Lohan, his grandson through Marianne. Lohan would actually train under Mies and become relatively close to his grandfather personally and professionally, to the point where he would often be called on when one of Mies' buildings needed restoration or an addition was planned.</p>
+          <p type="img" alt="Mies (at center) teaching students at IIT" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_7.jpg</p>
+          <p type="p">Mies socialized widely in Chicago, both with students and friends, most of whom remember him to be quite approachable, despite his reserved nature, even going so far as to be considered a kind of father figure to many of the young men he mentored at IIT. For Mies, the dual responsibilities of teaching and professional practice did not seem difficult to balance, though as time wore on, he became less concerned with teaching.</p>
+          <p type="p">Mies also loved to drink socially, particularly martinis, and he could hold his liquor. Lora could not, eventually admitting that she was an alcoholic in 1947, entering Alcoholics Anonymous and breaking off her relationship with Mies (for that one year apart). It is doubtful that Mies shared her alcoholism; his students, staff, and even his driver - Mies did not even own a car until the 1950s and even then only Lora drove it - virtually never saw him drunk.</p>
+          <p type="p">It was also in 1947 that Mies enjoyed the honor of a one-man show at MoMA, attended by none other than Frank Lloyd Wright. The resulting publicity and success of the show added to Mies' global renown, and that same year he met Herbert Greenwald, a Chicago real-estate developer who became one of Mies' most loyal clients (until February 1959, when Greenwald died in a plane crash). Greenwald would commission Mies to design the Promontory Apartments and Lake Shore Drive Apartments, and the Esplanade Apartments in Chicago, and the large project for Lafayette Park in Detroit.</p>
+          <p type="img" alt="Mies and Herbert Greenwald in Chicago examining a model of Lafayette Park for Detroit (1956)" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_8.jpg</p>
+          <p type="p">Lafayette Park was a large redevelopment of a supposedly blighted low-income area north of downtown that fell under the umbrella category of American urban renewal of the postwar era. Unlike most urban renewal projects, however, Mies' vision - a mixed-scale and mixed-use project of high rises, town houses, schools, community centers, and commercial development completed in concert with his fellow IIT faculty member and friend, Ludwig Hilberseimer - proved relatively successful. Lafayette Park became so central to Mies' office's operations in the late 1950s that when Greenwald died, Mies was forced to lay off half his staff even though the project was substantially incomplete.</p>
+        </subsection>
+        <subsection title="Later Life and Death">
+          <p type="p">After 1960, Mies' health became progressively worse. He took much less part in the day-to-day operations of his office, though the firm still thrived, completing projects such as Toronto-Dominion Centre and the Berlin Neuenationalgalerie; the latter was opened in September 1968. Mies was too infirm to attend the dedication, but several months before he had been present when the massive coffered roof was installed, a nine-hour affair that he watched with intense interest.</p>
+          <p type="p">Mies spent a great deal of time at home, immobilized by arthritis, though he welcomed guests on a regular basis, including Gene Summers and Dirk Lohan from his office, Phyllis Lambert (who lived in Mies' Lake Shore Drive Apartments), his daughter Marianne, and Lora Marx. He and Lora traveled some; a favorite destination was Tucson, Arizona, which undoubtedly offered relief from the frigid Chicago winters.</p>
+          <p type="p">Mies developed wall-eye, or divergent strabismus, which left him unable to concentrate for long on words on the printed page, so Lora dutifully took up the task of reading to him. Mies' first symptoms of esophageal cancer, caused by years of smoking, appeared in 1966. His fragile health precluded any possibility of surgery, but he was treated with radiation. In early August 1969, Mies caught a cold that soon developed into pneumonia. He died after lingering in and out of consciousness for two weeks. Mies was the last of the triumvirate of the International Style to die, following Le Corbusier in 1965 and Gropius just six weeks before him. He is buried in Graceland Cemetery in Chicago, within sight of the graves of Daniel Burnham and Louis Sullivan.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">By the time that Mies' health entered its definitive decline, the reaction against the International Style was in full swing. Robert Venturi's seminal attack on the rigidity of Miesian design, &lt;i&gt;Complexity and Contradiction in Architecture&lt;/i&gt;, appeared in 1966, leaving no doubt of the target of its criticism. Venturi declared, "I like elements which are hybrid rather than 'pure', compromising rather than 'clean'.... I am for messy vitality over obvious unity." And finally, he turned around Mies' most famous aphorism, suggesting that "Less is a bore." But this was hardly the first shot taken at the canon of modernist architecture - Louis Kahn, Paul Rudolph, and even Le Corbusier had already in the 1950s begun to reexamine the steel-and-glass idiom that Mies had made famous.</p>
+          <p type="p">The sharpness with which architects and critics of the 1960s responded to the International Style's hegemony over design speaks, moreover, to the incomparable command that it - and particularly Mies - had held over the spirit of modernism in architecture in the postwar era. Advances in communication and travel had made the International Style a truly global phenomenon, adopted on every inhabited continent by thousands of architects.</p>
+          <p type="img" alt="Retrospective of Mies' work at the Art Institute of Chicago (1968)" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_9.jpg</p>
+          <p type="p">At the same time as Mies' architecture began to be critiqued negatively, however, he continued to be critically appraised in various retrospectives and exhibitions, including one at the Art Institute of Chicago in 1968. That same year the Ludwig Mies van der Rohe Archive was established at the Museum for Modern Art in New York, which now holds about 19,000 of Mies' drawings and prints, some 1,000 of which are by Lily Reich; much of the collection can now be viewed online.</p>
+          <p type="p">The interest in Mies has continued unabated up until the present day, with two large exhibitions concentrating on the two halves of Mies' career: &lt;i&gt;Mies in Berlin&lt;/i&gt; and &lt;i&gt;Mies in America&lt;/i&gt;, opening in 2001. Both premiered with lavish exhibition catalogues that included essays by leading scholars. Collections of his drawings, correspondence, and books are held at the Art Institute of Chicago, the University of Illinois at Chicago, the Newberry Library in Chicago, the Canadian Centre for Architecture in Montreal, and the Library of Congress in Washington, DC.</p>
+          <p type="img" alt="20-cent US postage stamp showing Mies' Crown Hall at IIT, issued in 1982" show="0">/images20/photo/photo_mies_van_der_rohe_ludwig_10.jpg</p>
+          <p type="p">Mies has been honored numerous times, both during his lifetime and posthumously. He received the RIBA's Royal Gold Medal for architecture in 1959, the AIA Gold Medal in 1960, and the Presidential Medal of Freedom in 1963. In 1982, his Crown Hall at IIT appeared on a 20-cent postage stamp issued by the US Postal Service, and upon the centenary of his birth in 1986, the West German government issued postage depicting his Neuenationalgalerie in West Berlin. The Mies van der Rohe Society, based at IIT, works to preserve Mies' buildings on the campus and promote engagement with his work, primarily in Chicago.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="bauhaus">Bauhaus building in Dessau, Germany (1919-1925)</artwork>
+    <artwork from="artist" page="le_corbusier">Villa Savoye (1929-31)</artwork>
+    <artwork from="artist" page="wright_frank_lloyd">Fallingwater (1934-37)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Alois Riehl House, Potsdam-Neubabelsberg, Germany</title>
+      <year>1907</year>
+      <materials />
+      <desc>
+				This was Mies' first completed commission, an impressive feat considering he was employed to design it at age 21 and had not even established his own practice (he was still working as an apprentice to Bruno Paul). Moreover, Mies' client was Alois Riehl, one of the most significant figures at the time in German philosophy circles and a university professor. 
+				&lt;br/&gt;&lt;br/&gt;
+				Mies' result is not particularly innovative, and nearly all of the houses he would build until the end of the 1920s would employ similar, traditional formal strategies. It does, however, demonstrate the extent to which he had digested the currents of contemporary German architectural practice, notably the kind of bourgeois simplicity derived in part from the English Arts &amp; Crafts movement and encouraged by such leading designers in Berlin such as Herrmann Muthesius, former attaché to the German Embassy in London. The simple, centralized main façade with steep roof and large interior &lt;i&gt;Halle&lt;/i&gt; space (the main living room space) all point to these conventions. The garden façade, meanwhile, drops down one level below to accommodate the sloping hillside that runs away from it, with a large retaining wall that spans its width. 
+				&lt;br/&gt;&lt;br/&gt;
+				Mies' method of accommodating the house to its natural environment, particularly the garden, was a skill that he continued to employ throughout his career. It demonstrates his engagement with Wohnreform, a German movement at the turn of the century that sought a renewal of German culture through the relocation of living to a natural, healthful environment away from the center of cities. Wohnreform encouraged design of the house as an integral piece of a larger natural/constructed environment. Mies' work caught the eye of Peter Behrens, the nation's most capable architect and the official designer for AEG, the German General Electric company, who quickly offered Mies a job in his firm after seeing the house, thus effectively launching Mies' career.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Project for a Glass Skyscraper</title>
+      <year>1922</year>
+      <materials />
+      <desc>
+				This was one of Mies' experimental pieces of paper architecture - unbuilt designs on paper - with the distinctly modern building type, the skyscraper, and the possibilities of industrial materials in the early 1920s, what he would soon dub "skin-and-bones architecture." This was complemented in the next few years with his horizontally-oriented projects for brick and concrete country houses, imagined as collections shifting planes for walls and roofs that barely delineated the enclosure of spaces.
+				&lt;br/&gt;&lt;br/&gt;
+				Here, the undulating façade, including two elevator shafts, sheaths the building entirely in transparent glass, revealing the full structure of steel. It uses, as a result, the minimal amount of material necessary to enclose its volumes, and the choice of glass for its skin makes the building almost disappear. The skyscraper's prismatic volumes contrast starkly with the traditional multistory apartment buildings surrounding it. 
+				&lt;br/&gt;&lt;br/&gt;
+				Mies' Glass Skyscraper reveals the imaginative ideas of avant-garde German architects for the possibilities of industrial construction during the early years of the Weimar Republic. At that time, however, their projects could not be realized since hyperinflation severely restricted all large-scale construction. The honesty of construction of the skyscraper, which ranks among the first examples of the International Style, belies the ambiguity of its purpose, however. Like many of Mies' later buildings, its open floor plan allows for maximum flexibility in its use, such that is unclear whether it is supposed to contain offices, or apartments, or retail stores, or something else. The forms that Mies originally dreamed up here would find their ultimate realization only after he moved to America, in works such as the Lake Shore Drive Apartments in Chicago and the Seagram Building in New York.
+			</desc>
+      <collection />
+      <use_big_image>false</use_big_image>
+    </artwork>
+    <artwork>
+      <title>German Pavilion, Exposicio Internacional, Barcelona, Spain</title>
+      <year>1929</year>
+      <materials />
+      <desc>
+				Mies and Lilly Reich together designed the German Pavilion for the 1929 World's Fair in Barcelona - a structure which now ranks among the most significant temporary structures ever built, particularly for an international exposition. Demolished after the fair, it was reconstructed from 1981-86 using the original plans, now in the collection of the Museum of Modern Art in New York. It constitutes Mies' and Reich's most succinct statement in the reduction of a building to the minimal requirements to define space: a handful of columns elevated on a platform juxtaposed with asymmetrically-arranged opaque and transparent wall planes, supporting a flat roof. It functioned during the fair as simply a reception space for dignitaries, as the Weimar government had other space for actual exhibits. 
+				&lt;br/&gt;&lt;br/&gt;
+				Though there is an extreme emphasis on horizontality, the platform of travertine (a common stone used in ancient classical monuments) elevates it much like a Greek temple, with a structural clarity to match. Also common to both Mies' architecture here and the monuments of classical antiquity is the fineness of materials: the cruciform-plan steel columns are chrome-plated, and the interior is ornamented solely with a red curtain, while the colored onyx walls are cut to expose the diamond pattern - all of which recalls an attention to refinement and craftsmanship that is balanced with the building's clear machine-made qualities. It therefore exemplifies the visual form of Mies' famous dictum, "Less is more." 
+				&lt;br/&gt;&lt;br/&gt;
+				The construction of the Pavilion marked the apex of Mies' European career (and for some, the pinnacle of his entire &lt;i&gt;oeuvre&lt;/i&gt;). It was, for sure, the most progressive building constructed at the exposition, contrasting sharply with the rather old-fashioned neo-Baroque structures that dominated the grounds. Mies himself was involved in the selection of the site, at one end of a long grassy promenade that provided a superb view of this long building.
+				&lt;br/&gt;&lt;br/&gt;
+				Despite these qualities, the temporary nature of the structure was underscored by the fact that it was dismantled at the close of the fair and shipped back to Germany in order to be reused in other building projects.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Barcelona Chair</title>
+      <year>1929</year>
+      <materials>Welded steel, leather</materials>
+      <desc>
+				Appropriately named for its premiere in the German Pavilion at the 1929 World's Fair, this chair is largely considered the most famous furniture design of the 20&lt;sup&gt;th&lt;/sup&gt; century. The writer Tom Wolfe later highlighted its preeminence by noting how it had achieved "holy grail", cult-like status amongst aesthetes as a piece of furniture that someone might trade all of his belongings in order to afford. 
+				&lt;br/&gt;&lt;br/&gt;
+				The chair consists of two sets - joined by three horizontal bars - of the intersection between two curved pieces of steel: one arc of a circle crossed by a graceful S-curve. The joint between them was originally bolted, but in 1950 it was redesigned to be welded. Although upholstered with two large, wide leather cushions, the chair is not very comfortable, unlike some of Mies' other designs, most notably the MR chair.
+				&lt;br/&gt;&lt;br/&gt;
+				Mies and Reich saved the chairs first produced for the Pavilion and reused them for later projects, most notably the Tugendhat House, which was the first structure in which the chairs were used after the fair. Like Mies' other furniture designs, the Barcelona Chair represents the extraordinary fruit of collaboration between him and Reich, which ended with Mies' immigration to America in 1938. Also like his other furniture, knockoffs immediately appeared after its premiere, which tied up Mies in patent litigation for much of the decade.
+				&lt;br/&gt;&lt;br/&gt;
+				Despite the chair's status as a touchstone of modernism, its design contains multiple ironic twists. Though constructed from industrial materials, its manufacture actually involves a large amount of handcraft, according to Knoll, its current official producer. Furthermore, the chair's form is thought to have been extrapolated from those of Roman folding chairs, most likely the "Curule" type used by aristocracy. And while its presence within furniture ensembles helps to underscore the sleek minimalist aspect of a space, its association with elite status means that it is sometimes spotted within rather traditionally-designed interiors as well.
+			</desc>
+      <collection>Produced by Knoll</collection>
+    </artwork>
+    <artwork>
+      <title>Tugendhat House, Brno, Czech Republic</title>
+      <year>1928-30</year>
+      <materials />
+      <desc>
+				Mies' first truly modern house (all his previous realized dwellings had been traditional masonry structures), the Tugendhat House is a superb example of how he used the possibilities of modern construction to blend a building with its landscape. The Tugendhats, a wealthy German Jewish couple who owned several factories in Czechoslovakia, owned this plot of land in a very fashionable suburban part of Brno, located on a hillside with a spectacular vista towards the central part of town below. 
+				&lt;br/&gt;&lt;br/&gt;
+				Mies' structure, which is sited on the brow of the hill, is unusually large - much larger than the Tugendhats intended originally - and uses a very open interior plan, so much so that there are few interior walls to hang items (it thus prevents clutter, a quality Grete Tugendhat valued highly). Its reinforced-concrete construction, supported on the interior with only a few chromed columns, allows for the entire back façade to be a floor-to-ceiling curtain wall that looks out over the landscape. It could be fully opened up to literally dissolve the boundary between inside and outside, a strategy that is underscored by the partially-translucent onyx wall on the interior. Other modern highlights included advanced air-conditioning and heating systems, the former a real rarity at the time, and especially in Europe, and a glass wall on the interior of the house that could retract into the basement like a car window. 
+				&lt;br/&gt;&lt;br/&gt;
+				Included as one of Mies' most important works in the landmark MoMA &lt;i&gt;International Style&lt;/i&gt; exhibition staged by Henry-Russell Hitchcock and Philip Johnson in 1932, the Tugendhat House later has the distinction of being one of the large-scale seizures of Jewish material assets by the Nazis. The Tugendhats only lived in the house for nine years before fleeing to Switzerland in 1938, the year before Hitler dismembered Czechoslovakia and World War II began. During the war it was used as offices and then later as stables for the Soviet Army. Having languished in disrepair, it has undergone extensive restoration recently, and, after all these years, welcomes visitors today that can appreciate Mies' work and legacy.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>S.R. Crown Hall, Illinois Institute of Technology, Chicago</title>
+      <year>1950-56</year>
+      <materials />
+      <desc>
+				Crown Hall, considered by many to be Mies' most important building, is the centerpiece of his larger campus plan for IIT, which he began developing as soon as he arrived on invitation from the school in 1938. Ultimately some 20 buildings were constructed to his designs between the 1940s and the mid-1970s, though three of the original buildings of the Armour Institute, built between 1891 and 1901, were left intact on the west edge of campus. After Mies was removed as campus architect in 1958, a number of commissions for new structures, including the main library, were given to other firms, including Skidmore, Owings &amp; Merrill. 
+				&lt;br/&gt;&lt;br/&gt;
+				Crown Hall is integrated perfectly into the overall campus scheme not only by the uniformity of style, but by abiding by the exact same modular grid that Mies used for the grounds. Approached by a low staircase at the center of one of the long façades, the building employs thus a classical exterior symmetry, elevated on the basement plinth, that gives it an understated monumentality and points to the centrality of the architecture school, which it houses, within IIT's curriculum.
+				&lt;br/&gt;&lt;br/&gt;
+				Crown Hall is especially significant for the way that it demonstrates the ability of industrialized construction to open up interior space. The entire structure is essentially "hung" from a super structure of four flat arches of I-beams that traverse the building from front-to-back. This eliminates the need for any interior load-bearing structures, and to reveal this facet of construction, Mies has left the entire main floor above ground as one massive open studio space. (All of the auxiliary spaces - professors' offices, the library, lecture halls - are located below in the semi-submerged basement.) 
+				&lt;br/&gt;&lt;br/&gt;
+				The studio space, surrounded on all four sides by a curtain wall of windows, helps to dissolve the boundary between interior and exterior, thereby framing the natural world beyond and keeping it in students' minds constantly while working. Most practically, it always admitted natural light as much as possible inside - but conversely did not make the building particularly energy-efficient. For Mies, the completely open studio design was the ultimate in utility, as the room can thus be configured and subdivided in whatever scheme that is needed for classes and critiques. However, this flexibility often proves difficult in practice, especially troublesome is reducing sound between spaces with temporary dividers. 
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Farnsworth House, Plano, Illinois</title>
+      <year>1945-51</year>
+      <materials />
+      <desc>
+				Mies' signature postwar residence, the Farnsworth House arguably represents the ultimate in minimalist residential architecture using industrial materials. Yet its design and history are far richer than the finished product initially suggests. The house was designed as a weekend retreat for Edith Farnsworth, a physician who owned nine acres of land along the Fox River 50 miles outside Chicago near Plano. 
+				&lt;br/&gt;&lt;br/&gt;
+				The skin-and-bones construction is nakedly apparent in the house's I-beams and concrete-slab frame, with a simple box enclosed on all four sides by floor-to-ceiling curtain walls of glass. This strategy nearly completely dissolves the distinction between interior and exterior, thus bringing the inhabitants into constant dialogue with nature - both suspended above it and immersed in it. (To further underscore this immersion, in recent years the house has been flooded numerous times due to damming of the Fox River.) The house's white rectilinearity, perched above the ground and reached by a flight of stairs that requires a 90-degree turn to enter, invites comparison to the spiritual approach to the Athenian Akropolis, which is accented here by the use of travertine stone, a favorite of the ancients for such monuments, for the floor and terrace slabs.
+				&lt;br/&gt;&lt;br/&gt;
+				Construction of the house proved more complex than the design reveals, however. While the vertical piers of the house and columnar stilts of the low terrace appear to be simply welded to the horizontal slabs (as Mies wanted), the weight they carry is so heavy that welded joints would be impossible, even with steel. Instead, these junctures are bolted together, then painstakingly ground smooth to appear as if welded, and painted over. Expense overruns, compounded by the rise in material costs due to the Korean War, led to a lawsuit filed by Mies against Farnsworth for unpaid costs, which he famously eventually won, but with significant damage to his public reputation. As a result, he and Farnsworth never spoke again. 
+				&lt;br/&gt;&lt;br/&gt;
+				For her part, Farnsworth never completely felt comfortable in the house, as Mies designed it to afford virtually no privacy; in effect she was almost completely on display to the natural surroundings without fully drawing the curtains, eventually installing a bronze screen on the porch (which also functioned to combat bugs). The cold materials of construction and spartan Mies-designed furnishings did little to dispel the image of a building devoid of warmth and energy-inefficiency. Nonetheless, Farnsworth owned the house and entertained visitors for 21 years until finally selling it to Lord Peter Palumbo, a renowned architecture enthusiast, who eventually sold it to the National Trust for Historic Preservation and Landmarks Illinois, who now operate it jointly as a house museum.
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>The Seagram Building</title>
+      <year>1954-58</year>
+      <materials />
+      <desc>
+				The Seagram Building constitutes Mies' definitive, realized statement on the form of the skyscraper. Though he had been working with the type since the early 1920s, the Seagram was the first office tower commission that he was able to build, and his first in New York, which in the 1950s was becoming the hub of skyscrapers-as-symbol of American corporate modernism. It also represents the close relationship between Mies and Phyllis Lambert, the architecture enthusiast and daughter of Seagram's then-CEO, who would go on to found the Canadian Centre for Architecture in Montreal. (Ironically, Seagram later sold the building and is no longer one of its tenants.) Philip Johnson, then one of Mies' disciples, received the commission to design the Four Seasons Restaurant inside.
+				&lt;br/&gt;&lt;br/&gt;
+				Mies' design is somewhat understated. The Seagram's location on Park Avenue, while fashionable, happened to be almost right across the street from the already-built Lever House, designed by Gordon Bunshaft for Skidmore, Owings &amp; Merrill, which employed the curtain-wall prismatic tower form that Mies had essentially invented. As he had earlier done with the Lake Shore Drive Apartments in Chicago, Mies chose to enclose the fireproof concrete-clad steel frame in a metal casing, and then emphasize each vertical spandrel with an ornamental I-beam rising the entire height of the building and reinforcing the sense of verticality. Significantly, these I-beams and the exterior structure are made of bronze, which gives the structure both a dark tone, almost like a looming monolith. 
+				&lt;br/&gt;&lt;br/&gt;
+				Meanwhile, bronze, of course, is the popular material used for honorific exterior sculpture, and by setting the skyscraper back from the street behind an open plaza, Mies underlines the sense of the skyscraper-as-sculpture, reifying it as a precious, crystalline geometric form. The Seagram ultimately used a massive 1,500 tons of bronze, making it one of the most expensive skyscrapers ever built at the time.
+				&lt;br/&gt;&lt;br/&gt;
+				Finally, Mies' strategy with the plaza represents a new concept of corporate modern identity, wherein the company "gives back" to the general public a useful space within its dedicated building plot that also helps open the street below to more natural light. It was, most practically, Mies' way of satisfying New York's 1916 zoning law that insisted that skyscrapers be set back from the street plane once they reached a certain height in order to allow sunlight to filter down. The continued employment of the open plaza concept with other skyscrapers in New York over the rest of the 1950s prompted a change in the law in 1961, wherein it became the city's officially-encouraged model for skyscraper design.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Bruno Paul">paul_bruno</entity>
+        <entity alt="Peter Behrens">behrens_peter</entity>
+        <entity>berlage_hendrik_petrus</entity>
+      </column>
+      <column>
+        <entity>gropius_walter</entity>
+        <entity>le_corbusier</entity>
+        <entity>wright_frank_lloyd</entity>
+      </column>
+      <column>
+        <entity>art_nouveau</entity>
+        <entity alt="National Romanticism">national_romanticism</entity>
+        <entity alt="Deutscher Werkbund">deutscher_werkbund</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Gordon Bunshaft">bunshaft_gordon</entity>
+        <entity alt="Bruce Graham">graham_bruce</entity>
+        <entity alt="Enrique Gutierrez">gutierrez_enrique</entity>
+        <entity alt="Myron Goldsmith">goldsmith_myron</entity>
+        <entity>johnson_philip</entity>
+      </column>
+      <column>
+        <entity alt="Ludwig Hilberseimer">hilberseimer_ludwig</entity>
+      </column>
+      <column>
+        <entity>international_style</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Mies van der Rohe: A Critical Biography, New and Revised Edition</title>
+          <link>022615145X</link>
+          <info>By Franz Schulze, Edward Windhorst</info>
+        </entry>
+        <entry recommended="true">
+          <title>Mies in America</title>
+          <link>0810967286</link>
+          <info>By Phyllis Lambert</info>
+        </entry>
+        <entry>
+          <title>Mies van der Rohe: Mies In Berlin</title>
+          <link>0870700189</link>
+          <info>By Vittorio Magnago Lampugnani, Barry Bergdoll, Rosemarie Haag Bletter, Mies van der Rohe</info>
+        </entry>
+        <entry>
+          <title>Mies</title>
+          <link>0714839620</link>
+          <info>By Detlef Mertins</info>
+        </entry>
+        <entry>
+          <title>Mies Van Der Rohe At Work</title>
+          <link>0714838969</link>
+          <info>By Peter Carter</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Mies van der Rohe Society</title>
+          <link>http://miessociety.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ludwig Mies van der Rohe’s - MoMA Page</title>
+          <link>https://www.moma.org/artists/7166</link>
+          <info>Includes images from Museum of Modern Art's large archive of Mies' work</info>
+        </entry>
+        <entry>
+          <title>Ludwig Mies van der Rohe’s page on 100 Years of Bauhaus</title>
+          <link>https://www.bauhauskooperation.com/knowledge/the-bauhaus/people/directors/ludwig-mies-van-der-rohe/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Mies van der Rohe Dies at 83; Leader of Modern Architecture</title>
+          <link>http://www.nytimes.com/learning/general/onthisday/bday/0327.html</link>
+          <info>
+						By Alden Whitman
+						&lt;br&gt;
+						August 19, 1969
+					</info>
+        </entry>
+        <entry>
+          <title>Mies and the Nazis</title>
+          <link>https://www.theguardian.com/artanddesign/2002/nov/30/architecture.artsfeatures</link>
+          <info>
+						By Tom Dyckhoff
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						November 29, 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Revisiting the Work of Architect Mies van der Rohe</title>
+          <link>https://www.architecturaldigest.com/story/mies-van-der-rohe-critical-biography-book</link>
+          <info>
+						By Mitchell Owens
+						&lt;br&gt;
+						Architectural Digest 
+						&lt;br&gt;
+						January 31, 2013
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>20 Things You Didn’t Know About Mies van der Rohe</title>
+          <link>http://www.archdaily.com/784297/20-things-you-didnt-know-about-mies-van-der-rohe</link>
+          <info>
+						By Pola Mora
+						&lt;br&gt;
+						Arch Daily 
+						&lt;br&gt;
+						March 27, 2016
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>MIES</title>
+          <link>https://www.youtube.com/watch?v=07b0R4qXU5E</link>
+          <info>Trailer. Directed by Michael Blackwood</info>
+        </entry>
+        <entry>
+          <title>75 Years of Mies van der Rohe and his Chicago School</title>
+          <link>https://www.youtube.com/watch?v=rPYHznP8WP8</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Seagram Building</title>
+          <link>https://www.youtube.com/watch?v=ZyyuflY5k2k</link>
+          <info>By Khan Academy (smarthistory)</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

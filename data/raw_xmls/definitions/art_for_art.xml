@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>art_for_art</id>
+    <name>Art for Art's Sake</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>Definition of Art for Art's Sake idea and uses in the history of visual art.</description>
+    <start>1830</start>
+    <end>1900</end>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <bio_highlight>While some demanded that art only focus on aethetics (and be devoid of morality and the like), others, such as the famous writer George Sand said: "Talent imposes duties. Art for the truth, art for the good, art for the beautiful - that is the religion I seek."</bio_highlight>
+    <pub_time>7/1/2009</pub_time>
+    <repub_time>7/30/2021</repub_time>
+    <img_version>?1</img_version>
+  </main>
+  <similar_movements>
+    <movement>aesthetic_movement</movement>
+    <movement>dada</movement>
+    <movement>formalism</movement>
+    <movement>modern_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>whistler_james_abbott_mcneill</artist>
+    <artist>duchamp_marcel</artist>
+    <artist>greenberg_clement</artist>
+    <artist>wright_frank_lloyd</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>aesthetic_movement</entry>
+    <entry>dada</entry>
+    <entry>formalism</entry>
+    <entry>modern_art</entry>
+  </do_not_miss>
+  <quotes>
+    <q author="James Whistler">"Art should be independent of all clap-trap - should stand alone [...] and appeal to the artistic sense of eye or ear, without confounding this with emotions entirely foreign to it, as devotion, pity, love, patriotism and the like."</q>
+    <q author="Edgar Allen Poe">"there neither exists nor can exist any work more thoroughly dignified, more supremely noble, than... this poem written solely for the poem's sake."</q>
+    <q author="Benjamin Constant">"L'art pour l'art without purpose, for all purpose perverts art."</q>
+    <q author="Benjamin Constant">"Art for art's sake, with no purpose, for any purpose perverts art. But art achieves a purpose which is not its own."</q>
+    <q author="Théophile Gautier">"Nothing is really beautiful unless it is useless; everything useful is ugly, for it expresses a need, and the needs of man are ignoble and disgusting, like his poor weak nature. The most useful place in a house is the lavatory."</q>
+    <q author="Théophile Gautier">"...in general, whenever something becomes useful, it ceases to be beautiful."</q>
+    <q author="George Sand">"Art for art's sake is an empty phrase. Art for the sake of truth, art for the sake of the good and the beautiful, that is the faith I am searching for."</q>
+    <q author="Oscar Wilde">"All art is quite useless."</q>
+    <q author="Wassily Kandinsky">"The vulgar herd stroll through the rooms and pronounce the pictures 'nice' or 'splendid.' Those who could speak have said nothing, those who could hear have heard nothing. This condition of art is called "art for art's sake." This neglect of inner meanings, which is the life of colours, this vain squandering of artistic power is called "art for art's sake."</q>
+    <q author="Pablo Picasso">"This idea of art for art's sake is a hoax."</q>
+    <q author="Peter Bürger">"...the autonomy of art is a category of bourgeois society. It permits the description of art's detachment from the context of practical life as a historical development - that among the members of those classes which, at least at times, are free from the pleasures of the need of survival, a sensuousness could evolve that was not part of any needs-ends relationships."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Taken from the French, the term "l'art pour l'art," (Art for Art's Sake) expresses the idea that art has an inherent value independent of its subject-matter, or of any social, political, or ethical significance. By contrast, art should be judged purely on its own terms: according to whether or not it is beautiful, capable of inducing ecstasy or revery in the viewer through its formal qualities (its use of line, color, pattern, and so on). The concept became a rallying cry across nineteenth-century Britain and France, partly as a reaction against the stifling moralism of much academic art and wider society, with the writer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wilde_oscar"&gt;Oscar Wilde&lt;/span&gt; perhaps its most famous champion. Although the phrase has been little used since the early twentieth century, its legacy lived on in many twentieth-century ideas concerning the autonomy of art, notably in various strains of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-formalism"&gt;formalism&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>The idea of Art for Art's sake has its origins in nineteenth-century France, where it became associated with Parisian artists, writers, and critics, including Théophile Gautier and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;. These figures and others put forward the idea that art should stand apart from all thematic, moral, and social concerns - a significant break from the post-&lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; artistic tradition represented by contemporary &lt;span class="marked_text chart-tooltip-target-top tooltip_id-academic_painting"&gt;academic painting&lt;/span&gt;, which favored historical and mythical scenes, and held that art should have a clear ethical message often connected to religion or state power.</idea>
+      <idea>Although Art for Art's Sake withdrew from all political and ideological concerns, it was nonetheless radical in rejecting the moralizing standards of its day. Artists such as Aubrey Beardsley delighted in shocking polite taste through images which had sexual or grotesque overtones. In this regard, Art for Art's Sake was often implicitly radical, and its program of seeking scandal informed the more politically charged activities of subsequent movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt;.</idea>
+      <idea>Although the term Art for Art's Sake fell out of favor by the end of the nineteenth century, the idea it stood for - that art had a value which stood apart from subject-matter, purely connected to formal qualities such as line, color, and tone - remained highly significant. Some such notion is at the basis of all abstraction&lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_art"&gt;abstraction&lt;/span&gt;, for example. Art for Art Sake can thus be seen to have predicted the work of artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt;, for example, as well as the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="The Literary World and Théophile Gautier">
+          <p type="img" alt="Audrey Beardsley's &lt;i&gt;Mademoiselle de Maupin&lt;/i&gt;, from his illustration of Théophile Gautier's novel (1897)." show="1">/images20/photo/photo_art_for_art_1.jpg</p>
+          <p type="p">The Swiss writer Benjamin Constant is thought to have been the first person to use the phrase "art for art's sake," in an 1804 diary entry. But the term is most often credited to the French philosopher Victor Cousin, who publicized it in his lectures of 1817-18. The idea of Art for Art's Sake - that art should not be judged on its relationship to social, political, or moral values, but purely for its formal and aesthetic qualities, first became popular amongst writers, encouraged by the French novelist Théophile Gautier. In the preface to his novel &lt;i&gt;Mademoiselle de Maupin&lt;/i&gt; (1835), Gautier wrote that "nothing is really beautiful unless it is useless; everything useful is ugly."</p>
+          <p type="p">Gautier had first studied painting before turning to literature and, subsequently, he became a leading art critic, so that he influenced both the literary and visual-art worlds. The poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;, a famous art critic in his own right, dedicated his groundbreaking poetry collection &lt;i&gt;Les Fleurs du Mal&lt;/i&gt; (1857) to Gautier, whom he called "a perfect magician of French letters." In 1862 Gautier was elected chairman of the Société Nationale des Beaux-Arts (National Society of Fine Arts) by a board that included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt;, and Gustave Doré among others. Gautier's view that aesthetic beauty was central to the value of art, and that thematically suggestive or didactic work often lacked this quality, became widely influential in securing the reputation of the Aesthetic movement.</p>
+        </subsection>
+        <subsection title="James Abbott McNeill Whistler ">
+          <p type="p">The American painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Abbott McNeill Whistler&lt;/span&gt; is generally credited with pioneering the concept of Art for Art's Sake within the visual arts. In his idiosyncratic art manifesto "The Red Rag" (1878) he wrote that "[a]rt should be independent of all clap-trap - should stand alone [...] and appeal to the artistic sense of eye or ear, without confounding this with emotions entirely foreign to it, as devotion, pity, love, patriotism and the like."</p>
+          <p type="p">Whistler's assertion that visual art should not promote any particular subject-matter led him to compare it to the purely abstract domain of music. With reference to his "nocturnes," such as &lt;i&gt;Nocturne in Blue and Gold: Old Battersea Bridge&lt;/i&gt; (c. 1872-75), he described painting as "pure music," noting that "Beethoven and the rest wrote music [...] they constructed celestial harmonies [...] pure music."</p>
+          <p type="p">In emphasizing the value of art for its own sake, Whistler helped to establish both the Aesthetic movement and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tonalism"&gt;Tonalism&lt;/span&gt;, the former movement having great currency in Britain, the latter in North America. In 1893, the critic George Moore, in his book &lt;i&gt;Modern Painting&lt;/i&gt;, wrote that, "[m]ore than any other painter, Mr. Whistler's influence has made itself felt on English art. More than any other man, Mr Whistler has helped to purge art of the vice of subject and belief that the mission of the artist is to copy nature."</p>
+        </subsection>
+        <subsection title="Aesthetic Movement">
+          <p type="img" alt="Edward Burne-Jones's &lt;i&gt;The Golden Stairs&lt;/i&gt; (1880) conveys what he called his “forms divinely beautiful.”" show="1">/images20/photo/photo_art_for_art_2.jpg</p>
+          <p type="p">By 1860 the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic movement&lt;/span&gt; had emerged, coalescing around the influential idea of Art for Art's Sake, with its base in the United Kingdom. Informed by Whistler's pioneering work and Gautier's criticism, the movement became associated particularly with images of female beauty set against the decadence of the classical world, as exemplified by the work of artists such as Albert Joseph Moore and Lawrence Alma-Tadema.</p>
+          <p type="p">Aestheticism also overlapped with the worldview of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelite_brotherhood"&gt;Pre-Raphaelite Brotherhood&lt;/span&gt;, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rossetti_dante_gabriel"&gt;Dante Gabriel Rossetti&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-burne_jones_edward"&gt;Edward Burne-Jones&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morris_william"&gt;William Morris&lt;/span&gt;. These artists were wrapped up with what has been dubbed the "Cult of Beauty," a concept closely connected to the ideals of Art for Art's Sake, and suggesed that the formal power of the art work mattered above all else. However, many Pre-Raphaelites, such as Morris, were also invested in utopian politics, informed by an idealistic notion of the social structures of the medieval era. This suggests that the ideas of Art for Art's sake informed a slightly wider range of artistic philosophies than is sometimes imagined.</p>
+          <p type="p">The canonical art critic Walter Pater became a leading proponent of Aestheticism. In his influential book &lt;i&gt;The Renaissance: Studies in Art and Poetry&lt;/i&gt; (1873) he stated that "art comes to you proposing frankly to give nothing but the highest quality of your moments as they pass, and simply for these moments' sake." In so doing, he extended the concept of Art for Art's Sake to define the kind of experience that a viewer should derive from a particular artwork, rather than merely applying it to the artist's intentions.</p>
+          <p type="p">The illustrator and pen-and-ink artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beardsley_aubrey"&gt;Aubrey Beardsley&lt;/span&gt;, who died in 1898 at the age of just 25, played several important roles in the development of Aestheticism - beyond his connection with the more famous &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wilde_oscar"&gt;Oscar Wilde&lt;/span&gt;. Beardsley's sketches, critical commentaries, and editorship of &lt;i&gt;The Yellow Book&lt;/i&gt;, a literary magazine published in London from 1894 to 1897, all left their mark on the emergence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-formalism"&gt;formalistic&lt;/span&gt; and Decadent strains during the British fin-de-siècle (the end of the nineteenth century). In fact, the literary content of &lt;i&gt;The Yellow Book&lt;/i&gt; often represented fairly traditional veins within art criticism, while in terms of visual layout, as the art historian Linda Dowling writes, "[the] asymmetrically placed titles, lavish margins, abundance of white space, and relatively square page declare &lt;i&gt;The Yellow Book&lt;/i&gt;'s specific and substantial debt to Whistler." Nonetheless, the journal's garish color - which associated it with illicit French novels - and Beardsley's often uncanny and grotesque illustrations, made the journal widely influential and ensured its scandalous reputation.</p>
+        </subsection>
+        <subsection title="Decadent Movement">
+          <p type="img" alt="A ubrey Beardsley's &lt;i&gt;The Clima&lt;/i&gt; (1894), an illustration for Oscar Wilde's play &lt;i&gt;Salome&lt;/i&gt; (1893), showing the anti-heroine of the play holding the severed head of John the Baptist, whom she has ordered executed for refusing her advances." show="1">/images20/photo/photo_art_for_art_3.jpg</p>
+          <p type="p">The Decadent movement, which began in the 1880s, developed alongside the Aesthetic movement and shared roots in the mid-nineteenth, with Beardsley a significant figure in both schools. The Decadent movement, however, was particularly associated with France, notably with the work of the French-based Belgian artist Félicien Rops. Rops was a peer of Charles Baudelaire, who had proudly declared himself a "decadent" in his &lt;i&gt;Les Fleurs du Mal&lt;/i&gt; ("The Flowers of Evil") (1857), after which time the term became synonymous with a rejection of nineteenth-century banality, puritanism, and sentimentality. In 1886, the publication of the magazine &lt;i&gt;Le Décadent&lt;/i&gt; in France gave the Decadent movement its name.</p>
+          <p type="p">Théophile Gautier, for his part, saw the principles of decadence as reflecting a point of advanced aesthetic and cultural evolution - not to say fatigue and decay - within Western societies. "Art [has] arrived at that point of extreme maturity that determines civilizations which have grown old; ingenious, complicated, clever, full of delicate hints and refinements [...] listening to translate subtle confidences, confessions of depraved passions, and the odd hallucinations of a fixed idea turning to madness." In the Decadent movement, Art for Art's Sake meant not so much an emphasis on pure formal beauty as an ostentatious rejection or mockery of the ideologies and social positions for which art &lt;i&gt;might&lt;/i&gt; have been expected to stand.</p>
+          <p type="img" alt="Aubrey Beardsley's cover for &lt;i&gt;The Yellow Book&lt;/i&gt; (1894)." show="1">/images20/photo/photo_art_for_art_4.jpg</p>
+          <p type="p">The Decadents, arguably led by Aubrey Beardsley in Britain - who was also central to the Aesthetic movement - emphasized the erotic, the scandalous, and the disturbing. &lt;i&gt;The Yellow Book&lt;/i&gt; pioneered the trend of decadence in art, with Beardsley's drawings rumored in the press to be filled with hidden (or not so hidden) erotic and lewd references, emphasizing his defiance of Victorian moralism. As the art historian Sabine Doran writes, "from the moment of its conception, &lt;i&gt;The Yellow Book&lt;/i&gt; presents itself as having a close relationship with the culture of scandal; it is, in fact, one of the progenitors of this culture."</p>
+        </subsection>
+        <subsection title="Tonalism">
+          <p type="img" alt="James Whistler's works, such as his &lt;i&gt;Nocturne: Blue and Gold - Old Battersea Bridge&lt;/i&gt; (1872-75), influenced both the Aesthetic movement and Tonalism." show="1">/images20/photo/photo_art_for_art_5.jpg</p>
+          <p type="p">The art of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tonalism"&gt;Tonalism&lt;/span&gt;, mainly based in North America, held no truck with the scandal-seeking decadence of Beardsley and his peers. However, with their glowing, mist-filled, atmospheric landscapes, the Tonalists pioneered a style that was, in its own way, equally committed to the notion of Art for Art's Sake.</p>
+          <p type="p">Whistler was a lodestar for these artists. As the art historian David Adams Cleveland notes, Tonalism's "emphasis on balanced design, subtle patterning, and a kind of otherworldly equipoise came directly out of the Aesthetic movement and the work and artistic philosophy of Art for Art's Sake promoted by its greatest exponent, James McNeil Whistler." In works such as &lt;i&gt;Nocturne: The River at Battersea&lt;/i&gt; (1878), Whistler emphasized mood and atmosphere while exploring a simplified, almost abstract landscape in terms of its color tonalities.</p>
+          <p type="p">Art critic Grace Glueck describes Tonalism as "not really a movement, but a mix of tendencies that began to drift together around 1870." "[I]t remained a style without a name," she adds, "until the mid-1890s." Tonalism became a touchstone within US art, associated in particular with the North-American painters &lt;span class="marked_text chart-tooltip-target-top tooltip_id-inness_george"&gt;George Inness&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ryder_albert_pinkham"&gt;Albert Pinkham Ryder&lt;/span&gt;, as well as the photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-steichen_edward"&gt;Edward Steichen&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Whistler vs. Ruskin">
+          <p type="img" alt="Vincenzo Catena's &lt;i&gt;Portrait of the Doge, Andrea Gritti&lt;/i&gt; (1523-1531) was Ruskin's artistic counter to Whistler's work." show="1">/images20/photo/photo_art_for_art_6.jpg</p>
+          <p type="p">Many of the principles of Art for Art's Sake were publicly exclaimed by James Abbott McNeill Whistler during a famous libel case, which pitted his views against those of the Victorian art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruskin_john"&gt;John Ruskin&lt;/span&gt;. The roots of the dispute were in the founding of the Grosvenor gallery in London in 1877. The gallery promoted the Aesthetic movement, and, as Fiona MacCarthy notes, became a "fashionable talking shop. The gallery's proximity to the Royal Academy polarized opinion about the techniques and purposes of art."</p>
+          <p type="p">It was this polarization of opinion which led Ruskin, a proponent of more traditional technical and moral values within art, to dismiss Whistler's &lt;i&gt;Nocturne in Black and Gold: The Falling Rocket&lt;/i&gt; (1875), shown in the first Grosvenor exhibition, as the equivalent of "flinging a pot of paint in the public's face." Never shy of publicity, Whistler sued Ruskin for libel, and the case came to court in 1878.</p>
+          <p type="p">During the legal proceedings, Ruskin used a portrait of Vincenzo Catena's &lt;i&gt;Portrait of the Doge, Andrea Gritti&lt;/i&gt; (1523-31), then thought to be painted by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, as an example of "real art" meant to counter Whistler's painting. By arguing his right to freedom from pre-imposed artistic standards, Whistler won the case. However, he was awarded only a single farthing in damages, and his legal expenses and the public controversy which the episode had caused severely impacted on his career, to the extent that he was forced to declare bankruptcy, subsequently moving to Paris.</p>
+        </subsection>
+        <subsection title="Oscar Wilde and the Aesthetic Movement Teapot">
+          <p type="img" alt="James Hadley's &lt;i&gt;Aesthetic Movement Teapot&lt;/i&gt; (&lt;i&gt;Oscar Wilde Teapot&lt;/i&gt;) (1882) parodied the ideas of Art for Art's Sake." show="1">/images20/photo/photo_art_for_art_7.jpg</p>
+          <p type="p">Following Whistler's trial, the British public, as well as a number of powerful cultural figures, turned against the Aesthetic movement, and what they perceived as the indulgence and immorality of Art for Art's Sake. In 1881, the English dramatist W.S. Gilbert premiered &lt;i&gt;Patience&lt;/i&gt;, a musical satirizing the leading Aesthetes, while cartoons lampooning Aestheticism appeared frequently in &lt;i&gt;Punch&lt;/i&gt;, the leading British magazine of satire and humor.</p>
+          <p type="p">Oscar Wilde, by this time already an established writer and a cultural celebrity, was often the target for attacks with homophobic overtones. As the art historian Sally-Anne Huxtable writes, he was "the most famous Aesthete of them all [...] at that time dressing in velvet breeches, lecturing on the topic of Art and supposedly quipping that he was 'finding it harder and harder every day to live up to my blue and white china'." In 1882, playing off the success of W.S. Gilbert's &lt;i&gt;Patience&lt;/i&gt;, which had included a character based on Wilde called Bunthorne, the designer James Hadley, employed at the famous Royal Worcester Porcelain Factory, created his so-called Aesthetic Movement Teapot.</p>
+          <p type="p">This piece mocks the ideals of aestheticism, particularly what was seen as its blurring of traditional gender roles. On the base of the pot appears the phrase "Fearful Consequences Through The Laws of Natural Selection &amp; Evolution of Living up to One's Teapot," an allusion to Wilde's comment and to the idea - inferred by the public - that the Aesthetes thought they could make themselves beautiful by surrounding themselves with beautiful objects. (The line also mocks Darwin's recently published and not yet accepted theory of natural selection.) As Huxtable notes, the message of the work embodied "the self-styled 'sensible' and 'manly' world of the Victorian mainstream press", which "saw Aesthetes as effete poseurs." However, she also adds that the work became "the most iconic design object associated with British Aestheticism."</p>
+          <p type="p">This said, the artistic debate that Hadley alluded to, masked an uglier hostility towards the homosexual tendencies seen to be wrapped up in ideas of Art for Art's Sake. Presenting a young man on one side and a young woman on the other, the teapot suggests the erosion of the traditional masculine and feminine qualities, encapsulating what Huxtable calls "the hysterical fears circulating in the 1880s about the effects that effeminacy and the blurring of gender roles might have on the future British population." These fears placed figures like Wilde in the spotlight, and in 1895, after two trials and much public scandal, he was sentenced to prison and two years' hard labor after being convicted of "gross indecency" for homosexual acts.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Trends">
+        <subsection title="Philosophy">
+          <p type="p">The idea of aesthetic experience that informed Art for Art's Sake arguably has its roots in the work of eighteenth-century philosopher Immanuel Kant, who held that the true appreciation of art was a process disconnected from all worldly concerns. Subsequent eighteenth- and nineteenth-century artists and thinkers, including Johann Wolfgang von Goethe, Friedrich Schiller, and Thomas Carlyle, built upon Kant's ideas. Schiller's &lt;i&gt;Briefe über die ästhetische Erziehung des Menschen&lt;/i&gt; (1795) ("On the Aesthetic Education of Man"), inspired by Kant, developed the idea that appreciating art took the viewer away from social, political, or otherwise 'non-artistic' concerns: "beauty cajoles from [man] a delight in things for their own sake." As a result, when Benjamin Constant first used the phrase "art for art's sake" in 1804, he was coining a memorable phrase that captured an already important philosophical trend.</p>
+        </subsection>
+        <subsection title="Art Criticism">
+          <p type="p">A number of nineteenth-century art critics, particularly Théophile Gautier and Walter Pater, did much to establish the ideas of Art for Art's Sake. Pater famously described the possession of an artistic sensibility as meaning "[t]o burn always with [a] hard, gem-like flame, to maintain this ecstasy, is success in life." As art historian Rachel Gurstein writes, "[s]uch an elevated, if extravagant, ideal of art demanded a new kind of criticism that would match, and even surpass, the intensity of the impressions that a painting evoked in the sensitive viewer, and the aesthetic critic responded with ardent prose poems of his own." She adds that "proper Victorians thought such a view of art and criticism immoral and irreligious. They were appalled by what they perceived as its decadence."</p>
+        </subsection>
+        <subsection title="Effect on Art History">
+          <p type="img" alt="Leonardo da Vinci's &lt;i&gt;Mona Lisa&lt;/i&gt; (c. 1503-19) became an icon of the Art for Art's Sake movement." show="1">/images20/photo/photo_art_for_art_8.jpg</p>
+          <p type="p">With their passionate criticism, Gautier and Pater influenced the evaluation not just of contemporary art but also of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;classical&lt;/span&gt; work that influenced it. Rejecting the story-telling style and moral subject-matter of classical history painting, exemplified by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt; and favored by the traditional academies, these two critics rediscovered the work of artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-botticelli_sandro"&gt;Botticelli&lt;/span&gt;. Additionally, as Rochelle Gurstein writes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci's&lt;/span&gt; &lt;i&gt;Mona Lisa&lt;/i&gt; (c. 1503-19), "[a]lthough many writers associated with the art-for-art's sake movement in France and England paid enthusiastic tribute to the painting, Theophile Gautier and Walter Pater are now best known for launching it on its modern path to what is now inelegantly called 'iconicity.'"</p>
+          <p type="p">Gautier described the "strange, almost magic charm which the portrait of Mona Lisa has for even the least enthusiastic natures." In his book &lt;i&gt;The Renaissance: Studies in Art and Poetry&lt;/i&gt; (1873), Pater called &lt;i&gt;Mona Lisa&lt;/i&gt; "the symbol of the modern idea," in a lyrical passage that continues to inform our idea of what the painting represents. As Rachel Gurstein notes, "[i]n an incantatory paragraph, Pater portrayed the Mona Lisa in language that eclipsed Gautier's rhapsody and would relegate &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt; to history. Indeed, this single passage so completely formed the imagination and the vision of art lovers who read it that no one - from Oscar Wilde to Bernard Berenson to Kenneth Clark - could speak of the Mona Lisa without uttering in the same breath that he, like everyone else of his generation, had committed Pater's luminous words to memory."</p>
+        </subsection>
+        <subsection title="Opponents of Art for Art's Sake ">
+          <p type="p">From the beginning, the idea that art should be judged solely on a set of isolated aesthetic or formal criteria was opposed by a range of creatives and thinkers. Academic painters rejected the work associated with Art for Art's Sake as frivolous, lacking the moral purpose offered by the classical subjects which the Academy favored. Ruskin's criticism of Whistler's work encapsulates some aspects of this position.</p>
+          <p type="p">Just as it was criticized by traditionalists, Art for Art's Sake also gradually fell afoul of emerging &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; trends in the arts. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, the pioneer of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt;, generally seen as the first &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt; movement, consciously distanced his aesthetic approach from Art for Art's Sake in 1854, while also rejecting the standards of the academy, presenting them as two sides of the same coin: "I was the sole judge of my painting [...] I had practiced painting not in order to make Art for Art's Sake, but rather to win my intellectual freedom."</p>
+          <p type="p">Courbet's position anticipated that of many forward-thinking artists who felt, as the novelist George Sand wrote in 1872, that "Art for art's sake is an empty phrase. Art for the sake of truth, art for the sake of the good and the beautiful, that is the faith I am searching for." Modernism and Avant-Garde trends in art increasingly became associated not with a mere decadent rejection of academic and Victorian morals, but with the proposition of alternative social, political, and ethical ideals.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">According to the Victoria and Albert Museum, "[t]he Aesthetic project finally ended following the scandal of the trial, conviction and imprisonment of Oscar Wilde for homosexuality in 1895. The fall of Wilde effectively discredited the Aesthetic Movement with the general public, though many of its ideas and styles remained popular into the 20th century." With the decline of the Aesthetic movement, the phrase "art for art's sake" fell out of fashion, though it continued to exert a presence, often notably, in other countries.</p>
+          <p type="p">In St. Petersburg in 1899 &lt;span class="marked_text chart-tooltip-target-top tooltip_id-diaghilev_sergei"&gt;Sergei Diaghilev&lt;/span&gt;, along with Léon Bakst and Alexandre Benois, founded the magazine &lt;i&gt;Mir iskusstva&lt;/i&gt; ("World of Art"). The magazine was allied with a group of young artists in St. Petersburg which had formed the World of Art movement the preceding year. Promoting Art for Art's Sake and artistic individualism, the group had perhaps its greatest impact through the formation of the groundbreaking Ballets Russes, which Diaghilev founded in 1907, and which operated until 1927.</p>
+          <p type="p">The idea of Art for Art's Sake had a profound if somewhat paradoxical influence on avant-garde art. As art historian Doug Singsen notes, "the avant-garde was not simply a negation of l'art pour l'art but rather both a negation and continuation of it." Many leading twentieth-century artists dismissed it. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; stated "[t]his idea of art for art's sake is a hoax," while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky&lt;/span&gt; wrote that "[t]his neglect of inner meanings, which is the life of colours, this vain squandering of artistic power is called 'art for art's sake.'" Nonetheless, the concept was often met with ambiguity. Kandinsky empathized with the concept to a limited extent, describing it as "an unconscious protest against materialism, against the demand that everything should have a use and practical value."</p>
+          <p type="p">The leading art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt;, who promoted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; in the post-World War II era, build his concepts of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;medium specificity&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-formalism"&gt;formalism&lt;/span&gt; upon the groundwork of Art for Art's Sake. As art historian Anna Lovatt writes, "Greenberg expanded the concept of art's autonomy as he developed his concept of medium specificity." Contemporary art historian Paul Bürger described the concept of Art for Art's Sake as fundamental to the evolution of the avant-garde and modernism in his influential 1974 text &lt;i&gt;Theory of the Avant-Garde&lt;/i&gt;: "the autonomy of art is a category of bourgeois society. It permits the description of art's detachment from the context of practical life as a historical development."</p>
+          <p type="p">Social historian Rochelle Gurstein notes that "Pater's style was a harbinger of modernity." His influence continued into the twentieth century, particularly among noted critics and writers. Contemporary critic Denis Donoghue describes Pater's influence as "a shade or trace in virtually every writer of significance from [Gerard Manley] Hopkins and [Oscar] Wilde to [John] Ashbery." During the era of postmodernism in literary studies, many critics also took an interest in Pater's worldview as a precursor to modern ideas of "deconstruction." In 1991, scholar Jonathan Loesberg argued in &lt;i&gt;Aestheticism and Deconstruction: Pater, Derrida, and de Man&lt;/i&gt; that aestheticism and modern deconstruction produced similar forms of philosophical knowledge and political effect through a process of self-questioning or "self-resistance," and through the internal critique and destabilization of hegemonic truths.</p>
+          <p type="p">In 2011 the Victoria &amp; Albert Museum held The Cult of Beauty exhibition on the aesthetic movement. As curator Stephen Calloway noted, "the idea of looking at an art movement where, consciously, beauty and quality are central ideas, seems to me extraordinarily timely," suggesting that Art for Art's Sake is an idea with ongoing currency in the information and opinion-saturated contemporary world.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column />
+    </top>
+    <bottom>
+      <column />
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>La Ghirlandata</title>
+      <artist>Dante Gabriel Rossetti</artist>
+      <year>1873</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A woman delicately plays a harp while two angels circle pensively above her head. The rich velvet of the woman's green dress flows into the luxurious vegetation that surrounds her, her striking red hair echoed by the garland of flowers and the angels' auburn locks. William Michael Rossetti, the brother of the artist, translated this work's as "The Garlanded Lady" or "Lady of the Wreath," with Alexa Wilding, the model depicted in the center of the work, portrayed as the ideal of love and beauty. 
+				&lt;br/&gt;&lt;br/&gt;
+				This is a painting by Dante Gabriel Rossetti, a British artist associated with both Aestheticism and the Pre-Raphaelite brotherhood, and known for his tempestuous and often exploitative romantic relationships with female models and artists. This work's title, along with the idealized treatment of subject matter, may be intended to evoke the spirit of Leonardo da Vinci's &lt;i&gt;Mona Lisa&lt;/i&gt; (c. 1503-19), then often known as &lt;i&gt;La Giaconda&lt;/i&gt; ("the happy one" or "the jocund one"), and revered by critics associated with Art for Art's Sake such as Theophile Gautier and Walter Pater. In effect, Rossetti may have meant his idealized beauty to become an icon for the Aesthetic movement just as the Mona Lisa had become an icon of Renaissance art.
+				&lt;br/&gt;&lt;br/&gt;
+				In its guide to the work, the Guildhall Art Gallery notes that the painting ushered in "a new aesthetic of painting," as every element contributed to the elevation of beauty. William Michael Rossetti wrote that his brother's intent was to "to indicate, more or less, youth, beauty, and the faculty for art worthy of a celestial audience, all shadowed by mortal doom." In this respect, the painting summed up the "Cult of Beauty" for which the Pre-Raphaelites stood, and represents an important contribution to the principles of Art for Art's Sake.
+			</desc>
+      <collection>Guildhall Art Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Nocturne in Black and Gold: The Falling Rocket</title>
+      <artist>James Abbott McNeill Whistler</artist>
+      <year>1874</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				This iconic painting depicts a firework display at Cremorne Gardens in London. A few shadowy figures can be discerned in the foreground, depicting the shore of the Thames River, but most of the canvas is given over to the black night sky, lit up by the rocket's falling gold sparks and the explosive smoke from the firework battery on the horizon. With its dreamy wash of color and abstracted figures, this painting represented the emergence of a new approach within painting which emphasized the artist's freedom to represent a mood or emotion at the expense of representational accuracy.
+				&lt;br/&gt;&lt;br/&gt;
+				This painting, the last in Whistler's series of so-called "nocturnes," became important talismans of the idea of Art for Art's Sake, with the artist stating that "[a]rt should be independent of all clap-trap - should stand alone, and appeal to the artistic sense of eye or ear." Color and mood were crucial to Whistler's work, with his paintings often bordering on abstraction, while his titles often used musical terms such as "nocturne" and "harmony" to insist on painting's relationship to other artforms, particularly music, which had a 'pure' aesthetic quality not connected to themes or symbolism. 
+				&lt;br/&gt;&lt;br/&gt;
+				No work is a better example of Whistler's artistic stance. Perhaps for that reason, it became the subject of legal dispute after Whistler sued the noted critic John Ruskin for attacking the painting as worthless and poorly executed. While Whistler won the case, he received only a single farthing in settlement, and his legal fees contributed to his subsequent bankruptcy. Despite this Pyrrhic victory, Whistler's defense played a key role in establishing the principles of art as an entirely liberated pursuit disconnected from all conventions of society, politics, or morality, which would be important to the development of modernism. Art critic James Jones notes that Whistler described a painting as "an arrangement of light, form and colour," an emphasis which predicts, for example, the movement of Abstract Expressionism in the mid-twentieth century.
+			</desc>
+      <collection>The Detroit Institute of Arts, Detroit, Michigan</collection>
+    </artwork>
+    <artwork>
+      <title>Harmony in Blue and Gold: The Peacock Room</title>
+      <artist>James Whistler</artist>
+      <year>1876-77</year>
+      <materials>Oil paint and gold leaf on canvas, leather, and wood</materials>
+      <desc>
+				The concept of Art for Art's Sake, via the Aesthetic movement, had a transformative effect on interior design and architecture. As art critic Fiona MacCarthy writes, "[o]ne of the main tenets of aestheticism was that art was not confined to painting and sculpture and the false values of the art market. Potential for art is everywhere around us, in our homes and public buildings, in the detail of the way we choose to live our lives."
+				&lt;br/&gt;&lt;br/&gt;
+				This photograph depicts the famous Peacock Room, named for the turquoise, gold, and blue murals featuring a peacock motif and designed by James Abbott McNeill Whistler for the home of the shipping magnate Frederick Leyland. Leyland's centerpiece for his dining room was Whistler's painting &lt;i&gt;The Princess from the Land of Porcelain&lt;/i&gt; (1863-65), while the interior design embodied Whistler's enthusiasm for Japonism, a style based on western perceptions of Japanese art and design. Whistler described his working process in the room as spontaneous and intuitive: "I just painted on. I went on - without design or sketch - it grew as I painted. And toward the end I reached [...] a point of perfection." He said the finished interior was a "harmony in blue and gold," in effect transforming the space into an artwork and elevating design to a fine art that existed for its own sake. 
+				&lt;br/&gt;&lt;br/&gt;
+				Whistler's design was enormously influential, informing the development of both the Anglo-Japanese style and the Aesthetic movement, which included all realms of design within its dictum. In a wider sense, the decoration of this room encapsulates the idea so important to exponents of Art for Art's Sake that, by surrounding themselves with beautiful things - not just artworks but walls, tables, chairs, and so on - the artist or art lover could become beautiful themselves.
+			</desc>
+      <collection>Freer Gallery of Art, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>The Peacock Skirt</title>
+      <artist>Aubrey Beardsley</artist>
+      <year>1893</year>
+      <materials>Woodblock Print</materials>
+      <desc>
+				Aubrey Beardsley's stylish ink sketch depicts the Biblical figure of Salome, whose failed seduction of John the Baptist leads to his beheading. Salome was the subject of Oscar Wilde's eponymous one-act tragedy, written in French in 1891. When the English translation was published in 1894, it contained ten woodblock illustrations based on ink sketches by Beardsley, of which &lt;i&gt;The Peacock Skirt&lt;/i&gt; is the second. Depicting the figure of Salome to the left in a long, elaborately patterned dress, with a peacock veil and headdress, the work embodies the qualities of elaborate beauty and luxury which Beardsley and other Art-for-Art's-Sake artists promoted. At the same time, the sinister figure to the right, whose made-up face and feminine dress contrasts with their hairy legs, embraces the ideas of androgyny and sexual fluidity with which the movement was (often disapprovingly) associated.
+				&lt;br/&gt;&lt;br/&gt;
+				The origins of Beardsley's Salome series are in a single illustration depicting the anti-heroine kissing the severed head of John the Baptist, printed in 1893. Upon seeing the image, Wilde recognized an artistic affinity and invited Beardsley to illustrate the entire narrative. The illustration was heavily influenced by Whistler's decorations for the peacock room, as well as the stylized lines of Japanese woodblock prints; the resultant long, sinuous depiction of bodies anticipates the work of Gustave Klimt and other Art Nouveau artists. 
+				&lt;br/&gt;&lt;br/&gt;
+				Beardsley contributed much to the Art for Art's Sake approach, in particular developing its connections with Japonism and the decorative arts. At the same time, the Salome series reflects Beardsley's interest in courting and exacerbating the scandal which the Art for Art's Sake movement was already attracting. Salome is perhaps the original &lt;i&gt;femme fatale&lt;/i&gt;, ordering John the Baptist killed by her father Herod - himself incestuously infatuated with his daughter - after the Christian prophet refuses her sexual advances. She and her story thus represent a number of themes, such as sexual transgression, incest, and female lust, which scandalized the patriarchal, puritanical Victorian public. In focusing on her as a worthy subject of drama, Wilde and Beardsley were quite deliberately courting controversy, while promoting lifestyle choices such as plurality of gender and sexual freedom.
+			</desc>
+      <collection>Harvard Art Museums, Cambridge MA.</collection>
+    </artwork>
+    <artwork>
+      <title>Fountain</title>
+      <artist>Marcel Duchamp</artist>
+      <year>1917</year>
+      <materials>Found object</materials>
+      <desc>
+				Duchamp's famous artwork - consisting of a mass-manufactured urinal placed on its back and signed with the artist's pseudonym R. Mutt - powerfully challenged the idea of Art for Art's Sake, while also carrying it into new realms. &lt;i&gt;Fountain&lt;/i&gt; was submitted to the 1917 Society for Independent Artists and should have been included in the Society's annual exhibition, since membership alone granted the right to exhibit. However, the work was rejected on the grounds of immorality (proving that, despite assumptions to the contrary, other judgments - in this case, morality - did indeed inform aesthetic judgment.) This work bore almost no trace of the artist's input or - so it seemed - creative vision or skill, thus subverting the notion foundational to Art for Art's Sake that a painting or sculpture should have an inherent aesthetic or formal value.
+				&lt;br/&gt;&lt;br/&gt;
+				Paradoxically, however, the work's supporters did employ a version of the notion of Art for Art's Sake to defend the object, arguing that Duchamp's mere presentation the urinal imbued it with special significance, as an artwork which he had created. So, if the controversy demonstrated the fading importance of Art for Art's Sake in the 20th century, it also showed the concept's tenacity, as it became part of the foundation of modern art. 
+				&lt;br/&gt;&lt;br/&gt;
+				As contemporary art historian Peter Bürger wrote, "the autonomy of art is a category of bourgeois society...The relative dissociation of the work of art from the praxis of life in bourgeois society thus becomes transformed into the (erroneous) idea that the work of art is totally independent of society." Bürger noted how "Duchamp's provocation not only unmasks the art market where the signature means more than the quality of the work; it radically questions the very principle of art in bourgeois society according to which the individual is considered the creator of the work of art."
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Full Fathom Five</title>
+      <artist>Jackson Pollock</artist>
+      <use_big_image>false</use_big_image>
+      <year>1947</year>
+      <materials>Oil on canvas, with nails, buttons, tacks, key, coins, cigarettes, matches, etc.</materials>
+      <desc>
+				&lt;i&gt;Full Fathom Five&lt;/i&gt; was among the first drip paintings Jackson Pollock completed. Its surface is clotted with an assortment of detritus, from cigarette butts to coins and a key. The uppermost layers were created by pouring lines of black and shiny silver house paint, though a large part of the paint's crust was applied by brush and palette knife, creating an angular counterpoint to the weaving lines. Pollock's drip paintings have been interpreted in numerous ways, some seeing them as inventing a new abstract language for the unconscious, others suggesting that they evoke the night sky, or in this case, the depths of the ocean. 
+				&lt;br/&gt;&lt;br/&gt;
+				However, the critic Clement Greenberg, who was Pollock's most powerful supporter, insisted that their value lay purely in their formal elements, as he believed in the inherent value of abstract art, arguing that it offered the only means by which to say something new in a world increasingly full of conventional, representational images. He also believed that formal analysis held the key to aesthetic evaluation and that discussion of all other matters - such as theme and subject matter - was irrelevant. As art historian Anna Lovatt states, "the notion of the self-reflexive, autonomous medium propounded by modernist critics - most notably Clement Greenberg," became a leading trend in the twentieth century. 
+				&lt;br/&gt;&lt;br/&gt;
+				In effect, while the idea of Art for Art's Sake had nominally fallen out of fashion by the early twentieth century, it continued to inform trends in modern art, and its emphasis on the value of art as disconnected from all thematic concerns, became the grounds for Greenberg's concepts of medium specificity, as well as his definition of the avant-garde and his arguments in favor of abstract art. As Lovatt adds, "[b]y emphasizing the opacity and autonomy of each 'medium', Greenberg disengaged the word from its relational and communicative connotations. Thus isolated, the modernist 'medium' was objectified and reified as a thing-in-itself, abstracted from the broader conditions of artistic production and reception."
+			</desc>
+      <collection>The Museum of Modern Art, New York City</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Art for Art's Sake: Aestheticism in Victorian Painting</title>
+          <link>0300135491</link>
+          <info>By Elizabeth Prettejohn</info>
+        </entry>
+        <entry>
+          <title>The Aesthetic Movement</title>
+          <link>0714830003</link>
+          <info>By Lionel Lambourne</info>
+        </entry>
+        <entry>
+          <title>Art for Art's Sake &amp; Literary Life (Stages)</title>
+          <link>0803261438</link>
+          <info>By Gene H. Bell-Villada</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="paintings" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Aestheticism 1868-1900</title>
+          <link>https://artsandculture.google.com/entity/aestheticism/m0182g8?categoryid=art-movement</link>
+          <info>Google Arts and Culture</info>
+        </entry>
+        <entry>
+          <title>The Theory of the Avant-Garde</title>
+          <link>https://monoskop.org/images/d/d0/Buerger_Peter_The_Theory_of_the_Avant-Garde.pdf</link>
+          <info>By Peter Bürger</info>
+        </entry>
+        <entry>
+          <title>Aesthetics</title>
+          <link>https://www.britannica.com/topic/aesthetics</link>
+          <info>By Thomas Munro et al.</info>
+        </entry>
+        <entry>
+          <title>The American Avant-Garde</title>
+          <link>https://theoria.art-zoo.com/the-american-avant-garde-clement-greenberg/</link>
+          <info>By Clement Greenberg</info>
+        </entry>
+        <entry>
+          <title>Towards a Newer Laocoön</title>
+          <link>https://west.slcschools.org/academics/visual-arts/documents/Laocoon.pdf</link>
+          <info>Clement Greenberg</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>The Mystic Smile</title>
+          <link>https://newrepublic.com/article/122588/mystic-smile</link>
+          <info>
+						By Rochelle Gurstein 
+						&lt;br&gt;
+						The New Republic 
+						&lt;br&gt;
+						July 22,2002
+					</info>
+        </entry>
+        <entry>
+          <title>Kant and the Autonomy of Art</title>
+          <link>https://www.jstor.org/stable/431992?seq=1</link>
+          <info>
+						By Casey Haskins 
+						&lt;br&gt;
+						The Journal of Aesthetics and Art Criticism 
+						&lt;br&gt;
+						Vol. 47, no. 1, 1989, pp. 43-54
+					</info>
+        </entry>
+        <entry>
+          <title>The pre-Raphaelites: Art for art's sake: V&amp;A to celebrate aesthetic movement</title>
+          <link>https://www.theguardian.com/artanddesign/2010/sep/14/victoria-albert-aesthetic-movement-exhibition</link>
+          <info>
+						By Mark Brown 
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 14, 2010 
+					</info>
+        </entry>
+        <entry>
+          <title>Kandinsky on "art for art's sake"</title>
+          <link>https://sonnetsincolour.org/2014/12/kandinsky-on-art-for-arts-sake/</link>
+          <info>
+						By Elena Maslova-Levin
+						&lt;br&gt;
+						sonnetsincolour.org 
+						&lt;br&gt;
+						December 25, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Aesthetic Movement</title>
+          <link>https://www.theguardian.com/artanddesign/2011/mar/26/aestheticism-exhibition-victoria-albert-museum</link>
+          <info>
+						By Fiona MacCarthy
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						March 26, 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art vs. aestheticism: the case of Walter Pater</title>
+          <link>https://newcriterion.com/issues/1995/5/art-vs-aestheticism-the-case-of-walter-pater</link>
+          <info>
+						By Roger Kimball
+						&lt;br&gt;
+						New Criterion 
+						&lt;br&gt;
+						May 1995
+					</info>
+        </entry>
+        <entry>
+          <title>What Is Tonalism? (12 Essential Characteristics)</title>
+          <link>https://www.artsy.net/article/david-adams-cleveland-what-is-tonalism-12-essential-characteristics</link>
+          <info>
+						By David Adams Cleveland
+						&lt;br&gt;
+						Artsy 
+						&lt;br&gt;
+						July 10, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The Misty Mood of the Tonalists</title>
+          <link>https://www.nytimes.com/1997/04/25/arts/the-misty-mood-of-the-tonalists.html</link>
+          <info>
+						By Grace Glueck
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						April 25, 1997
+					</info>
+        </entry>
+        <entry>
+          <title>Pure Art, Pure Desire: Changing Definitions of 'L'art Pour L'art' from Kant to Gautier</title>
+          <link>https://www.jstor.org/stable/25602139?seq=1</link>
+          <info>
+						By Margueritte Murphy
+						&lt;br&gt;
+						Studies in Romanticism 
+						&lt;br&gt;
+						Bol. 47, no. 2, 2008, pp. 147-160. 
+					</info>
+        </entry>
+        <entry>
+          <title>The Beginnings of l'Art Pour l'Art</title>
+          <link>https://www.jstor.org/stable/426457?seq=1</link>
+          <info>
+						By John Wilcox 
+						&lt;br&gt;
+						The Journal of Aesthetics and Art Criticism 
+						&lt;br&gt;
+						Vol. 11, no. 4, 1953, pp. 360-377
+					</info>
+        </entry>
+        <entry>
+          <title>INDIVIDUALISM: Art for Art's Sake, or Art for Society's Sake?</title>
+          <link>http://users.rowan.edu/~clowney//Aesthetics/Gablik1.htm</link>
+          <info>
+						By Suzi Gablik 
+					</info>
+        </entry>
+        <entry>
+          <title>Ideas in Transmission: LeWitt's Wall Drawings and the Question of Medium</title>
+          <link>https://www.tate.org.uk/research/publications/tate-papers/14/ideas-in-transmission-lewitt-wall-drawings-and-the-question-of-medium</link>
+          <info>
+						By Anna Lovatt
+						&lt;br&gt;
+						Tate Papers 
+						&lt;br&gt;
+						No.14, Autumn 2010
+					</info>
+        </entry>
+        <entry>
+          <title>The Red Rag</title>
+          <link>https://arthistoryproject.com/artists/james-mcneill-whistler/the-red-rag/</link>
+          <info>
+						By James McNeill Whistler
+						&lt;br&gt;
+						Obelisk 
+						&lt;br&gt;
+						1878
+					</info>
+        </entry>
+        <entry>
+          <title>Artists v critics, round one</title>
+          <link>https://www.theguardian.com/culture/2003/jun/26/artsfeatures</link>
+          <info>
+						By Jonathan Jones 
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						June 26, 2003
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Historical Avant-Garde from 1830 to 1939: l'art pour l'art, blague, and</title>
+          <link>https://modernismmodernity.org/articles/singsen-historical-avantgarde</link>
+          <info>
+						By Doug Singsen 
+						&lt;br&gt;
+						Gesamtkunstwerk 
+						&lt;br&gt;
+						August 30, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Théophile Gautier: Posthuman Decadence and the Philosophy of Closure</title>
+          <link>https://socialecologies.wordpress.com/2015/08/30/theophile-gautier-decadence-and-the-philosophy-of-closure/</link>
+          <info>
+						Dr. Rinaldi's Horror Cabinet
+						&lt;br&gt;
+						August 30, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Living Up To One's Teapot: Oscar Wilde, Aestheticism and Victorian Satire</title>
+          <link>https://blog.nms.ac.uk/2016/03/23/living-up-to-ones-teapot-oscar-wilde-aestheticism-and-victorian-satire/</link>
+          <info>
+						By Dr. Sally-Anne Huxtable 
+						&lt;br&gt;
+						National Museums Scotland
+						&lt;br&gt;
+						March 23, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>An Introduction to the Aesthetic Movement</title>
+          <link>https://www.vam.ac.uk/articles/an-introduction-to-the-aesthetic-movement</link>
+          <info>
+						Victoria and Albert Museum
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Dangerous Ideas</title>
+          <link>http://www.telos.tv/dangerous-ideas/</link>
+          <info>
+						By Tom Ball
+						&lt;br&gt;
+						telos tv 
+						&lt;br&gt;
+						October 27, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Aesthetic Movement 1860-1900</title>
+          <link>https://www.youtube.com/watch?v=X9tTGO__PnQ</link>
+          <info>
+						Victoria and Albert Museum
+						&lt;br&gt;
+						March 26, 2019
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

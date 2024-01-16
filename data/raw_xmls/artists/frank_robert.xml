@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>frank_robert</id>
+    <name>Robert Frank</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1944-2004</years>
+    <description>Robert Frank's seminal The Americans book, regarded to this day as one of the most influential photography projects of the 20th century.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>Swiss-American</nationality>
+    <occupation>Photographer and Filmmaker</occupation>
+    <birthDate>November 9, 1924</birthDate>
+    <birthPlace>Zurich, Switzerland</birthPlace>
+    <deathDate>September 9, 2019</deathDate>
+    <deathPlace>Inverness, Canada</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <art_type>Photography</art_type>
+    <hideAds>true</hideAds>
+    <pub_time>5/4/2018</pub_time>
+	<img_version>?1</img_version>
+  </main>
+  <includes>
+    <include>documentary_photography</include>
+    <include>street_photography</include>
+    <include>straight_photography</include>
+    <include>avant_garde_film</include>
+  </includes>
+  <similar_movements>
+    <movement>documentary_photography</movement>
+    <movement>street_photography</movement>
+    <movement>straight_photography</movement>
+    <movement>photojournalism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>arbus_diane</artist>
+    <artist>shore_stephen</artist>
+    <artist>winogrand_garry</artist>
+    <artist>brassai</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Photography can reveal so much. It's the invasion of the privacy of the people."</q>
+    <q>"What I have in mind, then, is observation and record of what one naturalized American finds to see in the United States that signifies the kind of civilization born here and spreading elsewhere."</q>
+    <q>"I felt like a detective or a spy. Yes! Often I had uncomfortable moments. Nobody gave me a hard time, because I had a talent for not being noticed."</q>
+    <q>"I think private moments make the interesting picture."</q>
+    <q>"It was logical for me to get off doing still photography after becoming a success at it. I think it would just become a repeat - I would repeat myself."</q>
+    <q>"Anybody who is going to be an artist has to be curious. He's got to go out and do his own thing. If you talk to a student, and the student is any good, has any guts, he will not do what you tell him."</q>
+    <q>"A wife can stop loving you; photography? I loved it, spent my talents and energy on it, I was committed to it; but when respectability and success became part of it, then it was time to look for a new mistress or wife."</q>
+  </quotes>
+  <authors>
+    <author link="dias">Sarah Frances Dias</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Robert Frank came to artistic eminence following the publication of his seminal book &lt;i&gt;The Americans&lt;/i&gt; which is regarded to this day as one of the most influential photography projects of the 20th century. Frank became associated with the so-called 'Beat Circle', a group of poets, writers and artists - beatniks - who exemplified the apolitical, free-form spirit of post-war American existentialism. Having made his living as a commissioned commercial photographer, but left feeling frustrated artistically in that role, Frank took his 35mm camera onto the streets and highways of America where he honed his highly influential style of wandering, observational photography. Frank shunned the principle of balanced compositions in favor of crooked, grainy high contrasts in black and white and his revolutionary approach to his subjects was to prove decisive in the development of a more authentic reportage photography. In later years Frank found critical success as an underground moviemaker and his work generally took on a more personal, even spiritual, dimension. In its 2015 career retrospective article, the &lt;i&gt;New York Times&lt;/i&gt; introduced Frank as 'the most influential photographer alive'.</synopsys>
+    <key_ideas>
+      <idea>Before the publication of &lt;i&gt;The Americans&lt;/i&gt;, the 'official' photographic art remained the province of a small number of elite American museums. With &lt;i&gt;The Americans&lt;/i&gt; Frank had managed to initiate a seismic shift in attitudes towards art photography. To virtuosic effect, Frank used his camera to capture an unvarnished and unguarded cross-section of American society, and in so doing, he brought a new sense of liberation to the photographic medium. Indeed, Frank's pioneering work challenged many of his contemporaries to question the established rules of balanced photogenic composition and to rethink the very possibilities for photography as a socially relevant and dynamic medium.</idea>
+      <idea>To Frank's way of thinking, a &lt;i&gt;true&lt;/i&gt; artist had to be both intuitive and "somehow enraged" and, as such, his goal was to capture through his lens ways in which his environment has affected him on a personal level. Indeed, for many critics Frank had succeeded where others had failed by representing, not only the ordinary lives of his subjects, but also by revealing something of the soul. As the &lt;i&gt;New York Times&lt;/i&gt; art critic Nicholas Dawidoff put it: "Frank's gift was to transcend reportage and tell [the spectator] something about the condition - how oppression felt."</idea>
+      <idea>As an adopted member of the New York (Greenwich) Beat community, Frank embraced the ‘hip’ ideology of a self-styled group who were well represented in American literature – through the likes of Alan Ginsberg, Jack Kerouac, Peter Orlovsky, and William Burroughs – but, just as the creative writers had taken their inspiration from jazz music and Abstract Expessionism so Frank found a way to apply the amorphous freestyle aesthetic to the photographic arts too.</idea>
+      <idea>Having forthrightly declared his disdain for sentimentality (and political ideology for that matter) in fine art, Frank's dispassionate wandering topography of his adopted nation had effectively set a brand-new standard in street photography and Frank, by general agreement, assumed the mantle of Father of modern documentary portraiture. Yet &lt;i&gt;The Americans&lt;/i&gt; has retained its power because Frank sought a further – higher (one might say) - meditative dimension to his work. He achieved this feat by coupling images of everyday American society with inanimate signs of consumer culture and the modern American architecture and landscapes. The spectator was therefore challenged to look at &lt;i&gt;The Americans&lt;/i&gt;, not as social critique (necessarily), but as a whole; that is, to make sense of the collected images through poetic and conceptual relations.</idea>
+      <idea>Frank demonstrated his willingness to test his creative range soon after the publication of &lt;i&gt;The Americans&lt;/i&gt; when he moved into independent filmmaking. Still driven by the impulse to upset conventions, to challenge norms, and while maintaining his preference to represent the lives of "risky people who walked the edge of the road", Frank made films in a spontaneous, drifting style that was to become a hallmark of the sixties filmic avant-garde. Indeed, Frank's long-time editing assistant, Laura Israel described his "out of sync" films as "near random collages", though according to Israel, Frank himself never achieved total fulfillment through his movies.</idea>
+    </key_ideas>
+    <sections>
+			<section title="Biography">
+				<subsection title="Childhood">
+					<p type="p">Robert Frank, the younger of two brothers, was born in Zurich in 1924 to a Swiss mother and a German-Jewish father. On the one hand, Switzerland had been spared the physical oppressions of Nazi occupation, and speaking of his adolescence, Frank would happily recall how he had dodged paying fares on the city streetcars "never worried about being caught by inspectors" (because Zurich was "rich enough"). On the other, Frank spoke of being raised in a "sad household": firstly, because radio news bulletins were constantly reporting stories of Hitler "cursing the Jews" (with the result that he just "couldn't turn off the voice" of antisemitism); and secondly, because the young Robert came to feel let-down by avaricious parents for whom making money "became the most important thing in order for them to feel good". However, father Hermann would complement his business acumen with an enthusiasm for amateur photography and his “Sunday” hobby rubbed off on a seventeen-year-old Frank who took up an apprenticeship with a photographic studio in Zurich.</p>
+					<p type="p">Frank later claimed that it was his parents' "negative influence" that led him to want to "get away" from Zurich altogether and in 1947 he arrived in Queens, New York (following a short spell in Paris) where he was welcomed by an extended family member. Soon thereafter Frank was taken to Times Square where the busy movement and preoccupations of ordinary people going about their daily business formed a striking contrast to the conservative cafe society in which he had grown up. Indeed, Frank cites the visit to Times Square as the catalyst for his observational style of street photography. "Coming to America felt like the door opened - you were free" he declared.</p>
+				</subsection>
+				<subsection title="Early Period">
+					<p type="img" alt="In April 1955, Frank used his winnings from a Guggenheim Fellowship award to purchase a Ford Business Coupe, similar to the one shown here, and drove it on a 10,000-mile trip around the United States during which he shot his most famous photographic series, &lt;i&gt;The Americans&lt;/i&gt;." show="1">/images20/photo/photo_frank_robert_5.jpg</p>
+					<p type="p">On winning a prestigious Guggenheim Fellowship award in April 1955, Frank invested in a five-year-old Ford Business Coupe and embarked on the 10,000-mile cross-country road trip that would eventually yield &lt;i&gt;The Americans&lt;/i&gt;. Frank arrived back in New York City a year later; his odyssey having returned some 27,000 images from which just 83 made the finished book. Christened 'The Swiss Mister' by Photo Arts magazine, critics of the book accused Frank of being “un-American” (Frank was given American citizenship in 1963) and &lt;i&gt;The Americans&lt;/i&gt; itself little more than a “sad poem for sick people”. </p>
+					<p type="img" alt="Frank was drawn in by the literary “Beat” community, and befriended Beat poet and writer Allen Ginsberg, pictured here in 1979." show="1">/images20/photo/photo_frank_robert_6.jpg</p>
+					<p type="p">Frank did not seek to use his camera as a political weapon - "There is only one thing you should not do, criticize anything" Frank stated in a letter home to his parents - but rather to employ it as a tool for detached observation. As Antony Lane of The New Yorker put it: “Frank didn't set out to address an issue; he was just looking, and reporting back. That is what realists do. That is what [made] him so clear and incontestable a witness”. Similarly, curator Sarah Greenough has recognized that &lt;i&gt;The Americans&lt;/i&gt; “encouraged a new generation of photographers to literally take road trips in homage, to try to do what Frank did, which is to […] reveal what he thought was the strengths and beauty of the country, but also its issues”.</p>					
+					<p type="p">Indeed, at this time Frank embraced the ideology of the Beat community that sought to communicate their dissatisfaction with American cultural norms through improvised and rhythmic creative statements. Frank later recalled that it had felt "wonderful to fall in with a group like that" while singling out the poet Allen Ginsberg for special praise: "Ginsberg was a real prophet. He saw a different, more accepting America" said Frank.</p>
+					<p type="p">Frank's subjects were not always restricted to New York City and, in keeping with the “Beat” vision of the artist as existential wanderer, Frank took his camera into forgotten rural areas too. By the end of the decade his artistic vision had taken him away from America altogether, back to various locations in Europe, and to South America where he took an especial interest in the Peruvian landscape. On his return to New York (in 1950) Frank made the acquaintance of Edward Steichen, the prominent American and Luxembourgish photographer, artist, and museum curator. Steichen had already established his credentials as a member of the Photo-Secession group (with colleagues Alfred Stieglitz, Clarence H. White, and Gertrude Käsebier) whose collective goal it was to promote photography as fine art. Steichen became Frank's friend and mentor, and he helped Frank gain full acceptance within the artistic community as part of the group show “51 American Photographers” at the Museum of Modern Art (MOMA) in New York.</p>
+				</subsection>
+				<subsection title="Mature Period">
+					<p type="p">Shortly after the MOMA exhibition, Steichen pushed Frank to become more emotionally engaged with his subjects: "It seems to me that you are ready now to begin probing beyond environment into the soul of man" he advised. Having enjoyed a second short spell in Paris, and while he continued in his role as a freelance commercial photographer for the likes of &lt;i&gt;Vogue&lt;/i&gt; and &lt;i&gt;Fortune&lt;/i&gt;, Frank also fell under the influence of Walker Evans whose impassive “Atget-like” approach to his subjects in fact jarred with the poetic visions being endorsed by Steichen. Despite their different outlooks, the two men formed a close bond and Frank learned from Evans to be a little more reflexive when approaching his subject-matter.</p>
+					<p type="p">Frank believed that great artists should never repeat themselves and he found a new form of expression in movie making. In total, Frank made some thirty underground films of varying length, though his most infamous film, the candidly titled &lt;i&gt;Cocksucker Blues&lt;/i&gt;, was a feature-length “fly-on-the-wall” documentary that followed the Rolling Stones while the British group toured America in 1972. The project had presented Frank with an opportunity to connect with a more mainstream audience, but given that he chose to focus less on concert performance and more on the tedium of touring - the boredom being broken with an orgy on a plane, heroin use, and group in-fighting - &lt;i&gt;Cocksucker Blues&lt;/i&gt; came up short as a viable commercial enterprise. Indeed, the film failed to secure a theatrical release because the group's management, especially uncomfortable with the scenes of group sex and drug abuse, feared legal repercussions. In general, however, Frank's films could reveal a more intimate, introspective nature with titles like &lt;i&gt;Me and My Brother&lt;/i&gt; representing a cine-meditation on the themes of love, family, and mental illness. In offering a digest of his career as a filmmaker, Israel, both an assistant to Frank and an independent filmmaker in her own right, championed his "jagged and elliptical" style that subverted "precepts of genre, story, and technique" and which would often feature "abrupt shifts from documentary to fiction, from color to black and white" (not to mention the technique whereby some of the "same frames [would] appear in more than one movie").</p>
+				</subsection>
+				<subsection title="Late Period and Death">
+					<p type="img" alt="Following the controversy surrounding his film &lt;i&gt;Cocksucker Blues&lt;/i&gt;, Frank acquired a second home in the quaint, picturesque rural community of Mabou, on Cape Breton Island, Nova Scotia, Canada, where he lived for most of the year, every year, until his death." show="1">/images20/photo/photo_frank_robert_7.jpg</p>
+					<p type="p">In 1973 Frank established a second home in the barren landscape of Mabou, Nova Scotia ("I fled to Nova Scotia. I just wanted to be left alone" he said following the &lt;i&gt;Cocksucker Blues&lt;/i&gt; debacle). Though he continued to move between Mabou and New York, Frank's instinct was to all but retreat from the public eye, claiming that his style of reportage photography was “old” and that there was “no point in it anymore”. However, in later years Frank continued to experiment with the theme of autobiography as he moved between filmmaking and different photographic formats, often creating multiple images with text scratched onto the negative or print. His later films and photographs featured in a number of solo exhibitions – including "Robert Frank: Moving Out” at the National Gallery of Arts in 1994 and "Robert Frank Storylines” at Tate Modern in 2004 - and, though generally ambivalent towards honors and awards, Frank travelled to Europe in 2004 to accept the prestigious Roswitha Haftmann Prize for lifetime achievement in 2004, and in 2009 he accepted an honorary degree from the Nova Scotia College of Art and Design. </p>
+					<p type="p">2004 was the year that Frank took a step back from photography, saying “The kind of photography I did is gone. It’s old. There’s no point in it any more for me, and I get no satisfaction from trying to do it. There are too many pictures now. It’s overwhelming”. However he did continue exhibiting and curating In his final years, Frank lived with his second wife, sculptor June Leaf (whom he met in 1968 and married in 1975), between their home in Mabou and the building they owned in the Bowery district of New York. Tragically, his two children from his first marriage to visual artist Mary Lockspeiser (a marriage that lasted from 1950 to 1969), daughter Andrea and son Pablo, died years earlier: Andrea in a 1974 plane crash in Guatemala, and Pablo in 1994 due to suicide, following years of battling schizophrenia. Frank passed away, due to natural causes, on September 9, 2019, at Inverness Consolidated Memorial Hospital in Nova Scotia.</p>
+				</subsection>
+				<subsection title="Legacy">
+					<p type="p">Though well respected for his commercial work for the likes of &lt;i&gt;Harper's Bazaar&lt;/i&gt;, &lt;i&gt;Vogue&lt;/i&gt;, and &lt;i&gt;Fortune&lt;/i&gt;, Frank's legend was built on his reportage photography - &lt;i&gt;The Americans&lt;/i&gt; especially - and to a lesser degree his movies. His still photography influenced a number of luminaries working in the field, or related field, of reportage and documentary. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruscha_ed"&gt;Ed Ruscha&lt;/span&gt; photographs of desolate gas stations for instance continued a subject explored by Frank in &lt;i&gt;The Americans&lt;/i&gt; (and before Frank, even, by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hopper_edward"&gt;Edward Hopper&lt;/span&gt;) while Bruce Davidson claimed that he had “inherited the molecules” of Frank (along with those of Eugene Smith and Henri Cartier-Bresson).</p>
+					<p type="p">Photography historian Philip Gefter notes that Frank “may well have been the unwitting father of what became known in the late 1960s as ‘the snapshot aesthetic,’ a personal offhand style that sought to capture the look and feel of spontaneity in an authentic moment,” adding that his pictures “had a profound influence on the way photographers began to approach not only their subjects but also the picture frame”. For his part, American street photographer Garry Winogrand, while in awe of &lt;i&gt;The Americans&lt;/i&gt;, and in acknowledging Frank's impact on the developing of his own “snapshot aesthetic”, felt that Frank's book had ignored "the emergence of suburbia" and as such several commentators, including Richard B. Woodward, saw Winogrand's career in part as "a completion" of &lt;i&gt;The Americans&lt;/i&gt;; an attempt, in Woodward's words, "to fill in pages of the post-war picture story that Frank's masterpiece had left blank".</p>
+					<p type="p">Frank's involvement with the Beat Circle, and his subsequent move into underground filmmaking, meanwhile, was to anticipate the emergence of the personal and playful New American Cinema that screamed its opposition to Hollywood, and “straight” society in general, during the sixties. Indeed, Frank is held in esteem by more contemporary independent directors such as Jim Jarmusch, who admired his films because they did not "satisfy certain narrative conventions”, and Richard Linklater, who spoke of the “tremendous range of a restless, searching artist pushing the boundaries of the documentary, experimental and more traditional narrative forms’’.</p>
+				</subsection>
+			</section>
+		</sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="cartier_bresson_henri">Place de l'Europe Gare Saint Lazare (1932)</artwork>
+    <artwork from="artist" page="evans_walker">Roadside stand near Birmingham, Alabama (1936)</artwork>
+    <artwork from="artist" page="ruscha_ed">Twenty Six Gasoline Stations (1962)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Untitled</title>
+      <year>1952</year>
+      <materials>Photograph on paper</materials>
+      <desc>This early work predates &lt;i&gt;The Americans&lt;/i&gt; and demonstrates Frank's predilection for pictorial juxtapositions. &lt;i&gt;Untitled&lt;/i&gt; shows a lone businessman (or a salesman) walking through a park (London probably) immersed in a white fog. The image was featured in &lt;i&gt;Black and White Things&lt;/i&gt;, a handcrafted book designed by Frank's friend, Werner Zryd. Published in 1952 while Frank was in Zurich, the book (initially only three copies were produced) featured photographs taken by Frank on his early travels abroad. &lt;i&gt;Black and White Things&lt;/i&gt; was forwarded with a quotation by Antoine de Saint-Exupéry which read: "It is only with the heart that one can see rightly/what is essential is invisible to the eye". Promoting thus the principle of pictorial narrative as 'aesthetic experience', the book was divided into three sections: 'black', 'white', and 'things'. "Untitled' appears in the 'white' section next to ostensibly unconnected images including Frank's new-born child and Peruvian peasants. What fixed the subjects in this section was not then the subject matter so much as an aesthetic association: the 'white' aura providing a fitting hue for what Frank called "quiet people and peaceful places". &lt;i&gt;Black, White and Things&lt;/i&gt; was later republished as a whole in 1994 in conjunction with an exhibition of his work at the &lt;i&gt;National Gallery&lt;/i&gt; in Washington, D.C.</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Trolley - New Orleans</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>Used for the cover of &lt;i&gt;The Americans&lt;/i&gt;, &lt;i&gt;Trolley - New Orleans&lt;/i&gt; (taken, incidentally, four days after a 'conspicuous behavior' arrest for having alcohol in his car) effectively announced Frank's intention to document the lives of ordinary American people; a search for a pictorial essence of present-day American life using only available light and shade. However, though now accepted as his &lt;i&gt;magnum opus&lt;/i&gt;, and indeed despite its formidable introduction by Jack Kerouac, &lt;i&gt;The Americans&lt;/i&gt; (the book was in fact published in France in 1958, the year before it was available in the United States) was criticized in prestige journals and magazines (such as &lt;i&gt;Life&lt;/i&gt;) for its "drunken horizons" and its focus on "wart-covered" America. Frank saw himself however in the role of a contemporary &lt;i&gt;flâneur&lt;/i&gt;, recording modern life while going unseen and un-noticed and commenting indeed that he often "felt like a detective or a spy". In this image, Frank managed to encapsulate, through the blank emotions of 'unremarkable' people, a nation caught up in the frictions between post war American optimism and the realities of race relations and working-class life.</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>New York City</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				While working on assignments for &lt;i&gt;Harper's Bazaar&lt;/i&gt;, Frank made the acquaintance of the Russian art director and photographer, Alexey Brodovitch and it was the Russian who encouraged Frank's to pursue his goal of developing a new and authentic photographic art. Brodovitch urged his mentee to take greater risks in his work and emboldened Frank to 'unlearn' the studio practices he had learned since his time as an apprentice in Switzerland. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;New York City&lt;/i&gt; captures a group of striking white workers on a New York sidewalk. We can see in the foreground a working-class African-American man slouched against a trashcan. He appears to be carrying a giant American flag - something of a motif throughout &lt;i&gt;The Americans&lt;/i&gt; project - though on closer inspection we realize that this is in fact an optical illusion. The 'flagbearer's' demeanour - arms folded across his chest, his gaze turned towards an object or events outside the frame, and away from the protesters - suggests an indifference towards the plight of the white workers. Though the subjects belong to the same social class, the image alludes to a contradiction by presenting a picture of a conflicted ethnic society rather than that of 'one nation' united under the same flag. 
+			</desc>
+      <collection>Cantor Center for Visual Arts, Stanford University</collection>
+    </artwork>
+    <artwork>
+      <title>Charleston, South Carolina</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>As a Swiss émigré, Frank had been fascinated by the contrasts he found in this vast and alien land; especially in the Southern states. Frank had become absorbed with the topic of status and race and the theme of people who live on the margins was to become central to his goal of producing a comprehensive picture of America's socio-economic conditions in &lt;i&gt;The Americans&lt;/i&gt;. In &lt;i&gt;Charleston, South Carolina&lt;/i&gt; he encapsulated the schisms of privilege though the image of a white baby being held in the protective arms of African-American nanny. Though any precise meaning remains deliberately elusive, the image presents the picture of an underlying American 'condition' that questioned the reality behind the 'American dream'. Whatever one's personal response to the image, we can certainly appreciate &lt;i&gt;Charleston, South Carolina&lt;/i&gt; as one part of the bigger &lt;i&gt;Americans&lt;/i&gt; project which was, according to historian Robert Hirsch, to include a complete vision of "alienation, loneliness and spiritual desolation".</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>U.S. 285, New Mexico</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				Frank had been inspired by the work of Walker Evans, and especially his photographs of battered American highways. While Frank's main objective with &lt;i&gt;The Americans&lt;/i&gt; was to document the everyday existence of the American people, &lt;i&gt;U.S. 285, New Mexico&lt;/i&gt; represents a more poetic facet to the book while managing to preserve its overarching themes of desolation and loneliness. 
+				&lt;br/&gt;&lt;br/&gt;
+				Frank attracted criticism because of his willingness to challenge the established rules governing documentary photography and the same could be said for his treatment of landscapes. In his effort to promote a new understanding of photography as art, he presented unbalanced compositions through high contrasts of black and white - "Black and white is the vision of hope and despair. That is what I want in my photographs" he proclaimed - and as such one can see how this worldview can be traced across his reportage and landscape photographs too. 
+			</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Santa Fe, New Mexico</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				Through &lt;i&gt;Santa Fe, New Mexico&lt;/i&gt;, another of his 'road' photographs, Frank contradicted the picture of an urbane America he had helped to promote through his commercial work. Here, Frank used his 35mm &lt;i&gt;Leica&lt;/i&gt;, the camera of choice amongst the wandering Beat Generation, to represent a hidden, lonely vista of the Southern State. &lt;i&gt;Santa Fe, New Mexico&lt;/i&gt; shows us an abandoned gas station set against a desert wilderness, the gas pump 'figures' allowing one to recall perhaps the theme of human desolation as explored by the likes of Edward Hopper in his famous 1940s painting &lt;i&gt;Gas&lt;/i&gt;. 
+				&lt;br/&gt;&lt;br/&gt;
+				Frank's photography of this period often sat within the sphere of social commentary yet here 'the Americans'' relationship with their imposing landscapes lends the image a certain Romantic theme. The word 'SAVE', moreover, written in bold capitals across a billboard that stands high over the pumps, tempts further speculations of a symbolic and contemplative nature that would become the more dominant aspect in Frank's later work. 
+			</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>U.S. 90, En Route to Del Rio, Texas</title>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				This photograph shows Frank's wife Mary and his son, Pablo, in their car, captured through the windshield. We see here a prime example of the unbalanced, grainy compositions that had drawn condemnation from conservative commentators who took a dislike to Frank's divergence from professional photographic conventions. 
+				&lt;br/&gt;&lt;br/&gt;
+				The photograph was taken when Frank's family joined him (in Texas) though he bemoaned their arrival as something of a creative inconvenience: "You go out, you're gone. You come back, you're tired. You've hunted for pictures. You want peace" he said. Indeed, when compared to the other images in the book, Frank considered this a personal picture since it captured his mood of 'melancholy' and 'sentimentality'; emotions he had been trying to avoid for the objective &lt;i&gt;The Americans&lt;/i&gt; project ("I try to get out of sentiment's way when it comes near me"). Nevertheless, &lt;i&gt;U.S. 90, En Route to Del Rio, Texas&lt;/i&gt;, the final image in &lt;i&gt;The Americans&lt;/i&gt;, provided a most fitting image by which to bring his famous road trip to its conclusion. 
+			</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Frames from Pull My Daisy</title>
+      <year>1959</year>
+      <materials/>
+      <desc>
+				For his first movie, &lt;i&gt;Pull My Daisy&lt;/i&gt;, Frank was to collaborate with other associates of the Beat Circle. Adapted (and narrated by him) for screen from the third act of Kerouac's unfinished play &lt;i&gt;Beat Generation&lt;/i&gt;, &lt;i&gt;Pull My Daisy&lt;/i&gt; was co-directed by Frank and Alfred Leslie and starred Allen Ginsberg, Gregory Corso, and Peter Orlovsky. In the film, a group of beatniks gather (as they have been inclined to do) one evening in the apartment of Milo, a railroad worker, and Beltiane, his painter wife. The couple are visited by a Bishop and members of his family. This visit provides the spur for the beatniks to pontificate on the virtues of the existential 'Beat' philosophy. 
+				&lt;br/&gt;&lt;br/&gt;
+				In keeping with the ideals of improvisation and spontaneity, the film was widely celebrated for its expressive authenticity. In this respect, &lt;i&gt;Pull My Daisy&lt;/i&gt; preempted the American Underground movement that gained notoriety within the New York artist community in the early 1960s. However, unlike the Underground movement, which was fully committed to self-reflexive, spontaneous (sexual) expression, &lt;i&gt;Pull My Daisy&lt;/i&gt; was, as Leslie later revealed, carefully planned, rehearsed and had even made use of a professional lighting set up. 
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>For the Glory of Wind and Water</title>
+      <year>1976</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				The self-titled image shows the horizon of the open ocean behind a suspended frame on which the words 'For the Glory of Wind and Water' have been hand-written on a transparent surface. Produced in 1976, the photograph represents Frank's mature period which was shaped in part by the death of his daughter (in a plane crash in 1974) and his son's mental and physical health problems (he was to commit suicide in 1994). Frank's earlier American works would often give a voice to the outsider but here we see evidence of his poetic retreat towards a higher emotional feeling of existence; one that strives only to affect a contemplative and introspective mood in the spectator. 
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, Critic Nicholas Dawidoff, citing W.S. Di Piero, argued that Frank's 'genius for expressing emotional complication came from an artistic innocence' while Di Piero could only marvel at Frank's 'ability to look at the world as a child does - without the intrusions of experience"'. When viewed from this perspective, Dawidoff argued that the 'inner simplicity' of &lt;i&gt;For the Glory of Wind and Water&lt;/i&gt; showed his world in 'a new light' and in so doing brought about a feeling of 'emotional complication' in the spectator; what fellow photographer Paul Graham suggested might be "a yearning in us all to find meaning and a pattern, a form to life". 
+			</desc>
+      <collection>Pace/MacGill Gallery</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>evans_walker</entity>
+        <entity>brandt_bill</entity>
+        <entity>brodovitch_alexey</entity>
+        <entity>steichen_edward</entity>
+        <entity>cartier_bresson_henri</entity>
+      </column>
+      <column>
+        <entity>kerouac_jack</entity>
+        <entity>ginsberg_allen</entity>
+        <entity alt="Ornette Coleman">coleman_ornette</entity>
+      </column>
+      <column/>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Jerry de Wilde">de_wilde_jerry</entity>
+        <entity>ruscha_ed</entity>
+        <entity>wall_jeff</entity>
+        <entity alt="Bruce Davidson">davidson_bruce</entity>
+        <entity>winogrand_garry</entity>
+      </column>
+      <column>
+        <entity alt="Jim Jarmusch">jarmusch_jim</entity>
+      </column>
+      <column/>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"/>
+    <category name="where to see works"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Black and White Things</title>
+          <link>3865218083</link>
+          <info>By Robert Frank</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Americans</title>
+          <link>386521584X</link>
+          <info>By Robert Frank</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Lines on My Hands</title>
+          <link>3958293204</link>
+          <info>By Robert Frank</info>
+        </entry>
+        <entry recommended="true">
+          <title>Looking In: Robert Frank's The Americans: Expanded Edition</title>
+          <link>3865218067</link>
+          <info>By Sarah Greenough</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"/>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="artworks" class="artwork"/>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Robert Frank at International Center of Photography </title>
+          <link>https://www.icp.org/browse/archive/constituents/robert-frank?all/all/all/all/0</link>
+          <info/>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Robert Frank at 90: The Photographer Who Revealed America Won't Look Back</title>
+          <link>https://www.theguardian.com/artanddesign/2014/nov/07/robert-frank-americans-photography-influence-shadows</link>
+          <info>
+						By Sean O'Hagan (Critic)
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						November 7, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Man Who Saw America</title>
+          <link>https://www.nytimes.com/2015/07/05/magazine/robert-franks-america.html?search-input-2=the+man+who+saw+america</link>
+          <info>
+						By Nicholas Dawidoff (Critic)
+						&lt;br&gt;
+						New York Times Magazine 
+						&lt;br&gt;
+						July 5, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The Americans: Robert Frank's Legendary Photographs Head to Auction</title>
+          <link>https://www.theguardian.com/artanddesign/2015/dec/15/robert-frank-the-americans-auction</link>
+          <info>
+						By Jordan Riefe (Film Critic)
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						December 15, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The journey of Robert Frank's "The Americans"</title>
+          <link>https://www.newyorker.com/magazine/2009/09/14/road-show</link>
+          <info>
+						By Antony Lane
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						September 14, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Bruce Davidson's 'encounters with the invisible</title>
+          <link>https://www.nytimes.com/2007/02/28/arts/28iht-blume.4748533.html</link>
+          <info>
+						By Mary Blum
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						February 28, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Garry Winogrand, Robert Frank, and Suburban America</title>
+          <link>https://collectordaily.com/garry-winogrand-robert-frank-and-suburban-america/</link>
+          <info>
+						By Richard B. Woodward
+						&lt;br&gt;
+						Collector Daily 
+						&lt;br&gt;
+						August 13, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Walker Evans and Robert Frank: An Essay on Influence</title>
+          <link>http://www.americansuburbx.com/2010/07/theory-walker-evans-and-robert-frank.html</link>
+          <info>
+						By Tod Papageorge
+						&lt;br&gt;
+						Originally for Yale University Art Gallery 
+						&lt;br&gt;
+						1981
+					</info>
+        </entry>
+        <entry>
+          <title>A Mesmerizing Marathon of Robert Frank's Movies</title>
+          <link>https://www.newyorker.com/culture/culture-desk/a-mesmerizing-marathon-of-robert-franks-movies</link>
+          <info>
+						By Nicholas Dawidoff
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						July 12, 2016
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Pull my Daisy</title>
+          <link>https://vimeo.com/92403607</link>
+          <info>Documentary of the Beat Generation - Co-directed by Frank</info>
+        </entry>
+        <entry>
+          <title>Leaving Home, Coming Home: A Portrait of Robert Frank</title>
+          <link>https://www.youtube.com/watch?v=m7A__0u2tnw</link>
+          <info>
+						Director Gerald Fox's documentary that includes interviews 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Cover of the Rolling Stones album, Exile on Main Street (1973)</title>
+          <link>https://en.wikipedia.org/wiki/Exile_on_Main_St</link>
+          <info>Designed by Frank</info>
+        </entry>
+        <entry>
+          <title>Cocksucker Blues (1972)</title>
+          <link>http://www.imdb.com/title/tt0068389/</link>
+          <info>Documentary of Rolling Stones tour by Frank</info>
+        </entry>
+        <entry>
+          <title>Andrea Frank Foundation Website</title>
+          <link>http://andreafrankfoundation.com</link>
+          <info>An educationale organization started by Frank and June Leaf</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

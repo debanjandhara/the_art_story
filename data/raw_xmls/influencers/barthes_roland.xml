@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>barthes_roland</id>
+    <name>Roland Barthes</name>
+    <type>influencer</type>
+    <active_section>ideas</active_section>
+    <years>1936 - 1980</years>
+    <description>Roland Barthes is France's best-known essayist and literary critic and his Post-structuralism (or Deconstructionism) ideas have been wide-reaching and have had a profound impact on how we interpret artworks.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>French</nationality>
+    <occupation>Philosopher, Social Theorist, and Semiotician</occupation>
+    <birthDate>November 12, 1915</birthDate>
+    <birthPlace>Cherbourg, France</birthPlace>
+    <deathDate>March 26, 1980</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>Barthes crusade was to bring about a revolution in literary and cultural criticism: "Language is legislation, speech is its code", he wrote, and "We do not see the power which is in speech because we forget that all speech is a classification, and that all classifications are oppressive".</bio_highlight>
+    <pub_time>12/19/2021</pub_time>
+  </main>
+  <includes>
+    <include>structuralism</include>
+    <include>new_criticism</include>
+    <include>post_structuralism</include>
+    <include>postmodernism</include>
+  </includes>
+  <similar_movements>
+    <movement>the_pictures_generation</movement>
+    <movement>postmodernism</movement>
+    <movement>feminist_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>benjamin_walter</artist>
+    <artist>koons_jeff</artist>
+    <artist>lippard_lucy</artist>
+    <artist>levine_sherrie</artist>
+    <artist>sherman_cindy</artist>
+  </similar_artists>
+  <quotes>
+    <q>"Language is a skin: I rub my language against the other. It is as if I had words instead of fingers, or fingers at the tip of my words. My language trembles with desire."</q>
+    <q>"I am interested in language because it wounds or seduces me."</q>
+    <q>"I encounter millions of bodies in my life; of these millions, I may desire some hundreds; but of these hundreds, I love only one."</q>
+    <q>"We know that the war against intelligence is always waged in the name of common sense."</q>
+    <q>"How does meaning get into the image? Where does it end? And if it ends, what is there beyond?"</q>
+    <q>"Language is legislation, speech is its code. We do not see the power which is in speech because we forget that all speech is a classification, and that all classifications are oppressive."</q>
+    <q>"Man does not exist prior to language, either as a species or as an individual."</q>
+    <q>"I am simultaneously and contradictorily both happy and unhappy: 'to succeed' or 'to fail' have for me only ephemeral, contingent meanings (this does not stop my desires and sorrows from being violent ones); what impels me, secretly and obstinately, is not tactical: I accept and I affirm, irrespective of the true and the false, of success and failure; I am withdrawn from all finality, I live according to chance."</q>
+  </quotes>
+  <authors>
+    <author link="blair">Esme Blair</author>
+  </authors>
+  <article>
+    <synopsys>Roland Barthes is France's best-known essayist and literary critic. Although he only rarely turned his critical attention towards fine art (despite being a committed "Sunday painter" himself), his ideas have been wide-reaching and have had a profound impact on how we interpret artworks. Recognized initially for his use of semiology (the "science of signs") to dismantle the myths of mass culture, his position shifted in step with the anti-authoritarian mood of the sixties, and his short, but seminal, essay, "The Death of the Author", amounted to his fiercest assault on the rigid scholarly literary traditions he deplored. Barthes's ideas, expressed always through his own love of fragmented narratives and poetic language, gave rise to a malleable approach to cultural analysis that fitted perfectly with the new age of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodernism&lt;/span&gt; and its attendant &lt;span class="marked_text chart-tooltip-target-top tooltip_id-identity_politics"&gt;identity politics&lt;/span&gt;.</synopsys>
+    <key_ideas>
+      <idea>Barthes's single most significant essay was "The Death of the Author" (1967). Challenging the idea that what the author/artist said about their art was the definitive word on its meaning, he proposed rather that the individual viewer should be regarded as the author of the text and that it is she or he who brings their own - legitimate - meaning to the text (artwork). It gave rise to the idea of many credible "truths" (plural) over one "truth" (singular) and ushered in a period of critical analysis called post-structuralism.</idea>
+      <idea>Barthes made his name initially as a semiologist and was instrumental in the rise of French structuralism through the publication of his most famous single collection of essays, &lt;i&gt;Mythologies&lt;/i&gt; (1957). In it he brought together a disparate collection of examples from mass culture and used semiological analysis to deconstruct the chosen object/image/performance. By this means he claimed to have exposed the hidden ideological structures that were necessary to maintain the interests of the ruling (bourgeois) classes.</idea>
+      <idea>"The Death of the Author" provided impetus for many post-modernists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt;, and a group of New York based artists who became known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_pictures_generation"&gt;The Pictures Generation&lt;/span&gt;. Emerging in the mid-1970s, they were a loose affiliation, including the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sherman_cindy"&gt;Cindy Sherman&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-levine_sherrie"&gt;Sherrie Levine&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kruger_barbara"&gt;Barbara Kruger&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baldessari_john"&gt;John Baldessari&lt;/span&gt;, who, having taken their lead from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt;, reworked (or even just copied) existing imagery as a way of asking the viewer to call into question the two great cornerstones of modernist ideology: authenticity and artistic genius.</idea>
+      <idea>Barthes's so-called "new criticism" rankled with many of France's top literary scholars who discounted his writing as self-absorbed, deliberately opaque, and (therefore) lacking academic credibility. It was a reproach Barthes would have worn with pride given that his goal was to dismantle what he saw as the staid and unadventurous bourgeois conventions of "official" literary criticism.</idea>
+      <idea>Although he only rarely focused his critical attentions on art, Barthes did reserve praise for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;, and the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-twombly_cy"&gt;Cy Twombly&lt;/span&gt; because, in his view, both existed for-and-of themselves. Barthes was drawn to the idea that the aim of Pop Art was to rid the work of any meaning and, as such, it represented, in his words, a "revolutionary force which contests art". Similarly, Barthes liked the idea that Twombly's work was all about "gesture" (over content) and that Twombly's hand was guided, not by the intellect, but rather by "gestures", that being "the infant [in him] who does not speak".</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="img" alt="Roland in the arms of his beloved mother, Henriette." show="1">/images20/photo/photo_barthes_roland_1.jpg</p>
+          <p type="p">Roland Barthes was born into a middle-class family in Cherbourg, Normandy. His father, Louis Barthes, was a sub-lieutenant in the French Navy and died during the First World War after his ship was torpedoed in the English Channel. His death came before his son had reached his first birthday. Both bereaved and financially destitute, Roland's mother, Henriette, relocated with her son to the village of Urt in southwestern France to be closer to her in-laws. Roland was raised there primarily by his mother and paternal aunt and grandmother ("my family was essentially a feminine family" he later recalled).</p>
+          <p type="p">Barthes's father's family had deep seated cultural connections and interests. His paternal grandfather was, for instance, friends with the poet Paul Valéry while his aunt was a practicing piano teacher. Barthes too learned to play the piano and took a keen interest in poetry and reading. However, after several summer visits to his maternal grandmother's home in Paris, Henriette decided to relocate with her 11-year-old son to the French capital to be nearer her own mother.</p>
+          <p type="p">Barthes's move to Paris saw him acknowledged by the state as a war orphan (having been denied that status till now). As the mother of a war orphan, Henriette received state benefits which brought limited, but very welcome, financial support; especially so in light of Henriette's complicated family situation. Her parents were movers in France's colonial expansions, but despite her not inconsiderable wealth, Henriette's mother, Noémie Révelin, offered her daughter and grandson next-to-no financial assistance. The mother/daughter relationship only worsened when Henriette had a second son, Michel, with Andre Salzedo; a married painter and ceramicist from Southwestern France. Michel Salzedo later claimed that his grandmother likely refused to support his mother and half-brother because of her irrational envy of Henriette's good looks and Roland's advanced academic attainment. Michel joined his mother and half-brother from 1927, putting further strain on the family purse. Henriette took on extra work with a Parisian bookbinding business, but the family continued to struggle to make ends meet.</p>
+          <p type="p">In a 1977 interview with the "public intellectual" Bernard-Henri Lévy for the French weekly, &lt;i&gt;Le Nouvel Observateur&lt;/i&gt;, Barthes recalled: "[M]y childhood and adolescence were spent in poverty. There was often no food in the house. We had to go buy a bit of pâté or a few potatoes at a little grocery on the rue de Seine, and this would be all we'd have to eat. Life was actually lived to the rhythm of the first of the month, when the rent was due. And I had before me the daily spectacle of my mother working hard at bookbinding, a job for which she was absolutely unsuited. Poverty, at the time, had an existential contour that it perhaps no longer does, in France, not to the same extent".</p>
+          <p type="p">Barthes attended the Lycée Montaigne in Paris (which could claim Jean-Paul Sartre amongst its alumni). His education was interrupted in 1934, however, when he contracted tuberculosis. Although he spent long periods in a sanitorium (which saw him miss important exams) his academic potential was such that he still gained a scholarship, with the help of a written endorsement from Valéry, for the prestigious Sorbonne university where he studied classical literature. Although his education was interrupted by repeated bouts of ill health, he earned a certificate in classical letters and philology and became involved with Sorbonne's theatre troupe. With fascism on the rise in Europe, the troupe was, following the example being set by Berthold Brecht, exploring ways of using theater as a means of radical political activism.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="img" alt="The Saint-Hilaire-du-Touvet sanitorium, situated in the mountain range of the Dauphine Alps, where Barthes convalesced between 1941-44. The three abandoned and derelict buildings were destroyed between 2016-19." show="1">/images20/photo/photo_barthes_roland_2.jpg</p>
+          <p type="p">Barthes's repeated physical breakdowns meant he avoided being drafted and spent the duration of World War Two mostly confined to sanatoria. In 1941, on his twenty-sixth birthday, he suffered a serious pulmonary relapse that saw him admitted to the Saint-Hilaire-du-Touvet sanatorium near Grenoble in the French Alps. He would remain a patient there between 1941 and 1944 (only returning to Paris briefly later in 1942 for his teaching exams). Barthes's poor physical condition was compounded by a deep depression when his first lover, Michel Delacroix, died of tuberculosis shortly before Barthes entered Saint-Hilaire-du-Touvet. (Commenting on his sexuality, which he kept secret throughout his life, the historian Jeanne Willette writes, "[Barthes] was unfortunate enough to come of age at a time [when] homosexuality was not a public matter and spent his life in the closet, living with his only parent, his mother, his entire life. As he got older and became less attractive to the young men he desired, he declined to impose himself upon them. Barthes preferred a quiet life in the home he shared with his mother".)</p>
+          <p type="p">Barthes biographer Mireille Ribière notes that the Saint-Hilaire-du-Touvet sanatorium was "a model of its kind, for it was an establishment founded in 1933 by the National Union of Students to enable young patients to pursue their studies there while undergoing treatment [...] There were invited speakers and the patients themselves were encouraged to give presentations [...] Barthes enjoyed a great deal of prestige and lectured on the poetry of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Baudelaire&lt;/span&gt;, Whitman, Michaux and Valéry, as well as on music. There was also a students' magazine, &lt;i&gt;Existences&lt;/i&gt; to which he contributed several items between 1942 and 1945: film, concert and book reviews; a personal account of his trip to Greece with the Antique Drama Group of the Sorbonne in the summer of 1938; as well as articles drawing on his now extensive literary culture ranging from the Classics to Proust and Gide, as well as the latest publications by Jean-Paul Sartre and Albert Camus".</p>
+          <p type="p">In February 1945, Barthes, with several other Saint-Hilaire-du-Touvet patients, were transferred to the Clinique Alexandre at Leysin, in Switzerland. It was here that Barthes befriended Georges Fournié. It was friendship, notes Ribière, that "would prove decisive both intellectually and professionally. Barthes was nearly thirty years old at the time and had lived in a protective environment for much of his adult life", whereas Fournié "had joined a Trotskyist group to fight on the Republican side in the Spanish Civil War" and had been an active member of the French resistance, for which "he was arrested by the Gestapo in 1943, imprisoned in France and then deported to Germany" (he returned to France after the war, emaciated and suffering from tuberculosis).</p>
+          <p type="p">Ribière writes: "Barthes was the complete opposite of Fournié, the militant, who would initiate him into the previously unknown world of Marxist theory and the reality of the class struggle [...] Unlike many of his contemporaries [Barthes] did not come to Marxism via the French Communist Party [...] The fact that Barthes was introduced to Marxism by an anti-Stalinist and non-dogmatic Trotskyist is widely considered as the key to Barthes's 'happy' relationship with Marxism [...] and his belief that freedom was possible in a genuinely socialist society". Ribière adds, "The two would talk together for hours. Barthes discussed theater, literature, and of course Michelet. Fournié talked about Marx, Trotsky, and Spain. They had mutual admiration for each other, and each taught the other things which had previously been foreign to them. Barthes was extremely lucky that at a time when initiation into Marxism usually came through the Communist party - and more often than not required unconditional support for the political positions of the Soviet Union - Fournié's Marxism was Trotskyist, anti-Stalinist, and non-dogmatic".</p>
+          <p type="p">It was Fournié who introduced Barthes to the publisher Maurice Nadeau, for whom Barthes started to write articles for his left-wing Parisian paper, &lt;i&gt;Combat&lt;/i&gt;, from 1947. In 1948, and with his health more-or-less restored, Barthes undertook a few temporary teaching posts in educational institutions in Romania, Egypt, and France. In addition to his interests in the classics, and a special interest in the French Enlightenment writer, Voltaire, Barthes was delivering lectures on the French &lt;i&gt;chanson&lt;/i&gt; (song) by analysing the likes of popular singers Yves Montand and Edith Piaf. While in Egypt, he also met and made a lasting friendship with the Lithuanian literary scientist, A. J. Greimas (who was then employed at the prestigious Ecole des Hautes Etudes en Sciences Sociales).</p>
+          <p type="p">Barthes scholar Andy Stafford writes that, following on from his contributions to &lt;i&gt;Combat&lt;/i&gt;, "Barthes agreed to collaborate, again with Nadeau, in the new newspaper &lt;i&gt;L'Observateur&lt;/i&gt; (then &lt;i&gt;France-Observateur&lt;/i&gt;), created in 1950 by Claude Bourdet and Gilles Martinet, working there on an investigation of leftist literature (where he met [sociologist] Edgar Morin) and on theater and novel reviews. At the same time, he participated in the left-wing Catholic review &lt;i&gt;Esprit&lt;/i&gt;, contributing to important essays on Michelet, on wrestling, on the Folies-Bergère and on the novels of Jean Cayrol". In 1952, Barthes studied lexicology and sociology and commenced a seven-year tenure at the Centre National de la Recherche Scientifique.</p>
+          <p type="p">In 1953, Barthes's grandmother died, and her estate was split between Henriette and her only sibling (a brother). The Barthes' family situation benefitted considerably from his mother's inheritance with Barthes himself treated to a new car and his own holiday retreat.</p>
+          <p type="img" alt="&lt;i&gt;Le degré zéro de l'écriture&lt;/i&gt; (&lt;i&gt;Writing Degree Zero&lt;/i&gt;) was Barthes' first significant contribution to literary criticism, and an early entry into the field of semiotics. " show="1">/images20/photo/photo_barthes_roland_3.jpg</p>
+          <p type="p">1953 was also the year in which Barthes first book, &lt;i&gt;Le degré zéro de l'écriture&lt;/i&gt; (&lt;i&gt;Writing Degree Zero&lt;/i&gt;), was published. A fragmented series of literary criticism essays, the collection was inspired by Jean-Paul Sartre's, &lt;i&gt;What is Literature&lt;/i&gt; (1947), in which Sartre put "poetry [...] on the side of painting, sculpture and music" in the sense that, unlike prose (whose purpose was functional), words could exist as things in their own right through poetic application. It was a view in keeping with Sartre's existentialist philosophy and its belief in individual self-determinism and the rejection of the grand ideologies (religion, communism, fascism etc.). But Barthes's writing was also in conflict with Sartre in that it carried a pronounced Marxist bent.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Barthes was responsible for the most influential single publication - &lt;i&gt;Mythologies&lt;/i&gt; - for the emergence of structuralism in the field of cultural studies. Stafford writes that, for Barthes, the "period 1953-1956 saw an extraordinary journalistic publication activity: more than one hundred and thirty articles and reviews, in fourteen different publications that must be compared with the period 1956 to 1960 during which Barthes only published fifty texts but in twenty-two different publications. This is explained, in part", Stafford adds, by "the fact that the first period is dominated by his contributions to &lt;i&gt;Théâtre Populaire&lt;/i&gt; and &lt;i&gt;Lettres nouvelles&lt;/i&gt; [and that] these two journals are crucial [to the] the complex intellectual world of the 1950s [in France]". Indeed, while his writing at this time was dominated by theater criticism, both publications provided the source material for the eclectic collection of topics that would make up &lt;i&gt;Mythologies&lt;/i&gt;.</p>
+          <p type="p">The shoots of French structuralism started to show in the immediate post-war years. It flowered into a political and inter-disciplinary philosophy that proposed that mass culture was not "innocent" and could in fact be "decoded" through the application of semiology. It was a rejection of the faith in individualism that was at the core of existentialism and fully came into its own at the turn of the 1950s/1960s. Structuralism drew heavily on the work of the early twentieth century Swiss linguist, Ferdinand de Saussure. At basis, Saussure proposed that &lt;i&gt;parole&lt;/i&gt;, that being the difference utterances of speech - be they spoken, written or visual - was underpinned by &lt;i&gt;langue&lt;/i&gt;, an essentially fixed structure that was hidden behind &lt;i&gt;parole&lt;/i&gt;. Taken up initially by the French anthropologist, Clause Levi-Strauss, semiology provided a means of revealing the deep-seated structures of cultural rituals and mythology. Semiology, and the relationship between the signifier (sign) and the signified (the sign's underlying meaning), had a profound effect on Barthes and was used to devastating effect in &lt;i&gt;Mythologies&lt;/i&gt;.</p>
+          <p type="p">The signifier possessed a literal (denotative) meaning and non-literal (connotative) meaning (for instance, a picture of a red rose "denotes" a common red flowering plant we spell "r-o-s-e", but that same image (or sign) has a connotative meaning in Western culture because it signifies love). Barthes was interested in exploring the connotative meaning of things because, by deconstructing the image or object, he could look beyond the simple appearance of things and, by so doing, could reveal the deceptive structures of bourgeois society.</p>
+          <p type="p">The short essays (all around two pages long) covered a seemingly random, and incredulous, list of topics - "Romans in Movies", "The Poor and the Proletariat", "Toys", "Wine and Milk", "Einstein's Brain", "The New Citroën", "Striptease", "Garbo's Face" - with the overall aim of using the "science" of semiology to lay bare the myths that were hidden behind the surface appearance of things. As scholar Andrew Leak summed up, "there is no object whose innocence is so resistant, whose virtue is so in¬transigent, that it cannot be transformed by the superimposition of cultural connotations into what Barthes calls a myth", and that, the "common concern of &lt;i&gt;Mythologies&lt;/i&gt; is, precisely, with demonstrating how the organs of mass culture suck in the raw materials of everyday life and transform them into modem myths".</p>
+          <p type="img" alt="Cover for weekly magazine, &lt;i&gt;Paris-Match&lt;/i&gt;, which Barthes came across while queuing at the barbers. " show="0">/images20/photo/photo_barthes_roland_4.jpg</p>
+          <p type="p">Although &lt;i&gt;Mythologies&lt;/i&gt; has been subject to academic scrutiny - the art historian Steve Baker, for instance, has pointed to Barthes's somewhat cursory interpretation of the "saluting soldier" (of whom Barthes wrote: "there is no better answer to the detractors of an alleged colonialism than the zeal shown by this Negro in serving his so-called oppressors") who is a pre-teen, and perhaps a military cadet, while the tricolor he is assumed to be saluting is absent from the image altogether - &lt;i&gt;Mythologies&lt;/i&gt; remains to this day Barthes most popular book and a fixture on undergraduate cultural studies reading lists.</p>
+          <p type="p">Between 1954-60, Barthes worked closely with the "people's theater", &lt;i&gt;Théâtre National Populaire&lt;/i&gt;. By 1960 he had published many articles (around 60) on theater semiotics, and theatrical life in Paris, focusing on such topics as the &lt;i&gt;Comédie Française&lt;/i&gt;, costumes, performance, theater critics, and on Brecht's radical Berliner Ensemble tour. The latter prompted his essay "Actor without a Paradox" in which he celebrated the way Brecht had made his actors "step away" from their characters rather than "becoming" those characters. Barthes was also a great admirer of ancient Greek tragedy because it asked the audience to consider important moral and political questions, rather than the trivial personal and marital dramas that dominated French theater in post-war France. (Barthes had started to edit an anthology of his theatrical writings during the late 1970s but he died before the project was completed. A collection, &lt;i&gt;On Theatre&lt;/i&gt;, was finally published in France in 2002.)</p>
+          <p type="p">Although their philosophical interests would take them down different (but overlapping) paths, Barthes formed a close friendship during this period with another icon of post-war French intellectual life, Michel Foucault. According to David Macey, author of &lt;i&gt;The Lives of Michel Foucault&lt;/i&gt;, during the 1950s "the two became close friends and occasional lovers. They ate together whenever Foucault was in Paris and spent their nights in the cafes and clubs of Saint-Germain-des-près. Barthes was one of guest lecturers invited to Uppsala [Sweden] by Foucault and they holidayed together in North Africa on a number of occasions. The relationship was to last until 1960".</p>
+          <p type="p">In the first half of the 1960s, Barthes chaired several faculty positions in Europe. His views led to an aggressive exchange with the French author, and Sorbonne Professor of literature, Raymond Pickard who was the accepted authority on the seventeenth-century French playwright Jean-Baptiste Racine. As historian Christoph Prochasson writes, "In 1963 Barthes published a collection of articles, &lt;i&gt;Sur Racine&lt;/i&gt;. The following year, a further selection of articles, &lt;i&gt;Essais critiques&lt;/i&gt;, developed this interpretation. It provoked a critical response from [Picard] in a pamphlet entitled &lt;i&gt;Nouvelle critique on nouvelle imposture&lt;/i&gt; [&lt;i&gt;New Criticism or New Fraud&lt;/i&gt;], published in 1965. Very quickly this controversy developed a dimension that did not limit itself to the confines of the university. Newspapers and weekly magazines entered into the debate which remains famous in the history of literary criticism". Pickard's objection to "new criticism" (as it was dubbed) was that it was merely the product of "instinct" making its claims indeterminate and thus lacking in any empirical scholarly value. In his 1966 two-part essay, &lt;i&gt;Criticism and Truth&lt;/i&gt;, Barthes countered with the claim that Pickard's writing represented "old criticism"; especially the idea that we can only come to a proper reading of the literary text once we understand (having first digested their biography) what the given author's intentions were.</p>
+          <p type="img" alt="Yaoya Oshichi, female &lt;i&gt;Bunraku&lt;/i&gt; puppet from early twentieth century Japan. Barthes was a great admirer of the &lt;i&gt;Bunraku&lt;/i&gt; theater tradition." show="1">/images20/photo/photo_barthes_roland_5.jpg</p>
+          <p type="p">In 1966 Barthes was invited by the Director of the Franco-Japanese Institute in Tokyo, Maurice Pinguet, to present a seminar on the structural analysis of narrative. It was followed by two more visits to the country in 1966 and 1967. The visits provided him with the source material for a short monograph entitled &lt;i&gt;L'Empire des signes&lt;/i&gt; (published in 1970) (and translated into English in 1983 by Richard Howard as &lt;i&gt;Empire of the Signs&lt;/i&gt;). Given his interest in theater, Barthes was drawn to (amongst other things, including Japanese calligraphy and cuisine) to the &lt;i&gt;Bunraku&lt;/i&gt;, a form of traditional Japanese puppet theater that features near life-sized puppets accompanied by narrative chanting and shamisen music (a traditional Japanese string instrument). While &lt;i&gt;Bunraku&lt;/i&gt; is popular as an entertainment for children, the Japanese consider it a serious art form that keeps alive tales and folklore from down the centuries with narratives that address the conflict between social obligations and human emotions.</p>
+          <p type="p">As Colin Marshall of the &lt;i&gt;Los Angeles Review of Books&lt;/i&gt; neatly summarized: "The performances Barthes watches there suggest to him nearly everything important about the divide between East and West, and especially between Japan and Europe. 'In our theatrical art, the actor pretends to act, but his actions are never anything but gestures: on stage, nothing but theater, yet a theater ashamed of itself,' whereas bunraku, its hardworking puppeteers neither hidden nor highlighted, 'separates action from gesture: it shows the gesture, lets the action be seen, exhibits simultaneously the art and the labor'".</p>
+          <p type="p">In 1967 Barthes published &lt;i&gt;The Fashion System&lt;/i&gt; in which he examined the language of women's fashion magazines and used structural analysis to dismantle the "calculating" luscious prose found in magazines such as &lt;i&gt;Elle&lt;/i&gt; and &lt;i&gt;Le Jardin des Modes&lt;/i&gt;. He argued that the fashion industry must combine text and image to create and preserve the "natural law" of being &lt;i&gt;à la mode&lt;/i&gt;. He wrote, "it is not the object but the name that creates desire; it is not the dream but the meaning that sells [what] is decided on, imposed, finally appears as necessary ... for this to take place, it is enough to keep the Fashion decision secret; who will make it obligatory that this summer's dresses be made of raw silk?".</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">The social setting of the mid-to-late 1960s was made for Barthes's revolution in criticism. 1968 saw the infamous "&lt;i&gt;Mai '68&lt;/i&gt;" period of social unrest in France. In the March of that year, about 150 students barricaded themselves into a building at Nanterre University (Paris). They were protesting the arrest of a group of anti-Vietnam War protesters. Despite the war protesters being released, the student barricade set the stage for national unrest and the infamous Paris riots that erupted on May 2nd. Students, teachers, and partisans organized "anti-imperialist" protests at the Nanterre and Sorbonne universities leading to widespread violence, vandalism, and many hundreds of arrests. On May 7, an estimated 30,000 students marched on the Champs-Elysées, and the civil unrest spread across France. Striking factory workers joined the anti-Gaullist fight and several concessions were finally agreed bringing an end to the protests.</p>
+          <p type="img" alt="Barthes reunited with Michel Foucault around the time of the “&lt;i&gt;Mai '68&lt;/i&gt;” riots. The pair were close friends (even holidaying together) during the 1950s." show="1">/images20/photo/photo_barthes_roland_6.jpg</p>
+          <p type="p">However, and despite having only narrowly evaded a coup, in the June elections Charles de Gaulle's party claimed the largest majority in French parliamentary history. The election was confirmation for the intellectual left that revolution was futile and bourgeois structures were, in effect, unmoveable. In terms of literary criticism, however, Barthes was able to affect a revolution of his own with the publication of "The Death of the Author". Barthes ideas were complemented indeed by an essay by his old friend Michel Foucault called "What is an Author" (1969) in which Barthes's famous compatriot took exception to the idea that a consideration of the author's biography was essential to properly understanding the meaning in the text.</p>
+          <p type="p">The literary critic Terry Eagleton wrote, "the period was one of euphoria and disillusionment; unable to break the structures of state power, post-structuralism found it possible instead to subvert the structures of language", which it achieved by announcing the author's death. Despite its many gray areas and flaws (the author clearly did not "die" metaphorically or physically), the idea that there was no wrong way of reading a text and that meaning resides with the reader of the text rather than with the author/maker of the text (a sort of semantic role-reversal) proved hugely influential within the field of cultural studies and was perfectly in step with the dawning of the age of postmodernism.</p>
+          <p type="p">In 1970, Barthes published one of his most important titles, &lt;i&gt;S/z&lt;/i&gt;. It was an analysis of Honoré de Balzac's novella, &lt;i&gt;Sarrasine&lt;/i&gt;, in which Barthes set out to deconstruct the narrative codes that made up the classical realist text. His conclusion was that classical realist texts, governed as it is by the laws of verisimilitude, were contrived and only masqueraded as reality. In 1971 he served as a visiting faculty for the University of Geneva and continued to contribute essays to the Marxist literary magazine, &lt;i&gt;Tel Quel&lt;/i&gt;. In 1973 he published &lt;i&gt;The Pleasure of the Text&lt;/i&gt;. In it, Barthes drew his famous distinction between "readerly" (classical realist) and "writerly" (modern/poetic) texts. For him, the "readerly" text provides the reader with mere pleasure, whereas the "writerly" text offers a higher state of pleasure; what he called "jouissance" (or bliss). In the case of the latter, the reader becomes the writer in that she or he is faced with a text onto which they are compelled to "write" their own meanings.</p>
+          <p type="p">Although he wasn't writing about art specifically, his ideas were widely assimilated by the art world. For example, while one may dismiss, say, Pictorialism as readerly art, something like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt; would more likely qualify as writerly art. The problem with Barthes proposition arises, however, with his rejection of the author. The argument would follow that if you came to the artwork in the knowledge it was painted by "the artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;", and perhaps with some knowledge of his and/or &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg's&lt;/span&gt; worldview, then that would diminish rather than enhance the viewing experience. It was a controversial proposition, but it led, nevertheless, to a radical rethinking of the tautology of the history of art as a linear progression of the great deeds of the great male artists.</p>
+          <p type="p">Indeed, Barthes's theories were picked up on by a loose-knit group of New York based artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sherman_cindy"&gt;Cindy Sherman&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-prince_richard"&gt;Richard Prince&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lawler_louise"&gt;Louise Lawler&lt;/span&gt;, called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_pictures_generation"&gt;The Pictures Generation&lt;/span&gt;. The group, who earned their name following a 1977 exhibition, &lt;i&gt;Pictures Generation&lt;/i&gt;, held at the Artist's Space in New York, were influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;. They deconstructed (amongst other things) the mythology surrounding the notion of "artistic genius"; in Sherman's case through photographs of her dressed as B-movie stars, and in Prince's case, his pictures of cowboys as drawn from cigarette advertisements.</p>
+          <p type="p">&lt;i&gt;Tel Quel&lt;/i&gt; had disassociated itself from the French Communist Party and declared its support for Maoism in 1971. In 1974, Barthes joined editorial members (including Julia Kristeva with whom Barthes was so enamoured he said he wished he had been heterosexual) on a trip to China. As the critic Dora Zhang writes, "For the Sinophiles [those with a strong interest in Chinese culture] among the French Left, China held the promise of revolution only insofar as it was essentially &lt;i&gt;different&lt;/i&gt; from the West and from models of existing communism". Zhang adds, however, that Barthes's own "disappointment at the country's lack of foreignness [was] echoed by some of his companions, who [felt] they might as well be in East Berlin, or some Soviet country". In many ways, she concludes, "the trip to China marked the beginning of the end of &lt;i&gt;Tel Quel's&lt;/i&gt; political engagements [and] the journal's editorials after 1974 no longer spoke of Mao or China with the same enthusiasm".</p>
+          <p type="p">In 1975 Barthes experimented with a fragmented form of autobiography (written by him in the third person) in a book called &lt;i&gt;Roland Barthes by Roland Barthes&lt;/i&gt;. Revealing his fascination with the medium, the book featured analysis of family photographs (pre-empting his book &lt;i&gt;Camera Lucida&lt;/i&gt;, published in 1980). In 1977 Barthes chaired the "Semiologie Litteraire" at the Collége de France, but he would be delivered a crushing blow to his personal and professional life when, also in 1977, his mother, with whom he had lived for 60 years, passed away. He would grieve her passing for the rest of his like.</p>
+          <p type="p">In 1978 Barthes published the short essay, "Colouring, Year Zero", in which he reflected upon - or, to be more accurate, "downplayed" - his "hobby" of drawing/painting. Professor of art theory at Winchester School of Art, Sunil Manghani comments, "Whether it is drawing, painting or graphics, as Barthes wonders, or more simply colouring, it is nonetheless a sustained endeavour spanning a decade. Working mainly in the holiday periods, he would sit to paint using paper always of a scale convenient to working on the flat or slightly inclined surface of a small table or desk. It was an activity not far removed from writing. The works are like drawings in that they are formed mainly of lines, yet painterly too, with an eclectic use of inks, acrylics, felt pens and pastels. Some of the pieces are produced on college letter-headed paper, which Barthes describes as a form of 'squandering'".</p>
+          <p type="img" alt="A Lover's Discourse, Fragments" show="0">/images20/photo/photo_barthes_roland_7.jpg</p>
+          <p type="p">Two years later, he published &lt;i&gt;Fragments d'un discours amoureux&lt;/i&gt; (&lt;i&gt;A Lover's Discourse, Fragments&lt;/i&gt;); a further series of "fragmented" first-person narratives, this time on the mysteries of love that blurred boundaries between personal experience, fiction, poetry, and philosophy (with casual references to the likes of Goethe, Plato, Nietzsche, Sade, and Sartre). In 1979 he wrote "&lt;i&gt;Non multa sed multum&lt;/i&gt;" (Latin: "Many, but not much") which, in his analysis of the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-twombly_cy"&gt;Cy Twombly&lt;/span&gt;, offered a rare excursion for the Frenchman into the field of fine art. It was followed in 1980 by &lt;i&gt;Camera Lucida&lt;/i&gt; in which Barthes treated the photograph as a living relic of a dead thing.</p>
+          <p type="p">In the latter, Barthes made the distinction between what he called the "studium" (sic) - that is the element of photography that likens it to cultural habit of viewing (or studying) art - and the "punctum" - an element that was unique to photography in the way that it allowed for a sensory, and deeply subjective experience - that was utterly unique to the viewer. In Barthes words, "The punctum of a photograph is that accident which pricks me (but also bruises me, is poignant to me)". Andy Grundberg of &lt;i&gt;The New York Times&lt;/i&gt; points out that: '''Camera Lucida' is, in a sad and almost tragic way, a record of his attempts to come to terms with grief. His fascination with the portrait of his mother [as a child], leading to the discovery that the ultimate punctum is death, is the fascination of a man who is seeking, like Proust, to recover a life that has vanished".</p>
+          <p type="p">Barthes passed away shortly before &lt;i&gt;Camera Lucida&lt;/i&gt; was published. He died from injuries sustained after being run over by a laundry truck on a Parisian boulevard. He was buried next to his beloved mother in the village of Urt where he spent his formative years. Zhang observed, finally, that in France, and very possibly against their author's wishes, "the publication of Barthes's private notebooks [which carried details of his clandestine encounters with male prostitutes in Parisian and Moroccan hotels] and journals &lt;i&gt;Carnets du voyage en Chine&lt;/i&gt; and &lt;i&gt;Journal de deuil&lt;/i&gt; [both from his unhappy trip to China] appeared in 2009 [and] spurred a round of contentious debate about the ethics of looting a dead writer's archives".</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Rue Roland Barthes in the 12&lt;sup&gt;th&lt;/sup&gt; Arrondissement of Paris." show="1">/images20/photo/photo_barthes_roland_8.jpg</p>
+          <p type="p">Such was Barthes standing as France's leading critic, he achieved the status of national celebrity during his own lifetime. His influence in Western academic circles, meanwhile, was secured in the 1970s and 1980s by important new essay collections including, &lt;i&gt;Image-Music-Text&lt;/i&gt; (1977) compiled and translated by the esteemed Cambridge scholar, Stephen Heath, and through two collections edited by Susan Sontag: &lt;i&gt;Incidents&lt;/i&gt; (1982), and &lt;i&gt;A Barthes Reader&lt;/i&gt; (1987). His complete works were published again in 1993. Indeed, his name remains a fixture on university curriculums, even if some of his key ideas - not least "The Death of the Author" - have proved highly problematical for historical and empirical studies (a situation Barthes would have no doubt celebrated).</p>
+          <p type="p">As author Roland B. Dixon has observed, "one consequence of the nature of Barthes' approach is that he did not create a particular school of thought. He does not have a dedicated following of thinkers who attempt to model themselves after his theories [...] By giving rise to the notion of individualist thought and adaptability rather than conformity, any thinker or theorist who takes an oppositional stance to inferred meanings within culture can be thought to be following in Barthes' footsteps". In the field of contemporary art, this attitude can be seen in &lt;i&gt;The Pictures Generation&lt;/i&gt;, who used appropriation and montage as a way of deconstructing the myth behind popular imagery. Their work, by extension, challenged the idea of authenticity in art which invoked the principle of the "Death of the Author". Appropriation was also a technique embraced by the celebrated "anti-modernist" &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt; who used it to controversial effect in works such as &lt;i&gt;Gazing Ball (Manet Luncheon on the Grass)&lt;/i&gt; (2014-15). &lt;i&gt;The Pictures Generation&lt;/i&gt;, meanwhile, have themselves inspired the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brown_glenn"&gt;Glenn Brown&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-emin_tracey"&gt;Tracey Emin&lt;/span&gt; who both cite the group as important influences on their own work. More recently, the French filmmaker Claire Denis co-wrote the screenplay, and directed, &lt;i&gt;Un beau soleil intérieur&lt;/i&gt; (&lt;i&gt;Let the Sun Shine In&lt;/i&gt;) (2017), and the Chinese-born British novelist, Xiaolu Guo's published her book, &lt;i&gt;A Lover's Discourse&lt;/i&gt; (2020). Both film and novel were modelled on Barthes's fragmented lament on the nature of love and loss (also titled &lt;i&gt;A Lover's Discourse&lt;/i&gt;).</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>The New Citroën</title>
+      <artist>Roland Barthes</artist>
+      <use_big_image>true</use_big_image>
+      <year>1957</year>
+      <materials />
+      <desc>
+				Barthes's book, &lt;i&gt;Mythologies&lt;/i&gt; (1957), is a collection of previously published essays (in journals such as &lt;i&gt;Théâtre Populaire&lt;/i&gt; and &lt;i&gt;Lettres nouvelles&lt;/i&gt;) on items, images and performances from mass culture and was prefaced by his introductory essay to semiotics, "Myth Today". Put simply, Barthes argued that seemingly innocent objects and images carry a literal - denotative - meaning, and a non-literal - connotative - meaning. By deconstructing the connotative meaning one can then expose the ideological structures on which consumer society is built and maintained. One of the best-known essays form &lt;i&gt;Mythologies&lt;/i&gt; is "The New Citroën" in which Barthes uses semiotic analysis to de-mythologize the "futuristic" &lt;i&gt;Citroën DS 19&lt;/i&gt; motor car. The essay stands as an exemplar of how consumer society could be approached with a critical reverence that had been reserved hitherto only for the fine arts and the great novels of literature.
+				&lt;br/&gt;&lt;br/&gt;
+				Barthes likened all modern motor cars to "the great Gothic cathedrals" in the sense that they were "the supreme creation of an era, conceived with passion by unknown artists, and consumed in image if not in usage by a whole population which appropriates them as purely magical objects". Referring to the experience of those members of the public who did encounter the car firsthand (at motor-shows or in showrooms) Barthes wrote, we are "dealing here with a humanized art, and it is possible that the [&lt;i&gt;Citroën DS 19&lt;/i&gt;] marks a change in the mythology of cars. Until now, the ultimate in cars belonged rather to the bestiary of power; here it becomes at once more spiritual [the] object here is totally prostituted, appropriated: originating from the heaven of Metropolis, the Goddess is in a quarter of an hour mediatized, actualizing through this exorcism the very essence of petit-bourgeois advancement".
+				&lt;br/&gt;&lt;br/&gt;
+				It is not without its own irony, however, that, rather than "de-mystify" the &lt;i&gt;Citroën DS 19&lt;/i&gt;, Barthes's essay in fact did much to confirm and secure the vehicle's mythological status. As the American journal &lt;i&gt;Open Culture&lt;/i&gt; pointed out: "at the 1955 Paris Auto Show the world first beheld a car that, aesthetically speaking, might as well have been a spacecraft: the Citroën DS. Pronounced in French like &lt;i&gt;déesse&lt;/i&gt;, that language's word for 'goddess,' the car received 80,000 order deposits during the show, a record that stood for six decades until the debut of Tesla's Model 3 - which, whatever its respectability as a feat of design and engineering, will never have Roland Barthes to extol its beauty".
+			</desc>
+      <collection>Mythologies</collection>
+    </artwork>
+    <artwork>
+      <title>Gold Marilyn Monroe</title>
+      <artist>Andy Warhol</artist>
+      <year>1962</year>
+      <materials>Silkscreen</materials>
+      <desc>
+				This image is a reproduction of the same publicity still (from the 1953 film &lt;i&gt;Niagara&lt;/i&gt;) that Warhol used for most of his &lt;i&gt;Marilyn&lt;/i&gt; works. He altered the colours or the ink content for each piece with this edition covered in a bright gold block colour. Marilyn's surroundings glamorise her, while also making her smaller - almost swallowing her up. The idea of image repetition of icons of mass culture presented a direct challenge to the lofty high art principles so recently evidenced in the art of the New York School. But with every repetition - "Pop Art [...] repeats spectacularly. Warhol proposes a series of identical images [...] which differ only by some slight variation of color (Flowers, Marilyn)" wrote Barthes - Warhol's Marilyn became further removed from the woman herself and brought to light the ambivalent feeling we have to the overexposure of certain images and icons. 
+				&lt;br/&gt;&lt;br/&gt;
+				In his 1980 essay, "That Old Thing Art", Barthes was drawn to discuss Pop Art because it "wants to desymbolize the object". By this he meant that Pop Art wanted to rid the work of any deeper (connotative) meaning. But that observation was not intended as any sort of criticism. Barthes liked the idea that an artwork could exist as nothing more than a sign. He wrote: "Crossing the Atlantic [Pop] products forced the barrier of art; accommodated by certain American artists, they became works of art, of which culture no longer constituted the being, merely the reference: origin was displaced by citation [...] Pop Art as we know it is the permanent theater of [a] tension: on one hand the mass culture of the period is present in it as revolutionary force which contests art; and on the other , art is present in it as a very old force which irresistibly returns in the economy of societies. There are two voices, as in a fugue - one says: 'This is not Art', the other says, at the same time: 'I am Art'. 
+				&lt;br/&gt;&lt;br/&gt;
+				Commenting on the Pop artist, meanwhile, Barthes argued that a figure like Warhol "does not stand behind his work ... and he himself has no depth: he is merely the surface of his pictures, no signified, no intention, anywhere". It would have been a sentiment endorsed by Warhol himself who memorably declared: "If you want to know all about Andy Warhol, just look at the surface of my paintings and films and me, and there I am. There's nothing behind it".
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>No. 159, 15 Dec '71</title>
+      <artist>Roland Barthes</artist>
+      <year>1971</year>
+      <materials>Ink, acrylic, felt pen</materials>
+      <desc>
+				During his lifetime Barthes produced over 700 (going by the number that remain in storage) artworks, although he very much considered himself a "Sunday painter" and never intended the pieces to be exhibited. The paintings/sketches/doodlings are all numbered and dated and range from 1971-78. Professor of art theory, Sunil Manghani, notes that there "is very little variation" between the works with Barthes restricting himself to a palette of "three or four colours" arranged on paper using "the same interleaving lines and marks". Manghani adds that, "[Barthes] appears to have considered the paintings a body of work of sorts, however modestly. Almost all of the drawings are dated, and he also numbered each piece in a continuous sequence, often using a different pen or pencil, which might suggest an operation undertaken at the end of a painting session. Perhaps this was the moment in which he reflected on the works, discarding those that had not 'worked'".
+ 				&lt;br/&gt;&lt;br/&gt;
+				As an artist, Barthes described himself as a "marginal", and likened himself in fact to two painters. The first was the famous J. D. Ingres who was a passionate, but strictly amateur, violin player (Ingres passion for the violin was immortalized in one of Man Ray's most iconic photographs, &lt;i&gt;Le Violon d'Ingres&lt;/i&gt;, 1924). The second was Bernard Réquichot of whom Barthes wrote: "He is &lt;i&gt;the one who does not exhibit&lt;/i&gt;, the one who does not make himself heard ... the amateur seeks to produce only his own enjoyment (but nothing forbids it to become ours &lt;i&gt;in addition&lt;/i&gt;, without his knowing it)".
+				&lt;br/&gt;&lt;br/&gt;
+				In 1978 Barthes published a short essay entitled "Colouring, Year Zero" in the literary/arts newspaper &lt;i&gt;Les Nouvelles Littéraires&lt;/i&gt;. In it, he said the following about his art: "From time to time, I like to do ... but here the difficulty begins - to do what? Drawing, painting, graphic art...? What I do barely has a name. It's more of the order of colouring, of graffiti. It's not, assuredly, a second-rate thing but it is a by-product, a spin-off, even though it's always subject, more or less, to cultural values that I derive, without thinking, from all the paintings or forms of handwriting I've seen [...] There are no doubt many reasons for this amateur practice. Perhaps it's the dream of being a complete artist, a painter and writer, as certain men of the Renaissance were [But more likely it is] the relief (the restfulness) of being able to create something that isn't directly caught in the trap of language and dodges the responsibility each sentence inevitably carries with it - in short, a sort of innocence that writing denies me."
+			</desc>
+      <collection>Bibliothèque nationale de France</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait</title>
+      <artist>Robert Mapplethorpe</artist>
+      <year>1975</year>
+      <materials>Photograph on paper, dry mounted on board</materials>
+      <desc>
+				This is a playful self-portrait of Robert Mapplethorpe. His body is only partially in frame, and we get a view of his smiling facial expression. His arm is outstretched in a "Vitruvian-man" like fashion, as if the image is anatomical. He is nude, at least from the waist up, which perhaps brings an erotic charge to the image. This was one of the first of Mapplethorpe's career-spanning self-portraits. This image is light-hearted whilst also being self-reflexive in his role of artist/photographer.
+ 				&lt;br/&gt;&lt;br/&gt;
+				Barthes analysed two of Mapplethorpe's photographs in his book &lt;i&gt;Camera Lucida&lt;/i&gt;. For him, this photograph is an erotic object. Barthes explained: "The erotic photograph [...] does not make the sexual organs into a central object; it may very well not show them at all; it takes the spectator outside its frame, and it is there that I animate this photograph and that animates me". Of &lt;i&gt;Self-portrait&lt;/i&gt; specifically, Barthes continues, "This boy [...] incarnates a kind of blissful eroticism; the photograph leads me to distinguish the 'heavy' desire of pornography from the 'light' (good) desire of eroticism; after all, perhaps this is a question of 'luck': the photographer has caught the boy's hand (the boy is Mapplethorpe himself, I believe) at just the right degree of openness, the right density of abandonment: a few millimeters more or less and the divined body would no longer have been offered with benevolence (the pornographic body shows itself, it does not give itself, there is no generosity in it): the photographer has found the right moment, the kairos [beginnings] of desire". 
+			</desc>
+      <collection>Robert Mapplethorpe Foundation, New York</collection>
+    </artwork>
+    <artwork>
+      <title>After Walker Evans 4</title>
+      <artist>Sherrie Levine</artist>
+      <use_big_image>true</use_big_image>
+      <year>1981</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Levine was part of a loose affiliation of female artists who were aligned with the so-called Pictures Generation. Influenced by Pop Art and Conceptual Art, the group, which lasted roughly between the mid-1970s and mid-1980s, used a variety of media (but predominantly photography and film) to rework popular imagery. Artists like Levine, Cindy Sherman and Barbara Kruger were instrumental in dismantling what were in effect the foundations of modernist thinking - authenticity and artistic genius - which they did by blurring the distinctions between fine art and mass media. 
+				&lt;br/&gt;&lt;br/&gt;
+				Levine's image is a photograph of a reproduction (a "copy of a copy" in other words) of an iconic photograph that was originally taken some fifty years earlier. The subject is the wife of an Alabama sharecropper called Allie Mae Burroughs and was taken by the American photographer Walker Evans who gained renown for this and other photographs from the Great Depression. Levine's photograph, copied from a Walker Evans exhibition catalogue, is an attempt to undermine the &lt;i&gt;authority&lt;/i&gt; of Evans as artist/photographer. Levine's "copy" effectively called into question both the idea of authenticity in art, and the writing of the canons of art history which was dominated by the biographical tales of the "heroic" deeds of "great men". Like her female counterparts, Levine's work can be understood in the context of two key essays: Linda Nochlin's, "Why Have There Been No Great Women Artists?" (1971), and Barthes's "The Death of the Author" (1967).
+				&lt;br/&gt;&lt;br/&gt;
+				Published in &lt;i&gt;ARTnews&lt;/i&gt; as a special issue entitled, "Women's Liberation, Woman Artists, and Art History", Nochlin argued that art institutions were guilty of holding back women artists who could reach the same status as male artists for the want of the same commercial opportunities. Nochlin's essay is heralded by feminists as a milestone in the evolution of gender equality in the contemporary art world. Barthes's essay, meanwhile, fitted perfectly with this position, providing as it did the philosophical impetus for the challenge to the "old criticism" that construed the canons of a male dominated art history. Notwithstanding the paradox that the likes of Levine had themselves risen to the status author/artist, Barthes had in effect sanctioned the idea of post-structuralism - that "truths" (plural) replaced the idea of "truth" (fixed) - which became in effect the philosophical position of postmodernism.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Untiled ("Roma" Series)</title>
+      <artist>Cy Twombly</artist>
+      <year>1964</year>
+      <materials>Ink, graphite and colored pencil on paper</materials>
+      <desc>
+				American Cy Twombly started to gain serious recognition as a "post Abstract Expressionist" artists while a resident of Italy in the late 1950's. His tendency to "scribble" on his pictures gave small prompts, or linguistic referents, that were open to interpretation. Featuring light-colored pencil strokes, and fragments of ink and paint, the artist's "&lt;i&gt;Roma&lt;/i&gt;" series, in the description offered by the &lt;i&gt;Philips Auction House&lt;/i&gt;, "capture on paper a raw energy and seamless poetry in a graffiti-like manner with isolating gaps of pencil and ink [with the] outcome of Untitled, 1964 becomes a visual experience emotionally engaging the past of antiquity with a sensation of walking the streets of Rome in 1964". Barthes was so taken with Twombly's art he wrote the essay, "&lt;i&gt;Non multa sed multum&lt;/i&gt;" (Latin: "Many, but not much") (1979), in which he referred to the artist (through the abbreviation "TW") in the section entitled "Écriture" ("Writing" or "Scripture"). Barthes was especially drawn to the idea of what he called "the gesture" in Twombly's art. 
+				&lt;br/&gt;&lt;br/&gt;
+				Barthes wrote: "What is a gesture? Something like the surplus of an action. The action is transitive, it seeks only to provoke an object, a result, the gesture is an indeterminate an inexhaustible total of reasons, pulsions [pushing, or, driving], indolences [idleness] which surround the action with an &lt;i&gt;atmosphere&lt;/i&gt; (in the astronomical sense of the word). Hence let us distinguish the &lt;i&gt;message&lt;/i&gt;, which seeks to produce information, and the &lt;i&gt;sign&lt;/i&gt;, which seeks to produce an intellection, from the &lt;i&gt;gesture&lt;/i&gt;, which produces all the rest (the surplus) without necessarily seeking to produce anything [...] Many of TW's compositions suggest, it has been said, the scrawls of children. The child is the infant who does not speak; but the child who conducts TW's hand already writes - he is a schoolboy: lined paper, colored pencils, ruler, repeated letters, little plumes of cross-hatching, like the smoke that comes out of the locomotive in children's drawings".
+				&lt;br/&gt;&lt;br/&gt;
+				Since the essay was written the year before his death, one might, considering his essay "The Death of the Author", be given to wonder where Barthes stood in relation to "TW" the author/artist. He was able to dodge that inconsistency in the following statement: "["TW"] produces without appropriating anything, He acts without expecting anything, His work accomplished, he does not get attached to it. And since he is not attached to it, His work will remain".
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Hermès Scarf</title>
+      <artist>Philippe Apeloig</artist>
+      <year>2015</year>
+      <materials>Silk</materials>
+      <desc>
+				To mark the centenary of his birth (November 2015), the French luxury fashion house, Hermès, launched (at its flagship rue de Sèvres store on Paris's Left Bank) a limited-edition of its iconic silk scarf. The scarf, designed by the famous French graphic artist Philippe Apeloig, was based on a motif inspired by Barthes's 1979 book, &lt;i&gt;Fragments d'un discours amoureux&lt;/i&gt; (&lt;i&gt;A Lover's Discourse, Fragments&lt;/i&gt;). Apeloig said of the commission: "Barthes' writing is very visual; his ideas on fashion, advertising and photography have inspired my generation of graphic artists. He designed a special text layout for each page of 'Fragments,' so my first idea was to use typography, but that was too obvious. Finally I blacked out all the text, turned the words into graphic blocks, and reproduced each page in its original order like a mosaic [and] a musical score, a piece of morse code, hieroglyphics and a diagram of digital circuitry".
+				&lt;br/&gt;&lt;br/&gt;
+				Writing in the &lt;i&gt;New Yorker&lt;/i&gt;, Princeton University scholar, Christy Wampole, argued that "The Barthes scarf is a particularly readable and mythological object: fragile, expensive, and thus to be handled with care, as he handled all of his objects of study. Perhaps silk is the best material with which to honor Barthes. It is a natural fiber, exuded by a living thing and thus containing something of this life within it; its history represents the encounter between East and West; and its invitation to touch puts it in the same category as human skin. The scarf holds its own significance. As a tool for veiling, it floats somewhere between the necessary and the ornamental, and it might remind us of the forgotten link between 'text' and 'textile'". 
+				&lt;br/&gt;&lt;br/&gt;
+				However, much in the way Barthes inadvertently turned the &lt;i&gt;Citroën DS 19&lt;/i&gt; into the very object of desire he was trying to deconstruct, Wampole's predicted that the irony of the Hermès scarf would not have been lost on Frenchman were he still alive. She asked rhetorically: "How would Barthes read this object? [...] How would he have read the choice to emblazon his memory across a silk carré? What would he have made of this bourgeoisification of his thought? And what would he have had to say about the scarf's eight-hundred-and-ninety-five-euro price tag?".
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Belledonne</title>
+      <artist>Victor Burgin</artist>
+      <year>2016</year>
+      <materials>Installation (projection loop)</materials>
+      <desc>
+				The British Conceptual Artist Victor Burgin has engaged with Barthes writing throughout his long career. Indeed, according to art historian Ryan Bishop, Burgin "was instrumental in introducing [Barthes's] theoretical work to the English-speaking art world". The &lt;i&gt;Belledonne&lt;/i&gt; project was commissioned by Southampton's John Hansard Gallery for its 2016 "Barthes/Burgin" exhibition, where the installation (and other works by Burgin) was paired with a selection of rarely seen (outside of France) drawings by Barthes. &lt;i&gt;Belledonne&lt;/i&gt; - named after the mountain range in the Dauphine Alps where Barthes received treatment for his tuberculosis at the remote St-Hilare-du-Touvet sanatorium - was the first of Burgin's projects to address Barthes's writing head-on. Featuring "impossible" "clean air" vistas, interspersed with intertitles featuring quotes from Barthes's work, &lt;i&gt;Belledonne&lt;/i&gt; is presented on a perpetual loop; or a "circle of fragments" (to use Burgin's appropriation of Barthes phrase). 
+				&lt;br/&gt;&lt;br/&gt;
+				Bishop writes: "Burgin's technique of panorama, not only in the projection works but also in earlier photographic and video pieces, stitches together images and dissolves the frame, providing an illusion of eliding the frame of the lens. The revolution of the panoramic landscape in Belledonne, along with dynamic barrel distortion, provides a cinematically-informed dream- like quality in which [...] the sublime landscape flattens into two-dimensional planes in the rigid axis of zero degree". Bishop observes further that Burgin's loops are designed in a way that encourages the viewer to "enter at any point in the projection" and that the viewer will reach a point where they encounter a "'reprise' or 'ritornello' [a recurring passage] operating as a kind of unfolding of the layers of the work" and this will likely act as the prompt for their individual exit point.
+				&lt;br/&gt;&lt;br/&gt;
+				The overlap between Barthes and Burgin occurs through both men's love - one written, the other visual - of fragmentation. It is well known that Barthes's was a great admirer of the so-called "&lt;i&gt;Nouveau Roman&lt;/i&gt;" novel which, having emerged around the mid-1950s, experimented freely with narrative structure. It was a style of writing without (as it were) any prescribed style, and inspired Barthes's own preference for fragmented writing structures as evidenced in works such as &lt;i&gt;Writing Degree Zero&lt;/i&gt; (1953), &lt;i&gt;Roland Barthes by Roland Barthes&lt;/i&gt; (1975), and &lt;i&gt;A Lover's Discourse, Fragments&lt;/i&gt; (1979). As Bishop writes, "Perhaps the signature strategy for Barthes to resist discursive control over thought, and certainly the primary element of Burgin's projection pieces for gallery viewing, the fragment as technique [...] figures strongly in works by both".
+			</desc>
+      <collection>John Hansard Gallery, Southampton</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity alt="Voltaire">voltaire</entity>
+        <entity>warhol_andy</entity>
+        <entity>twombly_cy</entity>
+        <entity>mapplethorpe_robert</entity>
+      </column>
+      <column>
+        <entity alt="Paul Valéry">valery_paul</entity>
+        <entity alt="Maurice Nadeau">nadeau_maurice</entity>
+        <entity>foucault_michel</entity>
+        <entity alt="A. J. Greimas">greimas_a_j</entity>
+        <entity alt="Julia Kristeva">kristeva_julia</entity>
+      </column>
+      <column>
+        <entity alt="Bunraku">bunraku</entity>
+        <entity>neo_expressionism</entity>
+        <entity>pop_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>levine_sherrie</entity>
+        <entity>sherman_cindy</entity>
+        <entity>gonzalez_torres_felix</entity>
+        <entity alt="Choi Jeong Hwa">hwa_choi_jeong</entity>
+        <entity alt="Victor Burgin">burgin_victor</entity>
+      </column>
+      <column>
+        <entity alt="Paul Valéry">valery_paul</entity>
+        <entity alt="Maurice Nadeau">nadeau_maurice</entity>
+        <entity>foucault_michel</entity>
+        <entity alt="A. J. Greimas">greimas_a_j</entity>
+        <entity alt="Julia Kristeva">kristeva_julia</entity>
+      </column>
+      <column>
+        <entity>the_pictures_generation</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>The Lives of Michel Foucault</title>
+          <link>https://books.google.co.uk/books?id=RXDnDwAAQBAJ</link>
+          <info>By David Macey</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes (Critical Lives)</title>
+          <link>1780234953</link>
+          <info>By Andy Stafford</info>
+        </entry>
+        <entry>
+          <title>A Lover's Discourse</title>
+          <link>0802149529</link>
+          <info>By Xiaolu Guo</info>
+        </entry>
+        <entry>
+          <title>Mourning Diary</title>
+          <link>0374533113</link>
+          <info>By Roland Barthes, Nathalie Leger and Richard Howard</info>
+        </entry>
+        <entry>
+          <title>On Photography</title>
+          <link>0312420099</link>
+          <info>By Susan Sontag</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>A Barthes Reader</title>
+          <link>0099224917</link>
+          <info>By Roland Barthes and Susan Sontag</info>
+        </entry>
+        <entry>
+          <title>Incidents</title>
+          <link>B00FAUPALY</link>
+          <info>By Roland Barthes</info>
+        </entry>
+        <entry>
+          <title>Mythologies</title>
+          <link>0374251460</link>
+          <info>By Roland Barthes</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes by Roland Barthes</title>
+          <link>0374251460</link>
+          <info>By Roland Barthes</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Colouring, Degree Zero</title>
+          <link>https://journals.sagepub.com/doi/full/10.1177/0263276420911431</link>
+          <info>
+						By Sunil Manghani
+						&lt;br&gt;
+						Theory, Culture and Society 
+						&lt;br&gt;
+						April 26, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>The Marxism of Roland Barthes</title>
+          <link>https://thecharnelhouse.org/2015/04/17/the-marxism-of-roland-barthes/</link>
+          <info>
+						By Mireille Ribière (et al)
+						&lt;br&gt;
+						The Charnel-House 
+						&lt;br&gt;
+						April 17, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>What would Barthes think of his Hermès scarf?</title>
+          <link>https://www.newyorker.com/books/page-turner/barthess-silken-legacy</link>
+          <info>
+						By Christy Wampole
+						&lt;br&gt;
+						New Yorker 
+						&lt;br&gt;
+						October 20, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>A Circle of Fragments: Barthes, Burgin, and the Interruption of Rhetoric</title>
+          <link>https://journals.sagepub.com/doi/pdf/10.1177/0263276420911436</link>
+          <info>
+						By Ryan Bishop
+						&lt;br&gt;
+						Theory, Culture and Society 
+						&lt;br&gt;
+						Vol. 37(4), 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Ways of Seeing Japan: Roland Barthes's Tokyo, 50 years Later</title>
+          <link>https://lareviewofbooks.org/article/ways-seeing-japan-roland-barthess-tokyo-50-years-later/</link>
+          <info>
+						By Colin Marshall
+						&lt;br&gt;
+						Los Angeles Review of Books 
+						&lt;br&gt;
+						December 31, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Cy Twombly</title>
+          <link>https://www.phillips.com/detail/cy-twombly/NY010510/106</link>
+          <info>
+						Philips Auction House, New York 
+						&lt;br&gt;
+						November 8, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>The Timeless Beauty of the Citroën DS, the Car Mythologized by Roland Barthes</title>
+          <link>https://www.openculture.com/2019/08/the-timeless-beauty-of-the-citroen-ds-the-car-mythologized-by-roland-barthes-1957.html</link>
+          <info>
+						Open Culture
+						&lt;br&gt;
+						August 27, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes</title>
+          <link>https://www.newworldencyclopedia.org/entry/Roland_Barthes</link>
+          <info>
+						By Roland B. Dixon
+						&lt;br&gt;
+						New World Encyclopaedia 
+						&lt;br&gt;
+						July 28, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Death in the Photograph</title>
+          <link>https://www.nytimes.com/1981/08/23/books/death-in-the-photograph.html</link>
+          <info>
+						By Andy Grundberg
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						August 23, 1981
+					</info>
+        </entry>
+        <entry>
+          <title>The Sideways Gaze: Roland Barthes's Travels in China</title>
+          <link>https://lareviewofbooks.org/article/the-sideways-gaze-roland-barthess-travels-in-china/</link>
+          <info>
+						Dora Zhang
+						&lt;br&gt;
+						Los Angeles Review of Books 
+						&lt;br&gt;
+						June 23, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Key Theories of Roland Barthes</title>
+          <link>https://literariness.org/2018/03/20/key-theories-of-roland-barthes/</link>
+          <info>
+						By Nasrullah Mambrol
+						&lt;br&gt;
+						Literary Theory and Criticism 
+						&lt;br&gt;
+						March 20, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>The Spaces of Controversy: Roland Barthes versus Raymond Picard: A Prelude to May 1968</title>
+          <link>https://www.cairn-int.info/article-E_MNC_025_0141--the-spaces-of-</link>
+          <info>
+						By Christoph Prochasson
+						&lt;br&gt;
+						Cain. Info 
+						&lt;br&gt;
+						2007
+					</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes: Mythologies</title>
+          <link>https://www.ejumpcut.org/archive/jc57.2016/-kleinhansSeeingIdeology/index.html</link>
+          <info>
+						By Chuck Kleinhans
+						&lt;br&gt;
+						Jump Cut: A Review of Contemporary Media
+					</info>
+        </entry>
+        <entry>
+          <title>Barthes: Mythologies</title>
+          <link>https://discovery.ucl.ac.uk/id/eprint/154405/1/147413web.pdf</link>
+          <info>
+						By Andrew Leak
+						&lt;br&gt;
+						Critical Guides to French Texts 
+						&lt;br&gt;
+						1994
+					</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes, leftist journalist, Les Lettres nouvelles and Théâtre Populaire, 1953-1956</title>
+          <link>https://www.roland-barthes.org/article_stafford.html</link>
+          <info>
+						By Andy Stafford
+						&lt;br&gt;
+						Barthes in Review (1942-1980) 
+						&lt;br&gt;
+						March 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes, Writing Degree Zero</title>
+          <link>https://arthistoryunstuffed.com/roland-barthes-writing-degree-zero/</link>
+          <info>
+						By Jeanne Willette
+						&lt;br&gt;
+						Art History Unstuffed 
+						&lt;br&gt;
+						November 22, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Roland Barthes, French Writer, dies at 64</title>
+          <link>https://www.washingtonpost.com/archive/local/1980/03/27/roland-barthes-french-writer-dies-at-64/f60e3c39-b267-4472-be02-4aba9eb3ffa8/</link>
+          <info>
+						By J. Y. Smith
+						&lt;br&gt;
+						The Washington Post 
+						&lt;br&gt;
+						March 27, 1980
+					</info>
+        </entry>
+        <entry>
+          <title>Looking for Henriette: Roland Barthes' tantalising mystery</title>
+          <link>https://www.theguardian.com/artanddesign/2020/apr/15/photographic-mystery-roland-barthes-mother-odette-england-keeper-of-the-hearth</link>
+          <info>
+						By Sean O'Hagan
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						April 15, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Happy 100&lt;sup&gt;th&lt;/sup&gt; Birthday, Roland Barthes</title>
+          <link>https://www.theguardian.com/books/booksblog/2015/nov/12/roland-barthes-happy-100th-birthday-centenary-birth</link>
+          <info>
+						By John Dugdale
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						November 12, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Notes from the Book Review Archives</title>
+          <link>https://www.nytimes.com/2017/08/18/books/review/Roland-Barthes-legacy.html</link>
+          <info>
+						By Nicholas Dames
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						August 18, 2017
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Une journée avec Roland Barthes au Quartier latin | Archive INA (French with subtitles)</title>
+          <link>https://www.youtube.com/watch?v=rqF5z3V7Ghs</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Citroën in INA archives - Roland Barthes and the Citroën myth (French with subtitles)</title>
+          <link>https://www.youtube.com/watch?v=Ne5LfzxxvfY</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Roland Barthes : "Mythologies" (1957) (French with subtitles)</title>
+          <link>https://www.youtube.com/watch?v=KuebRNsyX1Q</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

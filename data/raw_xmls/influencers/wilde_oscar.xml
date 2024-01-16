@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>wilde_oscar</id>
+    <name>Oscar Wilde</name>
+    <type>influencer</type>
+    <active_section>ideas</active_section>
+    <years>1874 - 1900</years>
+    <description>Oscar Wilde was a nineteenth-century Irish poet and playwright, one of the most influential and celebrated. Associated with the Aesthetic Movement, he connected to the visual arts of his time, especially via Whistler and Ruskin.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Irish</nationality>
+    <occupation>Writer, Critic, Aesthete</occupation>
+    <birthDate>October 16, 1854</birthDate>
+    <birthPlace>Dublin, Ireland</birthPlace>
+    <deathDate>November 30, 1900</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>The greatest champion of the credo "art-for-art's-sake", Wilde professed that no "form of government is most suitable for an artist to live under" and that, as far as the true artist was concerned, any "authority over him and his art is ridiculous".</bio_highlight>
+    <pub_time>12/24/2020</pub_time>
+  </main>
+  <includes>
+    <include>symbolism</include>
+    <include>aesthetic_movement</include>
+  </includes>
+  <quotes>
+    <q>"All art is quite useless."</q>
+    <q>"Art is surface and symbol. Those who go beneath the surface do so at their own peril."</q>
+    <q>"If a work of art is rich and vital and complete, those who have artistic instincts will see its beauty and those to whom ethics appeal more strongly will see its moral lesson."</q>
+    <q>"A temperament capable of receiving, through an imaginative medium, and under imaginative conditions, new and beautiful impressions, is the only temperament that can appreciate a work of art."</q>
+    <q>"A true artist takes no notice whatsoever of the public. The public to him are non-existent."</q>
+    <q>"The artist should never try to be popular. Rather the public should be more artistic."</q>
+    <q>"No artist has ethical sympathies. An ethical sympathy in an artist is an unpardonable mannerism of style."</q>
+    <q>"No great artist ever sees things as they really are. If he did, he would cease to be an artist."</q>
+    <q>"In a very ugly and sensible age, the arts borrow, not from life, but from each other."</q>
+    <q>"Art is the most intense mode of individualism that the world has known."</q>
+    <q>"An educated person's ideas of Art are drawn naturally from what Art has been, whereas the new work of art is beautiful by being what Art has never been...A temperament capable of receiving, through an imaginative medium, and under imaginative conditions, new and beautiful impressions, is the only temperament that can appreciate a work of art."</q>
+    <q>"Art is individualism, and individualism is a disturbing and disintegrating force. There lies its immense value. For what it seeks is to disturb monotony of type, slavery of custom, tyranny of habit, and the reduction of man to the level of a machine."</q>
+    <q>"I wanted to eat of the fruit of all the trees in the garden of the world ... And so, indeed, I went out, and so I lived. My only mistake was that I confined myself so exclusively to the trees of what seemed to me the sun-lit side of the garden, and shunned the other side for its shadow and its gloom."</q>
+  </quotes>
+  <authors>
+    <author link="weinberg">Robert Weinberg</author>
+  </authors>
+  <article>
+    <synopsys>Oscar Wilde emerged in late nineteenth century London as the living embodiment of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic movement&lt;/span&gt;. He won fame as a dramatist, poet and novelist whose ideas on art, beauty and personal freedom formed a formidable challenge to Victorian puritanicalism. At the same time, Wilde attracted public notoriety for his stream of witty aphorisms and his "effeminate" long hair, dandyish clothing and his devotion to flowers. He was halted at the height of his fame when sentenced to three years imprisonment for illegal homosexual activity. Ruined physically and financially, he lived out the final few years of his life in Paris, dying aged just 46. Wilde's star, which today burns brightest within the gay/queer community, has never diminished, however, and his legacy - exemplified by two classics of English literature, the Gothic novel &lt;i&gt;The Picture of Dorian Gray&lt;/i&gt; and the stage satire, &lt;i&gt;The Importance of Being Earnest&lt;/i&gt; - prevails through screen biographies and countless reinterpretations of his works. But perhaps it was his flair for self-publicity and his oft-quoted witticisms that his name truly endures in the consciousness of the public.</synopsys>
+    <key_ideas>
+      <idea>Wilde's name is routinely linked with Théophile Gautier's famous maxim "&lt;sup&gt;Arte per amore dell' Arte&lt;/sup&gt;" (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_for_art"&gt;art for art's sake&lt;/span&gt;). Guided by this maxim, Wilde did more than any other to cultivate the modern idea that art, as a pure product of the senses, could "prevent the death of the human soul".</idea>
+      <idea>Wilde used the Aesthetic doctrine to promote the cult of beauty and pleasure and, as the physical embodiment of that ideal, he promoted hedonism as the way out of repressive Victorian culture and society. By liberating English literature from its Victorian preconceptions, he helped align British culture with the modernist values emerging on the European continent.</idea>
+      <idea>Wilde found a way to marry the role of rebel and dandy. The rebel belonged to the realm of the bohemian while the dandy sat closer to aristocratic culture. Wilde plotted his own path; a dandy whose sartorial elegance was a symbol of his superiority of spirit and personal freedom rather that a symbol of his wealth and status. In this way, Wilde was perhaps the first to self-consciously treat public life as an artistic performance.</idea>
+      <idea>While he claimed to live a life governed by no other responsibility than to enjoy excess and create beauty, Wilde did not shy away from calling for social and political reform. The strength of his political convictions have, however, been questioned by some scholars. And although he was apt to excuse his carnal proclivities as a "form of sexual madness", there can be no questioning Wilde's martyr-like status which has seen him canonized as an icon for the Gay Liberation movement.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Oscar Fingal O'Flahertie Wills Wilde was born into a family of professional and literary parents. His father, Sir William Wilde, was Ireland's preeminent ear and eye surgeon and a philanthropist and writer who published books on archaeology, peasant folklore and a biography of the satirist Jonathan Swift. Wilde's mother, Jane, a committed Irish nationalist, and recognized authority on Celtic myth, was a revolutionary poet who wrote under the pen-name "Speranza". It was Jane Wilde who can be credited with instilling in her son his love for poetry and neo-classical art.</p>
+        </subsection>
+        <subsection title="Early Education and Training">
+          <p type="p">A pupil at the Portora Royal School in Enniskillen between 1864-71, Wilde was already gaining a reputation as something of a &lt;i&gt;wunderkind&lt;/i&gt;. He demonstrated an early prowess for humorous storytelling and excelled in reading the classics. He also took to languages, becoming fluent in French and German. Wilde went on to win awards for his translations of Greek and Latin texts, including a scholarship to Trinity College Dublin, Ireland's most prestigious university. Attending between 1871-74, Wilde became an outspoken member of Trinity's Philosophical Society. A champion of the maverick &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;Pre-Raphaelite&lt;/span&gt; painter and poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rossetti_dante_gabriel"&gt;Dante Gabriel Rossetti&lt;/span&gt;, and the "passionately atheistic" poet Algernon Charles Swinburne, Wilde would win one of Trinity's top academic awards, the Berkely Gold Medal for Greek, while actively promoting himself as an Aesthete. Even at this early age, Wilde had started to attract attention through his unique writing style and his nonconformist lifestyle.</p>
+          <p type="img" alt="Oscar Wilde in his iconic Bohemian regalia" show="1">/images20/photo/photo_wilde_oscar_1.jpg</p>
+          <p type="p">Between 1874 and 1878, Wilde studied classical literature at Magdalen College at Oxford University where he distinguished himself as a classical scholar, a poseur and a humourist. He was attracted by the rituals and dress of Freemasonry and attained the "Sublime Degree of Master Mason"; and though he held widely conflicting views on religion, he was deeply attracted to Catholicism, even meeting Pope Pius IX in 1877.</p>
+          <p type="p">In his third year at Oxford, Wilde met the essayist and art critic Walter Pater who advocated the rejection of "vulgar" bourgeois virtue in favor of an art that exists without the need for justification or moral purpose. Pater argued, moreover, for an enhanced sensibility towards beauty, and a life lived with aesthetic intensity. Under Pater's influence, Wilde's devotion to art intensified while the teachings of art historian and critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruskin_john"&gt;John Ruskin&lt;/span&gt; offered the young scholar fresh perspectives on the nature of art. Wilde began to dabble in art criticism himself with his review of the opening show of the Grosvenor Gallery in 1877 for &lt;i&gt;Dublin University Magazine&lt;/i&gt;. As the literary historian Anne Bruder observed, "His review exemplifies his early attitudes toward the coming of modernism, views clearly derived from Ruskin" in the way he "elevates that which represents nature most clearly to the highest position of excellence".</p>
+          <p type="p">Following Pater's maxim "burn always with a hard gemlike flame", Wilde revelled in the idea of the aesthetic pose and immersed himself in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aesthetic_movement"&gt;Aesthetic&lt;/span&gt; and Decadent movements. Growing his hair long and dressing flamboyantly, he decorated his rooms with &lt;i&gt;objets d'art&lt;/i&gt;, peacock feathers, lilies and sunflowers, declaring, "Oh, would that I could live up to my blue china!". Wilde won Oxford University's prestigious Newdigate Prize, an annual poetry award (won previously by Ruskin) for his poem &lt;i&gt;Ravenna&lt;/i&gt;. By now, Wilde had started to attract a group of dedicated followers who were drawn to the Irishman's iconoclasm and his glorification of the virtues of youth.</p>
+          <p type="p">After completing his studies at Oxford, Wilde returned to Ireland where he hoped to revive his romantic relationship with Florence Balcombe, a celebrated beauty. Florence, much to Wilde's anguish, became engaged to Bram Stoker (author of &lt;i&gt;Dracula&lt;/i&gt;) prompting Wilde to move to London where he boarded with the highly successful society portraitist Frank Miles. Miles, who shared Wilde's love of flowers, had purchased a house in the newly fashionable Tite Street in Chelsea; a street that counted the painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Abbott McNeill Whistler&lt;/span&gt;, and the illustrator Charles Rickets and his partner Charles Shannon, amongst its residence. Miles's home was decorated (as was Whistler's) with sparse furnishings and with a Japoniste colour scheme and styling.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">In 1881 Wilde published (at his own expense) his first poetry collection, &lt;i&gt;Poems&lt;/i&gt;. Drawing heavily on the likes of Algernon Swinburne, Dante Gabriel Rossetti and John Keats (a little too heavily for some critics') it drew mixed notices. The satirical magazine &lt;i&gt;Punch&lt;/i&gt;, which lampooned Aestheticism as an effeminate art form, singled out Wilde as its literary talisman: "The poet is Wilde, but his poetry's tame" it pronounced. Any objections to &lt;i&gt;Poems&lt;/i&gt; did not dent his rising fame, however, and the names of Wilde and Miles soon spread throughout London's Society circles who flocked to Chelsea to socialize with the two aesthetes.</p>
+          <p type="img" alt="Wilde, photographed in New York City, 1882" show="1">/images20/photo/photo_wilde_oscar_2.jpg</p>
+          <p type="p">With the rising interest in the Aestheticism movement in America, Richard D'Oyly Carte, the theatre impresario who staged the operettas of Gilbert and Sullivan, sent the 27-year old Wilde on a lecture tour of North America. His role was to promote Gilbert and Sullivan's operetta &lt;i&gt;Patience&lt;/i&gt;, which satirised the Aesthetic movement and partly parodied Wilde as the "fleshly poet" Bunthorne. The American press had been somewhat scathing of Wilde's indolence and his aesthetic attire (of velvet jacket, knee breeches, and silk stockings) but they were, nevertheless, eager to get an original quote from him. Several newspaper reporters even hired a launch boat to meet Wilde on his ship before it docked in New York. But it was on his passage through the port's customs office that Wilde offered the most famous of all his witticisms, declaring "I have nothing to declare but my genius". In an interview the following day, Wilde added that "I am here to diffuse beauty, and I have no objection to saying that".</p>
+          <p type="p">The lecture tour, originally scheduled for four months, lasted an entire year, with Wilde giving a total of 140 lectures. At Harvard University, the students dressed as Bunthorne, paraded to their front row seats, brandishing sunflowers and lilies. Alerted of their actions in advance, Wilde confounded expectations by taking to the stage in conventional evening dress and announcing, "Caricature is the tribute that mediocrity pays to genius [...] Save me from my disciples". A highlight of Wilde's travels came at a silver mine in the Rocky Mountains of Colorado. There, he read passages from the autobiography of Benvenuto Cellini, the eminent 16&lt;sup&gt;th&lt;/sup&gt; century Italian silversmith. The "uncultured" miners were disappointed that Wilde had not brought Cellini with him as a guest! Informing them that Cellini was dead, one of the miners asked, "Who shot him?" Wilde also met with various distinguished writers, including Henry Longfellow, Henry James and Walt Whitman. To Whitman, Wilde wrote, "There is no one in this wide great world of America whom I love and honor so much". Whitman later told the press that he and Wilde had "a jolly good time".</p>
+          <p type="img" alt="Alice Pike Barney's portrait of her daughter Natalie as Lucifer" show="1">/images20/photo/photo_wilde_oscar_3.jpg</p>
+          <p type="p">While staying at the Long Beach Hotel on New York's Long Island, Wilde encountered the wealthy industrialist Albert Clifford Barney, his wife Alice, and their daughters Natalie and Laura. Alice listened intently to Wilde's pronouncements on the importance of developing children's artistic tastes and how to decorate one's home aesthetically. Wilde left an indelible impression on Alice, who herself went on to pursue a bohemian lifestyle and a new career in art (despite her husband's vocal protests). On one occasion, Wilde rescued Natalie from a gang of chasing schoolboys who by scooping her up onto his lap and calming her by recounting a fairy tale. From that moment, Wilde became Natalie's lifelong hero. She grew up to become one of Paris's most celebrated and notorious literary salon hostesses, and a lesbian lover of Wilde's niece Dolly.</p>
+          <p type="p">Returning from America, Wilde embarked on a lecture tour in Britain, regaling his audiences with his impressions of the New World. In 1884, he proposed to Constance Lloyd whom he had met three years earlier. Their marital home at 16 Tite Street in London was renovated at considerable expense to match the couple's Aesthetic ideals. The couple had two sons, Cyril and Vyvyan, but after he second pregnancy, Wilde was left physically repelled by Constance. His first homosexual experience was probably with Robert "Robbie" Ross, who Wilde met in Oxford in 1886. Ross's inclinations were open and unrestrained, despite Victorian Britain's attitudes towards morality.</p>
+          <p type="img" alt="Cover of an edition of &lt;i&gt;The Woman's World&lt;/i&gt;" show="1">/images20/photo/photo_wilde_oscar_4.jpg</p>
+          <p type="p">Between 1887-89, Wilde acted as editor for &lt;i&gt;The Lady's World&lt;/i&gt; magazine (renaming it &lt;i&gt;The Woman's World&lt;/i&gt;). In addition to his views on art and literature, he contributed serious articles on parenting, culture, and politics, and even stories to be read to children. Wilde saw the magazine as "the recognized organ for the expression of women's opinions on all subjects of literature, art and modern life, and yet it should be a magazine that men could read with pleasure". While &lt;i&gt;The Woman's World&lt;/i&gt; was not a commercial success, his involvement with the publication helped catapult Wilde to even greater fame. &lt;i&gt;The Happy Prince and Other Tales&lt;/i&gt; was published meanwhile in 1888, revealing his talent for allegoric fairy tales (one of which carried a cutting criticism of Whistler's &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionistic&lt;/span&gt; painting &lt;i&gt;Nocturne: Blue and Gold - Old Battersea Bridge&lt;/i&gt; (1887)).</p>
+          <p type="p">Wilde produced his most important works in his later life. His only novel, &lt;i&gt;The Picture of Dorian Gray&lt;/i&gt; - a story about a self-destructive man who maintains eternal youth at the expense of his soul - was published in the July 1890 edition of &lt;i&gt;Lippincott's Monthly Magazine&lt;/i&gt;. It was expanded by six chapters into book form the following year. Despite the cautionary tale that was the hero's self-destruction, the novel came under fire for its decadence and homosexual allusions with &lt;i&gt;The Daily Chronicle&lt;/i&gt; describing it as "unclean", "poisonous", and "heavy with the mephitic odours of moral and spiritual putrefaction". Wilde vigorously defended himself in letters to the press, but later revised the book, removing the passages of overt homo-eroticism, and adding a preface of 22 epigrams on the purpose of art.</p>
+          <p type="p">In 1891, Wilde published a collection of essays on aestheticism in &lt;i&gt;Intentions&lt;/i&gt; (1891), an anthology influenced by the ideas of the French poets Théophile Gautier and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;, and the American painter James Abbott McNeill Whistler (with whom he endured a most fractious relationship). Wilde expounded his aesthetic ideals through essays such as "The Decay of Lying: A Dialogue". The essay, written in Socratic dialogue, presents its ideas through the conversation between the two characters Vivian and Cyril. Vivian tells Cyril of an article he has been writing called "The Decay Of Lying: A Protest" which espouses the values of Aestheticism and the "art for art's sake" maxim. It has not been lost on historians such as Bruder, however, that Wilde's philosophy on art was "decidedly fickle" in the way it fluctuated between the Ruskin's view that the role of the art critic was indispensable to establishing the true value of art, and the Whistler's position that true art was (or should be) able to speak for itself.</p>
+          <p type="p">Nevertheless, Wilde travelled to Paris where he was celebrated as a respected writer at renowned literary salons. It was through his conversations in social settings that Wilde truly thrived. Writer Frances Winwar described how, before "a group of listeners, especially if they were young and handsome and titled, he outdid himself. In the spark of their admiration his mind quickened. Epigram followed epigram, one more dazzling, more preposterous than the other, yet always, like the incandescent core of the firework, with the burning truth at the heart".</p>
+          <p type="p">Wilde had first met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morris_william"&gt;William Morris&lt;/span&gt; in 1881. Following that meeting, Morris wrote that though Wilde was "certainly clever" he thought of him as "an ass". The two men did, however, become friends and their political views were close enough that ten years on Morris's essay "The Socialist Ideal" appeared together in a pamphlet with Wilde's "Soul of Man under Socialism" (also published in &lt;i&gt;The Fortnightly Review&lt;/i&gt; in February 1891). Wilde's essay has confused scholars who have queried his motivations. As historian Xavier Giudicelli observed, the essay is "a surprising and slippery text, whose nature and value is difficult to ascertain". He suggests that "One possible way of solving the problem [...] is to dismiss it as a mere playful variation upon such notions as socialism, individualism or democracy and to regard it as a flippant response to contemporary debates in late Victorian Britain". But both Morris and Wilde backed the socialist principle that the worker's "moral character" was only improved if there was a creative aspect to manual labor. Wilde wrote: "A great deal of nonsense is being written and talked nowadays about the dignity of manual labour. There is nothing necessarily dignified about manual labour at all, and most of it is absolutely degrading. It is morally and mentally injurious to man to do anything in which he does not find pleasure, and many forms of labour are quite pleasureless activities, and should be regarded as such".</p>
+          <p type="img" alt="The Pre-Raphaelite style design by Charles Richetts of Oscar Wilde's &lt;i&gt;A House of Pomegranates&lt;/i&gt;" show="1">/images20/photo/photo_wilde_oscar_5.jpg</p>
+          <p type="p">Later in 1891 Wilde was back on more familiar territory with the publication of two volumes of stories and fairy tales: &lt;i&gt;Lord Arthur Savile's Crime, and Other Stories&lt;/i&gt; and &lt;i&gt;A House of Pomegranates&lt;/i&gt;. The publication of the latter confirmed Wilde's friendship with Charles Rickets whose graphic work was inspired by the dreamy maidens of the Pre-Raphaelite painters (he would also illustrate Wilde's &lt;i&gt;The Sphinx&lt;/i&gt; in 1894, and painted the hero of Wilde's short story, &lt;i&gt;The Portrait of Mr. W. H.&lt;/i&gt;, which was used as the frontispiece of the book). The men formed a close and lasting relationship with Rickets, who described Wilde as "the most remarkable man he had met", even publishing a personal memoir, &lt;i&gt;Recollections of Oscar Wilde&lt;/i&gt; in 1932. (shortly before Rickets's death). (The memoir was written through the narrative device of an imagined conversation between Rickets and a fictitious French writer he named Jean Paul Raymond (a decision which would have no doubt met with Wilde's approval).</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="p">It was, however, for Wilde's society stage comedies, executed in the strict style of drama known as the &lt;i&gt;pièce bien faite&lt;/i&gt; ("well made play") that he would become best known. His first stage success was the comedy of manners, &lt;i&gt;Lady Windermere's Fan&lt;/i&gt;, first performed in 1892. Set in London, the play involves a jealous wife whose husband's becomes closely acquainted with a mysterious and beautiful older woman, Mrs. Erlynne. It transpires that Mrs. Erlynne is Lady Windermere's divorced mother who had disappeared from her daughter's life when she was just a baby. Mrs. Erlynne and the well intentioned and proper Lord Windermere are not engaged in an illicit affair at all but, rather, Mrs. Erlynne is hatching a plot to be reunited with her estranged daughter. Taking to the stage after its first performance (in February), Wilde announced, "The actors have given us a charming rendition of a delightful play, and your appreciation has been most intelligent. I congratulate you on the great success of your performance, which persuades me that you think almost as highly of the play as I do myself". The play duly toured Britain, earning Wilde £7,000 (around £800,000 in todays money) in its first year.</p>
+          <p type="img" alt="Gustave Moreau, &lt;i&gt;The Apparition (Dance of Salomé)&lt;/i&gt; (1876). The biblical story of &lt;i&gt;Salomé&lt;/i&gt; had been a popular theme in art since the Renaissance. " show="1">/images20/photo/photo_wilde_oscar_6.jpg</p>
+          <p type="p">After becoming captivated by the New Testament story of the beheading of John the Baptist, Wilde interpreted, firstly in French, the macabre story of &lt;i&gt;Salomé&lt;/i&gt; as a one-act play. The story had been a popular subject for Christian art since the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; (well-known examples include Masolino de Panicale's 1435 fresco, &lt;i&gt;Salome Bringing the Head of the Baptist to Herodias&lt;/i&gt; and French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moreau_gustave"&gt;Gustave Moreau's&lt;/span&gt; 1876 painting, &lt;i&gt;The Apparition&lt;/i&gt; (&lt;i&gt;Dance of Salome&lt;/i&gt;)). Wilde's &lt;i&gt;Salomé&lt;/i&gt; was published in 1893, and in English the following year, promoted with the help of designer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beardsley_aubrey"&gt;Aubrey Beardsley&lt;/span&gt;'s controversial illustration. It was not performed until 1896, however, because of Britain's ban on the representation of biblical characters on stage. When it finally reached the West End stage, a critic for &lt;i&gt;The Times&lt;/i&gt; said of &lt;i&gt;Salomé&lt;/i&gt;, "It is an arrangement in blood and ferocity, morbid, bizarre, repulsive, and very offensive in its adaptation of scriptural phraseology to situations the reverse of sacred". &lt;i&gt;Salomé&lt;/i&gt; was quickly followed by three society comedies, bringing their author significant financial rewards.</p>
+          <p type="p">The first was &lt;i&gt;A Woman of No Importance&lt;/i&gt; (1893), a comedy of manners (the name given to a type of play that satirizes the behaviour in a particular social group) targeting English upper-class mores and hypocrisy, and a protest against gender inequalities. The critic William Archer said of the play it "must be taken on the very highest plane of modern English drama". &lt;i&gt;An Ideal Husband&lt;/i&gt; and, by almost unanimous agreement, his masterpiece, &lt;i&gt;The Importance of Being Earnest&lt;/i&gt; both followed in 1895. &lt;i&gt;An Ideal Husband&lt;/i&gt; is a scandalous social satire about a political blackmail plot that embroils a lively cast including an idle philanderer, young lovers, an imperious father, society doyennes and a fearsome femme fatale. The play opened at the Haymarket Theatre in London in January 1895 to popular acclaim, and exceeded 100 performances. His final play, &lt;i&gt;The Importance of Being Earnest&lt;/i&gt; (subtitled &lt;i&gt;A Trivial Comedy for Serious People&lt;/i&gt;) proved his greatest legacy to the stage as he took the conventions of farce and transformed them, in three acts, through a series of satiric epigrams that ridiculed Victorian hypocrisies.</p>
+          <p type="p">A comedy of overlapping mistaken identities (two philanderers, Jack and Algernon, adopt the same pseudonym (Earnest)), &lt;i&gt;The Importance of Being Earnest&lt;/i&gt; opened at George Alexander's St. James Theatre in London's West End on Valentine's Day 1895. It was said that on its opening night, as a mark of recognition for Wilde's aestheticism, many women dressed in lily corsages, while many men wore lilies of the valley in their lapels. Wilde himself arrived in typically flamboyant dress. It was widely reported in the press that he wore a black coat with a velvet collar, a white waistcoat, a black moiré ribbon watch chain, white gloves, a green scarab ring, and lilies of the valley in his lapel. It was not lost on Wilde devotees, either, that the West End was the red light district; a place where married men could abandon their true identity and indulge in the reckless pursuit of pleasure. Indeed, most of Wilde's works operated around the themes of sin, indiscretion and their destructive consequences. Indeed, his maxim that "life imitates art" (as opposed to "art imitates life") was proving to be most prescient as he himself was beginning to feel the destructive consequences of his own pursuit of unbridled pleasure.</p>
+        </subsection>
+        <subsection title="Downfall">
+          <p type="img" alt="Oscar Wilde with Lord Alfred Douglas, May 1893." show="1">/images20/photo/photo_wilde_oscar_7.jpg</p>
+          <p type="p">In 1891 Wilde had been introduced to the 21-year-old Lord Alfred Douglas, who was studying at Oxford. They embarked on an indiscreet and tempestuous affair, with the infatuated Wilde indulging the spoilt Douglas's every whim. Douglas introduced Wilde into the world of gay prostitution, and illicit meetings with working-class boys. Their relationship exacerbated Douglas's already rocky relationship with his father, the Marquess of Queensberry. On February 18&lt;sup&gt;th&lt;/sup&gt;, 1895, four days after the opening of &lt;i&gt;Earnest&lt;/i&gt;, the Marquess left a calling card for Wilde inscribed, "For Oscar Wilde, posing somdomite [sic]". Urged on by Douglas, but against the advice of close friends, Wilde sued Queensberry for criminal libel.</p>
+          <p type="img" alt="An 1877 &lt;i&gt;Vanity Fair&lt;/i&gt; caricature of the Marquess of Queensbury" show="1">/images20/photo/photo_wilde_oscar_8.jpg</p>
+          <p type="p">Queensberry had to demonstrate that his accusation was true and hired private detectives to uncover evidence of Wilde's sexual deviance. Details of Wilde's private life began to appear in the press, and when a number of male prostitutes agreed to testify against him, Wilde dropped the prosecution. On leaving court, Wilde, who had ignored advice from his friends to flee to France, was immediately arrested for "gross indecency". During his first trial, Wilde dazzled the court with his witty repartee, and the jury was unable to reach a verdict. At the re-trial, Wilde was convicted and sentenced to imprisonment with hard labour. His initial incarceration at Pentonville Prison consisted of many gruelling hours on a treadmill and the mundane task of separating out fibres from old rope. Subsequently, at Wandsworth Prison, he collapsed from illness and hunger, rupturing his right ear drum in the fall. He was later transferred to Reading Gaol where he was addressed and identified only by his prison number: C33. Rickets visited his good friend in Reading (and publicly reproached the "social reformer" William Morris for not doing so) but according to Wilde the visit was not a success.</p>
+          <p type="p">Between January and March 1897, Wilde wrote a 50,000-word letter to Lord Alfred Douglas, tracing his spiritual journey of redemption and fulfilment. He was barred from sending the letter, but was permitted to take it with him when released from prison in the May of that year. In the letter, published posthumously in 1905 as &lt;i&gt;De Profundis&lt;/i&gt;, Wilde reflected upon his life and career, as one who "stood in symbolic relations to the art and culture of my age". The dramatically cut &lt;i&gt;De Profundis&lt;/i&gt; was filled with recriminations against Douglas for encouraging him into debauchery and for distracting him from his life's work though the two lovers would be briefly reunited.</p>
+          <p type="img" alt="Oscar Wilde, photographed in Rome, shortly before his death in 1900" show="1">/images20/photo/photo_wilde_oscar_9.jpg</p>
+          <p type="p">On the day of his release, a bankrupt and broken Wilde, headed for France, never to return to Britain. He spent the last three years of his life in exile, living under the pseudonym Sebastian Melmoth. His only further published work was a long poem called "The Ballad of Reading Gaol" (1898), an eloquent plea for prison reform. His wife Constance refused to meet him or allow him to see their sons, although she did provide him with monies. Wilde and Douglas lived together near Naples for a few months before they were effectively separated by both families under the threat of cutting off all further funds.</p>
+          <p type="p">In 1898 the English painters Augustus John and William Rothenstein met Wilde in Paris. John, "appreciative of him as a great man", described Wilde as a "distinguished reprobate [...] a big and good-natured fellow with an enormous sense of fun, impeccable bad taste [and] a deeply religious apprehension of the Devil". Wilde was similarly taken with John, describing him as a "charming Celtish poet in colour". George Bernard Shaw, meanwhile, noted that despite his numerous woes, Wilde maintained "an unconquerable gaiety of soul" and he was also visited by loyal friends, the caricaturist and wit Max Beerbohm, and his future literary executor Robert Ross. By November 25&lt;sup&gt;th&lt;/sup&gt; 1900 Wilde had developed cerebral meningitis and died five days later at the age of 46, having been finally received into the Roman Catholic Church. Wilde had proved true to his word when he had predicted that he "could never outlive the [nineteenth] century as the English people would not stand it".</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Although Wilde did not contribute directly to the plastic arts, stylistically, Aubrey Beardsley's illustration for Wilde's play &lt;i&gt;Salomé&lt;/i&gt; helped promote the florid decoration of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; and the illustrations of artists such as William Rothenstein. Indeed, Wilde was a giant presence within the Aesthetic movement, promoting its values through his writing, and his seemingly single-handed invention of the "cult of personality". He offered as much as anyone in defining the alternative culture of Victorian London. As the living personification of his art, he pre-empted a trait amongst contemporary artists, that reached a new apex in Britain in the mid-1990s with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-young_british_artists"&gt;Young British Artists movement&lt;/span&gt;, for hedonistic self-publicity.</p>
+          <p type="p">In more enlightened times, Wilde (despite being personally conflicted over his sexual drives) has been cast by the LGBTQ activists as a martyr to their cause and was commemorated with a stained-glass window at Poets' Corner in Westminster Abbey in 1995. In 2014, he was one of the inaugural honorees in the Rainbow Honor Walk in San Francisco's Castro neighbourhood noting LGBTQ people who have "made significant contributions in their fields".</p>
+          <p type="p">Writer, director and thespian, Rupert Everett wrote, directed, and starred as Wilde in &lt;i&gt;The Happy Prince&lt;/i&gt; (2018), the latest in a long line of filmed adaptations of Wilde's life. Everett stated, "for me he is an integral character in that [...] he really is, in modern times, the first "out" gay man and I think for all of us [gay men] that's quite important in the sense that homosexuality up until him was something nobody ever talked about [...] The road to liberation I think started with him [...] he's my Christ figure really".</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Nocturne: Blue and Gold - Old Battersea Bridge</title>
+      <artist>James Whistler</artist>
+      <year>1872-77</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Whistler's Impressionistic treatment of &lt;i&gt;Battersea Bridge&lt;/i&gt; evoked the hushed atmosphere of the river Thames at dusk; the foggy London skyline peppered with exploding fireworks. It was one of a series of paintings that many, including the critic John Ruskin, saw as an affront to standards in art. In June 1888, following the two men's recent re-acquaintance, Wilde gifted a copy of his new anthology, &lt;i&gt;The Happy Prince&lt;/i&gt;, to Ruskin. Wilde's gift was accompanied by a note which read: "There is in you something of prophet or priest, and of poet, and to you the gods gave eloquence such as they have given to none other, so that your message might come to us with the fire of passion, and the marvel of music, making the deaf hear, and the blind see". 
+				&lt;br/&gt;&lt;br/&gt;
+				One of the tales in the book was called "The Remarkable Rocket", a satire about a delusional toy rocket who believes that his "setting off" will take center stage at a royal marriage. The rocket has not realized that he will be "a mere footnote to the party". As the literary historian Anne Bruder describes it, "When the Rocket begins an exhortation on his superiority to the other fireworks and his importance to the future of the Prince and Princess, he pathetically begins to weep, and thus destroys his ability to be ignited. His fuse wet, he gets tossed onto a trash heap where uninterested children, who do not even watch the explosion, set him off as they walk away. And while the narrator tells us, "But nobody saw him," the Rocket dies swearing, "I knew I should create a great sensation". As Bruder concluded, "The placement of this tale in Wilde's oeuvre and his gifting it to Ruskin [...] was almost certainly an allegorical rendering of his former friend and famous egotist J. M. Whistler".
+				&lt;br/&gt;&lt;br/&gt;
+				Whistler's painting prompted Ruskin to accuse the artist of "flinging a pot of paint in the public's face". Whistler's detestation of the critic led to him suing for libel, a lawsuit he won at great expense and which brought him just minor financial retribution. Unfortunately, the legal costs bankrupted the painter.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Illustration for Salomé, "J'ai baisé ta bouche Iokanaan"</title>
+      <artist>Aubrey Beardsley</artist>
+      <year>1893</year>
+      <materials>Line block print on Japanese vellum paper</materials>
+      <desc>
+				Aubrey Beardsley was a fashionable young British illustrator who had made a name for himself by illustrating a book, &lt;i&gt;Mort d'Arthur&lt;/i&gt;, by the medieval poet Malory. The book proved a favorite amongst the Pre-Raphaelites, with whom Wilde was initially affiliated through his admiration of the movement's maverick son, Dante Gabriel Rossetti. Beardsley first met Wilde in 1891. He was somewhat spellbound by the author and even displayed a photograph of Wilde on his fireplace. When &lt;i&gt;Salomé&lt;/i&gt; was first published (in English) in February 1893, the &lt;i&gt;Pall Mall Budget&lt;/i&gt; magazine commissioned Beardsley for a drawing to illustrate the play's content. However, the magazine rejected the macabre, fantastical image that was based on the play's last scene in which Salomé kisses the lips of John the Baptist's severed head. It was a highly decorative, gruesome, and sexually suggestive vision, which Beardsley thought Wilde would appreciate. 
+				&lt;br/&gt;&lt;br/&gt;
+				In the April of that year, however, an art publication called &lt;i&gt;The Studio&lt;/i&gt; ran the illustration as part of its first edition. Wilde saw the drawing pre-publication and liked it so much he presented Beardsley with an inscribed copy of the earlier printing of the book which read thus: "March '93. For Aubrey. For the only artist who, besides myself, knows what the Dance of the Seven Veils is, and can see that invisible dance". The critic Peter Raby argued that "Beardsley gave the text its first true public and modern performance, placing it firmly within the 1890s - a disturbing framework for the dark elements of cruelty and eroticism, and of the deliberate ambiguity and blurring of gender, which he released from Wilde's play as though he were opening Pandora's box".
+				&lt;br/&gt;&lt;br/&gt;
+				As an interesting footnote, Beardsley became art editor of the fashionable magazine &lt;i&gt;The Yellow Book&lt;/i&gt; which ran from 1894-97. Promoting the ideas of the Aesthetic movement, the magazine took its name from the "dishonourable" covering under which controversial French novels were hidden from public view (as the British Library notes, it is, in fact, a "yellow book" which corrupts Dorian Gray, that book generally thought to be Joris-Karl Huysmans's decadent 1884 novel &lt;i&gt;A rebours&lt;/i&gt; (&lt;i&gt;Against nature&lt;/i&gt;)). The British Library records moreover that "when Wilde was arrested in 1895, there were rumours he had been carrying a yellow-bound book. Though this was actually Pierre Louÿs's French novel &lt;i&gt;Aphrodite&lt;/i&gt;, a confused crowd thought it was a copy of [the] magazine, and gathered to throw stones at the publishers offices".
+			</desc>
+      <collection>Victoria and Albert Museum, London</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Oscar Wilde and Whistler</title>
+      <artist>Philip William May</artist>
+      <year>1894</year>
+      <materials>Pen and black ink, with black crayon and touches of blue crayon, on ivory laminate board</materials>
+      <desc>
+				The English satirist Phil May, a member of the Chelsea Arts Club, contributed many caricatures of actors, artists, and writers to London periodicals. His self-assured drawing style and his cutting wit attracted a devoted following with his illustrations published in book collections. His caricature of Wilde and the American painter James Abbott McNeill Whistler was reproduced in &lt;i&gt;Phil May's Sketch-book&lt;/i&gt;, first published in 1895. The caption refers to Whistler's repeated accusation that Wilde plagiarized his ideas. May's caption reads: [Wilde]: "That was an awfully good joke you made last night. I wish I could say it was mine". [Whistler]: "You will my boy. You will".
+				&lt;br/&gt;&lt;br/&gt;
+				The acerbic Whistler's eagerness to court controversy, and his craving for the limelight, made him and Wilde natural friends and together they fronted the public image of the Aesthetic movement. Twenty-years older, Whistler initially regarded Wilde as a disciple demanding of his master's approval. Indeed, Wilde's editor, Frank Harris, believed that Whistler did more to influence Wilde's wit than any other acquaintance: "Of all the personal influences which went into the moulding of Oscar Wilde's talent, that of Whistler was by far the most important; Whistler taught him the value of wit and the power a consciousness of genius and a knowledge of men lend to the artist".
+				&lt;br/&gt;&lt;br/&gt;
+				However, as with many of both men's close friendships, theirs ended in acrimony. Whistler felt increasingly that Wilde, whose reputation was eclipsing his own, had copied his dandyish style of dress and speech (hence the caption in May's caricature). Responding to Whistler's charge of plagiarism, Wilde retorted, "as far as borrowing Mr. Whistler's ideas about art, the only thoroughly original ideas I have ever heard him express have had reference to his own superiority over painters greater than himself". Wilde further opined, "Mr Whistler always spelt art, and we believe still spells it with a capital I". Whistler retorted, "What has Oscar in common with Art? Except that he dines at our tables, and picks from our platters the plums for the pudding he peddles in the provinces". By 1890 the two men's friendship had dissolved entirely with Wilde, ever one to have the last word, basing the murdered artist in his novel &lt;i&gt;The Picture of Dorian Gray&lt;/i&gt; on his friend-turned-nemesis, Whistler.
+			</desc>
+      <collection>The Art Institute of Chicago</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>The tomb of Oscar Wilde</title>
+      <artist>Jacob Epstein</artist>
+      <use_big_image>true</use_big_image>
+      <year>1914</year>
+      <materials>Hopton Wood stone</materials>
+      <desc>
+				For Wilde's tomb, the modernist sculptor Jacob Epstein created an enormous, horizontally-winged Art Deco Sphinx - carved from a 20-ton block of stone - giving the feeling of forward flight, suggestive of the poet as a messenger. The design may reflect Epstein's early interest in the primal sexuality of Indian and Egyptian art and statues of winged Assyrian bulls in the British Museum. 
+				&lt;br/&gt;&lt;br/&gt;
+				Epstein was commissioned in 1908 to design the tomb, at a cost of £2000. His original sketches depicted two, grieving young men but, abandoning that plan, he drew inspiration from Wilde's poem, &lt;i&gt;The Sphinx&lt;/i&gt;. Epstein initially planned a small angelic figure behind the Sphinx's ear, as a reference to the verse, "sing me all your memories". He also envisaged five figures on the Sphinx's headdress, one with a crucifix perhaps symbolizing martyrdom and Wilde's Catholicism. When the sculpture was previewed in 1912 (in Epstein's London studio), &lt;i&gt;The Guardian&lt;/i&gt; reported: "one may see that this flying messenger, incomplete with worn eyes and the strange headdress, flying through our world with incredible swiftness, telling of beauty and of fatal mutiny against life, is at once a revelation and an enigma that will hold the attention of men as long as the great block of limestone lasts".
+				&lt;br/&gt;&lt;br/&gt;
+				After arriving in Paris, the Sphinx's unusually large testicles were covered over with plaster to be replaced with a bronze plaque of a butterfly. Epstein was furious and refused to attend the tomb's unveiling. The testicles were then stolen by vandals in 1961, leading to rumors that the cemetery manager was using them as a paperweight. The tradition in which visitors would kiss the tomb after applying greasy lipstick to their mouths led to the surface being eroded. In 2011, a glass barrier was erected around the lower half of the tomb to protect it. According to historian Ellen Crowell, the tomb "stands out like a sore thumb in a nineteenth-century cemetery whose sculptural aesthetic seems, to the modern visitor, overarchingly figurative and representational. It is precisely this aesthetic alterity that has, for one hundred years, prompted viewers to regard Epstein's 'Tomb for Oscar Wilde' as future- rather than past-oriented, more modernist than Victorian, a monument to enlightened pride rather than retrograde shame".
+			</desc>
+      <collection>Père Lachaise Cemetery, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>From Oscar Wilde</title>
+      <artist>Anselm Keifer</artist>
+      <year>1974</year>
+      <materials>Watercolor and Gouache on paper</materials>
+      <desc>
+				In this small and delicate early watercolor, Kiefer depicts a pale pink rose blooming against a dense and fluidly painted organic background. The inclusion of the words "von Oskar Wilde/für Julia" suggests that the rose is a gift from Wilde himself to Kiefer's then wife. It has been suggested that if the picture is turned anti-clockwise, the face of the artist can be seen in the flower.
+				&lt;br/&gt;&lt;br/&gt;
+				Keifer has said, "If you have a big idea, a big theme, you need a small format", and here, and in many other works, his interest in alchemy and transformation is reflected in the theme of growth and decay in nature. The image specifically references Wilde's touching fairy tale &lt;i&gt;The Nightingale and the Rose&lt;/i&gt;. In it, the songbird sacrifices itself on the rosebush's thorns with the combination of the birdsong and its blood giving life to the red flower of love. The rose is then plucked by a lovestruck philosophy student who presents the flower to his true love. She however rejects him in favor of another suitor who brings her jewels. Brokenhearted, the injured third party turns back to philosophy, the only kind of life knowledge he understands (a knowledge certainly more "knowable" than love).
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>A conversation with Oscar Wilde</title>
+      <artist>Maggi Hambling</artist>
+      <use_big_image>true</use_big_image>
+      <year>1998</year>
+      <materials>Granite</materials>
+      <desc>
+				This "witty and amusing" sculpture/bench in central London resembles a sarcophagus with a sinewy bust of Wilde laughing, emerging from one end like the wisps of smoke from his cigarette. It is inscribed with a famous quotation from Wilde's play &lt;i&gt;Lady Windermere's Fan&lt;/i&gt;: "We are all in the gutter, but some of us are looking at the stars". 
+				&lt;br/&gt;&lt;br/&gt;
+				A permanent memorial to Wilde in central London was first suggested during the 1980s and early 1990s by fans of the playwright's work, including the Queer avant-garde filmmaker Derek Jarman. Following Jarman's death in 1994, a committee, including thespians Dame Judi Dench, Sir Ian McKellen, and the Irish poet and Nobel Laurette Seamus Heaney, brough the proposal to fruition with hundreds of individual donors and foundations contributing funds for the project. Following Danny Osbourne's &lt;i&gt;Oscar Wilde Memorial Sculpture&lt;/i&gt; which was unveiled in Wild's birthplace (in Merrion Square, Dublin) a year earlier, Hambling's work was chosen from a shortlist of six. Hambling said of her work, "The idea is that he is rising, talking, laughing, smoking from this sarcophagus and the passer by, should he or she choose to, can sit on the sarcophagus and have a conversation with him". 
+				&lt;br/&gt;&lt;br/&gt;
+				The memorial, while popular with passers-by, met with mixed critical reviews. Tom Lubbock, chief art critic for &lt;i&gt;The Independent&lt;/i&gt; acknowledged the need for a Wilde memorial in London, and commended the project for its "real and proper Victorian public spirit", but he dismissed the work itself which he compared to a Madame Tussauds waxwork. He wrote: "We have nothing of the nerve, the folly, the ruin, the glory [of Wilde]. We have nothing for history - only the whimsical notion of us chatting cheerfully with this anodyne figment". 
+				&lt;br/&gt;&lt;br/&gt;
+				Charles Spencer, chief drama critic of &lt;i&gt;The Telegraph&lt;/i&gt; added to the scorn when he wrote: "Hideous is too gentle a word to describe it. [...] The idea is quite witty [...] but the representation of Wilde is loathsome. He looks even worse than the picture of Dorian Gray in the attic, sporting Medusa-like snakes of hair and a vile, degenerate grin. Even Wilde, the master of the aphorism, might have been stumped for words to describe it". It was left to committee member Jeremy Isaacs to highlight the fact that the sculpture "already evokes more favourable response from the public than any other statue I know in London, with the possible exception of Peter Pan".
+			</desc>
+      <collection>Adelaide Street, London</collection>
+    </artwork>
+    <artwork>
+      <title>The Oscar Wilde Temple</title>
+      <artist>McDermott and McGough</artist>
+      <year>2017</year>
+      <materials>Oil on linen</materials>
+      <desc>
+				Working in painting, film, photography and sculpture, David McDermott and Peter McGough, have explored such themes as religion, medicine, fashion and sexual behaviour throughout their partnership. For many years, they dressed as Victorian gentlemen, living in a townhouse lit only by candlelight, creating a historical fantasy where they could live and work. Initially transforming the Russell Chapel in the Church of the Village in New York, their immersive installation, &lt;i&gt;The Oscar Wilde Temple&lt;/i&gt; took 20 years to create, setting out to transport visitors back to Wilde's visit to America between 1882-83. 
+				&lt;br/&gt;&lt;br/&gt;
+				The artists created a complete, Aesthetic movement interior with fabric wall coverings, architectural and decorative details and furnishings. The Temple's centerpiece was an altar built around a 4'3" wooden statue of Wilde, poised in a devotional style. On the pedestal below is carved C33, Wilde's prison number at Reading Gaol. Framing each side of the statue were eight "stations": paintings tracing the journey of Wilde - depicted as a divine being - from arrest through imprisonment and his hard labor. "Commemorating Oscar Wilde as a martyr", wrote art critic Leon Craig, "subverts traditional Christian teachings on bodily purity and homosexuality, while pointing out the homoeroticism in many medieval and early modern representations of male martyrs".
+				&lt;br/&gt;&lt;br/&gt;
+				A second altar honored people who have died, or are suffering, from AIDS. It was complemented with portraits of other contemporary "martyrs" who have contributed to rising worldwide awareness of the disease. McDermott &amp; McGough aimed to celebrate the creative process by which experience is transformed into art and reality abstracted into revelation. Critic Rosemary Waugh wrote, "The Oscar Wilde Temple is essentially a shrine, a devotional offering to all that LGBT+ people have endured, past and present. In this respect, it's intensely sad, a reminder of entirely needless suffering".
+			</desc>
+      <collection>Studio Voltaire, New York</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity alt="Frank Miles">miles_frank</entity>
+        <entity alt="Théophile Gautier">gautier_théophile</entity>
+        <entity>baudelaire_charles</entity>
+        <entity>poe_edgar_allan</entity>
+        <entity>rossetti_dante_gabriel</entity>
+      </column>
+      <column>
+        <entity>pater_walter</entity>
+        <entity>ruskin_john</entity>
+        <entity>beardsley_aubrey</entity>
+        <entity>whistler_james_abbott_mcneill</entity>
+        <entity>whitman_walt</entity>
+      </column>
+      <column>
+        <entity alt="Freemasonry">freemasonry</entity>
+        <entity alt="Catholicism">catholicism</entity>
+        <entity>aesthetic_movement</entity>
+        <entity>decadent_movement</entity>
+        <entity>pre_raphaelites</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Alice Pike Barney">barney_alice_pike</entity>
+        <entity alt="Charles Ricketts">ricketts_charles</entity>
+        <entity alt="Charles Shannon">shannon_charles</entity>
+        <entity>kiefer_anselm</entity>
+        <entity alt="McDermott and McGough">mc_dermott_and_mc_gough</entity>
+      </column>
+      <column>
+        <entity alt="Augustus John">john_augustus</entity>
+        <entity alt="Natalie Clifford Barney">barney_natalie_clifford</entity>
+        <entity alt="William Rothenstein">rothenstein_william</entity>
+        <entity>sickert_walter</entity>
+      </column>
+      <column>
+        <entity>art_nouveau</entity>
+        <entity>symbolism</entity>
+        <entity>decadent_movement</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Oscar Wilde</title>
+          <link>0394759842</link>
+          <info>By Richard Ellmann</info>
+        </entry>
+        <entry>
+          <title>Oscar - A Life</title>
+          <link>1788545982</link>
+          <info>By Matthew Sturgis</info>
+        </entry>
+        <entry>
+          <title>Making Oscar Wilde</title>
+          <link>B08DJBPVVS</link>
+          <info>By Michele Mendelssohn</info>
+        </entry>
+        <entry>
+          <title>Oscar Wilde: The Unrepentant Years</title>
+          <link>0674737946</link>
+          <info>By Nicholas Frankel</info>
+        </entry>
+        <entry>
+          <title>The Secret Life of Oscar Wilde: An Intimate Biography</title>
+          <link>0465044387</link>
+          <info>By Neil McKenna</info>
+        </entry>
+        <entry>
+          <title>Oscar Wilde: His Life and Confessions</title>
+          <link>1528715306</link>
+          <info>By Frank Harris</info>
+        </entry>
+        <entry>
+          <title>Son of Oscar Wilde</title>
+          <link>B000GG4J50</link>
+          <info>By Vyvyan Holland</info>
+        </entry>
+        <entry>
+          <title>The Real Trial of Oscar Wilde</title>
+          <link>000715805X</link>
+          <info>By Merlin Holland</info>
+        </entry>
+        <entry>
+          <title>Wilde in America: Oscar Wilde and the Invention of Modern Celebrity</title>
+          <link>0393063178</link>
+          <info>By David M. Friedman</info>
+        </entry>
+        <entry>
+          <title>Built of Books: How Reading Defined the Life of Oscar Wilde</title>
+          <link>0805092463</link>
+          <info>By Thomas Wright</info>
+        </entry>
+        <entry>
+          <title>The Unmasking of Oscar Wilde</title>
+          <link>1621640590</link>
+          <info>By Joseph Pearce</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>The Soul of Man under Socialism and Selected Critical Prose</title>
+          <link>0140433872</link>
+          <info>By Oscar Wilde</info>
+        </entry>
+        <entry>
+          <title>The Decay of Lying: An Observation</title>
+          <link>B086L56FSK</link>
+          <info>By Oscar Wilde</info>
+        </entry>
+        <entry>
+          <title>The Critic as Artist</title>
+          <link>1092572074</link>
+          <info>By Oscar Wilde</info>
+        </entry>
+        <entry>
+          <title>The Complete Works of Oscar Wilde</title>
+          <link>006096393X</link>
+          <info>By Oscar Wilde</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Oscar Wilde - The Official Website of Oscar Wilde</title>
+          <link>https://www.cmgww.com/historic/wilde/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Oscar Wilde Online</title>
+          <link>https://www.wilde-online.info/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The Oscar Wilde Society</title>
+          <link>https://oscarwildesociety.co.uk/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Memorial for Oscar Wilde's grave in Paris - archive, 1912</title>
+          <link>https://www.theguardian.com/culture/2020/feb/12/memorial-for-oscar-wildes-grave-in-paris-archive-1912</link>
+          <info>
+						By James Bone
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 12, 1912
+					</info>
+        </entry>
+        <entry>
+          <title>Constructing Artist and Critic Between J. M. Whistler and Oscar Wilde: "In the best days of art there were no art-critics"</title>
+          <link>https://muse.jhu.edu/article/366476</link>
+          <info>
+						By Anne Bruder
+						&lt;br&gt;
+						English Literature in Translation: Volume 47, Number 2, 2004
+					</info>
+        </entry>
+        <entry>
+          <title>Rupert Everett interview</title>
+          <link>https://www.bbc.co.uk/sounds</link>
+          <info>
+						The Graham Norton Show, BBC Radio 2 
+						&lt;br&gt;
+						November 21, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Aesthetics and Politics: The Afterlives of Oscar Wilde's The Soul of Man Under Socialism (1891)</title>
+          <link>https://journals.openedition.org/erea/5129?lang=en</link>
+          <info>
+						By Xavier Giudicelli
+						&lt;br&gt;
+						OpenEdition Journal 
+						&lt;br&gt;
+						February 13, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>The Yellow Book</title>
+          <link>https://www.bl.uk/collection-items/the-yellow-book</link>
+          <info>
+						British Library Books Collection
+					</info>
+        </entry>
+        <entry>
+          <title>The Critic as Artist</title>
+          <link>http://www.wilde-online.info/the-critic-as-artist.html</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+        <entry>
+          <title>Art and the Handycraftsman</title>
+          <link>http://www.wilde-online.info/art-and-the-handicraftsman.html</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+        <entry>
+          <title>The English Renaissance</title>
+          <link>http://www.wilde-online.info/essays-and-lectures.htm</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+        <entry>
+          <title>House Decoration</title>
+          <link>http://www.wilde-online.info/house-decoration.html</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+        <entry>
+          <title>Lecture to Art Students</title>
+          <link>http://www.wilde-online.info/lecture-to-art-students.html</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+        <entry>
+          <title>London Models</title>
+          <link>http://www.wilde-online.info/london-models.html</link>
+          <info>
+						By Oscar Wilde
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Omnibus - 'Oscar Wilde'</title>
+          <link>https://www.youtube.com/watch?v=wRnlAvihd_0</link>
+          <info>In this BBC documentary, writer Michael Bracewell portrays Oscar Wilde as an inspiration to generations of rockers and artists. Contributors include Neil Tennant from Pet Shop Boys, playwright Tom Stoppard and actor Stephen Fry.</info>
+        </entry>
+        <entry>
+          <title>Oscar Wilde</title>
+          <link>https://www.youtube.com/watch?v=h_SCMya-20o</link>
+          <info>2001 Biography channel/History Television documentary</info>
+        </entry>
+        <entry>
+          <title>Reputations: Oscar Wilde himself</title>
+          <link>https://www.youtube.com/watch?v=l4x3ADf0eBo</link>
+          <info>Biography channel documentary</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Wilde (1997)</title>
+          <link>https://www.amazon.com/gp/product/B00KP7RW9A?tag=tharst-20</link>
+          <info>British biopic starring Stephen Fry and Jude Law</info>
+        </entry>
+        <entry>
+          <title>The Happy Prince (2018)</title>
+          <link>https://player.bfi.org.uk/rentals/film/watch-the-happy-prince-2018-online</link>
+          <info>Rupert Everett stars as Wilde during his final, tragic days</info>
+        </entry>
+        <entry>
+          <title>The Trials of Oscar Wilde (1960)</title>
+          <link>https://www.youtube.com/watch?v=kQWf3VyLu9Y</link>
+          <info>Peter Finch plays Wilde in this account of his criminal cases</info>
+        </entry>
+        <entry>
+          <title>Oscar Wilde (1960)</title>
+          <link>https://www.youtube.com/watch?v=CKalCK0SSM0</link>
+          <info>Low-budget biopic starring Robert Morley</info>
+        </entry>
+        <entry>
+          <title>Wilde Salomé (2011)</title>
+          <link>https://www.youtube.com/watch?v=jbsN7BhF10I</link>
+          <info>Docu-drama starring, and written and directed by, Al Pacino</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

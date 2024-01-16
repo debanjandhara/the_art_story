@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>fini_leonor</id>
+    <name>Leonor Fini</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1931 - 1996</years>
+    <description>Throughout a long career, the surreal canvases of Leonor Fini's journey between the pains of despair and the serenity of enlightenment.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>Italian</nationality>
+    <occupation>Surrealist Painter, Designer, Illustrator, and Author</occupation>
+    <birthDate>August 30, 1907</birthDate>
+    <birthPlace>Buenos Aires, Argentina</birthPlace>
+    <deathDate>January 18, 1996</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>1</highlight>
+    <img_version>?1</img_version>
+    <pub_time>12/26/2017</pub_time>
+  </main>
+  <includes>
+    <include>surrealism</include>
+    <include>magic_realism</include>
+    <include>neo_romanticism</include>
+    <include>symbolism</include>
+  </includes>
+  <similar_movements>
+    <movement>surrealism</movement>
+    <movement>magic_realism</movement>
+    <movement>symbolism</movement>
+    <movement>lgbt_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>ernst_max</artist>
+    <artist>carrington_leonora</artist>
+    <artist>balthus</artist>
+    <artist>maar_dora</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I have always loved, and lived, my own theatre."</q>
+    <q>"I paint things that don't exist, and that I'd like to see."</q>
+    <q>"The imagination feeds on images it sees on its path. Here are some of the journeys mine has taken."</q>
+    <q>"Marriage never appealed to me, I've never lived with one person. Since I was 18, I've always preferred to live in a sort of community - A big house with my atelier and cats and friends, one with a man who was rather a lover and another who was rather a friend. And it has always worked."</q>
+    <q>"The real excitement for me was preparing my costume. I used to arrive late, about midnight, light-headed with joy at being a royal owl, a large grey lion, the queen of the underworld."</q>
+    <q>"I always imagined I would have a life very different from the one that was imagined for me, but I understood from a very early time that I would have to revolt in order to make that life. Now I am convinced that in any creativity there exists this element of revolt."</q>
+    <q>"Paintings, like dreams, have a life of their own and I have always painted very much the way I dream."</q>
+    <q>"A woman should live with two men; one more a lover and the other more a friend."</q>
+  </quotes>
+  <authors>
+    <author link="dias">Sarah Frances Dias</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Dr Rebecca Baillie</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Throughout a long career, the canvases of Leonor Fini's journey between the pains of despair and the serenity of enlightenment but remain polished with eroticism at every extreme. Driven by passion, liberty, and sexual experimentation, she was arguably the most rebellious, theatrical, and autonomous of the female &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt;. Described by many to be particularly tall and commanding in physical appearance with very unusual cat-like eyes, in many ways she was more creaturely than human. Taking the artistic interest in the motif of an animal/human hybrid somewhat literally, she stood as an embodiment of feline transformation and metamorphosis, and came to accurately identify herself with the ancient figure of a Sphinx. Deadly in Greek tradition, whilst benevolent but ferocious in Egyptian stories, the appearance of the mythical creature is symbolic of Fini's love for artifice and nature combined.
+			&lt;br/&gt;&lt;br/&gt;
+			Although she exhibited with the Surrealists, Fini's staunch individuality was often at odds with the collective ideas of the group. Unlike many women who became central to the movement, she was not impressed by the charisma and intellectualism of male members. Already well read and versed in psychoanalytic theory, Fini refused to be submissive or subordinate to men. She formed an intense friendship with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-carrington_leonora"&gt;Leonora Carrington&lt;/span&gt; in the summer before the onset of World War II, but in general did not draw upon the support of other women in the way that Carrington and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-varo_remedios"&gt;Remedios Varo&lt;/span&gt; did. She lived more flamboyantly and communally and always with two men, one as her lover and one as her friend.
+		</synopsys>
+    <key_ideas>
+      <idea>Brought up in Italy, Fini studied &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerist&lt;/span&gt; painting, and while rejecting earlier artistic qualities of balance, proportion, and ideal beauty she instead exaggerated and elongated limbs and facial features in her portraits and conjured the same unsettling instability and tension encountered in 16&lt;sup&gt;th&lt;/sup&gt; century Mannerist canvases. It is remarkable that Fini had no formal artistic training, as she was technically impeccably skilled.</idea>
+      <idea>The artist lived a life directed by unrestrained passion and desire. Unlike Dorothea Tanning who explored early childhood encounters with sensuality, Fini explored uncensored adult eroticism. She enjoyed fantasy and role-play; she would often wear masks, dress in men's clothes (including priestly robes), and deliberately tear her own outfits. Along with the Czech Surrealist, Toyen, Fini was the only woman to directly illustrate some of the 19&lt;sup&gt;th&lt;/sup&gt; century sexual revolutionary and pornographer's writing, that of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_sade_marquis"&gt;Marquis de Sade&lt;/span&gt;.</idea>
+      <idea>Fini was utterly fascinated by death and since the age of thirteen had regularly visited the morgue in Trieste. She spent hours studying and drawing both adorned and untouched corpses. Whilst the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bataille_georges"&gt;Georges Bataille&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-masson_andre"&gt;André Masson&lt;/span&gt; theorized such underbelly interests and formally defined them as 'base materialism', the importance of living surrounded by one's own mortality was for Fini, as well as for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kahlo_frida"&gt;Frida Kahlo&lt;/span&gt; , Carrington, and Remedios Varo, simply an individual reality which they had all reached intuitively.</idea>
+      <idea>Fini mourns 'infertility' in her paintings, a theme shared with Kahlo and the two have motifs in common. However, for Fini, the decision not to have children was absolute and voluntary (by hysterectomy) and as such she does not explore notions of 'maternity' in the same way as Kahlo, Carrington, Varo, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tanning_dorothea"&gt;Dorothea Tanning&lt;/span&gt;. She does though reveal an eternal love for cats (a lot like Tanning's connection to small dogs), exposing her need for attachment, and at the same time making a statement on the combined civilized and beastly nature of human beings.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="img" alt="The baby Leonor Fini with her parents in Argentina (1907)" show="0">/images20/photo/photo_fini_leonor_1.jpg</p>
+          <p type="p">Leonor Fini, originally called Eleonora, was born in Buenos Aires in 1907. Her Italian mother Malvina, married Herminio Fini, a wealthy businessman also of Italian background, and together they moved to Argentina. The two separated when Fini was just a baby and Malvina quickly moved back home to Trieste in Italy with her daughter. Raised entirely by her independent mother, Fini experienced a free and bohemian lifestyle from an early age. The separation between the artist's parents was not simple; Herminio fought for the custody of Fini and once tried to kidnap her. As result, Fini spent some of her childhood years disguised as a boy, likely initiating a lifelong fascination for dressing up.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="img" alt="Leonor Fini when she was six years old, in Trieste, Italy (c. 1913)" show="0">/images20/photo/photo_fini_leonor_2.jpg</p>
+          <p type="p">During her youth, Fini had a profoundly rebellious spirit, and was expelled from multiple schools for a lack of ability to adhere to the 'rules'. From a very young age she developed a fascination with drawing as a means to understand the world around her. She loved making visits to the local morgue, where she sketched the cadavers in her own alternative, self-directed anatomy sessions. Aside from these efforts, Fini did not have any formal artistic training and was completely self-taught. She learnt about art by drawing, reading books that she found in her uncle's library, and from countless visits to museums during her travels throughout Europe. She was particularly captivated by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;.</p>
+          <p type="p">During her teenage years, Fini suffered from rheumatic conjunctivitis, which forced her to have her eyes bandaged and to live in total darkness for two months. She later recalls that this experience really helped to develop her imagination and to conceive complex visual imagery in her mind. The need to bandage her eyes may also have also inspired a later love of being masked. By the age of seventeen, Fini was already exhibiting her portraits in Trieste, and frequenting the artistic and literary circles of the town, where she was generally considered highly intelligent (she had read Freud before she turned sixteen) and sensitive.</p>
+          <p type="img" alt="Leonor Fini when she was 21, Trieste, Italy (c. 1928)" show="0">/images20/photo/photo_fini_leonor_3.jpg</p>
+          <p type="p">In 1931, she moved briefly to Milan and then to Paris where she became acquainted with Carlos Carrà and Giorgio de Chirico; both became profound influences on the aspiring young artist. By this point, Fini was an ambitious 24 year old, with, as art critic Sarah Kent writes, "a gift for friendship - people loved her warmth, intelligence, and beauty". It was at this time that she met Max Ernst, who became her lover and introduced her to the Surrealists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt; along with many other painters and writers of the group.</p>
+          <p type="img" alt="Leonor Fini in Paris, photographed by Henri Cartier-Bresson, a notorious French photographer known for his humanist approach and for capturing decisive moments of life. (1932)" show="0">/images20/photo/photo_fini_leonor_4.jpg</p>
+          <p type="p">Fini quickly became an integral part of the Parisian art scene and social circles. She became known for her eccentricity, flamboyant personality, and particularly theatrical ways of dressing. Art critic Sarah Kent says, "She would dye her hair blue, orange, red or gold and attend private views and parties dressed as a man, or wearing nothing but white boots and a cape of white feathers". During this time, she was also exhibiting her work in Parisian art galleries - one of her first exhibitions was at Christian Dior's gallery that was run by Dior before he became an acclaimed fashion designer.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Leonor Fini photographed by Georges Platt Lynes, an American fashion photographer, when she was in New York for a collective exhibition (1936)" show="0">/images20/photo/photo_fini_leonor_5.jpg</p>
+          <p type="p">Upon invitation by Julien Levy, the renowned American art dealer, Fini participated in a collective exhibition in New York in 1936, along with fellow surrealist European and American painters including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cornell_joseph"&gt;Joseph Cornell&lt;/span&gt;, and Pavel Tchelitchew. Although her works were constantly featured alongside those of the Surrealists, she never became a formal member of the group, always preferring to remain an independent artist. In 1936, Fini moved from Italy to France and soon after met Carrington who had moved to Paris in 1937 (having become the girlfriend of Ernst some years after Fini had been his lover). The two women were like-minded in many ways and spent an intense summer in the French countryside together in the months before the announcement of World War II.</p>
+          <p type="p">Throughout this time, Fini also worked as an accomplished portraitist (painting portraits of many celebrities and visitors to Paris, and especially of her friends including writer Jean Genet, actress Maria Casarès, ballerina Margot Fonteyn, and the socialite Hélène Rochas) as well as an illustrator, illustrating Edgar Allan Poe and Shakespeare, and often donating her drawings to new emerging writers. Besides being generous, she was talented, glamorous, and often perceived as being profoundly controversial. Art critic Catherine Styles McLeod describes her as "magnificent, perturbing, mocking enigmatic, terrible, and compassionate". Art critic Joseph Nechvatal further enhances her colorful existence in that he writes, "her wild lifestyle, open bisexuality, and infamous &lt;i&gt;ménage à trois&lt;/i&gt; relationships shocked even the Parisian café society".</p>
+          <p type="img" alt="Gala and Salvator Dalì, Leonor Fini and André Pieyre de Mandiargues, photographed by Stanislao Lepri, Fini's lover (1940). The photograph captures the friends on holidays in Arcachon, a seaside resort in southwest France." show="0">/images20/photo/photo_fini_leonor_6.jpg</p>
+          <p type="p">Fini spent the war years in Monte Carlo and Rome, continuing both her portraits and her 'surreal' works with signature erotic, Gothic, and Mannerist qualities. It was in Rome that she met the Italian Count Stanislao Lepri, who swiftly abandoned a prodigious diplomatic career for a creative and experimental life by Fini's side. The couple returned to Paris in 1946, where they lived together with lots of Persian cats. It is said that at one point, Fini owned 23 cats, that all shared her bed and ate at the dinner table, whether there were guests or not.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Leonor Fini in her studio in Rue Payenne, Paris (1952)" show="0">/images20/photo/photo_fini_leonor_7.jpg</p>
+          <p type="p">Between 1946 and 1953, Fini had a very active social life and remained an influential and central figure of the high society, attending countless masked balls, always making the magazine headlines afterwards for her exuberant outfits. In 1952, she met the Polish writer, Konstanty Jelenski, known as Kot, who moved in with her and Lepri in Paris; the three remained inseparable until their deaths.</p>
+          <p type="p">At age of 45, Fini was painting prolifically and had also immersed herself in other creative endeavors. Her passion for extravagant masks and drama led her to doing some stage, costume, and poster design for various theatres and opera houses, including the Paris Opera and the Metropolitan Opera Association. Fini also designed the costumes for Frederico Fellini's movie &lt;i&gt;8 ½&lt;/i&gt; in 1963, and in 1972 she designed Brigitte Bardot's costume for the Rothschilds' Ball.</p>
+          <p type="img" alt="Leonor at the monastery of Nonza, Corse, photograph (detail) by Eddy Brofferio (1967)" show="0">/images20/photo/photo_fini_leonor_8.jpg</p>
+          <p type="p">During the 1960's, Fini was often photographed by her friend Eddy Brofferio, sometimes at the monastery of Nonza on the island of La Corse where she spent recurrent holidays. Typically in full-feathered headdresses and elaborate costumes, these dramatic pictures reveal Fini's continuing exuberant and performative lifestyle. In the company of Kot and Lepri, the artist continued living in her Parisian apartment, painting surrounded by her cats. Still active and painting well into her 80s, she died in 1996 at the age of 89.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Leonor Fini portrait, Paris, photograph by Eddy Brofferio, (1975)" show="0">/images20/photo/photo_fini_leonor_9.jpg</p>
+          <p type="p">Leonor Fini was befriended by the whole Parisian artistic community and was one of the most photographed people of the 20&lt;sup&gt;th&lt;/sup&gt; century, resulting in the legacy of "queen of the Paris art world" (expression coined by art critic Sarah Kent). Her popularity in artistic social circles made her the subject of many poems, artworks, and photographs by various artists and writers of her time, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miller_lee"&gt;Lee Miller&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beaton_cecil"&gt;Cecil Beaton&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt;. Besides this social popularity, due to her recurrent depiction of empowered woman, Fini is generally considered a great contributor to the feminist movement, being perceived as a female icon and described as a 'libertine'. Based on her work alone, Fini has been described as a European &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kahlo_frida"&gt;Frida Kahlo&lt;/span&gt;, and as a "female &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;".</p>
+          <p type="p">Sadly, her eccentric lifestyle, open sexuality, and bohemian Parisian society life has diverted attention away from her artwork. As such, the Art Dealers Association of America considers her "the most undervalued artist of the 20&lt;sup&gt;th&lt;/sup&gt; Century". A view seconded by art critic Joseph Nechvatal who claims that since her Parisian popularity that she has been "sliding ever since toward obscurity".</p>
+          <p type="p">She was a painter, performer, designer, feminist, and mystic, who refused to be labeled or categorized (even as Surrealist). She questioned pre-established beliefs and pushed limits, even those of the open minded. She exhibited a freedom of approach, which resulted in powerful self-expression and collective female empowerment. As such her influence is felt powerfully among young and emerging female artists, shown particularly by the &lt;i&gt;Dreamers Awake&lt;/i&gt; (2017) exhibition in London that showcased the work of artists influenced by the 'female Surrealists'. Art historian Mathew Gale writes: "Leonor Fini is remembered for the exoticism of her imagery and her challenges to conventions".</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks></similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Self Portrait with Scorpion</title>
+      <year>1938</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this relatively early self-portrait, Fini confronts the viewer with a direct stare and reveals a hidden scorpion beneath a single glove (a commonly recurring motif within the Surrealist &lt;i&gt;oeuvre&lt;/i&gt;). Although on first glance the woman appears feminine and attractive, a closer look uncovers the predatory and venomous creature as well as tears in an apparently traditional blouse and skirt. Fini was known to intentionally rip outfits with the suggestion of clothes torn in passion, especially when a trace of red is revealed beneath the folds of fabric. Perhaps this is a vaginal metaphor, an invitation to pleasure with a simultaneous warning. The blouse could also make reference to the structure of the scorpion's armored abdomen and as such introduces the theme of metamorphosis from human to animal to which Fini will often return.
+				&lt;br/&gt;&lt;br/&gt;
+				As a self-taught artist, Fini's works reflect influence from multiple sources. She was inspired by the Romantics, by the Pre-Raphaelites, by the Flemish masters including Hieronymus Bosch, by elongation techniques of the Italian Mannerists, by Symbolist painters, and by the Surrealist environment she found herself an integral part of. She also found inspiration in her dreams. The scorpion here could be interpreted as a symbol of feminine power, in a similar way that the spider is used by Louise Bourgeois decades later. The art historian, Mathew Gale claims that "Fini located herself within a specifically female hermetic tradition of an originary and powerful Great Goddess", emphasizing the qualities of the powerful female in which her work is rooted."
+				&lt;br/&gt;&lt;br/&gt;
+				Sexually charged and encouraging the viewer to look beyond the surface to the layers beneath, the painting bears parallel to many other Surrealist works. With traces of a bodily interior exposed from above one is reminded of &lt;i&gt;Fur Teacup&lt;/i&gt; by Meret Oppenheim (1936), and equally of Oppenheim's work in general, often re-imagining the glove and imbuing her objects with a creaturely life. Dorothea Tanning also used the folds of fabric to hint towards sexual experience, and this idea has since been taken further in the psychologically challenging fabric sculptures of Louise Bourgeois.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>The Alcove: An Interior With Three Women</title>
+      <year>1939</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The work, also known as &lt;i&gt;La Chambre Noir&lt;/i&gt;, or &lt;i&gt;The Dark Chamber&lt;/i&gt;, features a low-lit interior with three women, one foregrounded and two sitting behind on the bed. The woman in battle dress at the front is a direct portrait of Leonora Carrington, made whilst the two artists spent the summer together in 1939. The work shows the intense admiration that Fini felt for her friend, as Carrington is depicted as a 'woman warrior', a tower of strength like a modern day Joan of Arc. Carrington even holds Fini's signature striped black and white fabric that she wore often, thus revealing the immense degree to which she identified with her fellow artist. The two figures on the bed may both be reminiscent of Fini herself looking over at Carrington in wonder. The overall composition, drapery, and pulled curtains all hark back to much earlier paintings and to settings of the Old Masters. The work captures a moment experienced by Fini of productive female companionship. This however, was not typical for the artist, and unfortunately after the war she did not spend much time with Carrington (a much altering time for all and one that saw Carrington's permanent emigration to Mexico), preferring in general the company of men.
+				&lt;br/&gt;&lt;br/&gt;
+				Here though, during the last months of calm before the onset of wartime chaos, the power of three women is considered. Whether the three fates, the three graces, or three sorceresses, all of these trios embark on important ritual tasks that have the potential to decide on matters of life and death. Carrington and Varo (who Fini did not know but shared artistic affinity with) were particularly interested in magic, ritual, and the occult, and there is certainly a sense that some kind of ancestral powers are here being summoned. Deeply inspired by Carl Jung and his mythological connections and use of symbolic universal archetypes, many of Carrington and Varo's own portraits present women on quests, or journeys, traveling to realms where they may find hidden and enlightening treasure. Fini seems to suggest here, in her rendering of the eternal shared language of the feminine, by giving her friend an armored breastplate that any great secrets of life, if they are to be found must be fought for.
+			</desc>
+      <collection>Collection of the Edward James Foundation, Sussex, UK</collection>
+    </artwork>
+    <artwork>
+      <title>The Shepherdess of the Sphinx</title>
+      <year>1941</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The painting depicts a powerful tribal like woman, with her commanding staff, looking over a group of smaller sphinxes. They all abide a dramatic, arid, and deserted landscape. There is a somber feeling of destruction that is further emphasized by the broken egg-shells, bones, and other remains that are scattered on the ground. This kind of vast, desolate and unearthly landscape is one explored by other female Surrealists, including Kay Sage, Toyen, and also to a degree, by Remedios Varo.
+				&lt;br/&gt;&lt;br/&gt;
+				The image of the sphinx (a mythological hybrid that is half lion half female sometimes with bird wings) is a recurring motif for Fini, which appeared in many of her paintings during the 1940s. So inspired by the fictional creature, in 1951 she traveled to Egypt to see some original examples carved in colossal stones. Sphinxes had already been revived since ancient times, depicted in the 19&lt;sup&gt;th&lt;/sup&gt;-century symbolist works of the Belgian painter, Fernand Knopff. The sphinx has long since been associated with death and destruction, but also with notions of transformation. For the renowned art historian Whitney Chadwick, with the suggestion that everyone has the power to be active in the formation of their own identity and to re-invent themselves, "by assuming the form of the sphinx Fini exercises all the powers that have been lost to contemporary woman".
+				&lt;br/&gt;&lt;br/&gt;
+				Upon noticing that the protective armor worn by the guardian 'shepherdess' could be a chastity belt, other interpretations presented with regards to this image are associated with sensuality and sexuality. Looking at the painting along these lines, art historian Rachel Grew adds that: "While this might imply virginity, the way in which she straddles her shepherd's crook is highly suggestive, creating a connection not only to the witch's broom... but also to sexual autonomy". Desire and bodily vigour is portrayed to be an at once destructive and protective force with the roles and intentions of the women depicted remaining elusive and ambiguous.
+			</desc>
+      <collection>Peggy Guggenheim Collection, Venice, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Little Hermit Sphinx</title>
+      <year>1948</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Petit Sphinx hermite&lt;/i&gt;, translated to &lt;i&gt;Little Hermit Sphinx&lt;/i&gt;, is a key work of Fini's post-war period. Painted in a highly intricate, precise, and technical manner, it is likely a direct illustration of how the artist felt following her voluntary hysterectomy undertaken at the end of 1947. The sphinx with eyes downcast in a gesture of intense reflection is a portrait of Fini herself. A broken egg-shell lies poignantly before her as though to confirm that no children will come, and the organ that hangs from the surrounding doorframe although it appears at first as though a lung, must in fact be the artist's recently removed womb. The walls are torn and in tatters making reference to Fini's recent operative trauma and the resulting emotional fragility. Surrounded by bones and decaying leaves and wearing a black cloak, it as though the artist is in mourning.
+				&lt;br/&gt;&lt;br/&gt;
+				Similar themes of mortality, destruction, and death were not only personal to Fini at the time but also reflective of the dominating atmosphere in Europe following the war. Here the sphinx is not empowered and strong as can be in Fini's pictures, but instead retreats, delicate and defeated. As a 'hermit', intensely thoughtful and alone with her art and emotional life, the work recalls the tone of many paintings by Remedios Varo, whilst the art historian Mathew Gale has compared the exquiste technique, dark mood, and "charged atmosphere" of the piece with the painting &lt;i&gt;Eine Kleine Nachtmusik&lt;/i&gt; (1943) by Dorothea Tanning. Interestingly, overall, typically extracting parts of a bodily interior and bringing these to the surface, Fini's way of navigating the world has more in common with earlier times. Earlier cultures used to live much more closely with death - washing bones, using blood in ritual, and preserving bodies - and in this sense Fini recognizes that bringing the insides outside is an essential part of self investigation. She shares this realization with Frida Kahlo.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>The End of the World</title>
+      <year>1949</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Both the title of this work and the image itself are apocalyptic in tone. The work seems to be a partner and follow on piece from the &lt;i&gt;Little Hermit Sphinx&lt;/i&gt;, as bones and decaying vegetal matter still surround the artist as she continues in her personal struggle to come to terms with the loss of her fertility. Fini, semi-immersed in swampy black waters, is surrounded by chaos, destruction, and death. Around her the fragments of cadavers allude to an absence of life whilst in the background the landscape explodes into a fury of red. Despite the pessimism, this is a double portrait, with the artist's bust reflected beneath the waters as well as above and as such suggests that we are dealing with a combination of death and regeneration. The repeated motif of the eye shows that the artist is undergoing a period of intense reflection, whilst her torso has the lifeless quality of a mannequin pointing towards the idea that Fini feels little more than an empty shell.
+			</desc>
+      <collection>Collection of F. Delerue, Switzerland</collection>
+    </artwork>
+    <artwork>
+      <title>La Guardiana del Huevo Negro</title>
+      <year>1955</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The painting portrays a woman cloaked in hues of lemon and light blue, sat alone in the midst of a vast, dry, and arid desert, gracefully balancing a shiny black egg upon her lap. As the title suggests that the woman is keeper of this egg, she is its guardian and protector. Whilst in other works by Fini the egg has been broken, here the tone is entirely different (more positive) and the egg is intact. The artist sits serenely as though a high priestess or a shaman who is getting closer to a far away goal. The painting shares its theme with &lt;i&gt;The Giantess (The Guardian of the Egg)&lt;/i&gt;, painted in 1947 by Leonora Carrington. Despite the fact that Fini was no longer in touch with Carrington and did not know Varo, she reveals that she too is interested in notions of divine and mystical female powers. Such otherworldly leanings are often hinted towards by the figure of the alchemist seeker looking for, or keeping safe, the egg of origin.
+				&lt;br/&gt;&lt;br/&gt;
+				Fini's work in particular has a dream like quality. As such she reveals her interest in the unconscious, in fantasy, and in the combination of the realistic and 'surreal'. The deserted and 'timeless' landscapes that she adopts profoundly recall some of Salvador Dalí's settings, and also those of Yves Tanguy and Kay Sage. Furthermore, the terrain beneath Fini's guardian is split with fissures, and in this way refers to the landscapes in Kahlo's &lt;i&gt;The Broken Column&lt;/i&gt; (1944) and in &lt;i&gt;Tree of Hope&lt;/i&gt; (1946). The woman sitting central to this vast and desolate plain has a slender, elongated figure with a long thin neck, typical of Fini. She is wearing a skin-toned cap, which appears religious in purpose as well as a long, ageless, and otherworldly robe. Overall, the painting demonstrates the artist's interest in ritual and in the ancient systems and powers of our ancestors, an interest that she shares with Carrington and Varo.				
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Les Sorcières</title>
+      <year>1959</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				At this point in her maturity, Fini seemed to depict women as either priestesses or as sorceresses. Here she explores the latter theme with five witches flying on their broomsticks through a crimson red sky. The figures are intertwined, as their brooms curve and bend and encircle the group. Each witch has her own facial expression, some more thoughtful and others careless, but they are all ghastly and grotesque. The red hue is unsettling and make the viewer think of blood and pain. Fini's painting style is unusually frenzied, expressive and intuitive with details unfinished, and as such gives the work an overall feeling of incompleteness.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting was made for Maria Félix, a Mexican actress. Art critic Joseph Nechvatal, wrote that the work is a "cataclysmic pictorial voodoo of swirling feminine sexuality". He further adds that it seems "to contain many florid possibilities of interpretation and thus seems magical - as magic does not conform to our modern canons of causality". The energy of the canvas could be termed 'erotic', but perhaps verging on the aggressive aspects of sexuality.				
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait with Red Hat</title>
+      <year>1968</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Painted when Fini was 61 years old, the painting is fresh and simple in comparison to the earlier highly charged and intense canvases by the artist. She paints herself pensive, determined and independent, and continually youthful. Indeed, from the 1960's onwards, although Fini continued to make erotic works, there is a light playfulness that emerges before unseen. Fini's use of color lightens and brightens, and bulbous flower heads and abundant blooms begin to feature with regularity. Fini said herself that "The imagination feeds on images it sees on its path" and that her paintings were captured images of the places her imagination had taken her. In her latter years it is as though in painting, at least (it is different in her collaborative photography,) that she moves away from performance and artifice and towards nature and growth.				
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Dimanche après-midi</title>
+      <year>c. 1980</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Dimanche après-midi&lt;/i&gt; presents multiple portraits of Fini intertwined with her cats, with all of the figures placed on shelves as though they could be dolls and ornaments. As such the work suggests that mysterious qualities of femininity often lead wrongly to objectification. Aside from this explanation, the work also depicts the joy of a &lt;i&gt;'Sunday Afternoon'&lt;/i&gt;, and confirms Fini's love and devotion towards her feline companions. She treated her own cats like human beings and identified with them to such a degree, that she herself became in part, a cat.				
+			</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Retour de Voyage</title>
+      <year>1985</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Retour de Voyage&lt;/i&gt;, was painted when Fini was 78 years old; she sits in peace, Buddha-like in front of an oriental screen. Her hair is wrapped in an orb or halo-like headdress and her shoulders and hands are accentuated according to her early interest in the Italian Mannerist tradition. The screen could also be perceived as door or gateway, perhaps to a state of enlightenment, or to death. For art historian Rachel Grew, the work builds a bridge between Symbolism and Surrealism, not representative of a dream exactly but still engaged with the psyche. The work is less obviously sexual than Fini's earlier works and seems to embody a more reflective, spiritual, and almost androgynous view of a woman's inner world.
+				&lt;br/&gt;&lt;br/&gt;
+				Art critic Catherine Styles McLeod writes that Fini's: "art is the crack in the mirror, the edge of the equation, the dream of tremendous import half-grasped on awakening, whose meaning dissolves with daylight". With these words she emphasizes the intangible quality at play in these later works and highlights the fact that their actual significance remains mysterious.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity alt="Carlos Carrà">carra_carlos</entity>
+        <entity>de_chirico_giorgio</entity>
+        <entity>oppenheim_meret</entity>
+        <entity>cocteau_jean</entity>
+        <entity>dali_salvador</entity>
+      </column>
+      <column>
+        <entity>ernst_max</entity>
+        <entity>carrington_leonora</entity>
+        <entity>balthus</entity>
+        <entity>maar_dora</entity>
+        <entity alt="Eddy Brofferio">brofferio_eddy</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>symbolism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Richard Overstreet">overstreet_richard</entity>
+        <entity>lucas_sarah</entity>
+        <entity>bourgeois_louise</entity>
+        <entity>smith_kiki</entity>
+      </column>
+      <column>
+        <entity>carrington_leonora</entity>
+      </column>
+      <column>
+        <entity>symbolism</entity>
+        <entity>surrealism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Sphinx: The Life and Art of Leonor Fini</title>
+          <link>0865652554</link>
+          <info>By Peter Webb</info>
+        </entry>
+        <entry>
+          <title>Leonor Fini</title>
+          <link>2828906671</link>
+          <info>By Leonor Fini</info>
+        </entry>
+        <entry>
+          <title>Leonor Fini Graphique</title>
+          <link>B000J0Z9ES</link>
+          <info>By Leonor Fini and Jean-Paul Guibbert</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Fini's Official Website</title>
+          <link>http://www.leonor-fini.com/en/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Leonor Fini</title>
+          <link>https://www.wikiart.org/en/leonor-fini/all-works</link>
+          <info>WikiArt</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Sphinx's Riddle: The Art of Leonor Fini</title>
+          <link>https://issuu.com/weinstein_gallery/docs/the_sphinxs_riddle_the_art_of_leonor_fini</link>
+          <info>
+						Full Page, color exhibition catalogue from the Weinstein Gallery (2012)
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Leonor Fini: Surreal Thing</title>
+          <link>http://www.telegraph.co.uk/culture/art/art-features/6467290/Leonor-Fini-surreal-thing.html</link>
+          <info>
+						By Sarah Kent
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						October 30, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Leonor Fini: Female Libertine</title>
+          <link>http://www.anothermag.com/fashion-beauty/7727/leonor-fini-female-libertine</link>
+          <info>
+						By Laura Havlin
+						&lt;br&gt;
+						Another Magazine 
+						&lt;br&gt;
+						September 3, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Unclassifiable Art of Leonor Fini, a True Paris Bohemian</title>
+          <link>https://hyperallergic.com/267496/the-unclassifiable-art-of-leonor-fini-a-true-paris-bohemian/</link>
+          <info>
+						By Joseph Nechvatal
+						&lt;br&gt;
+						Hyper Allergic Art Magazine 
+						&lt;br&gt;
+						January 13, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>States of Transition: The Femme Fatale in the Art of Fernand Khnopff and Leonor Fini</title>
+          <link>https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/20406/3/Grew%2C%20Fini-Khnopff%20-%20final.pdf</link>
+          <info>
+						By Rachael Grew
+						&lt;br&gt;
+						Loughborough University's Institutional Repository
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Leonor Fini Drawing</title>
+          <link>https://www.youtube.com/watch?list=PL5BCC352A9AF94AC5&amp;time_continue=17&amp;v=ixtgtD8tKs4</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Leonor Fini Documentary (1987)</title>
+          <link>https://www.youtube.com/watch?v=5Ignr_w6ql4</link>
+          <info>By RM Arts Productions</info>
+        </entry>
+        <entry>
+          <title>Angels of Anarchy - Sphinx: Leonor Fini and Surrealism</title>
+          <link>https://vimeo.com/9067869</link>
+          <info>
+						By Dr Peter Webber
+						&lt;br&gt;
+						Lecture at Manchester Art Gallery 
+						&lt;br&gt;
+						November 15, 2009
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Leonor Fini: Film Galerie Minsky (1996)</title>
+          <link>https://www.youtube.com/watch?v=WDuItzj-Tkg</link>
+          <info>Leonor Fini talking about her life (in French)</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Welsh artist Katell Keineg wrote a bibliographical song about Fini, featuring it in her second album Jet, 1997 - Song 6 entitled Leonor</title>
+          <link>https://www.allmusic.com/album/jet-mw0000023160</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Elsa Schiaparelli's Shocking designed by Fini</title>
+          <link>http://www.schiaparelli.com/en/maison-schiaparelli/schiaparelli-and-the-artists/leonor-fini/bottle-for-perfume-shocking-by-schiaparelli/</link>
+          <info>Fini was the creator of the iconic perfume bottle of Elsa Schiaparelli's Shocking, which later inspired Jean Paul Gaultier's perfume bottles of the female torso.</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

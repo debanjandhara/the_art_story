@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>vigee_le_brun_elisabeth_louise</id>
+    <name>Elisabeth Louise Vigée Le Brun</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1770-1824</years>
+    <description>Vigée Le Brun painted portraits for a significant clientele, including the infamous Queen Marie Antoinette.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>French</nationality>
+    <occupation>Painter, Portraitist</occupation>
+    <birthDate>April 16, 1755</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>March 30, 1842</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <pub_time>9/2/2018</pub_time>
+    <cname>Vigée Le Brun</cname>
+  </main>
+  <includes>
+    <include>rococo</include>
+    <include>neoclassicism</include>
+    <include>grand_manner</include>
+  </includes>
+  <similar_movements>
+    <movement>rococo</movement>
+    <movement>neoclassicism</movement>
+    <movement>grand_manner</movement>
+    <movement>portrait_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>kauffman_angelica</artist>
+    <artist>gentileschi_artemisia</artist>
+    <artist>morisot_berthe</artist>
+    <artist>boucher_francois</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"But I could now paint no longer; my broken spirit, bruised with so many horrors, shut itself entirely to my art."</q>
+    <q>"I had left my principal effects and my jewels in Paris, and the fruit of my labors was in the hands of my husband, who spent it all. I lived abroad solely on the proceeds of my painting."</q>
+    <q>"It is not surprising that after criticizing the works of David, which you evidently do not know at all, you do me the honor of criticizing mine, which you know no better. Being ignorant of the English language, I had not been able to read what you wrote about my painting, and when I was told, without being given the particulars, that you had abused me soundly, I answered that, however much you might disparage my pictures, all the worst you could say of them would be less than I think. [...] Nevertheless, being now more fully informed, and knowing that your criticism bears principally on a point that appears important to me, I believe my duty is to repudiate it in the interest of art."</q>
+  </quotes>
+  <authors>
+    <author link="desplanques">Loïc Desplanques</author>
+  </authors>
+  <editors>
+    <editor link="enholm">Molly Enholm</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Grace, elegance and a welcoming manner, these words might as easily describe the personalities portrayed in the portraits by Elisabeth Louise Vigée Le Brun, as the artist herself. Normally a tedious process, Vigée Le Brun's reputation as a lively conversationalist, in addition to her demonstrably expert talent as a painter, were significant to a clientele that often dreaded the notion of having a portrait made. The active engagement between the artist and her subject is evident in the finished portrait, as her sitters appear both relaxed and animated. She quickly won over her most famous and loyal supporter, none other than the controversial Queen of France, Marie Antoinette. In her hands, we see Marie Antoinette take on the roles of queen, equestrian, fashionista, and mother - some portraits are scandalous while others follow royal protocol. 
+			&lt;br/&gt;&lt;br/&gt;
+			Madame Le Brun, as she was commonly known, was an embodiment of French aristocratic culture, which remained a key trait of her style and success in her period of self-imposed exile during the French Revolution. In all, the prodigious artist produced approximately 800 paintings with a long list of royal patrons actively seeking her flattering portrayals across Europe. Although the portraits of Vigée Le Brun might look traditional to contemporary viewers, she was not shy in breaking established norms in the genre. For example, the welcoming gestures and slightly open-mouthed smile, as if in greeting, found in many of her portraits caused quite a stir when debuted. What first caused scandal, however, soon became style, as the pleasing naturalism and relaxed manner of Vigée Le Brun's portraits became immensely popular among the elite and trademark of the artist's distinctive style. 
+		</synopsys>
+    <key_ideas>
+      <idea>The odds facing women artists in the 18&lt;sup&gt;th&lt;/sup&gt; century were nearly insurmountable. The vast majority of women who were able to make a living in the arts learned their trade from their fathers, as did a young Elisabeth Vigée. Her father's early death, however, and the inability for women to receive training as an apprentice or in the academy, meant that the artist was virtually self-taught. From such inauspicious beginnings, Vigée Le Brun developed into one of the leading artists in all of Europe, able to command higher prices for her portraits than any other artist of her time.</idea>
+      <idea>Vigée Le Brun's fame was secured in 1778 when she was summoned to paint her first portrait of the young Queen Marie Antoinette. From that point, Vigée Le Brun was the queen's favorite portraitist, creating 30 portraits over the next decade of the ruler who preferred fashion to royal protocol, often causing a scandal in the process. For example, on more than one occasion, the queen preferred a sense of autonomy in her portrayal as opposed to the lavish trappings of the French court, donning the simple attire of a peasant (or the queen's notion of a peasant).</idea>
+      <idea>The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo&lt;/span&gt; style was in decline by the time of Elisabeth Vigée Le Brun's introduction to the French royal court. In her able hands, however, she deftly combined the grace and elegance of this earlier style with the composure and decorum of the nascent trend of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt;. Although she would never adopt the hard, linear style associated with the high Neoclassical tradition, most notably in the history paintings of her contemporary, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;, she found ways to integrate notions of the past, such as in adopting the attire of antiquity, into her portraiture.</idea>
+      <idea>French culture was widely influential in Europe during the 18&lt;sup&gt;th&lt;/sup&gt; century. Whereas her royalist position would put Vigée Le Brun's life in danger in revolutionary France, it was an asset to the artist abroad. Her highly sought-after style of portraiture represented the height of aristocratic French culture to patrons in Italy, Austria and, perhaps above all, the Russian court of Catharine the Great dramatically increasing the prestige of the artist.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">The daughter of a French pastel portraitist, Elisabeth Louise Vigée was born in Paris in 1755. In her published memoirs, titled &lt;i&gt;Souvenirs&lt;/i&gt;, she describes how she was attracted to drawing from a very early age, admitting, "I scrawled on everything at all seasons; my copy-books, and even those of my schoolmates had their margins crammed with tiny drawings of heads and profiles." Her doting father, Louis Vigée, enthusiastically encouraged her nascent artistic efforts, allowing her free reign of his studio and materials.</p>
+          <p type="p">The young Elisabeth was sent away to a convent for schooling at the age of five, as was customary for a young girl of her class in the mid-18&lt;sup&gt;th&lt;/sup&gt; century. She returned six years later to live with her father, mother, and younger brother Étienne permanently. Her mother, Jeanne Maissin, worked as a hairdresser, which would have put the family in contact with wigmakers and, by association, the aristocratic class, along with the clientele of her artist father. Her father recognized the young child's talent and began her artistic training in earnest upon her return from the convent. However, by the time Elisabeth was 12, her father died, leaving the family both emotionally devastated and financially vulnerable. Perhaps due to the economic challenges faced by the family, her mother remarried a jeweler named Jacques-François Le Sèvre within a year of her father's death, which both Elisabeth and her brother Étienne resented greatly. The marriage proved largely unhappy and fiscally strained, and the young artist soon thereafter began taking painting commissions that helped her to support the family.</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="img" alt="&lt;i&gt;Étienne Vigée&lt;/i&gt; (1774) is the artist's brother who was the subject of one of Le Brun's earliest portraits that she used to advertise her talent. Saint Louis Art Museum" show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_1.jpg</p>
+          <p type="p">The young Elisabeth Vigée was incredibly talented, both socially and artistically, and she achieved fame at an early age despite lacking much formal training beyond that of her father. The limited outside influences she notes in her memoirs include encouragement from other artists she met at her father's studio, including history painter Gabriel François Doyen, a student of Charles-André van Loo whom she credited as having taught her to prepare her palette, and the lesser-known Gabriel Briard. From her father's example, however, she understood the importance of cultivating a strong artistic and intellectual circle, later forming friendships of her own with famous landscapists Claude Joseph Vernet and Hubert Robert, who provided her with advice as well as friendship. To supplement this lack of formal artistic training, Vigée Le Brun would often visit the Louvre (then the site of the Royal Academy of Painting and Sculpture) to study the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, the state-sanctioned Salon art exhibitions, and also the royal art collection. There, she sketched from plaster casts and copied works by the Italian and Flemish masters on view, later noting her particular admiration for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Rubens&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_dyck_anthony"&gt;Van Dyck&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rembrandt_van_rijn"&gt;Rembrandt&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael&lt;/span&gt;.</p>
+          <p type="p">At the age of 17, Elisabeth Vigée was a professional artist, receiving commissions for portraits well beyond her immediate social circle. In 1774, officials closed her studio for receiving commissions without paying dues to the guild, whereby Vigée applied to and became a member of the powerful Academy of Saint Luc at age 19 where her father had formerly been a member. The Academy was perhaps second only to the Royal Academy in prestige for artists in Paris, and more lenient in accepting woman artists among its ranks. Two years later, in 1776, she married the influential art dealer Jean-Baptiste Le Brun. The marriage was heartily promoted by her mother and provided Elisabeth with further access to collections of art and important connections in the upper echelons of French society. As feminist art historian Whitney Chadwick describes in her influential text &lt;i&gt;Women, Art and Society&lt;/i&gt;, the marriage "established her as a major figure in the social life of aristocratic urban Paris." The marriage began on good terms, beneficial to Vigée Le Brun's budding career and producing her beloved daughter Jeanne-Lucie-Louise Le Brun, known as Julie and nicknamed by her mother as "Brunette." Unfortunately, although the two remained in contact throughout their lives, the union proved to be largely unhappy due, in part, to Jean-Baptiste's proclivity to gamble away the artist's profits.</p>
+          <p type="img" alt="&lt;i&gt;Marie Antoinette in Court Dress&lt;/i&gt; (1778), was her first portrait of the young queen, and although very accomplished, the incredibly wide pillar betrays some inexperience. Kunsthistorisches Museum, Vienna" show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_2.jpg</p>
+          <p type="p">By age 23, Vigée Le Brun received her first state-commission to paint the French queen Marie Antoinette for the queen's mother, Empress Maria Theresa of Austria, in 1778. To this point, both the queen and her mother had been quite unsatisfied with any portraits depicting Marie Antoinette. Vigée Le Brun's flattering portrait depicts the young queen in all her magnificent finery, including the required royal corset, and greatly pleased the queen and queen-mother, initiating a lasting relationship between the artist and her queen. In all, Vigée Le Brun painted two state portraits and 30 documented portraits of Marie Antoinette and her children over the ensuing decade. Katherine Baetjer, Curator of European Paintings at the Metropolitan Museum of Art who organized &lt;i&gt;Vigée Le Brun: Woman Artist in Revolutionary France&lt;/i&gt; at the museum, highlights certain similarities between the two women: "Although a woman artist who was the daughter of a hairdresser could not be a friend to the queen of France," Baetjer explains, "perhaps it did matter to the queen that they were exactly the same age, and over the several years that Vigée Le Brun painted her, they were also both of child-bearing age, and both had children, and both lost a child... I have a sense that this must have mattered in some way." Throughout her career, Vigée Le Brun was known for her ability to put her clients at ease, and notes in her memoirs, how she and Marie Antoinette would converse and even sing during their many sittings.</p>
+          <p type="img" alt="In the 1859 painting&lt;i&gt; Marie Antoinette Gathering the Brushes of Madame Vigée Le Brun&lt;/i&gt;, 1784, by Alexis-Joseph Pérignon a mixture of command and humbleness is shown in the queen's pose, with hand extended toward the artist while kneeling to pick up her brushes. New Orleans Museum of Art, New Orleans" show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_3.jpg</p>
+          <p type="p">The closeness of the relationship was well known, as evidenced in a mythologized episode painted by Alexis-Joseph Pérignon in 1859. Situated within the artist's studio, the scene depicts a seemingly candid moment wherein the queen herself deigns to pick up the artist's dropped brushes, not letting Vigée Le Brun do it herself. This anecdote was described decades later in the artist's memoirs, as to having occurred during her second pregnancy, which sadly ended in a miscarriage. Whether this actually occurred, however, is unclear; it may be that an event from the year prior to the scene depicted partially inspired the event. In 1783, it was only through royal intervention that Vigée Le Brun was allowed admittance to The French Royal Academy of Painting and Sculpture. The institution not only had limited the number of female students to four at any given period, but as Chadwick explains, "Royal intervention was necessary to overcome the Director's opposition, Jean-Baptiste-Marie Pierre, on the grounds the Vigée Le Brun's husband was a picture dealer and election was forbidden to anyone in direct contact with the art trade."</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">The next decade saw Vigée Le Brun achieve unprecedented success as an artist in the French Royal Court. During this period, in addition to the numerous portraits of the queen, she also depicted other members of the royal family and aristocracy. Between her admittance in 1784 to the breakout of the revolution in 1789, Vigée Le Brun contributed some 50 paintings, mostly consisting of portraiture, to the yearly Royal Salons. She was active in the royal court and held Salons at her home throughout the 1780s, hosting members of the aristocratic class as well as other artists, including the prominent artist Jacques-Louis David, who was said to once compliment her painting by saying it appeared to have been painted by a man. Although the two may easily have been rivals, as Vigée Le Brun commanded the highest prices of any artist in France for her portraits, they were known to be friendly as colleagues.</p>
+          <p type="p">As the political tide began to turn toward revolution in France, Vigée Le Brun's position as the official portraitist of the queen went from boon to burden for the artist. On October 5, 1789 thousands of Parisians, mostly women, rioted over the price and shortage of bread and marched to Versailles. The following day, King Louis XVI and Marie Antoinette fled the palace. The revolution split French society between those loyal to the monarchy and those who sided with the revolution; Vigée Le Brun and David, for example, would take on opposing sides of this battle.</p>
+          <p type="p">As a loyalist to the &lt;i&gt;Ancien Régime&lt;/i&gt;, Vigée Le Brun was forced to flee France at the onset of the French Revolution. She left Paris on the same day the king left Versailles, travelling in the guise of a commoner with her daughter and governess in a public coach to Italy, with only enough money to cover traveling expenses. Upon arrival, she set up her studio and commenced what she had done since her teenage years, painting portraits to support herself, and now her daughter. Of course, circumstances had much changed over the previous two decades and she now quickly resumed her status as a painter of the aristocratic and ruling families in Italy and beyond. Although she would never see her queen again, the artist remained devoted to Marie Antoinette throughout her life, noting in her memoirs, "the kindness she always bestowed upon me has ever been one of my sweetest memories."</p>
+          <p type="img" alt="This self-portrait from 1790 shows Le Brun painting, her slightly-opened mouth is a signature detail of prior portraits of Queen Marie Antoinette - very shocking for the time. This was her first major painting after leaving France, made for the Uffizi Gallery in Florence." show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_4.jpg</p>
+          <p type="p">Madame Le Brun used the opportunity to view masterworks and hone her education in Italy, a trip commonly known as the Grand Tour. "She had to make a new career for herself," Baetjer explains, "which she did with the largest amount of skill that can possibly be imagined, by seeking out people that she had known in France, including foreigners, and by making these very good connections abroad." Beginning in Florence, Vigée Le Brun contributed a self-portrait to the Uffizi collection in Florence, at once entering her into the canon of European artists, projecting her identity as a female painter at work in her studio. Among her new patrons was Queen Maria Caroline of Naples, sister of Marie Antoinette, herself a generous patron of the arts who had previously commissioned a portrait of &lt;i&gt;Ferdinand IV, King of Naples, and his Family&lt;/i&gt; by Swiss-German history painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kauffman_angelica"&gt;Angelica Kauffman&lt;/span&gt; in 1783, whom Vigée Le Brun also met in Rome.</p>
+          <p type="p">From Italy, Vigée Le Brun and her daughter traveled to Austria, where her fame spread by that time, not withstanding the connection with Marie Antoinette which also proved beneficial. She stayed for three years (1792-1795), noting in her memoirs the generosity of her Austrian patrons. "As for the people," she recalls, "nowhere have I seen such ease and contentment and there was much to delight the eye in this great town." It was in Vienna that she also had her first of several Russian clients, Count Paul Andreevich Shouvalo, which over time piqued her interest in traveling to St. Petersburg. Ilse Bischoff notes in his article, &lt;i&gt;Madame Vigée Le Brun at the Court of Catherine the Great&lt;/i&gt; (1965), "Her good friend Count Razumovsky, Russian ambassador to the court of Vienna, urged her to go, assuring her of Catherine's patronage and promising her many commissions."</p>
+          <p type="p">A three-month journey led her to the Russian capital, where Catharine the Great had welcomed numerous French exiles upon the outbreak of the French Revolution. The Russian monarch had modeled much of her own court after the sophisticated French aristocracy, from the arts, music, fashion and even speaking French over their native tongue. "The chemise dress, which was the subject of a lot controversy as far is it involved Marie Antoinette, because it was thought inappropriate for the queen to appear in these white gossamer/chemise dresses. By the time Vigée Le Brun got to St. Petersburg, the ladies in fashion in St. Petersburg were wearing the chemise dress," Baetjer notes, "she was carrying French taste, but she was also following it... She was moving with the bubble of French culture, which she represented." As such, Vigée Le Brun was very much at home in the Russian court and continued to command astronomical prices for her work.</p>
+          <p type="p">Vigée Le Brun and her daughter would stay for six years in the welcoming atmosphere of the Russian court. It was during this period that the once close relationship between mother and daughter grew strained. No longer a child, but a young woman, Julie fell in love with Gaétan Bernard Nigris, secretary to the Director of the Imperial Theaters of Saint Petersburg, a match her mother did not approve but her father would sanction through written correspondence. The relationship was irrevocably changed, such that when Vigée Le Brun left Russia in 1801 to return to France, her daughter stayed and the two would not speak for nearly two decades.</p>
+          <p type="p">Over the course of the French Revolution, the turmoil in France exponentially escalated, proving Vigée Le Brun's decision for self-imposed exile to be correct. It was not, however, a decision free of consequence. As written in the exhibition catalogue for &lt;i&gt;1789: French Art and the Revolution&lt;/i&gt;, "In 1792, her name was added to the official list of &lt;i&gt;émigrés&lt;/i&gt; and like all others who had fled France, her property was seized by the state and she was declared legally dead." In 1793, her estranged husband published a petition signed by 255 artists to allow his wife to return to France that was denied by the authorities. Soon thereafter, both her brother and estranged husband were imprisoned for several months, due to Vigée Le Brun's close association with the former royal court. For his own safety, and to recover his assets, Jean-Baptiste divorced his wife in 1774. She would never remarry.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="A minor subject in the oeuvre of Elisabeth Vigée Le Brun, lively landscapes such as&lt;i&gt; Festival of the Shepherds at Unspunnen, August 17, 1808&lt;/i&gt;, (1808-1809) inspired by the long travels across Europe during her years of exile from France. The Kunstmuseum Bern, Germany" show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_5.jpg</p>
+          <p type="p">In June of 1800, Vigée Le Brun's name was finally removed from the list of emigres, meaning that she could return to her homeland, thanks to the continued efforts of her family and ex-husband, who long campaigned for reinstating her citizenship. After a long journey, she returned to Paris in 1802. After 12 years abroad, the changes in French culture due to the revolution and rise of Napoleon were difficult for the artist. Unlike her former colleague, Jacques-Louis David, who took on a central role as a chief artist during the Napoleonic era, Vigée Le Brun was not comfortable in the court of the new ruler. Before the year's end, the artist announced a two-year trip to London and Berlin.</p>
+          <p type="p">Madame Le Brun was preceded by her reputation, once again, and met with numerous commissions for portraits from elite circles in England, but she was not without her critics. Most famous, was an incident with the far lesser-known English portraitist and author, John Hoppner, who in the preface to his &lt;i&gt;Oriental Tales&lt;/i&gt; critiqued her and French painting at large: "There are very indifferent pictures ... that still bear relation to good art; but I have no difficulty in affirming that the works of the present French school, whether they be painted by David or Madame Vigée Le Brun, do not." He goes on to criticize both her technique, ability to render objects ranging from fabric to furniture, as well as her prices that he describes as triple the rate of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-reynolds_joshua"&gt;Sir Joshua Reynolds&lt;/span&gt;. As she could not read English, Vigée Le Brun was not fully aware of the situation, although upon learning of Hoppner's heavy-handed critique she responded by systematically countering each of his points, undoing his argument, citing Raphael and the ancient Greek sculpture while doing so. She ends the account of the episode in her memoirs with caustic nonchalance: "[Her response] remained no secret to London society, and the laugh was not on the side of M. [the English portraitist], who, all enmity aside, did not know how to do drapings." The last note was a direct rebuttal to one of the attacks on her technique leveled by Hoppner.</p>
+          <p type="img" alt="&lt;i&gt;Self-Portrait with Her Daughter Julie (a l'Antique)&lt;/i&gt; (1789). Musée du Louvre" show="1">/images20/photo/photo_vigee_le_brun_elisabeth_louise_6.jpg</p>
+          <p type="p">After her time in London, she eventually re-settled in her home country, where she purchased a country house. In addition to submitting paintings to the yearly national salon, she also resumed hosted her own gatherings. Jean-Baptiste, her ex-husband, died in 1813. Sadly, her daughter long-estranged from her mother and now separated from her husband, died impoverished in 1819. Apart from Vigée Le Brun's own memoirs, little is known about how and when the artist learned of her daughter's misfortune. "I rushed to her house as soon as I heard that she was in danger;" she wrote, "the illness took a firm hold very quickly, and I cannot express the emotion I felt upon realizing that I could do nothing to save her." The following year, death returned to take the life of Vigée Le Brun's brother Étienne. She recalled of this period, "Such grief in so short a time broke my spirit."</p>
+          <p type="p">Although she was in exile during the 1789 Revolution, she lived through July Revolution in 1830, which brought Louis Philippe I, the so-called "Citizen King" to the throne. Vigée Le Brun painted late into her life, and published her memoirs between 1835 and 1837, aided by her nieces, Madame de Riviere and Madame Tripper Le Franc. She died in 1842 aged 86, during the reign of Louis Philippe I, having lived through political turmoil and immortalized generations of Europe's leading figures through her work.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Elisabeth Vigée Le Brun's talent and importance was largely dismissed in the decades following the artist's death, a common fate of many significant women artists. Despite her vast oeuvre, including commissions by the most powerful ruling families throughout Europe, her legacy was largely ignored until the late-20&lt;sup&gt;th&lt;/sup&gt; century. The credit for her work's inclusion in important national and private collections was simply attributed to the significance of the sitter over the stature of the artist. Since the 1980s, efforts have been made to reintroduce her into the canon of Western art history, marked by two major retrospective exhibitions at The Modern in Fort Worth, and the touring exhibit, &lt;i&gt;Vigée Le Brun: Woman Artist in Revolutionary France&lt;/i&gt; a collaboration between &lt;i&gt;Réunion des musées nationaux-Grand Palais&lt;/i&gt;, in Paris; The National Gallery of Canada, Ottawa; and The Metropolitan Museum of Art in New York.</p>
+          <p type="p">In academia, also, her works have been freshly examined with close attention and critique of her evocations of female identity and relationships. Reception among feminist historians is mixed, the works receiving praise by Mary D. Sheriff who published &lt;i&gt;The Exceptional Woman: Elisabeth Vigée-Le Brun and the Cultural Politics of Art&lt;/i&gt; (1996), and less positive appraisals by early 20&lt;sup&gt;th&lt;/sup&gt; century feminist and social theorist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_beauvoir_simone"&gt;Simone de Beauvoir&lt;/span&gt; and postcolonial feminist Griselda Pollock, who critique the artist as having an overly sentimental and feminine style. Her paintings, however, are not interesting merely as records of the great and powerful royal families during a tumultuous period of European history, but are, in actuality, as complex as the times in which they were painted.</p>
+          <p type="p">It is in her candid and naturalistic style that Vigée Le Brun broke with tradition and set a precedent for the modern era. What looks traditional to modern viewers was, in fact, a break with established decorum. She became known for the nearly casual attitude taken by her sitters, almost seeming to welcome the viewer of the paintings into their presence, a striking contrast to the formality often associated with aristocratic and royal images. Although she had numerous male patrons and sitters, her name instantly conjures famous paintings of Marie Antoinette, as well as her engaging self-portraits, and the intimacy she achieves with her female subjects.</p>
+          <p type="p">Ironically, it is the subject for which she is best known that she also receives critique as repetitive and formulaic. The &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionist&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cassatt_mary"&gt;Mary Cassatt&lt;/span&gt; once dismissively noted, "She painted herself." However, it is precisely these images, notably her self-portraits with her daughter, which anticipates the 19th-century works of Impressionist painters Cassatt and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, artists renowned in their time and subject to similar issues of exclusion in the decades following. Vigée Le Brun is distinctive in her lavish attention to the surface, capturing the luminescence of silks and satin as few other artists before or since. Likewise, the Impressionists were highly attuned to surface as well as subject. Like Vigée Le Brun, both Cassatt and Morisot often looked to the social spheres inhabited by women, and often their children, as a primary subject. The education, subject and genre depicted by these women artists reflects the social restrictions placed on women during their respective lifetimes. Additionally, such familiar and intimate moments among women were largely excluded as important subject matter throughout much of the 20&lt;sup&gt;th&lt;/sup&gt; century, until the rise of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminist_art"&gt;Feminist artists&lt;/span&gt; in the 1960s, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chicago_judy"&gt;Judy Chicago's&lt;/span&gt; famous &lt;i&gt;Birth Project&lt;/i&gt; from the 1980s, began to seriously question the male-favored hierarchy of subject and genre within the established canons of art history.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Hubert Robert</title>
+      <year>1778</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Dramatically lit, this Neoclassic portrait of the Landscape painter Hubert Robert does more than present a mere likeness of the sitter. Set in an austere environment, a common trait of Neoclassic portraiture, Robert casually holds his palette and brushes in his left hand, while the right rests on a ledge, creating a sense of fluency and mastery of his trade. Cleverly Vigée Le Brun has utilized the motif common for an artist's self-portrait and used it for the portrait of her colleague; such that the subtext becomes a dialogue between the two painters. It is a conversation interrupted, however, as Robert, momentarily distracted, looks sharply to our right, beyond the view of the canvas. With an almost snapshot like composition, decades before the advent of the camera, she captures in his posture a sense of familiarity, and with his focused gaze, his intellect. 
+				&lt;br/&gt;&lt;br/&gt;
+				A common misconception of Vigée Le Brun is that she was primarily a portraitist of women. In fact, she painted an almost equal number of men throughout her career. Some of the critique Vigée Le Brun has received by contemporary historians points to an inconsistency between the representation of her male and female sitters; notably that she creates an air of authority in her male portraits, in contrast to the softer style afforded to her woman clientele. As Chadwick notes, "The brusque, taut surfaces and intense gazes of male sitters in Vigée Le Brun's portraits of the painters Joseph Vernet and Hubert Robert are almost entirely missing from her portraits of women. The focused mental energy of these figures (Robert's hair springs from his head as if electrified) are in sharp contrast to the many portraits of women with the softened contours and misted surfaces." Artist biographer Meryle Secrest echoes this sentiment, who notes in contrasting Vigée Le Brun to Gainsborough for &lt;i&gt;ArtNews&lt;/i&gt;, "Vigée Le Brun, for instance, was making masterly studies of men, but her women too often conform to the clichés of her age." Whether Vigée Le Brun's portraits of women simply conform to clichés, rather than symbolize their elevated status and social position, remains a source of debate.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Peace Bringing Back Abundance</title>
+      <year>1780</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Peace Bringing Back Abundance&lt;/i&gt;, is a departure from the portraiture for which Vigée Le Brun was best known and sought after. Instead, she creates an allegorical scene, a subgenre of history painting, depicting a quiet moment between two symbolic female characters representing Peace and Abundance. Vigée Le Brun submitted this piece for her successful application to the &lt;i&gt;Académie&lt;/i&gt;, or the French Royal Academy of Painting and Sculpture, albeit with assistance from the queen. Her admittance to the academy, which allowed only four women at any given time, was a double challenge to the restrictions and prevalent gender stereotypes of her time and her marriage to a commercial art dealer. That she did so with a history painting further conflated the issue. As Mary D. Sheriff describes in her text, "Because history paintings displayed and required imagination and judgment two central components of reason they traditionally belonged on the side of the masculine." 
+				&lt;br/&gt;&lt;br/&gt;
+				As an allegorical work, &lt;i&gt;Peace Bringing Back Abundance&lt;/i&gt; fulfills the requirements of a history painting. In Vigée Le Brun's hands, it also blurs the distinctions between the Rococo and Neoclassical styles. On the right is Peace, identifiable by her olive branch, who is guiding Abundance, with her harvest of fruits and wheat. It is suggested that peacefulness and plentitude go hand-in-hand; two figures are clad in billowing, crisp drapery come together in an undefined, ethereal space. "Although two women are represented," Sheriff argues, "in terms of contemporaneous painting codes they are alternately gendered as "masculine" (Peace) and "feminine" (Abundance)." As Sheriff continues, "Reading the gendered distinction as representing power and dependency, with Peace guiding and controlling the pliant, sensual, and dependent figure of Abundance, signals not only the painting's eroticism, but also the allegory's meaning." Additionally, the soft, powdery glow of Abundance's skin, her bare breast as well as the texture and color of her drapery, align the representation of Abundance with the Rococo style. Conversely, the darker attire and brunette hair of Peace, often allied with masculinity, and her crown of laurels might hint at the Neoclassicism, a trend towards rationalism in art that was beginning to emerge at this time.
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Self Portrait in a Straw Hat</title>
+      <year>1782</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Vigée Le Brun's &lt;i&gt;Self Portrait in a Straw Hat&lt;/i&gt; is both a confident portrait and an ode to the influence of Peter Paul Rubens. Similar to the Flemish painter's earlier portrait of Susanna Lunden, known as &lt;i&gt;The Straw Hat&lt;/i&gt; (1622-1625), the artist paints herself in a garlanded and feathered straw hat and swathed in lush fabrics of white, pink, and black. Unlike the sensuality of the earlier painting, as Susanna looks coyly toward the viewer in low-cut bodice, Vigée Le Brun's self-portrait establishes the attractive young woman as a confident artist. She holds her brushes and palette in one hand with the other in a gesture of friendship. The artist directly meets the gaze of the viewer, mouth upturned and slightly opened, as if in mild amusement or about to speak, while positioned in front of a clouded, but otherwise empty sky.
+				&lt;br/&gt;&lt;br/&gt;
+				Self-image was vital to Vigée Le Brun's popularity, and here she fashions it with virtuosic skill. As Katharine Baetjer notes, her beauty was very much part of her appeal and selling power, and here she emphasizes her youthful blush, almond eyes, and white breast almost revealed as the left side of her dress drops open somewhat. At the same time, the richness of the clothing not only projects a sense of luxury and wealth, but also extremely skilled painting - something also evident in the texture and shine of the paints on her palette. What is suggested is that a portrait by Vigée Le Brun will not only be flattering and sumptuously detailed, but that even the sitting itself will be improved by the presence of such a beautiful and amiable artist; fine art and advertising become almost one and the same. The widely-acknowledged influence of Rubens also announces Le Brun as a painter who is aware and worthy of the tradition of the Old Masters, as indeed she was.
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Marie-Antoinette with a Rose</title>
+      <year>1783</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This portrait depicts Vigée Le Brun's most important sitter and patron, the queen of France. Marie-Antoinette stands with her body turned slightly to the right, facing the viewer with a look that seems calmly amused. She holds a small bundle of a rose and some leaves, which she binds together with a ribbon as if she has just plucked the flowers from the lavish gardens of Versailles, suggested by a rosebush, small patch of sky, and large tree in the background. While this painting meets the elements required of a royal portrait, that knowing smile suggests there is something more to this story.
+				&lt;br/&gt;&lt;br/&gt;
+				This portrait of Marie-Antoinette is actually a replacement painting for a scandalous work that was originally shown at the artist's first entry to the Salon in 1783. Instead of the refined blue silk and lace gown and required royal accoutrements, the queen was depicted in a simple chemise dress, without the restrictive corset, and her natural hair, slightly tousled, pulled back underneath a straw hat. The attire appeared more akin to undergarments than appropriate attire for a royal portrait. Additionally, she holds a pink rose, which was read as a symbol of her Habsburg identity, instead of symbolizing the wealth and splendor of the lavish royal, and French, gardens. After a public outcry, it was quickly removed and replaced with the painting seen here.
+				&lt;br/&gt;&lt;br/&gt;
+				The rich abundance of surfaces and textures on the queen's attire, from the crisp satin and delicate lace of her dress to the nebulous puffs of her wig and feathers, signal her absolute wealth, elegance and royal position. The trademark features of the Habsburg family are softened, as in all of Vigée Le Brun's portraits of the queen, creating a wonderfully flattering image. Her long neck, erect posture, and calm gaze all convey a sense of power. This is contrasted with the delicacy of her extended little finger, and the fact that she does not touch the rose directly at all. The brightness of her skin and sky-blue dress stands out against the darkness of the foliage and evening sky, so that she appears illuminated by a divine light. 
+			</desc>
+      <collection>Château de Versailles</collection>
+    </artwork>
+    <artwork>
+      <title>Marie Antoinette and Her Children</title>
+      <year>1785</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Along with Jacques-Louis David's &lt;i&gt;Oath of the Horatii&lt;/i&gt; (1784), Vigée Le Brun's official state portrait of &lt;i&gt;Marie Antoinette with her Children&lt;/i&gt; is among the most important paintings of the pre-revolutionary era in France. It was, in fact, David's advice to Vigée Le Brun, both working in the royal court, to arrange the composition in a pyramidal formation, evoking the Madonna paintings of the great Renaissance painter Raphael. Although the leading portraitist of her time, commanding even higher prices than the great David for her portrait paintings, she was not often charged with multi-figure groupings such as this. This painting was commissioned after a resoundingly failed attempt at the subject of the queen and her children by Adolf Ulrik Wertmüller commissioned by Gustav III of Sweden. Today, this work is chiefly recognized as a propagandist image, in that it was created to revitalize the public opinion of the queen, whose reputation was tarnished by rumors of extravagance, infidelity, and other malicious behaviors. 
+				&lt;br/&gt;&lt;br/&gt;
+				The queen was never a popular sovereign in her adopted country of France. Her refusal to concede to court pressure, such as rarely wearing the proper attire (including the hated royal corset), only made matters worse. The massive state portrait, a full nine feet tall, is an embodiment of proper regal authority. The queen is dressed formally, wearing a luxurious red gown, powdered wig, and a symbol of the royal crown rests on an armoire in the background. She is surrounded by her children in a room adjacent to Versailles' extravagant Hall of Mirrors seen in the background. Her eldest daughter looks adoringly up at the regal mother, who holds her youngest child, who would have typically been with a wet nurse, on her lap. Evangelia Karvouni describes in a 2014 article for &lt;i&gt;The Journal for International Women's Studies&lt;/i&gt;, "The figure of the Queen with a lively baby on her lap and her daughter leaning affectionately against her brings to mind Raphael's, 1483-1520, portraits of the Virgin Mary with child Jesus and St John the Baptist, such as for example the &lt;i&gt;Madonna of the Meadow&lt;/i&gt;." The young dauphin, son of the king and heir to the throne, stands independently while gesturing toward the empty cradle, symbolizing the queen's fourth child who sadly died at 11 months old. 
+				&lt;br/&gt;&lt;br/&gt;
+				Unfortunately, the painting was not particularly successful in its mission. The posture and facial expressions of the queen were criticized for being too stiff. The depiction of the immense jewelry armoire in the background, was also of symbolic importance, for it is accorded only a secondary position in the composition. Instead of showing the queen wearing extravagant jewelry, she is "showing her children as treasures" in front of her riches, as seen in the popular depictions of the Roman heroine Cornelia. This was meant to counter a recent scandal involving a stolen necklace of immense value rumored to have been made for the notoriously extravagant queen. That the necklace had been made for the prior king's beloved mistress, the ever-popular Madame du Barry, was dismissed by a discontent public. Although the queen is noticeably not wearing a necklace in this portrait, the association to the rumor was too powerful to overcome. Vigée Le Brun's reputation, however, was not marred by the negative reception of this painting, she continued to command high prices for her portraits until she fled France as the rioting citizens marched on Versailles on October 6, 1789.
+			</desc>
+      <collection>Château de Versailles</collection>
+    </artwork>
+    <artwork>
+      <title>Self Portrait with Daughter</title>
+      <year>1789</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				There are no trademark signs of her professional status as an artist in this image, instead Vigée Le Brun simply paints herself with her daughter Julie. The two are set against a bare, softly illuminated background and clasp each other in a warm embrace whilst looking towards the viewer. They are not clothed in fashion that would have actually been worn during this period, but dressed in a manner that evokes the ancient past. This represents the rising influence of the Neoclassical style on artists working in France.
+				&lt;br/&gt;&lt;br/&gt;
+				The use of Neoclassical clothing is a marked difference from Vigée Le Brun's earlier portraits of this type. Although it might be seen as a fashionable affectation, it could also be interpreted as lending the gravity of the classical to motherhood and female relationships, where it was usually only reserved for masculine fraternity and civil values, particularly in the paintings of Jacques-Louis David. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although Vigée Le Brun was undoubtedly the most successful female painter of France, and beyond, her legacy was overlooked nearly two centuries following her death in 1841. Her revival in the 20&lt;sup&gt;th&lt;/sup&gt; century, however, has not always been positive, with notions of vanity and sentimentality clouding the resuscitation of her legacy. A well-known example, the influential twentieth-century French theorist Simone de Beauvoir disparaged Vigée Le Brun for portraits such as these, writing: "Mme Vigée Le Brun never wearied of putting her smiling maternity on her canvases." To devalue both the subject and the painter, however, seems a troubling endorsement, rather than challenge, to the disparity of recognition this unarguable success achieved in a notably male-dominated vision of art history. 
+				&lt;br/&gt;&lt;br/&gt;
+				Vigée Le Brun reconciles the stoic Neoclassical style with an intimate view into the relationship of mother and daughter, manifest in the contact between the bare flesh of both of these figures. The two become almost one, and their extreme proximity and shared gaze unites them against the viewer. Sadly, this close relationship would become estranged during their stay in Russia, only to be united shortly before the daughter's early death in 1819. 
+			</desc>
+      <collection>Musée du Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Emma, Lady Hamilton, as Bacchante</title>
+      <year>c. 1790</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The &lt;i&gt;Portrait of Emma, Lady Hamilton, as Bacchante&lt;/i&gt;, depicts the famous, and scandalous, society figure in the guise of one of the ancient worshipers of Bacchus, the god of wine. She looks at the viewer over her shoulder, holding a tambourine above her, with her hair and dress tumbling behind. In the background, smoke ominously spews from a volcano.
+				&lt;br/&gt;&lt;br/&gt;
+				"The life of Lady Hamilton is a romance" wrote Vigée Le Brun whilst in Naples, and she was certainly correct. An actress-turned-noblewoman, the fashionable Emma had a series of high-profile affairs, including with Lord Nelson, and was the muse of artist George Romney. She was also famous for her "attitudes," a charade-type affair in which she dressed up and posed in the guise of different mythological figures calling upon the audience to guess which goddess or nymph she portrayed. Upon seeing such a performance, Vigée Le Brun was very much impressed with Lady Hamilton, calling her "admirable to behold."
+				&lt;br/&gt;&lt;br/&gt;
+				A sense of Lady Hamilton's balance between sensation and scandal is evident in Vigée Le Brun's depiction, which mixes playfulness with an underlying sense of chaos. Combining her lyrical Rococo style of portraiture with Neoclassical history painting, the figure marks a dramatic diagonal line from top left to bottom right. Her smile as she turns to the viewer, as well her clothing, hair, and the gentleness with which she holds her instrument, suggest a lightness and elegance. Vigée Le Brun depicts her subject smiling with her teeth showing, which was, although a trademark of the artist's animated style, highly controversial for portraiture at the time, perhaps also reflecting Emma's unconventional reputation. The Bacchantes themselves were devotees of Bacchus who would supposedly drink and dance themselves into an orgiastic and violent frenzy. In Euripides' play &lt;i&gt;The Bacchae&lt;/i&gt;, these women are so overcome by the libertine deity that one of them tears her own son to pieces. This sense of danger hiding underneath her beauty is echoed in the landscape, whose soft smokiness and mountain-peak hint at a devastating eruption. The dark plume of rising ash appears to be clasped by Lady Hamilton, as if she embraces the destruction it portends.
+			</desc>
+      <collection>Lady Lever Art Gallery, Liverpool</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="movement" page="rococo">Portrait of Madame de Pompadour (1756)</artwork>
+    <artwork from="artist" page="david_jacques_louis">The Oath of the Horatii (1784)</artwork>
+    <artwork from="movement" page="neoclassicism">Cornelia, Mother of the Gracchi, Pointing to her Children as Her Treasures (c. 1785)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>rubens_peter_paul</entity>
+        <entity>rembrandt_van_rijn</entity>
+        <entity alt="Anthony van Dyck">van_dyck_anthony</entity>
+        <entity alt="Jean-Baptiste Greuze">greuze_jean_baptiste</entity>
+      </column>
+      <column>
+        <entity alt="Claude Joseph Vernet">vernet_claude_joseph</entity>
+        <entity alt="Hubert Robert">robert_hubert</entity>
+      </column>
+      <column>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>rococo</entity>
+        <entity>neoclassicism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Marie Benoist">benoist_marie</entity>
+      </column>
+      <column></column>
+      <column>
+        <entity>rococo</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Vigée Le Brun</title>
+          <link>https://www.metmuseum.org/art/metpublications/Vigee_Le_Brun</link>
+          <info>By Joseph Baillio, Katharine Baetjer, and Paul Lang</info>
+        </entry>
+        <entry>
+          <title>Elisabeth Vigee Le Brun: The Odyssey of an Artist in an Age of Revolution</title>
+          <link>0300108729</link>
+          <info>By Gita May</info>
+        </entry>
+        <entry>
+          <title>Elisabeth Louise Vigée Le Brun</title>
+          <link>2711862283</link>
+          <info>By Joseph Baillio and Xavier Salmon</info>
+        </entry>
+        <entry>
+          <title>Woman, Art and Society</title>
+          <link>0500204055</link>
+          <info>By Whitney Chadwick</info>
+        </entry>
+        <entry>
+          <title>Woman Artists in History: From Antiquity to the Present</title>
+          <link>0130273198</link>
+          <info>By Wendy Slatkin</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>The Memoirs of Madame Vigée Lebrun</title>
+          <link>http://www.gutenberg.org/files/31934/31934-h/31934-h.htm#img22</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>The Exceptional Woman: Elisabeth Vigee-Lebrun and the Cultural Politics of Art</title>
+          <link>0226752828</link>
+          <info>By Mary D. Sheriff</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Elisabeth Louise Vigée Le Brun</title>
+          <link>http://www.batguano.com/vigee.html</link>
+          <info>Large online collection of her paintings</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Vigée Le Brun: artist to the aristocracy who played and changed the game</title>
+          <link>https://www.theguardian.com/artanddesign/2016/feb/12/vigee-le-brun-metropolitan-museum-of-art-woman-artist-revolutionary-france</link>
+          <info>
+						By Jason Farago
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 12, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>The Praise and Prejudices Vigée Le Brun Faced in Her Exceptional 18th-Century Career</title>
+          <link>https://hyperallergic.com/297985/the-praise-and-prejudices-vigee-le-brun-faced-in-her-exceptional-18th-century-career/</link>
+          <info>
+						By Tiernan Morgan
+						&lt;br&gt;
+						HyperAllergic 
+						&lt;br&gt;
+						May 12, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Paris's celebration of Elisabeth Louise Vigée Le Brun is long overdue</title>
+          <link>https://www.apollo-magazine.com/paris-celebration-of-elisabeth-louise-vigee-le-brun-is-long-overdue/</link>
+          <info>
+						By Julien Domercq
+						&lt;br&gt;
+						10 November, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips">
+        <entry recommended="true">
+          <title>Vigée Le Brun: Woman Artist in Revolutionary France</title>
+          <link>https://manpodcast.com/portfolio/no-228-katharine-baetjer-nancy-princenthal/</link>
+          <info>
+						Podcast overviewing of her life and the exhibition
+						&lt;br&gt;
+						By The Modern Art Notes Podcast, hosted by Tyler Green featuring curator Katharine Baetjer. English audio
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>The Fabulous Life Of Elisabeth Vigee Le Brun Portraitist Of Marie Antoinette</title>
+          <link>https://www.dailymotion.com/video/x6gjaxv</link>
+          <info>An in-depth documentary in two parts</info>
+        </entry>
+        <entry>
+          <title>The Fabulous Life Of Elisabeth Vigee Labrun</title>
+          <link>https://www.amazon.com/Fabulous-Life-Elisabeth-Vigee-Labrun/dp/B078X2BY46</link>
+          <info>By Arnaud Xainte, English audio</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Appears in Let Them Eat Cake, a 1999 BBC series by Peter Learmouth.</title>
+          <link>https://www.amazon.co.uk/Let-Them-Eat-Cake-Complete/dp/B000KGGP6M</link>
+          <info />
+        </entry>
+        <entry>
+          <title>A main character in Marie Antoinette: The Color of Flesh, a 2007 drama by Joel Gross</title>
+          <link>https://www.amazon.co.uk/Marie-Antoinette-Color-Joel-Gross/dp/0822222469</link>
+          <info />
+        </entry>
+        <entry>
+          <title>How a Queen Lost Her Heart Before She Lost Her Head</title>
+          <link>https://www.nytimes.com/2007/04/11/theater/reviews/11fles.html</link>
+          <info>A New York Times review of the play</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

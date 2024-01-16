@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>drexler_rosalyn</id>
+    <name>Rosalyn Drexler</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1955 - Present</years>
+    <description>Rosalyn Drexler powerfully repurposed media images and is now becoming recognized as a key feminist voice in the Pop Art movement.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>American</nationality>
+    <occupation>Painter, Playwright, and Novelist</occupation>
+    <birthDate>November 25, 1926</birthDate>
+    <birthPlace>The Bronx, NY</birthPlace>
+    <highlight>1</highlight>
+    <mini>true</mini>
+    <img_version>?1</img_version>
+    <pub_time>5/10/2018</pub_time>
+	<freestar_video_ad>true</freestar_video_ad>
+  </main>
+  <includes>
+    <include>pop_art</include>
+    <include>appropriation_art</include>
+    <include>appropriation_art</include>
+  </includes>
+  <similar_movements>
+    <movement>pop_art</movement>
+    <movement>appropriation_art</movement>
+    <movement>british_pop_art</movement>
+    <movement>proto_feminist_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>boty_pauline</artist>
+    <artist>oliver_isabel</artist>
+    <artist>kent_corita</artist>
+    <artist>yuskavage_lisa</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"If you're never scared or embarrassed or hurt, it means you never take any chances."</q>
+    <q>"I adored my coloring books [...] I was addicted to outlining the pictures in contrasting colors, and enjoyed staying within the lines. Needed the control. My work begs for control. After all, I captured the images and buried them: now they want to escape. They lie layered and still, unable to move. They are contained and I can breathe a sigh of relief."</q>
+    <q>"There's a narrative thread going through all my work. It may not be seen but it's in my head, like a kind of music. I get an idea to paint, and then I get ideas by painting. Some of the works do tell a story, but it's not like sitting down and telling a story, or even using one word, like some artists today. I don't use words in painting because I use words in books and articles."</q>
+    <q>"I don't think my paintings were seen much back in the 1960s. It was the time for Abstract Expressionism and Minimalism; Pop was just beginning to rear its huge, glittering head. My work was a secret kind of thing. I was very close to the Abstract Expressionists, and to the women I worked with when we started Women in Arts - but no one realized I was a painter because I was writing about painting. I was happy being productive and having good friends and being ignored. But now I'm getting angry about it, looking back!"</q>
+  </quotes>
+  <authors>
+    <author link="di_palma">Jessica DiPalma</author>
+  </authors>
+  <editors>
+    <editor link="church">Lewis Church</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Rosalyn Drexler is an ex-professional wrestler whose experience as 'Rosa the Mexican Spitfire' influenced her subsequent work as a visual artist and writer, and who is now becoming recognized as a key feminist voice in the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; movement. Her work is often grounded in her own experience, which includes the sexism and objectification she witnessed and had directed at her as an athlete, and the racism she saw in the American South whilst on tour during her wrestling career. Drexler's stark and colorful painting has an idiosyncratic and instantly recognizable visual style.
+			&lt;br/&gt;
+			Drexler exhibited alongside &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lichtenstein_roy"&gt;Roy Lichtenstein&lt;/span&gt;, her husband Sherman Drexler and other Pop artists throughout the 1960s, 70s and 80s, although later art historians have argued that the critical consideration and acknowledgement of her work was limited by her gender until recently. Alongside her visual art practice, Drexler also maintained a very successful theatrical and literary career. She won multiple Obie awards for her plays in New York, and has published nine novels to date, most recently &lt;i&gt;Vulgar Lives&lt;/i&gt; in 2007. One of her widely celebrated novels, &lt;i&gt;To Smithereens&lt;/i&gt; (based on her experience as a wrestler) was adapted into the film &lt;i&gt;Below the Belt&lt;/i&gt; in 1980. Drexler found the change of title objectionable, however, which returns once again to the questions of the representation of women and their stories within mass media that are raised by her paintings. 
+		</synopsys>
+    <key_ideas>
+      <idea>Drexler, like many Pop artists, repurposed mass media images extensively. Sticking down images from magazines and movie stills in a form of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt;, Drexler would then paint over them in oil paint, setting them against block backgrounds of color. These images, taken out of their original context of glossy celebrity magazines, soft pornography or newspapers, highlight multiple social issues of alienation, race, violence and the representation of women.</idea>
+      <idea>Although sometimes objecting to the categorization of her work as being 'only' feminist, Drexler's repurposing of images from mass media to emphasize their dismissal of women and the limited number of roles they were permitted to play in societal narratives has since been highlighted as an alternative to the objectifying, detached and predominantly male perspective of other Pop artists. Her work reminds its viewer that much of popular culture reproduces images and narratives of women that are severely limited and problematic.</idea>
+      <idea>Drexler works across multiple disciplines, raising the same questions and reflecting on similar experiences across literature, theatre and visual art. Wrestling, for example, appears in many of her novels and plays, and is also represented in several paintings. Drexler is perhaps rare in that almost all her work across multiple creative industries is critically acclaimed.</idea>
+    </key_ideas>
+    <sections></sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="warhol_andy">Gold Marilyn Monroe (1962)</artwork>
+    <artwork from="artist" page="lichtenstein_roy">Drowning Girl (1963)</artwork>
+    <artwork from="artist" page="levine_sherrie">After Walker Evans: 4 (1981)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Put it This Way</title>
+      <year>1963</year>
+      <materials />
+      <desc>
+				&lt;i&gt;Put it This Way&lt;/i&gt; portrays the moment of action just after a man wearing a suit, positioned in the center of the canvas, has slapped the woman positioned below him. His right arm is extended across his body, hand open, inches from her shoulder, whilst the woman, dressed in a low cut dress, faces out towards the right of the canvas. Her head is thrown back with her shoulder-length hair flowing behind her as if she is reeling from the slap. The figures are rendered in black and white oil paint, augmented with the vivid splashes of color found in the man's bright blue tie and the woman's yellow dress. The scene is made more vibrant and the figures more stark by their placement on an electric blue background.
+				&lt;br/&gt;&lt;br/&gt;
+				Like many artists connected with Pop Art in the 1960s, Drexler often used images from films to create her works, especially dark, foreboding &lt;i&gt;film noir&lt;/i&gt;-esque images as she does here. Drexler repurposes them in a collage fashion and combines them with bright colors. Drexler used theses images to make an explicitly feminist critique, as this painting demonstrates. Popular culture of the time, and particularly film, often objectified women, placing them in roles in which they were either a villain or a victim. In a film, the act of a slap is but a quickly passing moment; but when isolated as it is here, the viewer is forced to acknowledge and confront the violent act. By identifying these moments, and reconfiguring them in her Pop-influenced style, Drexler draws attention to narrative generalizations about women and assert that the female identify is more than the narrowly defined male stereotype.
+			</desc>
+      <collection>Collection of Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Kiss Me, Stupid</title>
+      <year>1964</year>
+      <materials>Acrylic paint and paper collage on canvas</materials>
+      <desc>
+				Set against a bright orange background, &lt;i&gt;Kiss Me, Stupid&lt;/i&gt; consists of a black and white image of a couple kissing in the right foreground of the painted canvas. The man is seen from the back, wearing a red turtleneck. The woman he kisses is positioned with her face visible to the viewer with her eyes closed. She seems to be attempting to reach her left hand towards the man but he restrains her with his right fist clenched around her wrist.
+				&lt;br/&gt;&lt;br/&gt;
+				A common theme in Drexler's art are collaged images of couples embracing, referencing movies and other media. The bright colors and the what - at a quick glance - can seem to be a voyeuristic intrusion on a romantic moment belies a deeper, more sinister element to the work which is discovered upon closer inspection. While the viewers eyes are first drawn to the embrace itself, it is jarring to realize that what at first seemed a consensual act may not be. The man's forceful restraining of the woman's hand as she reaches up and away from the embrace could suggest an attempt to break away or physical coercion. The movie couples of Drexler's work, as described by art historian Kalliopi Minioudaki, "...unveil violence and subjugation as the predicament of woman in love in Western society" and furthermore, through these works, "Drexler matched her exposure of women's abuse with critical contemplation of romance and its media stereotypes.
+			</desc>
+      <collection>Collection of Garth Greenan Gallery, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Marilyn Pursued by Death</title>
+      <year>1963</year>
+      <materials>Acrylic and paper collage on canvas</materials>
+      <desc>
+				&lt;i&gt;Marilyn Pursued by Death&lt;/i&gt; features the Hollywood actress Marilyn Monroe in a black skirt, white shirt and black sunglasses hurriedly rushing as if in an attempt to move off the right side of the canvas on which she is painted. Behind her a man in black pants, white shirt, and black sunglasses pursues her. Both figures are outlined in red, which makes their figures stand out vibrantly against the black background.
+				&lt;br/&gt;&lt;br/&gt;
+				Drexler's depiction of Monroe is full of motion, a figure imbued with a sense of animation and vitality. Unlike other Pop artists who also used images of the famous actress as a subject, such as Andy Warhol, here the actress is not simply a two-dimensional subject. In this work, Drexler uses Monroe as a vehicle to implicitly make statements about the treatment of women in society. Despite her talent, Monroe was objectified by men and treated as a subject more than a person, as seen here as she is relentlessly pursued by a paparazzo, fan or admirer. Whilst the original photograph upon which this image is based shows that the man is in fact Monroe's bodyguard, Drexler's repurposing allows Monroe to become a representation of the objectification of women and their fight to rise above having their worth defined by just the male gaze.
+			</desc>
+      <collection>Collection of Garth Greenan Gallery, New York, NY</collection>
+    </artwork>
+    <artwork>
+      <title>Night Visitors</title>
+      <year>1988</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A brightly colored painting, &lt;i&gt;Night Visitors&lt;/i&gt; features a dead man in a black suit slumped on a bright green floral design sofa in the right foreground. He is laying in a pool of blood that has dripped and started to collect at his feet. To his left is a large window framed with curtains that match the sofa. Outside a silver pathway shows four men in suits and hats walking ominously towards the house. 
+				&lt;br/&gt;&lt;br/&gt;
+				Whilst reminiscent of her work in the 1960s, for which Drexler is perhaps best known, later works like this painting are important in that they show her development by suggesting more involved and complicated narratives. Still using themes from popular culture and news sources, this work was based on a death scene photograph of famous gangster Bugsy Sigel. Federal agents are on their way to the house and the viewer is a part of the moment before they encounter the dead criminal. Although referencing this image, the narrative is full of a sense of ambiguity and mystery which Drexler wants the viewer to contemplate. 
+				&lt;br/&gt;&lt;br/&gt;
+				While continuing to focus on issues and imagery relating to violence that permeates the mass media, Drexler has moved beyond only representing acts perpetrated towards women by men and now is making a broader statement about violence and its media representation. As with her earlier works Drexler is importantly asking the viewer to look beyond or go deeper than what is framed in a still image and seek the fuller story beyond the curated media image.
+			</desc>
+      <collection>Collection of Garth Greenan Gallery, New York, New York</collection>
+    </artwork>
+  </artworks>
+  <chart />
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>International Pop</title>
+          <link>1935963082</link>
+          <info>By Darsie Alexander and Bartholomew Ryan</info>
+        </entry>
+        <entry recommended="true">
+          <title>Pop Art (World of Art)</title>
+          <link>0500200521</link>
+          <info>By Lucy Lippard</info>
+        </entry>
+        <entry>
+          <title>Rosalyn Drexler: Vulgar Lives</title>
+          <link>0989890260</link>
+          <info>By Rosalyn Drexler</info>
+        </entry>
+        <entry recommended="true">
+          <title>The World Goes Pop</title>
+          <link>0300216998</link>
+          <info>By Jessica Morgan and Flavia Frigeri</info>
+        </entry>
+        <entry recommended="true">
+          <title>Women, Art, and Society (World of Art) Fourth Edition</title>
+          <link>0500203938</link>
+          <info>By Whitney Chadwick</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Glossy Idealism on the Front Lines</title>
+          <link>http://www.nytimes.com/2008/09/07/arts/design/07kino.html?pagewanted=all</link>
+          <info>
+						The New York Times
+						&lt;br&gt;
+						September 5, 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Move over Andy Warhol: Let's hear it for the forgotten women of pop art</title>
+          <link>http://www.telegraph.co.uk/women/womens-life/11881828/Move-over-Andy-Warhol-Lets-hear-it-for-forgotten-women-of-pop-art.html</link>
+          <info>
+						The Telegraph
+						&lt;br&gt;
+						September 23, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Rosalyn Drexler</title>
+          <link>http://www.garthgreenan.com/attachment/en/57ab21f484184ea8138b4568/News/57ab220384184ea8138b4ef6</link>
+          <info>
+						Art in America
+						&lt;br&gt;
+						May 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Rosalyn Drexler</title>
+          <link>http://www.garthgreenan.com/attachment/en/57ab21f484184ea8138b4568/News/57ab220384184ea8138b4f2a</link>
+          <info>
+						Artforum
+						&lt;br&gt;
+						February 8, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Rosalyn Drexler's Noir Paintings</title>
+          <link>http://hyperallergic.com/190459/rosalyn-drexlers-noir-paintings/</link>
+          <info>
+						Hyperallergic
+						&lt;br&gt;
+						March 15, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Rosalyn Drexler: Vulgar Lives</title>
+          <link>http://www.garthgreenan.com/exhibitions/rosalyn-drexler-vulgar-lives/press-release</link>
+          <info>
+						February 19 - March 28, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>The Women of Pop - and Their Once - Shocking Art</title>
+          <link>http://forward.com/sisterhood/132232/the-women-of-pop-and-their-once-shocking-art/</link>
+          <info>
+						Forward
+						&lt;br&gt;
+						October 18, 2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Where Are The Great Women Pop Artists?</title>
+          <link>http://www.artnews.com/2010/11/01/where-are-the-great-women-pop-artists/</link>
+          <info>
+						ARTNEWS
+						&lt;br&gt;
+						November 1, 2010
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

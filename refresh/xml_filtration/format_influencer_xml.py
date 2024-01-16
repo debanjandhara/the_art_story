@@ -111,8 +111,9 @@ Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_cont
         for artwork in artworks.iter('artwork'):
             artwork_title = artwork.find('title').text
             output_variable += f"\n\nTitle : {artwork_title}"
-            artwork_artist = artwork.find('artist').text
-            output_variable += f"\n\nArtist : {artwork_artist}"
+            if (artwork.find('artist') is not None):
+                artwork_artist = artwork.find('artist').text
+                output_variable += f"\n\nArtist : {artwork_artist}"
             artwork_year = artwork.find('year').text
             output_variable += f"\n\nProduced in the year : {artwork_year}"
             artwork_materials = artwork.find('materials').text

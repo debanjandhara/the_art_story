@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>stieglitz_alfred</id>
+    <name>Alfred Stieglitz</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1883 - 1934</years>
+    <description>Alfred Stieglitz's significance lies as much in his work as a modernist exhibition organizer as it does in his career as a modern photographer.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Photographer and Publisher</occupation>
+    <nationality>American</nationality>
+    <birthDate>January 1, 1864</birthDate>
+    <birthPlace>Hoboken, New Jersey</birthPlace>
+    <deathDate>July 13, 1946</deathDate>
+    <deathPlace>New York, New York</deathPlace>
+    <art_type>Photography</art_type>
+    <pub_time>8/1/2012</pub_time>
+  </main>
+  <includes>
+    <include>modern_photography</include>
+    <include>straight_photography</include>
+    <include>pictorialism</include>
+    <include>abstract_photography</include>
+  </includes>
+  <similar_movements>
+    <movement>modern_photography</movement>
+    <movement>straight_photography</movement>
+    <movement>pictorialism</movement>
+    <movement>abstract_photography</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>okeeffe_georgia</artist>
+    <artist>weber_max</artist>
+    <artist>dove_arthur</artist>
+    <artist>strand_paul</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"In photography there is a reality so subtle that it becomes more real than reality."</q>
+    <q>"In the past few women may have attempted to express themselves in painting... But somehow all the attempts I had seen, until O'Keeffe, were weak because the elemental force and vision back of them were never overpowering enough to throw off the Male Shackles."</q>
+    <q>"The goal of art was the vital expression of self."</q>
+    <q>"There are many schools of painting. Why should there not be many schools of photographic art? There is hardly a right and a wrong in these matters, but there is truth, and that should form the basis of all works of art."</q>
+    <q>"I am not a painter, nor an artist. Therefore I can see straight, and that may be my undoing."</q>
+    <q>"Wherever there is light, one can photograph."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>A vital force in the development of modern art in America, Alfred Stieglitz's significance lies as much in his work as an art dealer, exhibition organizer, publisher, and editor as it does in his career as a photographer. He is credited with spearheading the rise of modern photography in America in the early years of the 20&lt;sup&gt;th&lt;/sup&gt; century, publishing the periodical &lt;i&gt;Camera Work&lt;/i&gt; (1903-17) and forming the exhibition society, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-photo_secession"&gt;Photo-Secession&lt;/span&gt;. He also ran a series of influential galleries, starting with 291, which he used not only to exhibit photography, but also to introduce European modernist painters and sculptors to America and to foster America's own modernist figures - including his later wife, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-okeeffe_georgia"&gt;Georgia O'Keeffe&lt;/span&gt;. Insistent that photography warranted a place among the fine arts, Stieglitz's own work showed great technical mastery of tone and texture and reveled in exploring atmospherics. In later years, influenced in part by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; and other trends, he became interested in straight photography, favoring more clarity and less lush effects.</synopsys>
+    <key_ideas>
+      <idea>Emerging first in the milieu of Pictorial photography, Stieglitz sought to gain recognition for his medium by producing effects that paralleled those found in other fine arts such as painting. Many of his peers resorted to elaborate re-touching to create an impression of the handmade, but Stieglitz relied more on compositional effects and mastery of tone, often concentrating on natural effects such as snow and steam to create qualities similar to those of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;.</idea>
+      <idea>Stieglitz's early work often balances depictions of soft, ephemeral, natural processes with motifs drawn from American industry. Romantic in spirit, he was troubled yet fascinated by the rise of American power and sought to soften its apparent brutality by cloaking it in nature.</idea>
+      <idea>His later work reflects the decline of Pictorial photography and the rise of a new approach that claimed a value for photography as a revealer of truths about the modern world. Turning to more geometric motifs, effects of sharp focus, and high contrast, it celebrates a more mechanized phase of modern life in America.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Alfred Stieglitz was born in Hoboken, New Jersey, just before the end of the American Civil War. Born to German-Jewish immigrants, Edward Stieglitz and Hedwig Ann Werner, Alfred was the eldest of six children. In 1881, the Stieglitz family fled the East Coast and moved back to Germany, hopeful that the German school system would challenge young Alfred in the way America's had not. The following year, while enrolled at the Technische Hochschule in Berlin, Stieglitz was exposed to photography for the first time.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Alfred Stieglitz Biography" show="1">/images20/photo/stieglitz_alfred_2.jpg</p>
+          <p type="p">Although Stieglitz studied to be a mechanical engineer, he purchased his first camera in 1882 and shot vistas of the German countryside. Indulging his newfound appetite for photography, the self-taught artist practiced, researched, and theorized about this instant medium. Throughout the rest of the decade, Stieglitz published articles and photos in the British magazine &lt;i&gt;Amateur Photographer&lt;/i&gt;. This earned him a reputation among the elite European photography circles. In 1890, he moved back to America to rejoin his family after the death of his sister Flora. There, he led the Pictorialist movement, which advocated the artistic legitimacy of photography.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">After arriving in New York City, Stieglitz became the owner of the fledgling Photochrome Engraving Company. Soon he was made co-editor of &lt;i&gt;The American Amateur Photographer&lt;/i&gt;, which solidified his position in the still-niche photography world.</p>
+          <p type="p">The self-proclaimed champion of American photography, Stieglitz was in search of the best forum to present it to the public. Stieglitz concentrated all of his efforts into launching &lt;i&gt;Camera Work&lt;/i&gt; magazine - the voice of the Photo-Secessionist movement. The Secessionists concentrated on the technical skill and creative possibilities of the photographer, rather than just the image itself. Upon the urging of friend and fellow photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-steichen_edward"&gt;Edward Steichen&lt;/span&gt;, he opened an exhibition space called the Little Galleries of the Photo-Secession. It was the first of its kind to place paintings and photographs on the same aesthetic plane.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Alfred Stieglitz Photo" show="0">/images20/photo/stieglitz_alfred_3.jpg</p>
+          <p type="p">291, as the gallery became known, was the exhibition space for the artistic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt;. It exhibited Stieglitz's work and the art of other American and European modernists. Friends' work would hang beside pieces by Europe's biggest artistic titans like Pablo &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt;. A show at the gallery exposed artists and their works to influential people who wrote and spoke about contemporary art. Pieces there were seen by writers like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-williams_william_carlos"&gt;William Carlos Williams&lt;/span&gt;, collectors like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stein_leo"&gt;Leo Stein&lt;/span&gt;, and members of the social elite like &lt;i&gt;Vanity Fair&lt;/i&gt; editor Frank Crowinshield.</p>
+          <p type="p">Between 1922 and 1935, Stieglitz worked on his &lt;i&gt;Equivalent&lt;/i&gt; series. Directing his camera to the sky, Stieglitz took photos of clouds, hoping the abstracted images would reflect his artistic intent. Cropped close, the images are experiments in shape and composition. Later Stieglitz opened the Intimate Gallery (1925-30) and An American Place (1930-46), both following in the footsteps of 291. An exhibition of Stieglitz's own work was hosted by the Cleveland Museum of Art in 1937.</p>
+        </subsection>
+        <subsection title="Stieglitz and O'Keeffe">
+          <p type="p">Stieglitz first saw Georgia O'Keeffe's artwork in 1916. Without permission or knowledge of the artist, he displayed her drawings on the walls of his gallery. When she objected, he merely stated, "You don't know what you've done in these pictures." This would be the starting point of their relationship.</p>
+          <p type="p">The couple married in 1924, but their personal relationship began shortly after their first meeting. Stieglitz used his position as husband, gallery owner, and proponent of modernism to market O'Keeffe as the quintessential female artist of the era. In 1917, Stieglitz began work on the &lt;i&gt;Georgia O'Keeffe - A Portrait&lt;/i&gt; series. Forty-five of the total 329 photographs depict O'Keeffe in the nude. In many of the photographs, Stieglitz crops her body, leaving just a naked torso or fetishized body parts. This series was O'Keeffe's unveiling to the public. She became famous for three reasons: her art, her husband's photographs of her, and his insistence that she was the painter of womanhood.</p>
+          <p type="p">Stieglitz suffered a fatal stroke in the summer of 1946, while O'Keeffe was away on one of her long sojourns to the Southwest.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Alfred Stieglitz Portrait" show="0">/images20/photo/stieglitz_alfred_4.jpg</p>
+          <p type="p">Alfred Stieglitz led the Pictorialist movement, which advocated the artistic legitimacy of photography in the United States. Without his influence, photographers like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-adams_ansel"&gt;Ansel Adams&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-weston_edward"&gt;Edward Weston&lt;/span&gt; would never have been able to become household names. His own works defined the greater Pictorialist project and set a firm aesthetic example for his contemporaries, many of whom were exhibited in &lt;i&gt;Camera Work&lt;/i&gt; magazine. Prior to his efforts, photographs were seen purely as historical records. He single-handedly popularized the medium and introduced America to European modernism with Gallery 291. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; all received their American debuts at the gallery. He launched the career of his wife, Georgia O'Keeffe, and lauded her - however unfairly - as the greatest female artist of the 20&lt;sup&gt;th&lt;/sup&gt; century. He laid the foundation for the current proliferation of digital cameras. While nearly everyone is an amateur photographer today, few were at the &lt;i&gt;fin de siecle&lt;/i&gt;, and Stieglitz was the leader of those few.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="picasso_pablo">Bowl of Fruit, Violin and Bottle (1914)</artwork>
+    <artwork from="artist" page="okeeffe_georgia">Black Place, Grey and Pink (1949)</artwork>
+    <artwork from="artist" page="dove_arthur">Me and the Moon (1937)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>von_menzel_adolf</entity>
+        <entity>hasemann_wilhelm</entity>
+        <entity>demachy_robert</entity>
+        <entity>steichen_edward</entity>
+        <entity>muybridge_eadweard</entity>
+      </column>
+      <column>
+        <entity>davison_george</entity>
+        <entity>horsley_hinton_alfred</entity>
+        <entity>vogel_hermann_wilhelm</entity>
+      </column>
+      <column>
+        <entity>barbizon_school</entity>
+        <entity>photo_secession</entity>
+        <entity>cubism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>adams_ansel</entity>
+        <entity>porter_eliot</entity>
+        <entity>weston_edward</entity>
+        <entity>cunningham_imogen</entity>
+      </column>
+      <column>
+        <entity>okeeffe_georgia</entity>
+        <entity>weber_max</entity>
+        <entity>dove_arthur</entity>
+      </column>
+      <column>
+        <entity>group_f64</entity>
+        <entity>abstract_photography</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Winter, Fifth Avenue</title>
+      <year>1892</year>
+      <materials>Photogravure</materials>
+      <desc>&lt;i&gt;Winter, Fifth Avenue&lt;/i&gt; shows the busy New York street in the midst of a snowstorm. Stieglitz stalked Fifth Avenue for three frigid hours waiting for the perfect moment. He had to wait for the ideal composition - unlike a painter, who could manufacture it. Trails in the snow lead the eye up this vertical composition to its focal point - a dark horse and carriage that is swallowed by the snowy atmosphere. The snow blurs the details of the urban surroundings, lending the photo an Impressionistic appearance. This depiction of man - crudely mechanized - and pitted against the violence of the natural world, shows Stieglitz's inheritance from 19&lt;sup&gt;th&lt;/sup&gt; century Romanticism.</desc>
+      <collection>The Minneapolis Institute of Arts</collection>
+    </artwork>
+    <artwork>
+      <title>The Terminal</title>
+      <year>1893</year>
+      <materials>Photogravure</materials>
+      <desc>Taken with a handheld Folmer and Schwing 4x5 plate film camera, this photo captures hot stream rising from horses in the dead of winter. A smaller camera meant greater mobility; it also ensured that he could more easily capture short-lived moments in time. The steam makes the photo appear more like a painting than a point-and-shoot image. Atmospheric effects such as this were important to Stieglitz in both providing a means to bind the image together and to show the kind of technical mastery and lush effects that audiences approved of in painting.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Steerage</title>
+      <year>1907</year>
+      <materials>Photogravure</materials>
+      <desc>&lt;i&gt;The Steerage&lt;/i&gt; depicts travelers boarding a crowded steamer going from New York to Bremen, Germany. They have attempted to immigrate to America, and have been forced to return home. While several of Stieglitz's early pictures suggest an interest in working class motifs - or, at least, scenes of labor and industrial work - he looked at these people with the somewhat distant sympathy of the patrician. For Stieglitz, the picture was far more important as a study in line and form. He regarded it as his first "modernist" picture, the image that marked his move away from the rich tonality of his earlier Pictorial phase, and it has since come to be seen as a benchmark for the beginnings of modernist photography. In part, this was due to Stieglitz's own promotion of it. He included it in a special issue of his journal &lt;i&gt;Camera Work&lt;/i&gt;, in 1911, that was devoted to his new work. The images were accompanied by a Cubist drawing by Picasso, and Stieglitz loved to recount how Picasso had praised &lt;i&gt;The Steerage&lt;/i&gt; for the way it transformed its conventional subject into a striking, collage-like depiction of different spaces.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>From the Back Window at 291</title>
+      <year>1915</year>
+      <materials>Platinum print</materials>
+      <desc>This nighttime scene was taken from the window of Stieglitz's famous avant-garde gallery. The photo is dominated by the geometric lines of New York's cityscape, using the rich range of tone the camera affords to depict the drama of the city by night. The overall darkness is leavened by intermittent beacons of artificial light. Although the picture was taken many years after Stieglitz had turned his back on the rich tonality of Pictorial photography, it could be interpreted almost as a transitional piece - the dramatic light effects recall his early work, but the geometric forms of the roofs in the foreground recall the concerns of his more recent, straight photography.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Georgia O'Keeffe - Torso</title>
+      <year>1918-19</year>
+      <materials>Palladium Print</materials>
+      <desc>Stieglitz cropped O'Keeffe's body, filling the lens with her nude torso alone. A part of a larger series of portraits of O'Keeffe, it presents an intimate view of the woman who was Stieglitz's muse for the latter part of his life. He approached O'Keeffe like he might a landscape; the viewer is encouraged to see not nakedness but flowing organic lines - a finely judged composition. In consequence, however, she is also depersonalized and reduced to her component body parts - she is hair, breasts, and arms.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Equivalent</title>
+      <year>1930</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc>Stieglitz's cloud series - &lt;i&gt;Equivalents&lt;/i&gt; - captured ephemeral formations in the sky. This photo is divided between dark, black clouds on the left and bright sky on the right. Without context, the subject seems difficult to pinpoint, though Stieglitz intended the series to be an exploration of his changing mental state, with each shot of the sky representing an equivalent of his mood at the time the picture was captured. One of his more revered later works, the series is also the high point of abstraction in his career.</desc>
+      <collection>San Francisco Museum of Modern Art</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Alfred Stieglitz's Camera Notes</title>
+          <link>0393311260</link>
+          <info>By Christian A. Peterson</info>
+        </entry>
+        <entry recommended="true">
+          <title>Alfred Stieglitz New York</title>
+          <link>0847834905</link>
+          <info>By Bonnie Yochelson</info>
+        </entry>
+        <entry>
+          <title>The Photography of Alfred Stieglitz: Georgia O'Keeffe's Enduring Legacy</title>
+          <link>0935398236</link>
+          <info>By Therese Mulligan, Laura Downey, Anthony Bannon</info>
+        </entry>
+        <entry>
+          <title>Modern Art and America: Alfred Stieglitz and His New York Galleries</title>
+          <link>0821227289</link>
+          <info>By Sarah Greenough</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Alfred Stieglitz: A Biography</title>
+          <link>0306807947</link>
+          <info>By Richard Whelan</info>
+        </entry>
+        <entry>
+          <title>Stieglitz: A Beginning Light</title>
+          <link>0300102399</link>
+          <info>By Katherine Hoffman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Georgia O'Keeffe A Portrait by Alfred Stieglitz</title>
+          <link>0300086105</link>
+          <info>By Alfred Stieglitz</info>
+        </entry>
+        <entry>
+          <title>Alfred Stieglitz: Camera Work</title>
+          <link>3822880728</link>
+          <info>By Pam Roberts, Alfred Stieglitz</info>
+        </entry>
+        <entry>
+          <title>Stieglitz: A Memoir/Biography</title>
+          <link>0878466495</link>
+          <info>By Sue Davidson Lowe, Anne Havinga, Edward Steichen, Alfred Stieglitz, Arthur Dove, Georgia O'Keeffe, Mark Strand, Marsden Hartley</info>
+        </entry>
+        <entry recommended="true">
+          <title>Stieglitz on Photography: His Selected Essays and Notes</title>
+          <link>0893818046</link>
+          <info>By Richard Whelan, Sarah Greenough, Alfred Stieglitz, Tom Wesselman</info>
+        </entry>
+      </subcategory>
+      <subcategory name="works" class="artwork">
+        <entry>
+          <title>The Photography of Alfred Stieglitz: Georgia O'Keeffe's Enduring Legacy</title>
+          <link>0935398236</link>
+          <info>By Therese Mulligan, Laura Downey</info>
+        </entry>
+        <entry>
+          <title>Alfred Stieglitz: The Key Set - Volume I &amp; II: The Alfred Stieglitz Collection of Photographs</title>
+          <link>0810935333</link>
+          <info>By Sarah Greenough</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>American Masters. Alfred Stieglitz | PBS</title>
+          <link>https://www.youtube.com/watch?v=w-wtfjEo8Qc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The Metropolitan Museum: Alfred Stieglitz and American Photography</title>
+          <link>http://www.metmuseum.org/toah/hd/stgp/hd_stgp.htm</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The J. Paul Getty Museum: Alfred Stieglitz</title>
+          <link>http://www.getty.edu/art/gettyguide/artMakerDetails?maker=1851</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>High Aims for Art's Sake</title>
+          <link>http://www.nytimes.com/2011/10/14/arts/design/alfred-stieglitz-at-the-metropolitan-museum-review.html?pagewanted=all</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						October 13, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Photography: A Coming-of-Age Story</title>
+          <link>http://www.nytimes.com/2010/11/19/arts/design/19stieglitz.html?_r=1&amp;ref=alfredstieglitz&amp;gwh=81CFAD2712DAAE0259D5B2B3C9A3C266</link>
+          <info>
+						By Karen Rosenberg
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						November 18, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Unseen Stieglitz</title>
+          <link>http://www.newyorker.com/archive/1995/09/11/1995_09_11_064_TNY_CARDS_000374248#ixzz0yQzbNfjC</link>
+          <info>
+						By Ingrid Sischy
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						September 11, 1995
+					</info>
+        </entry>
+        <entry>
+          <title>Stieglitz Show at the Met, The Essence of Greatness</title>
+          <link>http://www.nytimes.com/1983/06/17/arts/stieglitz-show-at-the-met-the-essence-of-greatness.html?scp=16&amp;sq=alfred%20stieglitz&amp;st=cse</link>
+          <info>
+						By Andy Grundberg
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						June 17, 1983
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips">
+        <entry>
+          <title>Stieglitz and O'Keeffe: Their Love and Life in Letters</title>
+          <link>http://www.npr.org/2011/07/21/138467808/stieglitz-and-okeeffe-their-love-and-life-in-letters</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Stieglitz and the New York Art Scene (2011)</title>
+          <link>http://www.youtube.com/watch?v=CTxofXcJWVI</link>
+          <info>Lectures by Lisa M. Messinger and Jessica Murphy at the Metropolitan Museum of Art</info>
+        </entry>
+        <entry recommended="true">
+          <title>American Masters - Alfred Stieglitz: The Eloquent Eye (1999)</title>
+          <link>http://www.youtube.com/watch?v=8YhwYgdtphE</link>
+          <info>PBS Documentary on the Life and Work of Alfred Stieglitz</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Georgia O'Keeffe (2009)</title>
+          <link>http://www.amazon.com/Georgia-OKeeffe-Joan-Allen/dp/B0030T120A/ref=sr_1_2?s=dvd&amp;ie=UTF8&amp;qid=1283435897&amp;sr=1-2</link>
+          <info>Jeremy Irons plays Alfred Stieglitz in this movie</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

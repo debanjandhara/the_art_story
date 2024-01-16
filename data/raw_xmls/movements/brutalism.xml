@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>brutalism</id>
+    <name>Brutalist Architecture</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <description>Brutalism was a movement in modern architecture responsible for some of the most striking building designs of the twentieth century. </description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <start>1950</start>
+    <end>1980</end>
+    <big_bio_box_img>true</big_bio_box_img>
+    <pub_time>5/8/2020</pub_time>
+  </main>
+  <similar_artists>
+    <artist>le_corbusier</artist>
+    <artist>breuer_marcel</artist>
+    <artist>gropius_walter</artist>
+    <artist>mies_van_der_rohe_ludwig</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>bauhaus</movement>
+    <movement>international_style</movement>
+    <movement>de_stijl</movement>
+    <movement>constructivism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>bauhaus</entry>
+    <entry>international_style</entry>
+    <entry>de_stijl</entry>
+    <entry>constructivism</entry>
+  </do_not_miss>
+  <quotes>
+    <q author="Reyner Banham">"What characterizes the New Brutalism is precisely its brutality, its je-m'en-foutisme ["couldn't-care-less attitude"] its bloody-mindedness."</q>
+    <q author="Louis Kahn">"Architecture is the Thoughtful making of space."</q>
+    <q author="Moshe Safdie">Architecture should be rooted in the past, and yet be part of our own time and forward looking."</q>
+    <q author="Moshe Safdie">"I try firstly to make my buildings humane."</q>
+    <q author="Erno Goldfinger">"The spatial order is built up by an amalgamation of a multitude of phenomena, the perception of which, subconsciously integrated, helps in building up the sensation of space. Memories and experience, not only of visual sensation but also of sound and touch and smell, enter into it. The sound and vibration in a hall; the physical touch of the walls of a narrow passage; the atmosphere and temperature of a stuffy room; the smell of a damp cellar; all are, in various degrees, components of spatial sensation. Every element, plastic or pictorial, partially obstructing the view, and people in the crowd rubbing against you, are part of it."</q>
+    <q author="Erno Goldfinger">"Architecture masters space, limits it, encloses it."</q>
+    <q author="Erno Goldfinger">"The stuff we are doing is simple and plain and gets all its value of the balance of its proportions of the perfect satisfaction it gives in function, of the materials...in the right place."</q>
+    <q author="Le Corbusier">"A house is a machine for living in."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="thomas">Greg Thomas</editor>
+  </editors>
+  <article>
+    <synopsys>Brutalism was a movement in modern architecture responsible for some of the most striking building designs of the twentieth century. But its achievements also proved shocking and controversial, partly because of its emphasis on the use of unfinished concrete for exterior surfaces. Brutalism emerged after the Second World War but was rooted in the ideas of functionalism and monumental simplicity that had defined earlier architectural modernism, including the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt;. Brutalism sought to adapt earlier principles to a post-war world where urban reconstruction was a pressing necessity. In this sense, it was partly inspired by democratic-socialist visions of community, but it was also propelled by the avant-garde idiosyncrasies of maverick architects, and it is remembered as much for the 'devil-may-care' brashness of its designs as for their communitarian ethos. In the decades following its zenith, Brutalism became redolent of urban deprivation and decline, largely because of its use in largescale social housing projects, but in the twenty-first century Brutalism is decidedly back in critical and popular fashion.</synopsys>
+    <key_ideas>
+      <idea>Brutalism's most famous stylistic motif was the use of raw concrete (French "béton brut") for exterior surfaces, leaving evidence of the construction process, such as the holes and seamlines left by the setting of liquid concrete, visible on the outsides of buildings. For Brutalist architects this approach showed a truth to the textural qualities of materials, and to the labor of construction, that epitomized their socially engaged, ethics-driven approach to their work.</idea>
+      <idea>The way in which Brutalism emphasized the physical properties of building materials represented an update on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sullivan_louis"&gt;Louis H. Sullivan's&lt;/span&gt; famous 'form follows function' maxim, which had inspired an earlier wave of modernist architecture culminating in the International Style. But whereas International Style often favored a sleek, streamlined efficiency of construction - doing the most with the least - Brutalism was more likely to emphasize the brash abundance of its materials, drawing attention to the weight, density, and mass of concrete, steel, and stone.</idea>
+      <idea>Brutalism emerged at a time of urgent need for large-scale, affordable residential architecture. Europe's major cities were heavily bomb-damaged, while the need to clear urban slums, and a widespread desire to improve the lot of the common citizen, inspired largescale rehousing projects across much of the continent. With the scale of its designs and emphasis on cheap building materials, Brutalism became the style of choice for many of these projects: with mixed results for its own critical and popular fortunes.</idea>
+      <idea>Brutalism was part of a broader wave of mid-century-modernist functional design. Whereas modernism in visual art and literature is generally associated with the early twentieth century, and often with notions of complexity and difficulty, this mid-century modernism was notable for the iconic simplicity of its designs, and for its egalitarian emphasis on mass production and utility, an aesthetic rooted in the advances of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;.</idea>
+      <idea>Brutalism undoubtedly owed an allegiance to the emphasis on brute materiality that defined the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut&lt;/span&gt; movement. In Britain, Brutalist architects such as Alison and Peter Smithson were acquainted with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt;, the primary exponent of Art Brut, and sought to emulate his primitive, visceral approach through the spirit of their designs.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Le Corbusier">
+          <p type="img" alt="Charles-Édouard Jeanneret, known as Le Corbusier, whose Unité d'habitation (1952) is seen as one of the first and most iconic works of Brutalist architecture." show="1">/images20/photo/photo_brutalism_1.jpg</p>
+          <p type="p">A pioneer of modern architecture, Charles-Édouard Jeanneret, known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Le Corbusier&lt;/span&gt;, was not only the main predecessor of and influence upon Brutalism, but also created some of its most iconic structures. He first considered the use of concrete as a student with Auguste Perret in Paris, then in 1914 he studied the technology of reinforced concrete with the engineer Max Dubois. As Le Corbusier recalled, "reinforced concrete provided me with incredible resources, and variety, and a passionate plasticity..." His early design for the Dom-Ino House (1914-15), an un-built prototype for temporary residences required after World War I, used a concrete modular structure for which residents could build their own exterior walls using materials stored on site. The idea was, as he described it, "a juxtaposable system of construction according to an infinite number of combinations of plans."</p>
+          <p type="img" alt="The houses that make up Maisons Joule (1951-55), a design that employed rough brickwork and unfinished concrete. " show="1">/images20/photo/photo_brutalism_2.jpg</p>
+          <p type="p">His Unité d'habitation (1952), an apartment complex in France, was seen as the first example of Brutalism in urban planning, while his Maisons Joule (1951-55) influenced the movement's approach to private residences. Nonetheless, Le Corbusier did not identify with the term "Brutalism" movement and was outraged when his work was described as part of the Brutalist movement. As he wrote, "'[b]éton brut' was born at the Unité d'habitation, Marseille, where there were eighty contractors and such a massacre of concrete that there was no way of imagining how to construct useful relationships through rendering. I had decided: leave everything 'brut' [raw/unfinished]. I called it '&lt;i&gt;béton brut&lt;/i&gt;.' The English immediately jumped on the bandwagon and dubbed me 'Brutal'."</p>
+        </subsection>
+        <subsection title="Villa Göth">
+          <p type="img" alt="Bengt Edman and Lennart Holm's Villa Göth (1950) was an early example of Brutalism's emphasis on unfinished materials. " show="1">/images20/photo/photo_brutalism_3.jpg</p>
+          <p type="p">In 1949 the Swedish scientist and pharmaceutical boss Elis Göth commissioned Bengt Edman and Lennart Holm to build him a private residence in Uppsala, Sweden. The Villa Göth consisted of a two-story rectangular block constructed from dark brick, with exposed I-beams and a number of &lt;i&gt;béton brut&lt;/i&gt; floors and ceilings displaying the casting forms of the concrete. Hans Asplund, a leading Swedish architect, used the term "Nybrutalism" ("New Brutalism") to characterize the building.</p>
+        </subsection>
+        <subsection title="Brutalism in Britain: Alison and Peter Smithson">
+          <p type="p">According to the architectural photographer Eric de Maré, a number of British architects who visited the Villa Göth, including Michael Ventris and Oliver Cox, picked up on the "New Brutalism" tag and introduced it at home, where, as de Maré wrote, it "spread like wildfire." Brutalism is still sometimes referred to as New Brutalism for this reason.</p>
+          <p type="p">Part of the reason that Britain, and the Smithsons' work in particular, became closely associated with Brutalism is because of this self-conscious adoption of the term by British architects and critics. In a 1951 article, the writer Reyner Banham called Brutalism "Britain's first native art movement," writing that the term originated in Le Corbusier's advocacy of "béton brut" ('raw concrete') and Jean Dubuffet's Art Brut. Drawing a distinction between proponents of the emerging style, Bonham argued that Asplund's "Neo-Brutalism" emphasized style or aesthetic rather than the ethics emphasized by New Brutalism. Two years later, in 1953, the English architect Alison Smithson used the term "Brutalism" in &lt;i&gt;Architectural Design&lt;/i&gt; to describe her design for a Soho residence which was to be "exposed entirely, without interior finishes wherever practicable". "Had this been built", she noted, "it would have been the first exponent of the New Brutalism in England." So closely did Brutalism become associated with the Smithsons' work that the architectural photographer Georges Candilis argued that Brutalism was in fact a neologism created by combining a contraction of Alison Smithson's first name, "Al", with Peter Smithson's nickname "Brutus."</p>
+          <p type="img" alt="This photograph shows Alison and Peter Smithson in 1990. " show="1">/images20/photo/photo_brutalism_4.jpg</p>
+          <p type="p">Alison and Peter Smithson had met as students at Durham University, where they began a lifelong personal and professional relationship. In 1949 they won an architectural competition for their design for the Hunstanton Secondary Modern School (1949-54) in Norfolk, later seen as an exemplar of Brutalist style. Indeed, the two quickly became leaders of the new movement, growing in prominence through their collaborations with artists at the London Institute of Contemporary Arts and as members of Team 10, a group of architects who favored a new vision of urban planning. The Smithsons wrote articles advocating for the use of unfinished concrete, exposed building structures, and inexpensive fabricated materials to create buildings adapted to particular locations. Placing the Brutalist movement within a historical context, they cited the early work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mies_van_der_rohe_ludwig"&gt;Ludwig Mies van der Rohe&lt;/span&gt;, the architecture of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wright_frank_lloyd"&gt;Frank Lloyd Wright&lt;/span&gt;, and traditional Japanese architecture - which they wrote showed "a reverence for the natural world, and from that, for the materials of the built world" - as influences. Their ideas were informed by the economic and social realities of post-World War Two Britain, which required large-scale rebuilding in many heavily-bombed cities - they described their approach as "make do and mend."</p>
+        </subsection>
+        <subsection title="Parallel of Life and Art exhibition 1953">
+          <p type="p">Alison and Peter Smithson, along with the photographer Nigel Henderson and the artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-paolozzi_eduardo"&gt;Eduardo Paolozzi&lt;/span&gt;, organized the 1953 Parallel of Life and Art exhibition at the London Institute for Contemporary Arts. According to the Hepworth-Wakefield, this "innovative exhibition juxtaposed a series of seemingly disparate images and emphasized the importance of photography, mass-produced imagery, architecture and design to avant-garde art." At the time, the four artists were members of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-independent_group"&gt;the Independent Group&lt;/span&gt;, a loose association of designers, architects, and artists who held meetings at the London Institute of Contemporary Arts from 1952 to 1955.</p>
+          <p type="img" alt="Nigel Henderson's photograph of part of the Parallel of Life and Art exhibition (1953) shows the works hung at random from the ceiling and walls." show="0">/images20/photo/photo_brutalism_5.jpg</p>
+          <p type="p">The Smithsons' friend Eduardo Paolozzi was also in contact with the French artist Jean Dubuffet, and Peter Smithson noted that at the core of Brutalism was "the materiality thing" originating in Dubuffet's Art Brut. Dubuffet coined the term "Art Brut" to define art created outside of the established art-world, notably by self-taught artists, children, and the mentally ill. His own work was known for its often-shocking emphasis on the brute physicality of the body, and its use of raw textures and primitive formal likenesses. The Parallel of Life and Art exhibition included one of Dubuffet's works from his &lt;i&gt;Corps de Dames&lt;/i&gt; series (1950-51) as well as prints, photographs, video, architectural designs, and artwork by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hamilton_richard"&gt;Richard Hamilton&lt;/span&gt;, William Turnbull, Magda Cordell, and Jean Dubuffet. The exhibition was later regarded as an authoritative illustration not only of the Brutalist movement but of early trends in the emerging &lt;span class="marked_text chart-tooltip-target-top tooltip_id-british_pop_art"&gt;British Pop Art movement&lt;/span&gt;.</p>
+        </subsection>
+        <subsection title="Team 10">
+          <p type="img" alt="This photograph shows Team 10, including with the Smithsons, playfully creating a “house” at the 1953 CIAM meeting. Photograph by the Alison und Peter Smithson Archive." show="0">/images20/photo/photo_brutalism_6.jpg</p>
+          <p type="p">The Smithsons, along with the architects Georges Candilis, Jaap Bakema, Giancarlo De Carlo, Aldo van Eyck, and Shadrach Woods, were core members of Team 10. This group formed in 1953 at the Congrès International d'Architecture Moderne, known as CIAM. The group described themselves as "a small family group of architects who have sought each other out because each has found the help of the others necessary to the development and understanding of their own individual work." They argued against the emphasis on transplantable functionalism that had defined the development of modernist architecture in the early twentieth century, in favor of urban planning that reflected the values and lifestyle of specific populations and created community. As Alison Smithson wrote, "[b]elonging is a basic emotional need. Its associations are of the simplest order. From 'belonging' (identity) comes the enriching sense of neighborliness. The short narrow street of the slum succeeds where spacious redevelopment frequently fails."</p>
+          <p type="p">At a 1954 meeting of Team 10, the Smithsons wrote "The Doorn Manifesto", an expression of their collective architectural ethics: "it is useless to consider the house except as part of a community," the manifesto stated. It also included their coinage of the famous phrase "streets in the sky," meaning elevated walkways with access to high-rise flats, as a means of creating a sense of community life in high-density housing. Team 10 continued to be influential across the following decades, both in the emergence of New Brutalism internationally, and in the development of Structuralism, a movement found by the Dutch architects Aldo van Eyck and Jacob Bakema. Attending every meeting, Bakema became the leading force of Team 10, and the group disbanded in 1981 upon his death.</p>
+        </subsection>
+        <subsection title="Reyner Banham">
+          <p type="p">With the publication of his essay "The New Brutalism" (1955), the architectural critic and historian Reyner Banham became the leading theorist and advocate of the Brutalist movement. The essay defined the historical context for Brutalism, describing the movement as influenced by Le Corbusier's &lt;i&gt;béton brut&lt;/i&gt;, Jean Dubuffet's Art Brut, and the French musician Pierre Schaeffer's "musique concrète" ('concrete music') of the 1940s. Taking Le Corbusier's statement "L'architecture, c'est avec des Matières Brutes, établir des rapports emouvants ('Architecture with Raw Materials establishes moving relationships') as its epigraph, the essay emphasized the use of unfinished concrete to create bold structures.</p>
+          <p type="img" alt="Reyner Banham's “The New Brutalism” appeared in a 1955 issue of &lt;i&gt;Architectural Review&lt;/i&gt; alongside a collage of photographs of Le Corbusier's Chapelle of Notre-Dame-du-Haut (1950-55)." show="1">/images20/photo/photo_brutalism_7.jpg</p>
+          <p type="p">Banham defined the key tenets of Brutalist architecture as follows: "l, Memorability as an Image; 2, Clear exhibition of Structure; and 3, Valuation of Materials 'as found'." He explained "Memorability as an Image" as meaning that "the building should be an immediately apprehensible visual entity; and that the form grasped by the eye should be confirmed by experience of the building in use." At the same time, his essay defiantly challenged certain critics of the movement, stating, in contrast to the community ethics of some of its proponents, that "[w]hat characterises the New Brutalism is precisely its brutality, its &lt;i&gt;je-m'en-foutisme&lt;/i&gt; ['couldn't-care-less attitude'], its bloody-mindedness."</p>
+          <p type="p">Banham's essay defined the Smithson's Hunstanton School (1954) as the exemplar of Brutalism, and also included Louis Kahn's Yale Art Centre (1953) as an expression the movement, though it many ways the latter was closer to the sleek minimalism of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt;. Nonetheless, as Banham put it, "both exhibit their basic structure, and both make a point of exhibiting their materials." Banham's subsequent book &lt;i&gt;The New Brutalism: Ethic or Aesthetic?&lt;/i&gt; (1966) further codified Brutalism, drawing upon a number of recent architectural projects.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Streets in the Sky">
+          <p type="img" alt="A photograph of the Smithsons' Robin Hood Gardens (1968-72), largely demolished during 2017-19, showing the green area, including manufactured hills, with one of the apartment buildings in the background. " show="1">/images20/photo/photo_brutalism_8.jpg</p>
+          <p type="p">The concept of "streets in the sky" was an architectural feature of Brutalism that became popular in the 1960s, involving the use of elevated walkways connecting raised apartment buildings to create a sense of neighborhood. An early example of their use was in the Smithsons' design for Golden Lane Estate (1952), an unbuilt project, which became the model for their Robin Hood Gardens in London (1968-72). The Golden Lane estate was intended to include two apartment buildings placed at angles around an enclosed green area described by the architects as "a 'stress-free central zone [...] a quiet green heart which all dwellings share and can look into." Each apartment block ended in elevator silos connecting to open-air walkways or "streets." The Smithsons described the project as "an exemplar - a demonstration of a more enjoyable way of living in an old industrial part of a city."</p>
+          <p type="p">This Brutalist model for communal interaction was widely employed in British public housing in the following decades, notably in Ernö Goldfinger's Balfron Tower (1965-67) and Trellick Tower (1966-72) in East London. Hulme Crescents (1972) in Manchester was the largest of the streets-in-the-sky British projects, but suffered various design problems leading to its 1994 demolition. Many of these complexes became marked by neglect, failing maintenance, and crime, and faced public and critical antagonism in the 1970s and across subsequent decades, until a recent revival of critical and cultural good will.</p>
+        </subsection>
+        <subsection title="University Architecture">
+          <p type="img" alt="New York Times art critic Ada Louise Huxtable described Paul Rudolph's Yale Art and Architecture Building (1958), later renamed as Rudolph Hall, as “a spectacular tour de force.”" show="1">/images20/photo/photo_brutalism_9.jpg</p>
+          <p type="p">In the late 1950s many universities, especially in the United Kingdom, turned to Brutalist architecture, partly due to its inexpensive and quick construction possibilities, and partly due to its strong association with the expanded public and cultural realm of the post-war period. In the United States, one of the most noted early examples was Paul Rudolph's Yale Art and Architecture Building (1958). Rudolph went on to design the entire campus of the University of Massachusetts at Dartmouth, much of it in the same style. In other cases, showpiece campus buildings, notably part of the library at the University of Chicago, and the Brigham Young University performing arts building, were commissioned in the Brutalist style. In the United Kingdom, as the university sector expanded and new institutions opened - the so-called "plate-glass universities" of the 1960s - striking Brutalist buildings were commissioned across the UK, notably at the Universities of Essex, East Anglia, and Glasgow. Brutalist style was also employed at various Canadian universities, notably for the Andrew Building (1964) at the University of Toronto.</p>
+        </subsection>
+        <subsection title="Brutalism in the United States">
+          <p type="img" alt="Paul Rudolph's Endo Pharmaceuticals Building (1962-64), a fortress-like building that was brush-hammered to create a distinctive, “corduroy” texture that became the architect's signature feature." show="0">/images20/photo/photo_brutalism_10.jpg</p>
+          <p type="p">In the United States from 1962 to 1976 Brutalism was a popular style, employed not only for academic buildings but also for libraries, government buildings, churches, and corporate headquarters: particularly those of scientific and technology companies. Several well-known international architects were commissioned to design buildings in East Coast cities, as evidenced by Le Corbusier's role, alongside Oscar Niemeyer, Wallace Harrison, and Max Abramovitz, in designing the Headquarters of the United Nations (1948-1952) in New York City.</p>
+          <p type="p">Paul Rudolph was considered the leading Brutalist architect in the USA, and as a professor of architecture at Yale both his theory and practice influenced subsequent architects. Evans Woollen III, Ralph Ranson, and Walter Netsch were amongst other well-known North-American Brutalist architects, all of them based in the Midwest. Ranson designed churches, theatrical venues, and the housing complex Cedar Square West in his native Minnesota during the 1960s-70s. Practicing in Indianapolis, Woollen designed so many buildings that he was dubbed 'the city's designer.' The Serbian-born Araldo Cossutta, and the Hungarian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breuer_marcel"&gt;Marcel Breuer&lt;/span&gt;, also spent much of their careers in the United States, designing notable Brutalist buildings such as Cossutta's Christian Science Center (1973) in Boston.</p>
+        </subsection>
+        <subsection title="The Paulista School of Brazil">
+          <p type="img" alt="João Vilanova Artigas and Carlos Cascaldi's Faculty of Architecture and Urbanism, University of São Paulo (1961-68)" show="1">/images20/photo/photo_brutalism_11.jpg</p>
+          <p type="p">Brazil was another center of Brutalist activity, just as it was of developments in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-concrete_art"&gt;Concrete Art&lt;/span&gt; following the Second World War. In the 1950s, the São Paulo-based architect João Batista Vilanova Artigas founded the so-called Paulista School, a loose association of Brazilian architects all based in the city who favored the use of exposed concrete, rough surfaces, and monumental dimensions. The school built upon the influence of the Brazilian Carioca school that began in 1935, but in the post-war era began employing concrete, one notable early expression of its aesthetics being Affonso Eduardo Reidy's Brasil-Paraguai Elementary School (1952). Vilanova Artigas, along with the architect Carlos Cascaldi, began working with concrete, as seen in Vilanova Artigas's design for the Morumbi Stadium (1952). Artigas and Cascaldi were also influential teachers, later co-founding the Faculty of Architecture and Urbanism at the University of São Paulo.</p>
+          <p type="img" alt="An aerial view of Paulo Mendes da Rocha's São Paulo Athletic Club (1957), a massive circular structure made of concrete." show="0">/images20/photo/photo_brutalism_12.jpg</p>
+          <p type="p">Joaquim Guedes and Oswaldo Bratke were also associated with the Paulista group, and Paulo Mendes da Rocha became a leading figure, revitalizing São Paulo's cityscape with buildings that were dubbed as examples of "Brazilian Brutalism." One of his early and celebrated designs was the São Paulo Athletic Club (1957). A distinctive characteristic of Brazilian Brutalism became its long-lasting cultural viability, as the buildings were seen as deeply connected to Brazilian culture and reflective of its modernity. Da Rocha remains a leading South American architect, and in 2006 received the international Pritzker Architecture Prize, with the panel citing his "deep understanding of the poetics of space" and "architecture of profound social engagement." In 2016 he was awarded the Golden Lion for lifetime achievement at the Venice Architecture Biennale.</p>
+        </subsection>
+        <subsection title="Brutalism in the Soviet Bloc">
+          <p type="img" alt="Dubbed the “buried robot” by the residents of Kalingrad, Yulian L. Shvartsbreim's House of Soviets (1970-92) was never finished. " show="1">/images20/photo/photo_brutalism_13.jpg</p>
+          <p type="p">In the Soviet Union and Eastern bloc (those countries in Eastern Europe emerged as soviet vassal states after the Second World War, with communist rulers heavily influenced by the USSR), prefabricated concrete was widely employed to create apartment complexes, government buildings, and monuments. In the late 1950s, the government launched plans to increase industrialization and urbanization, and extensive use of concrete was seen as a practical means of creating urban housing reflecting Soviet ideals of communal living. In Russia, these standardized complexes were referred to as "Panelki" ('panel buildings') as they were composed of prefabricated concrete panels - unfortunately, they became known for their shoddy and sometimes never completed amenities. Nonetheless, government and monumental architecture in the USSR was often innovative, employing unusual structural forms that were sometimes compared to UFOs or described with reference to other science-fiction tropes, as with the moniker "The Buried Robot" applied to Yulian L. Shvartsbreim's House of Soviets (1970-92).</p>
+          <p type="img" alt="George Chakhaba and Zurab Jalaghania's Georgia Ministry of Highways (1971) shows the 18-story building prior to its renovation in 2007 as the Bank of Georgia." show="1">/images20/photo/photo_brutalism_14.jpg</p>
+          <p type="p">More noted examples of Brutalist architecture, like George Chakhaba and Zurab Jalaghania's Georgia Ministry of Highways (1971), combined the use of raw concrete and unfinished surfaces with the influence of Constructivism. In Yugoslavia, Božidar Janković lwas the leader of an architectural school emphasizing functionalism and the use of raw concrete, while in other countries, including Czechoslovakia, Brutalism was seen as a way to create a national style that reflected modern socialism.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="img" alt="The Barbican Estate in London, built between 1965 and 1976 on a 35-acre site that had been bomb-damaged during World War Two." show="1">/images20/photo/photo_brutalism_15.jpg</p>
+          <p type="p">In the 1970s, Brutalism came under redoubled criticism both from architects and the public, while its association with urban blight and crime was reflected by the use of Brutalist locations for films such as &lt;i&gt;Get Carter&lt;/i&gt; (1971), a graphic look at British criminal culture, and Stanley Kubrick's &lt;i&gt;A Clockwork Orange&lt;/i&gt; (1971), a dystopian vision of violent, disaffected youth. Nonetheless, iconic works of Brutalism such as the Barbican Estate in London were finished during this period.</p>
+          <p type="p">In the 1980s, the emergence of Deconstructivism brought an end to the movement, though it continued to live on in popular culture, as noted buildings became locations for BBC spy dramas, movies with a Cold War theme, and contemporary British dramas including the film &lt;i&gt;Beautiful Thing&lt;/i&gt; (1996) and the TV series &lt;i&gt;Misfits&lt;/i&gt; (2009-2013).</p>
+          <p type="p">In the 21&lt;sup&gt;st&lt;/sup&gt; century, Brutalism is experiencing a revival, as shown by the publication of books such as the &lt;i&gt;Brutalist London Map&lt;/i&gt; (2015), &lt;i&gt;This Brutal World&lt;/i&gt; (2016) and &lt;i&gt;SOS Brutalism: A Global Survey&lt;/i&gt; (2017). Conservation campaigns have been launched to save and restore Brutalist architecture, though some noted buildings have been demolished amidst public outcry. As the art historian Alexandra Lange wrote in a review of the exhibition Toward a Concrete Utopia at the Museum of Modern Art, "[m]y theory about why we love concrete architecture now is simple: It has body. Even as we consume design in pixels, we long for spaces where we can feel the weight of the world."</p>
+          <p type="p">A number of contemporary architects, including Peter Zumthor, Tadao Ando, Daniel Libeskind, Tadao Ando and the late &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hadid_zaha"&gt;Zaha Hadid&lt;/span&gt; have created Brutalist-influenced works, while others, including Jurgen Mayer Hermann, known as J Mayer H, have been described as "quasi-Brutalist." In 2015 the Swedish artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eliasson_olafur"&gt;Olafur Eliasson&lt;/span&gt; cast massive chunks of glacial ice in concrete to create sculptures and, subsequently, developed a building design for Illulissat Icefjord Park in Greenland. The installation A Clockwork Jerusalem (2014), at the 2014 Venice Biennale, included a central circular mound of earth taken from the manmade hill at Robin Hood Gardens, in homage to the Smithsons' vast, now largely demolished Brutalist housing estate in East London.</p>
+          <p type="p">Noted architects of the Brutalist movement, particularly Le Corbusier and Louis Kahn, have extensively influenced subsequent architecture, while Moshe Safdie, one of the world's leading architects, has continued to create innovative designs influenced by Brutalism, such as his Altair Towers in Sri Lanka.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Unité d'habitation</title>
+      <artist>Le Corbusier</artist>
+      <year>1952</year>
+      <materials>Concrete, steel, glass</materials>
+      <desc>
+				This 12-story housing complex of modular apartments, elevated on massive concrete pylons, is considered by many critics to represent the birth of Brutalism. It is finished in raw concrete, with the lines left by the moldings emphasizing the construction process, and the rough textures of its surface creating a sense of vitality and energy. Le Corbusier also pioneered the 'vertical garden city' concept with this building, including all the services a resident might need within the structure itself. Every third-floor functions as a city street, lined with shops, restaurants, recreational facilities and a nursery school, while the roof holds a gym, running track, theater stage, and shallow pool. As architectural critic Jonathan Glancey wrote, "[n]othing like this concrete megastructure had been seen before; the way it stood on those robust legs with its rough textured skin and its curious kinship to both a geological outcrop and an ocean liner. It is both a living creature and a purposeful machine." Le Corbusier called it "La Cité Radieuse", "the radiant city."
+				&lt;br/&gt;&lt;br/&gt;
+				Until he was commissioned for this project, Le Corbusier had not completed a single project during the 1940s - all his proposals for largescale architectural works had been rejected. As a result, when Raoul Dautry, the French Minister of Reconstruction and Urbanism, agreed to go ahead with Corbusier's design for a "unité d'habitation de grandeur conforme" ('housing units of standard size') to be constructed in war-damaged Marseille, it was the architect's first public commission. He later wrote that his design had been inspired by his 1907 visit to the Florence Charterhouse monastery in Galluzzo, Italy, where he learned that "standardization led to perfection," and that "all of his life a man labors under this impulse: to make the home the temple of the family." Georges Candilis, who had joined Le Corbusier's studio in 1945, was appointed as project architect for the building. Containing 337 duplexes and housing 1600 people, the design involved modular apartment units that would fit into the larger structure, as Corbusier said, "like wine bottles in a rack." As each module extended the width of the building, both ends of each apartment had a view and a terrace. Residents could choose between twenty-three different apartment configurations, though Le Corbusier also designed the interior furnishings, leaving only the choice of interior color to the resident. The building is devoid of decoration with the exception of the roof's ventilator shafts, which were made to resemble an ocean liner's smokestacks, a form that Le Corbusier admired. 
+				&lt;br/&gt;&lt;br/&gt;
+				The building made Le Corbusier the leading French architect of the 1950s, and in 1952 he was named a Commander of the Légion d'Honneur. He went on to create similar 'habitations', and his vision of urban living influenced Lúcio Costa, Oscar Niemeyer, and many other leading architects. Known affectionately by locals and residents as "La Maison du Fada," or the "House of the Crazy Guy," the building was named a UNESCO World Heritage Site in 2016. Today the home of many artists and architects, the structure has also been the site of art projects such as Christian Chironi's third installment of &lt;i&gt;My house is a Le Courbusier&lt;/i&gt; (2015).
+			</desc>
+      <collection>Marseille, France</collection>
+    </artwork>
+    <artwork>
+      <title>Boston City Hall</title>
+      <artist>Kallmann McKinnel &amp; Knowles with Campbell, Aldrich &amp; Nulty, and Lemessurier Associates</artist>
+      <year>1963-68</year>
+      <materials>Brick, concrete, glass</materials>
+      <desc>
+				The different exterior sections of this building are created with either brick or concrete cast in a number of patterns. They fit together like a jigsaw puzzle, each piece reflecting its interior function. Areas of public access are located on the ground floor, partially built into a rising fold of land, and employing red brick that blends with the surrounding brick plaza. The second floor, supported by massive concrete pylons and featuring exposed crossbeams, indicates the presence of the city council and mayor's offices, while the precast upper level, its small windows framed by concrete cast molding, contain the administrative offices. Like much Brutalist architecture, this bold design represents an update on the famous axiom of architectural modernism that form should follow function.
+				&lt;br/&gt;&lt;br/&gt;
+				Half of the structure's concrete was precast in steel molds and used darker cement, while the rest was cast in wooden frames onsite. Both were left unfinished so that contrasts in color and texture are created, as the second-floor pylons are darker and rougher in appearance, rising to the third floor's lighter and smoothly repetitive forms. The sense of tonal shift created as the building ascends contrasts with the inverted pyramid shape that draws attention downward through the vertical lines of the pylons and window frames to the ground floor, as if emphasizing the building's public function.
+				&lt;br/&gt;&lt;br/&gt;
+				The building's architects were influenced by Le Corbusier, as well as by Italian Renaissance town halls, and the nearby granite structure of Alexander Parris's Quincy Market (1825). Kallman was a professor at Columbia University, while McKinnell was a graduate student at the university, when their design won the 1962 competition for the project to build an accessible city government building, featuring the most heavily-used departments on the ground floor. From the beginning, the building was controversial, with calls for its demolition beginning while it was still under construction. In the decades since its construction it has often been named in public surveys as one of 'the world's ugliest buildings.' By contrast, polls conducted with architects have consistently found it to be considered one of the top ten architectural designs in the United States. This split of opinion is typical of the passionate and divergent views that Brutalist architecture can arouse.
+			</desc>
+      <collection>Boston, Massachusetts</collection>
+    </artwork>
+    <artwork>
+      <title>Trellick Tower</title>
+      <artist>Ernő Goldfinger</artist>
+      <year>1966-72</year>
+      <materials>Poured concrete, pre-cast concrete, wood, metal</materials>
+      <desc>
+				The design of Ernő Goldfinger's Trellick Tower creates a distinctive and iconic silhouette, with its left-hand service tower, including its lift shaft, linked by sky bridges to the central block on the right. Made of exposed concrete, the 31-storey tower forms a geometric grid of horizontal and vertical lines, complemented by the horizontal lines of the sky bridges and the towering verticals of the service structure. The bold profile dominates the local skyline, as architectural critic Tim Winstanley wrote, "evoking the purified silhouette of a mediaeval castle. With its uncompromising materiality ...the tower is a daring presence in London's post-war landscape, an expressionistic monument for the masses." The sky bridges, outlined against the empty space between the two major components, seem to capture the sky itself within the building's horizontal and vertical grid. As Winstanley noted, "[t]here is no doubt that the void resulting from the separation between the two elements will stand as Goldfinger's real masterwork, and it is a powerful architectural legacy."
+				&lt;br/&gt;&lt;br/&gt;
+				The Greater London Council commissioned the building as social housing in 1969. Goldfinger's design was substantially derived from his smaller, twin construction Balfron Tower (1965-67) where he lived for a period of time, and questioned residents for details about how to improve the building, reflecting his belief that architecture was "work that is only appreciable from within." As a result, Trellick Tower exemplifies Goldfinger's attention to detail, including features such as dual-pane glass to dampen sound, gaskets on the sky bridge to reduce vibration, windows with pivoting mechanisms for ease of cleaning, various space-saving features, and installation of the heating boiler and water storage tanks at the top of the service tower to reduce the need for piping and pumps. 
+				&lt;br/&gt;&lt;br/&gt;
+				Upon opening, the Trellick Tower was struck by several acts of vandalism that flooded entire floors and destroyed electrical circuitry. Subsequently, it became known as a high crime area. Dubbed the "tower of terror," it exemplified the social issues that became associated with Brutalist tower blocks, as the public saw their rough exteriors as reflective of distressed social populations. The building was thought by many to be the inspiration for J.G. Ballard's &lt;i&gt;High Rise&lt;/i&gt; (1975), a dystopian novel where the 2000 residents of an apartment building violently turn upon one another, and the details meant to make the building a machine for living become, in Ballard's words, "a machine for war." 
+				&lt;br/&gt;&lt;br/&gt;
+				However, the tower's reputation began to turn around in the mid 1980s, as the government decided to sell some of the flats to people who wanted to live there, leading to the formation of new tenants' associations that lobbied for improvements. In 1998 it was given a Grade II listing, reserved for buildings of special historical interest. Today the building is considered to be trendy, coming to stand for what Winstanley calls "a fashionable image of an anaesthetized ghetto that is no longer dangerous."
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Hunstanton Secondary Modern School</title>
+      <artist>Alison and Peter Smithson</artist>
+      <year>1954</year>
+      <materials>Steel, brick, glass</materials>
+      <desc>
+				Known locally as the "glasshouse," the design of the Smithsons' Hunstanton Secondary Modern School emphasizes its long, rectangular, glass-glazed central structure, whose steel framework is visible even from a distance. The architects combined their interest in modernism, particularly the work of Mies van der Rohe, with a pronounced emphasis on exposed materials and structures, expressed through features such as the prominent steel tanks of the water tower, and the outer galvanized steel framework, filled in with brick, its exposed surfaces left rough and unfinished. Such features led architectural critics to use the term "New Brutalism" for the first time in describing the building. Reyner describes Hunstanton school as "almost unique among modern buildings in being made of what it appears to be made of...One can see what Hunstanton is made of, and how it works, and there is not another thing to see except the play of spaces."
+				&lt;br/&gt;&lt;br/&gt;
+				The building's design is, in this and other senses, notable for its simplicity. It uses steel H-frames which, as Rayner Banham wrote, achieve "something like true bi-axial symmetry." Banham praised the design for the "abstemious under-designing of its details," noting that "much of the impact of the building comes from the ineloquence, but absolute consistency, of such components as the stairs and handrails." Nonetheless, on closer inspection the design unfolds a number of innovative features. The rectangular structure includes two stories, with classrooms located on the first floor, and the interior design makes innovative use of staircase columns to access no more than three classrooms, minimizing the noise and disruption of student movement. 
+				&lt;br/&gt;&lt;br/&gt;
+				The Smithsons saw Brutalism as "an ethic, not an aesthetic." They wanted to focus on an idea of functionality connected to the realities of ordinary life in the post-war era. As Alison Smithson wrote, "[m]y act of form-giving has to invite the occupiers to add their intangible quality of use." Nonetheless, the Smithson's underlying, "form-giving" design has been praised for what architecture critic Nikolaus Pevsner called its "symmetrical, clean, precise" quality, and the building has been widely influential in British architecture.
+			</desc>
+      <collection>Norfolk, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Habitat 67</title>
+      <artist>Moshe Safdie</artist>
+      <year>1967</year>
+      <materials>Concrete, steel</materials>
+      <desc>
+				This housing complex, perched alongside the Saint Lawrence River, consists of 354 precast concrete cubes, arranged in irregular configurations, and connected by steel cables. Reaching 12 stories high, the building's profile creates a sense of organic growth, as if the structure had evolved through spontaneous communal activity over time. A sense of unity is created by the replication of the elemental, geometric form while at the same time a sense of dynamic energy is conveyed by the unpredictable arrangement. While evoking ancient architecture, the complex also evokes more modern imagery, resembling Cubist sculpture or even an assemblage of the Lego bricks which the architect used to create preliminary models.
+				&lt;br/&gt;&lt;br/&gt;
+				Moshe Safdie was born and raised in Israel, moving to Canada with his family as a teenager. He was influenced as an architect by his experience living in a kibbutz (a communal settlement in Israel), as well as by the architecture of Le Corbusier and Metabolism, a Japanese post-World War Two movement that advocated for the use of organic forms in buildings, manifested in complex webs of prefabricated modules, as in Kisho Kurokawa's Nakagin Capsule Tower (1972). 
+				&lt;br/&gt;&lt;br/&gt;
+				Safdie built his design - extrapolated from ideas included in his master's thesis at McGill University, where he studied with Sandy van Ginkel - for Expo 67, a World's Fair held during the centenary year of the formation of Canada in 1867. He intended to create, as he put it, "a building which gives the qualities of a house to each unit - Habitat would be all about gardens, contact with nature, streets instead of corridors." Each of the 158 apartments was composed of two or three cubes with a private garden terrace that the architect called "gardens in the sky," The project, meant as a pilot model for affordable middle-class housing, married what architectural critic Genevieve Paiement calls "two seemingly irreconcilable typologies: the detached house (a symbol of middle-class autonomy) and the apartment complex (a fact of life in high-density cities)." 
+				&lt;br/&gt;&lt;br/&gt;
+				Safdie's design attracted over seven million visitors during Expo 67, including notable foreign dignitaries, and was celebrated in &lt;i&gt;The New York Times&lt;/i&gt; and &lt;i&gt;Time&lt;/i&gt; magazine. According to Paiement, "[h]is approach was also a precursor to what we now call "design thinking": the notion that, by envisioning radical new built forms, architects and planners can make human life happier, healthier, and more harmonious." The architect's intention, that the type of design employed for the structure would become widely used in urban planning, failed largely because his costs overran his budget, even though the concrete forms were prefabricated and put together on site. With a decline in public funding by the early 1970s, official sponsorship of such projects dried up. Nonetheless, in the twenty-first century interest in Habitat 67 as a viable model has revived, as shown by the commissioning of Bjarke Ingels's Habitat 2.0, an apartment complex in Toronto, in 2016. Habitat 67 was given heritage status in 2009, and the building has become emblematic of Montreal, its image widely replicated in advertisements, brochures, and posters, as well as being the location for an iconic 2001 Leonard Cohen music video, &lt;i&gt;In My Secret Life&lt;/i&gt;. 
+			</desc>
+      <collection>Montreal, Quebec, Canada</collection>
+    </artwork>
+    <artwork>
+      <title>Breuer Building</title>
+      <artist>Marcel Breuer and Hamilton Smith</artist>
+      <year>1966</year>
+      <materials>Concrete, granite, steel, glass</materials>
+      <desc>
+				This building has a distinctive, immediately recognizable profile, as a massive concrete cube rises over a kind of inverted ziggurat. Rectangular blocks of granite cladding in various colors emphasize the monolithic quality of the structure, while the striking trapezoidal window, shaped like an angled eye, and the small, asymmetrically placed windows on the adjacent sides of the building, make the five-story structure seem almost like a giant, living creature, casting its multiple eyes across the cityscape.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Hungary, Marcel Breuer began his career as a craftsman and designer in the Bauhaus. Renowned for his innovative tubular steel furniture inspired by the shape of bicycle handlebars, he went on to adapt his sense of sculptural form to architecture. His architectural style went through several phrases before he developed his final, Brutalist-inspired approach. Built as the Whitney Museum of Art, the Breuer Building was described in 1966 by &lt;i&gt;New York Times&lt;/i&gt; architecture critic Ada Louise Huxtable as "the most disliked building" in the city, though she also noted, Breuer's "thoughtful planning and sensitive artistry in the use of materials" to create a "museum raised to the level of architectural art." 
+				&lt;br/&gt;&lt;br/&gt;
+				Ultimately, the design that had at first seemed to clash with the neighborhood's brownstone tenement feel became celebrated for "its distinctive profile and idiosyncratic features," as art critic Stephen Wallis noted.
+			</desc>
+      <collection>The Met Breuer, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Jatiya Sangsad Bhaban, National Parliament House</title>
+      <artist>Louis Kahn</artist>
+      <year>1962-82</year>
+      <materials>Reinforced concrete, brickwork, white marble</materials>
+      <desc>
+				This monumental site incorporates legislative buildings and residences for the members of the Bangladeshi Parliament, set within a 200-acre site including artificial lakes. The main building, made of light-colored concrete and comprising the Main Plaza, South Plaza, and Presidential Plaza, is situated at the center of the complex, surrounded on three sides by a lake which flows toward the red brick and concrete residences for Members of the Parliament. The contrasting shapes and textures distinguish between the structures' functions, while the simple exteriors with massive walls, marked by recessed porticos and large geometrically shaped openings, create a sense of dynamic unity. Located within the Bengali desert, the complex's massive buildings, large bodies of water, and green areas insulate it from the heat, while also creating an all-enveloping sensory environment.
+				&lt;br/&gt;&lt;br/&gt;
+				Construction of the complex began in 1962, when the site was still based in East Pakistan, but building was interrupted in 1971 by the Bangladesh Liberation War. With the establishment of Bangladesh's independence that same year the building took on renewed importance as a symbol of national pride and freedom. Kahn envisioned the large hollow columns that make up much of the design as chambers for refracting and framing sunlight: "maker[s] of light [that] can take on complex shapes and be the supporter of spaces and give light to spaces." "I am working," he noted, "to develop the element to such an extent that it becomes a poetic entity which has its own beauty outside of its place in the composition." At the same time, the geometric shapes used to create the openings in the columns reflect Bengali cultural motifs, typifying a melding of folkloric and modern references in the design of the site. 
+				&lt;br/&gt;&lt;br/&gt;
+				The architectural critic Eduardo Souza describes Kahn's national parliament site as "an extraordinary example of modern architecture being transcribed as a part of Bengali vernacular architecture." Following Kahn's death in 1974, his colleague David Wisdom completed the project, which was subsequently awarded the Aga Khan Award for Architecture.
+			</desc>
+      <collection>Dhaka, Bangladesh</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>le_corbusier</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>goldfinger_erno</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>pei_i_m</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>smithson_alison_and_peter</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>safdie_moshe</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>breuer_marcel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>smith_hamilton</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>kahn_louis</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Jonathan Meades: Bunkers Brutalism and Bloodymindedness</title>
+          <link>https://vimeo.com/93963469</link>
+          <info>info</info>
+        </entry>
+        <entry>
+          <title>The Beauty of Brutalism</title>
+          <link is_inline_video="true" inline_video_type="youtube">-D2WRFPUxUg</link>
+          <info>BBC News</info>
+        </entry>
+        <entry>
+          <title>Soviet modernism. Brutalism. Post-modernism.</title>
+          <link>https://vimeo.com/274901531</link>
+          <info>info</info>
+        </entry>
+        <entry>
+          <title>The Labour of Peter and Alison Smithson</title>
+          <link is_inline_video="true" inline_video_type="youtube">5ZmAEok5aaE</link>
+          <info>Symposium AA School of Architecture</info>
+        </entry>
+        <entry>
+          <title>Peter Smithson - The Two Lives of Patio and Pavilion</title>
+          <link is_inline_video="true" inline_video_type="youtube">f1XqGdOTqsM</link>
+          <info>AA School of Architecture</info>
+        </entry>
+        <entry>
+          <title>The architecture of Moshe Safdie: A man of the world</title>
+          <link is_inline_video="true" inline_video_type="youtube">Ziky9gtvQLk</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Habitat of the Future</title>
+          <link is_inline_video="true" inline_video_type="youtube">z0DCI2EDRLo</link>
+          <info>Safdie Architects</info>
+        </entry>
+        <entry>
+          <title>Leonard Cohen - In My Secret Life (2001) Music Video</title>
+          <link is_inline_video="true" inline_video_type="youtube">NW7oNpzBSGc</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry>
+          <title>The Smithsons on Housing</title>
+          <link is_inline_video="true" inline_video_type="youtube">UH5thwHTYNk</link>
+          <info>APS</info>
+        </entry>
+        <entry>
+          <title>Alison and Peter Smithson - The Space Between</title>
+          <link is_inline_video="true" inline_video_type="youtube">4wPWTvJbeLc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Is London's Robin Hood Gardens an architectural masterpiece?</title>
+          <link is_inline_video="true" inline_video_type="youtube">1JmLxwjzE5w</link>
+          <info>Jonathan Glancey The Guardian</info>
+        </entry>
+        <entry>
+          <title>Robin Hood Gardens: Requiem For A Dream Tom Wilkinson</title>
+          <link is_inline_video="true" inline_video_type="youtube">j5xEzkQDtQ8</link>
+          <info>The Architectural Review</info>
+        </entry>
+        <entry>
+          <title>Why We Should Value our Brutalist Architectural History | Shaun Carter</title>
+          <link is_inline_video="true" inline_video_type="youtube">3nrlDwhCIbQ</link>
+          <info>TEDxSydneySalon</info>
+        </entry>
+        <entry>
+          <title>Moshe Safdie: How to reinvent the apartment building</title>
+          <link is_inline_video="true" inline_video_type="youtube">c-KnaYZJg48</link>
+          <info>TED</info>
+        </entry>
+        <entry>
+          <title>Moshe Safdie on his iconic Habitat 67</title>
+          <link is_inline_video="true" inline_video_type="youtube">MM-zW86sGDY</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>This Brutal World</title>
+          <link>0714871087</link>
+          <info>By Peter Chadwick</info>
+        </entry>
+        <entry>
+          <title>SOS Brutalism: A Global Survey</title>
+          <link>303860075X</link>
+          <info>By Oliver Elser, Peter Kurz, and Peter Cachola Schmal</info>
+        </entry>
+        <entry>
+          <title>Brutalism Resurgent</title>
+          <link>1138652369</link>
+          <info>By Julia Gatley and Stuart King</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>A Dictionary of Modern Architecture: Team X</title>
+          <link>https://voices.uchicago.edu/201504arth15709-01a2/2015/11/16/team-x/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Team 10</title>
+          <link>http://www.team10online.org/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Le Corbusier Foundation</title>
+          <link>http://www.fondationlecorbusier.fr/corbuweb/morpheus.aspx?sysId=14&amp;IrisObjectId=7185&amp;sysLanguage=en-en&amp;itemPos=1&amp;sysParentId=14&amp;clearQuery=1</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Brutalism: The Latest Architecture and News</title>
+          <link>https://www.archdaily.com/tag/brutalism</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Of Course Trump Hates Brutalism</title>
+          <link>https://slate.com/business/2018/07/why-trump-hates-brutalist-buildings-like-the-fbis-headquarters.html</link>
+          <info>
+						By Henry Grabar
+						&lt;br&gt;
+						Slate 
+						&lt;br&gt;
+						July 31, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Brutalism Is Back</title>
+          <link>https://www.nytimes.com/2016/10/06/t-magazine/design/brutalist-architecture-revival.html</link>
+          <info>
+						By Nikil Saval
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						October 6, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>In Defense Of Brutalism: One Architect On The Meaning Behind All That Concrete</title>
+          <link>http://www.wbur.org/hereandnow/2018/08/06/brutalism-architecture</link>
+          <info>
+						By Jack Mitchell
+						&lt;br&gt;
+						WBUR 
+						&lt;br&gt;
+						August 6, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Concrete jungle: why brutalist architecture is back in style</title>
+          <link>https://www.theguardian.com/artanddesign/2016/sep/28/grey-pride-brutalist-architecture-back-in-style</link>
+          <info>
+						By Felix Salmon
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 28, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>The concrete truth? Brutalism can be beautiful</title>
+          <link>http://www.bbc.co.uk/programmes/articles/2KYNVdPBLTYC99f18wsZPQy/the-concrete-truth-brutalism-can-be-beautiful</link>
+          <info>
+						By Elain Harwood
+						&lt;br&gt;
+						BBC 
+						&lt;br&gt;
+						April 26, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>The incredible hulks: Jonathan Meades' A-Z of brutalism</title>
+          <link>https://www.theguardian.com/artanddesign/2014/feb/13/jonathan-meades-brutalism-a-z</link>
+          <info>
+						By Jonathan Meades
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 13, 2014 
+					</info>
+        </entry>
+        <entry>
+          <title>The New Brutalism</title>
+          <link>https://www.architectural-review.com/essays/viewpoints/the-new-brutalism-by-reyner-banham/8603840.article</link>
+          <info>
+						By Reyner Banham
+						&lt;br&gt;
+						Architectural Review 
+						&lt;br&gt;
+						July 27, 2010 reprint of December 1955 essay
+					</info>
+        </entry>
+        <entry>
+          <title>Le Corbusier's Unité: Is it a modern classic?</title>
+          <link>http://www.bbc.com/culture/story/20130423-design-icon-or-concrete-horror</link>
+          <info>
+						By Jonathan Glancey
+						&lt;br&gt;
+						BBC 
+						&lt;br&gt;
+						May 2, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>National Assembly Building of Bangladesh / Louis Kahn</title>
+          <link>https://www.archdaily.com/83071/ad-classics-national-assembly-building-of-bangladesh-louis-kahn</link>
+          <info>
+						By Eduardo Souza
+						&lt;br&gt;
+						Architecture Daily 
+						&lt;br&gt;
+						October 20, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Habitat 67, Montreal's 'failed dream'</title>
+          <link>https://www.theguardian.com/cities/2015/may/13/habitat-67-montreal-expo-moshe-safdie-history-cities-50-buildings-day-35</link>
+          <info>
+						By Genevieve Palement
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 13, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Take a Trip Back Through the History of New York's Iconic Breuer Building</title>
+          <link>https://www.architecturaldigest.com/story/breuer-building-history</link>
+          <info>
+						By Stephen Wallis
+						&lt;br&gt;
+						Architectural Digest 
+						&lt;br&gt;
+						March 4, 2016
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

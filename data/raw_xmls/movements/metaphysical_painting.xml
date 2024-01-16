@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>metaphysical_painting</id>
+    <name>Metaphysical Painting</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1910 - 1920</years>
+    <description>Metaphysical Painting, led by De Chirico and Carrà, was inspired by those enigmatic moments when ordinary awareness becomes suspended and its as if we have stepped out of time.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1910</start>
+    <end>1920</end>
+    <big_bio_box_img>Detail of de Chirico's &lt;i&gt;The Disquieting Muses&lt;/i&gt; (1947)</big_bio_box_img>
+    <pub_time>9/2/2019</pub_time>
+    <img_version>?1</img_version>
+    <bio_highlight>Founder of Metaphysical Painting &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt; is a true giant of avant-garde art.  His works foreshadowed Surrealism, and he has even been credited with creating the first ever Conceptual painting, &lt;i&gt;The Enigma of the Hour&lt;/i&gt; (1911), that aimed to translate thought into art years before the Patriarch of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptualism&lt;/span&gt; - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;.</bio_highlight>
+  </main>
+  <similar_artists>
+    <artist>de_chirico_giorgio</artist>
+    <artist>carra_carlo</artist>
+    <artist>morandi_giorgio</artist>
+    <artist>kahlo_frida</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>magic_realism</movement>
+    <movement>surrealism</movement>
+    <movement>symbolism</movement>
+    <movement>futurism</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>magic_realism</entry>
+    <entry>surrealism</entry>
+    <entry>symbolism</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="de_chirico_giorgio" alt="Giorgio de Chirico">"What shall I love if not the enigma?"</q>
+    <q author="Giorgio de Chirico">"Although the dream is a very strange phenomenon and an inexplicable mystery, far more inexplicable is the mystery our minds confer on certain objects and aspects of life."</q>
+    <q author="Giorgio de Chirico">"The appearance of a metaphysical work of art is serene; it gives the impression, however, that something new must happen amidst this same serenity, and that other signs apart from those already apparent are about to enter the rectangle of the canvas."</q>
+    <q author="Giorgio Morandi">"...everything is a mystery, ourselves and the simplest, humblest things."</q>
+    <q author="Carlo Carrà">"The creative spirit gropes some what like a sleepwalker in the fields of the absolute, but our trained sensibility comes into play when we are confronted with an art that is susceptible to multiple interpretations."</q>
+    <q author="Carlo Carrà">"We do not like a confusion of geometries; on the contrary, we like to give our canvases the expression of a simple, mysterious, plastic reality, like a fact of Nature."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="nichols">Kimberly Nichols</editor>
+  </editors>
+  <article>
+    <synopsys>In 1910, the Italian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt; began to spearhead a new style of painting, inspired by those enigmatic moments of our lives when ordinary awareness becomes suspended and we feel as if we've stepped out of time. After meeting artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-carra_carlo"&gt;Carlo Carrà&lt;/span&gt;, the two evolved this type of work into a movement coined "Pittura Metafisica" or Metaphysical Painting. They, and a handful of other artists, strove to create compositions in which realistic depictions of contemporary settings were juxtaposed with an unusual iconography of their own unique design, giving viewers a sense of stepping into a dream. The movement was isolated in scope due to historical circumstances while Europe began the difficult recovery from World War I.</synopsys>
+    <key_ideas>
+      <idea>In direct opposition to the progressive &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; of the early 20&lt;sup&gt;th&lt;/sup&gt; century, Metaphysical Paintings featured a general mood of isolation and haunting mystery. In these fantastical worlds of the artists' own imaginations, art critic Hearne Pardee wrote, "Dynamic exuberance is replaced by methodical composition, as though fastidious fabrication could generate visions."</idea>
+      <idea>Metaphysical Painting was marked by the widely adopted inclusion of common motifs from everyday life such as statues, mannequins, fish, mirrors, and geometrical objects, only positioned within unordinary contexts. This added to the sense of ambiguity that de Chirico championed as giving the viewer a sense of stepping out of reality to see things in new ways absent of preconceived meaning.</idea>
+      <idea>In de Chirico's words, the Metaphysical painters were "painting that which could not be seen." This allusion to what lies beneath the conscious level of everyday life would attract the eye of the time's modern thinkers and philosophers such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;Andre Breton&lt;/span&gt; and become a primary influence upon the emerging &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist movement&lt;/span&gt;.</idea>
+      <idea>Although short lived, the Metaphysical Painting movement was also a forebear to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-interwar_classicism"&gt;Interwar Classicism movement&lt;/span&gt;, which was an artistic reaction to the emotional fallout of World War I. It called for a return to order via a backlash against contemporary genres and reclamation of classical art's tropes, styles and motifs.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Giorgio de Chirico">
+          <p type="img" alt="Giorgio de Chirico's &lt;i&gt;Self-Portrait&lt;/i&gt; (1920) realistically depicts the artist in a dark room where a classical façade looms outside the window and the book he holds announces “Metaphysical Painting.”" show="1">/images20/photo/photo_metaphysical_painting_1.jpg</p>
+          <p type="p">In 1912, preparing for his exhibition at the 1913 Salon d'Automne, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt; described the genesis of his Metaphysical Painting, &lt;i&gt;Enigma of an Autumn Afternoon&lt;/i&gt; (1910). "One clear autumnal afternoon I was sitting on a bench in the middle of the Piazza Santa Croce in Florence. It was of course not the first time I had seen this square. I had just come out of a long and painful intestinal illness, and I was in a nearly morbid state of sensitivity. The whole world, down to the marble of the buildings and the fountains seemed to me to be convalescent...Then I had the strange impression that I was looking at all these things for the first time, and the composition of my picture came to my mind's eye. Now each time I look at this painting I again see that moment. Nevertheless the moment is an enigma to me, for it is inexplicable. And I like also to call the work which sprang from it an enigma."</p>
+          <p type="img" alt="Arnold Böcklin's &lt;i&gt;Die Toteninsel&lt;/i&gt; (Isle of the Dead) (1880) conveys a sense of mystery with its isolated figure approaching an island of classical buildings and looming shadows." show="1">/images20/photo/photo_metaphysical_painting_2.jpg</p>
+          <p type="p">However, despite this revelation, de Chirico's pioneering metaphysical work drew upon a number of influences. Born to Italian parents in Greece, the classical and ancient world infused his imagination and thought. In 1905, following his father's death, his mother moved the family to Munich, Germany. The following year, the young artist enrolled at the Academy of Fine Arts, where the art of the German &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolists&lt;/span&gt; Max Klinger and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bocklin_arnold"&gt;Arnold Böcklin&lt;/span&gt; became foundational to his aesthetic ideas and practices. De Chirico found in Böcklin's work, as he wrote in a 1920 essay, "metaphysical power [that] always springs from the precision and definition of a decided apparition. Each of his works evokes that same disconcerting shock of surprise...combining the preternaturalism of the Italian landscape with architectural elements." Of Max Klinger's work, de Chirico wrote, "by combining in a single composition scenes of contemporary life and visions of antiquity, [it] produces a highly troubling dream-reality."</p>
+          <p type="p">At the Academy, he also encountered the philosophy of Otto Weininger, Arthur Schopenhauer, and Friedrich Nietzsche. He was later to credit Nietzsche as inspiring his paintings of Italian squares, as he wrote of the philosopher's, "innovation...a strange and profound poetry, infinitely mysterious and solitary, based on &lt;i&gt;Stimmung&lt;/i&gt; (which might be translated ... as atmosphere), based, I say, on the &lt;i&gt;Stimmung&lt;/i&gt; of an autumn afternoon." In 1912, de Chirico noted Schopenhauer's concept, "To have original, extraordinary, and perhaps even immortal ideas, one has but to isolate oneself from the world for a few moments so completely that the most commonplace happenings appear to be new and unfamiliar, " as the basis for the artist's idea of "revelation."</p>
+        </subsection>
+        <subsection title="Guillaume Apollinaire">
+          <p type="p">In 1911 de Chirico moved to Paris and, as art historian James Thall Soby noted, "almost immediately attracted the attention of many of the leading literary and artistic figures of the day, notably &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;." The critic Apollinaire praised what he called "the metaphysical landscapes of M. de Chirico," and added, "the painter uses that most modern recourse - surprise." While Apollinaire's praise made de Chirico famous among the Parisian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt;, it was the acclaim of the artist and critic Ardeno Soffici that made his work known among Italian artists. As Soffici wrote in 1914 of de Chirico's work, "One could define it as dream writing, expressing this sense of vastness, solitude, immobility and ecstasy which is sometimes produced in our souls by certain spectacles of memory when we are asleep."</p>
+        </subsection>
+        <subsection title="Carlo Carrà">
+          <p type="p">When World War I broke out, both de Chirico and his younger brother Alberto Savino returned to Italy to enlist. In 1917, while convalescing in a military hospital in Ferrara, the two met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-carra_carlo"&gt;Carlo Carrà&lt;/span&gt; and Filippo de Pisis. De Chirico and Carrà began working closely together as they founded Metaphysical Painting. Carrà, who had been a cofounder and leading member of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-italian_futurism"&gt;Italian Futurism&lt;/span&gt;, had begun searching for a new artistic direction around 1915, studying the works of 14&lt;sup&gt;th&lt;/sup&gt; century Italian masters. He adopted a number of iconographic elements from de Chirico, while at the same time, his more modeled figures and lighter color palette introduced a new element to the movement. However, some critics including art historian Jennifer Mundy felt, as she wrote, "his works lacked de Chirico's sense of irony and enigma, and he always retained a correct perspective."</p>
+        </subsection>
+        <subsection title="&lt;i&gt;Valori Plastici&lt;/i&gt;">
+          <p type="p">In Milan in 1918, Mario Broglio founded &lt;i&gt;Valori Plastici&lt;/i&gt;, a magazine that extensively published de Chirico and Carrà's pictures and essays and reached a small but influential art audience. Broglio also opened a gallery in Rome with the same name, which held several Metaphysical exhibitions that traveled to Germany which brought de Chirico's work to the attention of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; group there, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;.</p>
+          <p type="p">At the same time the magazine played an inadvertent role in the breakup of the Metaphysical movement. In 1917 Carrà had been put on leave from the army and left for Milan where he held a 1917 exhibition of his works, including both his early Futurist work and his recent Metaphysical pieces. He also published a number of essays, emphasizing his role in developing the movement in &lt;i&gt;Valori Plastici&lt;/i&gt;. As a result, critics began crediting him as the founder of Metaphysical Painting, and in 1919 he published a book, &lt;i&gt;Pittura Metafisica&lt;/i&gt; (Metaphysical Painting) that gave further emphasis to his claim. Remaining in Ferrera until the end of the war, de Chirico's first exhibition was not held until 1919 in Rome, and, by then, acrimony had broken out between the two artists. The movement officially came to an end, though, paradoxically, when it had begun to reach a larger European audience.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Iconography">
+          <p type="img" alt="Giorgio de Chirico's &lt;i&gt;The Seer&lt;/i&gt; (1914-15), represents the seer, a figure he associated with the artist, as a mannequin." show="1">/images20/photo/photo_metaphysical_painting_3.jpg</p>
+          <p type="p">De Chirico developed his own iconography, using a number of everyday objects: fish, statues, mannequins, mirrors, and architectural elements in startling juxtapositions to create a sense of ambiguity and mystery. These motifs were widely adopted by all of the Metaphysical painters. De Chirico strove to differentiate his motifs from their established cultural associations, as he wrote, "all symbols must be put aside. Thought must so detach itself from all usual logical and sense, must so remove itself from all human fetters that all things appear to it anew - as if lit for the first time by a brilliant star." The artist's iconography thusly became connected to his interior vision, as in 1909 he began reducing, as art historian Paolo Baldacci wrote, "every shape to an archetype," which he could employ in various works over his lifetime. As Baldacci noted, de Chirico "realized that he could transform his sensations into a vocabulary of forms that were capable of eliciting in the viewer not only an understanding of specific concepts, but rather emotions and sensations similar to those from which the work originated." Statues were prevalent in his early work, as art historian Adriano Altamira wrote; they drew attention to "a fiction within a fiction." By 1914 de Chirico began using mannequins, which further heightened the effect, by drawing attention to the found object as a construction within a painting's spatial construction, as Altamira noted, "The fiction within fiction becomes real, just as two negations cancel each other out."</p>
+        </subsection>
+        <subsection title="Still Life">
+          <p type="img" alt="Giorgio de Chirico's &lt;i&gt;Great Metaphysical Interior&lt;/i&gt; (1917) innovatively composes a group of paintings as a still life." show="1">/images20/photo/photo_metaphysical_painting_4.jpg</p>
+          <p type="p">In Metaphysical Painting, still life took on the role of creating unexpected juxtapositions as seen in de Chirico's &lt;i&gt;The Philosopher's Conquest&lt;/i&gt; (1914) where two large artichokes are placed next to the muzzle of a cannon surrounded by cannonballs within an Italian square. As de Chirico wrote, "The absolute realization of the space that any object should occupy in a picture and of the space that separates the various objects, establishes a new astronomy of all things which are bound to the planet by the law of gravitation." James Thrall Soby described this as "his genius for poetic dislocation," an effect due not only to the improbability of the juxtapositions but the aesthetic composition of containing a genre of painting within a painting. During his Metaphysical period, Giorgio Morandi, the most famous of Italian still life painters, adopted aspects of de Chirico's iconography and his use of geometric forms, as he painted works like &lt;i&gt;Still Life with a Mannequin&lt;/i&gt; (1918) where a mannequin's head, along with a ball and a compass, are displayed in a box.</p>
+        </subsection>
+        <subsection title="Portraiture">
+          <p type="p">Portraiture was not a primary focus of Metaphysical Painting, yet works like de Chirico's Premonitory portrait of &lt;i&gt;Guillaume Apollinaire&lt;/i&gt; (1914) had an influential impact. Depicting the figure realistically, the portraits also contained unusual juxtapositions, like the marble column with a large plaster mold of a fish and a shell framing Apollinaire, and a shadow profile above him with a target-like design on his forehead. As a result, the works evolved mere portraiture to a new level in which psychological undertones or other mysterious associations were alluded to. The Surrealists viewed Guillaume Apollinaire's portrait as a premonition of the poet's death and would go on to adopt similar approaches to portraits as seen in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-masson_andre"&gt;Andre Masson's&lt;/span&gt; &lt;i&gt;Portrait of André Breton&lt;/i&gt; (1941), presenting the founder of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; as a double-faced plaster head on a table.</p>
+        </subsection>
+        <subsection title="Landscape">
+          <p type="img" alt="Giorgio de Chirico viewed &lt;i&gt;The Red Tower&lt;/i&gt; (1913) as paying homage to Nietzsche who lived there for a period of time and wrote of its powerful atmosphere." show="1">/images20/photo/photo_metaphysical_painting_5.jpg</p>
+          <p type="p">Metaphysical landscape painting could be more aptly characterized as urbanscape painting as the painters associated with the movement depicted the plazas and architecture of Italian cities, often with some elements of modernization, including trains, factory smoke stacks, or a high rise building glimpsed along the horizon or through a window. These elements gave the works an air of modernity, while also ambiguously placed within a context that evoked the classical past. The juxtaposition resulted in a sense of surrealism for the viewers because, for all the realism of the treatments, most of the landscapes were invented. For example, de Chirico's &lt;i&gt;The Red Tower&lt;/i&gt; (1913), which evoked both the famous tower, Mole Antionelliana, and a 19&lt;sup&gt;th&lt;/sup&gt; century statue of Carlo Alberto that was reconfigured and placed near a farm at the base of a hill.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">In the early 1920s Italy, Morandi, Carrà, and Sironi abandoned the metaphysical approach in favor of the realism of the Novecento Italiano movement. At the same time, de Chirico returned to Paris where, influenced by the classical masters, he turned toward realism and abandoned his metaphysical approach. However, his work had become a major influence upon the emerging Surrealist movement and its leading artists. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tanguy_yves"&gt;Yves Tanguy&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magritte_rene"&gt;René Magritte&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dali&lt;/span&gt; all credited his work with their turn toward Surrealism. Seeing a reproduction of de Chirico's &lt;i&gt;The Song of Love&lt;/i&gt; (1914), Magritte described the experience, as "one of the most moving moments of my life: my eyes &lt;i&gt;saw&lt;/i&gt; thought for the first time." The group, and Breton in particular, tried to persuade the artist to revive his metaphysical style, though with little consistent success. De Chirico did at times, through the 1920s, return to elements of the style and, even in his realistic approach, often used the same iconographic motifs.</p>
+          <p type="p">De Chirico's work also influenced other artists, as exhibitions of his work in Germany in 1921 and 1924 inspired &lt;span class="marked_text chart-tooltip-target-top tooltip_id-grosz_george"&gt;George Grosz&lt;/span&gt; of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-new_objectivity"&gt;Neue Sachlichkeit (New Objectivity)&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schlemmer_oskar"&gt;Oskar Schlemmer&lt;/span&gt; of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, who both adopted de Chirico's mannequin imagery. The Metaphysical Paintings of Italian squares also influenced Italian architecture in the period between the two World Wars, as new squares were built in Varese, Brescia, and Rome to self-consciously evoke their atmosphere.</p>
+          <p type="p">Other artists influenced by de Chirico include &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delvaux_paul"&gt;Paul Delvaux&lt;/span&gt;, Carel Willink, Philip Guston, Harue Koga, Jacques Prévert and Paul Grimault, and Russell Drysdale in Australia.</p>
+          <p type="p">Metaphysical Painting influenced the later movements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lettrism"&gt;Lettrism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-situationism"&gt;Situationism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;. During the 1960s noted filmmakers Valerio Zurlini and Michelangelo Antonioni cited de Chirico as an influence. His work also influenced a number of noted writers, including Sylvia Plath, John Ashbery, Mark Strand, and Gabriele Tinti. His metaphysical images have also had a cultural impact as his art has been used as album covers and box art for contemporary video games.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="grosz_george">Daum Marries Her Pedantic Automaton "George" in May 1920. John Heartfield is very glad of it. (1920)</artwork>
+    <artwork from="movement" page="interwar_classicism">Self Portrait (c.1922)</artwork>
+    <artwork from="movement" page="surrealism">The Human Condition (1933)</artwork>
+  </similar_artworks>
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Enigma of an Autumn Afternoon</title>
+      <artist>Giorgio de Chirico</artist>
+      <year>1910</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting depicts Florence's Piazza Santa Croce, nearly empty except for a single statue and a couple, depicted to the right of the pedestal, as the afternoon's golden light lengthens into shadow. A sailboat floats in the distant background.
+				&lt;br/&gt;&lt;br/&gt;
+				While realistically depicted, the scene is a radical transformation of the actual plaza. The 19&lt;sup&gt;th&lt;/sup&gt; century statue of the poet Dante with a heroic eagle at his feet is replaced with what art historian James Thall Soby described as "a mutilated classical figure whose Victorian origin is suggested...by the naturalistic tree trunk that supports it." Soby also noted how the church's elaborate façade "has been reduced to bare, arbitrary, structural essentials, as if the painter had stripped the church of its...ornament and envisioned it as a classical stage set." As a result, de Chirico convincingly creates a place that has never existed, imagined to create a sense of haunted isolation, the sense of a mystery. As art historian Adriano Altamira noted in "the so-called Italian Piazza de Chirico plays with the ambiguous presence of the statues that inhabit the monumental spaces of his cities, built like the wings of an entirely mental theatre: a theatre or architecture of the mind."
+				&lt;br/&gt;&lt;br/&gt;
+				This work launched de Chirico's series of Italian piazzas, scenes that he called "memories of Italy," and his first Metaphysical works. He was later to credit Nietzsche by saying "I attempted to express the intense, mysterious feeling I had discovered in Nietzsche: the melancholy of lovely autumn afternoons in Italian cities," though the images also convey the philosopher's view of reality as an "eternal return." It was in this square where de Chirico experienced the revelation that kicked off his Metaphysical Painting of the enigmatic and in later years, he said of this painting, "every time I look at it I relive the moment once again."
+				&lt;br/&gt;&lt;br/&gt;
+				When he moved to Paris, de Chirico brought this painting, along with &lt;i&gt;The Enigma of the Oracle&lt;/i&gt; (1910), and both were exhibited in the 1912 Salon d'Automne. Celebrated by the art critic Guillaume Apollinaire, the works made de Chirico well known among the French avant-garde. His reputation was also established in Italy, when, subsequently, Ardengo Soffici, an Italian writer and critic, described his work as the "writing down of dreams," full of "infinite rows of arches and facades, of extended straight lines, of gigantic masses of simple colors," to create, "a sensation of vastness, of solitude, of immobility."
+			</desc>
+      <collection>Peggy Guggenheim Collection</collection>
+    </artwork>
+    <artwork>
+      <title>The Song of Love</title>
+      <use_big_image>true</use_big_image>
+      <artist>Giorgio de Chirico</artist>
+      <year>1914</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting brings together startling juxtapositions of a red rubber surgical glove, a green ball, and the sculpted head of Apollo, the Greek god of art, within an almost schematic architectural scene. The contrast of the elements, as if trophies or artworks mounted to a wall, conveys not only a sense of surprise but also a sense of another reality looming beneath the surface. The painter used his traditional architectural motifs such as the dark arches opening in a classical façade, while the train depicted along the low horizon at left was a modern motif he returned to frequently.
+				&lt;br/&gt;&lt;br/&gt;
+				Here de Chirico copied an academic plaster mold of Apollo from Salomon Reinach's archaeological book on ancient Greek sculpture, while the glove is thought to echo a work by Titian. However, the work notably draws upon one of the artist's earliest inspirations, Max Klinger's &lt;i&gt;Paraphrase on the Finding of a Glove&lt;/i&gt; (1877-78), a series of ten etchings where as art critic James Thrall Soby wrote, "a glove plays an active symbolic part; its appearances and disappearances provide the tempestuous scenario of a love story," though as Soby further noted, "De Chirico's still-life drama has no traceable plot...its impacts derives from the mystery...of the various elements."
+				&lt;br/&gt;&lt;br/&gt;
+				This was the work that Rene Magritte saw in 1919 and described as, "one of the most moving moments of my life: my eyes &lt;i&gt;saw&lt;/i&gt; thought for the first time." It became the impetus for Magritte's subsequent artistic research and Surrealist development. De Chirico said his intent was to "express sensations hitherto unknown; strip art of routine, rule, and tendency towards aesthetic subjects or synthesis; expunge man as a point of reference, as a means of expressing a symbol, a sensation or a thought...This is the Nietzschean method," as he saw his art as the art of the future.
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>L'Ovale delle Apparizioni (The Oval of Apparition)</title>
+      <use_big_image>true</use_big_image>
+      <artist>Carlo Carrà</artist>
+      <year>1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This oval painting depicts two mannequins and a fish standing motionless on a wooden floor, its diagonals drawing attention to the tall tower and apartment-like building dominating the skyline. The central figure's body, wearing a harlequin's costume, is made out of conical and geometric shapes, giving it a rounded robust appearance. The feminine figure to its right, her chest bare in a classical guise, its fabric fluted as if carved in marble, waits heavily, as she holds a small ball in her left hand. Perhaps most compelling are the featureless oval faces and heads framed with a shade of white that convey a sense of anonymity.
+				&lt;br/&gt;&lt;br/&gt;
+				Carrà achieved early fame as a founding member of Italian Futurism, but in 1915 turned to studying the old masters, particularly Giotto and Uccello, in his search for a new artistic style. When he met de Chirico in 1917 in Ferrara, he was influenced by what Thrall Soby called his "enigmatic dislocations of surface reality," and also adopted de Chirico's iconography, as the fish here echoes de Chirico's &lt;i&gt;Portrait of Guillaume Apollinaire&lt;/i&gt; (1914). By 1914 de Chirico had also begun painting mannequins, using them instead of statues or isolated figures, often set in claustrophobic settings. Carrà added his own elements to the mix, as he preferred using classical perspective, and also painted in a thick impasto that lent a sense of materiality and weight to his robust figures and setting. As art critic Paolo Baldacci wrote, "In the context of Metaphysical Painting, the work of Carlo Carrà and Giorgio Morandi gives a much greater sense of rigidity: a sense of stability, solidity, and faith in the reality of the world that their painting transmits to 20th-century Italian art."
+			</desc>
+      <collection>Galleria Nazionale d'Arte Moderna, Rome</collection>
+    </artwork>
+    <artwork>
+      <title>Metaphysical Still Life with Triangle</title>
+      <artist>Giorgio Morandi</artist>
+      <year>1919</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This still life depicts a ball and rod atop a wooden box, against which a curved triangle leans, while the rectangular plane in the background emphasizes a cut out curvilinear form on a pedestal. The interplay of shadow and tonal variation in near monochrome create a sense of mysterious dimensionality, as the curvilinear form appears both to be standing on its pedestal and cut out from the background. A formal elegance results.
+				&lt;br/&gt;&lt;br/&gt;
+				By 1918 Morandi had seen reproductions of Carrà's metaphysical works, though it's thought that this painting was influenced by his meeting de Chirico in Rome in 1919.
+				&lt;br/&gt;&lt;br/&gt;
+				Though Thrall Soby wrote that Morandi's work, in contrast to that of de Chirico and Carrà, was "deeply modeled...[and] concerned with formal as opposed to psychological or philosophical values," as "his aim was not to create a psychologically disturbing imagery, but to arrive at a pristine compositional order."
+				&lt;br/&gt;&lt;br/&gt;
+				As art critic Hearne Pardee wrote, Morandi "responded to de Chirico's [work] by abandoning the tentative, shallow relief of his first willowy figures and still-life objects in favor of a more severe, sculptural style. Intensely focused, he uses strong linear outlines and earth colors with clearly defined darks and lights in complicated, enigmatic arrangements of frames, empty boxes and cut-out shapes."
+				&lt;br/&gt;&lt;br/&gt;
+				A kind of inadvertent surrealism marked both Morandi's life and idiosyncratic approach. Art critic Richard Boston described the artist's room in his Bologna flat as "an austere place of solitary contemplation," and noted, his technique was "strange, and so complicated that it is hardly surprising he only produced half a dozen or so paintings a year. First he assembles his cast of unusual objects, paints them and adjusts their appearance to his requirements...He then disposes his objects as though on a stage and with the precision of the most meticulous director."
+				&lt;br/&gt;&lt;br/&gt;
+				Morandi's preoccupation with still life and formal elements expanded the range of the Metaphysical movement into the early 1920s. Subsequently, he turned toward a strict formalism and became associated with Novecento Italiano, a Italian movement that supported Fascism and which was part of Interwar Classicism, a "call to order" that returned to classical realism. His work has continued to receive contemporary acclaim, as he is considered to be one of the 20&lt;sup&gt;th&lt;/sup&gt; century's premier Italian artists.
+			</desc>
+      <collection>Brera Pinacoteca, Milan</collection>
+    </artwork>
+    <artwork>
+      <title>I pesci sacri (The Sacred Fish)</title>
+      <artist>Giorgio de Chirico</artist>
+      <year>1919</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This painting depicts two smoked herrings, laying on a pedestal, while to the left a single candle with a starfish shape at its top rests in a candleholder. In the left foreground, two brightly colored geometric forms are placed. The painting is composed like a stage, as a blue diagonal cuts across the right as if a thick curtain were being drawn back to reveal the scene, while in the background two poles and a column cast shadows that point toward the distant horizon. A sense of mystery pervades.
+				&lt;br/&gt;&lt;br/&gt;
+				The painting draws upon de Chirico's knowledge of ancient Greece where, according to the Greek writer Pausanias, sacred fish were kept in the pools of various temples. Though, here, the artist presents the fish as dying or dead, offerings to some indefinite object of devotion, while the horizon suggests both a dark end in its black sky and, perhaps, a new beginning as it is streaked with blue light.
+				&lt;br/&gt;&lt;br/&gt;
+				The work was painted, following the end of World War I, as the artist was recovering both from the war and a bout with the Spanish flu. He was also grieving the death of his friend Apollinaire who was killed in battle. His paintings during this time, including his &lt;i&gt;Malinconia ermetica&lt;/i&gt; (&lt;i&gt;Hermetic Melancholy&lt;/i&gt;) (1918-19), took on a darker note, as if marking the end of the era. De Chirico wrote in 1918, "The world is full of demons - Heraclitus the Ephesisan used to say as he strolled in the shadows of the porticoes at high noon ... One must discover the demon in every thing."
+				&lt;br/&gt;&lt;br/&gt;
+				This work was first purchased by Mario Broglio, founding editor of &lt;i&gt;Valori Plastici&lt;/i&gt;, who felt the painting's classical and metaphysical qualities exemplified the magazine's aesthetic vision. Called by Thrall Soby, "one of the principal works of de Chirico's career," the painting also had a profound impact on the Surrealists, as Max Ernst was to credit it with inspiring his and other German Dadaists' turn toward Surrealism. Perhaps, not coincidentally, the image of the fish was also widely adopted by the new movement, as a symbol of fascination, inhabiting the depths of the subconscious.
+			</desc>
+      <collection>Fondazione Giorgio e Isa de Chirico, Rome</collection>
+    </artwork>
+    <artwork>
+      <title>Venere dei porti (Venus of the Ports)</title>
+      <artist>Mario Sironi</artist>
+      <year>1919</year>
+      <materials>Tempera and collage on paper on canvas</materials>
+      <desc>
+				This painting depicts legendary Venus as a dressmaker's mannequin standing on a grimy dock at night in front of an industrial port. The sculptural treatment gives the figure an assertive presence, as she turns with a proud profile toward the viewer, though a sense of mystery is conveyed as her facial features are only suggested by heavy shadow, and only one partial arm is visible. The painting marked the transition from Sironi's late Futurist work to Metaphysical Painting, shown primarily by the use of a mannequin, portrayed as a single figure in a simplified but ominous realistic urban setting.
+				&lt;br/&gt;&lt;br/&gt;
+				Reconfiguring the classical symbol of Venus, the goddess of love, as a modern woman, the figure has been variously interpreted as the girlfriend of a sailor or fisherman, awaiting his return, while art critic Thomas Micchelli found it, "a darkly pessimistic apparition of prostitution along the docks." He further noted, that Sironi's "brooding works...are the most emblematic of the dark undercurrents unraveling the social fabric."
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, Sironi brought to the Metaphysical movement a gritty dark view of modern reality and the use of avant-garde techniques, as shown here in the figure's clothing, a collage of pages from wallpaper, dust paper, and &lt;i&gt;La Tribuna&lt;/i&gt;, a contemporary newspaper. Micchelli wrote, "The collaged passages, in their changed pictorial context, turn the stark illusionism of Sironi's harshly lit volumetric forms on its head, exciting a disruptive modernity that evokes the anti-art impulse found a half-century later in the Neo-Dadaist Pop of Robert Rauschenberg and Jasper Johns."
+				&lt;br/&gt;&lt;br/&gt;
+				The year following this work, Sironi signed "Against all Revivals in Painting", a manifesto that became central to the Novecento movement, which he co-founded and led in 1922. His work fell into obscurity in the post-World War II era, due to his having been an ardent supporter of Mussolini's government. More recently, his work has seen a revival of interest, as shown by a major retrospective in Rome in 2014.
+			</desc>
+      <collection>Casa Museo Boschi Di Stefano, Milan</collection>
+    </artwork>
+    <artwork>
+      <title>L'amante dell'ingegnere (The Engineer's Mistress)</title>
+      <artist>Carlo Carrà</artist>
+      <year>1921</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This small painting depicts the white plaster bust of a woman with an unrealistically long neck as she faces a blue rectangular plane displaying a yellow triangle and white compass. Her neck rests on a brown plane, empty except for a white rod that lies at a diagonal, while behind her a cloudy blue horizon rises to a dark empty space. The figure's mouth is open as if she were about to speak, while her closed eyes suggest someone who is in a somnambulant state. The title creates a context that revolves around the missing engineer as the female figure represents the object of his desire and the scientific tools represent his profession.
+				&lt;br/&gt;&lt;br/&gt;
+				As critic Hearne Pardee wrote, Carrà's work had much "in common with the naïve otherworldliness of Sienese painting...a fusion of neoclassicism and the surreal," as his figures "assume symbolic personas - the female head in &lt;i&gt;The Engineer's Lover&lt;/i&gt; (1921), as if animated by the viewer's desire, proposes a union of science and sensuality in a lunar landscape."
+				&lt;br/&gt;&lt;br/&gt;
+				This work is considered to be the last of the artist's Metaphysical Paintings, as he turned a more realistic style, influenced by both Morandi and the Renaissance master Masaccio. He also became associated with the Fascist Novecento Italiano movement.
+			</desc>
+      <collection>Peggy Guggenheim Collection, Venice</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>de_chirico_giorgio</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>carra_carlo</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>morandi_giorgio</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>sironi_mario</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>1913 | "The Anxious Journey" by Giorgio deChirico</title>
+          <link is_inline_video="true" inline_video_type="youtube">NhllG85qiwg</link>
+          <info>MOMA</info>
+        </entry>
+        <entry recommended="true">
+          <title>Morandi: Master of Modern Still Life, The Phillips Collection</title>
+          <link is_inline_video="true" inline_video_type="youtube">aUkktG0wzs4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Giorgio Morandi Studio d'Arte Campaiola</title>
+          <link is_inline_video="true" inline_video_type="youtube">WQ_nTULB0ds</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks:" class="clips">
+        <entry recommended="true">
+          <title>Giorgio de Chirico on Italian Television with English Translation</title>
+          <link is_inline_video="true" inline_video_type="youtube">tj3tX34GRNQ</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Giorgio de Chirico, Pictor Optimus</title>
+          <link is_inline_video="true" inline_video_type="youtube">Vf2BSi8LucA</link>
+          <info>David Peacock</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>De Chirico: The New Metaphysics</title>
+          <link>9057030217</link>
+          <info>By Giorgio de Chirico, Mario Ursino, and Maurizio Calvesi</info>
+        </entry>
+        <entry>
+          <title>Giorgio de Chirico: A Metaphysical Journey</title>
+          <link>3865604978</link>
+          <info>By Gerd Roos and Giorgio de Chirico</info>
+        </entry>
+        <entry recommended="true">
+          <title>Metaphysical Masterpieces 1916-1920: Morandi, Sironi, and Carrà</title>
+          <link>0991541057</link>
+          <info>By Erica Bernardi, Antonio David Fiore, Emma Lewis Laura Mattioli, et al.</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Fondazione Giorgio e Isa de Chirico</title>
+          <link>http://www.fondazionedechirico.org/opere/pittura-2/1910-20/?lang=en</link>
+          <info>Piazza di Spagna 31, 00187 Roma</info>
+        </entry>
+        <entry recommended="true">
+          <title>Giorgio de Chirico</title>
+          <link>https://www.moma.org/documents/moma_catalogue_1967_300298679.pdf</link>
+          <info>
+						By James Thrall Soby
+						&lt;br&gt;
+						MOMA
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Giorgio de Chirico, The Enigma of the Hour (1910): The First Conceptual Work of Art</title>
+          <link>https://brooklynrail.org/2017/05/criticspage/Giorgio-de-Chirico-The-Enigma-of-the-Hour-1910-The-First-Conceptual-Work-of-Art</link>
+          <info>
+						By Paolo Baldacci
+						&lt;br&gt;
+						The Brooklyn Rail
+						&lt;br&gt;
+						May 1, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Italian Painting, Before the Fall</title>
+          <link>https://hyperallergic.com/471622/metaphysical-masterpieces-1916-1920-morandi-sironi-and-carra-center-for-italian-art/</link>
+          <info>
+						By Thomas Miccheli
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						November 17, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>The painter vanishes</title>
+          <link>https://www.theguardian.com/culture/2001/may/17/artsfeatures1</link>
+          <info>
+						Richard Boston
+						&lt;br&gt;
+						The Guardian
+						&lt;br&gt;
+						May 16, 2001
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Metaphysical Masterpieces 1916 - 1920: Morandi, Sironi and Carra</title>
+          <link>https://brooklynrail.org/2019/04/artseen/Metaphysical-Masterpieces-19161920-Morandi-Sironi-and-Carra</link>
+          <info>
+						By Hearne Pardee
+						&lt;br&gt;
+						The Brooklyn Rail 
+						&lt;br&gt;
+						April 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Reading the riddles of Giorgio de Chirico</title>
+          <link>https://www.apollo-magazine.com/reading-the-riddles-of-giorgio-de-chirico/</link>
+          <info>
+						By Jo Laqwson-Tancred
+						&lt;br&gt;
+						Apollo Magazine
+						&lt;br&gt;
+						December 4, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Enigma in Giorgio de Chirico's art</title>
+          <link>http://www.theflorentine.net/art-culture/2008/05/enigma-in-giorgio-de-chiricos-art/</link>
+          <info>
+						By Brenda Dionisi
+						&lt;br&gt;
+						The Florentine
+						&lt;br&gt;
+						May 15, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Vanishing Point</title>
+          <link>https://www.theparisreview.org/blog/2017/03/06/vanishing-point/</link>
+          <info>
+						By Cara Hoffman
+						&lt;br&gt;
+						The Paris Review
+						&lt;br&gt;
+						March 6, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Mario Sironi 1885-1961, Il Complesso del Vittoriano, Rome - review</title>
+          <link>https://www.ft.com/content/bb2adf22-8f66-11e4-9ea4-00144feabdc0</link>
+          <info>
+						By Rachel Spence
+						&lt;br&gt;
+						Financial Times
+						&lt;br&gt;
+						December 30, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

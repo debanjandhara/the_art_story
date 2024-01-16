@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>itten_johannes</id>
+    <name>Johannes Itten</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1913 - 1967</years>
+    <description>Itten joined the first instructors at the Bauhaus developing the preliminary class. He encouraged students to explore their feelings and to always experiment.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <mini>true</mini>
+    <occupation>Painter, Designer, and Teacher</occupation>
+    <nationality>Swiss</nationality>
+    <birthDate>November 11, 1888</birthDate>
+    <birthPlace>Suderen-Linden, Switzerland</birthPlace>
+    <deathDate>March 25, 1967</deathDate>
+    <deathPlace>Zurich, Switzerland</deathPlace>
+    <img_version>?1</img_version>
+    <pub_time>1/25/2017</pub_time>
+  </main>
+  <includes>
+    <include>bauhaus</include>
+  </includes>
+  <similar_movements>
+    <movement>bauhaus</movement>
+    <movement>expressionism</movement>
+    <movement>black_mountain_college</movement>
+    <movement>modern_sculptors</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>albers_josef</artist>
+    <artist>feininger_lyonel</artist>
+    <artist>breuer_marcel</artist>
+    <artist>gropius_walter</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"He who wants to become a master of color must see, feel, and experience each individual color in its many endless combinations with all other colors.  Colors must have a mystical capacity for spiritual expression, without being tied to objects."</q>
+    <q>"Only those who love color are admitted to its beauty and immanent presence. It affords utility to all, but unveils its deeper mysteries only to its devotees."</q>
+    <q>"Color is life, for a world without color seems dead. As a flame produces light, light produces color. As intonation lends color to the spoken word, color lends spiritually realized sound to a form."</q>
+    <q>"Colors are primordial ideas, children of the aboriginal colorless light and its counterpart, colorless darkness.. Light, that first phenomenon of the world, reveals to us the spirit and the living soul of the world through colors."</q>
+    <q>"Play becomes joy, joy becomes work, work becomes play."</q>
+    <q>"The objective laws of form and color help to strengthen a person's powers and to expand his creative gift."</q>
+    <q author="The Art of Color (1961)">"In music, the theory of composition has long been an important and accepted part of a professional education. However, a musician may know counterpoint and still be a dull composer, if he lacks insight and inspiration. Just so, a painter may know all the resources of composition in form and color. Yet remain sterile if inspiration be denied him"</q>
+    <q author="Design and Form: The Basic Course at the Bauhaus (1963)">"If new ideas are to take the shape of art, it is necessary to prepare and coordinate physical, sensual, spiritual, and intellectual forces and abilities. This insight largely determined the subject and method of my Bauhaus teaching.  The task was to build the whole man as a creative being, a program which I also championed again and again in the faculty council."</q>
+    <q author="The Elements of Color (1970)">"The end and aim of all artistic endeavor is liberation of the spiritual essence of form and color and its release from imprisonment in the world of objects. It is from this aspiration that non-objective art has arisen."</q>
+  </quotes>
+  <authors>
+    <author link="archino">Sarah Archino</author>
+  </authors>
+  <article>
+    <synopsys>Trained as an elementary school teacher, Itten joined the first instructors at the Bauhaus, where he was a Master from 1919-1923. His development of the preliminary class of the school revolutionized art education. Instead of having students copy works of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, he encouraged them to explore their own feelings and to experiment with colors, materials, and forms. This course emphasized three elements: studies of natural forms and colors, the analysis of canonical artworks, and life drawing. He was a pioneer of holistic art teaching and  went on to run his own art school, along with serving at senior positions in renowned art academies. </synopsys>
+    <key_ideas>
+      <idea>Itten's &lt;i&gt;Vorkurs&lt;/i&gt; or foundations course at the Bauhaus pioneered techniques that remain central to art school teaching today, including the encouragement of self-expression and experimentation with materials and techniques. All students were required to complete this training before moving onto more specific courses - the course was the starting point of the Bauhaus curriculum. </idea>
+      <idea>As a believer in Eastern Mazdaznan, Itten encouraged students to embrace mysticism as part of their art practice. He taught meditation and breathing exercises, as well as gymnastic routines that were designed to maximize creativity. His teachings were adopted by many at the Bauhaus, but when the school adopted a more industrial philosophy, Itten left to found his own private art school in Berlin.</idea>
+      <idea>Itten developed an intricate theory of color, which associated color palettes with types of people and seasons. His work on color contrasts, which characterized seven different types of comparisons, was important for the development of Op Art, but would also influence palettes designed by cosmetic companies in the late-20&lt;sup&gt;th&lt;/sup&gt; century. </idea>
+    </key_ideas>
+    <sections>
+      <section title="_collage">
+        <subsection title="Johannes Itten: Of Interest">
+          <p type="img" alt="Itten - the Lifelong Teacher" show="0">/images20/photo/collage_itten_johannes_1.jpg</p>
+          <p type="img" alt="Itten leading his students in physical exercises" show="0">/images20/photo/collage_itten_johannes_2.jpg</p>
+          <p type="img" alt="The famous diagram of the Bauhaus course study plan. Itten's course is the first layer of knowledge in the Bauhaus curriculum (outer-most circle of this diagram)" show="0">/images20/photo/collage_itten_johannes_3.jpg</p>
+          <p type="img" alt="Itten's major book, The Elements of Color" show="0">/images20/photo/collage_itten_johannes_4.jpg</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>The Encounter</title>
+      <year>1916</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Although Itten painted this color abstraction prior to his arrival at the Bauhaus, it includes many of the fundamental principles that would be central to his teaching there. His use of geometric shapes, including the dominant spiral and repeated circles and rectangles, along with his exploration of the color spectrum preview his later interests. 
+				&lt;br/&gt;&lt;br/&gt;
+				While non-objective, &lt;i&gt;Encounter&lt;/i&gt; is layered with both personal and symbolic meaning. It forms part of a series of paintings of similar composition and palette, completed between 1915-16, that Itten's correspondence linked to the suicide of his girlfriend, Hildegard Wendland. This work, which has also been titled &lt;i&gt;Meeting&lt;/i&gt;, centers on two intertwining spiral forms. This particular shape has more universal significance as a Theosophical archetype of geometric forms in nature and a symbol of transcendence beyond the physical, concrete world.  
+				&lt;br/&gt;&lt;br/&gt;
+				The painting can also be understood as a study in dynamic contrasts of color, created from a comprehensive range of hues. The striped horizontal section of the lower right color features gradations of bright colors, from yellow to blue. It is flanked above and on the left, by vertical metallic stripes that are superimposed by the dominant form of the double spiral, which creates a rhythm of dark and light. One half of this spiral catalogues colors, the other values of gray, until they meet in a center of gray and pastel yellow. The result suggests a cosmic catalogue of different hues, swept together in a united geometric arrangement. Itten's emphasis on primary shapes and primary colors drew from the influence of Kandinsky, but would influence other Bauhaus students and instructors, including Paul Klee and Josef Albers.
+			</desc>
+      <collection>Kunsthaus Zurich</collection>
+    </artwork>
+    <artwork>
+      <title>Study of Contrasts(reconstruction of student project) </title>
+      <year>1920</year>
+      <artist>Moses Mirkin</artist>
+      <materials>Various Materials</materials>
+      <desc>
+				This student work was completed in Itten's &lt;i&gt;Vorkurs&lt;/i&gt; preliminary course, highlighting the class's emphasis on experimentation with materials and studies in contrast and form. This was a dramatic break with traditional art education, which emphasized copying from plaster casts and prints. Trained as an elementary school educator, Itten was deeply influenced by the pedagogy of Friedrich Froebel, who argued that learning was accomplished through play. Itten would propose a visual or structural challenge, often based on the exploration of ordinary materials, and his students would have several days to prepare their models. They were forced to work intuitively, in response to the materials, to develop creative solutions. Rather than grading individual efforts, which he believed could stifle this creativity, Itten would speak to general errors made by students and then allow the class to choose the most successful work. This model of open-ended experimentation, group dialogue, and individual expression has become a cornerstone of art education.
+				&lt;br/&gt;&lt;br/&gt;
+				When this sculpture was reproduced in the 1923 Bauhaus catalogue, it was described as "combined contrast effect, material contrast (glass, wood, iron), contrast of expressive forms (jagged-smooth); rhythmical contrast. Exercise to study similarity in expression using different means of expression simultaneously." Itten's teaching was often grouped around such contrasts, encouraging students to discover the "essential and contradictory" characteristics of different materials. This emphasis on materiality would then extend beyond this introductory class, to guide the students through the Bauhaus curriculum, which was organized by medium. 
+			</desc>
+      <collection>Bauhaus Archives, Dessau, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Tower of Fire</title>
+      <year>1920</year>
+      <materials>Reconstructed by Michael Siebenbrodt</materials>
+      <desc>
+				The founder of the Bauhaus, Walter Gropius, was an architect by training and architecture remained the ultimate goal of Bauhaus pedagogy, as a unification of all other media. Itten designed several architectural structures during his tenure at the school, most of which were based on elementary geometric forms in dynamic arrangements. Indeed, this architectural sculpture was a prototype for a never-realized public monument. Descriptions of the proposed project in Itten's diaries suggest that it might have been intended as a beacon for the Weimar airport. The model was installed outside of Itten's studio at the Bauhaus.
+				&lt;br/&gt;&lt;br/&gt;
+				The tower rises around a central core, with repeating projections of yellow, blue, and red leaded glass. The stacked cubes were intended to be formed from three different materials: the lowest four from clay or stone (to connect to life on earth); the middle four were to be metal forms that concealed bells (Itten's notes do not elaborate on this meaning); the upper four cubes were to symbolize the four essential elements of earth, water, air, and fire. The number twelve had significance from Itten's own color theories, as well as contemporary tonal experiments in music and both the traditional and zodialogical calendars. These cubes are circled by a series of ascending, concentric, conic forms that were also layered with symbolic importance, drawn from Theosophy and mystical geometries. The spiral was a form of transcendence, rising above materiality to embrace a higher level of consciousness. It was also a primal form, recurring in natural forms, suggesting a continuum of the ancient and possible future utopias.
+				&lt;br/&gt;&lt;br/&gt;
+				Itten's &lt;i&gt;Tower&lt;/i&gt; is similar to other utopian designs of the early-20&lt;sup&gt;th&lt;/sup&gt; century, including Bruno Taut's glass architecture and Vladimir Tatlin's &lt;i&gt;Monument to the Third International&lt;/i&gt;. While Itten was opposed to the growing industrialization of the Bauhaus, he incorporates these modern materials to create an expressive and organic structure here.
+			</desc>
+      <collection />
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="movement" page="bauhaus">Light Prop for an Electric Stage (Light Space Modulator) (1930)</artwork>
+    <artwork from="movement" page="bauhaus">Homage to the Square: Dissolving/Vanishing (1951)</artwork>
+    <artwork from="movement" page="op_art">Duo- 2 (1967)</artwork>
+  </similar_artworks>
+  <chart />
+  <sidebar />
+</data>

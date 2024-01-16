@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>french_art</id>
+    <name>French Art</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>In many ways, the history of France and its culture are interconnected with the country's achievements in the arts.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <start>30,000 BCE</start>
+    <big_bio_box_img>Pierre-Auguste Renoir, &lt;i&gt;Luncheon of the Boating Party&lt;/i&gt; (1880-81).</big_bio_box_img>
+    <bio_highlight>Historian E H Gombrich wrote: "It took some time before the public learned that to appreciate an Impressionist painting one has to step back a few yards and enjoy the miracle of seeing these puzzling patches suddenly fall into place and come to life before our eyes. To achieve this miracle, and to transfer the actual visual experience of the painter to the beholder, was the true aim of the Impressionists."</bio_highlight>
+    <pub_time>6/20/2022</pub_time>
+  </main>
+  <similar_movements>
+    <movement>the_academy_of_art</movement>
+    <movement>rococo</movement>
+    <movement>neoclassicism</movement>
+    <movement>impressionism</movement>
+    <movement>salon_cubism</movement>
+    <movement>surrealism</movement>
+    <movement>british_art</movement>
+    <movement>french_art</movement>
+  </similar_movements>
+  <quotes>
+    <q author="Edward Lucie-Smith">"...French painters produced some of the chief monuments of European culture, and the French school has a continuity of achievement which no other nation can rival."</q>
+    <q author="Valentin Grivet">"If cave painting and some ancient works are not counted, the Middle Ages were the first great epoch of French painting."</q>
+    <q author="Edward Lucie-Smith">"The French artist neither exalts nor caricatures, he observes. French art frequently seams to combine detached observation with an involvement with the very substance of life. The image is presented as an aspect of something much larger and more important, a carefully selected facet of the complexity of human experience."</q>
+    <q author="Edward Lucie-Smith">"The eighteenth century is perhaps the most complex in the whole history of French painting...."</q>
+    <q author="Catherine Millet">"In France, it was in the second half of the 1950s that a significant change in the public attitude to modern art began to be observed."</q>
+  </quotes>
+  <authors>
+    <author link="di_palma">Jessica DiPalma</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>
+			It is difficult to imagine a nation for whom art plays a more vital role in its collective consciousness than France. French art has an enviable heritage that dates back to the Middle Ages when it created some of art history's best examples of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanesque_art"&gt;Romanesque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_art_and_architecture"&gt;Gothic art&lt;/span&gt; and architecture. The period of the French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; was proudly represented by the court painter Jean Clouet, while by the mid-17&lt;sup&gt;th&lt;/sup&gt; century, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-poussin_nicolas"&gt;Nicolas Poussin&lt;/span&gt; had assumed the mantle of the father of the French classical tradition. The charming frivolity of Rococo, which for many was the first purely French art, duly gave way to the age of Enlightenment and the emergence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romanticism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt; introduced to the world artists of the stature of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;. 
+			&lt;br/&gt;&lt;br/&gt;
+			But by the beginnings of the 20&lt;sup&gt;th&lt;/sup&gt; century, Paris had become to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modernism&lt;/span&gt; what Florence had been to the Renaissance. The French capital was the stage for the greatest period of experimentation in art history and the bohemian café life of Montmartre acted as a magnet for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; artists and writers from around the world. Under this environment, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; duly became &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt; gave way to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; evolved into &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;. And through this monumental period in art history, the pantheon of world artists would induct French names including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; into its hall of fame. By the mid-20&lt;sup&gt;th&lt;/sup&gt; century New York had replaced Paris as the epicentre of modern art, but France has continued to be represented on the world stage on contemporary art by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klein_yves"&gt;Yves Klein&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bourgeois_louise"&gt;Louise Bourgeois&lt;/span&gt;.
+		</synopsys>
+    <key_ideas>
+      <idea>Light-hearted and charming, but with more than a hint of eroticism, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo style&lt;/span&gt; was exemplified by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-watteau_jean_antoine"&gt;Jean-Antoine Watteau&lt;/span&gt; and his &lt;i&gt;Fête Galante&lt;/i&gt; (outdoor entertainment) paintings. Works such as &lt;i&gt;Pleasures of Love&lt;/i&gt; (1718-19), featured elegant figures dressed in pastel colors, engaged in rituals of courtship against a backdrop of a rich and pleasant outdoor setting. With the onset of the new age of Enlightenment thinking, critics such as the philosopher Denis Diderot, rejected Rococo art in favor of a "nobler art" (which would soon take the shape of Neoclassicism). Nevertheless, the Rococo style stood (before the arrival of Impressionism) as the first quintessentially French art.</idea>
+      <idea>Following the excesses of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque&lt;/span&gt;, and the "folly" of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt; emerged as the artform that could accommodate the spirit of either conformity or revolution. Indeed, by drawing on the rules of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;classical art&lt;/span&gt;, artists could "return" to the timeless and universal virtues on which European enlightenment were founded. More than any other French artist of his day, it was the pro-revolutionary painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt; who exemplified the French Neoclassical style. With paintings such as &lt;i&gt;The Death of Marat&lt;/i&gt; (1793) he represented one of the leaders of the French Revolution lying dead in his bathtub, in a composition that recalled classical paintings that represented the crucifixion of Christ.</idea>
+      <idea>&lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romanticism&lt;/span&gt; is a tendency that one typically associates with landscapes and artists seeking to capture the true - or "sublime" - majesty of nature on canvas. In France, however, Romanticism took on a different bent by bringing the same sort of pictorial drama to contemporary social themes. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Delacroix&lt;/span&gt;, who painted one of France's most iconic masterpieces, &lt;i&gt;Liberty Leading the People&lt;/i&gt; (1830), emerged as the leader of French Romanticism. His paintings displayed a strong dramatic intensity, and he was greatly admired by the illustrious French poet, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;, who was especially impressed by Delacroix's handling of color and his ability to use his palette to communicate sensations that were beyond the reach of words and poetry.</idea>
+      <idea>When one thinks of the world's most iconic national schools of painting, then one probably thinks first of the Italian Renaissance and French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;. As historian Kate Heveles put it, "French art in the popular imagination is often characterized by the dreamy, dauby landscapes of the Impressionists". The Impressionists had in effect announced a new epoch that liberated art from the "stuffy" authority of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-academic_art"&gt;academic art&lt;/span&gt; and, using vivid colors, and with a focus on everyday subjects, painted &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;&lt;i&gt;en plein air&lt;/i&gt;&lt;/span&gt; (on location rather than in a studio), set the scene for a modern art fit for a modern age.</idea>
+      <idea>Thought by many to be the most important modern artist of all, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; was a true iconoclast. His impact on the development of contemporary art is impossible to overlook. Best known for his "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt;" sculptures, &lt;i&gt;Fountain&lt;/i&gt; (1917) - an upturned urinal that he signed "R. Mutt" and dated in the fashion of an original artwork - sent shockwaves through the contemporary artworld. Thought by many at the time to be a practical joke, Duchamp later defended his work by saying "I was interested in ideas, not merely in visual products". After &lt;i&gt;Fountain&lt;/i&gt;, sculpture no longer insisted on the use of traditional modeling materials and subject matter. Duchamp had, in effect, pre-empted the rise of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Early French Art">
+        <subsection title="Beginnings">
+          <p type="img" alt="Animals depicted on the walls of the Lascaux cave are amongst the earliest known artworks in the history of the world. " show="1">/images20/photo/photo_french_art_1.jpg</p>
+          <p type="p">Although there was yet to be any concept of a nation state, the history of French art dates back to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cave_art"&gt;Cave art&lt;/span&gt; with the wall drawings and carved relief sculptures found in several of its caves. Two of the most well-known are the Chauvet-Pont-d'Arc Cave (or Chauvet cave) in France's Ardèche Valley, and the Lascaux cave in the Dordogne region. The Lascaux cave was discovered in 1940 while France was under Nazi occupation. A group of young boys were trespassing on the private property of the Count of La Rochefoucauld when they squeezed their way through a partially concealed opening and entered a cave which is today known as the &lt;i&gt;Hall of Bulls&lt;/i&gt;. They had discovered what was the most finely decorated cave in Europe.</p>
+          <p type="p">Dating back to 30,000 BC, and discovered in December 1994 by three cave explorers, the Chauvet cave is home to the oldest of the French cave paintings. Some 400 meters long with two major parts, the walls are decorated with images of horses, lions and rhinoceroses (animals that were rarely hunted and therefore likely had animistic/spiritual properties), and several human handprints.</p>
+          <p type="img" alt="The &lt;i&gt;Venus of Laussel&lt;/i&gt; (25,000 BC) is one of the earliest sculptural reliefs in the history of art. " show="1">/images20/photo/photo_french_art_2.jpg</p>
+          <p type="p">The &lt;i&gt;Venus of Laussel&lt;/i&gt; (or &lt;i&gt;Woman Holding a Bison Horn&lt;/i&gt;) is one of the earliest examples of a carved relief sculpture in art history. Found in the Laussel cave in the Dordogne region, the work, which dates from around 25,000 BC, depicts a woman holding a bison horn in her raised right hand. While the meaning of the work cannot be confirmed, the exaggerated breasts and hips of the woman, coupled with the thirteen marks on the horn the figure holds (which some historians believe represent a woman's menstrual cycle), led many to believe the work's meaning is probably linked to fertility.</p>
+        </subsection>
+        <subsection title="The Romanesque Period">
+          <p type="img" alt="&lt;i&gt;Arc de triomphe d'Orange&lt;/i&gt; (&lt;i&gt;Monumental Arch of Orange&lt;/i&gt;) in Orange, Provence (10-27AD). The Roman monument has been granted World Heritage status by UNESCO. " show="1">/images20/photo/photo_french_art_3.jpg</p>
+          <p type="p">The first French city, Marseille, began life as a Greek colony (Massalia) in 600 BC. By 222 BC, the Roman Republic ruled the expansive western European region of Gallia (Cisalpine Gaul). The legacy of Roman rule can be found in the wonderfully preserved (due largely to the fine weather conditions in Southern France) limestone &lt;i&gt;Arc de triomphe d'Orange&lt;/i&gt; in the Provence town of Orange. The arc, dedicated to the second emperor of Rome, Tiberius Caesar Augustus, is made up of panels depicting land and sea battles and various war trophies. Gaul remained under the rule of the Roman Empire until the fourth century when the Franks - from which France takes its name - took power. Charles the Great (Charlemagne) united the Gaul regions and was named the Holy Roman Emperor of French and German monarchies in 768 (France would remain a monarchy for a further thousand years).</p>
+          <p type="img" alt="Cerisy Abbey (aka: the Abbey of Saint Vigor) (1080-85). Located in Cerisy-la-Foret, Manche, the building was the most important Benedictine monastery in the Normandy region of France." show="0">/images20/photo/photo_french_art_4.jpg</p>
+          <p type="p">The years between the fifth and the fifteenth century - the Medieval or Middle Ages - mark the beginnings of a distinctly French art. According to author Valentin Grivet, "if cave paintings and some ancient works are not counted [then] the Middle Ages were the first great epoch of French painting". Indeed, during the Middle Ages two key movements, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanesque_art"&gt;Romanesque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_art_and_architecture"&gt;Gothic&lt;/span&gt; periods, put down roots in France and some of the greatest examples of medieval art and architecture were created in these styles. The first of the French movements was the Romanesque period which dated from the late tenth to the thirteenth century (when it was overtaken by the Gothic style). Vast monasteries, pilgrimage churches, frescoes and bejewelled memorials were produced in the Romanesque style. The architectural style was characterized by rounded stone arches (that looked back to early Roman architecture) and simple cross layout floor plans.</p>
+          <p type="img" alt="This reliquary bust which held the skull of Saint Yrieix was created between 1220-40 and is considered a masterpiece of French metalworking in both silver and gold. Highly decorated, it honors the founder of a monastery in Limoges, France." show="1">/images20/photo/photo_french_art_5.jpg</p>
+          <p type="p">While Romanesque churches and cathedrals were somewhat nondescript on the exterior, the interiors brought the buildings to life with walls and ceilings covered with frescoes, and ossuaries celebrating Christian narratives. Relief carvings and sculptures often displayed Christian narratives carved into tympanums. One of the best-known examples was produced by the French artist known as Gislebertus who made the Romanesque relief depicting the Last Judgment of Christ for the tympanum of the Cathedral of Saint Lazare in Autun, in 1130. Painted icons and ornately decorated reliquaries or holders for holy relics were given prominence of place in the Romanesque churches which served as key attractions for those making pilgrimages to churches scattered throughout the country.</p>
+          <p type="a_small" alt="Romanesque Art Movement Page">/movement/romanesque-art/</p>
+        </subsection>
+        <subsection title="The Gothic Period">
+          <p type="p">The French Gothic style covered the period between the twelfth and fifteenth centuries. Architecturally, church design became more ambitious with builders aiming to attain greater height. Stained glass became popular too, with church windows as one more means by which artisans could illustrate Christian narratives. Pointed arches and rib vaults helped accommodate the new building heights with slanting - or "flying" - buttresses introduced to support the building's increased height and weight. Paris's iconic Notre-Dame Cathedral is generally agreed to be the definitive example of French Gothic architecture.</p>
+          <p type="p">The Gothic church's move towards more ornate designs can be seen in the decorative rosette windows and pointed arches, and in the abundance of religious themed art that adorned the interior, and on the exterior walls, of the buildings. Gothic art was more realistic than earlier Christian art and was especially true of sculpture which anticipated the emergence of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;Renaissance movement&lt;/span&gt;. According to author Silka P, French sculptors of the Gothic period "were crucial for the experimentation with the traditional art materials, such as clay, marble, and bronze [and were] responsible for the most thought-provoking and revolutionary ideas regarding three-dimensional creativity".</p>
+          <p type="img" alt="&lt;i&gt;Virgin of Paris&lt;/i&gt; (1163-1345). A much-loved sculpture of the French people, it stands in France's most famous cathedral, the Notre-Dame in Paris." show="1">/images20/photo/photo_french_art_6.jpg</p>
+          <p type="p">While representations of Mary and the Christ child were popular throughout the Middle Ages, in many early images Christ is represented less as an infant and more like an adult of reduced size. In the &lt;i&gt;Virgin of Paris&lt;/i&gt; in the Notre Dame cathedral, Mary and the Christ child are more natural (or childlike in Christ's case) thus representing a Gothic style that has moved away from the flat and simplified forms of religious iconography of the Late Antiquity and the Byzantine periods. This feature is most notable in the natural way in which Mary's body curves to support the weight of the child she rests on her hip. This natural parental posture became commonplace during the late-Gothic period. Book arts was also a common feature of Gothic art. Illuminated manuscripts and small books of prayers (books of hours) were commissioned by wealthy patrons for private devotion. While many of the books were created by anonymous artisans, some individuals, such as Jean Fouquet, Master Honoré, and Jean Pucelle, began to gain recognition under the collective title: School of Paris.</p>
+          <p type="a_small" alt="Gothic Art and Architecture Movement Page">/movement/gothic-art-and-architecture/</p>
+        </subsection>
+      </section>
+      <section title="French Art 1450-1750">
+        <subsection title="The Renaissance in France">
+          <p type="p">While the Renaissance period had its beginning in Italy, the movement, with its emphasis on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance_humanism"&gt;humanism&lt;/span&gt; and a mathematical approach to perspective, quickly spread across western and northern Europe. According to author Valentin Grivet, "The French Renaissance reached its peak between the last years of the 15&lt;sup&gt;th&lt;/sup&gt; century and the end of the following century. Its development can be divided into different phases, starting with [early works] whose aesthetics still combined Gothic elements with new design principles, and for example, produced the painter Jean Fouquet, up to the last manifestations of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerism&lt;/span&gt; towards the end of the 16&lt;sup&gt;th&lt;/sup&gt; century".</p>
+          <p type="p">In addition to religious works, portraiture became an increasingly popular theme in Renaissance painting. Of this style, perhaps the area in which France best excelled was in works capturing royalty and military leaders. The great kings and queens of France, and sometimes even their mistresses, were subjects for artists, while the Royal courts could boast of having some of the greatest painters of their age as members.</p>
+          <p type="p">The greatest French Renaissance master in this genre was the court painter Jean Clouet who is best known for his portraits of King François I (reigned 1515-47). François is credited with doing more than any other individual to promote Renaissance art and architecture in France. François was a progressive, cultured, monarch who invited &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt; to come and work freely in France. Leonardo accepted the King's invitation and lived out the last three years of his life (1516-19) in a relatively small palace (the King's childhood home) in Amboise in the Loire Valley. Leonardo brought with him a large cache of paintings and drawings, most of which stayed in France (and are now housed in Le Louvre as part of the world's largest single collection of Leonardo's art).</p>
+          <p type="img" alt="Chateau de Chambord (1519-47). The Renaissance chateau, the largest in the Loire and the center of political power in sixteenth century France, has 426 rooms, 77 staircases, 282 fireplaces, over 800 sculptured columns and many towers, turrets, and chimneys." show="1">/images20/photo/photo_french_art_7.jpg</p>
+          <p type="p">Leonardo and King François formed a close friendship, and although he died shortly before construction began in earnest, it is thought that the great Renaissance master designed the famous double-helix staircase (two concentric spirals wind separately around a central column, allowing guests to pass without meeting while still being able to see one another through windows placed in a central column) of the castle, Chateau de Chambord. The Renaissance Chateau, commissioned by François, and one of the first in France to revive the ancient Greek and Classical Roman architectural styles, was designed by the Italian Domenico da Cortona who created the wooden model which builders then constructed in stone. However, such was the duration of the interrupted construction period (some 28 years), French Renaissance architects Jacques Sourdeau, Pierre Neveu, Denis Sourdeau, and Francois de Pontbriant (the project's overseer) are now credited as key contributors to the Chateau's final design.</p>
+          <p type="a_small" alt="Northern Renaissance Movement Page">/movement/northern-renaissance/</p>
+        </subsection>
+        <subsection title="The Academy">
+          <p type="p">The painter, designer and art school director Charles Le Brun played the leading role in establishing the Académie Royale de Peinture et de Sculpture (Royal Academy of Painting and Sculpture), under the patronage of King Louis XIV, in 1648. Le Brun was part of a group of artists who felt constrained by the medieval Gothic and Baroque styles, which were still dominant in France.</p>
+          <p type="p">By 1661 the French Royal Academy began promoting a classical - or royal - style, devoted to the glorification of Louis XIV, and this model influenced the development of other academies throughout Europe (including British and Danish Academies). Academies were vital in fostering national schools of painting and sculpture and remained pinnacles of aspiration for most French artists long into the nineteenth century. Appointed as the French Academy's director in 1663, Le Brun modelled the French system on the older Italian Academies, opening an art school, enlisting noted patrons, and upholding strict classical standards. At the same time, the French Academy made its own contributions, expanding its role to include an annual Salon where members exhibited their work; a division of the French Academy in Rome; the &lt;i&gt;Prix de Rome&lt;/i&gt; award which granted a three-year scholarship for a student to study in Rome; and the establishment of a "Hierarchy of the Genres" which ranked "complex" history painting and sculpture over, say, landscapeture and portraiture.</p>
+          <p type="a_small" alt="The Academy of Art Movement Page">/definition/the-academy-of-art/</p>
+        </subsection>
+        <subsection title="Poussinistes versus Rubenistes">
+          <p type="img" alt="Color drives the composition in Peter Paul Rubens's &lt;i&gt;Hippopotamus and Crocodile Hunt&lt;/i&gt; (ca. 1615)" show="1">/images20/photo/photo_french_art_8.jpg</p>
+          <p type="p">For the Académie Royale, the conflict between &lt;i&gt;colorito&lt;/i&gt; and &lt;i&gt;disegno&lt;/i&gt; took on new energy between the "Poussinistes" - those who preferred the classical works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-poussin_nicolas"&gt;Nicolas Poussin&lt;/span&gt; (who spent the majority of his career in Rome) - and the "Rubenistes" - those who favored the more sensuous works of Flemish painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Peter Paul Rubens&lt;/span&gt;. At a 1672 Academy conference entitled &lt;i&gt;Sentiment on the discourse on the merit of colour&lt;/i&gt;, Le Brun argued "drawing imitates everything real, whereas colour only represents the accidental". Color was considered an aesthetic embellishment, or, as Le Brun put it, "color depends entirely on matter, therefore it is less noble than drawing, which depends only on the mind".</p>
+          <p type="img" alt="Nicolas Poussin's &lt;i&gt;Et in Arcadia ego&lt;/i&gt; (1628). Poussin studied classical approach earned him the title: the “French Raphael”." show="1">/images20/photo/photo_french_art_9.jpg</p>
+          <p type="p">The Poussinistes would win the debate, establishing Poussin as the central figure to the Academy's teachings. Indeed, many Academians cited Poussin as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-raphael"&gt;Raphael's&lt;/span&gt; rightful heir. As art historian Michael Paul Driskel put it, "by interpreting Poussin as the 'French Raphael,' French art theorists in and around the Academy heightened Poussin's prestige and strengthened his pedigree as the father of the French classical tradition [...] in the hope of creating their own version of the &lt;i&gt;beau idéal&lt;/i&gt; [the highest possible standard of excellence]".</p>
+        </subsection>
+        <subsection title="Baroque Art">
+          <p type="img" alt="&lt;i&gt;Portrait of Louis XIV&lt;/i&gt; (1700-01). Historian Juyeon Kim states, “in Hyacinthe Rigaud's most famous portrait, Louis XIV [aka. the “Sun God”] shows the majestic power of an absolute monarch. He is wearing his coronation robe embroidered with the royal &lt;i&gt;fleur de lys&lt;/i&gt; along with some key elements of Baroque [fashion] style such as the cravat, red heels, and the wig”." show="1">/images20/photo/photo_french_art_10.jpg</p>
+          <p type="p">Perhaps the defining movement of the seventeenth century was the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baroque_art_and_architecture"&gt;Baroque movement&lt;/span&gt;. Many French artists and designers embraced the dramatic and excessively decorative elements of the Baroque style. It was a movement designed to overwhelm the emotions and is often thought to represent the good taste (or excesses, depending on one's point of view) of the French aristocracy and the aspiring middle classes (or &lt;i&gt;petite bourgeoise&lt;/i&gt;). One of the leaders of the Baroque style was the portrait painter Hyacinthe Rigaud. He was well known for his portraits of King Louis IV and his heirs. His sitters were theatrically posed; usually seated or standing against richly decorated backgrounds and bedecked in extravagant regal costumes.</p>
+          <p type="p">Portrait busts, which would help immortalize their subjects, were also popular within Baroque art. These were mostly royal and military commissions, such as the bust commissioned by King Louis XIV created by Antoine Coysevox, in 1686. Busts like these adorned the halls of royal residences, including the spectacular Royal Palace at Versailles, France's lasting monument to the Baroque and Rococo age.</p>
+          <p type="p">While it is true that much of Europe was fascinated by the dramatic, almost theatrical, representations of grand subjects and their residencies, in the hands of many French artists, the Baroque style took on a more austere tone. Indeed, the theatricality of the Baroque style was seen by French artists as somewhat immoderate and was offset with a more sober consideration of composition that accommodated more considered classical ideals (hence the sometimes-used title, "Baroque Classicism").</p>
+          <p type="a_small" alt="The Baroque Movement Page">/movement/baroque-art-and-architecture/</p>
+        </subsection>
+        <subsection title="Rococo: The French Art of Leisure">
+          <p type="p">Following the death of King Louis XIV in 1715, the French aristocracy moved from the court of Versailles back to their Parisian homes. They turned away from the excesses of the Palace's Baroque style and filled their mansions with more genteel designs and furnishings. Pastel tones and smooth rounded contours were the order of the day, and paintings typically depicted frivolous love scenes, views of nature, and youthful amorous encounters. As art historian Erica Trapasso summarized, "Instead of surrounding themselves with precious metals and rich colors, the French aristocracy now lived in intimate interiors made with stucco adornments, &lt;i&gt;boiserie&lt;/i&gt;, and mirrored glass. This new style is characterized by its asymmetry, graceful curves, elegance, and the delightful new paintings of daily life and courtly love, which decorated the walls within these spaces".</p>
+          <p type="img" alt="Jean Antoine Watteau, &lt;i&gt;Pleasures of Love&lt;/i&gt; (1718-19). Watteau is best known for his &lt;i&gt;Fête Galante&lt;/i&gt; paintings that featured elegantly dressed figures engaged in rituals of courtship in pleasant outdoor settings." show="1">/images20/photo/photo_french_art_11.jpg</p>
+          <p type="p">Amongst the greatest exponents of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rococo"&gt;Rococo style&lt;/span&gt; was the academy painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-watteau_jean_antoine"&gt;Jean-Antoine Watteau&lt;/span&gt;. He first gained recognition as a painter of scenes featuring &lt;i&gt;commedia dell'arte&lt;/i&gt; (paintings based on popular Italian theater characters) but is better known for inventing a type of painting known as &lt;i&gt;Fête Galante&lt;/i&gt; (or "outdoor courtship entertainments"). These were typically small cabinet paintings that showed romantic love scenes set in a rich landscape setting. Grivet, placed &lt;span class="marked_text chart-tooltip-target-top tooltip_id-boucher_francois"&gt;François Boucher&lt;/span&gt;					in the same class as Watteau, noting that Boucher's "themes of pleasure and sensuality" were sometimes tinged "with a touch of eroticism or licentiousness" and adding that it was Boucher who emerged as the acknowledged "master of velvet-white female nudes".</p>
+          <p type="p">Rococo paintings were typically commissioned by wealthy patrons, often of noble or royal lineage. Indeed, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fragonard_jean_honore"&gt;Jean-Honoré Fragonard's&lt;/span&gt; &lt;i&gt;Progress of Love&lt;/i&gt; (1770-73) four-panel series was created for the private rooms of King Louis XV's mistress, Madame Du Barry. But Rococo paintings did not have broad appeal, especially amongst ordinary French people, many of whom were simply struggling to endure day-to-day life. As the art historian Erica Trapasso writes, "Though educated thought was cultivated throughout the 18&lt;sup&gt;th&lt;/sup&gt; century, a new kind of intellectual exchange began to develop, which became known as the Enlightenment. Out of this new cultural movement, ideas about art changed, and Rococo ideals of frivolity and elegant eroticism became less and less relevant. Art critics like [Denis] Diderot sought for a 'nobler art,' and enlightened philosophers like Voltaire criticized its triviality. While some Rococo artists continued to paint in their own provocative style, others developed a new kind of art, known as Neoclassicism, which appealed to the art critics of the time".</p>
+          <p type="a_small" alt="The Rococo Movement Page">/movement/rococo/</p>
+        </subsection>
+      </section>
+      <section title="French Art 1750-1850">
+        <subsection title="Neoclassicism">
+          <p type="p">By the middle of the eighteenth century, Enlightenment thinkers were calling for an art that better reflected the dawning of a new age and they found their inspiration it in the art of Roman antiquity. The art historian Dr. Jeanne S. M. Willette describes that the roots of French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neoclassicism"&gt;Neoclassicism&lt;/span&gt; could be located in the middle of the century with the archaeological discovery of the Italian resort towns of Herculaneum and Pompeii (which had been buried in the eruption of Mount Vesuvius in 79AD). As she writes, "Frozen in time, magnificent villas were unearthed, revealing extraordinary murals painted by provincial artists [...] Suddenly the linear and simple approach to drawing and the cleanly painted areas of colors provided a new way to make art to a young generation of artists who wanted to make their marks in the Academy and upon new patrons". She adds that the "affinity to the simple compositions and strong lines of Poussin" had made it easy to "assimilate the paintings of Pompeii for artists who were interested in being radical", even though it would take some "four decades to come to fruition".</p>
+          <p type="img" alt="Joseph-Marie Vien, &lt;i&gt;La Vertueuse Athénienne&lt;/i&gt; (&lt;i&gt;The Virtuous Athenian Woman&lt;/i&gt;) (1762). Vien introduced Neoclassicism to the French art world with this work at the Salon Carré in Paris in 1763. It presented a challenge to the studious history paintings of the Academy by producing paintings that were best suited to a domestic setting." show="1">/images20/photo/photo_french_art_12.jpg</p>
+          <p type="p">French Neoclassicism can be divided into two phases. Willette describes how the first flowerings were evident in "the frozen eroticism of Joseph-Marie Vien". He, with the London based Swiss artist (and co-founder of the British Royal Academy) &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kauffman_angelica"&gt;Angelica Kauffman&lt;/span&gt;, painted women bedecked in Greco-Roman gowns and engaged in everyday activities. It was through such pieces that Vien introduced the Neoclassical style to the French art world through the Salon Carré in 1763. Although the works of Vien were about everyday domestic life, towards the end of the century, Neoclassicism would enter a second phase that adopted the more ethical and serious tenets of history painting. Willette observes that in the second phase "heroic men would take the center stage as active and noble subjects. Monumentality and sober and serious colors, strong shadows and theatrical settings filled with brave men engaged in virtuous enterprises became the preferred style at the end of the Eighteenth Century".</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-david_jacques_louis"&gt;Jacques-Louis David&lt;/span&gt;, and his one-time student, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Jean-Auguste-Dominique Ingres&lt;/span&gt;, emerged as perhaps the leading figure in second-phase French Neoclassicism. He developed something of a universal style (in that its righteous principles appealed to nobility and revolutionaries alike). However, Neoclassical art was dependent on the patronage of the monied classes and the shift to grander history paintings was an undisguised attempt to elevate Neoclassicism to the status of the "highest art". Willette makes the further point that while "It is often assumed that suddenly Rococo art disappeared as soon as Neo-Classicism hove into view" in fact "the Rococo style never faded away and was beloved to the extent that during the Second Empire [1852-70], it - not Neo-Classicism - was seen as the true national style of France".</p>
+          <p type="a_small" alt="Neoclassicism Movement Page">/movement/neoclassicism/</p>
+        </subsection>
+        <subsection title="The Romantic Period">
+          <p type="img" alt="Jean Auguste Dominique Ingres, &lt;i&gt;The Envoys of Agamemnon&lt;/i&gt; (1801). London's National Gallery says of Ingres that he “was steeped in the academic tradition, which centred on study from the nude and classical art. He became the defender of a rigid Classicism which contrasted with the Romanticism of Delacroix”." show="0">/images20/photo/photo_french_art_13.jpg</p>
+          <p type="p">The art historian E H Gombrich wrote: "The leading conservative painter in the first half of the nineteenth century was Jean-Auguste-Dominique Ingres. He had been a pupil and follower of David, and like him admired the heroic art of classical antiquity. In his teaching he insisted on the discipline of absolute precision in the life-class and despised improvisation and messiness [...] It is easy to understand why many artists envied Ingres his technical assurance and respected his authority even when they disagreed with his views. But it is also easy to understand why his more passionate contemporaries found such smooth perfection unbearable. The rallying call for his opponents was the art of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugène Delacroix&lt;/span&gt; [...] He had no patience with all the talk about Greeks and Romans, with the insistence on correct drawing, and the constant imitation of classical statues. He believed that, in painting, color was much more important than draughtsmanship, and imagination than knowledge".</p>
+          <p type="p">There was in fact a period of transition between Neoclassicism and Romanticism bridged by Anne Louis Girodet (a former student of David). Girodet's dramatic subject matter, unnatural coloring, and his (sic) highly emotional re-imaginings of classically themed material went against the reason and order of the Enlightenment artists and saw him pointing towards the more expressive Romantic movement. Romanticism did not restrict itself to a specific genre. It is true that internationally the movement is concerned with art that captures the power and majesty of nature (known to art historians as the aesthetic of "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_sublime_in_art"&gt;the Sublime&lt;/span&gt;"). In France, however, artists such as Delacroix and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gericault_theodore"&gt;Théodore Géricault&lt;/span&gt; were working in the Romantic idiom as a way of dramatizing topical themes of human equality and social justice.</p>
+          <p type="img" alt="Théodore Géricault, &lt;i&gt;The Raft of the Medusa&lt;/i&gt; (1818-19). According to author Edward Lucie-Smith “the motive force [behind Romanticism] is not hero-worship [or a tribute to classical antiquity] but indignant compassion”." show="1">/images20/photo/photo_french_art_14.jpg</p>
+          <p type="p">Géricault's epic painting, &lt;i&gt;The Raft of the Medusa&lt;/i&gt;, for example, features a disturbing grouping of figures some dead, some struggling for life, in a tangled mass positioned on a makeshift raft. The painting is a dramatic interpretation of real events, beginning on July 2, 1816, when a French navy frigate carrying individuals to establish a new colony sank off the West African coast. The appointed governor of the colony, with the top-ranking officers in the party, left on the ship's six lifeboats leaving the remaining 147 passengers to crowd onto rafts. When the raft proved too cumbersome, in what was interpreted as an act of extreme cowardice, the ship's captain cut the ropes to the raft leaving the passengers to the mercy of nature. When rescued thirteen days later by a passing British ship, only fifteen men were alive with five of those dying before they were able to reach the safety of land. Once the story was reported in the press, it became a national scandal, and a strong indictment of the priorities of the current French government.</p>
+          <p type="img" alt="Jean-Léon Gérôme, &lt;i&gt;The Tryst&lt;/i&gt; (1844). The son of Jacque-Louis David, Gérôme was considered one of eighteenth century France's premier Academy painters. His trips across the middle east inspired many of his Orientalist paintings." show="0">/images20/photo/photo_french_art_15.jpg</p>
+          <p type="p">In the Romantic period, domestic themes coexisted with scenes of exotic overseas travel. A focus on the naked female form was shown in ways that seemed both alluring and forbidden when executed through the Romantic sub-genre of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orientalism"&gt;Orientalism&lt;/span&gt;. Author Alexandra Jopp states, "the new Romantic concept of beauty included exotica - something unique, uncommon, unexplored, sensual and erotic. This cult of the exotic explains the fascination of French and British painters with the Near and Far East, Northern Africa and the Mediterranean region, particularly as reflected in the picturesque Orientalist paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gerome_jean_leon"&gt;Jean-Léon Gérôme&lt;/span&gt;, Eugène Delacroix, and Jean Auguste Dominique Ingres. For these painters and others in the Romantic era, Orientalism would become an essential feature of their work".</p>
+          <p type="a_small" alt="Romanticism Movement Page">/movement/romanticism/</p>
+        </subsection>
+        <subsection title="Realism">
+          <p type="p">The concept of realism in art has a long and complex history that dates all the way back to Greek antiquity. However, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt; became a self-defined movement in French art (and literature) that lasted roughly between the 1840s to the end of the century. The Realist doctrine insisted on an honest, unvarnished, depiction of the natural world - with ordinary working-class subjects represented (if at all) without embellishment or fanfare. Realism rejected Academy standards, especially Neoclassicism and Romanticism, and portrayed the French landscape and elements of society that had often been ignored by the "official" art establishment. The key figure within the Realist painterly tradition was &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt; although the landscapists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-millet_jean_francois"&gt;Jean-François Millet&lt;/span&gt;, and the caricaturist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daumier_honore"&gt;Honoré Daumier&lt;/span&gt; were exploring the similar ideas and themes.</p>
+          <p type="p">Ross Finocchio of the Metropolitan Museum of Art, writes, that despite precedents dating back to the beginnings of the century, French Realism came into its own "in the aftermath of the Revolution of 1848 that overturned the monarchy of Louis-Philippe and developed during the period of the Second Empire under Napoleon III". It accorded with Courbet's 1861 statement that "painting is an essentially &lt;i&gt;concrete&lt;/i&gt; art and can only consist in the representation of real and existing things" and was mirrored "in the naturalist literature of Émile Zola, Honoré de Balzac, and Gustave Flaubert" and that the "elevation of the working class into the realms of high art and literature coincided with Pierre Proudhon's socialist philosophies and Karl Marx's &lt;i&gt;Communist Manifesto&lt;/i&gt;, published in 1848, which urged a proletarian uprising".</p>
+          <p type="img" alt="Jean-Baptiste Camille Corot, &lt;i&gt;Forêt de Fountainbleau&lt;/i&gt; (1834). Corot is seen as one of the most important influences on the Impressionists, and he even gave lessons to Camille Pissarro and Berthe Morisot. " show="1">/images20/photo/photo_french_art_16.jpg</p>
+          <p type="p">Corot was a landscape painter that history now treats as an intermediary figure in the development of Realism and the birth of modernism. Although he himself was classically trained, his paintings mark the first moves away from the historical and mythical preoccupations of his peers and predecessors in the Academy. From the late 1820s, he made several excursions to the Fontainebleau Forest where he became friends with painters from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barbizon_school"&gt;The Barbizon School&lt;/span&gt;. Through such association, Corot's painting adopted an increasingly naturalistic, more spontaneous, style that was carried forward by the likes of Millet and Courbet (and, later still, by the Impressionists).</p>
+          <p type="p">Reacting against the idealized historical landscapes that provided the backdrops for mythical and religious narratives. The Barbizon School, named after the village in the north-central region of France near which it was situated, were committed to a more faithful representation of nature and peasant life. These artists baulked at the overindulgences of Romanticism and represented the natural world without artistic embellishment. However, while the Barbizons focused predominantly on the landscape, some works, such as those produced by the deeply religious Millet, were apt to portray peasant labourers as laudable and noble figures. The working-class man and woman would also become established protagonists in Impressionist paintings.</p>
+          <p type="img" alt="Honoré Daumier's &lt;i&gt;Rue Transnonain, April 15, 1834&lt;/i&gt; (1834) attempted to draw attention to a police raid that led to the death of many innocent people in a low-income housing area of Paris." show="1">/images20/photo/photo_french_art_17.jpg</p>
+          <p type="p">A friend Corot's, the Parisian caricaturist, Honoré Daumier, produced finely detailed satirical lithographs that were in many ways the urban companion to Corot. Aimed at exposing the divisions and inequalities within French society, Daumier was a committed socialist, and he, like Millet, made heroes of the working classes and villains of establishment figures. He produced works for several journals, including &lt;i&gt;La Caricature&lt;/i&gt; and &lt;i&gt;Le Charivari&lt;/i&gt;, that lampooned the state and the bourgeois classes (he was even imprisoned).</p>
+          <p type="p">There is little dispute that Gustave Courbet was to emerge as the central figure within the Realist movement. He was ardent in his opposition to all forms of aesthetic embellishment and was committed to representing the everyday without even glorifying the ordinary worker. By removing any sentimentality from art (a charge that could be levelled at Millet) Courbet was pursuing a route to a truer democratic art. In the 1850-51 Salon, he exhibited &lt;i&gt;Burial at Ornans&lt;/i&gt; (1849) and the &lt;i&gt;Stone Breakers&lt;/i&gt; (1849). Monumental in scale, and crude (by Academy standards) in execution, the paintings shocked both the art world, and the public, who were not accustomed to, nor ready for, such blunt representations of peasant life.</p>
+          <p type="p">When Courbet opened his one-man show in a shack in Paris in 1855, "he called it &lt;i&gt;Le Réalisme, G. Courbet&lt;/i&gt;. Commenting on this exhibition, Gombrich wrote, "His 'realism' was to mark a revolution in art. Courbet wanted to be the pupil of no one but nature [...] He wanted not prettiness but truth [...] He wanted his pictures to be a protest against the accepted conventions of his day, to 'shock the bourgeoise' out of his complacency, and to proclaim the value of uncompromising artistic sincerity as against the deft handling of traditional clichés". Courbet's political activism, through which he became involved in the destruction of the Vendôme Column (a memorial to Napoleon's victory at Austerlitz in 1805), saw him jailed for six months during the Paris Commune of 1871. And while the Impressionists would become heirs to the Courbet's Realist legacy, in their hands it would lose its cutting political edge.</p>
+          <p type="a_small" alt="Realism Movement Page">/movement/realism/</p>
+        </subsection>
+        <subsection title="The Daguerreotype">
+          <p type="img" alt="Louis Daguerre, &lt;i&gt;Boulevard du Temple, Paris&lt;/i&gt; (1838). On seeing the first Daguerreotype, the newspaper &lt;i&gt;La Gazette du France&lt;/i&gt; declared that photography would “revolutionize the art of drawing”. The artist Paul Delaroche agreed with the &lt;i&gt;Gazette's&lt;/i&gt; assessment, lamenting, “from this day, painting is dead”." show="1">/images20/photo/photo_french_art_18.jpg</p>
+          <p type="p">Following a short career as a theatrical scenery painter, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daguerre_louis"&gt;Louis Daguerre&lt;/span&gt; moved into the nascent field of photography as a way of improving his profession. This led him ultimately to develop the Daguerreotype camera, the first form of mechanical reproduction to produce a finely detailed and permanent photographic record. The daguerreotype machine, which quickly spread throughout the world, proved to be the catalyst that altered the way we have come to view and represent our surroundings, including the radically altered perception of art, or what art should, or could, become. Daguerre's "technological miracle" recorded the world with much more fidelity than the human eye and hand ever could, and it marked a decisive turning point in the history of art with the artist effectively liberated from any further responsibility for representing the modern world literally.</p>
+          <p type="p">Given the length of exposure times (typically 10 to 15 minutes), and the bulky equipment, daguerreotypes were usually confined to the studio (and still lifes and portraiture). In &lt;i&gt;Boulevard du Temple, Paris&lt;/i&gt;, however, Daguerre captured a scene looking out from the window of his studio. One can see that there is no evidence of traffic on the busy boulevard while the only trace of human life is seen in the lower left of the frame where a shoe-shine boy and his customer have remained immobile long enough to leave the only permanent human mark on the copper plate.</p>
+        </subsection>
+      </section>
+      <section title="French Art 1850-1900">
+        <subsection title="Salon des Refusés">
+          <p type="p">Before 1863, the gold standard in art could only be achieved under the auspices of the Académie Royale de Peinture et de Sculpture (Royal Academy of Painting and Sculpture). Membership of the Academy brought prestige, as did acceptance into the Academy's school, the École des Beaux-Arts. Each year the Academy's exhibition of student work, known as the Salon, could cement the reputation and future career of up-and-coming French artists. Commenting on the Salons' importance, author Benedetta Ricci states, "both artists and students of the Royal Academy - and, later, of the Academy of Fine Arts - used to display their work in the hope of capturing the interest of art critics, dealers, collectors, and possible patrons since the Salon, drawing large crowds and attention from the press, represented the only outlet to obtain exposure, reputation and to ensure a successful artistic career". Many cite the rejection of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-manet_edouard"&gt;Édouard Manet&lt;/span&gt;'s &lt;i&gt;Le Déjeurner sur l'herbe&lt;/i&gt; (1863) by the Salon jury of 1863 as the catalyst that ignited the modernist movement.</p>
+          <p type="img" alt="The Palais de l'Industrie, the venue for the 1863 Salon des Refusés." show="1">/images20/photo/photo_french_art_19.jpg</p>
+          <p type="p">Confused and outraged by Manet's loose brushwork, his energized color palette and a subject matter which placed naked prostitutes in a public park, the jurors roundly denounced the painting. Their rejection merely prompted Manet, with some 400 like-minded artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, to inaugurate an independent Salon. This they titled the Salon des Refusés. According to Ricci, "the 1863 &lt;i&gt;Salon des Refusés&lt;/i&gt; represented the first ground-breaking step for the development of contemporary art [...] Artists acknowledged their own right to engage freely in personal artistic research and to display the results without fear of judgement: freedom of exhibition became synonymous with freedom of artistic expression. Once the Salon's monopoly was broken, young artists began to set up new, independent, and jury-free exhibitions [...] Progressively, qualities of spontaneity and originality overtook the meticulous rigidity of the conservative academic taste, ultimately paving the way for Impressionism and the avant-garde experiences that followed".</p>
+        </subsection>
+        <subsection title="Impressionism">
+          <p type="img" alt="Gustave Caillebotte drew inspiration from the city for his Impressionist painting &lt;i&gt;Paris: A Rainy Day&lt;/i&gt; (1877)." show="1">/images20/photo/photo_french_art_20.jpg</p>
+          <p type="p">Indeed, while the public and critics were slow to warm up to the modernists - Manet himself caused further public outrage in 1865 when he exhibited his masterpiece, &lt;i&gt;Olympia&lt;/i&gt; - the Salon des Refusés effectively announced the dawning of a new era in art history that was soon to see Paris become the undisputed epicentre of world art. With the tight grip of the Academy standard loosened, French art developed in ways that embraced the use of vivid colors and a focus on everyday subjects. Liberated from the confines of the studio, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;En plein air&lt;/span&gt; painting became the norm for the Impressionists.</p>
+          <p type="p">However, paintings such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet's&lt;/span&gt; &lt;i&gt;Impression: Sunrise&lt;/i&gt; (1872) still met with harsh criticism when it debuted. Many felt the work was incomplete, due to the loose unfinished brushwork. In fact, Monet became the &lt;i&gt;de-facto&lt;/i&gt; leader of the Impressionists, even giving the movement its name. Indeed, Monet who was a master of color, light and atmosphere, developed mature pieces, including his famous paintings of his own gardens at Giverny, that became increasingly close to pure abstraction. Leaving behind the formal portraits and grand paintings of the Academy, meanwhile, artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-caillebotte_gustave"&gt;Gustave Caillebotte&lt;/span&gt; focused on Parisian street-life while, Camille Pissarro applied the techniques of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalists&lt;/span&gt; in his depictions of rural peasant life. In sculpture, too, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt;, with works such as &lt;i&gt;The Kiss&lt;/i&gt; (1882), represented the birth of the modern era by rejecting the idealization of the human form in favor of lifelike figures which he rendered through rougher, unfinished surfaces.</p>
+          <p type="img" alt="Berthe Morisot's, &lt;i&gt;The Mother and Sister of the Artist&lt;/i&gt; (1869-70). Morisot was one of the pioneers of the Impressionist movement." show="1">/images20/photo/photo_french_art_21.jpg</p>
+          <p type="p">Female artists also gained a stronger voice in the early modern Parisian art world. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bracquemond_marie"&gt;Marie Bracquemond&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gonzales_eva"&gt;Eva Gonzalès&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt; were French artists who gained recognition for their Impressionist paintings which often featured domestic interior scenes (which were still widely considered more appropriate subject matter for women). Morisot was undoubtedly the most successful of this group and she emerged as one of the leading figures of the movement. Morisot was known for her tenacious character and often pursued the same subject matter as her male counterparts. But she also used her sex to her advantage as she gained free access to many aspects of female life that were closed off to her male counterparts.</p>
+          <p type="a_small" alt="Impressionism Movement Page">/movement/impressionism/</p>
+        </subsection>
+        <subsection title="Post-Impressionism">
+          <p type="p">Post-Impressionism is associated chiefly with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, Paul Gauguin, Georges Seurat, and Vincent van Gogh, and was (as the name suggests) a reaction against Impressionism. Although their styles were quite different, the Post Impressionists collectively rejected the Impressionist's obsession with rendering naturalistic lighting and color effects in favor of an emphasis on structured color patterns and shapes. The Post-Impressionists believed that painting did not need to be a "window on the world" and it represented the first leanings towards abstraction in art.</p>
+          <p type="img" alt="Georges Seurat's painting &lt;i&gt;A Sunday on La Grade Jatte&lt;/i&gt; (1884-86). One of the most iconic works of late nineteenth century French art and perhaps the most important example of the Pointillist painting technique." show="1">/images20/photo/photo_french_art_22.jpg</p>
+          <p type="p">Seurat's painting style is sometimes referred to as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_impressionism"&gt;Neo-Impressionism&lt;/span&gt;. As New York's Museum of Modern Art states, "the Neo-Impressionists renounced the spontaneity of Impressionism in favor of a measured painting technique grounded in science and the study of optics. Neo-Impressionists came to believe that separate touches of pigment result in a greater vibrancy of color than is achieved by the conventional mixing of pigments on the palette". Although Seurat's art still engaged (like the Impressionists) with urban subjects and subject matter, he developed the Pointillist, or Divisionist, painting technique (separating colors into individual dots) in the belief it produced better color effects than by mixing paints on a palette. It was for him and his followers a scientific outlook that was fully in keeping with the modern age in which they were living.</p>
+          <p type="img" alt="Paul Cézanne, &lt;i&gt;The Card Players&lt;/i&gt; (1894-95). Having found one of Cézanne's paintings “hiding in plain sight” in the shop window of “a little color merchant in the rue Clauzel”, The famous Parisian art dealer, Ambroise Vollard, experienced something akin to an epiphany: “It was as if I [had] received a blow to the stomach”, he recalled." show="1">/images20/photo/photo_french_art_23.jpg</p>
+          <p type="p">For his part, Cézanne is widely considered one of the most important artists in the development of modern art and he was especially influential on the Fauves and the Cubists. He exhibited three pieces in 1874 Impressionist exhibition, but it was through a series of still-life paintings from the mid-to-late 1870 that he began his now famous experiments where, instead of recreating effects of light and shadow, he started to build his compositions through gradations in form and color. In the 1880s he produced many volumetric landscape paintings which he constructed using horizontal planes and geometric (spheres, cones, and cylinders) patterns. In 1890, meanwhile, he produced a famous series of five paintings of Provençal peasants playing cards. Not only did these paintings celebrate the lives of the ordinary rural worker, but they also showcased Cézanne's technique of using subtle color gradations to build an illusion of three-dimensionality.</p>
+          <p type="p">Post-Impressionism was also represented by a less studied, more intense, and spontaneous, style. This aspect of the movement is best represented by Vincent Van Gogh and Paul Gauguin. Although the former was a Dutchman, he lived and worked in Montmartre before moving to Arles in the South of France where he set up base with his friend, Gauguin. The two years he spent there (between 1888-90) were the most productive period of his short life. Between them the two men used vibrant non-naturalistic color and dramatic brushwork which was symbolic of their inner emotions and their feelings towards their surroundings. Van Gogh's deteriorating mental wellbeing, and his tragic death (having shot himself in the chest), has become the stuff of folklore; the idea of the tortured artistic genius has imbued van Gogh's work with a psychological resonance that is perhaps unmatched in the history of art. Van Gogh's personality was in fact so unstable that he and Gauguin came to physical blows with Gauguin, having been threatened by van Gogh with a razor, finally moving from France to the colony of Tahiti.</p>
+          <p type="a_small" alt="Post-Impressionism Movement Page">/movement/post-impressionism/</p>
+        </subsection>
+        <subsection title="Synthetism and Cloisonnism">
+          <p type="p">In the late 1880s, and in a self-conscious move away from Impressionism, Paul Gauguin, with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bernard_emile"&gt;Émile Bernard&lt;/span&gt; and Louis Anquetin, evolved a style of painting Gauguin christened "Synthétisme" (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetism"&gt;Synthetism&lt;/span&gt;). Unlike the Impressionist style (that privileged light, effect, and shading) Synthetism was a decorative style that emphasized two-dimensional flat patterns of color and thick outlines and recalled a medieval enamel technique called cloisonné (hence &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cloisonnism"&gt;Cloisonnism&lt;/span&gt;). A dedicated exhibition of Synthétisme was mounted in Pont-Aven in 1889, thereby giving the group the name: Pont-Aven School.</p>
+          <p type="img" alt="&lt;i&gt;Spirit of the Dead Watching (Manao tupapau)&lt;/i&gt; (1892). One of Gauguin's most iconic works, it features his 13-year-old Tahitian wife who was woken when Gauguin illuminated the darkness by striking a match. An old woman, or spectre, is watching over her and Gauguin stated that the title could refer to either the ghost imagining the girl, or the girl imagining the ghost." show="1">/images20/photo/photo_french_art_24.jpg</p>
+          <p type="p">Although he is associated with the Pont-Aven School, and for his friendship with Van Gogh, Gauguin is better known for the works he produced overseas during his stays on the islands of French Polynesia during the 1890s. It was here that he fully absorbed the influence of primitive (non-western) art forms, and his work, including one of his most famous pieces, &lt;i&gt;Spirit of the Dead Watching (Manao tupapau)&lt;/i&gt; (1892), took on more mystical themes. His Tahitian cycle represented his strong religious convictions and his total belief that non-western cultures were closer to the idea that human beings could be at one with the natural and spiritual worlds.</p>
+        </subsection>
+        <subsection title="Les Nabis">
+          <p type="img" alt="Paul Sérusier's &lt;i&gt;Landscape at the Bois d'Amour at Pont-Aven&lt;/i&gt; (aka. &lt;i&gt;Le Talisman&lt;/i&gt;) (1888) was a near-abstract landscape composed of blocks and blotches of non-naturalistic colours." show="1">/images20/photo/photo_french_art_25.jpg</p>
+          <p type="p">A follower of the Pont-Aven School, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-serusier_paul"&gt;Paul Sérusier&lt;/span&gt;, founded the short-lived &lt;span class="marked_text chart-tooltip-target-top tooltip_id-les_nabis"&gt;Nabis Group&lt;/span&gt; (a name derived from the Hebrew word, "&lt;i&gt;navi&lt;/i&gt;", meaning "prophet") in 1888. Strongly influenced by Symbolist painting and the English &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;Pre-Raphaelites&lt;/span&gt;, Sérusier, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vuillard_edouard"&gt;Édouard Vuillard&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bonnard_pierre"&gt;Pierre Bonnard&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-denis_maurice"&gt;Maurice Denis&lt;/span&gt;, emerged as the key players in a movement that engaged in a range of styles and activities (including poster design, stained glass design, theatre sets, and book illustrations). While the Nabis might not have prescribed a particular style, the artists painted their flat surfaces using primary areas of colour and bold outlines to create design patterns that are highly decorative, and even hint at a move towards pure abstraction. Vuillard was known for his interiors; Bonnard was best known for his Japanese ukiyo-e prints and striped and checked patterns, while Denis was recognized for his decorous arabesque designs.</p>
+          <p type="p">According to author Kelly Richman, "Nabi paintings [...] were unified by a shared objective: to evoke emotion rather than replicate real life [and] Nabi artists often employed painterly brushwork and expressive color. Like other artists of the time, they also evoked the look and feel of Japanese woodblock prints in their work, culminating in another key Nabi characteristic: deliberately flat picture planes. By forgoing an accurate sense of perspective, the Nabis were no longer limited to real-life spatial confines". The Nabis held their first exhibition in 1891 and it was on this occasion that Denis's delivered what would become the group's defining dictum: "A picture, before being a war horse, a nude woman, or some anecdote, is essentially a flat surface covered by colours in a certain order".</p>
+          <p type="img" alt="&lt;i&gt;Moulin Rouge: La Goulue&lt;/i&gt; (1891). One of Lautrec's favorite subjects was the dancer Louise Weber, better known as La Goulue (The Glutton), creator of the French can-can dance." show="1">/images20/photo/photo_french_art_26.jpg</p>
+          <p type="p">Toulouse-Lautrec was commissioned to produce a series of posters for the famous Moulin Rouge cabaret to publicize its opening in 1889. The style and content of his posters directly reflected the fashion for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-japonism"&gt;Japonisme&lt;/span&gt; in that they were influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ukiyo_e_japanese_woodblock_prints"&gt;ukiyo-e prints&lt;/span&gt;. Indeed, Lautrec's bold outlines, areas of strong flat color, and slanting angles recalled the woodblock prints of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hokusai_katsushika"&gt;Katsushika Hokusai&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hiroshige_utagawa"&gt;Utagawa Hiroshige&lt;/span&gt;. As for their subject matter, Lautrec, himself an alcoholic, and afflicted by undersized legs (due to a childhood accident and other unspecified ailments) and venereal diseases, mixed freely with Parisian society's outsiders. He frequented, and often found his subject matter in, Paris's drinking dens, brothels, and other less than salubrious leisure establishments.</p>
+          <p type="p">Cora Michael of the Metropolitan Museum of Art summed up his impact on modernism thus: "His career lasted just over a decade and coincided with two major developments in late nineteenth-century Paris: the birth of modern printmaking and the explosion of nightlife culture. Lautrec's posters promoted Montmartre entertainers as celebrities, and elevated the popular medium of the advertising lithographs to the realm of high art. His paintings of dance hall performers and prostitutes are personal and humanistic, revealing the sadness and humor hidden beneath rice powder and gaslights. Though he died tragically young (at age thirty-six) due to complications from alcoholism and syphilis, his influence was long-lasting. It is fair to say that without Lautrec, there would be no &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt;".</p>
+          <p type="a_small" alt="Les Nabis Movement Page">/movement/les-nabis/</p>
+        </subsection>
+        <subsection title="L'Art Nouveau and Beaux-Arts">
+          <p type="img" alt="The entranceway design and signage text of the iconic Porte Dauphine metro station. From exhibition posters to furniture designs, to the entrance to the Paris metro station, the Art Nouveau style became a feature of modern France." show="1">/images20/photo/photo_french_art_27.jpg</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_nouveau"&gt;Art Nouveau&lt;/span&gt; is an ornamental style of art and design, ranging through illustration, interior design, jewelry, poster design and typography, that blossomed across Europe and the US roughly between 1890 and 1910. The Art Nouveau style had different names in different countries, but in Paris it is attributed to a dealer called S. Bing, who named his gallery &lt;i&gt;L'Art Nouveau&lt;/i&gt;. In France, L'Art Nouveau took on the influence the asymmetrical lines favored by the likes of Gauguin and Toulouse-Lautrec and the general vogue for the decorative pattern effects of Japonisme and ukiyo-e printmaking. According to author and historian Fred Kleiner "Proponents of this movement tried to synthesize all the arts in a determined attempt to create art based on natural forms that could be mass-produced for a large audience. The Art Nouveau style adapted the twining-plant form to the needs of architecture, painting, sculpture, and all the decorative arts".</p>
+          <p type="p">As seismic a shift in power as the Salon des Refusés was, one should pause before declaring there had been a full modernist revolution in French art and the art establishment "was no more". In fact, the conservative École des Beaux-Arts in Paris (it had schools in other cities throughout France) was the formal training ground for some of France's most important modern artists, including painters Pierre-Auguste Renoir, Edgar Degas, and the Art Nouveau architect, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guimard_hector"&gt;Hector Guimard&lt;/span&gt;. The school, which, following a ruling from Napoleon III, gained independence from the French state in 1863, also had a profound impact on late nineteenth century French architecture. As author Kristin Hohenadel explains, "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-beaux_arts_architecture"&gt;Beaux-Arts architecture&lt;/span&gt; is a building style named after the École des Beaux-Arts [school]. Grandiose, ornate, and theatrical, Beaux-Arts buildings are based on the symmetry and proportions of Roman and Greek classicism but combined with more flamboyant French and Italian Renaissance and Baroque influences".</p>
+          <p type="img" alt="The Orsay Railway Station and Hotel (1900). Hohenadel states: “Beaux-Arts Classicism became a favorite architectural style for government and institutional buildings such as art museums, train stations, libraries, university campuses, and court houses in Europe and the United States”." show="1">/images20/photo/photo_french_art_28.jpg</p>
+          <p type="p">One of the most magnificent Beaux-Arts buildings was the Orsay Railway Station and Hotel. Designed by Victor Laloux, Lucien Magne and Émile Bénard it was unveiled as part of the 1900 Paris World's Fair. Some might find a certain irony in the fact that the building was converted into the Musée D'Orsay between 1977-86 and is now permanent home to French modern art and design masterpieces from the period 1848 to 1914.</p>
+          <p type="a_small" alt="Art Nouveau Movement Page">/movement/art-nouveau/</p>
+          <p type="a_small" alt="Beaux Arts Architecture Movement Page">/movement/beaux-arts-architecture/</p>
+        </subsection>
+      </section>
+      <section title="French Art 1900-Onward">
+        <subsection title="Fauvism">
+          <p type="img" alt="André Derain's &lt;i&gt;Landscape of Martigues&lt;/i&gt; (1908). Although the movement was short lived, the Fauves played a vital part in the development of early twentieth century modernism. " show="1">/images20/photo/photo_french_art_29.jpg</p>
+          <p type="p">Among the many early modern art movements that had their start as an act of rebellion against established norms, is &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;. As author Tatty Martin describes, "pioneered by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;André Derain&lt;/span&gt;, in its early years Fauvism was predominantly affiliated with French artists. Fauvist art is characterised by its bold colours, textured brushwork and non-naturalistic depictions. In some ways, Fauvist artists emerged as an extension of the Impressionist artists working at the turn of the 19&lt;sup&gt;th&lt;/sup&gt; century. However, unlike the Impressionists, the Fauvists paid particular attention to capturing emotion in their subjects. Often painting portraits, landscapes and nudes, the Fauvists enhanced the colours and tones of the natural world".</p>
+          <p type="p">Critics who first viewed the works applied the word "fauves" ("wild beasts") to describe what they considered to be the primitive color palette of artists such as Matisse and Derain. Although it was intended as an insult, the Fauves fully embraced the name calling and wore the Fauvist badge with pride. The Fauvism movement did not last long, however. According to author George Philip LeBourdais, "Its assault on stylistic conventions soon became a convention of its own. By 1907, the word 'fauves' had entered common usage in the Parisian art scene. Scores of artists branded themselves as aligned with the movement, diluting its once provocative aims".</p>
+          <p type="a_small" alt="Fauvism Movement Page">/movement/fauvism/</p>
+        </subsection>
+        <subsection title="Primitivism">
+          <p type="img" alt="Henri Rousseau's &lt;i&gt;The Snake Charmer&lt;/i&gt; (1907) shows the obvious influence of African culture on his art." show="1">/images20/photo/photo_french_art_30.jpg</p>
+          <p type="p">By the turn of the century, many French art movements would overlap and evolve accordingly. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;Primitivism&lt;/span&gt; was, then, not so much a definitive movement so much as a trend that embraced the influence of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-african_art"&gt;African&lt;/span&gt; and Oceanic cultures. One may apply it, therefore, to the likes of Gauguin and/or the Fauves and, later, the Cubists. In contemporary discussions on art, the term is rather loaded and for many carries derogatory imperial connotations. Nevertheless, it is a style that is exemplified by a &lt;i&gt;true&lt;/i&gt; outsider, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rousseau_henri"&gt;Henri Rousseau&lt;/span&gt;, an artist who in fact never left France and whose paintings were roundly dismissed by critics as "childlike".</p>
+          <p type="p">The self-taught Rousseau, who didn't start painting seriously until his early 40s, is associated with Primitivism, or Naïve painting (as it is sometimes termed). Although he attracted a certain critical derision, he secured a unique place in the development of French modernism. Washington's National Gallery of Art says, "Rousseau was best known for his bold pictures of the jungle, teeming with flora and fauna". His most famous paintings were shaped "by visits to the botanical gardens, the zoo, and colonial expositions as well as images of distant lands seen in books and magazines [...] Rousseau's work found enthusiastic acceptance outside the establishment: he was championed by a younger generation of avant-garde artists and writers, including Alfred Jarry, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, who admired the liberties he took, seeing in them new possibilities for the future".</p>
+          <p type="a_small" alt="Primitivism in Art Movement Page">/movement/primitivism/</p>
+        </subsection>
+        <subsection title="Cubism">
+          <p type="img" alt="Georges Braque's &lt;i&gt;Still Life with Glass and Newspaper&lt;/i&gt; (1913) is an early Synthetic Cubist work." show="1">/images20/photo/photo_french_art_31.jpg</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; was probably the most influential art movement of the early 20&lt;sup&gt;th&lt;/sup&gt; century. It was conceived of by two men, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, a Spaniard, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt;, a Frenchman. There were two styles of Cubism identified by the famous Parisian art dealer, and promoter of Braque and Picasso's work, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kahnweiler_daniel_henry"&gt;Daniel-Henry Kahnweiler&lt;/span&gt;, in his hugely influential book, &lt;i&gt;Der Weg zum Kubismus&lt;/i&gt; (&lt;i&gt;The Rise of Cubism&lt;/i&gt;), first published in 1920. In it, Kahnweiler distinguished between &lt;span class="marked_text chart-tooltip-target-top tooltip_id-analytic_cubism"&gt;Analytic Cubism&lt;/span&gt;, which ran from 1910-12, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-synthetic_cubism"&gt;Synthetic Cubism&lt;/span&gt;, which ran from 1912-14.</p>
+          <p type="p">Taking inspiration from the faceted landscapes of the Post-Impressionist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, and the African sculptures they discovered in Paris's ethnographic museums, Braque and Picasso retreated to the studio where, roughly between 1908-10, they honed the style that was Analytic Cubism. It defines a style that fractured the subject into multi-layered, angular, surfaces that brought still lifes and portraiture close to the point of total abstraction. Through experiments in collage, using newspaper print and printed patterns, Braque and Picasso then moved away from the multi-perspective (Analytic) approach in favor of "flattened out" images that all-but dispensed with their earlier allusions to three-dimensional space. Synthetic Cubism embraced a broader palette, simpler geometric planes, and more representable subject matter too and brought together - or "synthesized" - a variety of mixed media through its signature &lt;i&gt;papier collé&lt;/i&gt; collage technique. Synthetic Cubism is thought to have peaked by 1914 when World War One took many French artists (including Braque) away from their studios to fight at the front.</p>
+          <p type="p">There was, however, another set of Cubist artists who became known as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-salon_cubism"&gt;Salon Cubists&lt;/span&gt; (as opposed to Braque and Picasso, who were known as the "Gallery Cubists" because of their exclusive connections with Kahnweiler's gallery) who assumed the moniker following their first exhibition at the 1911 Salon des Indépendants. This group included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gris_juan"&gt;Juan Gris&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Jean Metzinger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert Delaunay&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gleizes_albert"&gt;Albert Gleizes&lt;/span&gt;. Still in the analytic phase, Braque and Picasso produced small scale "brown and gray" works that all but dispensed with the "decoration" of color or any notion of a single picture perspective. It is easy to relegate these larger scaled, multi-coloured, works to a "second tier" of the Cubist movement, but it was in fact the Salon Cubist who opened up Cubism's appeal by making it accessible to the wider public.</p>
+          <p type="a_small" alt="Cubism Movement Page">/movement/cubism/</p>
+        </subsection>
+        <subsection title="Orphism">
+          <p type="img" alt="&lt;i&gt;Electric Prisms&lt;/i&gt; (1914), Sonia Delaunay's painting was exhibited at the 1914 Salon des Independants. It was an abstract work that represented the geometric influences of Cubism, the vivid coloring of Fauvism and a sense of movement that was likened to a musical piece. She later applied Orphist principles to the field of interior design." show="0">/images20/photo/photo_french_art_32.jpg</p>
+          <p type="p">Closely aligned to Salon Cubism, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-orphism"&gt;Orphism&lt;/span&gt;, a term coined in 1912 by the poet and art critic, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt;, is associated chiefly with married couple &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_robert"&gt;Robert&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delaunay_sonia"&gt;Sonia Delaunay&lt;/span&gt;. With a primary focus on light and color, it sought to invite associations with other art forms, most notably music. (Indeed, Apollinaire had derived the name Orphism from Orpheus, the poet and singer from ancient Greek mythology.) Unlike the Cubism of Braque and Picasso, those working in the Orphist idiom saw color as a vital element of painting and wanted to integrate it with the geometric designs of Cubism.</p>
+          <p type="p">Robert Delaunay (who preferred the term Simultanism to Orphism) was influenced by chemist, Michel-Eugène Chevreul's book, &lt;i&gt;De la loi du contraste simultané des couleurs&lt;/i&gt; (&lt;i&gt;The Principles of Harmony and Contrast of Colours and Their Applications to the Arts&lt;/i&gt;) (1839), and by the Pointillist paintings of Seurat. Unlike Seurat, however, Orphism explored the vitality of color to more abstract effect. Orphist works were first exhibited with the Salon Cubists at the Salon des Independants in 1913 but it was the following year that it emerged as a movement on its own terms. Other artists associated with the Orphist style have included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-metzinger_jean"&gt;Metzinger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Léger&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;. Orphism also overlapped with a tendency known as Crystal Cubism that, led by Metzinger and Gleizes, was a more condensed Cubist style.</p>
+          <p type="a_small" alt="Orphism Movement Page">/movement/orphism/</p>
+        </subsection>
+        <subsection title="Purism">
+          <p type="img" alt="Charles-Edouard Jeanneret, &lt;i&gt;Nature morte&lt;/i&gt; (&lt;i&gt;Still Life&lt;/i&gt;) (1921). Historians Jean-Louis Cohen and Tim Benton state: the Purists “insisted that it “came 'after Cubism', in that it relied on certain breakthroughs of this earlier movement, but it also departed from the chaos and brokenness that it [Cubism] represented”." show="1">/images20/photo/photo_french_art_33.jpg</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-purism"&gt;Purism&lt;/span&gt; was a post-war movement associated chiefly with the Swiss-French architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-le_corbusier"&gt;Charles-Edouard Jeanneret&lt;/span&gt; (known later as Le Corbusier), and the French painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ozenfant_amedee"&gt;Amédée Ozenfant&lt;/span&gt; that ran between 1918-25. Historians Jean-Louis Cohen and Tim Benton write, "Ozenfant had an art and fashion magazine, called L'Elan, in which he had coined the term Purism, to describe a clean, ordered style of art. The word appealed to Jeanneret, and together - in both articles and artworks - the pair developed it into a movement". Jeanneret and Ozenfant formally announced the movement in a manifesto, &lt;i&gt;Aprés le Cubisme&lt;/i&gt; (&lt;i&gt;After Cubism&lt;/i&gt;), published in 1918.</p>
+          <p type="p">The Purist position was that most art practice was bound up with "bourgeois" notions of beauty and that a truly progressive art movement must insist upon a simplification and standardization of form. It was a policy designed to appeal to future generations who were interested in mass production and a return to classical order in art, architecture, and design. With a strong focus on still lifes, the Purists painters, which also included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leger_fernand"&gt;Fernand Léger&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lipchitz_jacques"&gt;Jacques Lipchitz&lt;/span&gt;, sought to imbue everyday objects with a timeless quality; in the words of Cohen and Benton, to "reduce them to aesthetically pleasing, shapes and forms that emphasized the simple beauty of the modern world".</p>
+          <p type="img" alt="Le Corbusier, &lt;i&gt;Villa Savoye&lt;/i&gt; (1931). A simplified structure it embodied his “five points” of architecture featuring a home that is elevated above the ground to maximize space, has an open floor plan and a functioning roof for a terrace all of which helped to bring to life his philosophies of what a modernist house should be." show="1">/images20/photo/photo_french_art_34.jpg</p>
+          <p type="p">The Purist principles were suited to architecture and city planning with, Jeanneret declaring that a modern home should be a fully functional "machine for living in" and advocating that the mass production of homes would amount to "an efficient and comfortable means of solving the post-war housing problem". Jeanneret (Le Corbusier) and Ozenfant went their separate ways following the former's &lt;i&gt;Pavillon de l'Esprit Nouveau&lt;/i&gt; (&lt;i&gt;Pavilion of the New Spirit&lt;/i&gt;), built in 1925 for the International Exposition of Decorative and Industrial Arts in Paris. However, Le Corbusier (as he was now known) would emerge as the key figure in the influential style of architecture known throughout the developed world as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-international_style"&gt;International Style&lt;/span&gt;. Most of the architects associated with the International Style came from the German Bauhaus School (the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breuer_marcel"&gt;Marcel Breuer&lt;/span&gt;, Ernst May, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mies_van_der_rohe_ludwig"&gt;Mies van der Rohe&lt;/span&gt;). But Le Corbusier designed what is for many the defining example of the International Style with his &lt;i&gt;Villa Savoye&lt;/i&gt; (1931), his home in the suburbs of Paris (and now owned by the State).</p>
+          <p type="a_small" alt="Purism Movement Page">/movement/purism/</p>
+        </subsection>
+        <subsection title="Dada">
+          <p type="p">Incongruous, irrational, and absurd, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; movement was a reaction against World War One and the values of bourgeois art and society in general. Dada took on many forms - painting, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-collage"&gt;collage&lt;/span&gt;, sculpture, poetry, performance art - with movements emerging in France, Germany, and the US. Probably the most iconic of all Dadaist works was not produced in France, but by a Frenchman who was at that time living and working in the US.</p>
+          <p type="p">&lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt; (who never formally aligned himself with any one movement) submitted his Dadaist sculpture, &lt;i&gt;Fountain&lt;/i&gt;, to the Society of Independent Artists in New York in 1917. His "&lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt;", which the Society promptly rejected as "immoral", was an upturned urinal which Duchamp signed "R. Mutt" ("R" for Richard, which was "moneybags" in French slang, and "Mutt" after "Mott", the company that manufactured the urinal). The furore following its rejection merely cemented Duchamp's reputation as a true iconoclast. The Met Museum says of Duchamp: "His use of irony, puns, alliteration, and paradox layered [his] works with humor [and] his greatest contribution to the history of art [lay] in his ability to question, admonish, critique, and playfully ridicule existing norms in order to transcend the status quo".</p>
+          <p type="p">Bonded by their shared experiences of World War One, meanwhile, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-aragon_louis"&gt;Louis Aragon&lt;/span&gt;, and Phillipe Soupault returned to Paris where they formally confirmed their affiliation with Dada by launching the magazine &lt;i&gt;Littérature&lt;/i&gt; which published between March 1919 and August 1921. (It was relaunched by Breton the following year under the title &lt;i&gt;Littérature: New Series&lt;/i&gt; before ceasing permanently in June 1924.) During its existence, the Paris Dada school would attract luminaries including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eluard_paul"&gt;Paul Eluard&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tzara_tristan"&gt;Tristan Tzara&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Jean Arp&lt;/span&gt;. However, by 1923 the Paris Dada group was so riven with infighting it would collapse into the Surrealist movement, now thought to be the last of the great French modernist movements.</p>
+          <p type="a_small" alt="Dada Movement Page">/movement/dada/</p>
+        </subsection>
+        <subsection title="Surrealism">
+          <p type="img" alt="André Breton, author of the first surrealist manifesto, published in December 1924, photographed by Man Ray (c. 1930)." show="0">/images20/photo/photo_french_art_35.jpg</p>
+          <p type="p">Like Dada, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; was an anti-establishment movement drawn to the irrational and spontaneous aspect of art, and, like Dada, it lent its name to works encompassing painting, poetry, theatre/performance, filmmaking, and photography. However, it travelled a tighter philosophical path than its predecessor encompassing both psychoanalysis and Marxism. Breton published the first Surrealist Manifesto in 1924, but the term "Surrealist" is first attributed to the Italian/French poet and art critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-apollinaire_guillaume"&gt;Guillaume Apollinaire&lt;/span&gt; who used it in a 1917 production of his play &lt;i&gt;Les Mamelles de Tirésias&lt;/i&gt; (&lt;i&gt;The Breasts of Tirésias&lt;/i&gt;) where it carried the subtitle &lt;i&gt;Drame surréaliste&lt;/i&gt; which was bannered as a brand-new style of drama. Apollinaire wrote "We may expect it [Surrealism] to bring about profound changes in our arts and manners through universal joyfulness, for it is only natural, after all, that they keep pace with scientific and industrial progress".</p>
+          <p type="p">In his manifesto, Breton defined Surrealism as "psychic automatism in its pure state, by which one proposes to express - verbally, by means of the written word, or in any other manner - the actual functioning of thought". In other words, Surrealism was an artform that would eschew logic or reason in favor of techniques such as automatism. Surrealism was an attempt to plumb the unconscious mind, which was seen as, following the writings of Sigmund Freud, the repository of inner truth and could be reached only through dreams (the "royal road" to the unconscious as Freud famously called them).</p>
+          <p type="p">Breton, Éluard, Valentine Hugo and Nusch Éluard, pioneered the Surrealist experiment of the "Exquisite Corpse". Though dismissed by some critics as a childish parlour game (in which each participant "blindly" completes a section of a piecemeal image), it became a defining feature of Surrealist art and was defended by Breton as a way to "escape self-criticism and fully release the minds of metaphorical activity". Historian Edward Lucie-Smith wrote, "Surrealism represents perhaps the most international phase in the whole history of French painting [and] deeply influenced the whole outlook of the [Parisian] avant-garde". Indeed, the Parisian Surrealists were a multi-national group who included two Spaniards, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bunuel_luis"&gt;Luis Buñuel&lt;/span&gt;, and the German, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ernst_max"&gt;Max Ernst&lt;/span&gt;.</p>
+          <p type="a_small" alt="Surrealism Movement Page">/movement/surrealism/</p>
+        </subsection>
+        <subsection title="Interwar Classicism">
+          <p type="img" alt="In the wake of the horrors of World War One, French artists such as Aristide Maillol returned to making sculptures such as &lt;i&gt;L'Air&lt;/i&gt; (1939) which were influenced by works of classical antiquity." show="1">/images20/photo/photo_french_art_36.jpg</p>
+          <p type="p">Following the full realization of the horrors of World War One, many French artists joined others across Europe by turning away from the "self-indulgences" of the avant-garde by supporting a return to timeless principles of Greek and Roman classicism styles and motifs (this was not an unprecedented feature in French art, as the Baroque and Neoclassical periods bear witness). The &lt;i&gt;rappel a l'ordre&lt;/i&gt; (return to order), or &lt;span class="marked_text chart-tooltip-target-top tooltip_id-interwar_classicism"&gt;Interwar Classicism&lt;/span&gt;, saw the modernists' fixation on novelty and progress as inappropriate in an age that had just witnessed the extermination of an estimated 20 million people. As the Guggenheim Museum explains, "in response to the horrors initiated by the new machine-age warfare, artists sought to recuperate and represent the body, whole and intact. For the next decade and a half, classicism - a return to order, synthesis, organization, and enduring values, rather than the pre-war emphasis on innovation at all costs - dominated the discourse of contemporary art".</p>
+          <p type="p">Interwar Classicism is in fact an umbrella term that appealed across left and right-wing political allegiances. In France artists such as Léger combined classicism and modernity, while others, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-maillol_aristide"&gt;Aristide Maillol&lt;/span&gt; who represented the more conservative end of the scale, promoted more natural and classical representations of figures in their sculptures. Maillol had in fact been working in this style since the turn of the century which perhaps explains why some historians cite 1900 as the true beginnings of the sculptural element of the movement. Maillol's women did not represent the modern idea of the &lt;i&gt;garçonne&lt;/i&gt; (new woman), but rather the Greco-Roman ideal of the young and pure.</p>
+          <p type="a_small" alt="Interwar Classicism Movement Page">/movement/interwar-classicism/</p>
+        </subsection>
+        <subsection title="Street Photography">
+          <p type="img" alt="Eugène Atget, &lt;i&gt;Porte, 97 Rue du Bac, Hôtel de Ségur&lt;/i&gt; (1903)" show="1">/images20/photo/photo_french_art_37.jpg</p>
+          <p type="p">Although it truly came into its own in Paris in the 1930s, the seeds of Street Photography can in fact be traced back to the turn of the century when Eugène Atget took to the city streets and alleyways with the aim of preserving something of the forgotten and unremarkable aspects of the French capital that were being lost to sweeping re-modernization projects. Atget's sparse photographs were admired by many important artists working in Paris during the first decades of the twentieth century including Matisse, Picasso and Man Ray.</p>
+          <p type="p">Street Photography is, however, associated initially with Paris, and figures such as Henri Cartier-Bresson, Brassaï and André Kertész who came to the fore in the 1930s. While there are areas of overlap with documentary and architectural photography, Street Photography got its name for the way it is associated with the photographer's skill in capturing something of the fleeting and ephemeral quality - the "decisive moment" as Cartier-Bresson called it - of modern city living. The Street Photographer is then often likened to the figure, associated hitherto with the poetry of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt;, of the &lt;i&gt;flâneur&lt;/i&gt;: namely someone who mingles anonymously amongst the crowd observing and recording the ways the unsuspecting city dweller interacts with their environment.</p>
+          <p type="a_small" alt="Street Photography Movement Page">/movement/street-photography/</p>
+        </subsection>
+        <subsection title="Art Informel">
+          <p type="p">By the end of World War Two, the center of the international art world had shifted from Paris to New York. But French artists still made significant contributions to the field of mid-to-late twentieth century art. According to Lucie-Smith, French art was already moving "towards its own less vigorous version of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, a style which was to be christened &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_informel"&gt;Art Informel&lt;/span&gt;, or 'art without form'. By the mid 1950s this evolution was complete, and artists such as Pierre Soulages and Georges Mathieu [...] were highly fashionable". The term Art Informel was in fact coined by the French art critic Michel Tapié, who suggested it was not a movement at all but "something much rarer" that involved an international collection of "authentic Individuals" who were united in their calls for peace and goodwill. While Soulages worked with a predominately dark color palette to create large canvases, with thick swatches of color, Mathieu created a distinctly French style of abstraction known as Lyrical Abstraction with its emphasis on color and the speed in which the paint is applied to the canvas.</p>
+          <p type="a_small" alt="Art Informel Movement Page">/movement/art-informel/</p>
+        </subsection>
+        <subsection title="Art Brut">
+          <p type="p">The idea that forms of creative expression exist "outside" the pantheons of art history began with psychiatric research undertaken at the beginning of the twentieth century. These domains started to overlap when Dr. Hans Prinzhorn published artworks by patients and his book &lt;i&gt;Bildernerei der Geisteskranken&lt;/i&gt; (&lt;i&gt;Artistry of the Mentally Ill&lt;/i&gt;), published in 1922. It became an influential work amongst the Surrealists and later provided the impetus for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-breton_andre"&gt;André Breton&lt;/span&gt; who formed the &lt;i&gt;Compagnie de l'Art Brut&lt;/i&gt; in 1948. Their aim was to collect and present &lt;i&gt;truly individual&lt;/i&gt; art; that is art created by "artists" who were untrained and who had no formal knowledge of art history.</p>
+          <p type="p">It was Dubuffet who created the concept of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut&lt;/span&gt; (raw - or "uncooked" and "uninhibited" - art), amassing a collection of thousands of works drawn from numerous sources that bore no relation to developments in contemporary art and yet still possessed a power all their own. The term "Outsider Art" followed in 1972 when Roger Cardinal used it as the title of a book that was intended to act a precise English translation of Dubuffet's term (although it encompassed Art Brut and a related category he called, Neuve Invention).</p>
+          <p type="a_small" alt="Art Brut and Outsider Art Movement Page">/movement/art-brut-and-outsider-art/</p>
+        </subsection>
+        <subsection title="Nouveau Réalisme">
+          <p type="img" alt="Raymond Hains, &lt;i&gt;Travailleurs Communistes&lt;/i&gt; (c. 1960). Hains was a prominent French artist and one of the founder members of the Nouveau Réalisme movement. This diverse group of artists shared in a commitment to the idea that art should “return to reality” which could include the recycling of print advertising." show="1">/images20/photo/photo_french_art_38.jpg</p>
+          <p type="p">Nouveau Réalisme (New Realism) was an artform that emerged as part of new progressive French culture that tallied with the rise of Nouveau Roman (New Fiction) in literature, and La Nouvelle Vague (New Wave) in cinema. It emerged in Paris in the late 1950s and '60s as a way of connecting with urban life which the group achieved through the use of everyday objects as diverse as household trash, print advertisements and common household utilities; or what founder Pierre Restany called a "poetic recycling of urban, industrial and advertising reality". This readymade quality saw the movement likened to the Dadaists and American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;. Its first "Manifesto of New Realism" was followed by a second, "40° above Dada" (&lt;i&gt;40° au-dessus de Dada&lt;/i&gt;), in 1961.</p>
+          <p type="p">Restany was the first to use the term "Nouveau Realistes" in a catalogue essay for a group exhibition at the Apollinaire Gallery in Milan in 1960. Nouveau Réalisme included artists Restany, Yves Klein, Raymond Hains, Pierre Restany, Omiros, Arman, François Dufrêne, Jean Tinguely and Jacques Villeglé, and although their styles varied considerably, the group collectively rejected the idea that art should politicize or venerate a given subject and their shared goal was to dissolve hierarchies between media forms. For its most well-known exponent, Klein, this was achieved by working primarily with a blue color palette and making performative elements as important as the finished works themselves. In fact, Klein, who began to distance himself from the movement in 1961 (the year before his premature death) on grounds of its Dadaist leanings, objected to the term "new realism", preferring the expression "réalisme d'aujourd'hui" ("today's realism").</p>
+          <p type="a_small" alt="Nouveau Réalisme Movement Page">/movement/nouveau-realisme/</p>
+        </subsection>
+        <subsection title="French Contemporary Art">
+          <p type="p">French art in the new millennium saw artists create works that explored numerous trends in a single piece, such as identity, gender, unusual materials, performance, text, conceptualism, etc. Artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bourgeois_louise"&gt;Louise Bourgeois&lt;/span&gt;, with her sculptures, and the photography of Bettina Rheims, make works that focus on issues of femininity and gender both on a personal and a more general level; whereas other artists such as Pierre Huyghe uses both his large-scale installations and video pieces to make statements about the world in which he lives and the place of human beings in that world.</p>
+          <p type="img" alt="Xavier Veilhan's &lt;i&gt;Homme au telephone (Calling Man)&lt;/i&gt; (2006) is an example of contemporary French art's interpretations of the human form." show="1">/images20/photo/photo_french_art_39.jpg</p>
+          <p type="p">The classic theme of the figure in sculptural form has been contemporized in recent developments in French art too. From Rodin's more humanized and reflective male figures, and Gaston Lachaise's reimagining of the modern female form, French sculptors since the nineteenth century have been helping to define what modern sculpture should look like. It is a tradition which continues into contemporary times as evidenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_saint_phalle_niki"&gt;Niki de Saint Phalle&lt;/span&gt; and Xavier Veilhan's figures, which are both oversized in scale and more conceptual than their early modernist counterparts. There is also a rebellious spirt of artmaking among French contemporary artists that echoes the risk taking of the early modernists. Graffiti artists such as Jef Aérosol, Blek le Rat, and JR, have elevated their &lt;span class="marked_text chart-tooltip-target-top tooltip_id-street_art"&gt;Street Art&lt;/span&gt; into the mainstream contemporary art world often using their pieces to make both grand social and political statements about the world in which they inhabit.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks/>
+  <chart>
+    <top/>
+    <bottom/>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Hours of Jeanne d'Evreux</title>
+      <artist>Jean Pucelle</artist>
+      <year>1325-28</year>
+      <materials>Grisaille, tempera, and ink on vellum</materials>
+      <desc>
+				Book arts was a popular feature of French Gothic art. Illuminated manuscripts and small books of prayers, such as the books of hours, were created with meticulously detailed depictions of religious scenes. These were usually commissioned by wealthy individuals for private devotion, but other Gothic manuscripts were larger in size (able to accommodate the four books of the gospel) and were produced primarily for convents, monasteries, and churches. While many of the artisans who created the illustrations remain unknown, some began to gain recognition for their work including Jean Fouquet, Master Honoré, and Jean Pucelle. 
+				&lt;br/&gt;&lt;br/&gt;
+				Perhaps the finest examples of a medieval book of hours, Pucelle's &lt;i&gt;Hours of Jeanne d'Evreux&lt;/i&gt;, was a private devotional book made for the queen of France. It contains prayers to be said on a given hour of the day. This illuminated manuscript, which measures less than four inches in height, consists of 209 pages of text and images, with twenty-five pages devoted solely to illustrations. According to the Metropolitan Museum of Art, Pucelle's detailed artworks include "images from the Infancy and the Passion of Christ and scenes of the life of Saint Louis, the queen's ancestor. In the margins, close to 700 illustrations depict the bishops, beggars, street dancers, maidens, and musicians that peopled the streets of medieval Paris, as well as apes, rabbits, dogs, and creatures of sheer fantasy".
+				&lt;br/&gt;&lt;br/&gt;
+				Pucelle who was the leading illuminated manuscript artists of the Middle Ages and a member of the group of artists who became known as the School of Paris. While the monied classes were the only group able to commission such books, the fact that this was made for the queen accounts for the book's particularly fine detail and ornamentation. Of special interest is Pucelle's depiction of the life and death of Christ on facing pages. On this set of pages, for instance, the left page shows a scene of Christ's betrayal by Judas, while on the right, Mary is being visited by an angel who tells her she will carry the Christ child. In this way the purpose of Christ's birth is visually linked always to his sacrificial death as a way of forgiving man's sins; a visual assertion of the fundamental tenet of Christianity.
+			</desc>
+      <collection>Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Notre Dame de Paris</title>
+      <artist/>
+      <year>1163-1345</year>
+      <materials/>
+      <desc>
+				The &lt;i&gt;Notre Dame de Paris&lt;/i&gt; ("Our Lady of Paris"), one of the most recognizable cathedrals in the world (and the cathedral of the Catholic archdiocese of Paris, which houses the official chair -"cathedra" - of the Archbishop of Paris), and one of the French capital's most recognizable and visited landmarks, is an exemplar of French Gothic architecture. The towering cathedral had thinner and higher walls than the Romanesque buildings that preceded it, but these proved highly susceptible to stress fractures. Notre Dame is thought to be one of the first buildings in the world to incorporate flying buttresses (arched exterior supports) as a means of surmounting this problem. The long period of construction did, however, mean that the building, with its vast displays of artworks, sculpture, and stained glass, introduced emerging ("post-Gothic") styles such as naturalism. 
+				&lt;br/&gt;&lt;br/&gt;
+				The "first" art historian, the Italian Giorgio Vasari, dismissed Notre Dame as a "barbaric" insult to the austere Romanesque style of architecture that preceded it. It was not a view shared (some 400 years later) by the famous historian E H Gombrich, however. He wrote "the walls of these buildings were not cold or foreboding [as they were in the Romanesque style]. They were formed of stained glass that shone like rubies and emeralds. The pillars, ribs and tracery were glistening with gold. Everything that was heavy, earthy or humdrum was eliminated. The faithful who surrendered themselves to the contemplation of all this beauty could feel that they had come nearer to understanding the mysteries of a realm beyond the reach of matter". He concluded that the magnificent façade of Notre Dame "is so lucid and effortless in the arrangement of its porches and windows, so lithe and graceful the tracery of the gallery, that we forget the weight of this pile of stone and the whole structure seems to rise up before us like a mirage".
+			</desc>
+      <collection>Paris, France</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of François I as St John the Baptist</title>
+      <artist>Jean Clouet</artist>
+      <year>1518</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Clouet was one of the most important French Renaissance masters and a court painter to King François I. Clouet painted several generic portraits of the King, but this is one of the most interesting because of his decision to align the King with such a key biblical figure (John the Baptist preached the imminence of God's Final Judgment and is revered in Christianity as Christ's predecessor). The King is not then dressed in his usual royal finery, but rather in a plain shepherd's robe. Intended to mimic the part of John, the King holds a lamb and a simple wooden cross while a bird (almost obscured in the dark background of the painting) observes the King from its perch. 
+				&lt;br/&gt;&lt;br/&gt;
+				King François was a progressive monarch who managed to persuade Leonardo da Vinci to come to France to work freely in his court. An important example of the French Renaissance style, here Clouet has been influenced by da Vinci's portrait of the saint in his version of the painting. In da Vinci's version, however, John points upward as if to heaven whereas here Clouet has the King point downwards to the lamb's head making reference perhaps to Christ's role as the "lamb of God". The inclusion of objects and the colorful robe nevertheless contributes a hint of regal elegance to the work which was in keeping with French Renaissance portraiture. There is more to this portrait in that it makes a statement about power that can be interpreted in fact as propagandist. Art as a vehicle for propaganda was by now well established (dating to the art of Ancient Egypt). Here the suggestion is clear in that the King's connection to God validates his given "right to rule".
+			</desc>
+      <collection>Louvre Museum, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Abduction of the Sabine Women</title>
+      <artist>Nicolas Poussin</artist>
+      <year>1634-35</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Nicolas Poussin's finely detailed painting is a visual recreation of the mythological story detailing the abduction, and eventual rape, of the Sabine women who had attended a wedding at the invitation of the neighbouring Romans. Poussin has captured the start of the abduction which was launched by Romulus who is shown here giving the signal to attack by the lifting of his red cloak.
+				&lt;br/&gt;&lt;br/&gt;
+				The women in this painting contort their bodies as they try to escape the Romans who simultaneously use swords to fight off the Sabine men who are attempting to stop the kidnapping. 
+				&lt;br/&gt;&lt;br/&gt;
+				The elevated drama of the scene helped popularize the Baroque style within French painting. However, the mythological subject matter - the Roman style of dress of the figures and architectural background in which the setting is placed - confirm Poussin as the master of the French Classical tradition (and saw him hailed in some quarters of the Académie Royale de Peinture et de Sculpture as the "French Raphael"). According to author Valentin Grivet, "in contrast to Mannerism and Baroque currents, Poussin represented an orderly style which he imitated the perfection of ancient ideals [while his] figures, frozen in their movements seem to have sprung from theatre scenes". Poussin's classical influence (he spent large parts of his career in Rome) would then moderate the theatrical leanings of the Baroque through a distinctly French style that became known as Baroque Classicism. 
+			</desc>
+      <collection>Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Palace of Versailles (Hall of Mirrors)</title>
+      <artist/>
+      <year>1623-1715</year>
+      <materials/>
+      <desc>
+				The Palace of Versailles is an ostentatious former royal residence in the south-west suburb of Paris. The town of Versailles itself was no more than a village settlement before it became a seat of royal power. By the time of the French Revolution of 1789 (during which, surprisingly perhaps, the Palace avoided any serious damage) Versailles had grown to a population to more than 60,000, which made it one of the most densely populated urban areas in France. 
+				&lt;br/&gt;&lt;br/&gt;
+				Louis XIII was initially attracted to the area because of its hunting potential. He bought up land and built a chateau which he used as a base for hunting trips at the beginning of the century. The chateau was however not much more than a hunting lodge and it was his heir, Louis XIV, the "Sun King" as he was affectionately known, who transformed Versailles into the seat of France's government. He ruled for 72 years and during that time added to Louis XIII's chateau by building a palace containing north and south wings, and buildings designed to house ministries. 
+				&lt;br/&gt;&lt;br/&gt;
+				The art historian Tea Gudek Snajdar writes: "The most important message Louis XIV sent through the architecture of Versailles was his ultimate power [...] He is an absolute monarch, untouchable and distant. But, even more than that, he is the Sun King. That symbolism of the Sun King is very visible in the architecture of the Versailles. The painter Lebrun, who designed the iconographic program of the Palace, focused paintings, sculptures and the architecture to one goal only - celebrating the King". The Palace is also famous for its Baroque gardens that contained many sculptures, pressurized water fountains (of which the King was especially proud) and even a grand canal that "ran about a mile long, was used for naval demonstrations and had gondolas, donated by the Republic of Venice, steered by gondoliers".
+				&lt;br/&gt;&lt;br/&gt;
+				Versailles is often cited as the apex of an overlap between the French Baroque and Rococo era. But as Snajdar writes, "It's very different from, for example, Italian baroque architecture, which served as an inspiration for other European countries during that time". She adds that a French palace that mimicked Italian baroque architecture "would have gone against [the King's] sense of absolutism" and the belief that "he is at the center of everything". She adds that "it was vital to him to enhance France's status in Europe, not just by military feats but in the arts as well. For instance, when the Hall of Mirrors was built, mirrors were usually imported from Italy at a great cost. Louis XIV wanted to show that France could produce mirrors just as fine as those produced in Italy, and consequently, all the mirrors of that hall were made on French soil".
+			</desc>
+      <collection>Versailles, France</collection>
+    </artwork>
+    <artwork>
+      <title>The Swing</title>
+      <artist>Jean-Honoré Fragonard</artist>
+      <year>1767-68</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A beautifully dressed woman in a gathered pink gown and hat is depicted seated on a swing in a wooded, flower-filled garden. The man behind her pulls the swing with two ropes seemingly oblivious to the fact that a second man lays in the bushes with a clear view of the girl's legs and bare left foot which is left exposed as her pink slipper is propelled through the air. The dog behind the swing, and the statues in the park, also seem to be watching the scene. On the far left, a cupid looking down at the woman with a finger to his lips connotes a gesture of secrecy, while two embracing baby angels look on the scene with fascination (and perhaps some embarrassment).
+				&lt;br/&gt;&lt;br/&gt;
+				This work provides an important example of the French Rococo art movement which featured scenes of frivolity and leisure of the country's upper class. There was a certain scandalous element to this work with its depiction of forbidden dalliances and questionable conduct among the subjects which were often at the heart of Rococo paintings. For people of high societal rank (indicated here by their clothing) it would have been inappropriate for a man to look at a woman in such a way in public. The ability to create light, colorful works which are counter to the playfully sensual subject matter depicted was something at which Fragonard excelled. Even the extended title of this piece, &lt;i&gt;The Happy Accidents of the Swing&lt;/i&gt;, nods to the subject matter asking the viewer to question whether any of this is an accident or if in fact the woman and the man in the bushes have orchestrated the entire event (a story that is more likely given that the painting was created for Baron de Saint-Julien who commissioned a work that would feature his mistress being pushed by a duped bishop so he himself could be pictured observing her body).
+			</desc>
+      <collection>Wallace Collection, London</collection>
+    </artwork>
+    <artwork>
+      <title>The Death of Marat</title>
+      <artist>Jacques-Louis David</artist>
+      <year>1793</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				David's painting features one of the leaders of the French Revolution Jean-Paul Marat, his head wrapped in a turban, lying dead in his bathtub. His right arm and head are positioned leaning out over the tub while on the floor by his arm is the knife used to kill him. The means to his demise is held in his hands; a letter used by his killer to enter his home. In front of the tub in the right foreground is a writing desk on which rests pages of his work.
+				&lt;br/&gt;&lt;br/&gt;
+				Perhaps more than any other painting in David's oeuvre, this work shows his ability to capture the spirit and heart of the French people as they struggled to assert their rights through revolution. This feat is made more impressive in that it does not depict a battle scene. Rather, David gives us a single figure who has died for his cause, martyred for his country in a pose, not unlike Christ's lifeless body as he hangs crucified on the cross. This biblical reference anchors the work firmly within the Neoclassicism tradition.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian, Dr. Jeanne S. M. Willette, writes: "Dating from 1760 to 1800, the Neoclassical period begins with an air of expectancy, as though an era is awaiting a Messiah. The co-author of the &lt;i&gt;Encyclopédie, Dictionnaire Raisonné des Sciences, des Arts et des Métiers&lt;/i&gt;, Denis Diderot yearned for the artist who could correct the excesses of the Baroque and the decadence of the Rococo, but he did not live to enjoy the work of the artist, who would inflict upon these old styles the &lt;i&gt;coup de grâce&lt;/i&gt;, Jacques-Louis David. Neoclassicism is more than a simple shift in artistic style or in audience taste, the style became a vehicle for conformity or rebellion, for the erotic of the political, depending on the artist in question. The fact that this ancient style proved to be so flexible and contradictory is explained by its placement in time - in the midst of vast economic and social changes, with intimations of a 'return' to the foundations of European culture so that a new society could be built upon the old values. Neoclassicism was ideally suited to a new 'grand' style that could supersede the Baroque and re-inject a new seriousness into history painting".
+			</desc>
+      <collection>Musées Royaux des Beaux-Arts, Brussels</collection>
+    </artwork>
+    <artwork>
+      <title>A Flood Scene</title>
+      <artist>Anne Louis Girodet</artist>
+      <year>1806</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				There was a period of transition between Neoclassicism and Romanticism that can be seen in the paintings of a former pupil of David, Anne Louis Girodet. He moved away from classical antiquity in favor of works that were of a more dramatic and emotionally charged nature. Girodet won the prestigious &lt;i&gt;Prix de Rome&lt;/i&gt; award that saw him embark on a five-year sojourn around Italy. He returned to Paris in 1795 when he confirmed his reputation with two key works, &lt;i&gt;Portrait of Madame Lange as Danaë&lt;/i&gt; (1799), and &lt;i&gt;A Flood Scene&lt;/i&gt; (1806). The former was in fact an act of revenge (Girodet had a reputation as a fiery figure) on Madame Lange, a famous actress. His original portrait was not to her liking, leading her to withhold her fee, followed by a demand the portrait be removed from public display. An enraged Girodet painted a second, satirical, portrait based on the Greek legend of Danae (one of the mortals loved by Zeus). The painting is rich in symbolism with Danae/Lange's cracked mirror connoting her inability to see herself for the true woman (as Girodet saw her) that she was: vain, adulterous, and avaricious.
+				&lt;br/&gt;&lt;br/&gt;
+				Having already gained acclaim (and notoriety) for his Danae/Lange portrait, Girodet continued his search for individualism by painting what was perhaps his most important work. &lt;i&gt;A Flood Scene&lt;/i&gt; was not (as it might at first appear) a biblical narrative but was rather a scene conjured from his own vivid imagination. The painting is monumental in scale (441 by 341 cm) and its high drama and disturbing imagery caused a sensation at the 1806 Salon. Girodet's dramatic subject matter, unusual coloring, and his highly emotional treatment of his material went against the reason and order of the Enlightenment artists and saw him aligned to the burgeoning Romantic movement.
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Liberty Leading the People</title>
+      <artist>Eugène Delacroix</artist>
+      <year>1830</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Delacroix's most famous painting features individuals of various ages charging across a battlefield strewn with dead bodies. In the center, a bare-breasted female figure, bearing a rifle in her left hand, raises her right arm proudly displaying the French national flag. To her right are two men; one in a white shirt raising a long knife while running; the other, a formally dressed man with black jacket, tie, and top hat holding a rifle. To the woman's left is a young boy brandishing two pistols, while in the far distance, obscured by the smoke and the devastation of battle, is the outline of city buildings.
+				&lt;br/&gt;&lt;br/&gt;
+				Here the subject is a short-lived revolt against the French monarchy. Rich in symbolism, the unity of classes is shown in the bourgeois fighting next to the proletariat under the colors of Liberty's national flag. Embodying the Romanticism spirit of which Delacroix was the leader, this painting is full of dramatic movement and beautifully captures the patriotic spirit of the event without distracting from the reality of the situation. According to critic Jonathan Jones, "Delacroix has painted the hysterical freedom and joy of the revolution. His painting survives as revolution's most charismatic visual icon. And yet it is not naïve. Death is part of the glamour, and there is sickness at the very centre of progress. Romanticism is not an optimistic art. If Delacroix's painting understands the seduction of revolution better than any other, it also acknowledges the violence that is inseparable from that belief in total change and the rule of the crowd".
+				&lt;br/&gt;&lt;br/&gt;
+				The great poet Charles Baudelaire was one of Delacroix's most vocal supporters, describing him as "decidedly the most original painter of all times, ancient and modern". Baudelaire was taken by the social commentary in Delacroix's work, but he was especially impressed by Delacroix's handling of color which in Baudelaire's view illustrated the "correspondences" between the poet and the painter. While the poet was challenged in their ability to describe colors, the painter was equally curtailed in their ability to capture non-visual emotions and sounds. Baudelaire's appreciation of Delacroix was based on the idea that he was a supreme colorist who could use his palette to capture and convey unspoken sensations.
+			</desc>
+      <collection>Louvre, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Romans during the Decadence</title>
+      <artist>Thomas Couture</artist>
+      <year>1847</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The subject of Thomas Couture's large-scale History Painting is the moments following a Roman orgy with a group of men and women depicted in various stages of undress. It demonstrates that academic painting in the mid 19&lt;sup&gt;th&lt;/sup&gt; century could also address itself to divisive political themes, albeit in a less overt way than Romantic painters such as Théodore Géricault or Eugène Delacroix. 
+				&lt;br/&gt;&lt;br/&gt;
+				That the figures are from the past can be seen in the Roman statues and architecture that form the backdrop. Couture, an established Academy history painter, depicts a scene &lt;i&gt;after&lt;/i&gt; the orgy has taken place, leaving the viewer to imagine what has happened before. According to author Michael Fried, "Couture's painting is deliberately not a representation of violent or ecstatic activity. The few incidents of that kind that there are take place only at the fringes of the main group, whose members by and large are shown either in repose or performing the simplest of actions, e.g., holding a goblet, pouring wine, standing up. This suggests that Couture's choice of moment (in the broadest sense) was partly motivated by the desire to constrain action and expression within strict limits, and by so doing to minimize the obviousness of their inevitable theatricalization". 
+				&lt;br/&gt;&lt;br/&gt;
+				While this painting may be set in Ancient Rome, it was meant as a blunt metaphor for the extravagances and vulgarity (as Couture saw it) that was at the heart of the French government. As the Harvard Art Museums describes, "a trope of Roman literature was to lament the decay of moral standards, comparing the noble past with the debauched present, often using the excesses of banqueting to illustrate the point. Inspired by the first-to-second-century CE satirist Juvenal, Couture contrasted the orgy in the foreground with the dignified sculptures in the background as an allegory for the degeneration of his own time". A further example of art making as "political statement", Couture's painting was implicitly endorsed by the French establishment when it was exhibited in the annual Academy salon.
+			</desc>
+      <collection>Musée d'Orsay</collection>
+    </artwork>
+    <artwork>
+      <title>A Burial at Ornans</title>
+      <artist>Gustave Courbet</artist>
+      <year>1849-50</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Gustave Courbet's painting features a scene from the funeral of his great-uncle in the town of Ornans. It is the realistic way in which all the figures were depicted in the French countryside that is perhaps most striking about the work and, according to author Magda Michalska, "because Courbet painted them all as they really were in life, without any idealisation or masking their features to make them anonymous - anyone from Ornans would recognize them, or even find themselves on the canvas. We can see Courbet's mother and three sisters (Juliette covers her mouth, Zoé's face is entirely covered by cloth, and Zélie is on the far right)".
+				&lt;br/&gt;&lt;br/&gt;
+				The master of what became known as the French Realist movement, this painting was shocking when it debuted. According to Michalska, "the critics hammered the work for several reasons. Firstly, for its size [...] which should have heralded it as a history painting. Which according to the canon should present a solemn historical or religious theme, as only such genre scenes deserved such a grand scale. Courbet instead presented normal people at a funeral, many of which were of a lower class, which outraged the high-class critics and Salon-goers even more, as they couldn't stand the characters' ugliness and ordinariness. Secondly, the painting was initially interpreted as anticlerical, because even the clergy were depicted as ugly. Yet later, this interpretation was overturned - in the end, Christ on the cross towers over the entire scene, giving us solace and hope for salvation. Thirdly, viewers didn't like Courbet's technique, the thickly layered paint and the dark tones dominated the scene. Somebody said that Courbet painted pictures like somebody blacking their boots". 
+				&lt;br/&gt;&lt;br/&gt;
+				Courbet said of his art: "I hope always to earn my living by my art without having ever deviated by even a hair's breadth from my principles, without having lied to my conscience for a single moment, without painting even as much as can be covered by a hand only to please anyone or to sell more easily".
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Le Déjeurner sur l'herbe</title>
+      <artist>Édouard Manet</artist>
+      <year>1863</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Édouard Manet's painting &lt;i&gt;Le Déjeurner sur l'herbe&lt;/i&gt; features two bourgeois Parisian men seated in the middle of a wooded park. An overturned basket full of fruit, cheese, and bread, implies that a picnic has taken place while the woman who sits next to the two men, naked with her clothes in a pile behind her, indicates a sexual liaison. Another woman, clothed in nothing but an undergarment, washes in the stream located a few yards behind the men. The style in which Manet rendered this painting was not initially popular. The broad, thickly applied, brushstrokes and the focus on light and the outdoor setting lacked the strict formality of the French Academic landscapes which had been popular for decades. Still, it would inspire the first great modern art movement in France; Impressionism and thus ranks as one of the most important works in the history of French art.
+				&lt;br/&gt;&lt;br/&gt;
+				When Manet submitted this painting as his entry for the Paris Salon of 1863, it was rejected due to its outrageous vulgarity. Undeterred, Manet displayed it in the now infamous Salon des Refusés with other rejected works by artists who would soon become the first generation of France's great modern painters. The direct way that the naked woman stares out at the viewers without the slightest hint of shame is what jurors found so objectionable. While prostitution was legal in France at the time, this painting shone a light on the "oldest profession" in a way that many were not yet ready to acknowledge. Manet was a close friend of the great French poet Charles Baudelaire. Indeed, it was through Baudelaire's encouragement that Manet - a kindred spirit who was reviled for his infamous collection &lt;i&gt;Les Fleurs du Mal&lt;/i&gt; just as much as Manet was reviled for his paintings - fulfilled the poet's vision of the true painter of modern Parisian life.
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Impression, Sunrise</title>
+      <artist>Claude Monet</artist>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				While small in circumference, it is the vibrant orange sun rising in the sky that dominates Monet's painting. The orange reflection of the sun's rays is seen in the gray water of the port of Le Havre. On the water float a collection of small boats, the closest of which is a rowboat carrying two figures in the center foreground. It is often argued that this work introduced modern art to the sceptical French public when it was displayed at Paris exhibition of Impressionist works in April 1874. As author Elena Martinique describes, "painted with loose brush strokes, it is meant to only suggest the scene rather than to mimetically represent it. The colors are very restrained, and the paint is applied in thin washes. Layering gray in different tones, the artist provided depth despite imprecise details [...] Monet titled the piece just before the exhibition, referring to its hazy painting style". 
+				&lt;br/&gt;&lt;br/&gt;
+				The critics picked up on the painting's title and tried to insult Monet by ridiculing the idea that his new style of applying paint to the canvas was merely leaving an "impression" of an object (rather than a realistic depiction). This slight backfired, however, and according to Martinique, "while they intended to mock the new movement, these critics actually helped propel Impressionism" and Monet emerged as the new movement's &lt;i&gt;de-facto&lt;/i&gt; leader.
+			</desc>
+      <collection>Musée Marmottan Monet, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Kiss</title>
+      <artist>Auguste Rodin</artist>
+      <year>c.1882</year>
+      <materials>Marble</materials>
+      <desc>
+				Auguste Rodin's masterpiece features a man and a woman locked in a passionate embrace. As described by the Musée Rodin, this sculpture, "originally represented Paolo and Francesca, two characters borrowed [...] from Dante's &lt;i&gt;Divine Comedy&lt;/i&gt;: slain by Francesca's husband who surprised them as they exchanged their first kiss, the two lovers were condemned to wander eternally through Hell". The sculpture was originally intended to feature on the lower left door on Rodin's monumental bronze sculpture &lt;i&gt;The Gates of Hell&lt;/i&gt; (1899) but, as Musée Rodin confirms, "Rodin decided that this depiction of happiness and sensuality was incongruous with the theme of his vast project. He therefore transformed the group into an independent work and exhibited it in 1887. The fluid, smooth modelling, the very dynamic composition and the charming theme made this group an instant success. Since no anecdotal detail identified the lovers, the public called it &lt;i&gt;The Kiss&lt;/i&gt;, an abstract title that expressed its universal character very well". 
+				&lt;br/&gt;&lt;br/&gt;
+				Rodin's sculpture helped to deliver French sculpture into the modern realm. Prior to Rodin there had been a strict formality to French sculpture often depicting Christian religious figures or portrait busts of royalty and important French citizens. As author Silka P states, "Taking away the hard outline of traditional production, Rodin approached sculpture in a realistic style. Taking a leap from an idealized human form of the past, Rodin stripped away many narrative references to the classical myth that were still attached to the academic sculpture of the late 19&lt;sup&gt;th&lt;/sup&gt;-century. Instead of focusing on the representation of gods or muses, Rodin opted for the celebration of the lifelike figures distinctly reflecting the newly shaped attitudes of love, thought, and physicality. Producing rougher, more unfinished surfaces, Rodin mirrored the constant motion of the modern times".
+			</desc>
+      <collection>Musée Rodin, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Woman with a Hat</title>
+      <artist>Henri Matisse</artist>
+      <year>1905</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A formally dressed woman, the artist's wife Amelie, dominates Henri Matisse's canvas. Seated in a chair, she looks out at the viewer over her right shoulder with an absent expression on her face. Her dress and her large hat are brightly colored as is the abstracted background against which she is placed.
+				&lt;br/&gt;&lt;br/&gt;
+				This work launched the Fauvist movement. According to author Margaux Stockwell, "&lt;i&gt;Woman with a Hat&lt;/i&gt; marks a moment of stylistic transition in Matisse's oeuvre, from a more classical controlled style towards his characteristic expressive style. &lt;i&gt;Woman with a Ha&lt;/i&gt;t was first exhibited at the 1905 Salon d'Automne in Paris, an exhibition that was surrounded by controversy as Matisse and his contemporaries' avant-garde style was met with much criticism. The collective works of Matisse and the other exhibiting artists were labelled by critics 'Les Fauves', meaning the wild beasts, due to the seemingly untamed, unruly colors that filled the canvases". Like the Impressionists' showing at the Salon des Refusés some 40 years earlier, Matisse and his group refused to be put off by the criticism and turned the critics' insult into a spur that saw the group continue to paint in their unique style under the Fauvist banner. 
+			</desc>
+      <collection>San Francisco Museum of Modern Art, San Francisco</collection>
+    </artwork>
+    <artwork>
+      <title>Compotier et verre (fruit dish and glass)</title>
+      <artist>Georges Braque</artist>
+      <year>1912</year>
+      <materials>Charcoal and cut-and-pasted printed wallpaper with gouache on white laid paper; subsequently mounted on paperboard</materials>
+      <desc>
+				As the earliest Cubist &lt;i&gt;papier collé&lt;/i&gt; (a collage formed of pasted papers), Braque's work marked a decisive break in the move from the overtly complex (and serious) Analytic Cubism towards what became known as Synthetic Cubism (reflecting a technique that "synthesised" different materials). Braque later told the story of how he was strolling through the streets of the nearby city of Avignon when he spotted rolls of &lt;i&gt;faux bois&lt;/i&gt; (fake wood-grain) wallpaper on display in the window of a hardware store. Braque began experimenting by pasting the &lt;i&gt;faux bois&lt;/i&gt; into a series of charcoal drawings with lettering. 
+				&lt;br/&gt;&lt;br/&gt;
+				On the one hand, &lt;i&gt;Compotier et verre&lt;/i&gt; might be considered a Cubist rebus (a puzzle containing pictures and letters). "Hidden" within its horizontal and curvilinear forms, we can clearly make out the drawer of a table (represented through the circular doorknob) and some grapes, while the lettering relates explicitly to a bar serving alcohol. But by bringing scraps from the material world into the artificial world of the drawing, Braque asks the viewer to consider the texture and material of the work just as much as the image's content. There is a clear separation between the shapeless color and the drawing in the work with the former becoming a thing in its own right. Braque commented later that "Colour came into its own with papiers collés [...] with these works we [he and Picasso] succeeded in dissociating colour from form, in putting it on a footing independent of form, for that was the crux of the matter". 
+			</desc>
+      <collection>Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Fountain</title>
+      <artist>Marcel Duchamp</artist>
+      <year>1917 (replica, 1964)</year>
+      <materials>Porcelain</materials>
+      <desc>
+				Duchamp's &lt;i&gt;Fountain&lt;/i&gt; consists of a urinal, which he provocatively signed "R. Mutt" along with the year 1917. Considered to be the most important of his "readymade" sculptures, the work caused controversy when it debuted. According to author Jon Mann, "Duchamp, wanting to submit an artwork to the 'unjuried' Society of Independent Artists' salon in New York - which claimed that they would accept any work of art, so long as the artist paid the application fee - presented an upside-down urinal [...] The Society's board, faced with what must have seemed like a practical joke from an anonymous artist, rejected &lt;i&gt;Fountain&lt;/i&gt; on the grounds that it was not a true work of art. Duchamp, who was a member of that board himself, resigned in protest". 
+				&lt;br/&gt;&lt;br/&gt;
+				Notwithstanding the initial controversy, the effect of the sculpture was profound on the development of modern art and provides further evidence of France's impact on modern art with these works helping to launch the Dada art movement. According to author Silka P, "art's story could not be told if [...] Marcel Duchamp is not mentioned. As a revolutionary figure, Duchamp is considered as one of the most influential artists. His focus on the idea or a concept above the choice of the material resulted in the original idea of the sculpture as an assemblage object. His famous readymades best illustrate this view which Duchamp shared with the rest of his avant-garde contemporaries. Sculpture no longer needed to be made with the use of traditional modeling and the move from tradition resulted in the birth of abstract sculpture". Duchamp defended his readymades by saying "I was interested in ideas, not merely in visual products". In this respect, Duchamp had pre-empted the rise of Conceptual Art, Minimalism, and Pop Art.
+			</desc>
+      <collection>Tate Modern, London</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of Louis Aragon</title>
+      <artist>André Masson</artist>
+      <year>1923</year>
+      <materials>materials</materials>
+      <desc>
+				The poet and novelist Louis Aragon (and a national war hero) was, with André Breton and Phillipe Soupault, a founder of the Surrealist movement. Masson's discombobulated portrait stretches Aragon's image across the picture plane. The sketch is highly gestural, but Masson has given us a point of detail in the center where some of the "airborne" lines appear to congregate. The head of Aragon, meanwhile, is constructed with loose marks as if it is about to disappear in a "puff of smoke". We can spot ambiguous forms - a foot, a button perhaps - which then fall out of focus and disintegrate into lines that send the viewers' gaze off in all directions. The name "Louis Aragon" is written into the drawing and this, coupled with the use of black ink on plain white paper, is evocative of the practice of writing, which alludes to Aragon's career as well as the mutability of Surrealism: from poetry and prose to the pictorial arts.
+				&lt;br/&gt;&lt;br/&gt;
+				The two men struck up a close friendship in the early twenties and collaborated many times artistically. Indeed, Masson was the dedicatee on Aragon's most famous Surrealist book &lt;i&gt;Paysan de Paris&lt;/i&gt; (1926) and provided erotic illustrations for &lt;i&gt;Le Con d'Irène&lt;/i&gt; (1928), Aragon's salacious novella (published under the pseudonym Albert de Routisie). Later, in 1977, Aragon wrote Masson a &lt;i&gt;cantata&lt;/i&gt; (choral composition) which was accompanied by earlier drawings by the artist along with the caption: "In homage to André Masson and to mark here precisely what he was, what he is for me, throughout our lives: the great mental forest of our dreams". 
+			</desc>
+      <collection>Pompidou Centre, Paris</collection>
+    <use_big_image>false</use_big_image></artwork>
+    <artwork>
+      <title>Place de l'Europe</title>
+      <artist>Henri Cartier-Bresson</artist>
+      <year>1932</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This iconic image depicts a man skipping over a flooded area in the Place de L'Europe, just outside the Saint Lazare train station. The photograph illustrates Cartier-Besson's concept of the "decisive moment"- described by him as that "one moment at which the elements in motion are in balance" - in the way his camera freezes the exact moment the prancing man touches heels with his reflected image. Cartier-Bresson was inspired by the Surrealists, and we see that influence in the preoccupation with the idea of the uncanny doppelgänger (revealed in the man's reflection). The mystery of the man's flight is only strengthened by the "floating" ladder from which he appears to have sprung while the shadowy onlooker in the middle-distance merely completes the image's element of incongruity. 
+				&lt;br/&gt;&lt;br/&gt;
+				Beneath the chimney in the upper left of the frame, meanwhile, a circus poster shows a female dancer in a pose that copies that of the main subject. The superior lens quality of the Leica 35mm camera would lend the image a potential for fine picture detail such as this to emerge. It is also of some significance - for the idea of Street Photography as an art form in its own right - that Cartier-Bresson's figurative juxtaposition is set against a hazy background of Saint Lazare. These buildings had been painted previously by the likes of Monet and Manet which suggests that the famous photographer wanted to invite associations, not just with the Surrealists, but with the great pioneers of French modernism.
+			</desc>
+      <collection>Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Painting, 23 May 1953</title>
+      <artist>Pierre Soulages</artist>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				According to the Tate Museum, Pierre Soulages, "had [first] started using heavy brushstrokes of black paint against a light background in 1947. His style became more energetic and gestural throughout the 1950s. Soulages has said that for him abstraction is a way to explore his imagination and inner experience. 'I work, guided by inner impulse, a longing for certain forms, colours and materials,' he explained in 1950. '[It] is not until they are on the canvas that they tell me what I want'".
+				&lt;br/&gt;&lt;br/&gt;
+				Soulages was a leader of Art Informel, and his was one of many overlapping approaches to abstraction in France in the mid-20&lt;sup&gt;th&lt;/sup&gt; century. As the Guggenheim Museum describes, "though his rejection of bright color in favor of black set him in opposition to the major trends in French abstract painting of the time, Soulages was nevertheless a prominent exemplar of the Jeune École de Paris (Young School of Paris), an umbrella term for the gestural or post-Cubist abstraction produced by artists like [...] Soulages. Though superficially similar to the work of Abstract Expressionist artists such as [the American] Franz Kline, Soulages's paintings are very different in execution: in contrast to the gestural approach of his American counterparts, Soulages deliberately constructed his compositions to create a formal balance".
+			</desc>
+      <collection>Tate Museum, London</collection>
+    <use_big_image>false</use_big_image></artwork>
+    <artwork>
+      <title>Anthropometries of the Blue Period</title>
+      <artist>Yves Klein</artist>
+      <year>1962</year>
+      <materials>Oil on paper</materials>
+      <desc>
+				Yves Klein emerged during the 1950s as the leading member of Nouveau Réalisme movement. He was a forerunner of Minimalist art, making his name for a series of monochrome paintings - blue and gold especially. He even registered his own pigment, "International Klein Blue" (IKB), with the &lt;i&gt;Institut National de la Propriété Industrielle&lt;/i&gt; (IKB is not in fact patented, as is widely believed). With his monochrome paintings, Klein wanted to create works that were purely atmospheric, yet despite their uniformity of color, he experimented freely with methods of applying paint, including applying it to different surfaces using items such as rollers and sponges. But Klein was equally well known as a pioneer in Performance art. 
+ 				&lt;br/&gt;&lt;br/&gt;
+				For his controversial &lt;i&gt;Anthropometries&lt;/i&gt; performances, Klein covered the walls and floor of his "stage" in white. His audience (and the artist himself) wore formal evening attire and the performance was accompanied by an ensemble who performed his self-penned &lt;i&gt;Monotone Symphony&lt;/i&gt; (written in 1949), which was in fact a single note played for twenty minutes with pauses of twenty minutes of silence. But the true controversy arose through Klein's use of naked female models as "human paintbrushes" to apply the IKB paint ("In this way, I stayed clean. I no longer dirtied myself with color, not even the tips of my fingers", he stated, rather provocatively). Under Klein's direction, the models pressed their paint-covered bodies on the surfaces (some rolling or pulled across the floor) and on completion of the performance, Klein was left with a finished IKB artwork. 
+				&lt;br/&gt;&lt;br/&gt;
+				The works did, not surprisingly, raise the ire of some feminists (such as art critic Julia Steinmetz) who took exception to Klein's blatant exploitation of his models. However, one of Klein's models/participants, Elena Palumbo-Mosca, argued that Klein was her friend and that the &lt;i&gt;Anthropometries&lt;/i&gt; performances were in fact collaborative: "This work is very beautiful", she said, "I like it very much. I know that it is the fruit of an extraordinary intellectual process on the part of Yves, and I contributed as best I could". The &lt;i&gt;Anthropometries&lt;/i&gt; performances effectively overlapped painting and performance. In this aspect it fitted with the Neo-Dada idea that sought to fuse different mediums. However, Klein distanced himself from Nouveau Réalisme movement because of its associations with the Dadaists. Indeed, Klein called his work "réalisme d'aujourd'hui" ("today's realism").
+			</desc>
+      <collection/>
+    <use_big_image>false</use_big_image></artwork>
+    <artwork>
+      <title>Maman</title>
+      <artist>Louis Bourgeois</artist>
+      <year>1999, cast 2001</year>
+      <materials>Bronze, stainless steel, marble</materials>
+      <desc>
+				Louise Bourgeois is as one of the most important French artists of the second half of the twentieth century. Her oeuvre, which overlaps different genres and materials, is driven primarily by her personal life experiences; all her art, she said, was "the re-experience of a trauma" and her only "guarantee of sanity". Exploring themes such as fear, anger and loneliness, Bourgeois has switched between many mediums, including painting, printmaking, drawing and Performance art, and worked across abstraction and figuration. She fell in and out of fashion until she was given a retrospective at New York's Museum of Modern Art in 1983. Galvanized by the success of that exhibition, Bourgeois went on to produce her most iconic works, including disturbing room-size &lt;i&gt;Cells&lt;/i&gt; and her colossal &lt;i&gt;Spider&lt;/i&gt; sculptures, for which she is perhaps best-known today. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Maman&lt;/i&gt; (&lt;i&gt;Mummy&lt;/i&gt;) is a 30-foot tall; 33-foot wide, bronze, stainless steel and marble sculpture depicting a spider. With its long spindly legs, &lt;i&gt;Maman&lt;/i&gt; includes a sac containing 32 marble eggs. It is one of the largest sculptures in the world and, as with most of the works in her oeuvre, it addresses issues relating to Bourgeois's complicated childhood relationship with her parents (including her father's flagrant infidelity). &lt;i&gt;Maman&lt;/i&gt;, as the title tells us, is a clear nod towards the artist's own mother who here is represented as the fearsome spider who protects her beloved eggs/children in an abdomen and thorax made of impenetrable ribbed bronze. &lt;i&gt;Maman's&lt;/i&gt; intimidating height and scale connote the creature's power and potency, yet Bourgeois raises her up on such slender legs she expresses a palpable feeling of vulnerability too. As author Silka P summed up, "Bourgeois's personal visual language referenced mythological and archetypal imagery [and by featuring] objects such as spiders, spirals, cages, and medical tools, her work symbolizes the feminine psyche. For this French sculptor, art making was a therapeutic or cathartic process".
+			</desc>
+      <collection>Guggenheim Museum Bilbao, Bilbao, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>After ALife Ahead</title>
+      <artist>Pierre Huyghe</artist>
+      <year>2017</year>
+      <materials>Installation</materials>
+      <desc>
+				Pierre Huyghe came to prominence in the 1990s when he became known for his "postproduction" technique which involved the recycling of images from mass media (for his 1999 video film, &lt;i&gt;The Third Memory&lt;/i&gt;, for instance, he restaged the true-life bank robbery featured in the 1975 movie &lt;i&gt;Dog Day Afternoon&lt;/i&gt;). He addressed themes of leisure and adventure through his films, performances, and public events, but more recently he has grabbed the attention of the art world for his ambitious installations. These typically involve living insects, plants, animals, and even human beings. He describes these works as "laboratories" where he and his audience can critically explore the ways in which human beings interact with their natural world, and through that process, create what he has calls "new realities". 
+				&lt;br/&gt;&lt;br/&gt;
+				For &lt;i&gt;After Alife Ahead&lt;/i&gt;, Huyghe took over a large former ice-skating rink. As author Emily McDermott explains, Huyghe placed "[cancer cells], bees, peacocks, and algae inside the excavated hangar-like structure, transforming into a living organism and animating it via an augmented reality app". She describes how the ice rink's "concrete floor is broken apart, with steps and a dirt ramp descending into the muddy, dugout ground" while sections of the ceiling cyclically open and close to expose the installation to the natural elements (light, wind, rain). The installation also features an aquarium and "many smaller, yet equally significant components at play within the space". 
+				&lt;br/&gt;&lt;br/&gt;
+				Here, as in other installations, Huyghe is contemplating the place of human beings in the larger natural world. McDermott writes that for Huyghe, "the project's complexity isn't intended to confuse viewers but instead to make them question where its processes (and thereby wider processes within our lives) begin and end". In conversation with curator Hans Ulrich Obrist, Huyghe said of his installations: "I don't want to exhibit something to someone, but rather the reverse: to exhibit someone to something". He added that "When what is made is not necessarily due to the artist as the only operator [and] that instead it's an ensemble of intelligences, of entities biotic or abiotic, beyond human reach [it is] at that moment perhaps the ritual of the exhibition can self-present".
+			</desc>
+      <collection>Skulpture Projekte, Münster, Germany</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website features"/>
+    <category name="current exhibitions"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""/>
+      <subcategory name="biography" class="biography"/>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>The Story of Art</title>
+          <link>0714832472</link>
+          <info>By E H Gombrich</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Concise History of French Painting</title>
+          <link>0500181160</link>
+          <info>By Edward Lucie-Smith</info>
+        </entry>
+        <entry recommended="true">
+          <title>Contemporary Art in France</title>
+          <link>2080305247</link>
+          <info>By Catherine Millet</info>
+        </entry>
+        <entry>
+          <title>David</title>
+          <link>0714838047</link>
+          <info>By Simon Lee</info>
+        </entry>
+        <entry>
+          <title>Delacroix</title>
+          <link>0714839833</link>
+          <info>By Simon Lee</info>
+        </entry>
+        <entry recommended="true">
+          <title>French Painting: 1100-1830</title>
+          <link>3741924318</link>
+          <info>By Valentin Grivet</info>
+        </entry>
+        <entry>
+          <title>Gardner's Art through the Ages: 15&lt;sup&gt;th&lt;/sup&gt; Edition: The Western Perspective, Volume 1</title>
+          <link>1305633946</link>
+          <info>By Fred S. Kleiner</info>
+        </entry>
+        <entry>
+          <title>Gardner's Art through the Ages: 15&lt;sup&gt;th&lt;/sup&gt; Edition: The Western Perspective, Volume 2</title>
+          <link>1305645057</link>
+          <info>By Fred S. Kleiner</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"/>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Anthropometry of the Blue Period - Yves Klein - 1960</title>
+          <link>https://snippetofhistory.wordpress.com/portfolio/anthropometry-of-the-blue-period-yves-klein-1960/</link>
+          <info>
+						Snippet of History
+					</info>
+        </entry>
+        <entry>
+          <title>Louise Bourgeois</title>
+          <link>https://www.hauserwirth.com/artists/2777-louise-bourgeois/</link>
+          <info>
+						Hauser and Wirth
+						&lt;br&gt;
+						January 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Marcel Duchamp</title>
+          <link>https://www.metmuseum.org/toah/hd/duch/hd_duch.htm</link>
+          <info>
+						The Met Museum
+					</info>
+        </entry>
+        <entry>
+          <title>A Movement in a Moment: Purism</title>
+          <link>https://www.phaidon.com/agenda/art/articles/2019/january/29/a-movement-in-a-moment-purism/</link>
+          <info>
+						By Jean-Louis Cohen and Tim Benton
+						&lt;br&gt;
+						Phaidon 
+						&lt;br&gt;
+						January 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Henri Rousseau: Jungles in Paris</title>
+          <link>https://www.nga.gov/features/slideshows/henri-rousseau.html</link>
+          <info>
+						Washington's National Gallery of Art
+					</info>
+        </entry>
+        <entry>
+          <title>Palace of Versailles</title>
+          <link>https://www.livescience.com/38903-palace-of-versailles-facts-history.html</link>
+          <info>
+						By Owen Jarus
+						&lt;br&gt;
+						Live Science 
+						&lt;br&gt;
+						October 5, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Henri de Toulouse-Lautrec (1864-1901)</title>
+          <link>https://www.metmuseum.org/toah/hd/laut/hd_laut.htm</link>
+          <info>
+						By Cora Michael
+						&lt;br&gt;
+						The Met 
+						&lt;br&gt;
+						May 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Nineteenth Century French Realism</title>
+          <link>https://www.metmuseum.org/toah/hd/rlsm/hd_rlsm.htm</link>
+          <info>
+						By Ross Finocchio
+						&lt;br&gt;
+						Department of European Paintings, The Metropolitan Museum of Art 
+						&lt;br&gt;
+						October 2004
+					</info>
+        </entry>
+        <entry>
+          <title>Jean-Auguste-Dominique Ingres</title>
+          <link>https://www.nationalgallery.org.uk/artists/jean-auguste-dominique-ingres</link>
+          <info>
+						The National Gallery (London)
+					</info>
+        </entry>
+        <entry>
+          <title>French Neo-classicism</title>
+          <link>https://arthistoryunstuffed.com/french-neoclassicism/</link>
+          <info>
+						By Dr. Jeanne S. M. Willette
+						&lt;br&gt;
+						Art History Unstuffed 
+						&lt;br&gt;
+						November 20, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>The Chauvet Cave</title>
+          <link>https://www.metmuseum.org/toah/hd/chav/hd_chav.htm</link>
+          <info>
+						By Jean Clottes
+						&lt;br&gt;
+						The Met 
+						&lt;br&gt;
+						October 2002
+					</info>
+        </entry>
+        <entry>
+          <title>A Brief History of Rococo Art</title>
+          <link>https://news.artnet.com/market/a-brief-history-of-rococo-art-32790</link>
+          <info>
+						By Erica Trapasso
+						&lt;br&gt;
+						Artnet 
+						&lt;br&gt;
+						July 15, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>16 Famous French Painters (And a Few Others You May Not Know</title>
+          <link>https://frenchtogether.com/french-painters/</link>
+          <info>
+						French Together
+						&lt;br&gt;
+						June 3, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>1701-Hyacinthe Rigaud, Louis XIV</title>
+          <link>https://fashionhistory.fitnyc.edu/1701-hyacinthe-rigaud-louis-xiv/</link>
+          <info>
+						By Juyeon Kim
+						&lt;br&gt;
+						Fashion History Timeline 
+						&lt;br&gt;
+						January 15, 2018
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art History Definition: Academy, France</title>
+          <link>https://www.thoughtco.com/art-history-definition-academy-french-182900</link>
+          <info>
+						ThoughtCo
+						&lt;br&gt;
+						March 8, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Cry Freedom</title>
+          <link>https://www.theguardian.com/artanddesign/2005/apr/02/art1</link>
+          <info>
+						The Guardian
+						&lt;br&gt;
+						April 1, 2005
+					</info>
+        </entry>
+        <entry>
+          <title>Cubism Shattered Convention to Alter the Course of Art History</title>
+          <link>https://www.artsy.net/article/artsy-editorial-cubism-shattered-convention-alter-course-art-history</link>
+          <info>
+						By Alison Chang
+						&lt;br&gt;
+						Artsy 
+						&lt;br&gt;
+						December 11, 2018
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Famous French Artists from Urban and Contemporary Art Movement</title>
+          <link>https://www.widewalls.ch/magazine/10-urban-artists-from-france/bettina-rheims-2</link>
+          <info>
+						Widewalls
+						&lt;br&gt;
+						September 9, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Famous French Sculptors Who Changed the Course of Art History</title>
+          <link>https://www.widewalls.ch/magazine/famous-french-sculptors-history</link>
+          <info>
+						Widewalls
+						&lt;br&gt;
+						October 12, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>How Claude Monet's Impression, Sunrise Inspired Impressionism</title>
+          <link>https://www.widewalls.ch/magazine/claude-monet-impression-sunrise</link>
+          <info>
+						Widewalls
+						&lt;br&gt;
+						May 26, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>How Daniel Buren's Institutional Critique Became Institutional Chic</title>
+          <link>https://hyperallergic.com/322774/how-daniel-burens-institutional-critique-became-institutional-chic/</link>
+          <info>
+						By Joseph Nechvatal
+						&lt;br&gt;
+						Hyperallegic 
+						&lt;br&gt;
+						September 14, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>How Duchamp's Urinal Changed Art Forever</title>
+          <link>https://www.artsy.net/article/artsy-editorial-duchamps-urinal-changed-art-forever</link>
+          <info>
+						Artsy
+						&lt;br&gt;
+						May 9, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>How Naturalism Art Moved Beyond Idealism To Capture Life's True Details</title>
+          <link>https://mymodernmet.com/naturalism-movment/</link>
+          <info>
+						My Modern Met
+						&lt;br&gt;
+						October 9, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>Masterpiece Story for All Saints: A Burial at Ornans by Gustave Courbet</title>
+          <link>https://www.dailyartmagazine.com/burial-at-ornans-gustave-courbet/</link>
+          <info>
+						Daily Art Magazine
+						&lt;br&gt;
+						November 1, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Meet Les Nabis, the 'Prophets of Modern Art' Who Transformed Turn-of-The-Century Painting</title>
+          <link>https://mymodernmet.com/les-nabis/</link>
+          <info>
+						By Kelly Richman-Abdou
+						&lt;br&gt;
+						My Modern Met 
+						&lt;br&gt;
+						July 11, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>Orientalism in French Nineteenth-Century Art: The Enigma of the East</title>
+          <link>https://bestamericanart.blogspot.com/2014/05/orientalism-in-french-nineteenth.html?m=0</link>
+          <info>
+						By Alexandra Jopp
+						&lt;br&gt;
+						Best American Art 
+						&lt;br&gt;
+						May 29, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Pierre Huyghe's Latest Project is Part Biotech Lab, Part Scene from a Sci-Fi Film</title>
+          <link>https://www.artsy.net/article/artsy-editorial-pierre-huyghes-latest-project-biotech-lab-scene-sci-fi-film</link>
+          <info>
+						Artsy
+						&lt;br&gt;
+						June 19, 2019
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Controversy Behind Edouard Manet's Olympia Masterpiece</title>
+          <link>https://www.widewalls.ch/magazine/edouard-manet-olympia</link>
+          <info>
+						Widewalls
+						&lt;br&gt;
+						October 28, 2018
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Shows That Made Contemporary Art History: The Salon Des Refusés</title>
+          <link>https://magazine.artland.com/the-shows-that-made-contemporary-art-history-the-salon-des-refuses/</link>
+          <info>
+						Artland
+					</info>
+        </entry>
+        <entry>
+          <title>Thomas Couture and the Theatricalization of Action in 19&lt;sup&gt;th&lt;/sup&gt; Century Painting</title>
+          <link>https://www.artforum.com/print/197006/thomas-couture-and-the-theatricalization-of-action-in-19th-century-painting-36392</link>
+          <info>
+						Artforum
+					</info>
+        </entry>
+        <entry>
+          <title>What is Beaux-Arts Architecture?</title>
+          <link>article_Link</link>
+          <info>
+						The Spruce
+						&lt;br&gt;
+						July 3, 2020
+					</info>
+        </entry>
+        <entry>
+          <title>What Is Fauvism?</title>
+          <link>https://www.artsy.net/article/artsy-editorial-matisse-fauvists-harnessed-expressive-power-color</link>
+          <info>
+						Artsy
+						&lt;br&gt;
+						October 9, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>What is Fauvism?</title>
+          <link>https://www.riseart.com/guide/2410/what-is-fauvism</link>
+          <info>
+						By Tatty Martin
+						&lt;br&gt;
+						Rise Art
+					</info>
+        </entry>
+        <entry>
+          <title>Woman with a Hat: Matisse's Transition to Fauvism</title>
+          <link>https://blog.singulart.com/en/2019/09/27/woman-with-a-hat-matisses-transition-to-fauvism/</link>
+          <info>
+						Singulart Magazine
+						&lt;br&gt;
+						September 27, 2019
+					</info>
+        </entry>
+        <entry>
+          <title>Why Manet's Masterpiece Has Confounded Historians for over a Century</title>
+          <link>https://www.artsy.net/article/artsy-editorial-manets-masterpiece-confounded-historians-century</link>
+          <info>
+						Artsy
+						&lt;br&gt;
+						March 21, 2019
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>18&lt;sup&gt;th&lt;/sup&gt;-Century Insights: French Portraiture</title>
+          <link>https://www.youtube.com/watch?v=urraY4w26_I</link>
+          <info>Curatorial Assistant at the Norton Museum of Art, Jennifer Laffick discusses two key works of French portraiture from their permanent collection.</info>
+        </entry>
+        <entry>
+          <title>Art of the Middle Ages - Art and Architecture in Medieval France</title>
+          <link>https://www.youtube.com/watch?v=4_NL8Zz6mis</link>
+          <info>This documentary provides a detailed look at the art in France's greatest medieval cathedrals.</info>
+        </entry>
+        <entry>
+          <title>French photographer makes it big in Berlin</title>
+          <link>https://www.youtube.com/watch?v=PkywlbPSU3w</link>
+          <info>This video highlights French artist JR's work debuting in Berlin as part of his "Lines of the City" series project.</info>
+        </entry>
+        <entry>
+          <title>Pierre Huyghe in conversation with Hans Ulrich Obrist</title>
+          <link>https://www.youtube.com/watch?v=emYOOVRzG8E</link>
+          <info>This video is a recording of a conversation between artist Pierre Huyghe and Artistic Director of Serpentine Galleries Hans Ulrich Obrist in which they discuss his art and specifically the biological elements incorporated into his 2018 UUmwelt exhibition.</info>
+        </entry>
+        <entry>
+          <title>French Art 1900 - 1930</title>
+          <link>https://www.youtube.com/watch?v=ML2wLOy-EG0</link>
+          <info>This video provides a guided tour of French art from 1900 to 1930 in the collection of The National Gallery of Denmark.</info>
+        </entry>
+        <entry>
+          <title>Pierre Soulages: The Radiance of Black</title>
+          <link>https://www.youtube.com/watch?v=nm9N-kJz4jE</link>
+          <info>This documentary discusses the life and art of contemporary artist Pierre Soulages.</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>bronzino</id>
+    <name>Bronzino</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1517 - 1572</years>
+    <description>Bronzino is a giant amongst Mannerists; an elegant and serene Master of portraiture whose painting embodied the genteel beliefs of the Medici.</description>
+    <art_description>Important art &amp; artworks analysis by Bronzino including: Crossing of the Red Sea, Eleanor of Toledo, Portraitd of Medici and Morgante, An Allegory with Venus and Cupid &amp; more in Mannerism.</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Florentine</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>November 17, 1503</birthDate>
+    <birthPlace>Monticello, Tuscany, Italy</birthPlace>
+    <deathDate>November 23, 1572</deathDate>
+    <deathPlace>Florence, Tuscany, Italy</deathPlace>
+    <big_bio_box_img>true</big_bio_box_img>
+    <pub_time>1/27/2020</pub_time>
+  </main>
+  <includes>
+    <include>mannerism</include>
+  </includes>
+  <similar_movements>
+    <movement>mannerism</movement>
+    <movement>high_renaissance</movement>
+    <movement>renaissance_humanism</movement>
+    <movement>baroque_art_and_architecture</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>parmigianino</artist>
+    <artist>pontormo</artist>
+    <artist>vasari_giorgio</artist>
+    <artist>arcimboldo_giuseppe</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Few people train and draw, and the simple crowd of the young people with little expertise follow this path, so that art falls and strays from the truth."</q>
+    <q>"I say to you briefly that by drawing I mean all those things that can be formed with the value, or force, of simple lines."</q>
+  </quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>Bronzino is a giant amongst Mannerists; an elegant and serene Master of portraiture whose painting embodied the genteel beliefs and ideals of the Medici dukes of sixteenth century Italy. Falling under the early influence of the Florentine master &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pontormo"&gt;Jacopo da Pontormo&lt;/span&gt;, Bronzino developed his own meticulous linear style that owed as much to the influence of Michelangelo and Raphael as it did to the easier style of Pontormo. Bronzino would become the premier portrait artist in Florence; his style devoid of emotion yet utterly beguiling in its elegance and decoration. Though he is (rightly) famed as a portraitist, Bronzino took on numerous other commissions (some in collaboration with Pontormo) including frescoes, altarpieces and interior decorations. In addition to his many religious allegories, Bronzino produced a number of mythological paintings through which he flaunted his love of symbolism and mastery of coloring.</synopsys>
+    <key_ideas>
+      <idea>While employed as a court painter in Pesaro, Branzino was introduced to the hugely influential book &lt;i&gt;Il Cortegiano&lt;/i&gt;. The book provided an etiquette guide for the Italian aristocracy and Bronzino single-handedly translated its rules of manners into a visual style befitting of its subjects. The result was a style of technical elegance that would be passed on to future generations of portraitists.</idea>
+      <idea>Branzino produced a series of frescoes that revealed a sophisticated understanding of color and painterly relief. Indeed, using a luxurious combination of tones, which was quite typical of the decorative Mannerist style, Bronzino's special skill was evidenced in his ability to bleed colors to affect great subtlety in shadow and light.</idea>
+      <idea>In the mid-sixteenth century, Bronzino became involved in the so-called Varchi paragone debate. He sought to challenge the assumption that sculpture was superior to portraiture because it could represent its subjects in a 360-degree view of a subject. Bronzino would thus produce the "double portrait" where, by partitioning the painterly frame, he could offer multiple viewpoints of the same subject.</idea>
+      <idea>Bronzino was a poet as well as a painter, and thought to have penned some three hundred poems. He wrote lyric verse in the neo-Petrarchian mode and burlesque poetry in the style of Berni. His poetry was greatly admired by poet Annibale Caro (1507-1566), and much recent scholarship asserts that understanding Bronzino's poetry allows one to attain greater appreciation of his painting.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">The artist commonly known as Bronzino was born Agnolo di Cosimo di Mariano Tori, in Monticello, just outside Florence, to father Cosimo (a butcher) and mother Felice. Little more is known about his family background, other than that they were, as sixteenth-century Italian poet and art critic Raffaello Borghini wrote, "honest, humble, and poor". As he came from a low social class, it is likely that Bronzino did not have a legitimate surname. It remains unknown as to how exactly he gained the sobriquet "Bronzino" (meaning "little bronze"), although it is generally (and reasonably) assumed to be due to his darker skin and/or reddish hair.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">Bronzino was first apprenticed at the age of eleven to artist Raffaellino del Garbo, from whom he learned about drawing and color. Then, aged fourteen, he became apprenticed to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pontormo"&gt;Jacopo da Pontormo&lt;/span&gt;, one of the most significant Florentine painters of the first generation of the decorative &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mannerism"&gt;Mannerist&lt;/span&gt; style of painting.</p>
+          <p type="p">According to Bronzino's contemporary and friend, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt; (recognized as the father of the biographical approach to art history), Bronzino and Pontormo's "pictures have been taken very often one for another, so similar were they for a time". Both artists depicted graceful and slightly elongated figures in their paintings. However, Bronzino's figures tend to appear calmer and more reserved (with more negative critics describing them as "cold" and "artificial") whereas Pontormo's figures appear more agitated and emotional.</p>
+          <p type="p">One of Pontormo's earliest known assignments for Bronzino was for him to complete two of the four frescoes of the dome in the Capponi Chapel in the church of Santa Felicita in Florence. Vasari explained that, when working with his pupils, Pontormo would not let them touch any of the works that he planned to execute himself, and when he did call on their assistance, he would have them complete entire works on their own. Unfortunately, the ceiling frescoes executed by Bronzino (&lt;i&gt;Man of Sorrows&lt;/i&gt; (1524) and &lt;i&gt;Martyrdom of St. Lawrence&lt;/i&gt; (1525-1526)) have not survived.</p>
+          <p type="img" alt="In Pontormo's &lt;i&gt;Joseph in Egypt&lt;/i&gt; (1515-1518), it is believed that the boy in brown seated on the lower step was modelled off the young Bronzino." show="1">/images20/photo/photo_bronzino_1.jpg</p>
+          <p type="p">Bronzino shared a very close, lifelong, friendship with Pontormo, with Vasari reporting that "so great were the patience and lovingness of [Bronzino] towards Pontormo, that [Pontormo] was forced always to look kindly upon him, and to love him as a son". It is generally believed that Pontormo included a portrait of Bronzino as a child seated on a step within his series on Joseph in Egypt.</p>
+          <p type="img" alt="The Certosa de Galuzzo monastery in Florence, as it appeared in the 1600s" show="1">/images20/photo/photo_bronzino_2.jpg</p>
+          <p type="p">When the Black Plague arrived in Florence in 1522, Pontormo decided to take Bronzino to the Certosa di Galuzzo Carthusian Monastery, near Florence. At the monastery, Bronzino and Pontormo worked together on a series of frescos. Bronzino also helped to paint a small &lt;i&gt;Crucifixion&lt;/i&gt;, and to illustrate some &lt;i&gt;libri di culto&lt;/i&gt; (liturgical books) for the monks.</p>
+          <p type="p">In 1524, Bronzino met Vasari at the Charterhouse at Galuzzo, and the two developed a strong bond. Toward the end of Bronzino's life, Vasari asserted that "Bronzino has been and still is most gentle and a very courteous friend, agreeable in his conversation and in all his affairs, and much honoured; and as loving and liberal with his possessions as a noble craftsman such as he is could well be. He has been peaceful by nature, and has never done an injury to any man, and he has always loved all able men in his profession".</p>
+          <p type="p">In 1527, Bronzino again fled from the encroaching plague in Florence, heading this time to the villa of Ugo della Stufa in Bivigliano (also near Florence). During his stay, he met the classical humanist historian and poet Benedetto Varchi and his Latinist pupil Lorenzo Lenzi. Soon thereafter, in 1530, Bronzino moved to the small dukedom of Pesaro, on the Adriatic coast, which Federico da Montrefeltro had developed into a significant European artistic center. Once there Bronzino encountered works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-della_francesca_piero"&gt;Piero della Francesca&lt;/span&gt;, Giovanni Bellini, Carpaccio, Dosso Dossi, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-titian"&gt;Titian&lt;/span&gt;, Lorenzo Lotto, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-correggio"&gt;Correggio&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-parmigianino"&gt;Parmigianino&lt;/span&gt;, as well as several Flemish masters.</p>
+          <p type="img" alt="While living in Pesaro, Bronzino encountered the 1528 publication &lt;i&gt;Il Cortegiano&lt;/i&gt; by Italian courtier and diplomat Baldassare Castiglione, which instructed European nobility on proper social behavior. Bronzino directly translated these ideals into his court portraits." show="1">/images20/photo/photo_bronzino_3.jpg</p>
+          <p type="p">It was also in Pesaro that Bronzino painted the regal portrait of Guidobaldo II della Rovere (who was to become lord of Pesaro a short time later). This portrait, as well as another of the daughter of merchant Matteo Sofferoni, helped Bronzino gain a reputation as an independent master of portraiture, and marked the beginning of his particular style of aristocratic portraiture. Bronzino (along with local artists Girolamo Genga and Raffaellino delle Colle) executed some works in the chambers of Guidobaldo's Villa Imperiale. However, he was forced to abandon these projects when, in 1532, Pontormo called him back to Florence in order to assist in the paintings of the frescos in the halls of the Medici Villas in Poggio a Caiano and Carreggi.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Portrait of Duke Cosimo I de' Medici by Bronzino, completed in 1545." show="1">/images20/photo/photo_bronzino_4.jpg</p>
+          <p type="p">In 1537, Bronzino became a member of the prestigious Florentine Academy. Then, in 1539, he received his first commission from the powerful Medici family, when he was selected as one of several artists to create the decorations for the wedding of Cosimo I de' Medici and Eleonora de Toledo. Bronzino quickly rose to the position of official court painter for Cosimo and members of his court. Bronzino would retain this coveted post for most of his lifetime.</p>
+          <p type="p">Soffaroni's brother-in-law, the sword-maker Tofano Allori, was a close friend of Bronzino's, and when Allori died in 1541, Bronzino moved into the Allori household on Corso Adimari, near the Cathedral of Florence, where he assumed financial responsibility for the family (that is, for Allori's mother, his widow Dianora Sofferoni, his four children, and his niece), and began training Allori's son Alessandro to be a painter. Vasari reported that Bronzino and Alessandro shared, "the same love, one for another, that there is between a good father and his son".</p>
+          <p type="p">During the mid 1540s, Bronzino, with Pontormo and Francesco Salvati, was tasked by Duke Cosimo I to produce designs for an ambitious tapestry cycle to be executed by master Flemish weavers. The cycle was to be comprised of twenty tapestries based on the life of Joseph. By 1546, Bronzino was put in charge of the project, and was responsible for sixteen of the twenty pieces.</p>
+          <p type="p">Between 1546 and 1548, Bronzino lived in Rome. As art historian Liana De Girolami Cheney writes, "the events of this sojourn are nebulous," however it is likely that he went in search of inspiration for Cosimo's tapestry cycle and it known that during his stay he studied &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo's&lt;/span&gt; works carefully. In 1547, Bronzino (along with a number of other artists) was expelled from the &lt;i&gt;Academia Fiorentina&lt;/i&gt; for unknown reasons.</p>
+          <p type="p">When Pontormo passed away on January 1, 1557, Bronzino completed Pontormo's unfinished frescos in the choir of San Lorenzo, upon the request of the duke. Bronzino managed to remain faithful to Pontormo's plans for the frescos, relying upon drawings he retrieved from Pontormo's home. Bronzino believed that he would inherit Pontormo's estate, and Duke Cosimo had confirmed this. However, the estate was ultimately awarded to a man who falsely claimed to be a relative of Pontormo's.</p>
+          <p type="p">On January 13, 1563, Bronzino co-founded the newly reformed Florentine Accademia delle Arti del Disegno, along with Vasari and Cosimo I de' Medici. Other member artists included Michelangelo Buonarroti, Lazzaro Donati, Francesco da Sangallo, Benvenuto Cellini, Bartolomeo Ammannati, Giambologna, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gentileschi_artemisia"&gt;Artemisia Gentileschi&lt;/span&gt;. The goal of the Academy was to promote and supervise artistic production in Tuscany.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">In 1564, Bronzino travelled to Pisa after being summoned by the Duke, and stayed there for a year. While in Pisa, he executed several more court portraits, as well as one altarpiece featuring a nude Christ with a cross for one of the chapels in the Duomo; another depicting the Deposition of Christ from the Cross to be sent to the Convent of Frati Zoccolanti on Elba Island, and a third depicting the Nativity for the new Church of the Knights of S. Stephen in Pisa. Vasari asserted that "these pictures have been finished with such art, diligence, design, invention, and supreme loveliness of colouring, that it would not be possible to go further".</p>
+          <p type="img" alt="Bronzino's most beloved pupil was Alessandro Allori, pictured here in a self-portrait from 1555" show="1">/images20/photo/photo_bronzino_5.jpg</p>
+          <p type="p">In 1569, Bronzino began work on a large fresco in San Lorenzo, however he passed three years later, before the work was completed. Alessandro Allori completed the fresco in Bronzino's honor. Vasari commented upon Bronzino's final years, noting that "It is a notable thing that whereas many are wont in their last years to do less well than they have done in the past, Bronzino does as well and even better now than when he was in the flower of his manhood, as the works demonstrate that he is executing every day".</p>
+          <p type="p">Bronzino passed away at the Allori home on November 21, 1572, due to an unknown illness, and was buried the next day at the church of San Cristoforo degli Adimari in Florence. Eight years later, the young Allori specified in his will that he wished to be buried at the same church.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Bronzino's art held a strong influence on subsequent court portraiture in Florence and beyond. In his portraiture, Bronzino focused on demonstrating the social position (usually through the inclusion of extravagant costume and jewelry, and other signifiers of nobility) the elegance of the pose, and the restraint of his sitters. In this way, he influenced the next generation of Florentine and Mannerist artists, as seen most obviously in works of court portraiture by his esteemed pupils Alessandro Allori, Giovan Maria Butteri, Cristofano dell' Altissimo, and Lorenzo della Sciorina.</p>
+          <p type="p">Shortly after his death, Bronzino's accomplishments became more or less forgotten, until the period during World War II when art historian Craig Hugh Smyth, who became a naval lieutenant officer for the U.S. Naval Reserve in 1945, was assigned a post as director of the U.S. Army's Central Art Collecting Point in Munich and was tasked with recovering misplaced cultural artifacts that had been stolen by the Nazis. Smyth rescued Bronzino's &lt;i&gt;Pygmalion and Galatea&lt;/i&gt; (1530) from Goering and returned it to Florence. He became fascinated with Bronzino's drawings and paintings, particularly his portraits, and he received his PhD on &lt;i&gt;Bronzino Studies&lt;/i&gt; from Princeton University in 1955. Later he undertook further research, and to produce several publications, about Bronzino and Mannerism, and in so doing, he helped introduce Bronzino to a whole new generation of art lovers. Smyth and other officers of the Monuments, Fine Arts, and Archives Program (MFAA) inspired the 2014 Hollywood film &lt;i&gt;The Monuments Men&lt;/i&gt;, starring George Clooney, Matt Damon, Bill Murray, and John Goodman.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Portrait of Guidobaldo della Rovere</title>
+      <year>1532</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				This milestone portrait was painted by Bronzino during his two-year stay at the Della Rovere court. As art historian Heather L. Sale Holian noted, Bronzino's time in Pesaro was a "pivotal event" in his career "and in the larger history of Florentine portraiture". It was while at the court that Bronzino first encountered the influential 1528 publication &lt;i&gt;Il Cortegiano&lt;/i&gt; by Italian courtier and diplomat Baldassare Castiglione. &lt;i&gt;Il Cortegiano&lt;/i&gt; outlined the attributes, manners, and behaviors of the ideal courtier or court lady.
+				&lt;br/&gt;&lt;br/&gt;
+				While at the Della Rovere Bronzino not only had the opportunity to study &lt;i&gt;Il Cortegiano&lt;/i&gt;, he was also able to observe at close quarters the way in which said courtly precepts were implemented by courtiers. He then sought to translate these ideals and etiquettes into the visual language of court portraiture (as evidenced here in the &lt;i&gt;Portrait of Guidobaldo della Rovere&lt;/i&gt;). 
+				&lt;br/&gt;&lt;br/&gt;
+				For instance, &lt;i&gt;Il Cortegiano&lt;/i&gt; advises that courtiers should be "knowledgeable in both arms and letters". On the helmet of Bronzino's subject for this portrait, we see an emblem inscribed with Greek letters, which indicates an interest and knowledge of the classics, while, as Holian further asserts, the "fine suit of meticulously rendered Milanese armor implies his 'valor' in military feats, and in turn, alludes to the profession of an ideal courtier". Similarly, Bronzino has included a regal grey dog to the side of the subject, which alludes to the man's interest in hunting, which Castiglione promoted as a commendable pastime for courtiers. Moreover, two of the most important qualities described in &lt;i&gt;Il Cortegiano&lt;/i&gt; were &lt;i&gt;grazia&lt;/i&gt; (grace) and &lt;i&gt;sprezzatura&lt;/i&gt; ("a certain nonchalance which conceals all artistry and makes whatever one says or does seem uncontrived and effortless"). Bronzino translates these attributes into the trademark "aloof" expressions he paints onto all of his portrait subjects.
+			</desc>
+      <collection>Palazzo Pitti (Pitti Palace), Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>The Crossing of the Red Sea</title>
+      <year>1541-42</year>
+      <materials>Fresco</materials>
+      <desc>
+				This fresco, one of four, was commissioned by Cosimo I de' Medici and his wife, Eleanor of Toledo, to adorn the walls of Eleonor's private chapel in the Palazzo Vecchio in Florence. Three of the four chapel walls painted by Bronzino depict the story of Moses. The fresco &lt;i&gt;The Crossing of the Red Sea&lt;/i&gt; is found on the south wall of the chapel. Art historian Liana De Girolami Cheney has speculated that "perhaps this painting constitutes the best expression of Bronzino's Maniera [Mannerism] style in its combination of sensuality and capriciousness".
+				&lt;br/&gt;&lt;br/&gt;
+				The fresco includes multiple biblical scenes. The figures at the center and left of the foreground represent the Hebrews preparing for exodus from Egypt (Exodus 12:33-39), while those in the background represent the Hebrews having safely crossed the Red Sea. The figure in blue in the background, Moses, is gesturing for the waters to return to normal and, in the process, drown the Egyptians who are pursuing the Hebrews (Exodus 14:21-29). An aged Moses appears again in the right-hand foreground, with a brown robe, grey beard, and two rays of light radiating from his head, placing his hand on Joshua and instructing him to take over as his successor, to lead the Israelites to the promised land (Numbers 27:12-23). 
+				&lt;br/&gt;&lt;br/&gt;
+				The topless male figure at the left of the foreground, who is awkwardly contorted and grasping the wrist of the seated female, is posed with his hip thrust outward in an exaggerated fashion, and one arm raised upward, which are typical elements of Mannerist positioning. In fact, the standing, topless male figure's pose is believed to have been inspired by the &lt;i&gt;Idolino&lt;/i&gt;, a Roman copy of a Greek bronze statue discovered in an excavation of Pesaro in 1530, where Bronzino happened to be working at the time. Also, the male figure in the center who is leaning against a rock is shown with one leg crossed behind the other. It was a pose frequently used by Bronzino and ranks thus as something of an authorial motif.
+				&lt;br/&gt;&lt;br/&gt;
+				Concealed within the fresco, meanwhile, are several references to the Medici's dynastic and political aims. For instance, Moses here represents Cosimo I de' Medici who aimed to lead his people to glory. This connection is boldly reinforced by the red Egyptian banner at the left of the background which shows a partial coat of arms of the Strozzi family. This feature alludes to the Battle of Montemurlo in 1537 at which the Cosimo defeated their fierce rivals (the Strozzi's). Additionally Moses' nomination of Joshua as the Hebrews' future leader in the foreground, combined with the presence of the pregnant and nursing women in the image, alludes to the birth of Cosimo I's son Fernando, who was heir apparent to the ducal state.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Deborah Parker notes that these frescos "demonstrate Bronzino's masterful use of colour, his handling of 'ombre' and 'lumi' - shadows and light to create relief. The jewel-like palette is ravishing: Bronzino used intermediate hues such as violet, ultramarine, coral, soft yellows, a wide range of greens rather than the more common saturated red and blue seen, for example, in Raphael's paintings. the combination of colours in applications of &lt;i&gt;cangiatismo&lt;/i&gt; (or colour changes in which two colours are juxtaposed) is no less striking [...] This ornamental use of colour exemplifies the decorative artificiality of Maniera painting".
+			</desc>
+      <collection>Chapel of Eleonora di Toledo, Palazzo Vecchio, Florence, Tuscany, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>Eleanor of Toledo</title>
+      <year>c. 1545</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				The seated woman in this portrait is Eleonor of Toledo, wife of Cosimo I de' Medici. Based on the date of the painting, it is generally assumed that the young boy standing by her side is the couple's middle son, Giovanni, who was born in 1543 and died of malaria in 1562. The pomegranate motif on Eleonor's ornate silk dress symbolizes motherhood. This underscored Eleonor's prime function in the Medici dynasty, which was to provide offspring. Prior to her passing on December 17, 1562 (due to tuberculosis) she bore eight children. 
+				&lt;br/&gt;&lt;br/&gt;
+				This portrait is one of a set of two, the other presenting Cosimo I as a confident ruler, while the portrait of mother and son was meant to demonstrate the wealth and dignity of the family. At this time, it was of utmost importance to the Medici family to strengthen, solidify, and legitimize their position as competent and unvanquishable leaders, particularly following the 1537 murders of a number of senior members of the family by their political rivals.
+				&lt;br/&gt;&lt;br/&gt;
+				Several aspects of this painting are typical of Mannerist portraiture, such as the reserved, unemotional expressions on the sitters' faces, and the lavish elegance and inclusion of highly decorative elements (such as the dress, which dominates the frame). Art historian Deborah Parker suggests that "we are encouraged to read the garment itself as Eleonora, as an ostentatious symbol of her power and station." Recent archaeological excavation of Eleonor's tomb uncovered fragments of this same dress.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>Portrait of Bia de' Medici</title>
+      <year>c. 1545</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				The young girl depicted in this portrait was Bianca (or Bia) de' Medici, who was the illegitimate daughter of Cosimo I de' Medici. Bia was born in 1536, prior to Cosimo's marriage to Eleonor of Toledo in 1539. In 1560, Simone Fortuna (Francesco Maria II della Rovere's ambassador to Tuscany) wrote that Cosimo "in his first years as duke, had, by a noblewoman of Florence, a girl who was baptised in the name of His Illustrious Excellence, and called Bia. And the Lady Duchess [Eleonora], finding her in her home, was raising the girl lovingly, as she was born to her husband before she became his wife". 
+				&lt;br/&gt;&lt;br/&gt;
+				The white color of Bia's dress alludes both to her purity, and to her name (Bianca) while the lavish jewelry (pendant earrings, necklaces, and a chain belt) demonstrate her high social rank. The medallion on the long chain around her neck, meanwhile, shows the profile of her father Cosimo, as depicted in a portrait by Pontormo (which now resides in the Palatine Gallery at the Palazzo Pitti). 
+				&lt;br/&gt;&lt;br/&gt;
+				Bia grew up in the household as a most beloved member of the family. She spent a great deal of time with her grandmother, Maria Salviati, who was reported to be particularly fond of her. Tragically, in January 1542, when she was just five years old, Bia fell ill, and passed away a few weeks later. Devastated, the duke had a plaster funeral mask cast of Bia, and it has been posited that, rather than painting the girl when she was alive, Bronzino likely modelled the portrait on the funeral mask.
+				&lt;br/&gt;&lt;br/&gt;
+				Considering that Bronzino may not have had the opportunity to paint this portrait from a living model, it is remarkable that he was able to imbue Bia's image with such a sense of vivacity. This is seen in her slightly bemused facial expression, her position (she seems as if ready to leap to her feet and run off to play at any moment), and the way in which she appears to fidget with the belt in her right hand.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+    <artwork>
+      <title>An Allegory with Venus and Cupid</title>
+      <year>c. 1545</year>
+      <materials>Oil on wood</materials>
+      <desc>
+				In this painting, the central figure of a nude Venus sits in a contorted serpentine position (typical of Mannerist painting), grasping a golden apple in her left hand, and an arrow in her right. A nude Cupid (Venus' son from an adulterous affair with Mars), is positioned in similar serpentine position slightly behind Venus, forcefully grasping her left breast with his right hand, and clutching the back of her head with his left hand, while kissing her lips. Both Cupid and Venus are painted with alabaster-white skin. At the bottom-left corner of the image, behind Venus' feet, sit two masks, which resemble the traditional theatrical masks of Comedy and Tragedy.
+				&lt;br/&gt;&lt;br/&gt;
+				The significance of the various figures in this mysterious painting has been much debated. In the first place, it is perturbing that Cupid (representing Desire) and his mother Venus (the Goddess of Love) are presented here as lovers, wrapped in an incestuous erotic embrace. The figure at the left, tearing at his own hair, is generally understood to be Jealousy, while the &lt;i&gt;putto&lt;/i&gt; is understood as Folly, and the old man as Time (reinforced by the hourglass just above him). The chimera is another troubling element given that it usually symbolized Pleasure and Fraud.
+				&lt;br/&gt;&lt;br/&gt;
+				As arts writer Roderick Conway Morris asserts, Bronzino was "the master of the mannerist erotic scene," best exemplified by this painting, which Conway Morris describes as "cool, stylish and at the same time boldly sensual, the daring, serpentine poses inviting the eye to trace and savor the alluring curves and dimples of the embracing couple, the alabaster whiteness of their flesh highlighting the fevered flush of their cheeks".
+				&lt;br/&gt;&lt;br/&gt;
+				The overall meaning of this allegorical painting continues to be hotly debated, however. Art historian Charles McCorquodale has argued that "If any single work of art can be said to crystallise the urbanity, luxury, elegantly-displayed erudition and even the cruelty of the Italian mid-sixteenth century it must surely be Bronzino's &lt;i&gt;Allegory of Venus and Cupid&lt;/i&gt;". Meanwhile, whereas some scholars view the work as "an allegory of lechery or luxury" Art historian Michael Levey views it instead a celebration of "the erotic power of Venus", observing that "Venus conquers Cupid by sweetness, not force [...] and her doing so is the picture's subject". 
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of a Dwarf Morgante</title>
+      <year>1553</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In this two-sided portrait, an obese male dwarf name Morgante is represented nude, and in a dark outdoor setting (with brown earth below, and a black-grey rock face behind the subject) on both sides of the work. On the front side of the canvas, the subject is shown frontally; preparing for the &lt;i&gt;uccellagione&lt;/i&gt; (hunting with owls for smaller birds like larks and quails). He is shown with a hunting owl perched on his outstretched right hand; one swallowtail butterfly fluttering near his right knee; a second butterfly covering his genitals, while another bird swoops in at the upper right. On the back of the canvas, Morgante is depicted after the hunt, with his owl perched on his shoulder. On this reverse image, he holds a cluster of dead birds in his right hand, and is turning his head to look back at the viewer who has a full view of his naked backside. Several other artists (including sculptors Valerio Cigoli and Giambologna) created artworks with this same person as the subject, and in all cases, he is presented nude, in a parodic, mockingly heroic pose.
+				&lt;br/&gt;&lt;br/&gt;
+				The subject of this portrait is Braccio di Bartolo, better known as Nano (dwarf) Morgante. It was common in sixteenth-century Europe for courts to be in possession of dwarves who served as entertainers who suffered humiliation and physical violence. For instance, courtiers were able to enjoy the spectacle of fights, in which a nude Morgante was pitted against a monkey. Art historian Robin O'Bryan notes that Morgante was special not only because he was a dwarf, and Cosimo's favourite, but also because his obesity "would have made him stand out in an age when food shortages [...] led to famine and death by starvation". 
+				&lt;br/&gt;&lt;br/&gt;
+				This portrait is unique, in that both sides of the canvas were painted, forming a portrait that offers multiple viewpoints of the same subject. With this "double portrait", Bronzino demonstrated that, not only can painting present multiple viewpoints simultaneously, like sculpture, it can also go one step further by presenting different temporal periods simultaneously (as we see Morgante, on the front, full of vim before the hunt, and on the back, after the hunt, shown tired and wearied through the appearance of a beard, sagging jowls, and wrinkled brow).
+				&lt;br/&gt;&lt;br/&gt;
+				O'Bryan argues that several elements of the painting serve to mock Morgante's stature and the supposed "savage nature" of the dwarf (such as the inclusion of the &lt;i&gt;civetta nana&lt;/i&gt; (pygmy owl) on Morgante's shoulder and the dirty, rugged, outdoor setting). Several scholars, including O'Bryan, have also noted that readings of this portrait can be enhanced by understanding the type of burlesque poetry and &lt;i&gt;capitoli&lt;/i&gt; (both of which employed many double entendres and obscene sexual connotations) written by Bronzino. For instance, in this type of poetry, butterflies commonly connoted the phallus, which is reinforced in this portrait by the butterflies fluttering in front of Morgante's pubic region. 
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+	  <add_to_map>true</add_to_map>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity>michelangelo</entity>
+        <entity alt="Andrea del Sarto">del_sarto_andrea</entity>
+        <entity>raphael</entity>
+        <entity>da_vinci_leonardo</entity>
+      </column>
+      <column>
+        <entity alt="Raffaellino del Garbo">del_garbo_raffaellino</entity>
+        <entity>pontormo</entity>
+        <entity>vasari_giorgio</entity>
+      </column>
+      <column>
+        <entity>mannerism</entity>
+        <entity>renaissance</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Alessandro Allori">allori_alessandro</entity>
+        <entity alt="Giovan Maria Butteri">butteri_giovan_maria</entity>
+        <entity alt="Cristofano dell' Altissimo">dell_altissimo_cristofano</entity>
+        <entity alt="Lorenzo della Sciorina">della_sciorina_lorenzo</entity>
+      </column>
+      <column>
+        <entity alt="Raffaellino del Garbo">del_garbo_raffaellino</entity>
+        <entity>pontormo</entity>
+        <entity>vasari_giorgio</entity>
+      </column>
+      <column>
+        <entity>mannerism</entity>
+        <entity>baroque_art_and_architecture</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Bronzino: Painter and Poet at the Court of the Medici</title>
+          <link>8874611544</link>
+          <info>By Carlo Falciani and Antonio Natali</info>
+        </entry>
+        <entry>
+          <title>Pontormo, Bronzino, and Allori: A Geneaology of Florentine Art</title>
+          <link>0300085435</link>
+          <info>By Elizabeth Pilliod</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Bronzino: Drawings &amp; Paintings</title>
+          <link>1698212208</link>
+          <info>By Raya Yotova</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino</title>
+          <link>2080108778</link>
+          <info>By Maurice Brock</info>
+        </entry>
+        <entry>
+          <title>Maniera: Pontormo, Bronzino and Medici Florence</title>
+          <link>3791355066</link>
+          <info>By Bastian Eclercy</info>
+        </entry>
+        <entry recommended="true">
+          <title>Agnolo Bronzino: The Muse of Florence</title>
+          <link>0991504771</link>
+          <info>By Liana De Girolami Cheney</info>
+        </entry>
+        <entry>
+          <title>Il Bronzino: 80 Masterpieces</title>
+          <link>B07B54LPGB</link>
+          <info>By Maria Tsaneva</info>
+        </entry>
+        <entry>
+          <title>The Drawings of Bronzino</title>
+          <link>0300155123</link>
+          <info>By Carmen C. Bambach, Janet Cox-Rearick, and George R. Goldner</info>
+        </entry>
+        <entry recommended="true">
+          <title>Pontormo, Bronzino, and the Medici: The Transformation of the Renaissance Portrait in Florence</title>
+          <link>0271025360</link>
+          <info>By Carl Strehlke and Elizabeth Cropper</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino: Renaissance Painter as Poet</title>
+          <link>0521781663</link>
+          <info>By Deborah Parker</info>
+        </entry>
+        <entry>
+          <title>Bronzino</title>
+          <link>1904449484</link>
+          <info>By Charles McCorquodale</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Bronzino: Artist and Poet of the Medici Court - review</title>
+          <link>https://www.theguardian.com/artanddesign/2010/nov/16/bronzino-medici-portraits-lemonde-review</link>
+          <info>
+						By Harry Bellet
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						November 16, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Bronzino Emerges from Limbo</title>
+          <link>https://www.nytimes.com/2010/11/16/arts/16iht-conway.html</link>
+          <info>
+						By Roderick Conway Morris
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						November 15, 2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Life of Bronzino</title>
+          <link>https://www.academia.edu/36061596/The_Life_of_Bronzino</link>
+          <info>
+						By Elizabeth Pilliod
+						&lt;br&gt;
+						Metropolitan Museum of Art, New York (for exhibition catalogue The Drawings of Bronzino, January 20-April 18, 2010) 
+						&lt;br&gt;
+						2010
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Of the Academicians of Design, Painters, Sculptors, and Architects, and of their Works, and First of Bronzino</title>
+          <link>https://ebooks.adelaide.edu.au/v/vasari/giorgio/lives/part3.79.html</link>
+          <info>
+						By Giorgio Vasari
+						&lt;br&gt;
+						Excerpt from Vasari's book Lives of the Most Eminent Painters Sculptors and Architects, Part 3 
+						&lt;br&gt;
+						1568
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Restoring Genius The Art of Agnolo Bronzino</title>
+          <link>https://www.youtube.com/watch?v=2FHmZTvxINM</link>
+          <info>Historytube</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino, An Allegory with Venus and Cupid</title>
+          <link>https://www.youtube.com/watch?v=6w2E8G0sEPc</link>
+          <info>Smarthistory</info>
+        </entry>
+        <entry>
+          <title>Among Rare Men: Bronzino and Homoerotic Culture at the Medici Court</title>
+          <link>https://www.youtube.com/watch?v=KJdaupuUzUw</link>
+          <info>The Met</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino and the Mannerist Portrait</title>
+          <link>https://www.youtube.com/watch?v=4mpFcaeElCs</link>
+          <info>Smarthistory</info>
+        </entry>
+        <entry>
+          <title>Bronzino Allegory of Venus &amp; Cupid explained: An analysis</title>
+          <link>https://www.youtube.com/watch?v=b5DBFCdp6dI</link>
+          <info>LearnClassical</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino's Maniera: Beauty and Style</title>
+          <link>https://www.youtube.com/watch?v=6sbr2ALf61E</link>
+          <info>The Met</info>
+        </entry>
+        <entry>
+          <title>Behind the Scenes of Bronzino's Double Portrait of Eleonora di Toledo and Giovanni de' Medici</title>
+          <link>https://www.youtube.com/watch?v=KN32FYkBX5o</link>
+          <info>The Met</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino: Painter, Poet, Man</title>
+          <link>https://www.youtube.com/watch?v=GPwwI-tGR_Q</link>
+          <info>The Met</info>
+        </entry>
+        <entry>
+          <title>The Drawings of Bronzino: An Introduction</title>
+          <link>https://www.youtube.com/watch?v=5vdurpWypZI</link>
+          <info>The Met</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bronzino, Portrait of Eleonora of Toledo with her son Giovanni</title>
+          <link>https://www.youtube.com/watch?v=fpgvjMKCyAA</link>
+          <info>Smarthistory</info>
+        </entry>
+        <entry>
+          <title>Bronzino at the Court of Cosimo I de'Medici</title>
+          <link>https://www.youtube.com/watch?v=k3Vmz_8P1kE</link>
+          <info>The Met</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

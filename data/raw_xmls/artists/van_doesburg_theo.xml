@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>van_doesburg_theo</id>
+    <name>Theo van Doesburg</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1900 - 1931</years>
+    <description>Theo Van Doesburg, a leading theorist of De Stijl advocated for a simplified, geometric, and reductive aesthetic.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter, Designer, and Architect</occupation>
+    <nationality>Dutch</nationality>
+    <birthDate>August 30, 1883</birthDate>
+    <birthPlace>Utrecht, Netherlands</birthPlace>
+    <deathDate>March 7, 1931</deathDate>
+    <deathPlace>Davos, Switzerland</deathPlace>
+    <pub_time>1/15/2016</pub_time>
+  </main>
+  <includes>
+    <include>de_stijl</include>
+    <include>neo_plasticism</include>
+    <include>concrete_art</include>
+    <include>bauhaus</include>
+  </includes>
+  <similar_movements>
+    <movement>de_stijl</movement>
+    <movement>neo_plasticism</movement>
+    <movement>concrete_art</movement>
+    <movement>bauhaus</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>mondrian_piet</artist>
+    <artist>lissitzky_el</artist>
+    <artist>schwitters_kurt</artist>
+    <artist>taeuber_arp_sophie</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true"> "What I am trying to realize is a universal form which entirely corresponds to my spiritual vision"</q>
+    <q>"The artist no longer needs a particular starting point in nature in order to achieve an image of beauty. He spontaneously creates relationships in equilibrium - complete harmony - the goal of art."</q>
+    <q>"The point is to situate man within painting, rather than in front of it."</q>
+    <q>He explained "Elementarism" as "based on the neutralization of the positive and negative directions by the diagonal and, as far as color is concerned, by the dissonant. Equilibrated relations are not the ultimate result."</q>
+    <q>"Mondrian realizes the importance of the line. The line has almost become a work of art in itself; one cannot play with it when the representation of objects perceived was all important. The white canvas is almost solemn. Each superfluous line, each wrongly placed line, any color placed without veneration or care, can spoil everything - that is, the spiritual."</q>
+    <q>"Architecture joins together, binds; painting loosens, unbinds."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <article>
+    <synopsys>Theo Van Doesburg was one of the founders and leading theorists of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt; along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian&lt;/span&gt;, which began in the Netherlands and flourished into one of the major inter-war movements. It advocated a simplified, geometric, and reductive aesthetic in the visual arts and argued that painting, design, and architecture should be fully integrated. Van Doesburg created numerous abstract paintings and designed buildings, room decorations, stained glass, furniture, and household items that exemplified De Stijl's aesthetic theories and his personal ideas. He wrote numerous essays and treatises on geometric abstraction and De Stijl, published journals, and organized many exhibitions of works by De Stijl artists and related movements.</synopsys>
+    <key_ideas>
+      <idea>Van Doesburg's personal version of De Stijl was called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-elementarism"&gt;Elementarism&lt;/span&gt;, which emphasized subtle shifts in tones, tilting squares and rectangles at angles relative to the picture plane, and allowed straight horizontal and vertical lines to be colored, varied in length, and disconnected from one another.</idea>
+      <idea>Van Doesburg wanted to give De Stijl more variety, movement, and energy than found in Piet Mondrian's personal version of the movement, which was called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_plasticism"&gt;Neoplasticism&lt;/span&gt;. This small but crucial difference in his thinking led to Van Doesburg and Mondrian's split in 1924.</idea>
+      <idea>Van Doesburg believed that art should be an absorbing, spatial, and environmental experience. This led him to create architectural designs, stained glass, interior decoration, furniture, and other functional, daily items that were carefully related to one another and were meant to be installed together for a holistic experience. Many of these were never actually built or manufactured.</idea>
+      <idea>Van Doesburg felt that abstraction's unique value was its ability to achieve social order and universal harmony with its precise, orderly geometry and vibrant, contrasting colors. He also felt that his reductive method had spiritually and morally uplifting qualities. His &lt;i&gt;Dancers&lt;/i&gt; series demonstrates both his abstraction, and the spiritual inspiration he found in it.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Theo van Doesburg was born in Utrecht, the Netherlands to Wilhelm Kupper and Henrietta Catherina Margadant. Originally named Christian Emile Marie Kupper, he considered his stepfather, Theodorus Doesburg, to be his natural father, eventually taking his stepfather's name when he began his painting career. Van Doesburg served in the Dutch military and during World War I (from 1914 to 1916), he was stationed near Tilburg. He was married four times; the first three marriages ended in divorce and the fourth lasted until his death.</p>
+          <p type="p">He trained in singing and acting before deciding to become a painter, and diverse interests continued to be a hallmark of his career. His first exhibition was in 1908, and starting in 1912 he supported his painting by writing for magazines. Until 1913 he explored traditional representational painting, greatly influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent Van Gogh&lt;/span&gt;, and the then more modernist figurative styles. After reading &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kandinsky_wassily"&gt;Wassily Kandinsky's&lt;/span&gt; autobiographical &lt;i&gt;Ruckblicke&lt;/i&gt;, he had a revelation about the nature of painting and its connection to spirituality. He began to study Theosophy, which influenced his ideas about artistic harmony. The idea that painting originates in the mind changed his style, and he began working in a more personally expressive and painterly abstract style because of this. Two years later, his devotion to Kandinsky's ideas and style of painting had waned considerably after exposure to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian's&lt;/span&gt; paintings in 1915 while reviewing an exhibition on an assignment from a magazine.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Theo van Doesburg Biography" show="1">/images20/photo/van_doesburg_1.jpg</p>
+          <p type="p">In 1916, van Doesburg began to develop his distinct variation of De Stijl. He became convinced that painting, architecture and design should be completely integrated and that art should not only be a visual experience, but part of a larger, more encompassing spatial and physical environment. In October 1917, along with Piet Mondrian, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_leck_bart"&gt;Bart van der Leck&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-oud_jjp"&gt;J.J. Oud&lt;/span&gt;, he was one of the founders of the De Stijl movement, and its magazine, &lt;i&gt;De Stijl&lt;/i&gt;. Van Doesburg was probably its most ardent supporter in the years to come, spreading the message of De Stijl across Europe, and editing and publishing the magazine until its end in 1931. De Stijl was the Dutch variation of the geometric abstraction that developed across Europe. It was characterized by long straight black lines used to define squares and rectangles that are filled in with white, grays, or primary colors.</p>
+          <p type="p">In addition to editing, and writing for &lt;i&gt;De Stijl&lt;/i&gt;, van Doesburg advocated for his theories and other artists' ideas in various publications that he helped publish. &lt;i&gt;Mécano&lt;/i&gt;, published in 1922-1923, was more concerned with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;, another artistic movement he was greatly interested in and to which he contributed. Van Doesburg's extensive traveling throughout Europe, including visits to France, Italy, Germany, and Spain, made him personally familiar with many of his contemporaries and their works and ideas. In these years, he organized many exhibits of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_stijl"&gt;De Stijl&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivist&lt;/span&gt; artists, and even some of Dada artists. He lectured on the ideas of De Stijl at the Bauhaus in 1921, moving to Weimar in 1922 to try and ingratiate himself with principal Bauhaus member, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gropius_walter"&gt;Walter Gropius&lt;/span&gt;. However he was never invited to become part of the Bauhaus faculty because the Bauhaus leaders considered his idea too dogmatic and narrow. Nevertheless, van Doesburg was tenacious; setting himself up next to the Bauhaus buildings and teaching interested students about &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constructivism"&gt;Constructivism&lt;/span&gt;, Dada, and De Stijl.</p>
+          <p type="p">While promoting De Stijl, van Doesburg collaborated with architects and designers as early as 1918, working on numerous projects with the architects J.J. Oud, Gerrit Rietveld, and Cornelis van Easteren. The architectural works that they created together reflected the De Stijl intention of integrating art, architecture, and design. Van Doesburg took the geometry and color of a De Stijl painting off of the canvas and transformed it into an architectural structure; the illustrations for the "Maison Particuliere" that he designed with van Easteren demonstrate this intention. Van Doesburg designed stained glass windows for a house that Oud was building in 1918, as well as the windows and interior decorations for apartment buildings in Rotterdam that Oud was working on from 1918 to 1920. However, this idealistic cooperation proved short-lived, as disagreements over designs and balancing how architecture would be complemented and enhanced with painting or decoration led to deep divisions among the artists and architects associated with the movement.</p>
+          <p type="p">Besides architecture, van Doesburg explored structure in a different way by working in typography. In 1919 he designed an alphabet style that was severely reductive and geometric, which was intended for use in De Stijl posters, signs, decorations, and architecture. Interest in it flourished for only a few years. In the 1920's he collaborated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schwitters_kurt"&gt;Kurt Schwitters&lt;/span&gt; and Kate Steintz on a series of children's books and fairy tale collections which used the typeface; he also designed book covers and posters incorporating his ideas on typography.</p>
+          <p type="p">Further proving how varied his interests were, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; also intrigued van Doesburg. He socialized with numerous Dada artists, creating Dada artworks as early as 1920. He felt that there were aesthetic and expressive benefits to shifting styles so radically. However, he had reservations about being associated too closely with Dada; perhaps because he felt that its irony, sarcasm, and pessimistic outlook conflicted too sharply with the utopian ideas of De Stijl. He wrote Dada poetry under the pen name "I.K. Bonset," which means "I am a fool" in Dutch. He submitted poetry to &lt;i&gt;De Stijl&lt;/i&gt; magazine, as well as editing the Dada magazine, &lt;i&gt;Mecano&lt;/i&gt;. Most of his friends did not know until after his death that van Doesburg was "I.K. Bonset." He even had his wife Nelly dress in drag as "I.K. Bonset" with a false mustache, smoking a pipe, and wearing an aviator's helmet and goggles. Both participated in Dada performances, including a Dada tour of Holland with Kurt Schwitters.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Theo van Doesburg Photo" show="0">/images20/photo/van_doesburg_2.jpg</p>
+          <p type="p">In 1923 van Doesburg left Weimar and moved to Paris to be closer to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Mondrian&lt;/span&gt;. Unfortunately, their personal and professional relationship soon dissolved. Previously, the two artists had only corresponded by mail. In person their divergent personalities were apparent: van Doesburg was extroverted and flamboyant, while Mondrian was introverted. These differences came to a head in 1924, leading to a rupture with Mondrian. The exact reason for the split has been contested among art historians, but many believe that it was due to opposing artistic ideas - primarily that Mondrian did not agree with the use of diagonals whereas van Doesburg insisted that they were a necessity. After the breakup, Van Doesburg further developed his artistic style, creating many paintings that constituted his &lt;i&gt;Counter-Compositions&lt;/i&gt; series. These paintings reflect his development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-elementarism"&gt;Elementarism&lt;/span&gt;, his own variation on Mondrian's &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_plasticism"&gt;Neoplasticism&lt;/span&gt;, which he felt, as evidenced by the split with Mondrian, had become too narrow and rigid in its insistent use of horizontal and vertical linear construction and the combination of only white and primary colors. Elementarism allowed for diagonal lines and triangles to create more varied, overlapping and interactive shapes in compositions that were still basically two-dimensional. It also used graduated tones of primary colors and shades of gray for more variety and interaction between colors, and lights and darks. There was a brief reconciliation when the two men accidentally met in a Parisian café in 1924.</p>
+          <p type="p">While in the middle of this tumultuous time with Mondrian, van Doesburg worked with van Easteren on several designs for houses, some of which were exhibited but none of which were ever built. These designs involved broad geometric planes in primary colors that suggested or indicated planar divisions of space without creating clearly determined, but limiting, walls and ceilings. In 1926, van Doesburg was invited by Hans and Sophie Tauber Arp to collaborate with them on redesigning the Aubette Building in Strasbourg, so that it would have a café, dance hall, and movie theater. He worked on all aspects of these new parts of the building, from the rooms to their tables and chairs, and small furnishings. His recently developed concepts of Elementarism were used extensively in this project. However innovative his work was, the redesign was not well received by the public when the building re-opened in 1929, and it was soon replaced with more conservative decorations and designs.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Theo van Doesburg Portrait" show="1">/images20/photo/van_doesburg_3.jpg</p>
+          <p type="p">
+		  
+		  After the dissolution of Dada, while in Paris in 1929 van Doesburg helped create the group Art Concret and was one of the publishers of its short-lived journal. The group was partly a continuation of De Stijl, but went further, emphasizing geometrical abstract art that was considered the most radical and absolute formulation of abstraction. Van Doesburg's manifesto "Basis of Concrete Painting", published in the journal, is considered the foundational document of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-concrete_art"&gt;Concrete Art&lt;/span&gt;, that developed this philosophy over the following two decades and grew into a large, international movement. The Art Concret group only exhibited three times in 1930, at the Salon des Surindependants in Paris, Production Paris 30 in Zurich, and the International Exhibit of Post-Cubist Art in Stockholm. In 1932, Art Concret was absorbed into Abstraction-Creation, a larger and more robust organization that was established in 1931, partly with his support, and lasted until 1936.</p>
+          <p type="p">Van Doesburg's last major project was the house that he designed for himself and his wife in Meunon, France in 1930-1931. Unlike his work in the 1920s, this house was more reductive and restrained in forms and colors. However, he never saw the house to completion. After several years of poor health he died of a heart attack in 1931 in Davos, Switzerland. His wife, Nelly, lived in the house until her death in 1975.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Van Doesburg's influence on the future of art is hard to ascertain, but only because he worked extensively in so many different forms of art, and in so many different groups. Signs of his impact are found in architecture. Ludwig Mies Van der Rohe, and others at the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus&lt;/span&gt;, incorporated the ideas espoused in van Doesburg's Weimar lectures, which spurred them to add geometry and bold, primary colors into their theory of design. As a testament to his importance, in 2010 the Tate Modern had an entire exhibition devoted to his works, and his influence on fellow artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brancusi_constantin"&gt;Constantin Brancusi&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Jean Arp&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moholy_nagy_laszlo"&gt;László Moholy-Nagy&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picabia_francis"&gt;Francis Picabia&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schwitters_kurt"&gt;Kurt Schwitters&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-taeuber_arp_sophie"&gt;Sophie Taeuber-Arp&lt;/span&gt;. His theoretical essays and articles remain influential.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="bauhaus">Bauhaus building in Dessau, Germany (1919-1925)</artwork>
+    <artwork from="movement" page="dada">Merzpicture 46A. The Skittle Picture (1921)</artwork>
+    <artwork from="movement" page="de_stijl">Composition A (1920)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Dancers</title>
+      <year>c. 1916</year>
+      <materials>Oil on asbestos-cement</materials>
+      <desc>An example of van Doesburg's early abstraction work before the influence of Mondrian, &lt;i&gt;Dancers&lt;/i&gt; presents his explorations into Theosophy and spiritualism. The two figures in the diptych are abstracted representations of the Hindu deity Krishna, dancing and playing the flute. He based the images on a Theosophy figurine of the deity, showing two sides of the figurine in the diptych. Van Doesburg sought to portray spiritual ideas which ignited his belief in the higher powers of art. The Theosophical doctrine outlined in the painting is of the harmony that exists between things on the ideal, divine level underneath the chaotic surface images of everyday existence. By abstracting away the chaotic elements, and representing the harmonious realm beyond the surface, art could make people aware of, and allow them to experience, a spiritual perspective. In the work, he borrows the techniques of Indian art, in which colors and shapes do not reflect nature, but instead express spiritual truths and states.</desc>
+      <collection>Kroller Muller Museum, The Hague, Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>Composition VIII (The Cow)</title>
+      <year>c. 1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>Acting on his mission to inform people of the tenets of De Stijl, van Doesburg abstracted the image of a grazing cow, beginning by creating figurative studies, and gradually changing the image until the cow became a carefully coordinated arrangement of colorful rectangles and squares. Van Doesburg used this composition, as well as his preliminary studies, in a treatise on De Stijl that he distributed for educational purposes. This painting is part of the artist's early foray into De Stijl, and demonstrates his passion for the burgeoning movement. This painting literally demonstrates the meaning of "abstracted" or "to abstract" in that it simplifies and reduces the thing depicted, transforming it into basic geometric structural components. A contrast between &lt;i&gt;Dancers&lt;/i&gt; and &lt;i&gt;Composition VIII (The Cow)&lt;/i&gt; demonstrates the change in his abstraction before and after creating De Stijl.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Rhythm of a Russian Dance</title>
+      <year>1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>Dating from the beginning of van Doesburg's career, this work demonstrates the artist's willingness to modify his ideas about De Stijl's aesthetics. In this painting the movements of traditional Russian dancers, in quick sweeps and short stops that are carefully timed and emphatically horizontal or vertical, are suggested with long narrow lines of various colors. The colored lines seem to move in short, quick bursts and then become very static once again. Here he is combining the static order of De Stijl with dynamic rhythm, signifying the radical ideas that would cause the break between him and Mondrian. The painting, he felt, was proof that abstraction was more concrete than naturalist painting, because it realistically depicted the mental constructs behind ideas.</desc>
+      <collection>The Museum of Modern Art, New York City</collection>
+    </artwork>
+    <artwork>
+      <title>Stained glass Composition IV</title>
+      <year>1918</year>
+      <materials>Stained Glass</materials>
+      <desc>As van Doesburg began to explore the integration of fine, decorative, and applied arts at the end of World War I, stained glass was a frequent choice for his forays into achieving this unification. The carefully arranged small rectangles and squares of clear, black, blue, yellow, and red glass with black lines created with the lead framing customary of stained glass is an early example of how he modified De Stijl to have a livelier, musically rhythmic effect not seen in Mondrian's Neoplastic painting of that time. However two decades later, in &lt;i&gt;Broadway Boogie Woogie&lt;/i&gt;, Mondrian also experimented with incorporating the rhythmic elements of music into his paintings. So, long after van Doesburg's death, Mondrian explored some of the themes van Doesburg had pioneered.</desc>
+      <collection>Created for the de Lange House</collection>
+    </artwork>
+    <artwork>
+      <title>Color design for the floor, walls and ceiling of an academic building in Amsterdam</title>
+      <year>1923</year>
+      <materials>Pen, ink and gouache</materials>
+      <desc>This design is an early example of van Doesburg's use of diagonal organization of rectangles and squares. It shows the octagonal shaped skylight over one of the larger rooms in the college building and the upper parts of the walls adjacent to it in a flat, diagrammatic way. He is attempting to bring elements of De Stijl into the third dimension by using the primary colors and geometry of the style in architectural designs. Additionally, he has incorporated his interpretation of the aesthetics into the diagram with the diagonals. It was this difference in opinion that is cited as the reason for his break with Mondrian. In his architectural works of this period, he hoped to prompt the viewer to a dynamic visual interpretation of volumes that did not rely on a stable construct or structure. In the following year during which he conceived of his related theory of Elementarism, and began painting his &lt;i&gt;Counter-Compositions&lt;/i&gt;.</desc>
+      <collection>Netherlands Architectural Institute, Amsterdam</collection>
+    </artwork>
+    <artwork>
+      <title>Counter-Composition in Dissonance 16</title>
+      <year>1925</year>
+      <materials>Oil on canvas</materials>
+      <desc>This geometrically abstract painting is the most famous work in van Doesburg's &lt;i&gt;Counter-Compositions&lt;/i&gt; series. It consists of rectangles outlined in black and tilted at 45-degree angles relative to the edges of the canvas. The shapes are smoothly filled in with different tones of red, blue, yellow, gray, and white. By tilting the rectangles in an abrupt but consistent way and shifting tones slightly, van Doesburg attempted to create a more dynamic and complex balance of abstract forms than that usually expected in De Stijl, which is best known from the works of Mondrian.</desc>
+      <collection>Haags Gameentemuseum, the Hague, the Netherlands</collection>
+    </artwork>
+    <artwork>
+      <title>Colored perspective drawing for university concert hall designed by Cornelis Van Easternern</title>
+      <year>1926-28</year>
+      <materials>Pencil, gouache and collage on paper</materials>
+      <desc>In 1926 &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-taeuber_arp_sophie"&gt;Sophie Tauber Arp&lt;/span&gt; invited van Doesburg to work with them on the design and decoration of a new entertainment complex in the L'Aubette Building in Strasbourg, and he spent two years on the project. Part of the complex was built by 1929 but it was poorly received by the public and so it was then promptly modified into a more traditional style. The color design above is for a part of the building that was never built. It is a pure and highly effective visualization of his aesthetic as applied to architecture, largely so effective because it remains a theoretical illustration with no need for practical compromises and limitations. Van Doesburg has placed his dynamic diagonals front and center, they are the focal point of the design.</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Simultaneous Counter-Composition</title>
+      <year>1929-30</year>
+      <materials>Oil on canvas</materials>
+      <desc>Created after the split with Mondrian, &lt;i&gt;Simultaneous Counter-Composition&lt;/i&gt; is an example of the artist's newly formed theory of Elementarism. In this painting van Doesburg has retained the primary colors and geometric abstraction of De Stijl while rejecting its strict adherence to only horizontal and vertical lines with the use of diagonals, whose dynamism he felt was necessary. Four rectangles and squares of red, ultramarine blue, yellow, and black are placed asymmetrically on the canvas and cropped by its edges. Two long black lines connecting at right angles and titled at slight angles to the edges of the canvas overlap the geometric shapes. Thus it seems that two separate and "simultaneous" geometric compositions are overlapped in one painting.</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>van_gogh_vincent</entity>
+        <entity>kandinsky_wassily</entity>
+        <entity>gropius_walter</entity>
+        <entity>tzara_tristan</entity>
+      </column>
+      <column>
+        <entity>mondrian_piet</entity>
+        <entity>lissitzky_el</entity>
+        <entity>schwitters_kurt</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>bauhaus</entity>
+        <entity>constructivism</entity>
+        <entity>neo_plasticism</entity>
+        <entity>cubism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>mies_van_der_rohe_ludwig</entity>
+        <entity>brancusi_constantin</entity>
+        <entity>moholy_nagy_laszlo</entity>
+        <entity>picabia_francis</entity>
+      </column>
+      <column>
+        <entity>mondrian_piet</entity>
+        <entity>taeuber_arp_sophie</entity>
+        <entity>schwitters_kurt</entity>
+        <entity>hepworth_barbara</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>bauhaus</entity>
+        <entity>de_stijl</entity>
+        <entity>elementarism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Theo Van Doesburg: Painting into Architecture, Theory into Practice</title>
+          <link>0521129818</link>
+          <info>By Allan Doig</info>
+        </entry>
+        <entry>
+          <title>Van Doesburg and the International Avant-Garde. London: Tate, 2010</title>
+          <link>1854378724</link>
+          <info>By Gladys Fabre, et al</info>
+        </entry>
+        <entry recommended="true">
+          <title>De Stijl, 1917 - 1931: The Dutch Contribution to Modern Art</title>
+          <link>0674199723</link>
+          <info>By H. L. C. Jaffe</info>
+        </entry>
+        <entry>
+          <title>De Stijl: World of Art</title>
+          <link>0500202400</link>
+          <info>By Paul Overy</info>
+        </entry>
+        <entry>
+          <title>Theo Van Doesburg: Painter and Architect</title>
+          <link>9012061067</link>
+          <info>By Theo van Straaten</info>
+        </entry>
+        <entry>
+          <title>Theo Van Doesburg: Constructor of the New Life</title>
+          <link>9074453112</link>
+          <info>By Everett Van Straaten</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="paintings" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Guggenheim Collection</title>
+          <link>https://www.guggenheim.org/artwork/artist/theo-van-doesburg</link>
+          <info />
+        </entry>
+        <entry>
+          <title>MOMA Collection</title>
+          <link>http://www.moma.org/collection/artist.php?artist_id=6076</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Tate Collection</title>
+          <link>http://www.tate.org.uk/whats-on/tate-modern/exhibition/van-doesburg-and-international-avant-garde</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Avant-garde Apostle</title>
+          <link>http://www.tate.org.uk/context-comment/articles/avant-garde-apostle</link>
+          <info>By Alied Ottevanger
+					&lt;br&gt;
+					January 1, 2010
+					&lt;br&gt;
+					The Tate
+</info>
+        </entry>
+        <entry>
+          <title>Theo Van Doesurg: Forgotten Artist of the Avant Garde</title>
+          <link>http://www.theguardian.com/artanddesign/2010/jan/23/theo-van-doesburg-avant-garde-tate</link>
+          <info>
+					By Simon Mawer
+					&lt;br&gt;
+					January 22, 2010
+					&lt;br&gt;
+					The Guardian
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

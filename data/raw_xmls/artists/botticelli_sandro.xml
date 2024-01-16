@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>botticelli_sandro</id>
+    <name>Sandro Botticelli</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1464 - 1510</years>
+    <description>Botticelli's images represent the pinnacle of the cultural flourishing of Renaissance Florence, a prosperous society that epitomized beauty and virtue.</description>
+    <art_description>Important art &amp; artworks analysis by Sandro Botticelli including: Adoration of the Magi, Primavera, Venus and Mars, The Birth of Venus &amp; more in Early Renaissance.</art_description>
+    <use_big_images>true</use_big_images>
+    <nationality>Italian</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>c.1445</birthDate>
+    <birthPlace>Florence, Italy</birthPlace>
+    <deathDate>May 17, 1510</deathDate>
+    <deathPlace>Florence, Italy</deathPlace>
+    <image_desc>true</image_desc>
+    <highlight>5</highlight>
+    <pub_time>9/22/2018</pub_time>
+    <big_bio_box_img>Detail from &lt;i&gt;The Story of Nastagio degli Onesti I&lt;/i&gt; (1483)</big_bio_box_img>
+    <bio_highlight>After a successful early career, Botticelli fell under the influence of extremist Dominican friar Girolamo Savonarola who, in the 1490s, convinced many Florentines that the Black Plague was punishment from God, and that they needed to repent by burning their material possessions in a massive public bonfire; thus most of Botticelli’s early works met their fate, except for those that had already been acquired by his patrons of the prominent Medici family, and his subsequent works took on a much darker mood.</bio_highlight>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>early_renaissance</include>
+  </includes>
+  <similar_movements>
+    <movement>early_renaissance</movement>
+    <movement>high_renaissance</movement>
+    <movement>mannerism</movement>
+    <movement>erotic_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>vasari_giorgio</artist>
+    <artist>donatello</artist>
+    <artist>raphael</artist>
+    <artist>anguissola_sofonisba</artist>
+    <artist>morisot_berthe</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"By throwing a sponge soaked with different colors at a wall one can make a spot in which a beautiful landscape can be seen."</q>
+    <q author="Berthe Morisot">"I wear myself out trying to render the orange trees so that they're not stiff but like those I saw by Botticelli in Florence. It's a dream that won't come true."</q>
+    <q author="From a report by an agent to Lodovico Sforza, Duke of Milan, c. 1485">"Sandro di Botticelli is an excellent painter of panel paintings and frescoes; they are painted in a vigorous style, with the soundest judgement and perfect proportion."</q>
+    <q author="John Ruskin">"...he was the only painter of Italy who thoroughly felt and understood Dante; and the only one who also understood the thoughts of the Heathens and Christians equally, and could in a measure paint both Aphrodite and the Madonna. So that he is on the whole, the most universal of painters; and take him all in all, the greatest Florentine workman."</q>
+    <q author="Giorgio Vasari">"Sandro's drawing was much beyond the common level... [and that other artists] strove to obtain examples."</q>
+    <q author="Writer Emile Zola's Narcisse character">"Ah! Botticelli! Botticelli! The elegance and grace of suffering passion, the profound feeling of sadness in voluptuousness! All our modern soul apprehended and transposed, with the most disquieting enchantment that ever came from an artist's creation."</q>
+  </quotes>
+  <authors>
+    <author link="souter">Anna Souter</author>
+  </authors>
+  <article>
+    <synopsys>Botticelli was perhaps the greatest humanist painter of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-early_renaissance"&gt;Early Renaissance&lt;/span&gt;, yet much of his life and influences remain a mystery to us today. His paintings represent the pinnacle of the cultural flourishing of the Medicis' Florence, a prosperous society that encouraged the progress of art, philosophy and literature. Throughout his long career he was commissioned to paint many different subjects, but at the heart of his work he always strove towards beauty and virtue, the qualities represented by the goddess Venus, who is the subject of many of his most famous paintings.</synopsys>
+    <key_ideas>
+      <idea>Influenced by the revival of Greek and Roman ideas in Florence at the time, Botticelli was one of the first Western artists since classical times to depict non-religious subject matter. The idea that art could be for pleasure, and not only serve religious purposes was a breakthrough for Western art.</idea>
+      <idea>Botticelli bridged the gap between the Medieval Gothic style of painting and an emerging Humanist Realism. His work incorporated an emerging knowledge of human anatomy and perspective, yet it retains a decorative quality, not found in the work of artists of the succeeding &lt;span class="marked_text chart-tooltip-target-top tooltip_id-high_renaissance"&gt;High Renaissance&lt;/span&gt;, or for a long time afterwards. He aimed to achieve the ideal of beauty in his paintings, and he parted with realism if a more imaginative form better served the overall aesthetic idea.</idea>
+      <idea>His exploration of emotional depth in traditional Christian subjects was unique at a time when religious art was largely iconographic. He painted his subjects in a way that made them relatable to an ordinary person, emphasizing the human relationships between them. This is particularly evident in his early Madonna and Child paintings; there is a warmth and tenderness between mother and child that is distinctive of Botticelli.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Sandro Botticelli was born Alessandro di Mariano Filipepi. His date of birth is not certain, but his father, who worked as a tanner, submitted tax returns that claimed Botticelli was two years old in 1447 and 13 years old in 1458. Therefore, art historians have assumed that he was born around 1445.</p>
+          <p type="p">Very little is known about the artist's early life, but it is thought that he grew up on the Via Borgo Ognissanti in Florence. Botticelli lived in this relatively poor area of the city all his life. According to legend, one of the artist's four older brothers gave him the nickname "Botticelli", meaning "little barrel", and the moniker stuck; as early as 1470, he was referred to in a document as "Sandro Mariano Botticelli".</p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="img" alt="&lt;i&gt;Detail from Filippo Lippi's Prato cathedral frescoes showing his influence on Botticelli&lt;/i&gt;" show="1">/images20/photo/photo_botticelli_sandro_1.jpg</p>
+          <p type="p">According to art historian &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt;, in his influential book &lt;i&gt;Lives of the Artists&lt;/i&gt;, published in 1550, Botticelli entered the workshop of Fra Filippo Lippi (1406-1459) towards the end of the 1450s. Lippi is known for his simple and beautiful paintings, especially of the Madonna and Child. His clarity of line and use of the female figure had a significant influence on Botticelli's style, particularly in the early paintings such as &lt;i&gt;Madonna of the Eucharist&lt;/i&gt; (c. 1472). The lineage can be seen in Lippi's frescoes in the cathedral of Prato, just outside Florence.</p>
+          <p type="p">Although there is no documentary evidence, Lippi's significant stylistic influence suggests that Botticelli may well have been an apprentice in his studio. It was common at the time for apprentices to begin at the age of thirteen or earlier, so it is likely that Botticelli began his artistic education early. Lippi enjoyed the patronage of the powerful Medici family, and Botticelli soon began to benefit from this connection as well. Records show that the family moved around the corner to the Via Nuova in 1464, where they made a connection with the wealthy Vespucci family, including Amerigo Vespucci, the explorer and voyager after whom the Americas were named. A legend began circulating in the 19&lt;sup&gt;th&lt;/sup&gt; century that Botticelli used Amerigo's beautiful cousin-in-law Simonetta as the model for many of his famous paintings, however, although it makes for an enticing story, the truth is it is unlikely to be the case, as Simonetta was already dead by the time Botticelli began painting them.</p>
+          <p type="img" alt="Botticelli’s first known painting was Fortitude (1470), now in the Uffizi Gallery in Florence" show="1">/images20/photo/photo_botticelli_sandro_7.jpg</p>
+          <p type="p">The first documented painting by Botticelli is &lt;i&gt;Fortitude&lt;/i&gt; from a panel of seven paintings of the virtues, the other six having been painted by the workshop of Antonio del Pollaiuolo, who was originally commissioned for the work. Botticelli was influenced by Pollaiuolo's naturalistic renditions of the human body, and understanding of anatomy, which Pollaiuolo reputedly studied from dissected dead bodies. However, Botticelli always held back from true naturalism, preferring a distorted figure if it better served the overall idea. Botticelli's early Madonnas already display the human warmth and tenderness that would come to distinguish his work throughout his life.</p>
+          <p type="p">In the late 1460s, Botticelli is also thought to have been active in Andrea del Verrocchio's workshop better known today for his sculpture than his painting, and the influence is evident in the sculptural contours of Botticelli's figures. By 1470, Botticelli had moved back into his family's home on Via Nuova and set up his workshop there. Botticelli's unique style made it easy for his workshop to copy or finish works that he started, so there are many paintings where it is hard to establish the artist's distinct hand amongst those of his apprentices.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Botticelli's self-portrait is thought to be included in his painting &lt;i&gt;Adoration of the Magi&lt;/i&gt; (c. 1476)" show="1">/images20/photo/photo_botticelli_sandro_2.jpg</p>
+          <p type="p">In 1472, Botticelli's position allowed him to join the group of Florentine painters called the Compagnia di San Luca. His early work in this period was produced for churches in Florence, including his &lt;i&gt;Adoration of the Magi&lt;/i&gt; (c.1476) for Santa Maria Novella, one of the city's most important religious spaces. The painting contains portraits of Cosimo de' Medici, and his sons Piero and Giovanni, along with other members of the Medici family. In addition to these, the painting is thought to include the only known self-portrait by the artist.</p>
+          <p type="p">As well as the more famous works, his workshop during this period was the most popular supplier of Madonnas to private and public patrons in Florence, and Botticelli soon became so well-known that in 1481 Pope Sixtus IV asked Botticelli to oversee the decoration of the recently completed Sistine Chapel in the Vatican. For this project, Botticelli created a series of frescoes, often overlooked by visitors whose eyes are drawn straight to Michelangelo's famous ceiling. Giorgio Vasari notes that, "having therefore acquired still greater fame and reputation among the great number of competitors who worked with him, both Florentines and men of other cities, he received from the Pope a good sum of money, the whole of which he consumed and squandered in a moment during his residence in Rome, where he lived in haphazard fashion, as was his wont."</p>
+          <p type="p">Botticelli was at the forefront of a major shift that took place in Western Europe as the Medieval "dark ages" were coming to a close, while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance_humanism"&gt;Renaissance Humanism&lt;/span&gt; and the rational sciences were just beginning to form an entirely new world view, which would eventually grow into the Enlightenment a few centuries later. Soon after his return to Florence, Botticelli started work on his two most famous works, &lt;i&gt;Primavera&lt;/i&gt; (late 1470s-early 1480s) and &lt;i&gt;The Birth of Venus&lt;/i&gt; (c. 1486). Vasari saw these works in Pierfrancesco de' Medici's villa and it was assumed for a long time that the works were intended for this site, but art historians are now uncertain about the origins and commissioners of these two paintings. It seems likely that the paintings were both commissioned by a member of the Medici family, but this is uncertain.</p>
+          <p type="p">The Medici's Florence was a prosperous and permissive society that allowed culture to flourish. Cosimo de' Medici set up an academy and encouraged scholars from across Europe to come to Florence to debate Neoplatonic philosophy and Renaissance Humanism. The classical subjects of the paintings of this period suggest that Botticelli may have been associated with the academy, though he wasn't a member. Venus, who appears in many of Botticelli's most famous paintings of the period, was an important figure for the Neoplatonists, representing &lt;i&gt;humanitas&lt;/i&gt; - the development of human virtue, in all its forms. A shift was happening across science, culture and philosophy, and Botticelli's paintings gave form to this new vision, heralding the emergence of a modern world. In these paintings we are able to see the tensions between the Medieval and the modern, the former being predominantly Christian, with art that was largely devotional, and highly decorative and stylized; the latter rational, scientific, and glorifying the Classical art that came from what the Neoplatonists believed to have been a more culturally advanced society.</p>
+          <p type="p">Botticelli worked alongside various other key artists of the Florentine Renaissance. With some, however, he did not get on very well. In his Libro di Pittura (book on painting), Leonardo da Vinci noted that Botticelli once claimed that he did not like landscape painting because "by throwing a sponge soaked with different colors at a wall, one can make a spot in which a beautiful landscape can be seen." Leonardo responded angrily to this in his notebook: "Although that stain may suggest ideas, it will not teach you to complete any art, and the above mentioned painter (Botticelli) paints very bad landscapes."</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Some historians have argued that rumors about Botticelli’s homosexuality are substantiated by the homoerotic nature of his painting St. Sebastian (1474)." show="1">/images20/photo/photo_botticelli_sandro_4.jpg</p>
+          <p type="p">At some point in the 1490s, Botticelli leased a small country house and farm on the outskirts of Florence with his brother Simone. The artist seems to have led a bachelor life - he certainly never married. In Angelo Poliziano's &lt;i&gt;Detti Piacevoli&lt;/i&gt; (1477), he presents an anecdote about an exchange between Botticelli and his patron Tommaso Soderini. When Soderini asked Botticelli why he was not married, Botticelli replies that he had recently dreamed that he was married, woke up feeling a deep sense of grief and then walked around the city to stop himself from falling asleep again and resuming the dream. There is an accusation in the Florentine Archives against Botticelli from 1502, indicating that he "kept a boy", which has led to speculation that he may have been gay or bisexual. Art historians are divided over how much should be read into this, as accusations along these lines were a common form of petty slander at the time. Many historians have also noted the homo-erotic tendencies in paintings such as &lt;i&gt;St Sebastian&lt;/i&gt; (c. 1474).</p>
+          <p type="img" alt="Extremist Dominican friar Girolamo Savonarola (painted here by Fra Bartolomeopersuaded the Florentine public that God was unhappy with them, and they were to participate in public displays of self-flagellation, and even burn their material belongings in a “Bonfire of the Vanities”, in which many of Botticelli’s early works were lost." show="1">/images20/photo/photo_botticelli_sandro_5.jpg</p>
+          <p type="p">During the 1490s, the political climate in Florence changed significantly following the death of Lorenzo de' Medici and the invasion of Charles VIII of France. A Dominican friar named Girolamo Savonarola, who criticized the morals of Florentine society in apocalyptic sermons, began to have significant influence over the city as the Medici family’s power receeded. Savonarola's extremist views were also more readily accepted in Florence at the time, as the city was still reeling from the catastrophic epidemic of the Bubonic plague. Many citizens were open to the belief that this tragic episode was a punishment from God for their materialistic lifestyles. This religious fervour concluded in The Burning of the Vanities on Shrove Tuesday, 1497, in which it is speculated many of Botticelli's paintings may have been lost, with his only surviving works being those that were already in the possession of the Medici.</p>
+          <p type="img" alt="From about 1500 onwards, Botticelli’s work became darker and more sombre, as in Mystic Crucifixion (1501)." show="1">/images20/photo/photo_botticelli_sandro_6.jpg</p>
+          <p type="p">The paintings of the 1500s are more sombre and overtly spiritual in content, yet they are still marked by Botticelli's warmth and imaginative brilliance. Paintings such as &lt;i&gt;Mystic Crucifixion&lt;/i&gt; (1501), and &lt;i&gt;Mystic Nativity&lt;/i&gt; (1501) have an emotional intensity that shows a deeper understanding of the tragedy of the human condition; they also show a great deal of attention given to the settings, whether it is detailed imaginary architecture or a rustic field. What became of Botticelli during this period is debated by scholars, some believing the more overtly religious subjects of his late paintings to be further evidence that he too became a follower of Savonarola. Some suggest that he was out of work towards the end of his life, as the more scientific, humanist painters such as Leonardo da Vinci came into favor. Vasari writes that Botticelli was feckless, and squandered the money he had made earlier in his career. Whatever the reason, he seems to have died a poor man.</p>
+          <p type="p">Botticelli died in 1510, and was buried in the chapel of the Vespucci family in the church of Ognissanti in Florence, meters away from where he grew up and lived all his life. His grave is marked by a simple circle of marble.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Botticelli's influence on the course of art history and popular culture has been significant across the centuries in a way rivaled by few other artists. His legacy begins with the artists he taught directly, such as Filippino Lippi, the son of Filippo Lippi who had trained Botticelli early in life. In an unconventional move, Botticelli finished Filippino Lippi's fresco &lt;i&gt;The Adoration of the Kings&lt;/i&gt; (1496) (it was more usual for a pupil to finish his master's work, not vice versa). Giorgio Vasari saw Botticelli as the epitome of the "golden age" of art achieved during the time of the great patron of the arts, Lorenzo de' Medici.</p>
+          <p type="p">However, although he was famous during his lifetime, Botticelli's reputation suffered after his death for several centuries. Perhaps because Botticelli's work remained rooted in a Medieval tradition that was forsaken during the High Renaissance, his work was dismissed along with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_art_and_architecture"&gt;Gothic art&lt;/span&gt;. So-called because it was thought at the time to be influenced by the Goths and the Vandals, who were considered to be uncultured. Another theory speculates that Botticelli's career suffered after the Medicis were forced to leave Florence, and power was usurped for a time by conservative Christian influences that denounced the decadence of the former rulers and the artists they patronised.</p>
+          <p type="p">It was not until the 19&lt;sup&gt;th&lt;/sup&gt; century that his work was reappraised and began to be valued highly once more. The Pre-Raphaelite movement rejected the softer style of art espoused by Raphael and later artists, preferring the linearity of early Florentine Renaissance painting, and particularly praising Botticelli. Dante Gabriel Rossetti even owned a work by the artist, and wrote a sonnet dedicated to Botticelli's &lt;i&gt;Primavera&lt;/i&gt; (late 1470s- early 1480s), believing the central figure to be the same woman depicted in the portrait he owned.</p>
+          <p type="p">From the Pre-Raphaelites, Botticelli's influence spread widely across artistic movements. A recent exhibition at the Victoria and Albert Museum in London cites the artist's influence in works as diverse as Andy Warhol, Cindy Sherman and photographer Rineke Djikstra. In addition, references to Botticelli - and particularly to &lt;i&gt;The Birth of Venus&lt;/i&gt; (c. 1496) - can be seen in popular culture, such as in the James Bond film &lt;i&gt;Dr. No&lt;/i&gt; when Ursula Andress emerges from the sea.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="raphael">Triumph of Galatea (1514)</artwork>
+    <artwork from="movement" page="mannerism">An Allegory with Venus and Cupid (c. 1545)</artwork>
+    <artwork from="artist" page="boucher_francois">The Triumph of Venus (1740)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Adoration of the Magi</title>
+      <year>c.1475</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				This important early work by Botticelli was commissioned by Guaspare di Zanobi del Lama, a banker who had built a chapel in the church of Santa Maria Novelli in Florence. It is possible that del Lama chose this subject to decorate his chapel because one of the Magi, traditionally known as "Caspar", or "Gaspare", is his namesake. According to Vasari's &lt;i&gt;Lives of the Artists&lt;/i&gt;, the work depicts several members of the Medici family, including Cosimo the Elder, and his sons Piero and Giovanni, who were all deceased at the time the painting was made, as the three Magi. The Medici family often associated themselves with the Magi or Three Kings from the Nativity story, even riding through the streets of Florence dressed as them every Epiphany. The Medici were friends of the del Lama family, and important patrons for Botticelli himself. Although del Lama's intentions in commissioning these portraits as part of the painting are not known, it was common for religious scenes painted at the time to contain portraits of nobility, and points to the important connection art had with money and power in Renaissance Florence.
+				&lt;br/&gt;&lt;br/&gt;
+				Botticelli was probably the first artist to depict the Adoration of the Magi with the holy family at the center, set back "deep" into the painting, with the other characters arranged symmetrically on either side. Previously, the scene had always been depicted as a linear narrative flowing across the space of the canvas, as in the Gothic painting by Gentile da Fabbriano (1420) or Benozzo Gozzoli's famous fresco in the Palazzo Medici (1459).
+				&lt;br/&gt;&lt;br/&gt;
+				Intriguingly, the painting also contains a self-portrait of Botticelli - the only one known to be in existence. The artist stands on the right edge of the painting and looks directly out at the viewer. Although he was probably only around 30 years old when this was painted, Botticelli depicts himself as confident and masterful, and his confidence is justified by the accomplished style of this work, which compares to some of his more mature masterpieces.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Primavera</title>
+      <year>1477-82</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				One of the most famous paintings in Western art, the &lt;i&gt;Primavera&lt;/i&gt; depicts a series of figures from classical mythology in a garden or woodland. Rather than representing a scene from a specific story, it is believed that Botticelli either presents the figures in this arrangement purely for aesthetic reasons, or if there was a narrative, it is unknown to us today. Either way, the mysteriousness of the painting is part of its great appeal.
+				&lt;br/&gt;&lt;br/&gt;
+				It is generally agreed that the painting is an allegory about the season of Spring, as suggested by its title, but there is no agreement as to the exact message being conveyed. It is likely that the central character is Venus, the goddess of love, while the three graces dance beside her, and Chloris, the goddess of flowers, is chased by the figure of the West Wind before transforming into Flora, echoing a myth described in Ovid. The messenger god Mercury stands to the left, as the figure of Cupid floats above the scene, about to fire an arrow.
+				&lt;br/&gt;&lt;br/&gt;
+				The &lt;i&gt;Primavera&lt;/i&gt; is particularly significant as it is one of the earliest examples in Western post-Classical painting of a non-religious scene. As The Guardian's senior art critic Jonathan Jones puts it, "Botticelli's &lt;i&gt;Primavera&lt;/i&gt; was one of the first large-scale European paintings to tell a story that was not Christian, replacing the agony of Easter with a pagan rite. The very idea of art as a pleasure, and not a sermon, began in this meadow." To see this in a painting of this scale (80 x 124 inches) makes &lt;i&gt;Primavera&lt;/i&gt; a particularly exciting milestone for the development of Western art.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Venus and Mars</title>
+      <year>c.1485</year>
+      <materials>Tempera and oil on poplar</materials>
+      <desc>
+				In this panel painting, Botticelli turns once again to a mythological subject. Venus, the goddess of love, reclines on the grass while her lover Mars, the god of war, lies asleep and disarmed before her, presumably tired out by love-making. Several young fauns are playing in the scene, attempting to wake Mars by blowing in his ear with a conch shell. The painting also features some wasps ("vespe" in Italian), which may be a reference to the Vespucci family, who lived near to Botticelli, or may refer to the stings of love. The basic message of the work could be read as "love conquers war".
+				&lt;br/&gt;&lt;br/&gt;
+				The painting, which was probably intended to be incorporated into a piece of bedroom furniture, is essentially a joke at the expense of men. Mars is undone by his sexual encounter, disarmed and vulnerable, while Venus looks calmly on, fully clothed and awake. Mars is wearing only a small swathe of fabric, leaving his almost-bare body on view to both his lover Venus and, implicitly, the viewer, becoming the object of desire in the painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Though Venus is fully clothed having "conquered" Mars, the portrayal of her powerful sexuality is equally as enticing. As art historian Patricia Rubin points out, "Botticelli's Venus, posed with her exhausted lover Mars, is, by definition, the pagan adulteress. The emphatically sensuous curves and sculptural surfaces of her body signify her physical desirability and use tactics studied from ancient sculpture." In this way, Botticelli emphasizes Venus' power, but also eroticizes her, showing her divine beauty and drawing attention to the feminine body underneath her dress.
+			</desc>
+      <collection>The National Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>Map of Hell</title>
+      <year>c. 1485</year>
+      <materials>Silverpoint and ink with colored tempera on goatskin parchment</materials>
+      <desc>
+				Dante, the most famous of Italian poets, wrote his &lt;i&gt;Divine Comedy&lt;/i&gt; between c. 1308 and 1320 while living in Florence. A century and a half later, it was widely read and its importance was recognized. In the 1480s, Botticelli began working on a series of drawings to illustrate the poem, 92 of which survive, including the &lt;i&gt;Map of Hell&lt;/i&gt;. This is a detailed depiction of Dante's nine circles of hell, the types of people sent to each, and the punishments inflicted there. It is one of four fully-colored images in the collection; the rest are mostly in silverpoint or worked over in ink.
+				&lt;br/&gt;&lt;br/&gt;
+				The work was conceived to have a different image depicting the entire sequence of events for each canto of the &lt;i&gt;Divine Comedy&lt;/i&gt;, of which there are 99 in all. This was an unprecedented way of approaching illustrations to a text. Usually, an artist would choose a particular scene or episode, whereas Botticelli captures the entire canto, sometimes repeating key figures in different formulations to express the narrative's progress. This approach can be seen in the &lt;i&gt;Map of Hell&lt;/i&gt;, which ambitiously attempts to capture the entire configuration of the underworld.
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Barbara Watts argues that the illustrations are often overlooked in Botticelli's oeuvre, claiming that "Botticelli's Dante drawings are of such vision and beauty that, no less than the &lt;i&gt;Primavera&lt;/i&gt;, they are central to his artistic achievement."
+			</desc>
+      <collection>Vatican City</collection>
+    </artwork>
+    <artwork>
+      <title>The Birth of Venus</title>
+      <year>c. 1486</year>
+      <materials>Tempera on canvas</materials>
+      <desc>
+				This painting is one of the best-loved works of art in the world. Although Botticelli lost favor after his death, his reputation was revived in the late 19th century and since then &lt;i&gt;The Birth of Venus&lt;/i&gt; has risen to international fame. The painting depicts the goddess of love, Venus, sailing to shore from the sea on a giant shell. She is blown into land by Zephyr, the god of the west wind, while a female attendant waits with a cloak.
+				&lt;br/&gt;&lt;br/&gt;
+				Like the slightly earlier &lt;i&gt;Primavera&lt;/i&gt;, &lt;i&gt;The Birth of Venus&lt;/i&gt; is groundbreaking for presenting a non-religious scene from classical mythology on such a large scale. Moreover, the inclusion of such a prominent female nude at near-life-size was virtually unprecedented in Western painting. The work plays an obvious homage to classical art, emulating the "Venus Pudica" style of a nude female figure attempting, but not quite succeeding, to preserve her modesty with her hands and in this case her erotically charged long hair.
+				&lt;br/&gt;&lt;br/&gt;
+				Botticelli's reference to classical sculpture in Venus' pose is overt, as she stands in the &lt;i&gt;contrapposto&lt;/i&gt; stance with her weight on one foot, which was favored by Greco-Roman art and emulated by early Italian Renaissance artists. Intriguingly, the stance is so exaggerated that it is anatomically impossible, and the figure stands improbably on the edge of the floating shell. In this way, Botticelli also refers back to the Gothic tradition that preceded the Renaissance, where emphasis was placed on symbolism and status rather than on realistic depiction. It is interesting, therefore, that Botticelli's most famous work has come to stand for Italian Renaissance art in the popular imagination, even though it eschews many of the key tenets of the later movement in favor of aesthetic beauty and an overall idea.
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+    <artwork>
+      <title>Calumny of Apelles</title>
+      <year>1494-95</year>
+      <materials>Tempera on panel</materials>
+      <desc>
+				This unusual late scene by Botticelli has an almost surrealistic quality to it, with its ornate setting, blank skies and allegorical figures. The work is the result of Botticelli's attempt to recreate a lost painting by the Ancient Greek artist Apelles, as described in a well-known text by the Roman writer Lucian, pointing to Botticelli's admiration of classical art.
+				&lt;br/&gt;&lt;br/&gt;
+				The scene is an allegory depicting slander, with all the figures representing vices or virtues, apart from the King and the accused man, who could be seen as representing the balance of power. A figure closely resembling the nude central character of &lt;i&gt;The Birth of Venus&lt;/i&gt; (c.1486) can be seen to the left of the scene, this time symbolizing the allegorical figure of Truth. Once again, she stands in an exaggerated &lt;i&gt;contrapposto&lt;/i&gt; stance, with one hand recalling the "Venus Pudica" trope and one pointing towards heaven.
+				&lt;br/&gt;&lt;br/&gt;
+				Botticelli's painting emphasizes how wrong slander is through both the allegory he depicts as well as the setting. The elaborate architecture, designed to perfect Renaissance proportions, is punctuated by sculptures of both Christian and pagan virtuous figures, all of whom appear to be looking down on and judging the scene below. As the art historian Guido Cornini argues, "Botticelli transforms the literary notion into a bizarre elaboration, revitalizing and at the same time exhausting the classical allegory. The marble elegantly decorating the hall and the grandeur with which the arches define the space in which the allegory unfolds in Botticelli's representation, no longer frame delicate mythological compositions alluding to defined virtues or moral objectives. On the contrary, they clearly show the abject wickedness of the slanderous act."
+			</desc>
+      <collection>The Uffizi Gallery, Florence</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>masaccio</entity>
+        <entity alt="Filippo Lippi">lippi_filippo</entity>
+        <entity alt="Andrea del Verrocchio">del_verrocchio_andrea</entity>
+        <entity alt="Pollaiuolo">pollaiuolo</entity>
+      </column>
+      <column />
+      <column>
+        <entity>classical_greek_and_roman_art</entity>
+        <entity>gothic_art_and_architecture</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Filippo Lippi">lippi_filippo</entity>
+        <entity>rossetti_dante_gabriel</entity>
+        <entity>morris_william</entity>
+        <entity>warhol_andy</entity>
+        <entity>sherman_cindy</entity>
+      </column>
+      <column />
+      <column>
+        <entity>renaissance</entity>
+        <entity>pre_raphaelites</entity>
+        <entity>pop_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Botticelli</title>
+          <link>3791381938</link>
+          <info>By Frank Zollner</info>
+        </entry>
+        <entry>
+          <title>Botticelli And The Search For The Divine</title>
+          <link>0996804137</link>
+          <info>By John Spike</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Botticelli</title>
+          <link>3836542846</link>
+          <info>By Barbara Deimling</info>
+        </entry>
+        <entry recommended="true">
+          <title>Botticelli: Life and Work</title>
+          <link>0896599310</link>
+          <info>By Ronald Lightbrown</info>
+        </entry>
+        <entry>
+          <title>Florence: The Paintings &amp; Frescoes, 1250-1743</title>
+          <link>1631910019</link>
+          <info>By Ross Ring and Anja Grebe</info>
+        </entry>
+        <entry>
+          <title>The Drawings by Sandro Botticelli for Dante's Divine Comedy</title>
+          <link>0060107774</link>
+          <info>By Kenneth Clark</info>
+        </entry>
+        <entry recommended="true">
+          <title>Under the Guise of Spring: The Message Hidden in Botticelli's Primavera</title>
+          <link>0856832960</link>
+          <info>By Eugene Lane-Spollen</info>
+        </entry>
+        <entry>
+          <title>Sandro Botticelli: 1444/45 - 1510: The Evocative Quality of Line</title>
+          <link>3836551462</link>
+          <info>By Barbara Deimling</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>10 Things That Will Surprise You About Renaissance Master Sandro Botticelli</title>
+          <link>https://news.artnet.com/art-world/renaissance-master-sandro-botticelli-835226</link>
+          <info>
+				By Sarah Cascone 
+				&lt;br&gt;
+				ArtNet News  
+				&lt;br&gt;
+				January 27, 2017
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Early Renaissance Narrative Painting in Italy</title>
+          <link>https://www.metmuseum.org/art/metpublications/early_renaissance_narrative_painting_in_italy_the_metropolitan_museum_of_art_bulletin_v_41_no_2_fall_1983</link>
+          <info>
+				By Keith Christiansen 
+				&lt;br&gt;
+				Metropolitan Museum of Art  
+				&lt;br&gt;
+				Fall 1983
+			</info>
+        </entry>
+        <entry>
+          <title>Botticelli and Pulp Fiction</title>
+          <link>https://www.vam.ac.uk/articles/botticelli-and-pulp-fiction</link>
+          <info>
+				By Mark Evans 
+				&lt;br&gt;
+				Victoria and Albert Museum  
+				&lt;br&gt;
+				March 2016
+			</info>
+        </entry>
+        <entry>
+          <title>Botticelli: Love, Wisdom, Terror</title>
+          <link>https://www.nybooks.com/articles/2016/05/26/botticelli-love-wisdom-terror/</link>
+          <info>
+				By Andrew Butterfield 
+				&lt;br&gt;
+				New York Review of Books  
+				&lt;br&gt;
+				May 26, 2016
+			</info>
+        </entry>
+        <entry>
+          <title>Spring Begins with Botticelli</title>
+          <link>https://www.theguardian.com/artanddesign/2012/mar/19/spring-begins-with-botticelli</link>
+          <info>
+				By Jonathan Jones
+				&lt;br&gt;
+				The Guardian  
+				&lt;br&gt;
+				March 19, 2012
+			</info>
+        </entry>
+        <entry>
+          <title>Botticelli: A Touch of the Divine</title>
+          <link>https://www.royalacademy.org.uk/article/botticelli-a-touch-of-the-divine</link>
+          <info>
+				By Simon Wilson
+				&lt;br&gt;
+				Royal Academy  
+				&lt;br&gt;
+				March 4, 2016
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>From Medicis to Mythologies: How Sandro Botticelli Became One of History’s Most Influential Artists</title>
+          <link>https://www.artnews.com/feature/sandro-botticelli-who-is-he-why-is-he-important-1234581919/</link>
+          <info>
+				By Angelica Villa
+				&lt;br&gt;
+				Art News 
+				&lt;br&gt;
+				January 25, 2021
+			</info>
+        </entry>
+        <entry>
+          <title>Sandro Botticelli’s ‘Primavera’ Is a Mysterious Celebration of Spring. Here Are 4 Things You May Not Know About This Enigmatic Marvel</title>
+          <link>https://news.artnet.com/art-world/sandro-botticelli-primavera-4-things-to-know-1937013</link>
+          <info>
+				By Katie White
+				&lt;br&gt;
+				ArtNet News 
+				&lt;br&gt;
+				January 15, 2021
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Sandro Botticelli: Venus and Mars in Renaissance Florence | National Gallery</title>
+          <link>https://www.youtube.com/watch?v=jNkHq6QXX30</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>The Divine Comedy: Dante &amp; Botticelli's Visions of Violence and Beauty (2001)</title>
+          <link>https://www.youtube.com/watch?v=fvV9CohMoQw</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Botticelli, Primavera, Smarthistory</title>
+          <link>https://www.youtube.com/watch?v=qwZn852brII</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Artsleuth - Botticelli - The Birth of Venus</title>
+          <link>https://www.youtube.com/watch?v=l9ZIJOX0Jjo</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Know the Artist: Sandro Botticelli - Several Circles</title>
+          <link>https://www.youtube.com/watch?v=PySzRJzlF08</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Botticelli Biography - Goodbye-Art Academy</title>
+          <link>https://www.youtube.com/watch?v=ea1--FrSZTw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>After 500 Years, A Clue To Who Inspired Botticelli's ‘Birth Of Venus’ - NBC News</title>
+          <link>https://www.youtube.com/watch?v=Ng0qn-rsdm4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The Original Blond Bombshell: Botticelli’s The Birth of Venus - Sotheby’s</title>
+          <link>https://www.youtube.com/watch?v=_dYAa5hjEZg</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Sandro Botticelli - La Primavera (1482) - Art History Online</title>
+          <link>https://www.youtube.com/watch?v=XhX3kWQCDyo</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Botticelli: The Curator's View - Museum of Fine Arts, Boston</title>
+          <link>https://www.youtube.com/watch?v=ZlvdU-bqt08</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>A Celebration of Beauty and Love: Botticelli's Birth of Venus - SmartHistory</title>
+          <link>https://www.youtube.com/watch?v=K6PBfbkMzFU</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Botticelli - The Birth of Venus - University of Birmingham</title>
+          <link>https://www.youtube.com/watch?v=-pzFEZwmDBc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Botticelli Reimagined at V&amp;A - ArtFundUK</title>
+          <link>https://www.youtube.com/watch?v=IL0Y9ypoWWw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>What's Special about Botticelli? - Auckland Art Gallery Toi o Tāmaki</title>
+          <link>https://www.youtube.com/watch?v=GmF6Vse6DEY</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+      <entry>
+        <title>Botticelli’s Muse</title>
+        <link>https://www.amazon.com/gp/product/B073SDXWWK?tag=tharst-20</link>
+        <info>By Dorah Blume</info>
+      </entry>
+    </category>
+  </sidebar>
+</data>

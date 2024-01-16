@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>morandi_giorgio</id>
+    <name>Giorgio Morandi</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1913 - 1964</years>
+    <description>Through household objects and familiar landscapes, painted in muted tones and warm light, Morandi bridged Italian classicism and twentieth-century modernism.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter and Printmaker</occupation>
+    <nationality>Italian</nationality>
+    <birthDate>July 20, 1890</birthDate>
+    <birthPlace>Bologna, Italy</birthPlace>
+    <deathDate>June 18, 1964</deathDate>
+    <deathPlace>Bologna, Italy</deathPlace>
+    <pub_time>12/13/2016</pub_time>
+  </main>
+  <includes>
+    <include>metaphysical_painting</include>
+  </includes>
+  <similar_movements>
+    <movement>cubism</movement>
+    <movement>futurism</movement>
+    <movement>metaphysical_painting</movement>
+    <movement>realism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>de_chirico_giorgio</artist>
+    <artist>meyerowitz_joel</artist>
+    <artist>cornell_joseph</artist>
+    <artist>carra_carlo</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"One can travel this world and see nothing. To achieve understanding it is necessary not to see many things, but to look hard at what you do see."</q>
+    <q>"I believe nothing is more abstract than reality."</q>
+    <q>"Before I die I should like to complete two pictures. The important thing is to touch the core, the essense of things."</q>
+    <q>"There is little or nothing new in the world. What matters is the new and different position in which an artist finds himself seeing and considering the things of so-called nature and the works that preceded and interested him."</q>
+    <q>"Even in as simple a subject, a great painter can achieve a majesty of vision and an intensity of feeling to which we immediately respond."</q>
+    <q>"After all, even a still life is architecture."</q>
+    <q>"What has value in painting is an individual way of seeing things: nothing else counts."</q>
+    <q>"If I had been born twenty years later, I would find myself in the same state as today's painters. Something has ended; I wouldn't want to be young today."</q>
+    <q>"Though aware of just how hard it will be to attain the distant goal I have glimpsed, I am sustained by the certainty that the path I am following is the right one. I repudiate nothing in my past.. Conscience has always guided me in my work and I am comforted by the knowledge that in all my endeavors, even in the moments of greatest uncertainty, my personality has always managed to come through"</q>
+    <q>"[I am a] believer in Art for Art's sake rather than in Art for the sake of religion, of social justice or national glory. Nothing is more alien to me than an art which sets out to serve other purposes than those implied in the work of Art in itself."</q>
+    <q author="Salvador Dali">"All this calm, all this peace, this somber equilibrium that underlies the works of Giorgio Morandi and found in Max Ernst and Giorgio de Chirico masks the uneasiness that something threatening is about to explode."</q>
+    <q author="Federico Fellini - La Dolce Vita">"[Morandi's] pictures have a dreamlike quality," Steiner replies. "The objects seem to be bathed in the light of memory, yet they're painted with such solidity and real feeling that you can almost touch them - one might say that art has left nothing to chance. There is a calm that weighs on me. It is a peace that makes me afraid... Perhaps because I distrust it above everything. I feel that its only an appearance, that it hides a danger.. They say that the world of the future will be wonderful. But what does that mean? It needs only the gesture of a madman to destroy everything."</q>
+    <q author="Art Historian J.T.Soby">"Viewed in a series, Morandi's paintings affirm an order that is as new, variable, and convincing as Piet Mondrian's his closest modern equivalent in spirit although not in style. In figurative terms, rather than in the abstract terms of Mondrian, Morandi devoted himself to studying the slight but crucial shifting of weight in forms that counterbalance each other."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="archino">Sarah Archino</editor>
+  </editors>
+  <article>
+    <synopsys>Holed up in a small room in the center of Italy, far from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; of his day, Giorgio Morandi painstakingly worked to unlock the puzzles of art, the questions of modern painting, looking for the structure and order that underlies the process of representation itself. With a sparse selection of household objects and familiar landscapes, painted in muted tones and warm light, Giorgio Morandi bridged the grand legacy of Italian art and 20&lt;sup&gt;th&lt;/sup&gt;-century modernism. With carefully crafted tonal relationships and a sense of palpable light and space, his paintings extended a tradition of representational painting while creating a minimalist aesthetic that remained relevant in the face of abstraction. Ultimately, Morandi's poetic style did not escape the attention of his contemporaries and established a legacy for generations of representational painters.</synopsys>
+    <key_ideas>
+      <idea>Morandi grounded his work in familiar and universal forms and yet suggested an autobiographical quality in his careful paint handling and attention to an identifiable Italian quality of light. Although he painted generic household objects, critics noted how his representation of these objects conveyed a sense of Morandi's personality, monastic habits, and Bolognese environment. His tightly unified body of work would be influential for its close study of unremarkable elements of daily life, imbuing them with implications of deeper significance by emphasizing their painterly beauty and simplicity.</idea>
+      <idea>Engaged with his own pictorial experiments, Morandi was seemingly unaffected by contemporary art movements when the avant-garde was overwhelmingly interested in abstract painting. Yet, his concerns were similar to experiments by his contemporaries; for example he approached color, line, light, space, and brushstroke, as problems to be solved through careful study and nuanced adjustments. His realism was not simple reproduction of a subject; comparing Morandi's paintings with photographs of the objects he depicted, his manipulations of volume, shape and space become clear. As a contemporary critic, J.T. Soby exclaimed, "[Morandi separates] volumes and color and then interlock[s] them again in an alchemy he alone understood." Moreover, Morandi imbued these elements with emanating light that is far less evident in reproductions of his work, but that is palpable in the original paintings.</idea>
+      <idea>With his attention to technique and painstaking precision, Morandi extended the legacy of Italian painting into the 20&lt;sup&gt;th&lt;/sup&gt; century, but gave it new relevance with his minimalist style and non-narrative focus. The sparse palette, clean lines, and careful brushstroke of Morandi's still lifes are unmistakably modern and his attention to technique and the physicality of the painted surface connected later painters with the grand traditions of the still life and landscape genres.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Giorgio Morandi was the eldest of five children, born into a middle-class family in Bologna, Italy. His only brother died in childhood. Morandi developed an interest in art from an early age, displeasing his father who wanted his son to join him in his export business; Morandi attempted this unsuccessfully in 1906 before enrolling at the Bologna Academy of Fine Arts in 1907. His pursuit of art as a career is owed in part to his failure at his father's company, his resistance to changing his focus on art despite his father's best efforts, and because of his mother's belief that her son should follow his dreams.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Giorgio Morandi Biography" show="0">/images20/photo/photo_morandi_giorgio_1.jpg</p>
+          <p type="p">Although his father's unexpected death in 1908 left him to care for his mother and three younger sisters, Morandi continued with his studies with the support of his mother. It was during this study that he was first exposed to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, which influenced his earliest work. Morandi also studied the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;, explaining in his 1928 autobiography that "only an understanding of the most vital achievements in painting over the past centuries could help me find my way." He graduated in 1913, but extended his education with travel throughout Italy, including a trip to the Venice Biennale. These trips would later prove important, since after the 1920s, Morandi rarely traveled internationally; most of his subsequent exposure to artists came through art books. In particular, he studied the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt; such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and later greats like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-seurat_georges"&gt;Georges Seurat&lt;/span&gt;. He also did travel within Italy, primarily to visit museums and exhibitions, and was much more travelled than some historical accounts make him out to be.</p>
+          <p type="p">Morandi's early career was interrupted when he was drafted into the Italian army during World War I. As a highly private individual, communal army life did not agree with him. Shortly after he had a breakdown that resulted in a quick discharge from the service and forced a slowing of his artistic output during the following years.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Giorgio Morandi Photo" show="0">/images20/photo/photo_morandi_giorgio_2.jpg</p>
+          <p type="p">Beginning in 1916, Morandi briefly worked in the style of the Metaphysical School and participated in group exhibitions focused on this movement. This was the first time his art was recognized on the international stage and it has been argued that this period gave him the confidence to experiment further. Yet, despite his association with leading artists of that school, including close relations with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-carra_carlo"&gt;Carlo Carra&lt;/span&gt; (the pair met while students in Milan and had become friends through their shared interest in Impressionism and Cubism which they learned about from the Italian modern art journal, La Voce) and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_chirico_giorgio"&gt;Giorgio de Chirico&lt;/span&gt;, he later denied the influence of this style on his future work and stated that he never painted anything that he could not see with his own eyes. Even if history is hard to trace here, as in much of his life, art historians have placed much importance on &lt;i&gt;pittura metafisica&lt;/i&gt; as a milestone in Morandi's development. Also important are the artist's early encounters with modern ideas through contemporary artists, for instance Carlo Carra's 1910 statement "artistic creation demands a vigilant, diligent, attentive willpower and requires a constant effort not to lose the &lt;i&gt;apparitions&lt;/i&gt;, which are nothing more than &lt;i&gt;lightning bolts of ordinary&lt;/i&gt; things that when they illuminate create the &lt;i&gt;essentials&lt;/i&gt; that are so precious to us modern artists." This idea seems to echo powerfully throughout Morandi's artistic exploration.</p>
+          <p type="p">Soon after, Morandi moved towards the modernist style for which he is best-known, featuring simple, quietly elegant still lifes of everyday domestic objects such as bottles and jars or landscapes depicting his immediate environment. In his still life works, he developed a serial style where he depicted groups of objects with only the slightest variations in spacing or positioning. While most of these works were paintings, Morandi often also turned to etchings to capture these objects in the limited palette of black and white.</p>
+          <p type="p">For many years Morandi preserved a quiet, daily routine. Most of his painting took place in his studio, a small room in an apartment shared with his three sisters and his mother (he lived his whole life with his 3 unwed sisters). Despite its size, the room was well-lit and provided a view from his window of the surrounding landscape, one of two scenes he repeatedly depicted. (The other landscape was based on views in the mountain town of Grizzana where Morandi often spent the summer months with his family and where he would eventually build a vacation home and studio.) His monastic lifestyle is further crystallized by the dust that settled on the many bottles and objects Morandi used in his still lifes. For example, historian John Rewald wrote after a visit to the artist's studio: "No skylight, no vast expanses; an ordinary room of a middle-class apartment lit by two ordinary windows. But the rest was extraordinary: on the floor, on the shelves, on a table, everywhere, boxes, bottles, vases, all kinds of containers in all kinds of shapes... On the surfaces of the shelves or tables, as well as on the flat tops of boxes, cans or similar receptacles, there was a thick layer of dust. It was a dense, gray, velvety dust, like a soft coat of felt, its color and texture seemingly providing the unifying element for these tall boxes and deep bowls, old pitchers and coffee pots, quaint vases and tin boxes."</p>
+          <p type="p">In 1922, Giorgio de Chirico said Morandi was "trying to rediscover and create everything by himself." This could be the key insight to understanding the stubborn quest that Morandi took upon himself that would occupy the whole of his life. He saw value to the process of study and technical preparation and criticized contemporaries who disdained these traditions; much later in life, when Morandi saw the works of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt;, he reflected that &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt; "just jumps in before he knows how to swim."</p>
+          <p type="p">Despite his humble and secluded lifestyle, Morandi was quickly recognized as a notable and influential modern artist. Flying in the face of contemporary painting in the vein of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; or abstraction, his mastery of a formal vocabulary of color, light, and composition began to draw attention. In 1934, Roberto Longhi, the newly appointed chair of the University of Bologna's art history department, declared that Morandi was "one of the best painters living." The statement was rather surprising because Morandi was locally known primarily as an unassuming professor of etching, not the master to be mentioned in the tradition of Carracci and other Bolognese greats. Mirroring his aesthetic devotion to technique and formal experimentation, teaching art was an important part of Morandi's life; he taught drawing in the local elementary schools for years before joining the faculty of his alma mater, the Bologna Academy of Fine Arts as Professor of Etchings in 1930. He would remain with the Academy for decades, even as he gained international renown, preferring the peace and stability of a regular position, away from the major artistic centers of Europe.</p>
+          <p type="p">Morandi's political leanings remain somewhat ambiguous. The Italian art historian Lionello Venturi, who was forced to leave Italy for his anti-Fascist views, argued that Morandi's insistence upon simple, unassuming objects held political implications as an ironic refusal of more grandiose aesthetics under Mussolini. However, in the early 1930s Morandi founded the nationalist Strapaese ("super country") group which attracted (amongst others) his longtime friend, Carrà. Art critic Xico Greenwald writes that "the myth of Morandi is that the artist kept a low profile as Fascism raged around him" and that he "developed a unique artistic vision, bravely resisting modernism". Nevertheless, the Strapaese group fitted well with the Fascist agenda because it embraced a style that, in Greenwald’s words, "glorified Italy’s agrarian identity [and] extolled modesty and simplicity in art". A more recent 2004 publication by Morandi's assistant Janet Abramowicz, claimed indeed that Morandi was friendly with the early Fascist regime, and was the beneficiary of employment, exhibitions, sales, and overall wider acclaim because of his connections to the government during these years.</p>
+          <p type="p">Regardless of how Morandi may have collaborated with Mussolini's regime in the early years, by the time World War II approached, the artist appears to have separated himself from politics and escaped into neutrality. In 1943, Morandi was arrested and jailed for about a week under suspicion of participating in resistance movements, although it is more likely that he was brought in as part of a general sweep of the creative personalities of the time. Following the incarceration, the Morandi family moved to Grizzana to escape the chance of further trouble with Bolognese authorities and to allow him to continue his work in a serene setting.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Giorgio Morandi Portrait" show="0">/images20/photo/photo_morandi_giorgio_3.jpg</p>
+          <p type="p">Many world events passed by, but Morandi stubbornly continued to focus on mostly still life, working with a small range of similar compositions to mature his technique and form over the decades. It may be inferred that Morandi fell in love with the simple objects he bought at second-hand shops, he stared and analyzed their forms day and night - such passion may help explain his deep devotion to his select subjects.</p>
+          <p type="p">His few landscapes reflected the increasing modernity of the world around him; the wires and antennae that were now part of the view from his studio window began to appear, albeit abstractly, in his 1950s paintings. For 26 years, Morandi retained his post as a professor of etching at the Academy, only leaving in 1956 to pursue artmaking full-time as a well-established painter, finally financially secure from selling his work. (Prior to that, he and his family struggled financially, and he fought with his dealers over sales and proper representation.)</p>
+          <p type="p">The majority of his critical triumph occurred in the last 15 years of his life: he won a major prize at the 1948 Venice Biennale and at the 1957 Sao Paulo Biennale. He was also heralded for his work in contrast to the modern "isms" at Documenta 2 in Kassel in 1959.</p>
+          <p type="p">Yet, even in his late years, Morandi preferred to concentrate on his work rather than focus on exhibitions and international esteem. He once declined an invitation to be exhibited because he found the organizers too insistent: "They really want to deprive me of that small measure of calm that is necessary for my work." Still, his fame grew; Morandi's art even found its way into Italian popular culture near the end of his life when Italian filmmaker Federico Fellini included a scene in which actor Marcello Mastroianni discusses a work by Morandi in his 1960 film &lt;i&gt;La dolce vita&lt;/i&gt;.</p>
+          <p type="p">Morandi passed away in 1964 from lung cancer. He was seldom seen without a cigarette most of his life and supposedly smoked each one to the tip, just short of burning his hands. In his final months, he joked in a letter "Can you imagine that for three days I haven't had a cigarette".</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Giorgio Morandi Portrait" show="0">/images20/photo/photo_morandi_giorgio_4.jpg</p>
+          <p type="p">The famous Italian writer Umberto Eco gave a 1993 speech inaugurating the Morandi Museum in Bologna including this excerpt: "How can you tell such different stories by depicting not a nativity or a storm at sea, a sunset on a lake or the birth of spring, but an array of objects from a junk shop? You have to love the world and the things that are in the world, even the humblest, the light and shadow gladdening or saddening them, and the very dust that chokes them. Morandi reaches the peak of his spirituality as a poet of matter."</p>
+          <p type="p">Focusing on formal rhythms and subtle palette modulations, Morandi modernized still life painting with an attention to color, form, and composition that declared these traditional components to be meaningful. The subtleties of his palette, light, and brushstroke are vital to a fuller understanding of his lifelong project, and his influence on later artists, yet his work suffers in reproduction and remains excruciatingly difficult to describe on the written page; they are sensual experiences that resist concrete language.</p>
+          <p type="p">Still, he remains a model for many generations of artists. His resistance to abstraction provided an important model for later generations in various stylistic movements, including representational painters of the Pop style and the 1980s. He was also influential to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalists&lt;/span&gt;, who admired his attention to simple physicality, medium-specificity and sparse forms. Additionally, his work inspired &lt;span class="marked_text chart-tooltip-target-top tooltip_id-assemblage"&gt;assemblage&lt;/span&gt; artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cornell_joseph"&gt;Joseph Cornell&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nevelson_louise"&gt;Louise Nevelson&lt;/span&gt;, who also created sculptures based on careful combinations of ordinary objects.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Natura morta (Still Life)</title>
+      <year>1914</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				One of Giorgio Morandi's earliest paintings, &lt;i&gt;Natura morta (Still Life)&lt;/i&gt; of 1914, features a wooden table on which stands an assortment of monochromatic objects of everyday life. Although rendered in an abstract fashion, the viewer is still able to identify an upright book with its binding facing outward, which is positioned in front of a clear bottle, a vase, and a pitcher. In the space behind the table appears an abstracted view of a room, suggesting part of a wall, a window, and another table. While the objects are all inert, they are painted to suggest instability and movement, with a diagonal thrust that propels them towards the viewer.
+				&lt;br/&gt;&lt;br/&gt;
+				In his early years, Morandi experimented with emerging styles; this painting shows the influences of both Futurism and Cubism. Morandi's still life suggests Futurism in the way each object is rendered to suggest movement towards the foreground. Elements of Cubism are visible in the use of bold outlines that emphasize basic geometric shapes and their arrangement into a compressed plane, along with the thick application of muted tones of paint. Although this dynamism would soon be replaced with a calm stability, this early work establishes basic formal elements that will appear throughout Morandi's later work. 
+			</desc>
+      <collection>Collection of Augusto and Francesca Giovanardi</collection>
+    </artwork>
+    <artwork>
+      <title>Natura morta (Still Life)</title>
+      <year>1916</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Giorgio Morandi's painting &lt;i&gt;Natura morta (Still Life)&lt;/i&gt; features an arrangement that includes two brown bottles, a gray pitcher and coffee pot, and a two-toned gray box. The works are rendered simply and lack detail. They sit on a beige tabletop, the edge of which is slightly below the center of the canvas, dividing the composition into three bands. The top and bottom band are a chocolate brown, highlighting the tabletop which depicted in lighter tan to better define the objects and the shadows cast.
+				&lt;br/&gt;&lt;br/&gt;
+				Although this subject is unremarkable in itself, Morandi believed it carried important potential, describing how "even in as simple a subject, a great painter can achieve a majesty of vision and an intensity of feeling to which we immediately respond." This would push Morandi to focus on the development of formal qualities of line, color and composition. Although unassuming, this work must have been a particular importance to Morandi, as it was displayed for many years on the wall of his studio; he also selected this painting to show at the 1948 Venice Biennale. Well received at that exhibition, it helped to earn him the event's painting prize and was later purchased by the Museum of Modern Art in New York.
+			</desc>
+      <collection>The Museum of Modern Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Natura morta (Still Life)</title>
+      <year>1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Morandi's &lt;i&gt;Natura morta (Still Life)&lt;/i&gt; (1918) departs from his earlier realism with three unrecognizable objects suspended in a box with a clear front. A key painting in his oeuvre, this is one of a small number of works in which he drew inspiration from the Metaphysical school of painting and most particularly shows the influence of the leading artists of this style, Giorgio de Chirico and Carlo Carra. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the three objects resemble a ball, a skittle pin, and a mitered frame edge, the way in which they are arranged is unrealistic, producing a surreal, slightly disturbing effect. They float in the enclosed space of a box that also defies perspectival space. Yet, even when working within this irrational style, Morandi depicts the objects in a tightly structured arrangement. The metaphysical elements are secondary to the composition of the objects, the energy of the space between them, and how they reflect the light; these elements are characteristic of Morandi's broader body of work and outlast his experimentation at this phase of his career. Art historians have argued that it was during this phase of Metaphysical painting that Morandi first experimented with giving deeper meanings to common objects. 
+				&lt;br/&gt;&lt;br/&gt;
+				Later Morandi would distance himself from any participation in this movement stating, "My own paintings of that period remain pure still life compositions and never suggest any metaphysical, surrealist, psychological, or literary considerations at all." 
+			</desc>
+      <collection>Galleria Nazionale d'Arte Moderna, Rome</collection>
+    </artwork>
+    <artwork>
+      <title>Natura morta (Still Life)</title>
+      <year>1919</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This still life painting features a tabletop arrangement, including of a plate of bread that is partially concealed by a folded white cloth, a white pedestal bowl full of oranges, and a light brown box made of wood. The items are placed on a dark wooden hutch or low sideboard against a cream paneled wall. Arranged according to their height, the objects gentle rise as the composition moves from left to right, creating an effect of gentle movement. A pattern is created between the rounded forms of the plate, the bowl, the oranges and the verticality of the cloth and box. 
+				&lt;br/&gt;&lt;br/&gt;
+				A rare example of food as a subject, this composition is also more formally arranged and detailed than most of Morandi's works. This closely reflects the influence of French artist Paul Cézanne, as it appears strikingly similar to many of Cézanne's still life works. Morandi's admiration of the Post-Impressionist is well-documented; he would later claim that "in the first two decades of this century, very few Italians were as interested as I in the work of Cézanne, Monet, and Seurat." 
+				&lt;br/&gt;&lt;br/&gt;
+				This work helped to establish Morandi's career when it was reproduced in the Italian magazine &lt;i&gt;Valori Plastici&lt;/i&gt; in 1919. A widely-read publication, this would have brought Morandi's work before an international audience, although the recognition did not change his reclusive working habits or his quiet devotion to this basic formula of still life composition.
+			</desc>
+      <collection>Collection of Museo d'arte Moderna e Contemporanea di Trento e Rovereto, Rovereto</collection>
+    </artwork>
+    <artwork>
+      <title>Paesaggio (Landscape)</title>
+      <year>1935</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Paesaggio&lt;/i&gt; depicts the Italian countryside, terrain familiar to Morandi from his summer travels to the mountain town of Grizzana. It is a simple, undramatic scene that features a dirt road bordered by lush fields and trees of green. In the far right appears a white house with an orange-brown roof, with two windows. In the background, a blue sky is bisected by a band of light-blue and white clouds. Morandi often worked in series, pushing the viewer to notice slight variations and modulations between similar canvases.
+				&lt;br/&gt;&lt;br/&gt;
+				Having established his reputation as a modern artist by this time, Morandi included this work in a room dedicated to his paintings at the prestigious Quadriennale exhibition in Rome in 1939. Although he resists abstraction, Morandi is equally resistant to detailed, illusionistic reproduction; he remained a studio painter, who occasionally studied his subject through a telescope or binoculars. Painted in his typical simple style, the scene is rendered in thick loose brushstrokes. While there is little detail, he captures the essence of the sun and the natural world, as experienced in this quiet town. As John Berger would explain in an early 1955 essay, Morandi's paintings described a light and atmosphere that were recognizably Italian, providing a subtle continuity with Roman or Renaissance art without any overt connection. 
+			</desc>
+      <collection>Collection of Galleria d'Arte Moderna e Contemporanea, Turin</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Yellow Cloth</title>
+      <year>1952</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				One of a series of heralded images painted in 1952 that feature the recognizable yellow cloth, this still life presents a collection of objects that are both static and unstable. In each of this series, he gathers a number of vessels around the cloth, with only slight variations in the composition and palette. Through these slight adjustments, he draws our awareness to the subtle effects of light, shape, and color, while retaining a sense of silence and timeless stillness.
+				&lt;br/&gt;&lt;br/&gt;
+				We see here his attention to repeated forms, as the roundness of the vase on the right is echoed by the white dish and wide-necked jar on the left. The two white vertical towers are balanced by the crumpled horizontality of the yellow cloth and brown bowl that stretch between them, along with the striated tabletop upon which they sit. And yet these horizontal and vertical shapes do not snap into a perfect grid, but remain askew; the lines and contours of these objects are neither completely definite nor straight, providing a sense of instability to the composition.
+				&lt;br/&gt;&lt;br/&gt;
+				Some commentators have noted that Morandi's still life compositions can almost be stand-ins for his landscapes. The vertical elements stand out against an expansive horizon line. Bathed in the same warm, gentle light as his landscape paintings, they are not unlike the sun-faded buildings of the Italian countryside. Morandi's attention to the textured spatial distances between these objects and the carefully rendered shadows give a sense of physicality that suggests something more grand than a mere collection of household items. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Fiori (Flowers)</title>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Giorgio Morandi's &lt;i&gt;Fiori&lt;/i&gt; is a small painting measuring nearly sixteen by twelve inches. The single object is a white vase, filled by a small bouquet of pink and white roses in various states of bloom. Almost monochromatic in its palette, the work is comprised of various shades of cream and white but for the few pink petals. The restraint of Morandi's palette continues in the background, which is divided into two regions of closely-related cream.
+				&lt;br/&gt;&lt;br/&gt;
+				The series reflects his modern style of loose, gestural brushstrokes and soft colors. Yet, unlike many artists who painted flowers for their vibrancy, Morandi often worked with silk or dried flowers, a subtle choice that changed the intensity of the color palette and made the overall effect of the work more muted. He occasionally even covered the flowers with a layer of dust to further subdue the original colors and remove them from any connection to their natural environment. 
+				&lt;br/&gt;&lt;br/&gt;
+				In Morandi's hands, this floral arrangement becomes a vehicle for documenting the interplay of light on objects and their surrounding space. The emphasis is firmly not illusionistic, but about creating a relationship between closely-related colors and forms. Here, the diagonal shadow cast by the vase is arguably as important as the vase itself and becomes integral to the painting's overall composition, a modern approach to activating the negative space of the painting that was key to Morandi's practice. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Natura morta (Still Life)</title>
+      <year>1953</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This canvas features a grouping of five items, placed closely together in two tight rows. In the front are three boxes; behind them appears the lip of a small blue vessel and a taller white vase whose long neck and circular opening stands above all the other objects. Other than a brownish-yellow shadow of the objects to the right, the rest of the canvas consists of an even, cream colored background formed in the artist's characteristic loose brushstrokes.
+				&lt;br/&gt;&lt;br/&gt;
+				This work provides an example of Morandi's serial approach, in which he would make several paintings of a subject, with only slight changes to the composition in between works. This practice is reminiscent of the Impressionist artists who often painted multiple versions of a single subject to capture the effects of light at different times of day; this underscores the importance of Monet and Cézanne to Morandi's process. 
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, Morandi's still lifes were the result of a highly staged and methodical procedure. Often he would begin by carefully tracing the outline of the objects on actual tabletop surface before experimenting with various screens to control the light that would filter onto the objects. He would sometimes even make an outline of his own feet to indicate where he should stand on the studio floor to avoid any distortions or inconsistences as he developed the painting. The result was a perfect suspension of time, which allowed him to focus on formal relationships in a controlled environment.
+			</desc>
+      <collection>The Phillips Collection, Washington DC</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="movement" page="cubism">Houses at L'Estaque (1908)</artwork>
+    <artwork from="artist" page="cezanne_paul">Table, Napkin, and Fruit (A Corner of the Table) (1895-1900)</artwork>
+    <artwork from="artist" page="de_chirico_giorgio">The Enigma of an Autumn Afternoon (1910)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>giotto</entity>
+        <entity>seurat_georges</entity>
+        <entity>cezanne_paul</entity>
+        <entity>carra_carlo</entity>
+        <entity>de_chirico_giorgio</entity>
+      </column>
+      <column>
+        <entity>leopardi_giacomo</entity>
+        <entity>magnani_luigi</entity>
+        <entity>ragghianti_carlo_ludovico</entity>
+      </column>
+      <column>
+        <entity>cubism</entity>
+        <entity>futurism</entity>
+        <entity>impressionism</entity>
+        <entity>metaphysical_painting</entity>
+        <entity>purism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>carra_carlo</entity>
+        <entity>de_chirico_giorgio</entity>
+        <entity>cornell_joseph</entity>
+      </column>
+      <column>
+        <entity>leopardi_giacomo</entity>
+        <entity>magnani_luigi</entity>
+        <entity>ragghianti_carlo_ludovico</entity>
+      </column>
+      <column>
+        <entity>futurism</entity>
+        <entity>pop_art</entity>
+        <entity>minimalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Giorgio Morandi (Twentieth-Century Masters Series)</title>
+          <link>0847819477</link>
+          <info>By Karen Wilkin</info>
+        </entry>
+        <entry>
+          <title>Giorgio Morandi: Works, Writings, Interviews</title>
+          <link>8434311402</link>
+          <info>By Karen Wilkin</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Brigitte March Niedermair: Transition Giorgio Morandi</title>
+          <link>0847849961</link>
+          <info>By Gianfranco Maraniello</info>
+        </entry>
+        <entry>
+          <title>Giorgio Morandi</title>
+          <link>3791339532</link>
+          <info>By Ernst-G. Guse and Franz A. Morat</info>
+        </entry>
+        <entry recommended="true">
+          <title>Giorgio Morandi 1890-1964: Nothing Is More Abstract Than Reality</title>
+          <link>8861307167</link>
+          <info>By Renato Miracco and Maria Cristina Bandera</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Bologna Musei - Museo Morandi</title>
+          <link>http://www.mambo-bologna.org/en/museomorandi/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>All That Life Contains, Contained</title>
+          <link>http://www.nytimes.com/2008/09/19/arts/design/19mora.html</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						September 18, 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Giorgio Morandi Creates a Universe on a Tabletop</title>
+          <link>http://www.nytimes.com/2015/11/20/arts/design/giorgio-morandi-creates-a-universe-on-a-tabletop.html?_r=0</link>
+          <info>
+						By Roberta Smith
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						November 19, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Tables for One - Giorgio Morandi's still lifes</title>
+          <link>http://www.newyorker.com/magazine/2008/09/22/tables-for-one</link>
+          <info>
+						By Peter Schjeldahl
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						September 22, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>The Metaphysician of Bologna: John Berger on Giorgio Morandi, in 1955</title>
+          <link>http://www.artnews.com/2015/11/06/the-metaphysician-of-bologna-john-berger-on-giorgio-morandi-in-1955/</link>
+          <info>
+						ARTnews 
+						&lt;br&gt;
+						November 6, 2015
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Giorgio Morandi Studio d'Arte Campaiola</title>
+          <link>https://www.youtube.com/watch?v=WQ_nTULB0ds</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Morandi: Master of Modern Still Life, The Phillips Collection (February 21 - May 24, 2009)</title>
+          <link>https://www.youtube.com/watch?v=aUkktG0wzs4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Thomas Hoving reviews Giorgio Morandi</title>
+          <link>https://www.youtube.com/watch?v=Gi6Cb_FKxJ8</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>La dolce vita - Fellini - dialogo a casa di Steiner</title>
+          <link>https://www.youtube.com/watch?v=aODiXVMiubo</link>
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

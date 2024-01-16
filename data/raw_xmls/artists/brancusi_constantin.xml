@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>brancusi_constantin</id>
+    <name>Constantin Brâncuși</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1907 - 1957</years>
+    <description>Brâncuși's visionary sculptures exemplify ideal and archetypal representations, all the while using reduced forms to reveal hidden truths.</description>
+    <art_description>Important sculptures &amp; artworks analysis by Constantin Brâncuși including: The Kiss, Sleeping Muse, Endless Column, Bird in Space &amp; more in Dada &amp; Cubism.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>3</highlight>
+    <occupation>Sculptor and Photographer</occupation>
+    <nationality>French-Romanian</nationality>
+    <birthDate>February 19, 1876</birthDate>
+    <birthPlace>Hobitza, Romania</birthPlace>
+    <deathDate>March 16, 1957</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <img_version>?1</img_version>
+    <image_desc>true</image_desc>
+    <art_type>Sculptures</art_type>
+    <pub_time>7/1/2009</pub_time>
+  </main>
+  <includes>
+    <include>dada</include>
+    <include>cubism</include>
+    <include>direct_carving</include>
+  </includes>
+  <similar_movements>
+    <movement>dada</movement>
+    <movement>cubism</movement>
+    <movement>surrealism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>moore_henry</artist>
+    <artist>noguchi_isamu</artist>
+    <artist>rodin_auguste</artist>
+    <artist>modigliani_amedeo</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"What my work is aiming at is, above all, realism: I pursue the inner, hidden reality, the very essence of objects in their own intrinsic fundamental nature; this is my only deep preoccupation."</q>
+    <q>"They are imbeciles who call my work abstract; that which they call abstract is the most realistic, because what is real is not the exterior form but the idea, the essence of things."</q>
+    <q>"Simplicity is not an end in art, but we usually arrive at simplicity as we approach the true sense of things."</q>
+    <q>"Don't look for obscure formulas or mystery in my work. It is pure joy that I offer you. Look at my sculptures until you see them. Those closest to God have seen them."</q>
+    <q>"Matter must continue its natural life when modified by the hand of the sculptor."</q>
+    <q>"When you see a fish you don't think of its scales, do you? You think of its speed, its floating, flashing body seen through the water... If I made fins and eyes and scales, I would arrest its movement, give a pattern or shape of reality. I want just the flash of its spirit."</q>
+    <q>"Create like a god; command like a king; work like a slave."</q>
+  </quotes>
+  <authors>
+    <author link="gershman">Rachel Gershman</author>
+  </authors>
+  <article>
+    <synopsys>Constantin Brâncuși is often regarded as the most important sculptor of the 20&lt;sup&gt;th&lt;/sup&gt; century. His visionary sculptures often exemplify ideal and archetypal representations of their subject matter. Bearing laconic titles such as &lt;i&gt;Fish, Princess X&lt;/i&gt;, and &lt;i&gt;Bird in Space&lt;/i&gt;, his sculptures are deceptively simple, with their reduced forms aiming to reveal hidden truths. Unlike the towering figure of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt;, for whom Brâncuși briefly assisted early in his career, Brâncuși worked directly with his materials, pioneering the technique of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-direct_carving"&gt;Direct Carving&lt;/span&gt;, rather than working with intermediaries such as plaster or clay models.</synopsys>
+    <key_ideas>
+      <idea>Explaining that "The artist should know how to dig out the being that is within matter," Brancusi sought to create sculptures that conveyed the true essence of his subjects, be they animals, people, or objects by concentrating on highly simplified forms free from ornamentation. While many regarded his art as abstract, the artist disagreed; he insisted on the representational nature of his works, asserting that they disclosed a fundamental, often concealed, reality.</idea>
+      <idea>Brancusi's work was largely fueled by myths, folklore,  and "primitive" cultures. These traditional, old-world sources of inspiration formed a unique contrast to the often sleek appearance of his works, resulting in a distinctive blend of modernity and timelessness.</idea>
+      <idea>The materials Brancusi used - primarily marble, stone, bronze, wood, and metal - guided the specific forms he produced. He paid close attention to his mediums, meticulously polishing pieces for days to achieve a gleam that suggested infinite continuity into the surrounding space - "as though they proceeded out from the mass into some perfect and complete existence."</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">The second of four children, Brâncuși was born in the small farming village of Hobitza, Romania, in 1876. He had a difficult childhood, in part due to challenging relationships with his father, a property manager of a monastery, and the children from his previous marriage. After several attempts to leave home, Brâncuși finally did so permanently in 1887, at the age of eleven.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">From 1889 to 1893, Brâncuși lived in the Romanian city of Craiova, working variously as a waiter, cabinet-maker, and fortune-teller, while attending the School of Arts and Crafts part-time. In 1894, he enrolled full-time at the school, where he excelled in woodworking and ultimately graduated with honors in 1898. Brâncuși then studied modeling and life sculpture at Bucharest's National School of Fine Arts (1898-1902), winning awards for his work in competitions. In 1904, he moved from Romania to Paris, famously travelling most of the way on foot. This story became part of the legend surrounding Brâncuși as a peasant with an exotic heritage; the mythology was actively promoted by the artist himself, who took to wearing Romanian peasant clothing, even on formal occasions, and carved all of his own furniture.</p>
+          <p type="p">From 1905 to 1907, Brâncuși trained in sculpture and modeling at the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beaux_arts_architecture"&gt;École des Beaux-Arts&lt;/span&gt;, in the sculpture studio of Antonin Mercie. Brâncuși began working as a studio assistant to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rodin_auguste"&gt;Auguste Rodin&lt;/span&gt; in 1907, but left after only a month, explaining, "Nothing grows under the shadow of big trees." Yet, his month-long tenure in Rodin's workshop was critical in shaping Brâncuși's aesthetic, taking Rodin's work as a point of departure from which to develop his own drastically different artistic practice, characterized by the use of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-direct_carving"&gt;Direct Carving&lt;/span&gt; rather than working from a clay model.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">After leaving Rodin's studio, Brâncuși began establishing his own style, beginning with squared works such as &lt;i&gt;The Kiss&lt;/i&gt; (1907-08). Despite having the same title as one of Rodin's most famous sculptures, Brâncuși's work was its complete opposite in material and its handling of form and subject. Around 1909, Brâncuși started creating smoother, more contoured sculptures in marble and bronze. He produced multiple, yet distinct versions of works such as &lt;i&gt;The Kiss&lt;/i&gt;, &lt;i&gt;Maiastra&lt;/i&gt;, and &lt;i&gt;Sleeping Muse&lt;/i&gt;, and, by 1912, this career-long method of creating serial versions on the same theme was an established practice in his &lt;i&gt;oeuvre&lt;/i&gt;.</p>
+          <p type="img" alt="Postcard made for the 1913 Armory Show featuring Brâncuși's &lt;i&gt;Portrait of Mlle Pogany&lt;/i&gt; (1912)" show="1">/images20/photo/brancusi_constantin_13.jpg</p>
+          <p type="p">Brâncuși's work made its American debut in 1913, when five of his sculptures appeared in the Armory Show in New York. This landmark exhibition brought together new and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; European and American art, much of which was highly controversial. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, whose work was also extremely challenging to critics, became an important friend, advocate, and collector of Brancusi's sculptures. While many critics were puzzled by Brâncuși's work, artists flocked to him, and many began collecting his work. Although Brâncuși lived in Paris for most of his life, making only a few trips to New York, he acknowledged the importance of American collectors and critics to his career, saying, "Without the Americans, I could never have produced all that, nor even perhaps have existed."</p>
+          <p type="img" alt="Constantin Brâncuși show at Stieglitz's 291 Gallery, 1914" show="1">/images20/photo/brancusi_constantin_14.jpg</p>
+          <p type="p">The photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt; gave Brâncuși his first solo show at his Photo-Secession Gallery in New York in 1914. This successful exhibition also marked the first purchase by collector and modern art advocate John Quinn, who became one of Brâncuși's greatest patrons. That same year, Brâncuși began taking photographs. Many of his photos were of his own studio, recording the specific ways he organized the arrangement of his works, which was highly significant to his creative process, as he considered the base of the sculpture to be just as important as the sculpture itself.</p>
+          <p type="p">Brâncuși's work continued to provoke public controversy. His &lt;i&gt;Princess X&lt;/i&gt; caused a scandal at the 1920 Salon des Indépendants in Paris for its phallic form. &lt;i&gt;Bird in Space&lt;/i&gt; became embroiled in a 1927-28 legal battle over the very definition of art when customs officials refused to recognize &lt;i&gt;Bird in Space&lt;/i&gt; as artwork, exempting it from customs duties. In response, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-steichen_edward"&gt;Edward Steichen&lt;/span&gt;, the photographer and owner of the piece, filed a lawsuit. The ruling in Brâncuși's favor constituted a success for abstract art in general. It was also in 1927 that &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noguchi_isamu"&gt;Isamu Noguchi&lt;/span&gt;, perhaps Brâncuși's most famous student, worked as his studio assistant.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Constantin Brâncuși Photo" show="0">/images20/photo/brancusi_constantin_5.jpg</p>
+          <p type="p">In the 1930s, Brâncuși engaged in discussions with the Maharajah of Indore about building a temple in India, but the public sculpture was never executed. In 1937-38, he created a monumental three-part public artwork for Tirgu-Jiu, Romania, to honor the Romanian soldiers who had fallen in World War I. Spread across a mile of the town, &lt;i&gt;Table of Silence&lt;/i&gt;, &lt;i&gt;Gate of the Kiss&lt;/i&gt;, and &lt;i&gt;Endless Column&lt;/i&gt; treat sacred, spiritual themes. However, like many of his other works, &lt;i&gt;Endless Column&lt;/i&gt; has been a source of dispute. In the 1950s, a Communist attempted to dismantle the work, citing it as a corrupt example of Western art. The sculpture remained standing, but was badly damaged, and eventually underwent a lengthy and controversial conservation effort.</p>
+          <p type="p">Brâncuși received his first retrospective in 1955 at the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-guggenheim_solomon"&gt;Guggenheim Museum&lt;/span&gt; in New York. Throughout his life, he had carefully arranged and documented the placement of sculptures in his Paris studio. Just prior to his death in 1957, he left his studio to the city's Museum of Modern Art with the proviso that it be preserved. It is currently reconstructed in a Renzo Piano-designed building outside the Pompidou Center.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="The Bust Brâncuși in Bucharest by Grigorie Minea" show="1">/images20/photo/brancusi_constantin_19.jpg</p>
+          <p type="p">Brâncuși was a pioneering force in modern sculpture, paving the way for many generations of artists. His use of biomorphic forms and integration of his sculptures with their bases influenced the work of such artists as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-noguchi_isamu"&gt;Isamu Noguchi&lt;/span&gt;, another major contributor to 20&lt;sup&gt;th&lt;/sup&gt;-century sculpture. Brâncuși's embrace of his materials' distinctive qualities and focus on the technique of Direct Carving were taken up by such sculptors as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moore_henry"&gt;Henry Moore&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hepworth_barbara"&gt;Barbara Hepworth&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-epstein_jacob"&gt;Jacob Epstein&lt;/span&gt;. With its pared-down aesthetic, the reduced forms of his sculptures also had a major impact on the artists associated with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; movement of the 1960s.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="gauguin_paul">Vision After the Sermon (Jacob's Fight with the Angel) (1888)</artwork>
+    <artwork from="artist" page="duchamp_marcel">Fountain (1917)</artwork>
+    <artwork from="artist" page="leger_fernand">Three Women (Le Grand Déjeuner) (1921)</artwork>
+    <artwork from="artist" page="judd_donald">Untitled (1973)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>gauguin_paul</entity>
+        <entity>leger_fernand</entity>
+        <entity>rodin_auguste</entity>
+      </column>
+      <column>
+        <entity>stieglitz_alfred</entity>
+        <entity>steichen_edward</entity>
+        <entity>rousseau_henri</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>african_art</entity>
+        <entity>asian_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>noguchi_isamu</entity>
+        <entity>serra_richard</entity>
+        <entity>morris_robert</entity>
+        <entity>judd_donald</entity>
+      </column>
+      <column>
+        <entity>pound_ezra</entity>
+        <entity>modigliani_amedeo</entity>
+      </column>
+      <column>
+        <entity>art_deco</entity>
+        <entity>minimalism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>The Kiss</title>
+      <year>1907-08</year>
+      <materials>Limestone</materials>
+      <desc>
+				Brâncuși's first version of &lt;i&gt;The Kiss&lt;/i&gt;, marked a major departure from the emotive realism of Auguste Rodin's famous handling of the same subject. Its composition, texture, and material highlight Brâncuși's fascination with both the forms and spirituality of African, Assyrian, and Egyptian art. That attraction also led Brâncuși to craft &lt;i&gt;The Kiss&lt;/i&gt; using Direct Carving, a technique that had become popular in France at the time due to an interest in "primitive" methods. These sculptures signify his shift toward simplified forms, as well as his interest in contrasting textures - both key aspects of his later work. 
+			</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Sleeping Muse I</title>
+      <year>1909-10</year>
+      <materials>Marble</materials>
+      <desc>
+				Portraits, heads, and busts were frequent subjects for Brâncuși, and he received several commissions for such work. With &lt;i&gt;Sleeping Muse I&lt;/i&gt;, modeled on the Baroness Renee-Irana Frachon, Brâncuși developed a distinctive form of the portrait bust, representing only its sitter's disembodied head. This work was Brâncuși's first handling of the sleeping head, a thematic cycle that occupied the artist for roughly twenty years. The smoothness of the piece, achieved by the artist's practice of polishing the surface of his sculptures until they achieved a high gleam, contrasts with the carved definition of the sitter's facial features.
+			</desc>
+      <collection>Hirshhorn Museum and Sculpture Garden, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Endless Column</title>
+      <year>1918</year>
+      <materials>Original Work: Oak</materials>
+      <desc>
+				Originally created in 1918, in &lt;i&gt;Endless Column&lt;/i&gt; Brâncuși references the &lt;i&gt;axis mundi&lt;/i&gt;, or axis of the world, a concept crucial to the beliefs of many traditional cultures embodying the connection between heaven and earth. This focus reflected Brâncuși's strong and persistent affinity for the sacred, cosmic, and mythical. &lt;i&gt;Endless Column&lt;/i&gt; also treats another theme of Brâncuși's work, the idea of infinity, here suggested by the repetition of identical rhomboid shapes. This image shows the most famous of Brâncuși's &lt;i&gt;Endless Columns&lt;/i&gt;, which was the version that served as the centerpiece of the tripartite sculptural memorial to fallen soldiers in World War I erected in Tirgu-Jiu, Romania in 1938.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>The Sorceress</title>
+      <year>1916-24</year>
+      <materials>Walnut on limestone base</materials>
+      <desc>
+				Romanian culture had a great influence on Brâncuși, particularly its woodcarving traditions and mystical folklore. Although he generally did not cite specific references for his works, &lt;i&gt;The Sorceress&lt;/i&gt;, which was carved from a portion of a tree trunk where three branches met, is said to have been inspired by a flying witch from a Romanian folktale. He also drew on African tribal art for his woodcarvings, partially influenced by the example of Paul Gauguin. As with the present work, the base foundations were important elements of Brâncuși's sculptures; hand-carved by the artist, his bases were intended as artworks in their own right - a truly innovative concept in the history of sculpture, upending the centuries-old tradition of distinguishing between a sculptural artwork and the base on which it stands.
+			</desc>
+      <collection>Guggenheim Museum, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Fish</title>
+      <year>1926</year>
+      <materials>Bronze, metal, and wood</materials>
+      <desc>
+				Animals, particularly those with transformative powers in myths, were a source of fascination for Brâncuși. He made numerous sculptures of fish, birds, seals, and swans. For his fish, rather than sculpting scales and fins, he endeavored to capture the animal's essential qualities - its "speed, its floating, flashing body seen through water... just the flash of its spirit." As in this piece, Brâncuși often juxtaposed diverse textures, colors, and forms, using media such as bronze, limestone, marble, and oak. The bronze fish sits on a wooden base, topped by a mirror, which functions as an integral part of the artwork itself - evoking the fish's habitat, a body of water, whose reflective quality reflects the sense of infinity Brâncuși often sought to capture in his work. The mirror-wood base also functions as structural support, as without it, the fish could not "stand" upright but would have to lay on its side.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Bird in Space</title>
+      <year>1928</year>
+      <materials>Bronze</materials>
+      <desc>
+				Bird imagery constituted a major part of Brâncuși's work for much of his career. Beginning with his 1910 &lt;i&gt;Maiastra&lt;/i&gt; sculptures, based on a magical bird from Romanian folklore, he proceeded to works such as &lt;i&gt;Magic Bird&lt;/i&gt; and &lt;i&gt;Golden Bird&lt;/i&gt;. However, it was his many variations of &lt;i&gt;Bird in Space&lt;/i&gt; that comprised his best-known treatments of this theme. In these intensely polished works, Brâncuși dispenses with the bird's physical attributes, focusing instead on capturing "the essence of flight," through elongated, slightly tapering figures that suggest the bird's swift, upward movement.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Constantin Brâncuși</title>
+          <link>0262023954</link>
+          <info>By Friedrich Teja Bach, Margit Rowell, Ann Temkin</info>
+        </entry>
+        <entry>
+          <title>Constantin Brâncuși (Modern Masters Series)</title>
+          <link>0896599299</link>
+          <info>By Eric Shanes</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="works" class="artwork">
+        <entry>
+          <title>Constantin Brâncuși: The Essence of Things</title>
+          <link>1854375458</link>
+          <info>By Carmen Gimenez, Matthew Gale</info>
+        </entry>
+        <entry recommended="true">
+          <title>Constantin Brâncuși, 1876-1957: A retrospective exhibition</title>
+          <link>B0006CPETE</link>
+          <info>By Constantin Brâncuși</info>
+        </entry>
+        <entry recommended="true">
+          <title>Constantin Brâncuși: Sculpting Within the Essence of Things</title>
+          <link>1861710232</link>
+          <info>By James Pearson</info>
+        </entry>
+        <entry>
+          <title>Brâncuși</title>
+          <link>2879393140</link>
+          <info>By Pierre Cabanne</info>
+        </entry>
+        <entry>
+          <title>Brâncuși / A Study of the Sculpture</title>
+          <link>B000RRQ988</link>
+          <info>By Sidney Geist</info>
+        </entry>
+        <entry>
+          <title>Brâncuși Photographs Brâncuși</title>
+          <link>2843234093</link>
+          <info>By Constantin Brâncuși, Elizabeth Brown</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Funk and Chic</title>
+          <link>http://www.time.com/time/magazine/article/0,9171,983861,00.html</link>
+          <info>
+						By Robert Hughes
+						&lt;br&gt;
+						Time 
+						&lt;br&gt;
+						December 18, 1995 
+					</info>
+        </entry>
+        <entry>
+          <title>Where Brâncuși's Independent Road Led</title>
+          <link>http://www.nytimes.com/1995/04/18/arts/where-brancusi-s-independent-road-led.html</link>
+          <info>
+						By Alan Riding
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						April 18, 1995 
+					</info>
+        </entry>
+        <entry>
+          <title>Carving a way to heaven</title>
+          <link>http://www.guardian.co.uk/culture/2004/jan/03/1</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						January 3, 2004 
+					</info>
+        </entry>
+        <entry>
+          <title>Cool Warmth, Buoyant Stone, Majestic Wood</title>
+          <link>http://www.nytimes.com/2004/06/18/arts/art-review-cool-warmth-buoyant-stone-majestic-wood.html</link>
+          <info>
+						By Roberta Smith
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						June 18, 2004 
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="articles" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+  <posters>
+    <poster>
+      <a_item />
+      <a_image />
+      <a_name />
+    </poster>
+  </posters>
+</data>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>degenerate_art</id>
+    <name>Degenerate Art</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <description>Degenerate Art was a term used by the Nazi party to modern art including Expressionism, Fauvism, Dada, Cubism, and Surrealism and well as art that was produced by Jewish artists.</description>
+    <use_big_images>false</use_big_images>
+    <start>1933</start>
+    <end>1945</end>
+    <pub_time>12/25/2022</pub_time>
+  </main>
+  <similar_artists>
+    <artist>chagall_marc</artist>
+    <artist>grosz_george</artist>
+    <artist>beckmann_max</artist>
+    <artist>kollwitz_kathe</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>new_objectivity</movement>
+    <movement>interwar_classicism</movement>
+    <movement>fauvism</movement>
+    <movement>expressionism</movement>
+    <movement>jewish_art</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>interwar_classicism</entry>
+    <entry>new_objectivity</entry>
+    <entry>bauhaus</entry>
+  </do_not_miss>
+  <quotes>
+    <q author="Adolf Hitler">“It is not the mission of art to wallow in filth for filth’s sake, to paint the human being only in a state of putrefaction… or to present deformed idiots as representatives of manly strength.”</q>
+    <q author="Adolf Hitler">“Works of art which cannot be understood in themselves but need some pretentious instruction book to justify their existence will never again find their way to the German people.”</q>
+    <q author="Joseph Goebbels, Minister of Propaganda">"German art of the next decade will be heroic, it will be like steel, it will be romantic, non-sentimental, factual; it will be national with great pathos, and at once obligatory and binding, or it will be nothing."</q>
+    <q author="Adolf Ziegler, Degenerate Art Exhibition Organizer">“We now stand in an exhibition that contains only a fraction of what was bought with the hard-earned savings of the German people and exhibited as art by a large number of museums all over Germany. All around us you see the monstrous offspring of insanity, impudence, ineptitude, and sheer degeneracy. What this exhibition offers inspires horror and disgust in us all.”</q>
+  </quotes>
+  <authors>
+    <author link="zucker">Adam Zucker</author>
+  </authors>
+  <editors>
+    <editor link="stephenson">Kate Stephenson</editor>
+  </editors>
+  <article>
+    <synopsys>Degenerate Art was a term used by the Nazi party to describe any artwork that did not fall in line with their ideals. This included most kinds of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt; including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; and well as art that was produced by Jewish artists or that presented the Nazi regime in a negative light. The term came to prominence in the 1930s, when thousands of artworks deemed “degenerate” were seized from museums and private collections. Some of these were put on display in an attempt to inflame public opinion against modernism which was claimed to be “un-German”, and as having Jewish or Communist links. Later, some pieces were sold to fund the Nazi party, whilst many others, including works by famous artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Cézanne&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Matisse&lt;/span&gt; were destroyed. Attempts were also made to control artists such art, and many were actively persecuted, losing their jobs, their livelihoods and, in some, cases their lives. </synopsys>
+    <key_ideas>
+      <idea>By bringing art and artists under state regulation, the Nazi party sought to control artistic output in Germany, preventing anti-Nazi imagery, promoting Nazi values of Kinder, Küche, Kirche (family, home, church), and generating hatred towards minority groups, particularly the Jewish community.</idea>
+      <idea>Whilst a great deal of public propaganda surrounded Degenerate art, there was some confusion, particularly in the early stages of the Nazi rise to power, as to exactly what was seen as degenerate and what wasn’t. This is because the designation was intrinsically linked to Hitler’s personal artistic taste and is indicative of the Nazi Party as a cult of personality.</idea>
+      <idea>Many artists that were deemed degenerate fled Germany and other occupied territories to places like Britain and the United States. Ironically, instead of eradicating modern art, the Nazis ultimately helped to spread new ideas in modernism on a global scale.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="From Freedom of Expression to the RKK">
+          <p type="p">Prior to the Nazi’s rise to political power, Germany was at the forefront of artistic experimentation and produced a significant output of modern art. This was most visible in Berlin during the 1920s when the country was governed by the Weimar Republic. Berlin was one of Europe’s epicenters for a diverse &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde art&lt;/span&gt; scene that supported artists and intellectuals from marginalized communities. Berlin was an international city, welcoming French and American art forms such as Cubism, Impressionism, Jazz, and early cinema. Weimar Germany was also the birthplace of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;, a style of art that revolutionized painting, film, and music. Notable German and Austrian contributors to  artistic communities of the 1920s included musicians Arnold Schoenberg and Kurt Weill; filmmakers Friedrich Wilhelm Murnau and Fritz Lang; and artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kollwitz_kathe"&gt;Käthe Kollwitz&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kirchner_ernst_ludwig"&gt;Ernst Ludwig Kirchner&lt;/span&gt;. </p>
+          <p type="p">Starting in 1930, Adolf Hitler’s Nazi party quickly rose to power. As the Nazis began to exert political influence across the country, Berlin’s avant-garde arts scene, along other modern artistic communities such as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bauhaus"&gt;Bauhaus School&lt;/span&gt;, were accused of defiling German tradition and culture. Hitler used avant-garde art as an example of how German culture was being infiltrated by foreigners and conspirators whose intent was to corrupt German culture. Nazi propaganda was successful in connecting &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt; and modernist theory to Jewish culture, despite the fact that Jewish artists were in a minority among modern artists in the country. Art historian Henry Grosshans noted that Hitler, "saw &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;Greek and Roman art&lt;/span&gt; as uncontaminated by Jewish influences. Modern art was [seen as] an act of aesthetic violence by the Jews against the German spirit. Such was true to Hitler even though only &lt;span class="marked_text chart-tooltip-target-top tooltip_id-liebermann_max"&gt;Max Liebermann&lt;/span&gt;, Ludwig Meidner, Otto Freundlich, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chagall_marc"&gt;Marc Chagall&lt;/span&gt;, among those who made significant contributions to the German modernist movement, were Jewish. But Hitler ... took upon himself the responsibility of deciding who, in matters of culture, thought and acted like a Jew."</p>
+          <p type="p">The Nazis subsequently embarked on a campaign of cultural censorship. On May 10, 1933, university students from towns and cities across Germany burned more than 20,000 books. Many of the books were written by European and American Jewish authors, but the burned volumes also included publications by left-wing social activists, and modernist authors. While the books burned, the students gave the Nazi salute. The orchestrated bonfires were a successful part of the Nazi’s propaganda efforts to spur public action against what they considered to be “un-German” influences. Leading Nazi official, Joseph Goebbels gave a speech to the students gathered in Berlin. He decried: "the era of extreme Jewish intellectualism is now at an end. ... The future German man will not just be a man of books, but a man of character. It is to this end that we want to educate you. ... And thus you do well in this midnight hour to commit to the flames the evil spirit of the past." In addition to destroying books, the Nazis started to target academics and cultural professionals. Artists, musicians, and intellectuals were fired from teaching positions if they were Jewish and/or associated with modern or avant-garde movements. The dismissed academics were replaced with members of the Nazi party. This led to a ten percent decrease in teachers throughout Germany. </p>
+          <p type="p">In September 1933, the Nazis formed their own cultural council, the Reichskulturkammer (the Reich Chamber of Culture, known as the RKK). This was instigated by Joseph Goebbels, who was serving as the Minister for Public Enlightenment and Propaganda. Goebbels was responsible for promoting Hitler’s image and cult of personality to the German population. He also played a major role in controlling the antisemitic narrative that the Nazis fabricated to justify their cultural and political domination. The RKK monitored the work of all professional German artists. Artists had to apply for membership by presenting an official Aryan certificate, a document acknowledging that the particular citizen was a part of the idealized Aryan race. If an artist did not meet these racial criteria they received a professional ban and were not legally allowed to work as an artist. This was stringently applied in Germany, but more erratically in other occupied territories, with French modern artists and dealers being less aggressively controlled.  </p>
+        </subsection>
+        <subsection title="Looting and Displacement of Degenerate Art">
+          <p type="img" alt="C. 1933-34 photograph of Adolf Hitler examining artwork " show="1">/images20/photo/photo_degenerate_art_1.jpg</p>
+          <p type="p">The RKK was divided into seven departments that dealt with different areas of the arts including music, film, theatre, and radio. One of these, the Reichskammer der Bildenden Künste (Reich Chamber of Fine Art) was directed, from 1936, by the painter, Adolf Ziegler. In June 1937, Goebbels put Ziegler in charge of a six-person committee that was tasked with removing works of modern art (called “Degenerate Art” by the council) from museums, galleries and private collections. Ziegler and his colleagues set about systematically seizing modern artworks including hundreds of pieces by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nolde_emile"&gt;Emile Nolde&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-heckel_erich"&gt;Erich Heckel&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beckmann_max"&gt;Max Beckmann&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kirchner_ernst_ludwig"&gt;Ernst Ludwig Kirchner&lt;/span&gt;. Also taken were works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;van Gogh&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Cézanne&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_pierre"&gt;Matisse&lt;/span&gt;. In total, more than 16,500 pieces were confiscated from locations across the Reich in less than two years. This was separate from the work of the Einsatzstab Reichsleiter Rosenberg (the Reichsleiter Rosenberg Taskforce, or ERR) which looted valuable cultural property including books, paintings, and sculptures from collections across occupied Europe and brought it to Germany.</p>
+        </subsection>
+        <subsection title="&lt;i&gt;Entartete Kunst Ausstellung&lt;/i&gt; (Degenerate Art Exhibition)">
+          <p type="img" alt="Front cover of the exhibition catalog and guide for the &lt;i&gt;Degenerate Art Exhibition (Entartete Kunst Ausstellung)&lt;/i&gt; in Munich." show="1">/images20/photo/photo_degenerate_art_2.jpg</p>
+          <p type="p">Around 650 of these confiscated works were put on display in the &lt;i&gt;Entartete Kunst Ausstellung&lt;/i&gt; (&lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;), which ran at the Institute of Archaeology in Munich from July 19 through to November 30, 1937. The exhibition later toured eleven other cities in Germany and Austria. Artworks were deliberately hung in a chaotic fashion and were accompanied by defamatory slogans which portrayed the art as insulting and un-German. Wall labels listed the inflated value of the artworks (as paid for by the museums who acquired the works) as a way of critiquing modern art as being frivolous. </p>
+          <p type="img" alt="Nazi propaganda minister Joseph Goebbels at the &lt;i&gt;Degenerate Art&lt;/i&gt; exhibition in Munich in 1938. " show="1">/images20/photo/photo_degenerate_art_3.jpg</p>
+          <p type="p">An exhibition catalog written by an official in the Reich Propaganda Ministry, Fritz Kaiser, was published as a guide to explain the degenerate nature of the works of art. Alongside Kaiser’s essay were photographs and checklists of the artwork in the exhibition, as well as excerpts from speeches given by Hitler. The overall message was that modernism was a Jewish-Bolshevik conspiracy to control and defile European culture, although only six of the 112 artists in the exhibition were actually Jewish. The artwork chosen for the cover of the catalog was &lt;i&gt;Der neue Mensch&lt;/i&gt; or &lt;i&gt;Large Head&lt;/i&gt; (&lt;i&gt;The New Man&lt;/i&gt;), by German-Jewish artist, Otto Freundlich. It is probable that the 1912 sculpture was later destroyed and Freundlich was murdered at the Majdanek Concentration Camp in 1943. 	 </p>
+          <p type="p">One impetus behind curating the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; was to show a juxtaposition between the art the Nazis deemed to be deplorable, and the art and cultural artifacts that they considered exemplary of the Aryan identity. The &lt;i&gt;Große Deutsche Kunstausstellung&lt;/i&gt; (&lt;i&gt;Great German Art Exhibition&lt;/i&gt;) ran at the same time as the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;, just down the street at Munich's newly consecrated Haus der Deutschen Kunst (House of German Art). It was intended to present the “racially pure” works of art that the Nazis approved of, such as Aryan-like nudes, realistic, idealized images of soldiers, and landscapes. Hitler appointed his photographer Heinrich Hoffmann to select works of art for display. </p>
+          <p type="img" alt="Adolf Hitler giving a speech at the opening of the &lt;i&gt;Deutsche Kunstausstellung&lt;/i&gt; (&lt;i&gt;Great German Art Exhibition&lt;/i&gt;) at the Haus der Deutschen Kunst in Munich on July 18, 1937." show="1">/images20/photo/photo_degenerate_art_4.jpg</p>
+          <p type="p">When the &lt;i&gt;Great German Art Exhibition&lt;/i&gt; opened on July 18, 1937, Hitler gave a speech to commemorate the occasion, stating: “From now on, we will wage a relentless war of purification against the last elements of our cultural decay. … As far as we are concerned, these prehistoric cultural Stone Agers and art dabblers may return to the caves of their ancestors, to make their primitive international scribblings there.” Meanwhile, Ziegler’s opening remarks for the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; stated “You see around you the aborted offspring of madness, of impudence, of ineptitude and degeneracy. This show produces in all of us feelings of shock and disgust”. </p>
+          <p type="p">Despite running concurrently with the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;, the &lt;i&gt;Great German Art Exhibition&lt;/i&gt; was significantly less popular in terms of visitor numbers. Even more interesting is that fact that several errors were made in the organization of the two exhibitions, with some works intended for the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; being installed at the &lt;i&gt;Great German Art Exhibition&lt;/i&gt;, and vice versa. After the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;, the most valuable pieces from it were sold at auction in Switzerland in 1939. The rest of the artworks entered the private collections of Nazi officials, were placed in storage, or destroyed. In March 1939, the Berlin Fire Brigade burned around 4000 paintings and prints. A large number of pieces of modern art were also burnt in Nazi-occupied Paris in July 1942, this included work by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Dalí&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klee_paul"&gt;Klee&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Entartung">
+          <p type="img" alt="From the catalogue of the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; of 1937, which drew parallels between “degenerate” artists and “insane”: Two drawings by Oskar Kokoschka and one by a psychiatric patient, with an invitation to readers to guess which is which." show="1">/images20/photo/photo_degenerate_art_5.jpg</p>
+          <p type="p">The term “entartung” which means “degeneracy” was popularized in the nineteenth century through the book &lt;i&gt;The Criminal Man&lt;/i&gt; written by Max Nordau. While Nordau was a Jewish revolutionary leader, his theories on art and its connections to morality were later appropriated by the Nazi regime as a means to justify their attack on modern art. Nordau, who was a physician, believed that individuals in contemporary society were engaging in behavior that he saw as an illness that led to "a contempt for the traditional views of custom and morality". He coined the term Degenerate art to illustrate how the modern artists of his time (he discussed Oscar Wilde’s work as a case study) reflected deviant and corrosive behaviors in their work. Modern art, according to Nordau, was becoming abstract and unrealistic because the artists were suffering from mental pathologies that made it difficult for them to decipher things coherently. He argued that the artistic innovations of movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt; were actually a result of the artists losing their sense of self-control. </p>
+          <p type="p">Nordau's idea to treat this degeneracy, as arts writer Bob Duggan explains, was to “Remove the stimuli of modernization, the reasoning followed, and the mind would return to a healthy state.” This theory, which was discussed within both artistic and scientific circles, became a way for the Nazis to censor artists Hitler disliked. Duggans adds that “In another irony, Nordau’s idea of a “Degenerate artist” of the late 19&lt;sup&gt;th&lt;/sup&gt; century included composer Richard Wagner and author-philosopher Friedrich Nietzsche, the twin towers of Hitler’s ideal of Germanic art. Hitler and the Nazis took Nordau’s idea, but replaced who were the ‘degenerates.’ They set the year 1910 as the cut-off point for acceptable art, thus catching &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-expressionism"&gt;Expressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt;, and even war-mad &lt;span class="marked_text chart-tooltip-target-top tooltip_id-futurism"&gt;Futurism&lt;/span&gt; in their ideological net.” </p>
+        </subsection>
+        <subsection title="Blut und Boden and Lebensraum">
+          <p type="p">Blut und boden, which translates to blood and soil, became a motto used by the Nazi party to promote their antisemitic, imperialistic, and fascist governance. Richard Walther Darré was one of the Nazis responsible for contextualizing the phrase. His 1930 book, &lt;i&gt;Neuadel aus Blut und Boden&lt;/i&gt; (&lt;i&gt;A New Nobility Based on Blood and Soil&lt;/i&gt;), supported a systemic eugenics program and selective breeding that would create a pure German society by removing what they considered to be unfavorable characteristics of certain races and ethnicities.   </p>
+          <p type="p">Blood and soil was also used to refer to the Nazi aim of conquering new territories such as Poland, Ukraine, and Russia which were deemed to be non-Aryan. The systematic colonization and eradication of the indigenous population would allow the German people increased space to live and work, an idea know as Lebensraum (living space). This plan also favored rural life over urbanization, and through the Nazi’s highly influential use of propaganda, it led to a distrust of cosmopolitan culture. It became a way to promote hatred for the Berlin liberalism and artistic freedom of the Weimar Republic, as well as Germany’s minority communities who were flourishing in the cities. The motto was utilized as a racially motivated rallying cry for a war that ultimately induced devastation of the countryside and which was responsible for the murder of six million Jewish people.</p>
+        </subsection>
+        <subsection title="Cultural Bolshevism">
+          <p type="p">Another term that was assigned to works of art, music, literature, and film that the Nazis deemed as unacceptable was “Cultural Bolshevism”. It was a term that could be used to describe any form of progressive and activist-centered cultural movement, in addition to the avant-garde and modernist aesthetics that were called Degenerate art. Cultural Bolshevism was an antisemitic conspiracy theory that falsely accused Jews of being the orchestrators of the 1917 Russian Revolution. Furthermore, the theory claimed that Jews controlled the various international communist movements, and by extension that they were the power brokers of global politics. This theory was spread through media such as Dietrich Eckhart's 1924 pamphlet &lt;i&gt;Der Bolschewismus von Moses bis Lenin&lt;/i&gt; (&lt;i&gt;Bolshevism from Moses to Lenin&lt;/i&gt;). Eckhart’s publication depicted the biblical figure Moses and the political revolutionary figure Vladimir Lenin as being Communists and Jews.</p>
+          <p type="p">Eckhart’s ideology was echoed by Hitler prior to the foundation of Nazi Germany. Hitler declared it to be his mission to destroy Jewish Bolshevism. He claimed that by ridding the world of the Jewish people, he would be doing divine work. In his 1925 manifesto, &lt;i&gt;Mein Kamf&lt;/i&gt;, Hitler wrote: “The Jewish doctrine of Marxism rejects the aristocratic principle of Nature and replaces the eternal privilege of power and strength by the mass of numbers and their dead weight. Thus it denies the value of personality in man, contests the significance of nationality and race, and thereby withdraws from humanity the premise of its existence and its culture.”</p>
+          <p type="p">Throughout Nazi Germany, Cultural Bolshevism was directly associated with the Jewish community and became a fearmongering tactic to spread misinformation, distrust, and hatred of Jewish culture among the German population. The Nazi’s extensive propaganda efforts ensured that this conspiracy theory and the associated historical revisionism became commonplace. Examples of this rhetoric can be seen in the curation of the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;, where the art was categorized into sections including “works by Jewish artists”, “works indicating a Jewish attack on the Christian religion”, “works that undermined respect for military activity”, and "art that offended the honor of German women”.</p>
+        </subsection>
+        <subsection title="Volk and the Volksgemeinschaft">
+          <p type="p">Hitler’s preference for nationalist and classical artwork that supported both Blut und Boden and Lebensraum ideologies is reflected in his personal promotion of art that represented the Volksgemeinschaft (folk community). This style of art is what Benjamin C. Sax and Dietar Kuntz describe as "a realization not of individual talents or of the inspiration of a lone genius, but of the collective expression of the &lt;i&gt;Volk&lt;/i&gt;, channeled through the souls of individual creators.” The Volksgemeinschaft was the antithesis of the cultures associated with European Jewish communities and the avant-garde of the Weimar Republic. Volk cultural depictions consist of glorified imagery of Germany’s historical prowess, as well as mythical heroism of German purity and strength. </p>
+          <p type="p">Nazi party leader Adolf Hitler was a trained artist who painted landscapes in a traditional and provincial Germanic &lt;i&gt;Volk&lt;/i&gt; style. His own theories and aesthetic preferences influenced his condemnation and censorship of the contemporary art and cultural scene that was flourishing in Germany and across Europe in the wake of World War I. Historian Anne Rothfeld explains that: “Hitler wanted new cultural and artistic creativity to arise in Germany, with the ‘folk-related’ and ‘race-conscious’ arts of Nazi culture replacing what he called the "Jewish decadence" of the Weimar Republic. According to the Nazis, acceptable and desirable art included Old Flemish and Dutch masters; medieval and Renaissance German artworks; Italian Renaissance and baroque pieces; eighteenth-century French artworks; and nineteenth-century German realist painters depicting the German Volk culture.” </p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">Because the Nazis kept thorough records of their enterprise, which included the theft and displacement of art (along with the slaughter of millions of individuals), investigators are aware of artworks deemed “degenerate” by the Nazis which ended up in museums and private collections. The effort to track down and return seized art has resulted in an ongoing chaotic and precarious legal and cultural situation. In some cases, families and institutions whose work was taken from them have been reunited with them. There are, however, still cases of artworks that are in legal limbo while courts decide their fate. That said, many of the pieces of Degenerate art that were destroyed were not recorded and so the fate of these artworks is unknown. After the collapse of Nazi Germany, some pieces of Degenerate art were discovered in storage by the Red Army and taken to Russia; a complete list of these has never been released. More recently, in 2010, a number of sculptures from the exhibition were found in a cellar in Berlin during work on the city’s underground.</p>
+          <p type="p">In August of 2022, New York state passed a law that museums in the state must affix a prominent label next to an artwork with dubious connections to the Nazi’s art looting campaign signifying that the work of art was acquired through these means. In a press release, New York State Senator Anna M. Kaplan wrote, “With the history of the Holocaust being so important to pass on to the next generation, it’s vital that we be transparent and ensure that anyone viewing artwork stolen by the Nazis understand where it came from and its role in history.”</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks/>
+  <chart>
+    <top/>
+    <bottom/>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Der Neue Mensch</title>
+      <artist>Otto Freundlich</artist>
+      <year>1912</year>
+      <materials>Plaster</materials>
+      <desc>
+				&lt;i&gt;Der Neue Mensch&lt;/i&gt; or &lt;i&gt;Large Head&lt;/i&gt; (&lt;i&gt;The New Man&lt;/i&gt;) was a sculpture by German-Jewish modernist, Otto Freundlich. It is most famous for being the image chosen as the cover of the catalog and guidebook for the Nazi’s &lt;i&gt;Entartete Kunst Ausstellung&lt;/i&gt; (&lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;). The sculpture depicts a large stylized head that resembles a monolithic stone structure. Influences include Cubism, apparent in the use of geometric forms, the tribal masks of the Dan people in west-central Côte d'Ivoire, and the larger than life moai stone head statues carved by the Rapa Nui people on Easter Island.
+				&lt;br/&gt;&lt;br/&gt;
+				Freundlich was born on July 10, 1878 to a Jewish family in Prussia. After studying dentistry, he decided to become an artist and moved to Paris in 1908 where he lived and worked in the Montmartre neighborhood and befriended neighboring artists Pablo Picasso and Georges Braque who influenced him to experiment with Cubism. From 1908 through 1912, he made trips back and forth between France and Germany, and eventually returned to Germany in 1914. &lt;i&gt;Der Neue Mensch&lt;/i&gt; was created in Hamburg during one of his sojourns. After World War I, Freundlich became a member of the art and activist collective known as the November Group. The group encouraged artists to become more politically involved in social, cultural, and economic issues throughout Germany. They advocated for art to be an intrinsic part of daily life and a means for expressing democratic and socialist perspectives. 
+				&lt;br/&gt;&lt;br/&gt;
+				Freundlich returned to France in the mid-1920s. When the Nazi party rose to power in 1939, Freundlich began facing pressure as both a modern artist and a Jewish citizen. Although he was living in France, he was arrested in 1939 as an “enemy alien” by the Vichy France government, which was under the control and influence of the Nazis. Picasso advocated for his release, which was granted. The event left Freundlich as a political refugee and he went into hiding at Saint-Paul de Fenouillet in Southern France.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Der Neue Mensch&lt;/i&gt; is only known today via its documentary photograph, because the original work of art was most likely destroyed sometime after the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; stopped touring. In 1943, Freundlich was arrested and deported to Majdanek Concentration Camp in Lublin, Poland, where he was murdered as soon as he arrived. 
+			</desc>
+      <collection/>
+    <use_big_image>true</use_big_image></artwork>
+    <artwork>
+      <title>Portrait of Wally</title>
+      <artist>Egon Schiele</artist>
+      <year>1912</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Austrian expressionist (and Nazi-deemed “Degenerate Artist”) Egon Schiele’s &lt;i&gt;Portrait of Wally&lt;/i&gt; has been at the center of a very public case of ongoing litigation and attempts to return the Nazi looted painting back to its heirs. The painting is a portrait of Schiele’s romantic partner and muse, Walburga "Wally" Neuzil. In the painting, Wally’s likeness is cropped from the shoulders upward. She’s looking toward the viewer in a three-quarter profile and wears a large sun hat. Her blue eyes stand out, emboldened in a passionate gaze. The painting is very similar in composition to Schiele’s &lt;i&gt;Self-Portrait with Physalis&lt;/i&gt;, which he painted in the same year. Neuzil and Schiele became romantically involved in 1911. Neuzil was seventeen when they met, while Schiele was twenty-one. Together they left Vienna in favor of small-town life in Český Krumlov in southern Bohemia. 
+				&lt;br/&gt;&lt;br/&gt;
+				At the time of the Nazi’s annexation of Austria, &lt;i&gt;Portrait of Wally&lt;/i&gt; was owned by a Jewish art dealer named Lea Bondi-Jaray. Art dealer Friedrich Welz acquired it from Jaray under duress. Welz was an agent for the Nazis, helping to move their looted artwork and his success as a dealer was largely due to the Nazi’s Aryanization law which forced Jewish citizens to forfeit their property to non-Jewish citizens. In April 1938, Welz took over Bondi-Jaray’s Würthle Gallery in Vienna. Welz also acquired twenty-six paintings from Jewish art collector Heinrich Rieger as he was deported to the Theresienstadt ghetto, where he was killed.
+				&lt;br/&gt;&lt;br/&gt;
+				In the aftermath of World War II, the United States Army apprehended Welz and was able to recover the paintings he amassed during the time he was involved with the Nazi regime. Among the paintings was the &lt;i&gt;Portrait of Wally&lt;/i&gt;. The U.S. Army started to organize the return of the paintings. In the interim, the Österreichische Galerie Belvedere (Austrian National Gallery) purchased works by Egon Schiele from Rieger's heirs. The collection mistakenly included &lt;i&gt;Portrait of Wally&lt;/i&gt; because of a clerical error by the U.S. forces who listed the painting as Rieger's. 
+				&lt;br/&gt;&lt;br/&gt;
+				Bondi-Jaray, who fled Austria and survived, sought to get her painting back from the Austrian National Gallery. She asked Rudolf Leopold, an esteemed Austrian art collector, for his help. In exchange, she would facilitate his acquisition of other notable works by Schiele. In an act of deceit, Leopold purchased &lt;i&gt;Portrait of Wally&lt;/i&gt; from the museum for his own collection in 1954. Furthermore, as a means to bolster and legitimize his illicit ownership of the work, Leopold published a 1972 catalogue of Schiele's works that omits Bondi-Jaray from the provenance record. This is in contrast to an earlier 1966 publication by art historian Otto Kallir, which lists her as the last owner prior to the Nazi’s Aryanization campaign. Bondi-Jaray passed away in 1969, but her heirs continued to dispute the matter with the Leopold Museum, where Leopold's art collection was placed in 1994. In July 2010, after more than a decade of court cases, the Leopold Museum agreed to pay $19 million to Bondi-Jaray's heirs. This agreement ensured that all outstanding claims on the painting would be settled. The painting’s legal battle was the feature of Andrew Shea's 2012 documentary &lt;i&gt;Portrait of Wally&lt;/i&gt;.
+			</desc>
+      <collection/>
+    <use_big_image>true</use_big_image></artwork>
+    <artwork>
+      <title>Portrait of the Journalist Sylvia von Harden</title>
+      <artist>Otto Dix</artist>
+      <year>1926</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Otto Dix fought in World War I and the experience profoundly shaped his worldview, leading him to become a humanist artist that painted poignant images depicting the horrors of armed conflict and war’s toll on domestic life. Dix’s anti-war imagery resulted in harsh critiques from German nationalists and political conservatives. As journalist Kate Connolly notes, Dix was “Often considered too honest and shocking, he was adopted by the anti-war movement but his exhibited works frequently had to be taken down in response to protests long before the rise of the Nazis.”
+				&lt;br/&gt;&lt;br/&gt;
+				Dix also painted scenes of everyday life, portraits, and images of raucous nightlife, which are representative of the avant-garde and diverse culture that flourished in Berlin during the Weimar Republic. One of his most well-known portraits is &lt;i&gt;Portrait of the Journalist Sylvia von Harden&lt;/i&gt;. Von Harden wrote literary columns for German publications such as &lt;i&gt;Das junge Deutschland&lt;/i&gt; (&lt;i&gt;The Young Germany&lt;/i&gt;) and &lt;i&gt;Die Rote Erde&lt;/i&gt; (&lt;i&gt;The Red Earth&lt;/i&gt;). While living in Berlin during the 1920s, she also published two volumes of her poetry: &lt;i&gt;Verworrene Städte&lt;/i&gt; (&lt;i&gt;Tangled Cities&lt;/i&gt;) in 1920 and &lt;i&gt;Die italienische Gondel: Gedichte&lt;/i&gt; (&lt;i&gt;Gondola: Poems&lt;/i&gt;) in 1927. 
+				&lt;br/&gt;&lt;br/&gt;
+				Von Harden’s article, &lt;i&gt;Erinnerungen an Otto Dix&lt;/i&gt; (&lt;i&gt;Memories of Otto Dix&lt;/i&gt;), published in 1959, describes the first encounter and conversation she had with Dix that led to his painting her portrait:
+				&lt;br/&gt;
+				“'I must paint you! I simply must! ... You are representative of an entire epoch!'
+				&lt;br/&gt;
+				'So, you want to paint my lacklustre eyes, my ornate ears, my long nose, my thin lips; you want to paint my long hands, my short legs, my big feet—things which can only scare people off and delight no-one?'
+				&lt;br/&gt;
+				'You have brilliantly characterized yourself, and all that will lead to a portrait representative of an epoch concerned not with the outward beauty of a woman but rather with her psychological condition.'”
+				&lt;br/&gt;&lt;br/&gt;
+				Dix painted von Harden in a very cosmopolitan manner that is significant to the progressive social movements apparent in Weimar-era Berlin. Her overall androgenous features, bobbed hairstyle, and monocle are both indicative of the era’s fashion styles and cultural understandings of gender fluidity and feminism. The portrait is representative of the subversion of patriarchal ideologies and the importance of rights for women, ideals that were at odds with Nazis’ oppressive and bigoted views.
+				&lt;br/&gt;&lt;br/&gt;
+				260 works by Dix were confiscated by the Nazis and several of his works were displayed in the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; including &lt;i&gt;The Trench&lt;/i&gt; and &lt;i&gt;War Cripples&lt;/i&gt;. Dix lost his teaching role in Dresden and moved to the German countryside, where he spent most the war producing inoffensive landscape paintings. He was later conscripted into the German People’s Militia and captured by French Troops. He returned to Dresden in 1946.
+			</desc>
+      <collection/>
+    <use_big_image>true</use_big_image></artwork>
+    <artwork>
+      <title>Self-Portrait</title>
+      <artist>Ernst Ludwig Kirchner</artist>
+      <year>1931</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				German Expressionist artist, Ernst Ludwig Kirchner was one of the most influential artists working in Weimar Republic between the two World Wars. His artworks during this period expressed both the liberal and vibrant nature of Berlin’s cultural scene and the horrific effects of war. Due to the anti-war and socially progressive themes in his art, Kirchner faced ire from Germany’s conservative politicians. During the Nazi’s censorship campaign, he was one of the more prominent figures to be labeled as a “Degenerate artist.” 
+				&lt;br/&gt;&lt;br/&gt;
+				Kirchner’s 1931 &lt;i&gt;Self-Portrait&lt;/i&gt; is a symbolic response to the Nazi’s censorship of modern art. Kirchner portrays himself as a victim of cultural repression and erasure by removing half of his face. His eyes, nose, ears, and mouth on the right side of his face are blurred, smudged, and abstracted to the point where they no longer exist. His hands are also seemingly bound by bands of orange paint. These stylistic and conceptual choices are significant as commentary of how cultural censorship impacts an individual’s freedom of expression and identity. Another significant element of the painting is the wallpaper behind Kirchner, which has a red pattern that resembles the Nazi’s appropriation and use of the swastika symbol. This illustrates how the Nazi’s sought to control every aesthetic facet of German culture and domestic policy. 
+				&lt;br/&gt;&lt;br/&gt;
+				25 of Kirchner’s works were displayed in the &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt; and he was forced to resign from his position at the Prussian Academy of Art. Suffering from ill health and increasingly disturbed by the developing situation in Germany, in 1937 he wrote, "Here we have been hearing terrible rumours about torture of the Jews, but it's all surely untrue. I'm a little tired and sad about the situation up there. There is a war in the air. In the museums, the hard-won cultural achievements of the last 20 years are being destroyed, and yet the reason why we founded the Brücke was to encourage truly German art, made in Germany. And now it is supposed to be un-German. Dear God. It does upset me." The following year, he took his own life by gunshot in front of his home.
+			</desc>
+      <collection/>
+    <use_big_image>true</use_big_image></artwork>
+    <artwork>
+      <title>Adolf, the Superman: Swallows Gold and Spouts Junk</title>
+      <artist>John Heartfield</artist>
+      <year>1937</year>
+      <materials>Photomontage</materials>
+      <desc>
+				German artist and graphic designer John Heartfield became the Nazi’s public enemy number one among the “Degenerate artists.” Heartfield’s medium of choice was photomontage and he created composite photographs manipulating and distorting Nazi imagery and symbolism as a response to the Nazi’s propaganda machine. By using mass media techniques and campaigns to criticize the Nazis, Heartfield sought to discredit the Nazi’s social, cultural, and intellectual ideologies. 
+				&lt;br/&gt;&lt;br/&gt;
+				Heartfield’s artwork frequently graced the covers of &lt;i&gt;Arbeiter-Illustrierte-Zeitung&lt;/i&gt; (&lt;i&gt;The Workers Pictorial Newspaper&lt;/i&gt;), most commonly known as &lt;i&gt;AIZ&lt;/i&gt;. The magazine was boldly antifascist and was published in Berlin until 1933, when it moved production to Prague and then Paris. One of the works of art printed in the magazine is Heartfield’s &lt;i&gt;Adolf, the Superman: Swallows Gold and Spouts Junk&lt;/i&gt;. The photomontage depicts the Nazi leader and orator in the midst of a speech. The internal cavity of Hitler’s chest is revealed via an x-ray and shows organs and a skeletal structure that are symbolic of his corrupt and bigoted characteristics: a heart made out of a swastika and a spine and belly comprised of gold coins.  
+				&lt;br/&gt;&lt;br/&gt;
+				Heartfield’s artistic attacks on the Nazis put him at significant risk. On April 14, 1933, the Gestapo broke into his Berlin apartment to place him under arrest. Heartfield managed to escape by jumping off his balcony and hiding in a garbage bin. After this experience, Heartfield fled Germany on foot to Czechoslovakia, later fleeing again to London. His activist efforts led the Gestapo to place him at number five on their most-wanted persons list. 
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait of a Degenerate Artist</title>
+      <artist>Oskar Kokoschka</artist>
+      <year>1937</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The title of expressionist painter Oskar Kokoschka's &lt;i&gt;Self-Portrait of a Degenerate Artist&lt;/i&gt; is a tongue and cheek reference to his Nazi labeled identity as a Degenerate artist. Like Kirchner, Kokschka was a renowned German Expressionist artist, revered among his Weimar era peers, but reviled by politicians. Kokoschka's avant-garde painting style and content that consisted of progressive and liberal themes was completely at odds with the German far-right. The culturally conservative Archduke Franz Ferdinand of Austria whose assassination brought on World War I, once said of Kokoschka that, “this fellows bones should be broken in his body.” 
+				&lt;br/&gt;&lt;br/&gt;
+				The Nazi’s included eight of Kokoschka’s paintings in the 1937 &lt;i&gt;Degenerate Art Exhibition&lt;/i&gt;. Kokoschka’s expressionist self-portrait made during that same year, was a clear retort to the Nazi’s disapproval and public denouncing of modern art. The artist painted himself in a strong and willful manner, his arms are crossed and he has a determined look on his face, signifying his defiant attitude towards the Nazis. Another significant representational element of the painting is the background depicting a scene in nature with a deer on the right-hand side and an outline of a man on the left. This is probably an allusion to the violent ways the Nazis hunted and destroyed both people and cultural objects. Kokoschka left Austria for Prague in 1934 and then onto the United Kingdom in 1938. He continued to produce anti-Nazi paintings throughout the war.
+			</desc>
+      <collection/>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website features"/>
+    <category name="current exhibitions"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""/>
+      <subcategory name="biographies" class="biography">
+        <entry>
+          <title>Inside Hitler's Germany: a Documentary History of Life in the Third Reich </title>
+          <link>0669250007</link>
+          <info>By Benjamin C. Sax and Dietar Kuntz</info>
+        </entry>
+        <entry>
+          <title>Hitler and the Artists</title>
+          <link>0841907463</link>
+          <info>By Henry Grosshans</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Hitler and the Power of Aesthetics</title>
+          <link>1585673455</link>
+          <info>By Frederic Spotts</info>
+        </entry>
+        <entry>
+          <title>Degenerate Art: The Attack on Modern Art in Nazi Germany, 1937</title>
+          <link>https://books.google.com/books/about/Degenerate_Art.html?id=yhLTngEACAAJ</link>
+          <info>Edited by Olaf Peters</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Lost Art Database</title>
+          <link>https://www.lostart.de/en/start</link>
+          <info>The Lost Art Database documents cultural property expropriated as a result of Nazi persecution, especially from Jewish owners, between 1933 and 1945</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Nazi Looted Art: The Holocaust Records Preservation Project</title>
+          <link>https://www.archives.gov/publications/prologue/2002/summer/nazi-looted-art-1</link>
+          <info>
+						By Anne Rothfeld
+						&lt;br&gt;
+						Prologue Magazine 
+						&lt;br&gt;
+						Summer 2002
+					</info>
+        </entry>
+        <entry>
+          <title>Degenerate Art: Why Hitler Hated Modernism</title>
+          <link>https://www.bbc.com/news/magazine-24819441</link>
+          <info>
+						By Lucy Burns
+						&lt;br&gt;
+						BBC News 
+						&lt;br&gt;
+						November 6, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>The Sad, Strange History of “Degenerate Art” </title>
+          <link>https://bigthink.com/articles/the-sad-strange-history-of-degenerate-art/</link>
+          <info>
+						By Bob Duggan
+						&lt;br&gt;
+						The Big Think 
+						&lt;br&gt;
+						March 26, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>How and Why Art Became “Degenerate” in Nazi Germany</title>
+          <link>https://hyperallergic.com/442196/how-and-why-art-became-degenerate-in-nazi-germany/ </link>
+          <info>
+						By Robert Moeller
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						May 14, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Museums Use ‘Nazi Tactics’ to Keep Art Stolen by the Nazis</title>
+          <link>https://www.thedailybeast.com/museums-use-nazi-tactics-to-keep-art-stolen-by-the-nazis</link>
+          <info>
+						By Barbie Latza Nadeau
+						&lt;br&gt;
+						The Daily Beast 
+						&lt;br&gt;
+						November 29, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>New Law Requires NY Museums to Label Nazi-Looted Art</title>
+          <link>https://hyperallergic.com/753986/new-law-requires-ny-museums-to-label-nazi-looted-art/ </link>
+          <info>
+						By Elaine Veile
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						August 17, 2022
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>“Degenerate Art” in Nazi Germany</title>
+          <link>https://www.youtube.com/watch?v=--E0g_s7Fi8 </link>
+          <info/>
+        </entry>
+        <entry>
+          <title>Documentary footage of the 1937 Degenerate Art Exhibition</title>
+          <link>https://www.youtube.com/watch?v=6W9jW2uBMAs </link>
+          <info/>
+        </entry>
+        <entry recommended="true">
+          <title>What is: Degenerate Art? </title>
+          <link>https://www.youtube.com/watch?v=-3DjtCQ_26s</link>
+          <info>HENI Talks</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

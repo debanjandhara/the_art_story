@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>glackens_william</id>
+    <name>William Glackens</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1891 - 1937</years>
+    <description>Glackens invigorated American painting, joined the Ashcan School, and  focused on scenes of leisure rather than the slums that his peers preferred.</description>
+    <use_big_images>true</use_big_images>
+    <occupation>Painter</occupation>
+    <nationality>American</nationality>
+    <birthDate>March 13, 1870</birthDate>
+    <birthPlace>Philadelphia, Pennsylvania</birthPlace>
+    <deathDate>May 22, 1938</deathDate>
+    <deathPlace>Westport, Connecticut</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <img_version>?1</img_version>
+    <pub_time>8/21/2017</pub_time>
+  </main>
+  <includes>
+    <include>ashcan_school</include>
+    <include>realism</include>
+    <include>american_impressionism</include>
+    <include>early_american_modernism</include>
+  </includes>
+  <similar_movements>
+    <movement>ashcan_school</movement>
+    <movement>realism</movement>
+    <movement>american_impressionism</movement>
+    <movement>early_american_modernism</movement>
+    <movement></movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>sloan_john</artist>
+    <artist>eakins_thomas</artist>
+    <artist>hartley_marsden</artist>
+    <artist>davis_stuart</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"The man with something to say is an important man in art - in fact, the only man who may claim the title of artist. The manner of his expression matters very little. That will take care of itself. The man with something to say generally says it pretty well."</q>
+    <q>"Art, like humanity, every time has an ancestry."</q>
+    <q>"The early Americans were illustrative. It was France that showed them the error of their project."</q>
+    <q>"I have found out that the pursuit of color is hard on drawing just as the pursuit of drawing is hard on color."</q>
+    <q>"The Old Masters were the only ones who really knew how to draw - and ...they drew flat...high lights are vulgar, and...when one goes boldly and directly to express an idea he is at once assailed as clumsy."</q>
+    <q>"Flowers have absolute purity, and their extraordinary variety of color makes them irresistible."</q>
+  </quotes>
+  <authors>
+    <author link="top">The Art Story Contributors</author>
+  </authors>
+  <editors>
+    <editor link="archino">Sarah Archino</editor>
+  </editors>
+  <article>
+    <synopsys>William Glackens invigorated American painting from its Eurocentric, tradition-bound academicism, bringing the observational skills learned as a newspaper illustrator to new urban subjects. One of the first American artists to find success without training in Europe, Glackens's attention to color and expressive brushwork, along with his willingness to experiment, marked a turn towards &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modernism&lt;/span&gt;. A founding member of the group of artists known as "The Eight," also referred to by critics (and later, scholars) as the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ashcan_school"&gt;Ashcan School&lt;/span&gt;, Glackens differed from his colleagues by focusing more on scenes of leisure and entertainment rather than the slums of the Lower East Side. He was also unapologetic of his admiration for European painting and popularized the quick brushwork and bright palettes of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt; among American audiences.</synopsys>
+    <key_ideas>
+      <idea>Although he did not self-identify as part of the Ashcan School, Glackens's attention to ordinary, modern, urban subjects and their unidealized presentation connects him to the core tenets of that movement. In documenting his world, he also incorporated the style of the Impressionists, as well as their interest in contemporary, urban leisure.</idea>
+      <idea>An admirer of French Impressionism, Glackens adopted the free brushstroke and brilliant color of his role models. Known as the "American Renoir," he reinterpreted the Impressionist focus on modern Paris by depicting similar scenes from 20&lt;sup&gt;th&lt;/sup&gt;-century New York. Rather than cafe culture and the boulevard, he painted nightclubs, department stores, and crowded slums. His version of these scenes, captured with a sense of immediacy and freshness, helped to popularize an &lt;span class="marked_text chart-tooltip-target-top tooltip_id-american_impressionism"&gt;American Impressionist&lt;/span&gt; movement.</idea>
+      <idea>An active planner and participant in several groundbreaking art exhibitions, including the Macbeth show of 1908, the Armory Show of 1913, and the Society of Independent Artists, Glackens created an important precedent for the display of art in the US and abroad.</idea>
+      <idea>A childhood friend of the businessman &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barnes_albert_c"&gt;Albert C. Barnes&lt;/span&gt;, Glackens was instrumental in the formation of the Barnes Collection, one of the leading collections of modern art assembled by a single owner in the 20&lt;sup&gt;th&lt;/sup&gt; century. In gathering works for Barnes, Glackens brought together works by European and American painters, allowing their mutual influences to be better understood.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood and Education">
+          <p type="p">Williams Glackens was born the youngest of three children to Elizabeth and Samuel Glackens, a clerk and cashier for the Pennsylvania Railroad. While a family of modest means, Glackens was well educated, attending Central High School with future artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sloan_john"&gt;John Sloan&lt;/span&gt; and James Preston, and the future pharmaceutical inventor and collector Albert C. Barnes. Glackens, whose nickname in school was "Butts," showed a proclivity for art at an early age and often produced funny drawings and scenes of school life for the amusement of his fellow students.</p>
+          <p type="p">In November 1891, he enrolled at the Pennsylvania Academy of the Fine Arts. It was here that he, Sloan, and a few other students formed the "Charcoal Club" in 1893. This informal group aimed to explore themes not offered as part of the academics of the Academy, most notably nude figure drawing. The group was also highly social, generating many stories of its members working through the night and waking up among their drawings and emptied bottles of alcohol.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Aside from his formal education, Glackens was greatly influenced by his experiences as an artist reporter for several newspapers, beginning at the &lt;i&gt;Philadelphia Record&lt;/i&gt; in 1891. His job required him to learn to draw quickly and produce work on tight deadlines. He was also thrust into an atmosphere quite unlike the quiet studio; once he fell into a pool of blood when sketching a murder scene. Leaving his studies in October 1894, he began working as a staff artist reporter for the &lt;i&gt;Philadelphia Press&lt;/i&gt; with fellow artists Sloan, Edward Davis, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-luks_george"&gt;George Luks&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-shinn_everett"&gt;Everett Shinn&lt;/span&gt;. During this time, Sloan introduced Glackens to the artist and charismatic teacher, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-henri_robert"&gt;Robert Henri&lt;/span&gt;. Henri would become the center of their artistic group and the most visible member of the soon-to-be-coined Ashcan School.</p>
+          <p type="p">Returning from a 1896 trip to Europe with Henri, Glackens moved to New York City where he would often frequent the open houses Henri held at his studio. He took a job at the &lt;i&gt;New York Herald&lt;/i&gt; and also began taking on work as a magazine illustrator. This provided steady income for the next decade and a half, as he produced more than 1,000 illustrations. Many were lighthearted scenes, but &lt;i&gt;McClure's Magazine&lt;/i&gt; sent him to Cuba to cover the Spanish-American War. On his way home from this assignment, he contracted malaria, an ailment that would resurface throughout his life.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Glacken's painting - The Artist's Wife and Child" show="1">/images20/photo/photo_glackens_william_1.jpg</p>
+          <p type="p">His 1904 marriage to artist Edith Dimock, daughter of a wealthy family, provided enough financial security for Glackens to focus on painting. Edith appeared in works such as &lt;i&gt;Portrait of the Artist's Wife&lt;/i&gt; (1904), as did his children, Ira and Lenna. Although generally a reserved man, Glackens did become involved in politics, protesting Prohibition and supporting the suffragist movement by marching in parades with his wife.</p>
+          <p type="p">In 1907, unhappy with their lack of representation in key exhibitions, Glackens and his friends made the decision to split with the National Academy of Design. Led by Henri, Glackens, and six other artists hosted an independent exhibition at the Macbeth Galleries in New York City. The show opened to the public on February 3, 1908 and proved a success. The press referred to them as "The Eight" and this group formed the key artists known as the Ashcan School (so named for their urban themes painted in somber dark colors with pronounced gestural brushstrokes).</p>
+          <p type="p">Almost immediately however, Glackens's approach to artmaking set him apart from the Ashcan School. He did not like capturing the grittier aspects of life and preferred a brighter palette. He also chose to depict lighter themes such as shoppers, family outings, and city parks.</p>
+          <p type="p">Glackens helped to organize the American section of the groundbreaking Armory Show of 1913. Yet, despite exhibiting his own works, he was more impressed with the European art on view, stating "Everything worthwhile in our art is due to the influence of French art. We have not yet arrived at a national art [...] I am afraid that the American section of this exhibition will seem very tame beside the foreign section. But there is a promise of renaissance in American art." Despite his admiration for modern, more abstract European painting, however, Glackens would remain a realist artist.</p>
+          <p type="p">Glackens's knowledge of European art had a profound impact on one of the greatest American collectors, Albert C. Barnes. When Barnes, asked Glackens to travel to Europe in 1912 to purchase paintings for him, these works became the foundation for the esteemed Barnes Collection in Philadelphia.</p>
+        </subsection>
+        <subsection title="Later Period">
+          <p type="img" alt="William and Glenna Glackens (1914)" show="0">/images20/photo/photo_glackens_william_4.jpg</p>
+          <p type="p">Glackens's later paintings included figurative work, landscapes, and floral still lifes, rendered in increasingly gestural brushstrokes. His style became much more Impressionist in these years. Even before his 1925 departure for Europe, however, his health had begun to decline. Returning to the United States six years later and still ailing, he was mostly limited to still lifes. Yet these paintings were enthusiastically received; Guy Pene du Bois said that the artist was responsible for "some of the most vibrant flower pieces known to our painting."</p>
+          <p type="p">Glackens died of a cerebral hemorrhage in May of 1938 while spending a weekend visiting fellow artist Charles Prendergast in Westport, Connecticut. Before the end of that year, the Whitney Museum in New York City hosted a month-long memorial exhibition that included 132 paintings and works on paper.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">William Glackens's ability to capture the moments of contemporary daily life is at the heart of his contribution to modern art. He translated French Impressionism into a distinct &lt;span class="marked_text chart-tooltip-target-top tooltip_id-american_impressionism"&gt;American style&lt;/span&gt; by modernizing its palette and depicting analogous scenes of 20&lt;sup&gt;th&lt;/sup&gt;-century life in New York. Glackens's interest in cultivating an American style would also be important to contemporary American modernists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hartley_marsden"&gt;Marsden Hartley&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sloan_john"&gt;John Sloan&lt;/span&gt;. As part of "The Eight," he was instrumental in the break from official academies and the popularization of independent exhibitions. The Society of Independent Artists, which hosted an annual public exhibition from 1917 until 1944, was closely modeled on this example.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="renoir_pierre_auguste">Luncheon of the Boating Party (1881)</artwork>
+    <artwork from="artist" page="manet_edouard">A Bar at the Folies-Bergere (1881-82)</artwork>
+    <artwork from="movement" page="ashcan_school">Forty-Two Kids (1907)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Hammerstein's Roof Garden</title>
+      <year>1901</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Hammerstein's Roof Garden&lt;/i&gt; captures a fashionable entertainment venue, immediately placing the viewer in a specific and contemporary urban space. Such roof gardens were popular spots during the summer, when theaters were often closed due to the stifling heat. Recently opened by theater legend Oscar Hammerstein in 1899, this locale, the Paradise Roof Garden, was a popular destination for the sort of spectacular which we see here. 
+				&lt;br/&gt;&lt;br/&gt;
+				Positioning the viewer as a member of the audience, we see a row of fashionably dressed women who watch a pair of tightrope walkers. The costumes of the acrobats provide a jolt of color in an otherwise muted tonal palette. With this limited scene, Glackens gives us a sense of the immense space of the theater, its popularity, its clientele and its performances. Providing respectable entertainment, the presence of unchaperoned young women points to the modernity of this scene (previously, such unescorted adventures would have been unthinkable), further emphasized by the recognizable architecture and real-life locale. 
+				&lt;br/&gt;&lt;br/&gt;
+				This particular painting was one of his earliest to earn public acclaim. The work speaks to Glackens's preference for using familiar locations and scenes of contemporary life, the sort of modern genre painting that helped to establish his reputation. The subject matter and gestural brushstrokes would become hallmarks of his style, linking him to American Impressionism. Glackens would resist such categorizations, yet although he had focused on a cheerful scene of middle-class leisure, the observational and almost mundane quality of his subjects and representations also connect him to the Ashcan School.
+			</desc>
+      <collection>Collection of Whitney Museum of American Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of the Artist's Wife</title>
+      <year>1904</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Glackens's depiction of his wife, Edith Dimock, blends tradition and innovation, updating the conventions of formal portraiture with an informality and honesty that mark it as modern painting. Formally attired, Edith appears in a black coat and hat with a long brown pleated skirt, seated next to a small table with white cloth on which sits a silver bowl full of fruit. Set against a dark background of loosely rendered brown and black brushstrokes, her face is turned slightly to the left as she looks out at the viewer. The nearly monochromatic palette and full-length composition recalls Édouard Manet's paintings of Victorine Meurent; Manet himself had looked back to Diego Velázquez, creating an art historical lineage that underscores the simplicity of this painting.
+				&lt;br/&gt;&lt;br/&gt;
+				Portraits were an important part of Glackens's &lt;i&gt;oeuvre&lt;/i&gt;, both artistically and financially. Yet in his refusal to idealize his sitter, he breaks with the expectations of portraiture to create a more modern portrayal. The artist depicted his new wife (they married the year of this painting) as she truly appeared, with her petite features, sharp nose, and small chin dwarfed by her heavily-draped garments. Compare this with the more idealized portrait of her, completed around the same time by the couple's friend artist Robert Henri. 
+			</desc>
+      <collection>Collection of Wadsworth Atheneum, Hartford, Connecticut</collection>
+    </artwork>
+    <artwork>
+      <title>Chez Mouquin</title>
+      <year>1905</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Mouquin's was a popular New York City restaurant at the turn of the century, frequented by theater-goers and the artists of Glackens's circle including Robert Henri. This recognizable depiction of the space, featuring known regulars on the social circuit, marks the painting as thoroughly contemporary. Indeed, critics at the time were dismayed by its frank portrayal of informal and co-ed drinking. The man seated at the center, James Moore, was a friend known for introducing his attractive young companions as his "daughters." While his stylishly dressed partner is unidentified, Glackens included his own wife in the mirrored reflection behind the couple.
+				&lt;br/&gt;&lt;br/&gt;
+				Indeed, in depicting a nightclub and composing the canvas to feature the central figures in front of a mirror, Glackens referenced Édouard Manet's &lt;i&gt;Bar at the Folies Bergere&lt;/i&gt;. While his work is far less complicated than Manet's there is a similar repetition of the ambiguous female focal point, the upper-class man on the periphery, a careful still life in the foreground and hints of a raucous environment in the reflected image of a mirror.
+				&lt;br/&gt;&lt;br/&gt;
+				Even though this work was included in the 1908 Macbeth show that came to identify The Eight and the Ashcan School, this painting demonstrates Glackens's distinct approach to painting in its colorful palette and bourgeois subject matter. His interest in the fashionable nightlife is evident, as he presents these figures to the viewer without judgment or condemnation; they are his friends and contemporaries, elevated into the tradition of art. 
+			</desc>
+      <collection>Collection of The Art Institute of Chicago, Chicago, Illinois</collection>
+    </artwork>
+    <artwork>
+      <title>Central Park, Winter</title>
+      <year>1905</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A crowd of people enjoys New York City in &lt;i&gt;Central Park, Winter&lt;/i&gt;. Despite the barren trees and the dark blue winter sky, a few bursts of color appear as children's hats and a sled lead the viewer's eye around the scene. Indeed, without a central focal point, the viewer is encouraged to visually wander through the space and discover its inhabitants. Some scholars have interpreted this lack of hierarchical structure as a sort of democratic space, unlike more formal and organized depictions of the park. In any case, all suggestions of the difficulties or discomforts of the season have been abolished in favor of a display of middle-class leisure and play. Except for the title, there is no indication that we are situated in an urban space.
+				&lt;br/&gt;&lt;br/&gt;
+				In turning to the theme of the four seasons, Glackens adopts a subject traditional in art history. This attention to the atmospheric effects of the light and weather reflect the influence of Impressionism, however, the scene also plays upon the vignettes common in genre paintings of everyday life. This balance between landscape and figure painting separates him from the Impressionists; he combines elements of that style with the observational recording of his newspaper training. As the art historian William H. Gerdts explained, "Glackens was concerned here with capturing both the rapport between adults and their offspring with the pleasures to be found in such a setting."
+			</desc>
+      <collection>Collection of The Metropolitan Museum of Art, New York, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Shoppers</title>
+      <year>1908</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The Shoppers&lt;/i&gt; features five women in the lingerie section of a department store. One of Glackens's largest compositions at nearly five feet square, this seemingly unimportant scene is given a greater significance. An unremarkable scene of urban life and daily activity, Glackens subtly layers this group with socioeconomic meaning and class distinction through clothing and gesture. The central figure, wearing a brown fur coat and elaborate feathered hat, inspects a garment held by a plainly dressed shop attendant. Compared with the looming patron, the shopgirl's bent posture indicates her deferential nature and also leaves her partially obscured in the background; she is clearly less important. Another shopper, seated in the left foreground, also examines the garment while two well-dressed shoppers, the one in front in a bright gold colored coat, gaze toward the viewer. They seem to signal our intrusion into this intimate, yet public, feminine space.
+				&lt;br/&gt;&lt;br/&gt;
+				Within this private/public space, Glackens included his family and friends as models for the figures; he would often paint the members of his inner circle into his works. His wife Edith is the center figure while the woman in gold is fellow artist Everett Shinn's wife Florence Scovel Shinn. The seated woman is his wife's friend Lillian Gelston Travis. Glackens's truthful representation of these familiar faces lends the painting an air of authenticity, however this verisimilitude was criticized by those who preferred an idealist approach. One critic commented that "the ugly woman in the foreground is the essence of the disagreeable shopper [while] the pretty lady to the right...is all that is appealing and poetic." While Glackens places his scene in an upper-class moment of leisure and shopping, he still connects the work to contemporary life through its honesty and straightforwardness. At the same time, this sense of authenticity is complicated by the aesthetic influence of the Impressionist artists in the cropping and composition, most notably the work of Edgar Degas. The effect is both artistic and recognizably real.
+			</desc>
+      <collection>Collection of The Chrysler Museum, Norfolk, Virginia</collection>
+    </artwork>
+    <artwork>
+      <title>Nude with Apple</title>
+      <year>1909-10</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This unusual and provocative nude announces Glackens's interest in the avant-garde as he remakes Édouard Manet's &lt;i&gt;Olympia&lt;/i&gt; for the 20&lt;sup&gt;th&lt;/sup&gt; century. Adopting the traditional subject of the reclining female nude, he juxtaposes her softly modeled body with a still life of ripe fruit and the arrangement of her discarded clothing. The black choker around her neck clearly announces his debt to Manet, although the wisp of white cloth that covers her pubic area is less confrontational. Still, the realism of this nude model is made clear; she is no goddess, but a woman who arrived at the studio wearing that gown, flowered hat, and blue shoes. 
+				&lt;br/&gt;&lt;br/&gt;
+				And yet, Glackens plays with traditional symbolism to complicate this work. Even as he makes it clear that his &lt;i&gt;Nude&lt;/i&gt; is merely an artist's model and a real woman, he includes an apple in her hand. Presumably, she has just taken from the bowl on the chair to her right, but, when combined with her nakedness, the apple transforms the nude into an Eve. Her eroticism transforms into something more dangerous, even as the contemporary domestic space deflates this biblical allusion. In the end, we are left with an image of an artist's model, perhaps attempting to pose as Eve, but eternally and intrinsically connected to the modern age.
+			</desc>
+      <collection>Collection of Brooklyn Museum, Brooklyn, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Far from the Fresh Air Farm: The crowded city street, with its dangers and temptations, is a pitiful makeshift playground for the children</title>
+      <year>1911</year>
+      <materials>Crayon heightened with watercolor</materials>
+      <desc>
+				Created for &lt;i&gt;Collier's Weekly&lt;/i&gt;, this work adopts the type of subject most commonly associated with the Ashcan School. Among the crowds of this Lower East Side immigrant neighborhood, the dangerous near-collision of a group of children and a speeding horse-drawn wagon is near lost. This chaotic scene of city life populates the entire street, giving the viewer the overwhelming sensation of being part of the throng. A sliver of sky is visible, but hemmed in on both sides by the tenement houses; the fire escapes are an extension of this busy street. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the title of the work makes clear the progressive and political message of the image, that this is an unfit environment for children, Glackens also includes simpler vignettes of urban life, including the brightly colored umbrella of the street vendor in the immediate foreground. 
+				&lt;br/&gt;&lt;br/&gt;
+				Many artists of this period did commissioned work for publication to supplement their income. From 1901 until 1919, Glackens created a series of page-length illustrations that captured aspects of New York City. His keen ability to capture figures in a crowd, preserving both the sense of the individual and the sensations of life among the masses was recognized; fellow artist Everett Shinn noted, "None of us could do a crowd quite like Glackens."
+			</desc>
+      <collection>Collection of NSU Museum of Art Fort Lauderdale, Fort Lauderdale, Florida</collection>
+    </artwork>
+    <artwork>
+      <title>Beach Umbrellas at Blue Point</title>
+      <year>1916</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				By the mid-1910s, the Ashcan School was no longer seen as a coherent group and the associated artists began to evolve into different styles; this summer scene reflects Glackens's growing interest in Impressionism and color. A crowd of people is arrayed on the sand, under a row of umbrellas that alternate brilliant panels of orange and white. Here, Glackens moves from documenting his world to more overtly organizing it into blocks of color and patterns of shape. The shore is a secondary concern; only the two bathers in a sliver of water in the immediate foreground hint at the location. Much greater attention is paid to the patterns of large brick house on the left and lush green trees on the right.
+				&lt;br/&gt;&lt;br/&gt;
+				Painted in loose brushstrokes, Glackens creates a series of repeating shapes such as the arched curves of the umbrellas, which appear again among the treetops. The rectangular stripes of the green shutters on the house are mirrored in the umbrellas below. Although there is not a central point of focus, Glackens creates a sense of order and regularity, balancing the jumbled panel of figures in the foreground. 
+				&lt;br/&gt;&lt;br/&gt;
+				Despite the carefully composed nature of this scene, it was based on Glackens's observations; he and his family spent many summers at the shore and therefore beach scenes became a popular theme in his &lt;i&gt;oeuvre&lt;/i&gt;. This particular work was painted at Long Island's Blue Point beach. Even though a local outbreak of infant paralysis had forced the family to move from their summer cottage to the nearby town of Brookhaven, Glackens continued to commute to this beach to capture the summer crowd and its colorful environment.
+			</desc>
+      <collection>Collection of National Museum of American Art, Smithsonian Institution, Washington DC</collection>
+    </artwork>
+    <artwork>
+      <title>Artist's Daughter in Chinese Costume</title>
+      <year>1918</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The portrait &lt;i&gt;Artist's Daughter in Chinese Costume&lt;/i&gt; is as much about color harmonies and relationships as it is a depiction of his young daughter, Lenna in a bright blue brocade Chinese jacket. The color of this exotic garment stands in sharp contrast to the feast of reds that dominate the rest of the painting. Glackens employs a range of reds to describe her pants, her hair, the drapes and chair behind her, as well as the oriental rug on which she stands. The result is a carefully interwoven field of color that demonstrates his mastery. 
+				&lt;br/&gt;&lt;br/&gt;
+				This painting also reflects Glackens's connection to the history of portraiture. Rendered in the soft brushstrokes common to his later career, this work most directly shows the profound influence of the French Impressionist, Renoir. (Indeed, Glackens was renown as the "American Renoir.") Renoir's portraits of children often paradoxically combined a similar sense of childlike innocence and maturity. Unapologetic about his love of European art, Glackens once said, "Can you think of a better man to follow than Renoir?" The work also looks back to Francisco Goya, whose portraits of aristocratic children were similarly composed as full-length studies.
+			</desc>
+      <collection>Collection of NSU Museum of Art Fort Lauderdale, Fort Lauderdale, Florida</collection>
+    </artwork>
+    <artwork>
+      <title>The Soda Fountain</title>
+      <year>1935</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				A celebration of bright color, &lt;i&gt;The Soda Fountain&lt;/i&gt; captures an ordinary scene of contemporary daily life; it is the type of subject that had been common among the Ashcan School and was newly relevant with the rise of Regionalism. Yet, despite the careful depiction of the figures, the scene has been arranged primarily as a color study, of brilliant warm shades of oranges, yellows, and browns, against the cool green bottles of the background. In this, the last large figurative painting of his career, Glackens alludes to his growing preference for still lifes in the arrangement of oranges, lemons, and pineapple on the left side of the counter, which tie together the dominant colors of the composition.
+				&lt;br/&gt;&lt;br/&gt;
+				The artist's son, Ira, later remembered that his father set up a makeshift soda fountain in his studio and kept the models' dresses draped on the chairs to ensure accuracy. While the quotidian nature of the subject and its realism might resemble the contemporary Regionalist movement, Glackens was reluctant to focus on the hardships of the Depression. Instead, he presents a scene of middle-class leisure, not unlike his earliest works.
+			</desc>
+      <collection>Collection of Pennsylvania Academy of Fine Arts, Philadelphia, Pennsylvania</collection>
+    </artwork>
+    <artwork>
+      <title>White Rose and Other Flowers</title>
+      <year>1937</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In his final years, Glackens focused on floral still lifes; the smaller scale and less ambitious compositions of these works were more feasible during his illness. This painting was his final work, exemplifying the brilliant colors of his late style. The elements are simple: a colorful bouquet of flowers in yellows, blues, reds, and white, surrounded by a clump of green leaves. The clear vase rests on a white and blue plate against a loosely rendered background of various shades of red and orange. The effect of this arrangement, however, plays a series of color contrasts and harmonies to create a sense of lively movement and abundance. Indeed, in a 1937 review, critic Margaret Bruening wrote, "There is something disarming in the simplicity of the arrangements, just little handfuls of flowers casually placed in vases. But the casualness is, of course, camouflage, for there is the utmost subtlety in the patterns of color, in the relations of form and contour... And what joy in pure painting these flower pieces afford! What lusciousness of pigment, what purity of color and astounding candor of statement...."
+				&lt;br/&gt;&lt;br/&gt;
+				With their bright colors, soft textures, and organic lines, flowers provided the perfect vehicle for Glackens's late style, which he rendered in expressive, gestural brushstrokes and vibrant palette. There was also significance to the flowers shown: here, these flowers were picked from the gardens in the house he and his family stayed at in Stratford, Connecticut during the summer of 1937.
+			</desc>
+      <collection>Collection of NSU Museum of Art Fort Lauderdale, Fort Lauderdale, Florida</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>degas_edgar</entity>
+        <entity>henri_robert</entity>
+        <entity>luks_george</entity>
+        <entity>manet_edouard</entity>
+      </column>
+      <column>
+        <entity>barnes_albert_c</entity>
+        <entity alt="Charles FitzGerald">fitzgerald_charles</entity>
+        <entity alt="Juliana Force">force_juliana</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>modernism</entity>
+        <entity>realism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>hartley_marsden</entity>
+        <entity>henri_robert</entity>
+        <entity>luks_george</entity>
+        <entity>maurer_alfred</entity>
+        <entity>prendergast_maurice</entity>
+      </column>
+      <column>
+        <entity>barnes_albert_c</entity>
+        <entity alt="Charles FitzGerald">fitzgerald_charles</entity>
+        <entity alt="Juliana Force">force_juliana</entity>
+        <entity alt="James B. Moore">moore_james_b</entity>
+      </column>
+      <column>
+        <entity>ashcan_school</entity>
+        <entity>impressionism</entity>
+        <entity>modernism</entity>
+        <entity>realism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>William Glackens and the Eight: The Artists Who Freed American Art</title>
+          <link>086316076X</link>
+          <info>By Ira Glackens</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="art works" class="artwork">
+        <entry>
+          <title>The World of William Glackens: The C. Richard Hilker Art Lectures</title>
+          <link>061541981X</link>
+          <info>By Colin Bailey, Avis Berman, Carol Troyen, Richard Wattenmaker, H. Barbara Weinberg</info>
+        </entry>
+        <entry recommended="true">
+          <title>William Glackens</title>
+          <link>0847842614</link>
+          <info>Edited by Avis Berman</info>
+        </entry>
+        <entry recommended="true">
+          <title>William Glackens</title>
+          <link>1558598685</link>
+          <info>By William H. Gerdts</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>The Athenaeum - Comprehensive collection of all paintings by Glackens</title>
+          <link>http://www.the-athenaeum.org/art/list.php?m=a&amp;s=tu&amp;aid=1772</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>The Beauty of the Everyday: William Glackens Spent a Life Painting What Was Before Him</title>
+          <link>https://www.nytimes.com/2014/08/15/arts/design/william-glackens-spent-a-life-painting-what-was-before-him.html</link>
+          <info>
+						The New York Times
+						&lt;br&gt;
+						August 14, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>William Glackens, a Painter at Home in the World</title>
+          <link>http://www.artnews.com/2014/11/06/william-glackens-at-barnes-foundation/</link>
+          <info>
+						ARTNEWS
+						&lt;br&gt;
+						November 6, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>William James Glackens</title>
+          <link>https://www.youtube.com/watch?v=-4fVyJcq2Us</link>
+          <info>Set to music, this video clip provides a look at some of the key works by artist William Glackens</info>
+        </entry>
+        <entry recommended="true">
+          <title>William J. Glackens Documentary</title>
+          <link>https://www.youtube.com/watch?v=yN8FMFY5um8</link>
+          <info>This video created by NSU Art Museum Fort Lauderdale features a look at the life and art of artist William Glackens followed by a presentation of key works by the artist in the museum's collection</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

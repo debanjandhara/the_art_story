@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>saint_phalle_niki_de</id>
+    <name>Niki de Saint Phalle</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1955 - 2002</years>
+    <description>Saint Phalle paired bold, jubilant, and cartoonish feminine forms with dark and disturbing material in her multifaceted artistic career. </description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter, Sculptor, Performance, Conceptual, and Installation Artist</occupation>
+    <nationality>French-American</nationality>
+    <birthDate>October 29, 1930</birthDate>
+    <birthPlace>Neuilly-sur-Seine, Hauts-de-Seine, France</birthPlace>
+    <deathDate>May 21, 2002</deathDate>
+    <deathPlace>La Jolla, California, USA</deathPlace>
+    <img_version>?1</img_version>
+    <art_type>Art</art_type>
+    <cname>De Saint Phalle</cname>
+    <pub_time>11/19/2016</pub_time>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>After years of creating innovative art de Saint Phalle came upon a signature visual language that can now be found in various location in the world.  For example, her work (created along with her partner Jean Tinguely) enlivens The Stravinsky Fountain in Paris, which is located just to the side of the Center Pompidou.</bio_highlight>
+  </main>
+  <includes>
+    <include>nouveau_realisme</include>
+    <include>feminist_art</include>
+    <include>performance_art</include>
+    <include>conceptual_art</include>
+    <include>modern_sculpture</include>
+  </includes>
+  <similar_movements>
+    <movement>nouveau_realisme</movement>
+    <movement>feminist_art</movement>
+    <movement>performance_art</movement>
+    <movement>conceptual_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>tinguely_jean</artist>
+    <artist>rauschenberg_robert</artist>
+    <artist>johns_jasper</artist>
+    <artist>bourgeois_louise</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I'm following a course that was chosen for me, following a pressing need to show that a woman can work on a monumental scale."</q>
+    <q>"Painting calmed the chaos that shook my soul."</q>
+    <q>"Most people don't see the edginess in my work. They think it's all fantasy and whimsy."</q>
+    <q>"I could do whatever I wanted, whether people liked it or not."</q>
+    <q>"I wanted to make some of the really important things of my generation and some of the biggest."</q>
+    <q>"With long skirts, you can really buff. People open doors for you and everything."</q>
+    <q>"Life .. is never the way one imagines it. It surprises you, it amazes you, and it makes you laugh or cry when you don't expect it."</q>
+    <q>"I love the round, the curves, the undulation, the world is round, the world is a breast."</q>
+    <q>"It's my destiny to make a place where people can come and be happy: a garden of joy."</q>
+  </quotes>
+  <authors>
+    <author link="souter">Anna Souter</author>
+  </authors>
+  <editors>
+    <editor link="hatton">Brynn Hatton</editor>
+  </editors>
+  <article>
+    <synopsys>Niki de Saint Phalle paired bold, jubilant, and cartoonish feminine forms with dark and disturbing material in her multifaceted artistic career. Throughout, she continually disrupted long-held conventions in art, and her iconoclastic approach to her identity and society at large made her an early and important voice to both the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-feminist_art"&gt;Feminist movement&lt;/span&gt; and the development of early &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt;. Unlike many of her contemporaries who prioritized the idea behind the work of art rather than the aesthetic demonstration of the idea, Saint Phalle's pieces were highly expressive, visually bold, and often playful - a style that celebrated aesthetics instead of interrogating its structures and conventions. She realized some of the most ambitious, immersive sculptural environments of the 20&lt;sup&gt;th&lt;/sup&gt; century, and also made intensely personal, inward-looking work that reflected on her inner life and relationships. Saint Phalle's broad influence is marked by the variety of contemporary cultural identities and communities that now 'claim' her as their own, including feminist, queer, and racial empowerment movements.</synopsys>
+    <key_ideas>
+      <idea>Saint Phalle's unique brand of feminist art expressed both angst and jouissance in full and equal measure, and explored the complex and confounding ways in which culture and biology co-construct the female experience.</idea>
+      <idea>Her groundbreaking &lt;i&gt;Nanas&lt;/i&gt; works, the most prolific series in her career, linked the social issues of the universal empowerment of women with the politics of the Black Rights movement in the United States.</idea>
+      <idea>Her vibrant, rotund, colorful female figures contrasted heavily with the stark, monumental, and often masculine styles of her contemporaries, including the work of other feminist architects such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bourgeois_louise"&gt;Louise Bourgeois&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nevelson_louise"&gt;Louise Nevelson&lt;/span&gt;.</idea>
+      <idea>Her art practice was intensely dialogic and collaborative in a time when the brand of the individual artist 'genius' was most heavily promoted in the art world. Her &lt;i&gt;Tirs&lt;/i&gt; (Shooting) painting incorporated the participation of the public, as well as some of the 20&lt;sup&gt;th&lt;/sup&gt; century's most influential artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Niki de Saint Phalle was born in France in 1930 to an aristocratic Catholic family. She had an American mother, a French banker father, four siblings, and grew up bilingual in French and English. Her father lost his wealth during the Great Depression and the family moved to the US in 1933, where Saint Phalle attended Brearley School, a girls' school in New York City. Saint Phalle reported later in her life, in an autobiography titled &lt;i&gt;Mon Secret&lt;/i&gt; (1994), that her father had sexually abused her from age 11.</p>
+          <p type="p">From an early age, Saint Phalle pushed boundaries in her artistic and personal life. Though she found Brearley School to be a formative experience, later claiming that it was there she became a feminist, she was expelled for painting the fig leaves covering the genitals of statues on the school's campus red. She then attended Oldfields School in Maryland, graduating in 1947. As a young woman, Saint Phalle also worked as a model, appearing on the front covers of &lt;i&gt;Life&lt;/i&gt; Magazine and &lt;i&gt;Vogue&lt;/i&gt;.</p>
+          <p type="p">When she was 18, Saint Phalle eloped with Henry Matthews, an author and childhood friend. While Matthews studied music at Harvard University, Saint Phalle began to explore painting, and gave birth to her daughter Laura in 1951, when she was 20 years old.</p>
+        </subsection>
+        <subsection title="Early Training and work">
+          <p type="img" alt="Niki de Saint Phalle Biography" show="0">/images20/photo/photo_de_saint_phalle_niki_1.jpg</p>
+          <p type="p">In 1952, the Matthews and Saint Phalle moved to Paris, where he continued to study music and Saint Phalle studied theater. The couple traveled extensively in Europe, gaining exposure to art by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt;. The following year, Saint Phalle was diagnosed with a "nervous breakdown" and hospitalized in a psychiatric facility. She was encouraged to paint as a form of therapy, and consequently gave up her theater studies in favor of becoming an artist.</p>
+          <p type="p">The couple moved to Mallorca off the coast of Spain, where their son Philip was born in 1955. During this time, Saint Phalle developed her imaginative, self-taught style of painting, experimenting with a variety of forms and materials. She also discovered the architecture of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gaudi_antoni"&gt;Antonio Gaudi&lt;/span&gt;, which had a strong influence on her work. Gaudi's Park Guell in Barcelona was instrumental in Saint Phalle's early conceptualization of the elaborate sculpture garden she would fulfill much later in her career.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Niki de Saint Phalle Photo" show="0">/images20/photo/photo_de_saint_phalle_niki_2.jpg</p>
+          <p type="p">At the end of the 1950s, Saint Phalle and her husband moved back to Paris. In 1960, however, the couple separated and Saint Phalle moved to a new apartment, established a studio, and met artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tinguely_jean"&gt;Jean Tinguely&lt;/span&gt;, with whom she would collaborate artistically. Within a year, they had moved in together and begun a romantic relationship.</p>
+          <p type="p">Saint Phalle became part of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nouveau_realisme"&gt;Nouveau Réalisme&lt;/span&gt; movement along with Tinguely, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-klein_yves"&gt;Yves Klein&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arman"&gt;Arman&lt;/span&gt; and others. She was the only woman in the group. Her first solo exhibition in 1961 punctuated a dynamic period of Saint Phalle's early career, and she met a number of influential artists living in Paris at the time, such as Robert Rauschenberg and Jasper Johns, whose use of found objects was to have a strong influence on Saint Phalle's work. She was also friendly with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, who first introduced her and Tinguely to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt;. The three artists traveled to Spain together to an event celebrating Dali's work, in which a life-sized bull sculpture was detonated with fireworks.</p>
+          <p type="p">In 1963, Tinguely and Saint Phalle moved to an old house just outside Paris, where she began to work on architectural projects as well as her renowned shooting paintings. In 1971, she designed her first building (a residence in the south of France), traveled to India and Egypt to study Eastern architecture, and married Tinguely.</p>
+          <p type="p">Her most famous and prolific series of works, the &lt;i&gt;Nanas&lt;/i&gt;, were begun in the mid-1960s and inspired by a friend's pregnancy, her reflections on archetypal feminine forms, and the vexed positions that women occupy in modern, patriarchal societies. 'Nanas,' a French slang word roughly equivalent to 'broads,' is a title that encapsulates the theme of the everywoman as well as the casual denigration that closely accompanies the rhetorical grouping of women as a social category.</p>
+          <p type="p">In 1974, Saint Phalle suffered from a serious lung illness and was advised by her doctors to spend some time in Switzerland to recuperate. While she was there, she met childhood friend Marella Caracciolo Agnelli, who was then the wife of Fiat chairman Gianni Agnelli. Marella was a well-connected socialite with a penchant for collecting art, and Saint Phalle told her about her vision of creating an elaborate sculpture garden of Tarot symbology. Caracciolo Agnelli proposed an area of land in Tuscany as a site, and initiated the garden work that would define the next 20 years of Saint Phalle's artistic efforts.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Niki de Saint Phalle Portrait" show="0">/images20/photo/photo_de_saint_phalle_niki_3.jpg</p>
+          <p type="p">In 1978, the foundations were laid for the Tarot Garden, and Saint Phalle created the first sculptural models for it. Construction began on the first large-scale sculpture in 1980, and in 1982 Saint Phalle completed &lt;i&gt;The Empress&lt;/i&gt;, a sculptural building designed in the shaped of a sphinx. This structure became her studio and home for the next decade.</p>
+          <p type="p">Saint Phalle was one of the first artists to get involved in AIDS outreach and prevention programs in the 1980s, designing prints to raise awareness about the disease. The 1980s were also the most prolific period in the &lt;i&gt;Nanas&lt;/i&gt; series, and marked a time when her interests in the cultural and biological systems constructing femininity were their most intricately developed.</p>
+          <p type="p">Jean Tinguely died in Switzerland in 1991, and Saint Phalle began to make a series of kinetic sculptures, his chief sculptural medium, to honor his memory. In 1994, Saint Phalle moved away from Tuscany to live in La Jolla in California. She lived there until her death in 2002.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">The Nouveau Realisme movement, and Niki de Saint Phalle's work in particular, had a significant effect on the development of conceptual art. Her works often combined performance and plastic art in new ways, blending and dismantling hierarchies between painting, sculpture, and performance in a way that would influence conceptual artists such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-beuys_joseph"&gt;Joseph Beuys&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-weiner_lawrence"&gt;Lawrence Weiner&lt;/span&gt;. She performed some of her &lt;i&gt;Shooting Pictures&lt;/i&gt; for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johns_jasper"&gt;Jasper Johns&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ruscha_ed"&gt;Ed Ruscha&lt;/span&gt; and Larry Bell, and influenced their thinking toward developing new and hybrid forms rather than refining single medium-specificity.</p>
+          <p type="p">As a feminist, Saint Phalle's unique style championed the female body and female sexuality. Her work would inspire generations of women artists working with the problem and challenge of representing the female body (notably, Louise Bourgeois' ambiguous, supple fabric sculptures of female forms). Saint Phalle also left behind a significant legacy of public sculpture, both in her Tarot Garden in Tuscany and in other locations around the world.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Tirs (Shooting) Picture</title>
+      <year>1961</year>
+      <materials>Plaster, paint, string, polythene and wire on wood</materials>
+      <desc>
+				In 1961, Niki de Saint Phalle held an exhibition at Galerie J entitled "Fire at Will." On show were several of her &lt;i&gt;Tirs&lt;/i&gt; or &lt;i&gt;Shooting Paintings&lt;/i&gt; (Tir is the French word for "shooting" or "to fire"), including this one. They were made by fixing polythene bags of paint to a board, and covering them with a thick plaster surface. Viewers were then invited to shoot a rifle at the surface, popping the bags and causing the paint to run down the textured white surface. This particular work was shot at by a number of notable artists, including Jasper Johns and Robert Rauschenberg.
+				&lt;br/&gt;&lt;br/&gt;
+				The process of creating the artwork became a live performative event done in the public eye and with the public's participation, challenging traditional perceptions of the artist as a solitary, hermetic figure. &lt;i&gt;Shooting Paintings&lt;/i&gt; involve the viewer directly and physically in the creation of work, and leave the resulting image to chance. Critic Craig Staff interprets the aggressive nature of these shooting pictures as representing the death of traditional painting as a medium. He claims "it is difficult not to interpret Saint Phalle's &lt;i&gt;Shooting Paintings&lt;/i&gt; iconoclastically and within a set of terms that unequivocally sought to negate, if not entirely bring down, the medium." While the aspect of group authorship and the combative action of shooting at the physical canvas suggested, in Staff's view, a totally antagonistic relationship to painting, the &lt;i&gt;Tirs&lt;/i&gt; pieces were not so precisely oppositional. They still retained many of the essentials of painting: a canvas as a blank ground, and paint constituting the form that populates the ground. 
+				&lt;br/&gt;&lt;br/&gt;
+				The element of spectacle, particularly the arresting image of an attractive young girl wielding a gun as part of her art, was a crucial aspect of these performance-paintings. The &lt;i&gt;Tirs&lt;/i&gt; events drew personalities such as Jane Fonda, whose image as a young and beautiful political dissident of the state was also a media spectacle in the 1960s. "In certain respects," writes critic Ariel Levy, "Saint Phalle's career was as much like Fonda's as it was like Rauschenberg's, built at the juncture of art, personal charisma, and political gesture." After a couple of years, Saint Phalle stopped making these works, claiming she had become "addicted to shooting, like one becomes addicted to a drug."
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Crucifixion</title>
+      <year>1963</year>
+      <materials>Found objects and polyester paint</materials>
+      <desc>
+				This abstracted female figure is made from found objects and fixed on the flat surface of a wall. It resembles, but does not completely conform, to the method of sculptural &lt;i&gt;assemblage&lt;/i&gt;, a combination of sculpture and collage that brings in a third dimension by adding elements that protrude or project out of a planar, two-dimensional surface. This work responds to the genre-blending of mid-century abstraction, and is definitive of Saint Phalle early feminist works. The figure is strangely proportioned, with a physical emphasis on the center of her body: her breasts, groin and hips are strongly exaggerated. The piece expresses Saint Phalle's attitude towards the female condition, which she saw as a highly ambiguous and contentious state. 
+				&lt;br/&gt;&lt;br/&gt;
+				The figure stitches together suggestions and formal elements of the constructed, biological-cultural stages of womanhood: youthful and sexualized, maternal and abundant, elderly and confined. The figure also has no arms, indicating a lack of female agency and disempowerment within a society that strongly delineates women's roles in accordance with diminishing reproductive capacity. 
+				&lt;br/&gt;&lt;br/&gt;
+				In addition, the woman is presented in cruciform, a symbol of suffering and martyrdom that also implicates the church and its androcentric view of the world. As Eunice Lipton puts it, "this aristocratic Catholic woman who'd been brought up in a strict household attacked the church with sculptures [...]. In perfectly calibrated formal choices, de Saint Phalle disfigured long-held articles of faith - high art, the family, the church." This sculpture marks an important moment in Saint Phalle's career, as it prefigures later famous &lt;i&gt;Nana&lt;/i&gt; works.
+			</desc>
+      <collection>Centre Georges Pompidou, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Black Venus</title>
+      <year>1965-67</year>
+      <materials>Painted polyester</materials>
+      <desc>
+				This large-scale sculpture presents a highly non-traditional view of the goddess figure. Saint Phalle's &lt;i&gt;Venus&lt;/i&gt; doesn't conform to the stereotypes of female beauty established by Western classical art, nor does it necessarily recall sculptural goddess forms of the ancient Eastern world and/or the Southern hemisphere. Instead, this figure is large-limbed, actively in motion, black-skinned, and adorned in a colorful, cartoonish bathing costume. &lt;i&gt;Black Venus&lt;/i&gt; is one of several black &lt;i&gt;Nanas&lt;/i&gt; (French slang term for woman; like chick or broad) Saint Phalle made during this period, as a statement of solidarity with the civil rights movement. The black &lt;i&gt;Nanas&lt;/i&gt; were among the first in the series, and exhibited at the Alexander Iolas Gallery in Paris in September 1965.
+				&lt;br/&gt;&lt;br/&gt;
+				As Elaine Hedges argues, "Saint Phalle is aware that most western myths handed down through time present few female models with whom women of today - particularly women of ethnic and racial minority groups - can identify, or even wish to identify. Portraying the goddess of love and beauty as strong, active and black, rather than mild, passive and white, Saint Phalle affirms the being and beauty of the black woman." Saint Phalle's voluptuous figure celebrates a new black goddess archetype, concurrent with a political culture of radical black love emergent in the mid-1960s that was also widely - if problematically - embraced by many progressive whites. "I saw a fat woman on the beach today and she reminded me of a great pagan goddess," Saint Phalle wrote of this work. "Black is different. I have made many black figures in my work. Black Venus, Black Madonna, Black Men, Black Nanas. It has always been an important color for me .. Black is also me now." She also made a series of white Nanas (along with an array of many other colors), reinforcing the concept that all women of all colors possessed, and were expressive of, universal goddess-like qualities.
+			</desc>
+      <collection>Whitney Museum, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Hon - A Cathedral</title>
+      <year>1966</year>
+      <materials>Plaster and paint</materials>
+      <desc>
+				This work is Saint Phalle's largest &lt;i&gt;Nana&lt;/i&gt; figure. It was designed in collaboration with her future husband Jean Tinguely and Swedish artist Per Olof Ultveldt for the Moderna Musseet in Stockholm. It is a large-scale sculptural work which viewers could enter from the vaginal opening, and could hold up to 150 people at a time. The interactive element of the work was something which deeply interested Saint Phalle at the time, and is an extension of her explorations into audience participation begun with the &lt;i&gt;Shooting Paintings&lt;/i&gt;.
+				&lt;br/&gt;&lt;br/&gt;
+				"Hon" is the Swedish word for "she", implying that the sculpture is both a symbol for the every-woman, and also a cathedral-like space for the worship of women and femininity. Its structure references classic architectural theories about the entrances to cathedrals and their metaphoric and symbolic relationship to female genitalia, which Saint Phalle literalizes by having visitors enter the sculpture through the figure's vagina. This feature also presents the woman's body as a place of exchange and creation, a space which is entered and explored, and also generative of new life by way of its exit. The scale of this work also inspired Saint Phalle to begin working on a more architectural scale, culminating in her sculpture (and actually a home that one can live in) &lt;i&gt;The Empress&lt;/i&gt;.
+			</desc>
+      <collection>[destroyed, originally in Moderna Musseet, Stockholm]</collection>
+    </artwork>
+    <artwork>
+      <title>My Love We Won't</title>
+      <year>1968</year>
+      <materials>Lithograph</materials>
+      <desc>
+				&lt;i&gt;My Love We Won't&lt;/i&gt; is one of the drawings completed by Saint Phalle in the late 1960s, many of which she turned into lithographs. They were part of her preparations for a large relief entitled &lt;i&gt;Last Night I had a Dream&lt;/i&gt;, which featured a variety of mythical creatures and serpents combined with images from remembered dreams.
+				&lt;br/&gt;&lt;br/&gt;
+				This drawing features a series of images accompanied by hand-written phrases. It has a clear narrative that resembles a personal letter, and describes the end of a relationship in statements listing various things the author and a former lover will no longer do together, such as drinking a Bloody Marys, taking a bath, or swimming in the sea. The tone is confessional and intimate, but it also speaks more generally to the preoccupations and obsessions of young love. The piece is humorous but also touching, pointing to the small but universal joys and sadnesses in life.
+				&lt;br/&gt;&lt;br/&gt;
+				Saint Phalle once claimed that "Some of my drawings look like those of mad people. Don't we all have madness in us? Some of us are able to express it more easily." There is a sense that this drawing offers an insight into Saint Phalle's mind, the combination of words and images acting like a visual diary of complex thoughts and feelings. It also explores the typical tropes of masculine and feminine imagery, where the female speaker has a dream in which she is a flower (a trope in Western art history often representative of female genitalia) and her male lover is a snake (similarly representing the phallus). 
+			</desc>
+      <collection>Brooklyn Museum, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The Empress</title>
+      <year>1980</year>
+      <materials>Glass, ceramic, iron, steel, concrete</materials>
+      <desc>
+				&lt;i&gt;The Empress&lt;/i&gt; is an enormous sculpture in the form of a sphinx (a lion with the head of a woman), that is also a functioning house and studio space where Saint Phalle lived for several years. It incorporates a kitchen, bathroom, and extensive living area. Elaborately decorated with mosaic and ceramics on the outside, and Venetian glass on the inside, the work maintains the aesthetic of assemblage used in many of her earlier works.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Empress&lt;/i&gt;, like all the works in the Tuscany sculpture garden, is based on a Tarot card symbol. For Saint Phalle, the empress figure is the ultimate symbol of femininity and the female condition - as Saint Phalle said "The Empress is the great Goddess. She is the Queen of the Sky. Mother. Whore. Emotion. Sacred Magic and Civilization. " By creating &lt;i&gt;The Empress&lt;/i&gt; as a home, Saint Phalle makes it a refuge, associating this multifarious feminine archetype with the safe space of the womb, and scaling it to the size and grandiosity of monumental architecture. In its function as an artistic workspace, Saint Phalle also draws comparisons between female artistic creativity and the life-bearing creative capacity of a woman's body. The central room and living space is situated inside the figure's large breasts, with two windows looking out of the nipples. 
+			</desc>
+      <collection>Tarot Garden, Tuscany</collection>
+    </artwork>
+    <artwork>
+      <title>The Grotto, Hanover</title>
+      <year>2001-03</year>
+      <materials>Glass, ceramic, plaster, concrete</materials>
+      <desc>
+				This is the last project Niki de Saint Phalle worked on before her death. It is the final installment in a series of semi-architectural works accessible to the public. This aspect of public interaction was key for Saint Phalle's career and her philosophy of art. This particular cave was originally built in the baroque style in 1676 as a place for members of the Hanover court to escape the heat. When Saint Phalle was invited to turn the space into an immersive art environment, she created a design in response to the formal qualities of the existing architecture. She also maintained the original function of the Grotto, creating a space that acted as a cool refuge from the sunny gardens.
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;The Grotto&lt;/i&gt; consists of three rooms, and each is decorated in a very different style. The central room is entitled "Spirituality," and the walls feature a spiral of yellow, orange and gold mosaic pieces made of ceramic and glass, along with seashells and river pebbles. The river-like pattern pays homage to the original baroque idea of a grotto as a cave carved out by a river and decorated with shells and natural rock formations. The room on the right is set against a field of dark cobalt blue, and is inspired by the work of Henri Matisse. The deep blue mosaic walls are decorated with colorful figures, many of which are installed in large architectural niches. Dancing female forms and turning arrow shapes direct the gaze around and upward, circulating energy around the space and toward the sky, and vividly recalling Matisse's &lt;i&gt;La Danse&lt;/i&gt; series (1909-1910). The final room is bright and full of silver shards of mirrors, creating an impression of continuous daylight inside the dark cave. This room features sculptural figures in a range of styles from across Saint Phalle's career, acting as a sort of catalogue of her &lt;i&gt;oeuvre&lt;/i&gt;.
+			</desc>
+      <collection>Herrenhausen Gardens, Hanover, Germany</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks>
+    <artwork from="artist" page="bourgeois_louise">Spiral Woman (2003)</artwork>
+    <artwork from="artist" page="chicago_judy">The Dinner Party (1979)</artwork>
+    <artwork from="artist" page="matisse_henri">The Dance II (1932)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>klee_paul</entity>
+        <entity>matisse_henri</entity>
+        <entity>picasso_pablo</entity>
+        <entity>rousseau_henri</entity>
+        <entity>gaudi_antoni</entity>
+      </column>
+      <column>
+        <entity>tinguely_jean</entity>
+        <entity>rauschenberg_robert</entity>
+        <entity>johns_jasper</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>nouveau_realisme</entity>
+        <entity>feminist_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>bourgeois_louise</entity>
+        <entity>ruscha_ed</entity>
+      </column>
+      <column>
+        <entity>tinguely_jean</entity>
+      </column>
+      <column>
+        <entity>nouveau_realisme</entity>
+        <entity>conceptual_art</entity>
+        <entity>installation_art</entity>
+        <entity>performance_art</entity>
+        <entity>feminist_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Niki de Saint Phalle</title>
+          <link>3791349759</link>
+          <info>by Christiane Weidemann</info>
+        </entry>
+        <entry>
+          <title>Niki de Saint Phalle: My Art, My Dreams</title>
+          <link>3791339842</link>
+          <info>by Carla Schulz Hoffmann</info>
+        </entry>
+        <entry>
+          <title>Niki de Saint Phalle</title>
+          <link>9687180277</link>
+          <info>By Niki de Saint Phalle</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Niki de Saint Phalle</title>
+          <link>841569198X</link>
+          <info>by Bloum Cardenas</info>
+        </entry>
+        <entry recommended="true">
+          <title>Niki de Saint Phalle and the Tarot Garden</title>
+          <link>371651537X</link>
+          <info>by Jill Johnston</info>
+        </entry>
+        <entry>
+          <title>Niki de Saint Phalle: Insider/Outsider</title>
+          <link>0914155105</link>
+          <info>By Niki De Saint-Phalle</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Official website about the artist</title>
+          <link>http://nikidesaintphalle.org/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Artist Provocateur: Niki de Saint Phalle retrospective at Guggenheim Bilbao</title>
+          <link>https://www.theguardian.com/artanddesign/2015/feb/27/artist-provocateur-niki-de-saint-phalle-retrospective-guggenheim-bilbao</link>
+          <info>
+						By Hannah Ellis-Petersen
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						February 27, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Darkness Behind Niki de Saint Phalle's Colorful Beauties</title>
+          <link>http://hyperallergic.com/177324/the-darkness-behind-niki-de-saint-phalles-colorful-beauties/</link>
+          <info>
+						By Eunice Lipton
+						&lt;br&gt;
+						Hyperallergic 
+						&lt;br&gt;
+						January 26, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Beautiful Monsters</title>
+          <link>http://www.newyorker.com/magazine/2016/04/18/niki-de-saint-phalles-tarot-garden</link>
+          <info>
+						By Ariel Levy
+						&lt;br&gt;
+						New Yorker 
+						&lt;br&gt;
+						April 18, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Snakes and Nanas: the voluptuous art of Niki de Saint Phalle</title>
+          <link>https://www.theguardian.com/artanddesign/gallery/2016/jul/21/niki-de-saint-phalle-exhibition-unseen-works-in-pictures</link>
+          <info>
+						The Guardian 
+						&lt;br&gt;
+						July 21, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Rainbow-Colored Revelry of Niki de Saint Phalle</title>
+          <link>http://www.anothermag.com/art-photography/8877/the-rainbow-coloured-revelry-of-niki-de-saint-phalle</link>
+          <info>
+						By Madeleine Morley
+						&lt;br&gt;
+						AnOther Magazine 
+						&lt;br&gt;
+						July 19, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Niki de Saint Phalle: Lock 'n' Load</title>
+          <link>http://www.dazeddigital.com/artsandculture/article/20703/1/niki-de-saint-phalle-lock-n-load</link>
+          <info>
+						By Francesca Gavin
+						&lt;br&gt;
+						Dazed 
+						&lt;br&gt;
+						March 2008
+					</info>
+        </entry>
+        <entry>
+          <title>This hallucinatory 1970s sculpture garden brings the Tarot deck to life</title>
+          <link>http://www.huffingtonpost.com/entry/niki-de-st-phalle-tarot-garden_us_57acedbee4b007c36e4de29e</link>
+          <info>
+						By Priscilla Frank
+						&lt;br&gt;
+						Huffington Post
+						&lt;br&gt;
+						August 12, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Living with Niki</title>
+          <link>http://www.tate.org.uk/context-comment/articles/living-niki</link>
+          <info>
+						By Harry Matthews
+						&lt;br&gt;
+						Tate Etc. 
+						&lt;br&gt;
+						January 1, 2008
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Niki de Saint Phalle: Introspections and Reflections</title>
+          <link>https://www.youtube.com/watch?v=-784OPlEWYU</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Tate Shots: Niki de Saint Phalle</title>
+          <link>https://www.youtube.com/watch?v=XV7aJ7XHeB4</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Interview with Niki de Saint Phalle, 1994 (in French)</title>
+          <link>https://vimeo.com/110918115</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Niki de Saint Phalle: le Jardin des Tarots</title>
+          <link>https://www.youtube.com/watch?v=fLcmyExFqdM</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

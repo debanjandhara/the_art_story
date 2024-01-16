@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>tapies_antoni</id>
+    <name>Antoni Tàpies</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1943 - 2012</years>
+    <description>Tàpies created thick surfaces built up from harsh matterials unearthing of primal forms, becoming a major influence on modern painting.</description>
+    <art_description>Important art &amp; artworks analysis by Antoni Tàpies including: The Cry, Metal Shutter and Violin), Grey and green painting &amp; more in Art Informel, Abstract Expressionism &amp; Neo-Expressionism.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Spanish</nationality>
+    <occupation>Mixed Media Artist</occupation>
+    <birthDate>December 13, 1923</birthDate>
+    <birthPlace>Barcelona, Spain</birthPlace>
+    <deathDate>February 6, 2012</deathDate>
+    <deathPlace>Barcelona, Spain</deathPlace>
+    <big_bio_box_img>Tàpies in 2008</big_bio_box_img>
+    <bio_highlight>In the final decade of his life, Tàpies spoke of his, "Contempt for everything pretentious, grandiloquent, and supposedly very important" in the face of "that which is small and modest." A small and modest man himself, Tapies nevertheless did not shy away from controversy, boldness, or brutality in his work. As his gallerist, Daniel Lelong, commented, "He paints with his entire self, with all his soul, with all he's got, and ultimately with great violence."</bio_highlight>
+    <pub_time>10/21/2021</pub_time>
+  </main>
+  <includes>
+    <include>art_informel</include>
+    <include>matter_painting</include>
+    <include>pintura_materica</include>
+    <include>surrealism</include>
+    <include>neo_expressionism</include>
+  </includes>
+  <similar_movements>
+    <movement>art_informel</movement>
+    <movement>matter_painting</movement>
+    <movement>pintura_materica</movement>
+    <movement>surrealism</movement>
+    <movement>abstract_expressionism</movement>
+    <movement>neo_expressionism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>brossa_joan</artist>
+    <artist>miro_joan</artist>
+    <artist>tapie_michel</artist>
+    <artist>motherwell_robert</artist>
+    <artist>dubuffet_jean</artist>
+    <artist>fontana_lucio</artist>
+  </similar_artists>
+  <quotes>
+    <q> "I tend to live in a state of anxiety with the feeling that life is some kind of great catastrophe. Art should startle the viewer into thinking about the meaning of life."</q>
+    <q>"If I can't change the world, at least I want to change the way people look at it."</q>
+    <q>"My wish is that we might progressively lose our confidence in what we think we believe and the things we consider stable and secure, in order to remind ourselves of the infinite number of things still waiting to be discovered."</q>
+    <q>"Like a researcher in his laboratory, I am the first spectator of the suggestions drawn from the materials. I unleash their expressive possibilities, even if I do not have a very clear idea of what I am going to do. As I go along with my work I formulate my thought, and from this struggle between what I want and the reality of the material - from this tension - is born an equilibrium."</q>
+    <q>"The artist has to make the viewer understand that his world is too narrow, he has to open up to new perspectives."</q>
+    <q>"There is something evocative about the idea of destruction. This act of destruction is the expression of an idea...that what we call reality is not real at all."</q>
+    <q>"I feel the desire, or rather the intense need, to do something useful for society, and that is what stimulates me. In every situation I always look for what is positive and beneficial for my fellow citizens."</q>
+    <q>"If one draws things in a manner which provides only the barest clue to their meaning, the viewer is forced to fill in the gaps by using his own imagination. He is compelled to participate in the creative act, which I consider very important."</q>
+    <q>"The highest wisdom adopts the humblest of bodies."</q>
+    <q>"Painting quickly is a calculated act to block out rational thought."</q>
+    <q>"I often told the fanatics of realism that there is no such thing as realism in art: it only exists in the mind of the observer. Art is a symbol, a thing conjuring up reality in our mental image. That is why I don't see any contradiction between abstract and figurative art either."</q>
+    <q>"In our world, in which religious images are losing their meaning, in which our customs are getting more and more secular, we are losing our sense of the eternal. I think it's a loss that has done a great deal of damage to modern art. Painting is a return to origins."</q>
+    <q>"And the most sensational surprise was to discover one day, suddenly, that my paintings, for the first time in history, had turned into walls."</q>
+  </quotes>
+  <authors>
+    <author link="weinberg">Robert Weinberg</author>
+  </authors>
+  <editors>
+    <editor link="rosenblatt">Nina Rosenblatt</editor>
+  </editors>
+  <article>
+    <synopsys>Largely self-taught, Tàpies experimented tirelessly throughout his career with unconventional, unexalted materials, often creating thick surfaces built up from marble dust, ground chalk, sand, and earth in a way that, as one critic wrote, "seemed to have been not so much painted as excavated..." What became his signature technique of gouging, scratching, and incising enigmatic marks into the surface of his works furthered this sense of his art as an unearthing of primal forms, with references to cave paintings and to the protest graffiti he saw on walls as a youth in the politically turbulent streets of Barcelona. Although influenced by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; - in particular through his friendship with his fellow-Barcelonian, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt; - Tàpies's emphasis on the raw materiality of his works aligns him to such post-1945 movements such &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_informel"&gt;Art Informel&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matter_painting"&gt;Matter Painting&lt;/span&gt;, and Pintura Materica. While often refusing to decipher the precise meaning of his imagery, Tàpies also resisted being characterized as an abstract painter, insisting that his aim was to exalt the most profane object, noting that "even an armpit can be every bit as transcendental as the most conventional sacred image."</synopsys>
+    <key_ideas>
+      <idea>Rooted in his early experiences witnessing the brutality of Franco's regime in Spain, and in his hometown of Barcelona, allusions to human suffering and pain appear throughout Tàpies work - in flayed bandages, body parts, and scarred surfaces for example - reflecting his lifelong resistance against oppression and human rights abuses.</idea>
+      <idea>One of the most evocative motifs in Tàpies work is his transformation of the canvas into a wall (in fact, the word "tàpies" means "wall" in Catalan). Weathered, war-torn, bearing the marks and memories of the city street and of Tàpies own periods of confinement, these canvas-as-walls became a repeated element in his work, one that countered the conventional understanding of the painting as a transparent window into another world.</idea>
+      <idea>Like many artists, Tapies was deeply affected by the dropping of the atom bomb on Hiroshima and Nagasaki in 1945, which contributed to his interest in matter, the earth, dust, and other atomic particles that go into his paintings.</idea>
+      <idea>Tàpies works sometimes seemed to baffle American critics, who were accustomed to the flamboyant gestures of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt;. Eschewing bright colors and the gleam of commercial or technological culture Tàpies' noted of his encounter with the Abstract Expressionists, "they were wrestingly with canvases, using violent colors and huges brush strokes. I arrived with gray, silent, sober, oppressed paintings."</idea>
+      <idea>Considered the most important Spanish artist of the second half of the 20&lt;sup&gt;th&lt;/sup&gt; century, Antoni Tapies is not nearly as well-known in the United States as his some of Catalan compatriots, such as Salvador Dali and Joan Miró. In Spain, where he casts a large shadow on the local art scene, he is often regarded less as mentor than as father figure to rebel against.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="img" alt="The winter 1934 edition of the magazine, &lt;i&gt;D'ací i d'allà&lt;/i&gt; that introduced Tàpies to modern art" show="0">/images20/photo/photo_tapies_antoni_1.jpg</p>
+          <p type="p">Antoni Tàpies was born in Barcelona on December 13&lt;sup&gt;th&lt;/sup&gt; 1923 into a politically active and cultured family. His father Josep Tàpies I Mestres was a devoted Catalan nationalist and lawyer who served for a time with the Republican government. His mother, Maria Puig I Guerra, a devout Catholic, came from a family of well-known publishers and booksellers. At his mother's insistence, Tàpies received religious education early in his life - from which he gained both a fear of nuns and a distinctive spirituality that would be evident throughout his work. His school attendance was sporadic, however, owing to his poor health. At the age of 17, Tàpies suffered a near-fatal heart attack and subsequently underwent treatment for a collapsed lung. During subsequent long periods of convalescence and confinement he read widely in Western and Eastern philosophy and pursued the interest in art that had been awakened in his early teens. In 1934, when Catalan autonomy was declared, Tàpies entered secondary school and had a life-changing encounter with avant-garde art, which he discovered in an issue of the magazine &lt;i&gt;D'ací i d'allà&lt;/i&gt; from that year that included reproductions of works by leading contemporary artists of the time, including fellow-Spaniards &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt;. Tàpies was enthralled and began to teach himself to draw and paint. Two years later, while he was still in his teens, the outbreak of the Spanish Civil war affected his city and his outlook profoundly. Heavy bombing left Barcelona ravaged, destroying a well-known bookshop owned by Tàpies' grandfather. In 1939, Barcelona fell to Franco's troops ending a brief period of Catalonian autonomy and establishing a brutal and repressive dictatorship under Francisco Franco.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Self Portrait (1945). Pencil on paper, Fundación Antoni Tàpies" show="0">/images20/photo/photo_tapies_antoni_2.jpg</p>
+          <p type="p">In the early 1940s, Tàpies seemed torn between following his father into law and pursuing his own path as an artist. Beginning in 1942, during long periods spent convalescing from severe bouts of lung disease, Tàpies read extensively about philosophy - including Eastern mysticism - and nurtured an interest in German Romanticism and Post-Romanticism. Transforming his bedroom into a studio, he made self-portraits and sketches based on works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Van Gogh&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-holbein_hans"&gt;Holbein&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ingres_jean_auguste_dominique"&gt;Ingres&lt;/span&gt;, and Pisanello. Nevertheless, in an effort to please his father, Tàpies enrolled in the law program at Universidad de Barcelona in 1944. At the same time, he continued to produce art, creating dreamlike oil paintings of praying figures radiating light in the manner reminiscent of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-chagall_marc"&gt;Chagall&lt;/span&gt;. Already, in what would be a lifelong experimentation with materials, he began adding ground chalk to his pigments to enhance their textural qualities. Expressing his admiration for the thickly painted surfaces of Van Gogh, in particular, Tàpies later recalled, "I applied paint in an extremely heavy impasto to show my disdain for academic painting." His meeting with the poet and art critic Josep Maria Junoy while studying drawing at the Academica Valls in Barcelona contributed to his decision to devote himself fully to art. In 1946, Tàpies abandoned his legal studies once and for all.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Antoni Tàpies, c.1945-1947" show="1">/images20/photo/photo_tapies_antoni_3.jpg</p>
+          <p type="p">By the late 1940s, Tàpies was receiving recognition for his talents and gaining admission into the inner circles of the Catalan art world. The distinguished art collector Joan Prats showed Tàpies his collection of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-calder_alexander"&gt;Alexander Calder&lt;/span&gt; &lt;i&gt;mobiles&lt;/i&gt; and paintings by Joan Miró. In 1948 Prats took Tàpies to Miró's studio, an introduction that led to a lifelong friendship between the two artists. At the 1948 October Salon, the first post-War attempt in Spain to introduce the public to new art, Tàpies presented luminous, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-magical_realism"&gt;Magical Realist&lt;/span&gt; works with a strange, nocturnal atmosphere, in which Miró-like figures float above &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surreal&lt;/span&gt; landscapes. In 1950, he received his first solo exhibition in Barcelona's Galeries Laietanes. That same year, with a grant from the French government, he spent time in Paris, meeting another of his artistic idols, Pablo Picasso during a visit to Picasso's studio. While in this Parisian artistic milieu, his interest in Marxist theory grew and he began addressing social themes in his painting more directly. His time in Paris also helped to solidify his romantic relationship with Teresa Barba, with whom he corresponded regularly while there. The two were married in 1954 after Tàpies's return to Barcelona and Teresa became not only the subject (sometimes veiled) of many of his works, but also, his partner in the political struggle for democracy and human rights in Franco's Spain.</p>
+          <p type="img" alt="Earth and paint (1956). Fundació Antoni Tàpies" show="0">/images20/photo/photo_tapies_antoni_4.jpg</p>
+          <p type="p">Tàpies's mature period coincided with his growing international reputation, as he began to exhibit widely in Europe and the United States in the 1950s and to absorb elements of postwar abstraction from both sides of the Atlantic into his art. Although this period marked his decisive abandonment of narrative - a move often attributed to his encounter with the work of the American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionists&lt;/span&gt; in New York - his emphasis on tactility and materiality and his inclusion of mysterious symbols and objects set him apart from the kind of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-formalism"&gt;formalism&lt;/span&gt; then being celebrated by American critics such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt;. In 1955, Tàpies met the French critic Michel Tapié, an enthusiastic promoter of Tàpies and a theorist of the postwar tendency in European abstraction known as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_informel"&gt;Art Informel&lt;/span&gt;, an umbrella term that encompassed a range of artists who were concerned with the expressive possibilities of non-artistic materials but did not actually constitute a coherent "movement." In his 1960 exhibition at the Museum of Modern Art, curator &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ohara_frank"&gt;Frank O'Hara&lt;/span&gt; described Tàpies's work in terms of its "striking originality and self-sufficiency." Despite the difficulty of labelling Tàpies art - or, perhaps, because of it, by the time of his first American retrospective at the Guggenheim Museum in New York, the 39-year old Tàpies was considered the undisputed leader of the Spanish avant-garde.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">While Franco was in power, Tàpies's fame was a liability. Franco's regime did not tolerate dissent, and Tàpies was arrested, and, at one point, sentenced to death for his political activities (although, thankfully, the death sentence was revoked). Around this time, political themes gained prominence in his work - in several the Catalan flag was included - and he began producing works in print addressing the political situation in Spain. Upon Franco's death in 1975, when Spain was returned to a constitutional monarchy, Tàpies continued as a vociferous spokesman and polemicist on art and all manner of social issues, producing posters against capital punishment and Apartheid and in support of Bosnian independence.</p>
+          <p type="p">In the 1980s and after, Tàpies returned to many of his earlier imagery and techniques, exploring themes related to death, illness, and sex, and incorporating elements suggestive of Eastern calligraphy. These later works have often been described as conveying a more meditative emptiness than his earlier pieces, and he himself spoke of "that play of emptiness and fullness which composes everything." At the same time, however, he embarked on unprecedented large-scale, freestanding pieces that share a visual vocabulary with such contemporaneous &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionist&lt;/span&gt; artists as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-clemente_francesco"&gt;Francesco Clemente&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schnabel_julian"&gt;Julian Schnabel&lt;/span&gt;. Tàpies' final three decades were a whirlwind of attending exhibitions and receiving honors around the world. He died at 88 in Barcelona, the city that shaped him so profoundly.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Fundació Antoni Tàpies, Barcelona" show="1">/images20/photo/photo_tapies_antoni_5.jpg</p>
+          <p type="p">Tàpies created works that emphasized the supremacy of materials over representation, and sought, through a process he likened to "alchemy," to reveal the aesthetic value in even the most humble, everyday objects. In this respect, while his overall production does not fit neatly into any specific movement, his work has been associated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_informel"&gt;Art Informel&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matter_painting"&gt;Matter Painting&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pintura_materica"&gt;Pintura Matèrica&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arte_povera"&gt;Arte Povera&lt;/span&gt;. His ceaseless experimentation anticipated many of the elements of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_expressionism"&gt;Neo-Expressionism&lt;/span&gt;, as it emerged in 1980s: the scrawled calligraphy of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-twombly_cy"&gt;Cy Twombly&lt;/span&gt;, the smashed plates of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-schnabel_julian"&gt;Julian Schnabel&lt;/span&gt;, the exaggerated figures of Francesco Clemente, the tortured, encrusted paintings of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kiefer_anselm"&gt;Anselm Kiefer&lt;/span&gt;, and the graffiti and archetypal symbols of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-basquiat_jean_michel"&gt;Jean-Michel Basquiat&lt;/span&gt;. To his influence through decades of inventive and challenging visual works - including five stage productions in the 1970s - must be added the legacy of Tàpies published writings, produced over several decades, reflecting on art, politics, and the role of the artist in contemporary society.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Composició amb figures (Composition with figures)</title>
+      <year>1945</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Four naively rendered figures make up this early composition, painted by Tàpies when he was 21. A central figure stares straight ahead framed by two heads in profiles with eyes closed. Above them, at the center of the canvas and placed slightly behind a curved horizon, floats a faceless deity, radiating expressionistic lines that flow and vibrate around the picture. This piece represents one of Tàpies's earliest paintings, after he set up a studio at his sister's apartment in 1945 during the first year of his law studies at the Universidad de Barcelona. Many of Tàpies's early inspirations are evident here, including the radiating brushtrokes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;van Gogh&lt;/span&gt;, the dreamlike symbolism of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-redon_odilon"&gt;Odilon Redon&lt;/span&gt;, and the haunted quality of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-munch_edvard"&gt;Edvard Munch's&lt;/span&gt; figures. The painter himself said that the figures may have been inspired by Catalan Romanesque art. The ghostly figures and acid greens and yellows create an unsettling impression that reminds us that this was painted not long after Barcelona's fall to Franco. 
+			</desc>
+      <collection>Fundación Antoni Tàpies</collection>
+    </artwork>
+    <artwork>
+      <title>Asia</title>
+      <year>1951</year>
+      <materials>Oil on canvas</materials>
+      <desc>As a child Tàpies had been captivated by street magicians and fortune-tellers. In this magical, dreamlike image, Tàpies clearly displays his affinity to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealism&lt;/span&gt; and its own fascination with the mystical and occult. &lt;i&gt;Asia&lt;/i&gt; seems like an illustration pulled from a bizarre children's storybook (perhaps the book glimpsed at the lower left edge of the picture) - or a diagram from an occult text. Within a nocturnal landscape filled with celestial forms, plants, and insects, two ominous figures appear wielding scythes and daggers. A bejeweled male figure on the left appears to have severed his own arm and leg. While Tàpies was soon to abandon strong figurative elements, aspects of this composition would appear in later works - the scratch marks against a dark background, conventional geometry that frames the more organic elements, and a fascination with severed body parts. The title, "Asia" may be a reference to Tàpies early encounters with Eastern mysticism, especially during his periods of convalescence.</desc>
+      <collection>Museu de Arte Moderna de São Paulo, Brazil</collection>
+    </artwork>
+    <artwork>
+      <title>El crit. Groc i violeta (The Cry. Yellow and violet)</title>
+      <year>1953</year>
+      <materials>Mixed Media on Canvas</materials>
+      <desc>
+				This haunting abstract composition seems to continue Tàpies' preoccupation with dreamlike, night-time imagery, especially in the use of glowing yellow against a dark background. In &lt;i&gt;The Cry. Yellow and violet&lt;/i&gt;, however, the earthy materials and technique of scratching into the dense surface of the work are more pronounced than any specific storytelling. 
+				&lt;br/&gt;&lt;br/&gt;
+				Having experimented with the depiction of social themes based on his understanding of Marxism in previous works, Tàpies' move towards abstraction in the early 1950s, no doubt inspired by his encounter with Abstract Expressionism, finds him exploring the expressive qualities of color and paint. Here the juxtaposition of yellow and violet and the textured, calligraphic markings produce the emotional impact suggested by the "cry" of the title.
+			</desc>
+      <collection>Fundación Antoni Tàpies</collection>
+    </artwork>
+    <artwork>
+      <title>Porta metàllica i violí (Metal Shutter and Violin)</title>
+      <year>1956</year>
+      <materials>Assemblage</materials>
+      <desc>Tàpies often likened himself to an alchemist, transforming unprepossessing materials and objects, into art. Throughout the 1950s he began to incorporate such items as furniture, broken cartons, orthopedic devices and eyeglasses. &lt;i&gt;Metal Shutter and Violin&lt;/i&gt; is one of these works, an assemblage made for a shop window display. The inclusion of the actual objects - the violin and the metal shutter, are an obvious reference to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Duchampian&lt;/span&gt; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymade&lt;/span&gt; - the more so because these objects have been rendered useless in this piece. In addition, by bringing together two such different objects, Tàpies invokes the Surrealist technique of juxtaposition, in which objects take on a new order of meaning when taken out of their familiar contexts and placed together. Here, Tàpies plays on the sensory contrast of the sweet sounds of the violin and the loud clatter of the shutter as it clanks shut at the end of the day. The trace of the artist's hand in this piece is relegated to the painted black cross in the bottom left corner, the cruciform "T" with which he signed his name.</desc>
+      <collection>Fundación Antoni Tàpies</collection>
+    </artwork>
+    <artwork>
+      <title>Peinture grise et verte (Grey and green painting)</title>
+      <year>1957</year>
+      <materials>Oil paint, epoxy resin and marble dust on canvas</materials>
+      <desc>The composition in &lt;i&gt;Grey and green painting&lt;/i&gt; resembles a landscape with a low foreground at the bottom set against a large area of night sky. The perspective is unclear; we are either looking at the top edge of a wall or an aerial view of a coastline, the loose scratches and marks indicative of human construction or activity. However this particular piece might be interpreted, by the late 1950s Tàpies was covering his canvases with a highly textured base, mixing in clay and marble dust to thicken the surface. Tàpies later wrote of his fascination with incised and scribbled lines, lacerations, and grafitti-like marks, "My pictures became the truly experimental fields of battle... destruction led up to aesthetic tranquility." The work is reminiscent of contemporaneous French movements such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tachisme"&gt;Tachisme&lt;/span&gt;, or the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-art_brut_and_outsider_art"&gt;Art Brut&lt;/span&gt; experiments being carried out by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dubuffet_jean"&gt;Jean Dubuffet&lt;/span&gt;, but Tàpies endows the image with more austerity and monumentality. Materials are deployed for their magical and transformative properties. "His paintings present to us a world subject to constant change and metamorphosis," said Spanish curator Manyel J. Borja-Villel, "a world given shape - if only momentarily - by the artist-alchemist."</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Grey Ochre</title>
+      <year>1958</year>
+      <materials>Oil paint, epoxy resin and marble dust on canvas</materials>
+      <desc>
+				The name Tàpies means "walls" in Catalan and the artist created countless variations on the theme of walls, with their rough, pockmarked, and decaying surfaces. Eschewing the Renaissance notion that the picture frame was a window onto a scene beyond, Tàpies described his discovery of walls as a "sensational surprise," a sign of "separation, cloistering", "the romantic prestige of ruins" and "reflections for contemplation of the earth." 
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;Grey Ochre&lt;/i&gt; there is a clear reference to the weather-beaten, eroded buildings in Catalonian towns, mementoes perhaps of the activity that left marks on the walls - and on the memory of a people - by the Spanish Civil War and life under General Franco's dictatorship. "There is a sense," Tàpies wrote, "that there is something absent, covered up, behind the impenetrable surface. These are memories from the adolescence and early youth I spent shut in behind the walls within which I lived out the wars. All the dramas the adults were living through and all the cruel fantasies of an age - that, amid so many catastrophes, seemed to drift according to its own impulses - were traced and inscribed around me."
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Tela encolada (Sized canvas)</title>
+      <year>1961</year>
+      <materials>Paint and collage on canvas</materials>
+      <desc>During the 1960s, Tàpies often used materials that were aged or decomposing, such as large pieces of fabric, sheets, sailcloth, or blankets, to indicate memory and the passage of time. &lt;i&gt;Sized canvas&lt;/i&gt; hints at something hidden away behind a huge folded and crimped canvas. Despite the overall symmetry of the design, the wrinkling and discoloration of the material suggests something weathered and subject to the vagaries of time; the tripartite fold is reminiscent of religious or ceremonial attire. The two thick black painted lines at the bottom seem to invite the viewer to pull them back to reveal what lies beneath. Here, Tàpies extends the notion of the painting as wall even further, suggesting that the canvas itself obscures something more fundamental that lies beneath it.</desc>
+      <collection>Fundación Antoni Tàpies</collection>
+    </artwork>
+    <artwork>
+      <title>Les quatre cròniques (The four chronicles)</title>
+      <year>1990</year>
+      <use_big_image>true</use_big_image>
+      <materials>Mixed media on canvas</materials>
+      <desc>
+				Tàpies' use of calligraphic, graffiti-like marks, scribbled writing and archetypal symbols - such as the cross and the arrow - are on full display in this enormous frieze, 2 ½ meters high by 6 meters long. The piece is divided into four panels, each alluding to a chronicler of the past, and perhaps suggesting Tàpies role as historian in this piece. 
+				&lt;br/&gt;&lt;br/&gt;
+				The first panel, referring to King James I includes the text "faith without works is dead" from the epistle of St. James. The second corresponds to the Chronicle of Bernat Desclot dedicated to King Peter the Great, who is indicated by the outline of a horse's leg. The third refers to Ramon Muntaner, a Catalan nobleman who took part in several Mediterranean expeditions, and the image of the four bars recalls a saying that not even fish would dare to swim in the sea without showing the motto of the Catalan kings. The far-right panel is dedicated to the Chronicle of Peter III the Ceremonious (PIII), with an allegorical text from the biblical book of Kings, "He took me out of the lion's throat and from the staple of the bear." The whole, with its' bold markings, figurative elements, and scribbled phrases is a clear example of the Neo-Expressionist tendencies in Tàpies' later work.
+			</desc>
+      <collection>Generalitat de Catalunya, Barcelona</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity>dali_salvador</entity>
+        <entity>dubuffet_jean</entity>
+        <entity>duchamp_marcel</entity>
+        <entity>ernst_max</entity>
+        <entity>fautrier_jean</entity>
+      </column>
+      <column>
+        <entity alt="Joan Brossa">brossa_joan</entity>
+        <entity>miro_joan</entity>
+        <entity alt="Michel Tapie">tapie_michel</entity>
+      </column>
+      <column>
+        <entity alt="Buddhism">buddhism</entity>
+        <entity>dada</entity>
+        <entity>post_impressionism</entity>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>beuys_joseph</entity>
+        <entity>kiefer_anselm</entity>
+        <entity>polke_sigmar</entity>
+        <entity>schnabel_julian</entity>
+      </column>
+      <column>
+        <entity>motherwell_robert</entity>
+        <entity>dubuffet_jean</entity>
+        <entity>fontana_lucio</entity>
+      </column>
+      <column>
+        <entity>art_informel</entity>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+        <entity>neo_expressionism</entity>
+        <entity alt="Matter Painting">matter_painting</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>Antoni Tàpies: Works, Writings, Interviews (2007)</title>
+          <link>8434311240</link>
+          <info>By Antoni Tàpies and Youssef Ishaghpour</info>
+        </entry>
+        <entry>
+          <title>A Personal Memoir: Fragments for an Autobiography (2009)</title>
+          <link>0253354897</link>
+          <info>By Antoni Tàpies</info>
+        </entry>
+        <entry>
+          <title>Complete Writings Vol.II - Collected Essays (2011)</title>
+          <link>0253355036</link>
+          <info>By Antoni Tàpies</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Tàpies</title>
+          <link>B07XG12RBP</link>
+          <info>By Carmen Giménez</info>
+        </entry>
+        <entry>
+          <title>Tàpies Posters and the Public Sphere (2007)</title>
+          <link>8488786255</link>
+          <info>By Nuria Enguita Mayo</info>
+        </entry>
+        <entry>
+          <title>Antoni Tàpies: Image, Body, Pathos (2012)</title>
+          <link>394095392X</link>
+          <info>By Eva Schmidt</info>
+        </entry>
+        <entry>
+          <title>Tàpies from Within 1945-2011 (2014)</title>
+          <link>8415691386</link>
+          <info>Edited by Vicente Todoli</info>
+        </entry>
+        <entry>
+          <title>Antoni Tàpies: Works on Paper and Sculpture (2005)</title>
+          <link>0954812670</link>
+          <info>By Sarah Whitfield</info>
+        </entry>
+        <entry>
+          <title>Antoni Tàpies: Political Biography (2019)</title>
+          <link>3960984197</link>
+          <info>By Xavier Antich</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites" />
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>An afternoon with Antoni Tàpies</title>
+          <link>https://www.christies.com/features/Antenna-Antoni-Tapies-remembered-8848-1.aspx</link>
+          <info>
+						By Meredith Etherington-Smith 
+						&lt;br&gt;
+						Antenna, Christies 
+						&lt;br&gt;
+						February 26, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Antoni Tàpies, Spanish Abstract Painter, Dies at 88</title>
+          <link>https://www.nytimes.com/2012/02/07/arts/design/antoni-tapies-spanish-abstract-painter-dies-at-88.html</link>
+          <info>
+						By William Grimes 
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						February 6, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Antoni Tàpies: Catalan artist celebrated for his use of found materials</title>
+          <link>https://www.independent.co.uk/news/obituaries/antoni-tapies-catalan-artist-celebrated-his-use-found-materials-6649501.html</link>
+          <info>
+						By Marcus Williamson
+						&lt;br&gt;
+						Independent 
+						&lt;br&gt;
+						February 8, 2012
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Tàpies</title>
+          <link>https://www.youtube.com/watch?v=9Z2GhLfCpDE</link>
+          <info>1990 BBC documentary by Gregory Rood in which Tàpies reflects on art, life and politics, the social role of art and the artist, reflects on the influences of his work, and explains his artistic as well as political views.</info>
+        </entry>
+        <entry>
+          <title>Te de Tàpies</title>
+          <link>https://www.youtube.com/watch?v=nVC4PVoqrDI</link>
+          <info>2009 documentary by Carolina Tubau</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

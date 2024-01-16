@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>memling_hans</id>
+    <name>Hans Memling</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1465 - 1494</years>
+    <description>Flemish painter Hans Memling developed the realistic representation of human figures, architectural constructions, and landscapes.</description>
+    <art_description>Important art &amp; artworks analysis by Hans Memling including: Portrait of a Man, Triptych with the Adoration of the Magi, Saint Ursula Shrine &amp; more in Northern Renaissance.</art_description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Early Netherlandish</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>c. 1435-40</birthDate>
+    <birthPlace>Seligenstadt, Germany</birthPlace>
+    <deathDate>August 11, 1494</deathDate>
+    <deathPlace>Bruges, Belgium</deathPlace>
+    <pub_time>3/9/2021</pub_time>
+    <big_bio_box_img>Detail from &lt;i&gt;Sacra Conversazione with Saints John the Baptist, John the Evangelist, Catherine of Alexandria, and Barbara&lt;/i&gt; (1479)</big_bio_box_img>
+    <bio_highlight>Memling developed a personal style of religious painting and dignified portraiture, influencing subsequent generations of painters across Europe who adopted Memling’s harmonious approach to composition, serene rendering of facial expressions, and use of landscape backgrounds.</bio_highlight>
+  </main>
+  <includes>
+    <include>northern_renaissance</include>
+  </includes>
+  <similar_movements>
+    <movement>northern_renaissance</movement>
+    <movement>early_renaissance</movement>
+    <movement>high_renaissance</movement>
+    <movement>portrait_artists</movement>
+  </similar_movements>
+  <artist>van_eyck_jan</artist>
+  <artist>van_der_weyden_rogier</artist>
+  <artist>fra_angelico</artist>
+  <artist>giotto</artist>
+  <quotes></quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="lees">Sarah Lees</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Hans Memling was one of the most prominent and productive Netherlandish artists of the later fifteenth century. Drawing from a variety of sources including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_weyden_rogier"&gt;Rogier van der Weyden&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-campin_robert"&gt;Robert Campin&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_eyck_jan"&gt;Jan van Eyck&lt;/span&gt;, Memling formed part of the second generation of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-northern_renaissance"&gt;Northern Renaissance&lt;/span&gt; painters (also known as the Flemish Primitives), who further developed the realistic representation of human figures, architectural constructions, and landscapes.  Where van der Weyden often heightened the emotional impact of his paintings and simplified and stylized his sitters’ features, Memling’s work tends to be more placid and serene, and his depiction of figures more naturalistically detailed, if still flattering. As one nineteenth century writer poetically commented, “imagine…a privileged spot, a sort of angelical retreat…where simplicity, gentleness, and supernatural mildness grow like lilies — and you will have an idea of the unique soul of Memling, and the miracle he works in his pictures.” 
+			&lt;br/&gt;&lt;br/&gt;
+			Memling was one of the most prolific portraitists of the time; about one third of his output was independent portraits or diptychs, and additional likenesses appear as part of larger works. One of his most characteristic contributions was the use of a landscape background either viewed out a window or entirely outdoors. He developed this format further than his contemporaries and used it more consistently, perhaps prompted, as Paula Nuttall suggests, by his many Italian patrons, who appreciated the clarity and detail of Flemish landscape painting.  In addition to portraits, the rest of his production was quite varied, ranging from devotional diptychs and standard altarpieces to extensive narrative paintings, a huge, multi-panel altar, and a carved and painted shrine. 
+		</synopsys>
+    <key_ideas>
+      <idea>Memling worked in a highly detailed, illusionistic style, and he was particularly skilled at creating coherent, three-dimensional visual spaces that linked together separate components of his paintings and served as realistic settings for his figures, as well as helping the viewer engage more fully with the image.</idea>
+      <idea>Memling’s work emphasized balanced, harmonious compositions and restrained, graceful figure types, a style that appealed to a broad range of patrons in Bruges in a period when the city was one of the major cultural and economic centers of Europe.</idea>
+      <idea>Memling did not hold an official role in the painters’ guild of Bruges and did not receive commissions from the city or the Burgundian court, unlike most other successful artists of his time; instead, he seems to have relied on the wealthy and powerful merchants, bankers, and clergy who lived in or visited the city to support his career. These patrons also helped spread Memling’s innovative ideas throughout Europe. </idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Early Life and Training">
+          <p type="img" alt="Memling’s &lt;i&gt;Last Judgment&lt;/i&gt; (1467–71; Muzeum Narodowe, Gdansk) bears numerous parallels with Rogier van der Weyden’s &lt;i&gt;Beaune Altarpiece&lt;/i&gt; (1443–51; Musée de l’Hôtel Dieu, Beaune)." show="1">/images20/photo/photo_memling_hans_1.jpg</p>
+          <p type="p">As with many artists of the period, little is known of Hans Memling’s life with much certainty. He was born near the German town of Seligenstadt, west of Frankfurt, mostly likely between 1435 and 1440, and his first documented appearance in the historical record was not until 1465, when he purchased citizenship in Bruges. The details of his life in the intervening years are largely unknown. One or both of his parents died in 1450 or 1451, possibly in a plague that struck the Middle Rhine and Cologne region in those years. Memling may have already begun his early artistic training by that time, and he seems to have continued it — if perhaps only briefly — in Cologne, a major trade and artistic center. This would account for certain parallels in Memling’s earliest works with the paintings of the most prominent artist in Cologne, Stefan Lochner, who had also just died in 1451. Even if he did not apprentice with Lochner himself, he seems to have developed familiarity with the artist’s paintings or perhaps with the drawings produced by his workshop. </p>
+          <p type="p">As Barbara Lane suggests, Memling’s stay in Cologne may have been part of a period of several years’ travel, or &lt;i&gt;wanderjahre&lt;/i&gt;, that he undertook, which might have also taken him to Louvain. Memling’s next destination was probably Brussels, where he likely served as an apprentice or journeyman in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_weyden_rogier"&gt;Rogier van der Weyden’s&lt;/span&gt; workshop, possibly starting as early as 1459 or 1460 or as late as the period of Van der Weyden’s death in 1464. Study of the underdrawings of works such as &lt;i&gt;Madonna and Child Enthroned&lt;/i&gt; (c. 1465–70; Nelson-Atkins Museum of Art, Kansas City) suggests that Memling used techniques he learned in Van der Weyden’s studio. Moreover, the numerous parallels in composition and figure types between works by Van der Weyden and several early paintings by Memling, notably the &lt;i&gt;Last Judgment Triptych&lt;/i&gt; (1467–71; Muzeum Narodowe, Gdansk) and the &lt;i&gt;Adoration of the Magi Triptych&lt;/i&gt; (1470–72; Prado Museum, Madrid) along with several others, further support the idea, although Lane notes that Memling might well have based his compositions on the drawings and patterns that were widely circulated from the Brussels artist’s workshop. One much-debated work, the &lt;i&gt;Annunciation&lt;/i&gt; (c. 1465–70; Metropolitan Museum, New York), may have been commissioned from Van der Weyden but painted by Memling after the older artist’s death. </p>
+          <p type="p">Memling continued to draw inspiration from Van der Weyden’s work over the course of his career, as in his use of the devotional portrait diptych format. Some of these used plain backgrounds, as most of Van der Weyden’s did, while others featured detailed landscapes, perhaps derived in part from Van der Weyden’s &lt;i&gt;Triptych of Jean Braque&lt;/i&gt; (c. 1451; Musée du Louvre). But while Memling was clearly deeply influenced by Van der Weyden, he synthesized these elements with ideas from many other artists, including Lochner and other Cologne artists, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_eyck_jan"&gt;Jan van Eyck&lt;/span&gt;, Petrus Christus, and Dirck Bouts.</p>
+          <p type="p">In January 1465, just seven months after Rogier van der Weyden’s death, Memling relocated to Bruges, where he purchased citizenship and went on to establish a large workshop. Bruges was a thriving international trade center at the time, and Petrus Christus its leading artist, although the work and reputation of Van Eyck, who had died there twenty-four years earlier, was still prominent.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="A third of Memling’s artistic output was comprised of portraiture, such as &lt;i&gt;Portrait of a Young Man Praying&lt;/i&gt; (1485–90, Museo Thyssen-Bornemisza, Madrid)." show="1">/images20/photo/photo_memling_hans_2.jpg</p>
+          <p type="p">One of Memling’s earliest known paintings, the &lt;i&gt;Madonna and Child Enthroned&lt;/i&gt; (c. 1465–70; Nelson-Atkins Museum of Art, Kansas City) dates to just after his arrival in Bruges, and only two years later he received two major commissions, the monumental &lt;i&gt;Last Judgment&lt;/i&gt; (1467–71; Muzeum Narodowe, Gdansk), commissioned by Florentine banker Angelo Tani, and the &lt;i&gt;Triptych of Jan Crabbe&lt;/i&gt; (c. 1467–70; Musei Civici, Vicenza, Morgan Library, New York, and Groenige Museum, Bruges), painted for the abbot of Ter Duinen Abbey, located west of Bruges. This suggests not only that Memling was already an accomplished artist by the time he reached Bruges, but also that he likely hired assistants to help complete these works, although their names are not documented. Thanks in part to these high-profile commissions, Memling also began to receive requests for portraits from wealthy Flemish and foreign patrons, including Tommaso Portinari, who had taken over from Angelo Tani as the Bruges manager of the Medici bank, and commissioned a portrait triptych of himself and his wife Maria Baroncelli (1470; portraits in the Metropolitan Museum, New York; center panel is lost). </p>
+          <p type="p">Portraiture came to dominate Memling’s output in the 1470s and he became the most successful Netherlandish portraitist of his time. His numerous commissions came from Bruges burghers, Italian bankers, merchants, and diplomats, and later, wealthy German, Spanish, and English patrons. </p>
+          <p type="p">The 1470s also saw his marriage to Anna de Valkenaere, with whom he had three children. Memling continued to produce both major altarpieces and more modestly scaled works, among them several for Saint John’s Hospital in Bruges (which now houses the Hans Memling Museum). This includes the &lt;i&gt;Altarpiece of Saint John the Baptist and Saint John the Evangelist&lt;/i&gt; (1479; Saint John’s Hospital, Memling Museum, Bruges), painted for the high altar of the hospital church. Although he seems never to have received official commissions from the city of Bruges or the Burgundian court, his individual patrons provided sufficient support, and by 1480 he was among the city’s wealthiest citizens. </p>
+        </subsection>
+        <subsection title="Late Period and Death">
+          <p type="img" alt="Memling is buried in Sint-Gilliskerk (Saint Giles Church) in Bruges " show="1">/images20/photo/photo_memling_hans_3.jpg</p>
+          <p type="p">Bruges’s political and economic situation shifted considerably in the 1480s, precipitated initially by the death of Charles the Bold, Duke of Burgundy, in the Battle of Nancy in 1477, which led to the near collapse of the Burgundian empire. In the territorial disputes that followed, Bruges suffered an economic crisis and began to lose its status as an international commercial center. As a result, Memling’s financial situation appears to have declined somewhat, but he maintained his position as a successful artist. He was able to hire two apprentices, in 1480 and 1483 or 1484, and must have had additional assistants in his workshop, which produced a large number of works — ultimately some seventy-five to ninety paintings are attributed to Memling, one of the largest bodies of work among his contemporaries. </p>
+          <p type="p">In addition to producing further significant portraits in this period, like the two devotional images &lt;i&gt;Diptych of Maarten van Nieuwenhove&lt;/i&gt; (1487; Saint John’s Hospital, Memling Museum, Bruges) and the &lt;i&gt;Triptych of Benedetto Portinari&lt;/i&gt; (1487; Staatliche Museen, Berlin and Galleria degli Uffizi, Florence), he also completed another important commission for Saint John’s Hospital, the painted sides of a large reliquary dedicated to Saint Ursula (c. 1489, still &lt;i&gt;in situ&lt;/i&gt;). Memling died in Bruges in 1494, leaving several properties to his children, his wife having died in 1487. He was buried in the churchyard at Saint Giles, a typical site for an artist of his prosperous, if not wealthy, status.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">As the head of a presumably large and busy workshop, Memling likely directly influenced several younger artists; Barbara Lane proposed that his assistants may have included Martin Schongauer (c. 1430–1491), Michael Sittow (c. 1468–1525 or 1526), and possibly even &lt;span class="marked_text chart-tooltip-target-top tooltip_id-durer_albrecht"&gt;Albrecht Dürer&lt;/span&gt; (1471–1528). Thanks largely to his prominence in cosmopolitan Bruges, Memling’s religious paintings and dignified portraits were also widely appreciated across Europe, particularly by Italians. During his lifetime, the presence of a number of his works in Italian collections gave considerable inspiration to Italian artists, particularly in their use of landscapes. Some of Memling’s landscape details were quoted directly in paintings by Fra Bartolomeo and Filippino Lippi, among others, while the widespread vogue in late fifteenth- and early sixteenth-century Italy for Flemish-style landscapes, and for detailed, illusionistic portraits, derived in part from artists’ emulation of Memling’s style more broadly, as Nuttall has examined. Even &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt; may have known and been inspired by Memling’s work. </p>
+          <p type="p">In the years immediately following his death he received little recognition from writers, but his reputation began to increase by the mid-sixteenth century. In 1540, one Flemish scholar claimed that he had been “the most skillful and most excellent painter of the whole Christian world” at the time of his death. He was also acknowledged by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vasari_giorgio"&gt;Giorgio Vasari&lt;/span&gt; in the 1550 first edition of his &lt;i&gt;Lives of the Artists&lt;/i&gt; as the pupil of Van der Weyden, while Karel van Mander called him an “outstanding master” in his &lt;i&gt;Schilder-Boeck&lt;/i&gt; (Book of Painters) of 1604. By the early twentieth century, he was considered one of the most important Flemish artists of his time.  </p>
+          <p type="p">Contemporary artists continue to refer to Memling’s work, as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wiley_kehinde"&gt;Kehinde Wiley&lt;/span&gt; did in a 2013 series of portraits based directly on those by Memling. Wiley was inspired not only by the Flemish artist’s illusionistic verisimilitude and naturalistic landscape backgrounds, but also by his reliance on primarily middle-class patrons rather than noblemen.  </p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <artworks>
+    <artwork>
+      <title>Triptych of Jan Crabbe</title>
+      <year>c. 1467–70</year>
+      <materials>Oil on oak panel</materials>
+      <desc>
+				This triptych has been dismantled and its components scattered (the outer, reverse side of the wings, depicting an Annunciation with the Angel Gabriel and the Virgin Mary, are in the Groeninge Museum, Bruges), and perhaps as a result its condition has suffered, particularly in the center panel. It nonetheless represents a prime example of Memling’s early work, painted shortly after his arrival in Bruges. The painting was commissioned by Jan Crabbe, twenty-sixth abbot of Ter Duinen Abbey in Koksijde, near Bruges, shown kneeling in prayer at the foot of the cross. Crabbe was a powerful Cistercian monk whose financial ties with bankers like the Medicis and political alliances with the Burgundian court and the Holy Roman Empire enhanced his own and the abbey’s status. He may have initially intended to place the triptych in his family chapel; his mother, Anna Willemzoon, accompanied by Saint Anne, appears on the left, and his nephew or half-brother Willem de Winter is shown with Saint William on the right. In the central panel, assembled around the crucifixion, are the swooning Virgin Mary supported by Saint John the Evangelist, Mary Magdalene kneeling and clutching the base of the cross, and Crabbe accompanied by his patron saint, John the Baptist, and by Saint Bernard of Clairvaux, the founder of the Cistercian order. 
+				&lt;br/&gt;&lt;br/&gt;
+				In addition to demonstrating that Memling’s artistic reputation was sufficiently established to attract prominent patrons, this triptych also reveals his already evident skill in portraiture, particularly in the depiction of Anna Willemzoon, whose aged features are recorded faithfully but compassionately. The composition — as well as its underdrawing — also point to Memling’s still-close links to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_weyden_rogier"&gt;van der Weyden’s&lt;/span&gt; workshop. In its use of a continuous landscape to unite the panels, its background cityscape, the proximity of the donor to the sacred figures, and the relative distribution of figures around the central crucifixion, the Crabbe triptych clearly echoes Rogier’s &lt;i&gt;Crucifixion Triptych&lt;/i&gt; (1443–45; Kunsthistorisches Museum, Vienna). Where Rogier’s figures openly express their grief with visible tears and dramatic expressions, however, Memling’s are far more muted and restrained; even Crabbe seems absorbed in his own concerns rather than in the scene before him.
+			</desc>
+      <collection>Musei Civici, Vicenza (center panel) and Morgan Library and Museum, New York (wings) </collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of a Man with a Roman Coin</title>
+      <year>1471–74</year>
+      <materials>Oil on oak panel</materials>
+      <desc>
+				This portrait is a typical example of Memling’s use of a landscape backdrop, but it is unusual in being one of his only works to feature details that may be emblematic of the sitter’s identity. These include the Roman coin or &lt;i&gt;sestertius&lt;/i&gt; that bears the image of emperor Nero, the pair of laurel leaves at the bottom edge of the image, and the prominent if somewhat incongruous palm tree in the background. While other identifications have been proposed, the most likely connection is with Bernardo Bembo (1433–1519), whose personal emblem consisted of a wreath of laurel and palm leaves. Bembo was a Venetian scholar and collector of both paintings and antique coins who served as an ambassador to the Burgundian court in Flanders between 1471 and 1474. While there, he surely saw portraits by Memling of other Italian sitters, perhaps prompting him to commission one of his own. 
+				&lt;br/&gt;&lt;br/&gt;
+				Bembo was called to Florence in 1475, and since he is likely to have brought this portrait with him, it helps explain Memling’s impact on several Italian artists. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-botticelli_sandro"&gt;Sandro Botticelli’s&lt;/span&gt; &lt;i&gt;Portrait of a Young Man with a Medal of Cosimo de’ Medici&lt;/i&gt; (c. 1475; Galleria degli Uffizi) features a similar landscape backdrop and an even more prominently displayed medal, while &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bellini_giovanni"&gt;Giovanni Bellini&lt;/span&gt;’s later depiction of a young man (c. 1505; Royal Collection, Hampton Court), as Barbara Lane notes, is the only one of his portraits to place the sitter before a landscape, and may in fact portray Bembo’s son, Pietro. Similar links may even extend to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-da_vinci_leonardo"&gt;Leonardo da Vinci&lt;/span&gt;’s portrait of Ginevra de’ Benci (c. 1474-78; National Gallery of Art, Washington DC), in which the young woman is placed before a landscape with her shoulders turned at an angle to the picture surface — a configuration Memling used in this and other portraits, but one of the first known examples in Italian art. Since Leonardo painted Bembo’s palm and laurel leaf emblem on the reverse of his portrait (presumably at the scholar’s request), it further supports the idea that Bembo was one of the vehicles by which Memling’s approach to portraiture was introduced into Italy.
+			</desc>
+      <collection>Royal Museum of Fine Arts, Antwerp</collection>
+    </artwork>
+    <artwork>
+      <title>Triptych with the Adoration of the Magi</title>
+      <year>c. 1478</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				The central panel of this triptych, which was made for an unknown patron, depicts the Adoration of the Magi, while the left panel presents the Nativity, and the right panel shows the Presentation of Christ in the Temple. The composition is clearly indebted to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_weyden_rogier"&gt;Rogier van der Weyden&lt;/span&gt;’s &lt;i&gt;Saint Columba Altarpiece&lt;/i&gt; (c. 1455; Alte Pinakothek, Munich), commissioned for Saint Columba’s church in Cologne, although Memling introduced numerous variations. There is little agreement on the date of Memling’s altarpiece. Similarly, it is not clear how Memling became familiar with Rogier’s painting; Lane suggests persuasively that the younger artist may have seen the altarpiece in Cologne in his early travels and subsequently relied on the related drawings and patterns that were circulated from Rogier’s workshop. The presence of an old woman in the Presentation wing who appears to be based on the same model as Anna Willemzoon in Memling’s early &lt;i&gt;Triptych of Jan Crabbe&lt;/i&gt; adds further complexity to the question. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the central group of the Virgin, Child, and kneeling king follow Van der Weyden’s precedent very closely, Memling’s variations in the rest of the work reveal further nuances of his relationship to the older artist. Most noticeably, he replaced Rogier’s Annunciation in the left wing with a Nativity, thereby shifting the thematic focus from Mary’s role toward that of the Christ Child, as Till-Holger Borchert notes. Memling also introduced Gothic architecture in the right wing, rather than the Romanesque building style in the other two panels (a style Rogier used throughout the &lt;i&gt;Columba Altarpiece&lt;/i&gt;), which underscores the transition from the Old to the New Church initiated by Christ’s birth. Borchert also suggests that Memling took Rogier’s innovative concept of showing both the exterior and interior of the temple in which Christ is presented, in his middle and right panels, as a challenge which he matched in the Prado triptych with an equally original conception. Here, two different views of the same structure are presented in the left and center panels: the Nativity in the left wing is framed by and viewed through one of the round-arch windows seen in the background of the center panel, as if the whole building had been turned ninety degrees counterclockwise from one scene to the next. 
+				&lt;br/&gt;&lt;br/&gt;
+				Finally, as historian Jeff Bowersox notes, Memling’s portrayal of one of the Magi as a Black man drew on a practice that had only recently begun to emerge, particularly in art from the region around Cologne, where Memling is likely to have trained. The Prado triptych thus helped solidify this practice in Netherlandish and later art. 
+			</desc>
+      <collection>Museo del Prado, Madrid</collection>
+    </artwork>
+    <artwork>
+      <title>Moreel Triptych</title>
+      <year>1484</year>
+      <materials>Oil on wood panel</materials>
+      <desc>
+				This grand triptych was commissioned by prominent Bruges politician, merchant, and banker Willem Moreel, and his wife Barbara van Vlaenderberch, or van Hertsvelde, for the altar of their family chapel in Saint James Church in Bruges. It is considered the first large-scale altarpiece to feature a group portrait of numerous family members. The central panel depicts Saint Christopher bearing the Christ Child on his shoulders while crossing a river, with Saint Maurus (who holds a crosier and open book) on the left and Saint Giles (identifiable by the arrow and deer) on the right. In the left panel, Moreel kneels in prayer, accompanied by his patron saint, William of Maleval, and the couple’s five sons. In the right panel, his wife appears beside her patron saint Barbara and eleven daughters. The two flanking saints in the center panel similarly relate directly to the donors, as the name Maurus is derived from the same root at Moreel, while Giles’s deer (&lt;i&gt;hert&lt;/i&gt; in Dutch) connects with the name Hertsvelde. The continuous landscape that unifies the three panels features two large castles that may testify to the family’s wealth and status, and it further demonstrates Memling’s characteristic compositional inventiveness. 
+				&lt;br/&gt;&lt;br/&gt;
+				It is unusual in Flemish art for standing saints to feature as the primary subjects of an altarpiece, particularly centered on Saint Christopher. Just as the other four saints were included for their clear connections to the Moreel family, however, Saint Christopher — who was believed to protect against sudden death — surely also held particular significance. As Barbara Lane and other scholars have noted, Moreel was politically active in turbulent times, while his wife had already borne sixteen children (and had two more after this altar was completed), so both would have had reason to seek and be thankful for protection from Christopher. 
+			</desc>
+      <collection>Groeninge Museum, Bruges</collection>
+    </artwork>
+    <artwork>
+      <title>Christ Surrounded by Singing and Music-making Angels</title>
+      <year>1483–94</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				These three large panels are the surviving upper portions of a monumental altarpiece commissioned in 1483 by Gonzalo de Cabredo, prior of the Benedictine monastery of Santa Maria la Real in Nájera, Rioja, Spain. The lost central panel of the complete altar featured the Assumption of the Virgin, above which Christ in this work gazes down at Mary as she ascends to the kingdom of heaven. Documents published by Bart Fransen indicate that the altarpiece had not been completed by Cabredo’s death in 1486, but its completion was overseen — at great expense — by his successor, and the altarpiece finally installed in the abbey church in 1494. The span of eleven years between commission and installation probably reflects several factors, including the need for the monastery to collect sufficient funds to pay for the work and its transport from Bruges, as well as the efforts of Memling and his assistants to complete the largest polyptych of his career. 
+				&lt;br/&gt;&lt;br/&gt;
+				Christ’s crown and liturgical vestments indicate his role as both king of heaven and high priest, echoing (as Barbara Lane notes) &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_eyck_jan"&gt;Jan van Eyck&lt;/span&gt;’s depiction of Christ in the &lt;i&gt;Ghent Altarpiece&lt;/i&gt; (1432; Saint Bavo Cathedral, Ghent), while the large glass globe he holds as &lt;i&gt;Salvator Mundi&lt;/i&gt; (savior of the world) recalls the orb held by Christ in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_der_weyden_rogier"&gt;Rogier van der Weyden’s&lt;/span&gt; &lt;i&gt;Braque Triptych&lt;/i&gt; (c. 1451; Musée du Louvre). The angels are dressed in the vestments of various attendants at a Mass, and those in the side panels each play musical instruments that are depicted in careful detail. Since the scene takes place in heaven, framed by celestial clouds, Memling used the almost-archaic convention of a flat gold background, contrasting with the detailed realism of his figures and their clothing and accoutrements.
+			</desc>
+      <collection>Royal Museum of Fine Arts, Antwerp</collection>
+    </artwork>
+    <artwork>
+      <title>Diptych of Maarten van Nieuwenhove</title>
+      <year>1487</year>
+      <materials>Oil on panel</materials>
+      <desc>
+				This devotional diptych, one of only two by Memling to survive intact in its original frame, is also one of his most carefully devised spatial compositions. The figures are depicted at half-length in a luxurious domestic interior, with views of the landscape and a bridge on what may be Minnewater lake in Bruges visible through the windows. The whole room is reflected in reverse in a convex mirror behind the Virgin, which, on close inspection, shows the Virgin facing the viewer straight on with the donor in strict profile, indicating that the donor is facing at a ninety-degree angle to the Virgin. This configuration can be approximately recreated when the diptych is opened to a certain angle. There are even grid lines in the underdrawing of the donor portrait that (according to Dirk de Vos) Memling probably used to help work out the spatial relationship between the two panels. The unity of the space is further reinforced by the continuation of the Virgin’s red robe from the left to the right-hand panel. 
+				&lt;br/&gt;&lt;br/&gt;
+				The sitter is Maarten van Nieuwenhove, who came from a prominent family of Bruges. He is identified in the inscription on the frame, which also gives his age as twenty-three at the time this portrait was created; he later became a city councilor, captain of the civic guard, and burgomaster of Bruges. Memling included the Van Nieuwenhove coat of arms in the stained-glass window behind the Virgin Mary, as well as on the clasp of the book in front of the donor, further emphasizing the connection between the two figures. Van Nieuwenhove’s patron saint, Martin, appears in the stained-glass behind him, while two roundels beside the Virgin depict Saint Christopher and Saint George, presumably chosen by the sitter as protectors. 
+				&lt;br/&gt;&lt;br/&gt;
+				The pose of the Virgin and Child is closely comparable to that in the &lt;i&gt;Triptych of Benedetto Portinari&lt;/i&gt; (1487; Staatliche Museen, Berlin, and Galleria degli Uffizi, Florence) which Memling painted the same year. This similarity recalls Memling’s frequent practice of repeating popular compositions, often at the request of the patron. Since the portion of the stained-glass window with Van Nieuwenhove’s coat of arms was painted over a plainer window the artist had initially painted, it is clear that Memling first set out a general composition that he later adapted to suit his patron. The care with he did so, creating a fully conceived three-dimensional Flemish room in which the sacred figures appear in material form to the young man who kneels in prayer before them, reflects both the strength of Van Nieuwenhove’s private devotion and his wealth and social status, which is spelled out in the details of his surroundings.
+			</desc>
+      <collection>Saint John's Hospital, Memling Museum, Bruges</collection>
+    </artwork>
+    <artwork>
+      <title>Saint Ursula Shrine</title>
+      <year>1489</year>
+      <materials>Gilded and painted wood</materials>
+      <desc>
+				The &lt;i&gt;St. Ursula Shrine&lt;/i&gt; is a carved and gilded wooden reliquary with painted side panels and round roof inserts, designed to look like a more common metal reliquary. It was commissioned by the Hospital of Saint John, probably at the request of the hospital master Jan Floreins and intended as a container for the relics of Saint Ursula and other relics, which would be shown publicly just once a year on her feast day. The shrine takes the form of a miniature Gothic chapel, resembling and perhaps inspired by other Gothic buildings and churches in Bruges. Saint Ursula’s role as a protector against certain illnesses made her an appropriate subject for the church’s reliquary. 
+				&lt;br/&gt;&lt;br/&gt;
+				The six side panels depict episodes in Ursula’s life. According to the story, she was the daughter of the Christian king of Britain, and her beauty and virtue led the pagan king of Anglia to desire her as the bride for his son. In hopes of dissuading the prince, Ursula accepted on the condition that she first be allowed to make a three-year pilgrimage to Rome, accompanied by eleven thousand English virgins. Eventually, she was martyred for her faith as she and her companions traveled through Cologne. Memling condensed the story into six scenes: arrival in Cologne, arrival in Basel, arrival in Rome, leaving from Basel, the martyrdom of the pilgrims in Cologne, and the martyrdom of Saint Ursula. Each except the Roman scene takes place on the banks of the Rhine river, and Memling’s carefully accurate depiction of Cologne’s cathedral in two panels may support the idea that he trained in that city early in his career, but it is also likely that he made a special trip there in order to complete this reliquary. The narrow end panels depict Saint Ursula protecting the virgins under her cloak, and the Virgin and Child accompanied by two kneeling nuns, who may be figures involved in the commission of the work or may simply represent members of the hospital community. 
+				&lt;br/&gt;&lt;br/&gt;
+				The roundels on the roof are of lesser quality and were probably painted by Memling’s assistants, at a period when he and his workshop were completing several other major commissions, including the monumental Nájera panels (1483–94; Royal Museum of Fine Arts, Antwerp). The narrative and visual continuity of the side panels, however — linked by views of the Rhine riverbank which must have been devised on the site — and the illusionistic depiction of the standing saints on the end panels within Gothic chapels, as if they presented a view into the interior of the reliquary itself, are characteristic of Memling’s innovative conception of visual space. 
+			</desc>
+      <collection>Saint John's Hospital, Memling Museum, Bruges</collection>
+    </artwork>
+  </artworks>
+  <similar_artworks />
+  <chart>
+    <top>
+      <column>
+        <entity>van_eyck_jan</entity>
+        <entity alt="Dieric Bouts">bouts_dieric</entity>
+        <entity alt="Hugo van der Goes">van_der_goes_hugo</entity>
+      </column>
+      <column>
+        <entity>van_der_weyden_rogier</entity>
+      </column>
+      <column>
+        <entity alt="Flemish Primitives">flemish_primitives</entity>
+        <entity>northern_renaissance</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>raphael</entity>
+        <entity>botticelli_sandro</entity>
+        <entity alt="Pieter Pourbus">pourbus_pieter</entity>
+        <entity alt="Gerard David">david_gerard</entity>
+        <entity alt="Juan de Flandes">de_flandes_juan</entity>
+      </column>
+      <column>
+        <entity>van_der_weyden_rogier</entity>
+      </column>
+      <column>
+        <entity alt="Flemish Primitives">flemish_primitives</entity>
+        <entity>northern_renaissance</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Hans Memling</title>
+          <link>1844845532</link>
+          <info>By Alfred Michiels </info>
+        </entry>
+        <entry>
+          <title>Hans Memling, Master Painter in Fifteenth-Century Bruges</title>
+          <link>1905375190</link>
+          <info>By Barbara Lane</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Hans Memling</title>
+          <link>1861717717</link>
+          <info>By W. H. J. Weale and J. C, Weale </info>
+        </entry>
+        <entry>
+          <title>From Memling to Rubens: The Golden Age of Flanders</title>
+          <link>946388744X</link>
+          <info>By Katharina Van Cauteren</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hans Memling: Portraiture, Piety, and a Reunited Altarpiece</title>
+          <link>1911300083</link>
+          <info>By Till-Holger Bochert and John Marciari</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hans Memling: The Complete Works 1st Edition</title>
+          <link>0810936496</link>
+          <info>By Dirk De Vos</info>
+        </entry>
+        <entry>
+          <title>In the Footsteps of Christ: Hans Memling's Passion Narratives and the Devotional Imagination in the Early Modern Netherlands</title>
+          <link>2503534066</link>
+          <info>By Mitzi Kirkland-Ives</info>
+        </entry>
+        <entry>
+          <title>Memling’s Portraits</title>
+          <link>0500093261</link>
+          <info>By Till-Holger Borchert, et al. </info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Black Central Europe</title>
+          <link>https://blackcentraleurope.com/sources/1000-1500/ </link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>A Hans Memling Show Is More Than the Sum of Its Divine Parts</title>
+          <link>https://www.nytimes.com/2016/09/02/arts/design/review-hans-memling-morgan-library-museum.html</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						September 1, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Italy’s Love Affair With Memling</title>
+          <link>https://www.nytimes.com/2014/12/04/arts/international/italys-love-affair-with-memling.html</link>
+          <info>
+						By Roderick Conway Morris
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						December 4, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Commented Works: "Triptych of the Adoration of the Magi", by Hans Memling (English subtitles)</title>
+          <link>https://www.youtube.com/watch?v=X4pe3pYExm8</link>
+          <info>Museo Nacional del Prado</info>
+        </entry>
+        <entry>
+          <title>ARTH 4007 Hans Memling - Part 1</title>
+          <link>https://www.youtube.com/watch?v=lPVih0z6jT0</link>
+          <info>East Tennessee State University</info>
+        </entry>
+        <entry>
+          <title>ARTH 4007 Hans Memling - Part 2</title>
+          <link>https://www.youtube.com/watch?v=LGRNRTaTJ10</link>
+          <info>East Tennessee State University</info>
+        </entry>
+        <entry>
+          <title>Bruges, Belgium: Church of Our Lady and Memling Museum</title>
+          <link>https://www.youtube.com/watch?v=Dhel-XfxjDQ</link>
+          <info>Rick Steves’ Europe</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

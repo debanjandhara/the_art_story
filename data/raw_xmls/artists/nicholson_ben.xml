@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>nicholson_ben</id>
+    <name>Ben Nicholson</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1910 - 1982</years>
+    <description>Ben Nicholson, the British master, experimented with pioneering theoretical and formal ways of making a picture.</description>
+    <use_big_images>false</use_big_images>
+    <nationality>British</nationality>
+    <occupation>Abstract and still-life painter</occupation>
+    <birthDate>April 10, 1894</birthDate>
+    <birthPlace>Denham, Buckinghamshire, England</birthPlace>
+    <deathDate>February 6, 1982</deathDate>
+    <deathPlace>London, England</deathPlace>
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <pub_time>4/15/2019</pub_time>
+    <big_bio_box_img>true</big_bio_box_img>
+    <bio_highlight>Ben Nicholson’s legacy endures - even in his work as a schoolboy. So much so that family friend J.M Barrie based a poster for his famous play Peter Pan on a childhood drawing produced by the Nicholson (who was only 10 years old at the time the poster was printed).</bio_highlight>
+  </main>
+  <includes>
+    <include>surrealism</include>
+    <include>st_ives_school</include>
+    <include>abstraction</include>
+  </includes>
+  <similar_movements>
+    <movement>surrealism</movement>
+    <movement>surrealist_sculpture</movement>
+    <movement>st_ives_school</movement>
+    <movement>abstract_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>hepworth_barbara</artist>
+    <artist>wood_christopher</artist>
+    <artist>nash_paul</artist>
+    <artist>wallis_alfred</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I'm interested in locating the holy grail of the minimum means to express the most complex ideas."</q>
+    <q>"'Realism' has been abandoned in the search for reality: the 'principal objective' of abstract art is precisely this reality."</q>
+    <q>"I'm just interested in meditating on certain ideas, and I like to draw: that's my way of thinking."</q>
+    <q>"I see man more as an instrument or an agent more than anything else."</q>
+    <q>"'Painting' and 'religious experience' are the same thing. It is a question of the perpetual motion of a right idea."</q>
+    <q>"I started producing work with an ecstatic addiction."</q>
+  </quotes>
+  <authors>
+    <author link="souter">Anna Souter</author>
+  </authors>
+  <editors>
+    <editor link="baillie">Rebecca Baillie</editor>
+  </editors>
+  <article>
+    <synopsys>One single work by Ben Nicholson can, at best, encompass architectural, sculptural, and painterly qualities, all the while retaining a powerful overarching worldview fueled by innocence, romance, and simplicity. Nicholson's career was long and impressive and can be divided into many phases. Even though early works appear naïve and childlike, he always experimented with pioneering theoretical and formal ways of making a picture. He initially favored still life and landscape compositions painted in a poetic and naturalistic style. From the early 1930s onwards however, his work began to develop in a more modernist direction, and he embraced working under the influence of late &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; and abstraction. Winifred Nicholson, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wallis_alfred"&gt;Alfred Wallis&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Piet Mondrian&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hepworth_barbara"&gt;Barbara Hepworth&lt;/span&gt; all in turn had profound impact on the vision and style of Ben Nicholson. Throughout his career, there is an undiminished sense of a humble task at hand: that of honoring the beauty of landscape and life lived within it using a harmonious combination of color, line, and shape.</synopsys>
+    <key_ideas>
+      <idea>Nicholson is set apart from many of the fellow English painters of his generation because of his continuing interest in and understanding of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; painting. No other English painter exploited the technical aspects of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Braque&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso's&lt;/span&gt; work to the extent that Nicholson did. Although always interested in Cubism (recording the moment of acute influence felt in 1921 when he saw his first Picasso), it was during the early 1930s - having spent time in the studios of Picasso, Braque, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Hans Arp&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brancusi_constantin"&gt;Constantin Brâncuşi&lt;/span&gt; - that the interest became Nicholson's commitment and main focus.</idea>
+      <idea>Despite starting his career during a time of war and social struggle, unlike some artists working prior to World War I, Nicholson did not focus on politics. His main focus was art and he reintroduced the shunned genres of still life and landscape painting back into the limelight. Even the artist's early work points towards the fact that the history of English painting in the twenties is a history of the further development of the technical autonomy of a painting. Indeed, Nicholson's tastes were always closer to those of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fry_roger"&gt;Roger Fry&lt;/span&gt; and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bloomsbury_group_artists"&gt;Bloomsbury Group&lt;/span&gt; than they were to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-lewis_wyndham"&gt;Wyndham Lewis&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vorticism"&gt;Vorticism&lt;/span&gt;, calling quite simply for an "innocent" response to form and color.</idea>
+      <idea>Furthermore, unlike his friend and colleague, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nash_paul"&gt;Paul Nash&lt;/span&gt;, who always retained a relatively traditional perspective and vanishing point when painting a landscape, Nicholson was more concerned with shape and surface. Indeed, he produced a sense of depth through his original use of analogy, tone, and color. As such, his style is more aligned to the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; and to other pioneers in France, therefore successfully setting the basis for abstract art in England during the 1930s.</idea>
+      <idea>Alongside &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hepworth_barbara"&gt;Barbara Hepworth&lt;/span&gt;, Nicholson formed the nucleus of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-st_ives_school"&gt;St Ives School&lt;/span&gt;, a name that mistakenly makes a very international cohort of artists sound local. Incorporating also the work of exiles &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gabo_naum"&gt;Naum Gabo&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pevsner_antoine"&gt;Antoine Pevsner&lt;/span&gt;, and inspired by the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-miro_joan"&gt;Joan Miró&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-calder_alexander"&gt;Alexander Calder&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arp_hans"&gt;Arp&lt;/span&gt;, the group based their principles on the notion of freedom, freedom of letting art be made in any form (as a mobile or relief, not only a traditional sculpture) and also a freedom from political and social oppression.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Ben Nicholson was born on April 10, 1894, in Denham, Buckinghamshire, to a family with art at its heart. His father, Sir William Nicholson, was an eminent portraitist and still life painter, while his mother Mabel also came from a family of artists and studied at art school. He had three siblings: Anthony, Nancy (an artist) and Christopher (an architect).</p>
+          <p type="img" alt="Photograph of Ben Nicholson in school uniform as a child" show="1">/images20/photo/photo_nicholson_ben_1.jpg</p>
+          <p type="p">The Nicholson family, who moved to London in 1896, were connected to various artistic and intellectual circles, and were acquainted with figures such as Rudyard Kipling, Walter Sickert, and William Orpen. The family often traveled in Nicholson's early years, and in 1904 the young artist met the playwright J.M. Barrie while on holiday with his parents. During the same year, Nicholson's father had painted Barrie's portrait, and as all became better acquainted, Barrie decided to base a poster for his famous play Peter Pan on a drawing done by the young Ben Nicholson. From the ages of 9-16, Nicholson was educated at a boarding school in Norfolk.
+		  </p>
+        </subsection>
+        <subsection title="Early Training and Work">
+          <p type="img" alt="Mabel Pryde, &lt;i&gt;Portrait of Ben Nicholson&lt;/i&gt;, c. 1910-1914" show="1">/images20/photo/photo_nicholson_ben_2.jpg</p>
+          <p type="p">In 1910, at the age of 16, Nicholson enrolled at the Slade School of Fine Art. Although he left after only one year, he had managed to form friendships with some very influential contemporaries, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nash_paul"&gt;Paul Nash&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-spencer_stanley"&gt;Stanley Spencer&lt;/span&gt;, and Christopher Nevinson. He also came into contact with artist and critic &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fry_roger"&gt;Roger Fry&lt;/span&gt;, whose ideas would become fundamental in changing the British art landscape. Nicholson's own work, however, remained relatively conservative for a number of years and he never became directly affiliated with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bloomsbury_group_artists"&gt;The Bloomsbury Group&lt;/span&gt;.</p>
+          <p type="p">In the years leading up to World War I, Nicholson travelled to France, Italy and Portugal, studying languages. During this time, it has been noted by art historians such as Sebastiano Barassi that the young Nicholson attempted to use his art to compete with his father, with whom he sometimes had a difficult relationship. As he suffered from asthma, Nicholson was exempted from military service during the war. In 1917, he was sent to New York in order to have his tonsils removed. When he returned to Britain the following year he was sadly confronted with the deaths of both his beloved mother and eldest brother Anthony, the former died in an influenza epidemic, and the latter fighting in action.</p>
+          <p type="p">This was a deeply difficult period for Nicholson. Not only did he just lose both his mother and brother, but also swiftly after, his father married Edie Stuart-Wortley, a woman to whom Ben Nicholson himself had been engaged to the previous year. Nicholson's troubles began to manifest themselves in his art, and he momentarily turned to current artistic movements for inspiration and ways to express himself, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vorticism"&gt;Vorticism&lt;/span&gt;.</p>
+          <p type="p">During 1920, Nicholson met the young artist Winifred Roberts and soon afterwards visited Cornwall with her and her family. By November the same year, the pair were married. On their honeymoon, they visited Italy, and wrote to their friends that they were unimpressed by much of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance"&gt;Renaissance&lt;/span&gt; art they saw: "It is astonishing how few really 1st class A1 painters there have been," Nicholson wrote to a friend, "And people like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tintoretto"&gt;Tintoretto&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fra_angelico"&gt;Fra Angelico&lt;/span&gt; &amp; &lt;span class="marked_text chart-tooltip-target-top tooltip_id-michelangelo"&gt;Michelangelo&lt;/span&gt; have vastly... overrated reputations." Nevertheless, they do both seem to have been heavily influenced by the icy pastel tones of some Renaissance frescos.</p>
+          <p type="img" alt="Photograph of Ben Nicholson in a hat leaning against a wall" show="1">/images20/photo/photo_nicholson_ben_3.jpg</p>
+          <p type="p">After their honeymoon, Winifred and Nicholson bought a house in Switzerland, where the couple each had a studio. They remained living in Lugano during the winters of 1920 to 1924 in an attempt to aid Nicholson's bad health. Despite living abroad they continued to spend their summers in England, often stopping off to see contemporary shows in Paris on the way. They had good contacts with a number of Italian artists based around Milan, and particularly with those associated with the &lt;i&gt;Novecento Italiano&lt;/i&gt; group. This broad influence base helped both artists to experiment with new forms and ideas, and also to move away from the artistic traditions of both of their families. The couple had three children together.</p>
+          <p type="p">Nicholson had his first solo exhibition in London in 1922, and in 1924, he joined the Seven and Five Society. The group was initially relatively conservative, but it was ready for change and by the time Nicholson took the helm, the outlook was more radical and pointed towards abstraction.</p>
+          <p type="p">When in the UK, Winifred and Nicholson lived at "Bankshead", their house near Brampton in Cumberland. The couple met the young artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wood_christopher"&gt;Christopher (Kit) Wood&lt;/span&gt; who was also profoundly influenced by time spent at Bankshead, writing that "the Bankshead life is the painter's life". In August 1928, whilst spending time in Cornwall, the trio of artists together discovered the work of retired fisherman &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wallis_alfred"&gt;Alfred Wallis&lt;/span&gt;; they were all greatly influenced by the raw and untutored manner of his painting. By this point, Ben and Winifred Nicholson and Christopher Wood had become the typical and leading representatives of the "Seven &amp; Five style".</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">At some point during the late 1920s, Ben and Winifred moved back to London. They were surrounded by a group of artists keen to establish a new movement. In 1931, Nicholson met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hepworth_barbara"&gt;Barbara Hepworth&lt;/span&gt;. Nicholson joined her on a holiday in Norfolk, along with Hepworth's then-husband John Skeaping, as well as Henry and Irina Moore, and Ivon Hitchens. Ben and Winifred separated the same year. This trip sowed the seed for the flower that grew to be the group called Unit One. Its members included &lt;span class="marked_text chart-tooltip-target-top tooltip_id-moore_henry"&gt;Henry Moore&lt;/span&gt;, Barbara Hepworth, Paul Nash, Ben Nicholson, John Armstrong, John Bigge, Edward Burra, Frances Hodgkins, Edward Wadsworth, Wells Coates, and Colin Lucas.</p>
+          <p type="p">Beyond London, Nicholson was also at the centre of European art scenes at this time, frequently travelling to Paris, where he met figures such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mondrian_piet"&gt;Mondrian&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, both of who became important influences on his work. He also began to regularly visit St Ives, a small fishing village in Cornwall, England, which later became an epicentre of artistic activity and home to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-st_ives_school"&gt;St Ives School&lt;/span&gt;. His activities and work at the time were central to the promotion of abstract art in England.</p>
+          <p type="img" alt="Photograph of Ben Nicholson in St Ives" show="1">/images20/photo/photo_nicholson_ben_4.jpg</p>
+          <p type="p">Nicholson and Barbara Hepworth showed their work together in joint exhibitions in 1932 and 1933, demonstrating a combined and concerted movement towards abstraction. Hepworth later said of their relationship: "As painter and sculptor each was the other's best critic". In 1932, Nicholson moved in to Hepworth's north London home, where they shared a studio, and in 1934 Hepworth gave birth to triplets. The pair continued to collaborate, notably on the publication &lt;i&gt;Circle&lt;/i&gt;, which was edited by Nicholson and designed by Hepworth. This was the time when more sculptural aspects came into Nicholson's work; influenced by Hepworth he importantly started to develop his abstract relief pieces.</p>
+          <p type="p">In 1938, Ben and Winifred Nicholson were finally and officially divorced, although having been separated for a long time, and Ben married Barbara Hepworth in November of the same year. In 1939, just before the outbreak of World War II, Hepworth and Nicholson moved from London to St Ives in Cornwall where they lived in relatively harmony for some time, becoming part of the local community and continuing to make art prolifically.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">In 1951, Nicholson left Hepworth and split his time between Cornwall and London, where he began to receive greater critical recognition. It is not known why Nicholson left his wife, but the suggestion is that 20 years of juggling family life and art had taken a toll, and also that Hepworth's new desires to make large-scale sculptures with social intent deviated from the more purely artistic ideals that the couple shared. In 1952, he received the Carnegie Prize, and in 1956 he was awarded the first Guggenheim International painting prize. In the previous year, 1955 a retrospective of his work was presented by the Tate Gallery; thanks to this as well as wide international exposure in British Council tours during the 1940s and 1950s, Nicholson by this point was considered a worldwide success.</p>
+          <p type="img" alt="Photograph of Nicholson in his studio by Felicitas Vogler" show="1">/images20/photo/photo_nicholson_ben_5.jpg</p>
+          <p type="p">In 1957, Nicholson met the German photographer Felicitas Vogler, who had travelled to St Ives to make a radio programme. The pair married only a few weeks later, and in 1958 they moved to Castagnola in Switzerland, where they built a house with a beautiful view of the Swiss landscape. Nicholson encouraged Vogler to take her photography seriously and she started to take pictures professionally. In 1968, Nicholson received the British Order of Merit, recognising his contribution to British art.</p>
+          <p type="p">In 1971, Nicholson and Vogler separated and Nicholson moved to Cambridge in England, followed by Hampstead in London, near to where he had previously lived with Barbara Hepworth. Vogler and Nicholson were finally divorced in 1977, and Nicholson died in 1982 at the age of 87.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Nicholson was crucial and central to the formation of two movements in his lifetime, as well as being responsible for the transformation of another. This was a great feat for a British artist, as historically they have struggled to form groups and drive movements, often preferring to work alone and in isolation. Nicholson, by contrast, alongside colleagues utterly revolutionized the goals and direction of The Seven and Five Society. Later, in 1933 some of the members of Seven and Five created Unit One recognizing the need to push the strong and flowing current of modernism further. Although Unit One only remained active for two years they were prolific and exhibited widely during this time, often being credited for establishing the pre-eminence of London as a centre for modernist painting, sculpture, and architecture during the mid-1930s.</p>
+          <p type="p">Nicholson's influence on the future and legacy of St Ives in Cornwall, making it the second major artistic hub in the UK after London cannot be in any way underestimated. St Ives became the unquestionable center for modern and abstract developments in UK art from the 1940s to the 1960s, and this was thanks to Nicholson and a few close fellow artists. Alongside Hepworth, Nicholson shifted the direction of St Ives from a quiet seaside town to the dynamic centre for the arts that it remains today. He likely acted as the catalyst for the introduction of the Tate Gallery to this location, and furthermore established the small town as at once a haven and a hotbed for artists of many generations to follow. Nicholson's legacy is also interestingly and inextricably entwined with those of Winifred Nicholson, Barbara Hepworth, Kit Wood, and Alfred Wallis. These artists all discovered, shaped, and influenced the careers of one another, and in turn the development of British art.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="cubism">Houses at L'Estaque (1908)</artwork>
+    <artwork from="artist" page="wood_christopher">China Dogs in a St. Ives Window (1926)</artwork>
+    <artwork from="artist" page="hepworth_barbara">Mother and Child (1934)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>1924 (Goblet and Two Pears)</title>
+      <year>1924</year>
+      <materials>Oil and pencil on board</materials>
+      <desc>
+				Ben Nicholson's earliest paintings resemble his painter father's Vermeer-like portraits and sparse still-lives. In this painting, completed in the early years of his first marriage to Winifred Roberts,  newly demonstrates the influence both of his artist wife (especially her free and abundant love of color and tendency to work more loosely and freely with paint) as well as the international art influences the couple had encountered on their extensive honeymoon in Europe, including most notably, paintings by Cezanne and Rousseau. The painting demonstrates Nicholson's early experimentation with new styles that would mark out his career. 
+				&lt;br/&gt;&lt;br/&gt;
+				It is important to remember that at this time Nicholson was also painting entirely abstract works, powerful, highly colored, grid-like formations dissecting the exciting language of Cubism. Interestingly though, he destroyed most experiments in this style including &lt;i&gt;Trout&lt;/i&gt; and &lt;i&gt;First Abstract&lt;/i&gt; (both made in 1924) and this painting, &lt;i&gt;Goblet and Two Pears&lt;/i&gt; is more representative of his production at the time. 
+				&lt;br/&gt;&lt;br/&gt;
+				This was the moment that Nicholson re-invigorated the Seven and Five Group, and generally made paintings that had much in common both stylistically and in subject matter with his wife, Winifred Nicholson, and with his friend, Kit Wood. Together, they painted still lifes, landscapes, and portraits of friends. Above all, they attempted to achieve "freshness" of tone and color and to show "sincerity" in their approach to ideologically uncomplicated subjects. The Nicholsons along with Christopher Wood, together discovered the inspirational "primitive" work of retired fisherman, Alfred Wallis. The trio all expressed a preference for fresh light tones, and also showed enthusiasm for the Italian Primitives (especially Giotto). This particular still life is also interestingly comparable to the beautiful and meditative mid- to late-career still lifes by Giorgio Morandi.
+			</desc>
+      <collection>Kettle's Yard, Cambridge, UK</collection>
+    </artwork>
+    <artwork>
+      <title>1930 (Birch Craig, Summer)</title>
+      <year>1930</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This landscape was painted during the period when Ben and Winifred Nicholson were spending a lot of time in Cumberland, a rural area in the north of England. Here, they worked together with their friend Christopher (Kit) Wood, a painter who, like Nicholson, was influenced by the "primitive" style of untaught artists. The three artists worked in close collaboration between 1928-30 and there is considerable similarity in both style and subject of the artists' work at the time. Two years prior to painting this scene, together with Wood and Winifred, Nicholson had discovered the untutored master seascapes of retired fisherman, Alfred Wallis. All were profoundly impressed by the playful scale and wobbly perspective signature of Wallis. Childlike in vision, the influence of Henri Rousseau once again comes into play. Whilst Wyndham Lewis shunned this moment in creative history as the "cult of the child", Nicholson was fascinated and was indeed a personal friend of J.M. Barrie (creator of Peter Pan).
+				&lt;br/&gt;&lt;br/&gt;
+				This idea of a "primitive" worldview is very evident in &lt;i&gt;Birch Craig (Summer)&lt;/i&gt;, as well as in its partner painting &lt;i&gt;Birch Craig (Winter)&lt;/i&gt;. The scene looks like a toy farmyard, made up of small things found in a child's playroom. The work also stands out as a focal piece displaying Nicholson's keen interest in a lyrical and poetic style, as well as his enduring love of landscape. Art historian Chris Stephens argues that this work is deeply rooted in the landscape it takes as its subject; he suggests its "pictorial unity" was "achieved through a process of intense looking": "an acute feeling for the particular quality and natural cycle of Cumberland light and dark, the often rapid changes in atmosphere and weather, is displayed." Nicholson captures the changing seasons in this series of paintings and thus reveals his own philosophical interest in the ongoing passage of time.
+			</desc>
+      <collection>Pallant House Gallery, Chichester, UK</collection>
+    </artwork>
+    <artwork>
+      <title>1933 (Saint Remy - Self-Portrait with Barbara Hepworth)</title>
+      <year>1933</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Saint Remy - Self-Portrait with Barbara Hepworth&lt;/i&gt; (1933) is a transitional work for Nicholson, straggling the realms of figuration and abstraction. It is a key example from a series of works that use simple lines and a monochrome palette; they are significant because they demonstrate an important shift away from his earlier descriptive landscape paintings towards his monochrome, abstract cut-out works of the mid-1930s. These heavily-line based works clearly show the influence of Picasso (Nicholson also did some guitar pictures in this style), here particularly in the swirling pupil of the eye of the foregrounded (female) figure. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work is an intimate portrait of Nicholson with the sculptor Barbara Hepworth (whom he would later marry), presenting the two faces in profile, in union, overlapping one another. Despite the monochrome palette, Nicholson takes pains to delineate the shadow of the figure in the foreground, suggesting a specific light source. Through these tropes of form and color, the artist recalls the sculptural reliefs of classical friezes. The work sits at a junction between a classicizing tendency amongst modernist art, and a push towards abstraction. This is also suggested by the linearity of the composition, which evokes sculptural techniques of incision and carving, no doubt directly inspired by Barbara Hepworth.
+				&lt;br/&gt;&lt;br/&gt;
+				At this time, in 1933, Nicholson was a fully-fledged member of the new British movement, Unit One. This group defined their interests as a combination of the love of design and the pursuit of form, as well as a thorough exploration of the psyche. All of the artists involved in the movement - Nicholson, Edward Wadsworth, Barbara Hepworth, Paul Nash, and Henry Moore - shared interests in the figurative, biomorphic, and the transition to abstraction. Work at this time continued to depict lots of bodies, but similar to Joan Miro and Pablo Picasso's paintings of the 1920s, extreme departures from literal anatomical accuracy were often made. Moore, in particular, defined the aims of the Unit One Group as creating reconciliation between the abstract and the human.
+				&lt;br/&gt;&lt;br/&gt;
+				The art critic John Russell wrote of Nicholson's early 1930s linear works, "These paintings are the purest Nicholson: the fastidious fine-drawn line, the paint so transparent that the support seems to breathe through it, the delineation of objects which looks casual and elliptic but is really very much to the point. They give the feeling of life being lived on many levels, and of a world in which the image and the word are equal."
+			</desc>
+      <collection>National Portrait Gallery, London</collection>
+    </artwork>
+    <artwork>
+      <title>1934 (Relief)</title>
+      <year>1934</year>
+      <materials>Oil paint on mahogany</materials>
+      <desc>
+				After many years of experimentation across a wide variety of styles that incorporated post-Cubism and Surrealism, in the early 1930s Nicholson came to rest for a time on abstraction, and particularly on the medium of abstract geometric sculptural reliefs. The technique and process first came about by accident (interesting parallel to the chance work by Hans Arp) when a chip fell out of one of his prepared pieces of gesso ground and then he started to carve in relief. His first reliefs had a very inherent hand-made quality but soon after he began to paint his reliefs an overall even white. This important example shows the influence of Mondrian, and well as of his lover, the sculptor Barbara Hepworth, who was in the process of exploring sculptural responses to mass and spatiality. Nicholson had first met Mondrian the year before in Paris. There is rapid transition in his work of 1933 towards a form of abstract painting plainly influenced by developments in Paris in the later twenties. He was greatly inspired by the work of Miro, Arp, and Calder at this time. 
+				&lt;br/&gt;&lt;br/&gt;
+				Here, Nicholson eschews the colorfulness of his earlier paintings, as well as the neutral earthy tones of his first relief works, in favor of pure white. As curator and art historian Jeremy Lewison argues, the choice of the color white was significant: "White was the color adopted by modernist architects (such as Le Corbusier) to unify the structures of their steel and concrete buildings. It was also the color identified by Kandinsky as signifying potential and was to some degree a metaphor for the cleaner, brighter, fairer society that those involved with geometric abstraction and modernist design and building aspired to achieve in the 1930s. [...] Finally, in their insistence on whiteness, Nicolson's reliefs mirrored Hepworth's translucent alabaster and white marble sculptures of the same period." Talks of the aims of Unit One at this time stated that Nicholson was interested in "an idea, which is complete, with no beginning and no end and therefore giving to all things for all time". The result is a very modernist piece of art indeed, a work that is at once like a painting, a sculpture, and even a dwelling place.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>November 11 1947 (Mousehole)</title>
+      <year>1947</year>
+      <materials>Oil and pencil on canvas mounted on wood</materials>
+      <desc>
+				This painting demonstrates the literal coming-together of various different facets of Nicholson's working styles and influences. After the outbreak of World War II, demand for European-inspired abstract artworks significantly declined, making life financially difficult for Nicholson and Hepworth. They moved to Cornwall, where Nicholson began to paint Cornish landscape scenes at the advice of his dealer, echoing a wider cultural trend towards British nostalgia and the elevation of British values. As Nicholson specialist Virginia Button notes, Nicholson "was ambivalent about this return to nature in his work, describing his landscapes as ‘Cornish best-selling schemes'. But the Penwith Peninsula nonetheless had an immediate effect on the development of his work."
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;November 11 1947 (Mousehole)&lt;/i&gt; shows the combination of influences at play during this period. On the one hand, it represents an idyllic Cornish countryside scene depicting the harbor of a small fishing village, whilst on the other hand, Nicholson clearly holds on tight to his love of Cubism. The representation of the fishing boat, in particular, demonstrates the influence of Alfred Wallis. On the other hand, the scene also includes an abstracted collection of geometric shapes, pointing to an ongoing interest in continental artistic endeavor. These shapes suggest more an abstract view of still life rather than a landscape and as such echo the earlier more lyrical and painterly phase of Nicholson's career. Indeed, this collapsing of indoor and outdoor space, in which still life objects appear to be superimposed on a landscape, became a key trope of the artist's painting in the subsequent year.
+			</desc>
+      <collection>The British Council, London</collection>
+    </artwork>
+    <artwork>
+      <title>1951 (Festival of Britain mural)</title>
+      <year>1951</year>
+      <materials>Oil and pencil on three curved panels</materials>
+      <desc>
+				In 1951, the Festival of Britain was created to celebrate British art, design, and architecture, and to kick-start creative industry in the aftermath of WWII. A number of buildings were commissioned - including the Riverside Restaurant in Surrey, near London - as well as various paintings and sculptures. 
+				&lt;br/&gt;&lt;br/&gt;
+				The commissioners of the Riverside Restaurant wanted to include a concave mural to mirror the impressive curved elements in the building's architecture and Nicholson was commissioned. For the final mural, the central panel is flat, while the outer two pieces are curved to form an embracing triptych-like structure. The wholly geometric composition demonstrates Nicholson's return to abstraction, which was from thus forth to become his dominant mode of artistic expression. It also expresses the conclusion to the many experiments in abstraction that he had continued to make throughout the war on a small scale; whilst such works had been constrained by the scarcity of materials and income, this mural gave platform to showcase his ideas unbounded. The painting also very interestingly, painted almost 30 years on, uses the exact same color palette as &lt;i&gt;Goblet and Pears&lt;/i&gt; (1924).
+				&lt;br/&gt;&lt;br/&gt;
+				Tate curator Terry Riggs argues that Nicholson's design also captures some of the key architectural concerns of the day: "The use of dynamic lines also paralleled such architectural forms in the Festival as the Skylon designed by Powell &amp; Moya. Reflecting the fashion for openly displaying support structures, fretwork girders were no longer clad but were prominent on the outside of buildings, setting up rhythmic patterns. Nicholson's mural echoes these concerns."
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>August 1956 (Val d'Orcia)</title>
+      <year>1956</year>
+      <materials>Oil paint, gesso and graphite on board</materials>
+      <desc>
+				The mid-1950s provided Nicholson with an opportunity to travel again, after the restrictions of WWII. Moreover, an increase in the availability of materials and in Nicholson's income allowed him to create more ambitious works. Paintings from this period also mark the height of his influence on the St Ives School, which had emerged and then grown rapidly in Cornwall around himself and Barbara Hepworth, with the pair actively encouraging abstraction and new approaches to making art.
+				&lt;br/&gt;&lt;br/&gt;
+				In &lt;i&gt;August 1956 (Val d'Orcia)&lt;/i&gt;, Nicholson re-visits his interest in combining landscape scenes and still life objects. In this painting, the distinctions between foreground and background, between object and landscape have been elided and erased, suggesting an attempt to break down the boundaries imposed by painterly categories, and to explore and confront the definition of what makes a "picture". 
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Jeremy Lewison claims that this work, along with others produced in 1956 represented for Nicholson "the apogee of his career as a painter of still life, combining sensitivity to tone and texture with a dynamic, rhythmic line. Their ostensible subjects were the bottles, goblets, carafes and mugs that had fascinated him throughout his life, [...] but they can be interpreted as metaphors for societal structures: architectural agglomerations of the spires, steeples and church towers of England, the campaniles and churches of Italy, as well as the complexity of human relations and social intercourse."
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+    <artwork>
+      <title>Feb 1960 (ice-off blue)</title>
+      <year>1960</year>
+      <materials>Oil paint on board</materials>
+      <desc>
+				Towards the end of his career, Nicholson returned to the concept of the relief, which had characterized some of his most successful works during the 1930s. While he had previously made use of a cool, monochrome palette consistent with the aims of modernism when making more sculptural works, in the 1960s he began to experiment more with color, particularly with neutral tones and blues (reminiscent of the earth and the ocean). Furthermore, while his early pieces had involved cutting out geometric shapes, in &lt;i&gt;Feb 1960 (ice-off blue)&lt;/i&gt; he utilizes carving and scraping directly into the thick board, as well as treating other areas with heavy shading and saturated pigmentation.
+				&lt;br/&gt;&lt;br/&gt;
+				The curatorial team at Kettle's Yard, Cambridge, argue that in this painting and in another similar composition, that "by using a variation of lighter and darker tones, Nicholson tricks your eyes into thinking that the darker areas are deeper than they really are. There is also a touch of white along the incised lines, making it seem as though the rectangles are floating in front of each other, or as if something is glowing behind them."
+				&lt;br/&gt;&lt;br/&gt;
+				By using meticulous techniques of carving and painting, Nicholson echoes the vagaries of real light on a landscape. This work draws together both the cool modernism of his early abstract work with the observation of light, place, and &lt;i&gt;objecthood&lt;/i&gt; captured in his mid-career as well as later landscapes and still lifes. Ultimately, like many of his works, here too is a painterly, poetic, and abstract landscape, which paradoxically imitates nature whilst also standing as a considered departure from it.
+			</desc>
+      <collection>Collection of the Tate, United Kingdom</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>picasso_pablo</entity>
+        <entity>rousseau_henri</entity>
+        <entity>mondrian_piet</entity>
+        <entity>nash_paul</entity>
+      </column>
+      <column>
+        <entity alt="William Nicholson">nicholson_william</entity>
+        <entity>hepworth_barbara</entity>
+        <entity alt="Winifred Nicholson">nicholson_winifred</entity>
+        <entity alt="Alfred Wallis">wallis_alfred</entity>
+        <entity>wood_christopher</entity>
+      </column>
+      <column>
+        <entity>vorticism</entity>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>primitivism</entity>
+        <entity>folk_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity alt="Peter Lanyon">lanyon_peter</entity>
+        <entity alt="Patrick Heron">heron_patrick</entity>
+        <entity alt="Terry Frost">frost_terry</entity>
+        <entity alt="John Wells">wells_john</entity>
+        <entity alt="John Piper">piper_john</entity>
+      </column>
+      <column>
+        <entity>hepworth_barbara</entity>
+        <entity alt="Winifred Nicholson">nicholson_winifred</entity>
+        <entity>nash_paul</entity>
+      </column>
+      <column>
+        <entity>st_ives_school</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Ben Nicholson: Intuition and Order</title>
+          <link>187278450X</link>
+          <info>By Christopher Neve</info>
+        </entry>
+        <entry>
+          <title>Ben Nicholson</title>
+          <link>0714837504</link>
+          <info>By Norbert Lynton</info>
+        </entry>
+        <entry>
+          <title>Tate British Artists: Ben Nicholson</title>
+          <link>1849762759</link>
+          <info>By Virginia Button</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork" />
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"></subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Touchy Feely: Barbara Hepworth's Ambition</title>
+          <link>https://www.theguardian.com/artanddesign/2003/may/17/art.artsfeatures</link>
+          <info>
+						By Fiona MacCarthy
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						May 17, 2003
+					</info>
+        </entry>
+        <entry>
+          <title>Ben and Winifred Nicholson: Art and Life</title>
+          <link>https://www.telegraph.co.uk/culture/art/art-reviews/10869880/Ben-and-Winifred-Nicholson-Art-and-Life-review-an-exercise-in-tedium.html</link>
+          <info>
+						By Richard Dorment
+						&lt;br&gt;
+						The Telegraph 
+						&lt;br&gt;
+						June 02, 2014
+					</info>
+        </entry>
+        <entry>
+          <title>Ben Nicholson's Northern Period</title>
+          <link>https://www.theguardian.com/uk/the-northerner/2011/sep/06/ben-nicholson-middlesbrough-mima-st-ives-winifred-kit-wood-ivon-hitchens-jean-hugo</link>
+          <info>
+						By Alan Sykes
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 06, 2011
+					</info>
+        </entry>
+        <entry>
+          <title>Another Look at Ben Nicholson</title>
+          <link>https://www.theguardian.com/artanddesign/2008/jul/03/art</link>
+          <info>
+						By Russell Hector
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						July 03, 2008
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Barbara Hepworth and Ben Nicholson, home movie, Tate</title>
+          <link>https://www.tate.org.uk/context-comment/video/barbara-hepworth-and-ben-nicholson</link>
+          <info />
+        </entry>
+        <entry>
+          <title>The Art of Cornwall documentary</title>
+          <link>https://www.youtube.com/watch?v=Lgn8QMHHtbI</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ben Nicholson's ‘1945 (Still life with mugs)', Christie's</title>
+          <link>https://www.youtube.com/watch?v=k4zec1ZEJ-k</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Dulwich Picture Gallery 'Art and Life' Curator's Tour: The Beginnings</title>
+          <link>https://www.youtube.com/watch?v=Xrqhcc2ohag</link>
+          <info />
+        </entry>
+        <entry>
+          <title>St Ives and British Modernism: The George and Ann Dannatt Collection</title>
+          <link>https://www.youtube.com/watch?v=MHyXgT3qvkY</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

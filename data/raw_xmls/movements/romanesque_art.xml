@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>romanesque_art</id>
+    <name>Romanesque Architecture and Art</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>963 - 1120</years>
+    <title>Romanesque Art and Architecture Overview</title>
+    <bio_title>Romanesque Art and Architecture - History+</bio_title>
+    <art_title>Romanesque Art and Architecture - Top Works</art_title>
+    <description>Romanesque period refers to medieval art before the Gothic, depicting Christian scenes and symbols with Roman, Byzantine, and Northern European influences.</description>
+    <art_description>Famous illuminated manuscripts, churches, mosaics, tapestries, relief sculptures, and frescos of the Romanesque period with analysis, achievements, and overall contributions to later art.</art_description>
+    <use_big_images>true</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>963</start>
+    <end>1120</end>
+    <art_type>Art</art_type>
+    <pub_time>7/20/2018</pub_time>
+  </main>
+  <similar_artists>
+    <artist>rublev_andrei</artist>
+    <artist>miro_joan</artist>
+    <artist>sullivan_louis</artist>
+    <artist>gottlieb_adolph</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>medieval_art</movement>
+    <movement>baroque_art_and_architecture</movement>
+    <movement>gothic_art_and_architecture</movement>
+    <movement>installation_art</movement>
+    <movement>early_renaissance</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>baroque_art_and_architecture</entry>
+    <entry>gothic_art_and_architecture</entry>
+    <entry>early_renaissance</entry>
+    <entry>medieval_art</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="weil_simone" alt="Simone Weil">"Gregorian chant, Romanesque architecture, the Iliad, the invention of geometry were not...occasions for the manifestation of personality."</q>
+    <q author="Goldwin Smith">"Everyone who has a heart, however ignorant of architecture he may be, feels the transcendent beauty and poetry of the mediaeval churches."</q>
+    <q author="Helen Grant Ross">"There is no greater motor for architecture than religious fervor."</q>
+    <q author="Pope Benedict XVI">"These are works that were born from faith and express faith...when we enter a Romanesque church we are spontaneously prompted to meditate and to pray. We perceive that these splendid buildings contain, as it were, the faith of generations."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Capturing the aspirations of a new age, Romanesque art and architecture started a revolution in building, architectural decoration, and visual storytelling. Starting in the latter part of the 10&lt;sup&gt;th&lt;/sup&gt; century through the 12&lt;sup&gt;th&lt;/sup&gt;, Europe experienced relative political stability, economic growth, and more prosperity during this time and coupled with the increasing number of monastic centers as well as the rise of universities, a new environment for art and architecture that was not commissioned solely by emperors and nobles was born. With the use of rounded arches, massive walls, piers, and barrel and rib vaults, the Romanesque period saw a revival of large-scale architecture that was almost fortress-like in appearance in addition to a new interest in expressive human forms. With the Roman Church as the main patron, Romanesque metalwork, stonework, and illuminated manuscripts spread across Europe, from the Mediterranean to Scandinavia, creating an international style that was adapted to regional needs and influences.
+			&lt;br/&gt;&lt;br/&gt;
+			19&lt;sup&gt;th&lt;/sup&gt;-century art historians who coined the term Romanesque thought the weighty stone architecture and the stylized depiction of the human form did not live up to the standards of the classical ideas of humanism (manifested later and powerfully in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renaissance_humanism"&gt;Renaissance Humanism&lt;/span&gt;), but we now recognize that Romanesque art and architecture innovatively combined &lt;span class="marked_text chart-tooltip-target-top tooltip_id-classical_greek_and_roman_art"&gt;Classical&lt;/span&gt; influences, seen in the Roman ruins scattered throughout the European countryside and in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-movement-byzantine-art.htm"&gt;Byzantine&lt;/span&gt; illuminated manuscripts and mosaics, with the decorative and more abstract styles of earlier Northern tribes to create the foundation of Western Christian architecture for centuries to come. While an immediate precursor to the Gothic style, the Romanesque would see revivals in the 17&lt;sup&gt;th&lt;/sup&gt; and 19&lt;sup&gt;th&lt;/sup&gt; centuries, as architects (masons) came to appreciate the clarity and formidable nature of the Romanesque façade when applied across a range of buildings, from department stores to university buildings.
+		</synopsys>
+    <key_ideas>
+      <idea>Along with the new political and economic security, the spread of the Roman Church and the codification of rituals and liturgy encouraged the faithful to undertake pilgrimages, traveling from church to church, honoring martyrs and relics at each stop. The economic boon of such travel to cities led to rapid architectural developments, in which cities vied for grander and grander churches. Lofty stone vaulting replaced wooden roofs, main church entrances became more monumental, and decorative architectural sculpture flourished on the façades of the churches.</idea>
+      <idea>While many churches continued to use barrel vaulting, during the Romanesque period, architects developed the ribbed vault, which allowed vaults to be lighter and higher, thus allowing for more windows on the upper level of the structure. The ribbed vault would be more fully developed and utilized during the subsequent Gothic period, but important early examples in the 11&lt;sup&gt;th&lt;/sup&gt; century set the precedent.</idea>
+      <idea>During the Romanesque period, the use of visual iconography for didactic purposes became prevalent. As most people outside of the monastic orders were illiterate, complex religious scenes were used to guide and teach the faithful of Christian doctrine. Architects developed the use of the tympanum, the arched area above the doors of the church, to show scenes such as the Last Judgment to set the mood upon entering the church, and other biblical stories, saints, and prophets decorated interior and exterior doors, walls, and, capitals to shepherd the worshippers' prayers.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Vikings and Insular Art">
+          <p type="img" alt="This illuminated page from &lt;i&gt;Life Of Saint Aubin&lt;/i&gt; (c. 1100) depicts a scene from the Viking invasion of Normandy in 911, following the account of Saint Aubin who witnessed the invasion." show="1">/images20/photo/photo_romanesque_art_1.jpg</p>
+          <p type="p">The many Viking invasions of Europe and the British Isles marked the era before the Romanesque period. Beginning in 790 with raids on Irish coastal monasteries, the raids became full-scale military excursions within a century as shown by the Sack of Paris in 845 and the Sack of Constantinople in 860. For the next two hundred years, the Vikings raided and sometimes conquered surrounding areas. With the conversion of the Vikings to Christianity, the era ended around 1066 when the Normans, themselves descended from Vikings, conquered England.</p>
+          <p type="p">With the conversion to Christianity of the British Isles and Ireland, following from the mission of St. Augustine in 597, monasteries in Hibernia (present-day Ireland) and present-day Britain played a primary role in cultural continuity throughout Europe, developing the Insular, or Hiberno-Saxon, style that incorporated the curvilinear and interlocking ornamentation of Viking and Anglo-Saxon cultures with the painting and manuscript examples sent from the Roman church.</p>
+          <p type="img" alt="A carpet page from &lt;i&gt;The Book of Kells&lt;/i&gt; (c. 800) shows the intricate patterning of the Hiberno-Saxon style" show="1">/images20/photo/photo_romanesque_art_2.jpg</p>
+          <p type="p">Stone crosses and portable artifacts such as metalwork and elaborate gospel manuscripts dominated the period. Masterpieces like the British &lt;i&gt;Book of Durrow&lt;/i&gt; (c. 650) and the Irish &lt;i&gt;Book of Kells&lt;/i&gt; (c. 800), created by monks, included extensive illustrations of Biblical passages, portraits of saints, and elaborately decorative carpet pages that preceded the beginning of each gospel. Insular art influenced both Romanesque manuscript illumination and the richly colored interiors and architectural decorative elements of Romanesque churches.</p>
+        </subsection>
+        <subsection title="The Carolingian Renaissance">
+          <p type="img" alt="&lt;i&gt;Le sacramentaire de Charles le Chauve: Couronnement d'un prince&lt;/i&gt; (c.869-870) is an illumination on parchment that shows Charlemagne in the center, with Pope Gélase I on the left and Saint Gregory on the right." show="1">/images20/photo/photo_romanesque_art_3.jpg</p>
+          <p type="p">King of the Franks in 768 and King of the Lombards in 774, Charlemagne became Holy Roman Emperor in 800, effectively consolidating his rule of Europe. He strove to position his kingdom as a revival of the, now Christian, Roman Empire. Charlemagne was an active patron of the arts and launched a building campaign to emulate the artistic grandeur of Rome. Drawing from the Latin version of his name (Carolus), the era is known as the "Carolingian Renaissance." As art historian John Contreni wrote, his reign "saw the construction of 27 new cathedrals, 417 monasteries, and 100 royal residences." His palace complex in Aachen (c. 800) that included his Palatine Chapel modeled on the Byzantine St. Vitale (6&lt;sup&gt;th&lt;/sup&gt; century) became a model for subsequent architecture.</p>
+          <p type="img" alt="Corvey Abbey (873-885) possesses the oldest surviving example of a westwork." show="0">/images20/photo/photo_romanesque_art_4.jpg</p>
+          <p type="p">While Carolingian architecture drew on earlier Roman and Byzantine styles, it also transformed church façades that would have consequential effects throughout the Middle Ages. Emphasizing the western entrance to the basilica, the westwork was a monumental addition to the church, with two towers and multiple stories, that served as a royal chapel and viewing room for the emperor when he visited.</p>
+          <p type="p">Carolingian murals and illuminated manuscripts continued to look to earlier Roman models and depicted the human figure more realistically than the earlier Hiberno-Saxon illuminators. This (early) naturalism had a lasting influence on Romanesque and Gothic art.</p>
+        </subsection>
+        <subsection title="Cluny Abbey">
+          <p type="p">In the early 900s, concern began to grow about the economic and political control that nobles and the emperor exercised over monasteries. With rising taxes imposed by nobles and the installation of relatives as abbots, the Cluny Abbey sought monastic reform, based upon the Rule of St. Benedict (c. 480-550), written by the 5&lt;sup&gt;th&lt;/sup&gt;-century St. Benedict of Nursia, that emphasized peace, work, prayer, study, and the autonomy of religious communities.</p>
+          <p type="img" alt="The 12&lt;sup&gt;th&lt;/sup&gt;-century tower is the only Romanesque remnant of Cluny Abbey in France, as much of the site was destroyed during the French Revolution. Photo by Michal Osmenda." show="0">/images20/photo/photo_romanesque_art_5.jpg</p>
+          <p type="p">In 910, William of Aquitaine donated his hunting lodge and surrounding lands to found Cluny Abbey and nominated Berno as its first Abbott. William stipulated the independence of the Abbey from all secular and local authority, including his own. As a result, the Abbey was answerable only to the authority of the Pope and quickly became the leader of the Benedictine order, establishing dozens of monasteries throughout France. As part of its emphasis on prayer and study, the Abbey also created a rich liturgy, in which art played an important role.</p>
+          <p type="img" alt="Georg Dehio and Gustav von Bezold's reconstruction (1887-1901) depicts Cluny Church III (1130)." show="1">/images20/photo/photo_romanesque_art_6.jpg</p>
+          <p type="p">Between the 10&lt;sup&gt;th&lt;/sup&gt; and the early 12&lt;sup&gt;th&lt;/sup&gt; centuries, three churches were built at Cluny, each larger than the last, and influencing architectural design throughout Europe. Not much is known of Cluny I, but it was a small, barnlike structure. After a few decades, the monastery outgrew the small church, and Cluny II (c.955-981) was erected. Based on the old basilica model, Cluny II employed round arches and barrel vaults and used small upper level windows for illumination. Designed with a cruciform plan, the church emphasized the west façade with two towers, a larger crossing tower (where the transepts and nave intersected), a narthex (an enclosed entrance area), a choir between the altar and the nave of the church, and chapels at the east end. All of these elements became characteristic of Romanesque architecture. With the building of Cluny III, completed in 1130, the church became the largest in Europe, rivaling St. Peter's in Rome, and a model for similarly ambitious projects.</p>
+        </subsection>
+        <subsection title="First Romanesque or Lombard Romanesque">
+          <p type="img" alt="Sant Climent de Taüll, consecrated 1123, the largest and most noted example of the First Romanesque churches in the Vall de Boí. Photo by Núria Pueyo." show="0">/images20/photo/photo_romanesque_art_7.jpg</p>
+          <p type="p">In the 10&lt;sup&gt;th&lt;/sup&gt; century, First, or Lombard, Romanesque was an early development in Lombardy region (now northern Italy), southern France, and reaching into Catalonia. Started by the Lombard Comacine Guild, or stonemasons, the style was distinctive for its solid stone construction, elaborate arching that advanced Roman models, bands of blind arches, or arches that had no openings, and vertical strips for exterior decorative effects. Particularly dominant in Catalonia, some of the best surviving examples are found in the Vall de Boí, a designated World Heritage Site in Catalonia.</p>
+        </subsection>
+        <subsection title="Monastic Centers and Pilgrimages">
+          <p type="img" alt="This photograph of &lt;i&gt;The square of das Pratarías&lt;/i&gt; shows the only remaining Romanesque façade (1103-1117) of Santiago de Compostela as the rest of the church was subsequently redesigned. Photo by Jansoone." show="0">/images20/photo/photo_romanesque_art_8.jpg</p>
+          <p type="p">During the Romanesque era, no longer under constant threat from Viking raids, monastic centers, which had provided cultural continuity and spiritual consolation through desperate times, became political, economic, religious, and artistic powerhouses that played a role in unifying Europe and in creating relative stability. Monastic centers that housed religious relics became stops on pilgrimage routes that extended for hundreds of miles throughout Europe to the very edge of Spain at Santiago de Compostela. Christians revered Santiago de Compostela as the burial site of Saint James, a disciple of Christ who brought Christianity to Spain, and thus deeply symbolic to Catholic Europe.</p>
+          <p type="img" alt="Highly decorated &lt;i&gt;Reliquary of St. Foy&lt;/i&gt; (c. 980)" show="0">/images20/photo/photo_romanesque_art_9.jpg</p>
+          <p type="p">The faithful believed that by venerating relics, or remains of saints, in pilgrim churches they could obtain saintly intercession on their behalf for the forgiveness of their sins. Fierce competition for relics sometimes developed between churches and even resulted in the monks stealing relics from other churches, as was the case with the reliquary of St. Foy, in order to attract more pilgrims and, therefore, more money. As ever-larger crowds began to flock to sites, monastic centers expanded, providing lodging and food and farrier services to the pilgrims. As a result of this growth, various craft guilds were employed to meet the demand for Romanesque construction.</p>
+        </subsection>
+      </section>
+      <section title="Concepts, Styles, and Trends">
+        <subsection title="">
+          <p type="p">Found throughout Europe and the British Isles, the Romanesque style took on regional variations, sometimes specific to a particular valley or town. The most noted sub styles were Mosan Art, Norman Romanesque, and Italian Romanesque.</p>
+        </subsection>
+        <subsection title="Mosan Art, 1050-1232">
+          <p type="img" alt="Godefroid de Claire's &lt;i&gt;Stavelot Triptych&lt;/i&gt; (c. 1156-58) is a masterpiece of metalworking that employs enamel, gold, and jewel inlay, while also including the original gold Byzantine 'plaques' that contain the relics." show="1">/images20/photo/photo_romanesque_art_10.jpg</p>
+          <p type="p">Mosan art is named for the River Meuse valley in Belgium, where the style was centered around the town of Liege and the Benedictine monastery at Stavelot. Because of the region's location, it had many political and economic links to Aachen and was greatly influenced by the Carolingian Renaissance. The style became famous for its lavish and highly accomplished metalwork, employing gold and enameling in both the cloisonné technique, where metal is used to create raised partitions on the surface that are then filled with colored inlays, and the champlevé technique, where depressions are created in the surface and then filled. Noted metalworkers were Godefroid de Claire (de Huy), Nicholas of Verdun, and Hugo of Oignies. De Claire is credited with the creation of the &lt;i&gt;Stavelot Triptych&lt;/i&gt; (1156-1158), both a portable altar and a reliquary containing fragments of True Cross, and Nicholas of Verdun's most noted work was his reliquary &lt;i&gt;Shrine of the Magi&lt;/i&gt; (1180-1225). Mosan goldsmiths and metalworkers were employed throughout Europe by notable patrons and spread the style's influence.</p>
+        </subsection>
+        <subsection title="Norman Romanesque (11&lt;sup&gt;th&lt;/sup&gt;-12&lt;sup&gt;th&lt;/sup&gt; centuries)">
+          <p type="img" alt="A Norman arch at the center portal of St Michael's and All Angels Church (12th century) with the zigzag molding often used for decorative effect, Gloucestershire, England. Photo by Jongleur." show="0">/images20/photo/photo_romanesque_art_11.jpg</p>
+          <p type="p">Norman Romanesque is primarily an English style named for the Normans who developed it after conquering England in 1066. Normandy, its name derived from the Latin Nortmanni, meaning "men of the north," became a Viking territory in 911, and the abstract decorative motifs of Norman architecture reflected the Viking love of such elements. Thomas Rickman in his &lt;i&gt;An Attempt to Discriminate the Styles of English Architecture from the Conquest to the Reformation&lt;/i&gt; (1817) first used the term Norman Romanesque to refer to the style. Used for cathedrals and churches but also castles and keeps, Norman Romanesque was distinctive for its massive walls, its cylindrical and compound piers, and the Norman arch, employed to make grand archways. A wider and higher ceiling became possible, replacing the narrow limitations of the preceding barrel vault.</p>
+          <p type="img" alt="The nave of Durham Cathedral, with its rounded arches, alternating cylindrical and compound piers, and innovating arching. Photo by Oliver-Bonjoch." show="0">/images20/photo/photo_romanesque_art_12.jpg</p>
+          <p type="p">The style developed in Normandy, France, and England simultaneously, but in England it evolved into a distinctive sub-style that combined the austerity of the Norman style with a tendency toward decoration. A noted masterwork was Durham Cathedral (1093-1140) built under the leadership of William of St. Carilef. Though the cathedral was later redesigned in the Gothic style, some Norman elements, particularly the nave of the church, remain.</p>
+        </subsection>
+        <subsection title="Italian Romanesque">
+          <p type="img" alt="The Baptistry (1153) in Pisa, with the Cathedral (1063-1092) to the right, behind it, and the Campanile (1172) in the distant right. Photo by Massimo Catarinella." show="0">/images20/photo/photo_romanesque_art_13.jpg</p>
+          <p type="p">Italian Romanesque is characterized by a distinctive use of gallery façades, projecting porches, and campaniles, or bell towers. Regional variations occurred; for instance, the Northern Italian style had wide and severe looking stone façades, as seen in San Ambrogio in Milan (1140). However, the most important regional style was the Pisan style, sometimes called the Tuscan, or Central, style, favoring classical and refined decorative effects and using gallery facades and projected porches with horizontal bands of colored marble. Decorative elements included scenes of daily life, hunting scenes, and classical subjects, and bronze doors were frequently employed. The Piazza del Duomo, or Cathedral Square, in Pisa, which included the Baptistery (1153) the Cathedral (1063-1092) and the Campanile (1172) is the most famous example.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">The Romanesque style continued to be employed through most of the 12&lt;sup&gt;th&lt;/sup&gt; century, except in the area around Paris where the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gothic_art_and_architecture"&gt;Gothic style&lt;/span&gt; began in 1120. Subsequently as the Gothic style spread, the Romanesque style was superseded and existent churches were often expanded and redesigned with new Gothic elements, retaining only a few traces of the earlier style. In more rural regions, however, the Romanesque style continued into the 13&lt;sup&gt;th&lt;/sup&gt; century. Romanesque design was foundational to the Gothic which continued using a cruciform plan, a western façade with two towers, and carved tympanums above the portals. Similarly, Gothic art was informed by the same movement toward a more realistic treatment of the human form that can be seen in the Romanesque Mosan style. Romanesque tapestries, like the Bayeux Tapestry, influenced the formation of tapestry workshops throughout Europe in the Gothic period and beyond.</p>
+          <p type="p">Romanesque Revival styles first developed in England with Inigo Jones' redesign of the White Tower (1637-1638). In the following century Norman Revival castles were built for estates throughout the British Isles, and in the early 1800s, Thomas Pesnon developed a revival style for churches. Romanesque manuscript illumination, with its jewel-like colors and stylized motifs, also influenced and informed the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pre_raphaelites"&gt;Pre-Raphaelite Brotherhood&lt;/span&gt; and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arts_and_crafts"&gt;Arts and Crafts movement&lt;/span&gt; in the middle and later 19&lt;sup&gt;th&lt;/sup&gt; century.</p>
+          <p type="p">In Germany &lt;i&gt;Rundbogenstil&lt;/i&gt;, or round-arch style, became popular around 1830, and the style was influential in America, as seen in the Paul Robeson Theater, formerly the Fourth Universalist Church in Fort Greene, Brooklyn (1833-34) and the former Astor Library, now the Public Theatre (1849-1881), in Lower Manhattan.</p>
+          <p type="img" alt="Marshall Field Wholesale Store (1885-1887) designed by Henry Hobson Richardson, with its heavy stone façade and rows of arched windows, is indicative of the Romanesque Revival style in the U.S." show="1">/images20/photo/photo_romanesque_art_14.jpg</p>
+          <p type="p">In America the first work of Romanesque Revival architecture was Richard Upjohn's Maaronite Cathedral of Our Lady of Lebanon (1844-1846) in Brooklyn. The American architect James Renwick's design for the Smithsonian Institute (1847-1851) was a prominent example. The style became known as Richardsonian Romanesque, as Henry Hobson Richardson actively promoted the style and designed notable buildings including the Marshall Field Wholesale Store (1885-1887) in Chicago and Trinity Church (1872-1877) in Boston. Harvard University commissioned Richardson to design several campus buildings, including Sever Hall (1878-1880), considered one of his masterpieces and designated a National Historic Landmark. As a result the style was adopted by other American universities in the following decades.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="movement" page="early_renaissance">The Annunciation (1450)</artwork>
+    <artwork from="movement" page="pre_raphaelites">Light of the World (1853-54)</artwork>
+    <artwork from="artist" page="gaudi_antoni">Colònia Güell (1890 - 1918)</artwork>
+  </similar_artworks>
+  <chart>
+    <top></top>
+    <bottom></bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Church of Sainte-Foy</title>
+      <use_big_image>false</use_big_image>
+      <artist />
+      <year>c. 1050-1130</year>
+      <materials>Stone, wood</materials>
+      <desc>
+				This pilgrimage church, the center of a thriving monastery, exemplifies the Romanesque style. Two symmetrical towers frame the west façade, their stone walls supported by protruding piers that heighten the vertical effect. A rounded arch with a triangular tablature frames the portal, where a large tympanum of the Last Judgment of Christ is placed, thus greeting the pilgrim with an admonition and warning. The grandeur of the portal is heightened by the two round, blind arches on either side and by the upper level arch with its oculus above two windows. The façade conveys a feeling of strength and solidity, its power heightened by the simplicity of decorative elements. It should be noted that this apparent simplicity is the consequence of time, as originally the tympanum scene was richly painted and would have created a vivid effect drawing the eye toward the entrance. The interior of the church was similarly painted, the capitals of the interior columns carved with various Biblical symbols and scenes from Saint Foy's life, creating both an otherworldly effect and fulfilling a didactic purpose.
+				&lt;br/&gt;&lt;br/&gt;
+				Saint Foy, or Saint Faith, was a girl from Aquitaine who was martyred around 287-303, and the church held a gold and jeweled reliquary, containing her remains. The monks from the Abbey stole the reliquary from a nearby abbey to ensure their church's place on the pilgrimage route. Over time, other relics were added, including the arm of St. George the Dragon Slayer, and a gold "A" believed to have been created for Charlemagne. The construction of the church was undertaken around 1050 to accommodate the crowds, drawn by reports of various miracles. The church was designated a UNESCO World Heritage Site in 1998 for its importance on the pilgrim route and also as a noted example of early Romanesque architecture.
+			</desc>
+      <collection>Conques, France</collection>
+    </artwork>
+    <artwork>
+      <title>A scene from the Bayeux Tapestry</title>
+      <artist />
+      <year>11&lt;sup&gt;th&lt;/sup&gt; Century</year>
+      <materials>Linen, crewel</materials>
+      <desc>
+				This scene from the famous tapestry shows Odo, Bishop of Bayeux, carrying an oak club while riding on a black horse, as he rallies the Norman forces of Duke William, his half-brother, against the English at the Battle of Hastings in 1066. Careful attention is given to the tack of the horses, the details of the men's helmets and uniforms, while the overlay of plunging horses, their curving haunches and legs, creates a momentum that carries the narrative onward into the next scene. In the lower border, a horse is falling, while its rider, pierced with a long spear collapses on the right. At both corners, other fallen soldiers are partially visible, and convey the terrible effects of battle, while the charge to victory gallops on above them. As art critic Jonathan Jones noted, "The Bayeux tapestry is not just a fascinating document of a decisive battle in British history. It is one of the richest, strangest, most immediate and unexpectedly subtle depictions of war that was ever created."
+				&lt;br/&gt;&lt;br/&gt;
+				The tapestry, about 230 feet long and 21 inches tall, is a sustained narrative of the historical events that, beginning in 1064 lead up to the battle, which ended in the Norman conquest of England and the rule of William the Conqueror, as he came to be known. The upper and lower borders, each 2-¾ inches wide, shown in this sample, continue throughout the tapestry, as does the use of a Latin inscription identifying each scene. The images in the borders change, echoing the narrative, as during the battle the pairs of fantastical animals in the lower border is replaced by the images seen here of fallen soldiers and horses. Similarly when the invasion fleet sets sail, the borders disappear altogether to create the effect of the vast horizon. The borders also include occasional depictions of fables, such as "The Wolf and a Crane" in which a wolf that has a bone caught in its throat is saved by a crane that extracts it with its long beak, which may be a subversive or admonitory comment upon the contemporary events.
+				&lt;br/&gt;&lt;br/&gt;
+				Though called a tapestry, the work is actually embroidered, employing ten different colors of dyed crewel, or wool yarn and is believed to have been made by English women, whose needlework, known as &lt;i&gt;Opus Anglicanum&lt;/i&gt;, or English work, was esteemed throughout Europe by the elite. The Bayeux Tapestry was a unique work of the Romanesque period, as it depicted a secular, historical event, but also did so in the medium that allowed for an extended narrative that shaped both the British and French sense of national identity. As art historian Simon Schama wrote, "It's a fantastic example of the &lt;i&gt;making&lt;/i&gt; of history." The work, held in France, was influential later in the development of tapestry workshops in Belgium and Northern France around 1500 and the Gobelin Tapestry of the Baroque era.
+			</desc>
+      <collection>Bayeux Museum, Bayeux, France</collection>
+    </artwork>
+    <artwork>
+      <title>Duomo di Pisa</title>
+      <use_big_image>false</use_big_image>
+      <artist />
+      <year>1063-1092</year>
+      <materials>Masonry, marble</materials>
+      <desc>
+				The entrance to Pisa Cathedral, made of light-colored local stone, has three symmetrically arranged portals, the center portal being the largest, with four blind arcades echoing their effect. The round arches above the portal and the arcades create a unifying effect, as do the columns that frame each entrance. The building is an example of what has been called Pisa Romanesque, as it synthesizes elements of Lombard Romanesque, Byzantine, and Islamic architecture. Lombard bands of colored stone frame the columns and arches and extend horizontally. Above the doors, paintings depicting the Virgin Mary draw upon Byzantine art, and at the top of the seven round arches, diamond and circular shapes in geometric patterns of colored stone echo Islamic motifs. The upper levels of the building are symmetrically arranged in bands of blind arcades and innovatively employ small columns that convey an effect of refinement.
+				&lt;br/&gt;&lt;br/&gt;
+				The name of two architects, Buscheto, and Rainaldo, were inscribed in the church, though little is known of them, except for this project. Buscheto was the initial designer of the square that, along with the Cathedral, included the famous leaning Tower of Pisa, done in the same Romanesque style, visible here in the background, and the Baptistery. Following his death, Rainaldo expanded the cathedral in the 1100's, of whom his inscription read, "Rainaldo, the skilful workman and master builder, executed this wonderful, costly work, and did so with amazing skill and ingenuity."
+				&lt;br/&gt;&lt;br/&gt;
+				Dedicated to the Assumption of the Virgin Mary, the church was consecrated in 1118 by Pope Gelasius II. The church's construction was informed by the political and cultural era, as it was meant to rival St. Mark's Basilica then being reconstructed in Venice, a competing maritime city-state. The building was financed by the spoils of war, from Pisa's defeat of Muslim forces in Sicily, and it was built outside of the walls to show that the city had nothing to fear. The Pisa plaza became a symbol of the city itself, as shown by the famous Italian writer Gabriele D'Annunzio calling the square, "prato dei Miracoli," or "meadow of miracles" in 1910, so the plaza has been known since as the "Field of Miracles."
+			</desc>
+      <collection>Pisa, Italy</collection>
+    </artwork>
+    <artwork>
+      <title>The Temptation of Eve</title>
+      <artist>Giselbertus</artist>
+      <year>c. 1130</year>
+      <materials>Stone</materials>
+      <desc>
+				This relief sculpture shows an almost life-sized nude Eve, presumably reclining toward Adam (now lost) as if whispering to him seductively, while her left hand reaches back to grasp an apple from the Tree of Knowledge of Good and Evil. The composition emphasizes sinuous line and serpentine form. The tree intersects vertically with her body, covering her pubic area, and the serpent in the foliage at the right echoes both the tree and the depiction of Eve herself. The work is famously the only large-scale nude of the medieval period, an era when Christian values discouraged the study of the naked human body.
+				&lt;br/&gt;&lt;br/&gt;
+				With this depiction, Giselbertus pioneered the rendering of Adam and Eve in the nude, a treatment that became a tradition in Christian art, as their nakedness was connected to their fall into sin. Originally Eve was paired with a nude Adam reclining on her left, and both figures were placed on the lintel over the portal. Above the lintel, Giselbertus also created the tympanum that depicted the Last Judgment, with Christ enthroned presiding over the saved and the damned and with attendant angels and devils. The viewers, who were largely illiterate, would have understood the didactic visualization that connected the Temptation, by which sin entered the world, and the scene of ultimate redemption.
+				&lt;br/&gt;&lt;br/&gt;
+				Giselbertus was trained by the master of Cluny around 1115 and was influenced by the cathedral reliefs that emphasized Christ's compassion. He worked at Autun from about 1125-1135, sculpting most of church's decorative elements. Unusually for the time, Giselbertus included in the tympanum, under Christ's feet, a Latin inscription reading, "Gislebertus made this." Most scholars have taken this for the sculptor's name, though some have suggested it may refer to the patron who commissioned the work.
+				&lt;br/&gt;&lt;br/&gt;
+				His work was innovative for the feeling conveyed by his stylized human figures and influenced contemporaneous Romanesque, and later Gothic, sculptors. However, by the late 1700s, due to a rising conservatism in religious and artistic thought, his work was thought to be both too primitive and licentious. Eve disappeared in 1769 when it was used as building material for a local house, and his Last Judgment tympanum was completely filled with plaster, which by a stroke of luck saved it from destruction during the French Revolution. Both Eve and the tympanum were rediscovered and restored only in the 1830s when the Romantic movement revived an appreciation of medieval art.
+			</desc>
+      <collection>Musée Rolin, Autun, France</collection>
+    </artwork>
+    <artwork>
+      <title>Christ Pantocrator</title>
+      <artist>Master of Taüll</artist>
+      <year>c.1123</year>
+      <materials>Fresco</materials>
+      <desc>
+				This vivid fresco shows Christ the Pantocrator (ruler of the universe), framed by a mandorla, or body halo, bordered in red, gold, and blue. Sitting on a throne, he faces the viewer with an intense gaze, while holding a book that reads in Latin "I am the light of the world," as his uplifted right hand makes the traditional symbol of blessing and teaching. Alpha and Omega symbols float above his shoulders, while two angels flank him, their long curved forms echoing the lines of the mandorla and drawing the focus to his haloed head. The greater scale of his figure, reflecting a Byzantine influence, is meant to emphasize his importance. The four Evangelists, Matthew, Mark, Luke, and John, are depicted in a band of circles at his feet and turn to face him, gesturing.
+				&lt;br/&gt;&lt;br/&gt;
+				The work's innovative sense of composition, with its curving bands of blue, gold, and carmine, emphasize the semi-circular apse and focus on Christ in the center. The use of varying shades of blue to depict him, along with highlights of white and carmine dots, create a sense of movement as if he were emerging toward the faithful. Below him a number of other sacred figures are partially visible, including the Virgin Mary left of center, as she holds a chalice containing Christ's blood, a pioneering representation of the Holy Grail and indication of the cult of Mary that was developing at the time.
+				&lt;br/&gt;&lt;br/&gt;
+				Originally, the fresco covered the apse of the church of Sant Climent de Taüll in Vall de Boi in Catalonia. Consecrated in 1123, the basilica, with three naves and a Byzantine influenced seven-story bell tower, was known for its exceptional interior murals, all considered to be the work of the Master of Taüll, about whom little else is known. Over time, many of the murals were damaged but those remaining, including this one, were transferred to canvas for exhibition at the National Art Museum of Catalonia. This fresco influenced a number of 20&lt;sup&gt;th&lt;/sup&gt; century Spanish artists, including Francis Picabia and Pablo Picasso, who kept a poster of it in his studio.
+			</desc>
+      <collection>Museu Nacional d'Art de Catalunya, Barcelona, Spain</collection>
+    </artwork>
+    <artwork>
+      <title>Moses Expounding the Law</title>
+      <artist>Master Hugo</artist>
+      <year>c.1135</year>
+      <materials>Ink and tempera on vellum</materials>
+      <desc>
+				This page from an illuminated manuscript shows two scenes in which Moses, depicted with a halo and horns, explains the law to the Israelites. In the upper scene, Moses stands, left of center, explaining the Ten Commandments, as he lifts his hand in a gesture of teaching and blessing toward the small group, seated on the ground and listening attentively. In the lower scene, he addresses a group of four men as he explains the dietary laws of the Jewish faith by pointing to a sheep which can be eaten and a pig which cannot. Two doves, representing the peace obtained from following God's law, face one another at the top of a tree on the right.
+				&lt;br/&gt;&lt;br/&gt;
+				Overall, the work has a calm but vital stylistic flow, derived from the curving lines and the blue, red, green, and gold palette that is echoed in the patterned borders. Master Hugo pioneered this style, which came to be called "damp fold," as clothing was painted as if damp to create both a sense of movement and a more realistic human form.
+				&lt;br/&gt;&lt;br/&gt;
+				Master Hugo was the first named artist in England, and he worked at Bury St. Edmund's Abbey, where he made this Bible for the Abbey around 1135. The Bible contains various paintings on full and half pages and decorative initials, which as art historian Thomas Arnold wrote, "have led to a general acknowledgement of Master Hugo as the gifted innovator of the main line of English Romanesque art." He is also credited with making the bronze doors of the Abbey church's western façade and two carved crucifixes, including the famous Cloisters Cross (c. 1150-1160).
+			</desc>
+      <collection>Parker Library, Corpus Christi College, Cambridge</collection>
+    </artwork>
+    <artwork>
+      <title>The Shrine of the Magi</title>
+      <use_big_image>false</use_big_image>
+      <artist>Nicholas of Verdun</artist>
+      <year>1180-1220</year>
+      <materials>Gold, silver, filigree, precious stones, wood</materials>
+      <desc>
+				Nicholas of Verdun deliberately designed reliquary, believed to contain relics of the Magi who journeyed to the Nativity of Christ, to resemble the façade of a basilica. Christ in Majesty is depicted enthroned in the upper section, his right hand raised in blessing, his left holding the Gospel, as two apostles flank him. On the lower level, the Three Kings bearing gifts, kneel on the left, facing toward the Madonna and Child enthroned in the center. On the lower right, Christ's baptism is depicted.The figurative treatment is both realistic, as shown in the different poses of the Kings conveying movement, and refined, with its fine details and flowing draperies.
+				&lt;br/&gt;&lt;br/&gt;
+				This three level reliquary, also known as The Shrine of the Three Kings, is a masterpiece of Mosan metalworking, with its silver and gold overlay, filigree, and enamel work. The apostles are depicted on the horizontal sides of the shrine, not visible here, and overall the work contains 74 figures in vermeil, or silver relief. Viewed from the side, the shrine resembles a basilica, with small pairs of lapis lazuli columns standing at the corners and between each of apostles.
+				&lt;br/&gt;&lt;br/&gt;
+				Following the Holy Roman Emperor Frederick Barbarossa's gift of the relics to Rainald of Dassel, the Archbishop of Cologne, the archbishop commissioned the shrine from Nicholas of Verdun and his workshop around 1180. The relics were of such religious importance, and the shrine considered such a masterpiece, that in 1248 construction of a new Cologne Cathedral was undertaken to suitably house the reliquary. The shrine was placed in the crossing, marking the high point of the church. As art historian Dr. Rolf Lauer wrote, "The Shrine of the Magi is the largest, most artistically significant, and, in terms of its content, most ambitious reliquary of the Middle Ages."
+			</desc>
+      <collection>Cologne Cathedral, Cologne Germany</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class=""></subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="videos">
+      <subcategory name="" class="clips">
+        <entry>
+          <title>Romanesque Pilgrimage Churches: St. Foy, Conques, and Saint-Pierre, Moissac</title>
+          <link is_inline_video="true" inline_video_type="youtube">VPeqWnO141U</link>
+          <info>East Tennessee State University</info>
+        </entry>
+        <entry recommended="true">
+          <title>Illuminated Manuscripts</title>
+          <link is_inline_video="true" inline_video_type="youtube">LGLD_Bv43vw</link>
+          <info>BBC</info>
+        </entry>
+        <entry recommended="true">
+          <title>BBC Medieval Lives: Episode 2 - The Monk</title>
+          <link is_inline_video="true" inline_video_type="youtube">DLVWiFwWMR8</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Making Manuscripts</title>
+          <link is_inline_video="true" inline_video_type="youtube">nuNfdHNTv9o</link>
+          <info>Getty Museum</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Specific Works" class="clips">
+        <entry>
+          <title>The Bayeux Tapestry - all of it, from start to finish</title>
+          <link is_inline_video="true" inline_video_type="youtube">KnieUa2-22o</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>The Animated Bayeux Tapestry</title>
+          <link is_inline_video="true" inline_video_type="youtube">LtGoBZ4D4_E</link>
+          <info>Potion Pictures</info>
+        </entry>
+        <entry>
+          <title>Pisa Cathedral</title>
+          <link is_inline_video="true" inline_video_type="youtube">JDeV6MLjClI</link>
+          <info>WorldSiteGuides</info>
+        </entry>
+        <entry>
+          <title>The Church Program: Cluny Abbey</title>
+          <link is_inline_video="true" inline_video_type="youtube">Zadob-3QJ-4</link>
+          <info>DWEnglish</info>
+        </entry>
+      </subcategory>
+      <subcategory name="Lectures/Talks" class="clips">
+        <entry>
+          <title>Illuminated Manuscripts</title>
+          <link is_inline_video="true" inline_video_type="youtube">VBxo51GiGiU</link>
+          <info>Lecture Dr. Sally Dormer</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry recommended="true">
+          <title>Romanesque: Architecture, Sculpture, Painting</title>
+          <link>3833136006</link>
+          <info>By Rolf Toman</info>
+        </entry>
+        <entry recommended="true">
+          <title>Romanesque Art: Perspectives</title>
+          <link>0810927446</link>
+          <info>By Andreas Petzold</info>
+        </entry>
+        <entry>
+          <title>The Stavelot Triptych , Mosan Art, and the Legend of the True Cross</title>
+          <link>0195202252</link>
+          <info>By Pierpont Morgan Library and Charles Ryskamp</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Bayeux Tapestry</title>
+          <link>1843831635</link>
+          <info>By Lucien Musset and Richard Rex</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Bayeux Museum</title>
+          <link>http://www.bayeuxmuseum.com/en/la_tapisserie_de_bayeux_en.html</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Immersive experience in a World Heritage Site</title>
+          <link>https://mw2015.museumsandtheweb.com/paper/taull1123-immersive-experience-in-a-world-heritage-site-or-augmented-reality-without-devices/</link>
+          <info>
+					#Taull1123 is an immersive on-site experience that brings visitors of the Romanesque church of Sant Climent de Taüll
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Winchester BibleExhibition Blog</title>
+          <link>https://www.metmuseum.org/exhibitions/listings/2014/winchester-bible/blog</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Super Art Gems of New York City</title>
+          <link>http://www.artnet.com/Magazine/features/hoving/hoving10-5-01.asp</link>
+          <info>
+						By Thomas Hoving
+						&lt;br&gt;
+						ArtNet.com
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ireland's Exquisite Insular Art</title>
+          <link>http://etc.ancient.eu/interviews/irelands-exquisite-insular-art/</link>
+          <info>
+						By James Wiener
+						&lt;br&gt;
+						Ancient History et cetera
+						&lt;br&gt;
+						October 30, 2014
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Bayeux tapestry: a brag, a lament, an embodiment of history's complexity</title>
+          <link>https://www.theguardian.com/world/2018/jan/19/bayeux-tapestry-a-brag-a-lament-an-embodiment-of-historys-complexity</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						January 19, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>The Bayeux tapestry: is it any good?</title>
+          <link>https://www.theguardian.com/artanddesign/2018/jan/17/the-bayeux-tapestry-historic-yes-but-is-it-any-good</link>
+          <info>
+						By Jonathan Jones
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						January 17, 2018
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>

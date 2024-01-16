@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>street_photography</id>
+    <name>Street Photography</name>
+    <type>movement</type>
+    <active_section>movements</active_section>
+    <years>1890 - present</years>
+    <description>Street Photography became recognized as a genre in its own right focusing on capturing something of the mystery and aura of everyday city living.</description>
+    <art_description>Famous photographers and photos of Street Photography with overview, analysis, and overall contributions to the arts. Cartier-Bresson, Frank, Winogrand+</art_description>
+    <use_big_images>false</use_big_images>
+    <profession />
+    <highlight>1</highlight>
+    <image_desc>true</image_desc>
+    <start>1890</start>
+    <bio_highlight>Henri Cartier-Bresson once described his behavior as that of a “thief” pilfering people’s belongings; taking their private moments and their culture. He thought of himself as a pickpocket, stealing through the Parisian streets, helping himself to what he wanted. He even went as far as painting his camera black to hide it from his unsuspecting subjects. His spoils were groundbreaking however, and Cartier-Bresson and his contemporaries' work documented in a new and intriguing way the ordinary lives of the people on the street.</bio_highlight>
+    <art_type>Photos</art_type>
+    <pub_time>1/15/2019</pub_time>
+  </main>
+  <similar_artists>
+    <artist>cartier_bresson_henri</artist>
+    <artist>brassai</artist>
+    <artist>levitt_helen</artist>
+    <artist>model_lisette</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>straight_photography</movement>
+    <movement>modern_photography</movement>
+    <movement>street_art</movement>
+    <movement>american_art</movement>
+  </similar_movements>
+  <do_not_miss>
+    <entry>straight_photography</entry>
+    <entry>modern_photography</entry>
+  </do_not_miss>
+  <quotes>
+    <q main="true" author="frank_robert" alt="Robert Frank">"I think private moments make the interesting picture."</q>
+    <q author="Robert Frank">"There is one thing the photograph must contain, the humanity of the moment."</q>
+    <q author="Henri Cartier-Bresson">"For me, the camera is a sketch book, an instrument of intuition and spontaneity."</q>
+    <q author="Robert Doisneau">"The marvels of daily life are so exciting; no movie director can arrange the unexpected that you find in the street."</q>
+    <q author="Robert Frank">"Most of my photographs are of people; they are seen simply, as through the eyes of the man in the street."</q>
+    <q author="Brassaï">"Basically, my work has been one long reportage on human life."</q>
+    <q author="Garry Winogrand">"When I'm photographing, I see life. That's what I deal with. I don't have pictures in my head... I don't worry about how the picture is going to look. I let that take care of itself... It's not about making a nice picture. That anyone can do."</q>
+  </quotes>
+  <authors>
+    <author link="seiferle">Rebecca Seiferle</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Associated initially with Paris, and figures such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cartier_bresson_henri"&gt;Henri Cartier-Bresson&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-brassai"&gt;Brassaï&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kertesz_andre"&gt;André Kertész&lt;/span&gt;, Street Photography became recognized as a genre in its own right during the early 1930s. While there are precedents, and areas of overlap with documentary and architectural photography, Street Photography is unique in the way it is associated with the photographer's skill in capturing something of the mystery and aura of everyday city living. As such, the human figure becomes the Street photograph's most vivid and defining feature. Street Photographers will sometimes engage directly with their subjects (&lt;span class="marked_text chart-tooltip-target-top tooltip_id-brassai"&gt;Brassaï&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arbus_diane"&gt;Diane Arbus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-winogrand_garry"&gt;Garry Winogrand&lt;/span&gt;) but it became more common for the photographer to roam the streets with a concealed 35mm camera. The Street Photographer is then often likened to the historical figure of the &lt;i&gt;flâneur&lt;/i&gt;: namely someone who mingles anonymously amongst the crowd observing and recording the ways the unsuspecting city dweller interacts with his or her environment.
+			&lt;br/&gt;&lt;br/&gt;
+			While the early French pioneers formed close associations with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealists&lt;/span&gt;, the improvisational quality that embraces the uneven and spontaneous Snapshot Aesthetic carried across the Atlantic where it lent itself perfectly to the post-war urban experience. Possibly the most important Street Photographer of all, the Swiss-American &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frank_robert"&gt;Robert Frank&lt;/span&gt;, raised the status of the Snapshot to art and his influence was to enthuse the next generation of American photographers. The mid-1960s and early-1970s became the "golden-age" of Street Photography when the likes of the Arbus, Winogrand and Lee Friedlander allowed their own sassy personalities to impinge on the images of their subjects. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-meyerowitz_joel"&gt;Joel Meyerowitz&lt;/span&gt; completed this new dynamic by raising the status of color, hitherto thought of as somewhat artless and vulgar, to a new level of credibility.
+		</synopsys>
+    <key_ideas>
+      <idea>Street Photography tends to be spontaneous and seeks to capture a moment - or a split second - that would have, without the photographer's intervention, gone unnoticed. It is closely associated with a Snapshot Aesthetic which describes a technique in which a loose and informal composition brings an intense energy and a new truth to the image.</idea>
+      <idea>Street Photography emerged as a genre in its own right as a direct result of advances in camera technology. It is associated (if not exclusively so) with the hand-held 35mm camera and especially the emergence of the very compact Leica and its superior lens quality.</idea>
+      <idea>Street Photography can certainly qualify as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-documentary_photography"&gt;Documentary Photography&lt;/span&gt;, yet documentary asks for a different type of intention from that of the Street Photographer. The documentary photographer tends to be less spontaneous, more prosaic, in their approach with the documentarian invariably using his or her lens to expose social injustices or involved stories.</idea>
+      <idea>Though there remains a strong lineage to documentary, street photography tends to position itself as art. Street Photographers want their audience to think more profoundly about the meanings behind the images they produce.</idea>
+      <idea>The latter-day Street Photographer is typically possessed of a particular &lt;i&gt;attitude&lt;/i&gt;; someone who sees their art as a &lt;i&gt;calling&lt;/i&gt; or vocation. Street Photography is as much about a "state of mind" and a Street Photographer is someone who tends to treat their camera as a constant companion.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="">
+          <p type="img" alt="Louis Daguerre, &lt;i&gt;Boulevard du Temple&lt;/i&gt; (1838). Devoid of any sense of movement, Daguerre's “still” streetscape highlights one of the key limitations of early photography." show="1">/images20/photo/photo_street_photography_1.jpg</p>
+          <p type="p">In the very beginnings of photography, the world had to "stand still" in front of the bulky copper-plate camera. Advances in its technology meant that exposure times quickly decreased, but the first Daguerreotypes placed restrictions on the choice of subject available to the photographer, especially outside of the studio. The Daguerreotype's limitations were revealed in 1838 by the inventor himself - &lt;span class="marked_text chart-tooltip-target-top tooltip_id-daguerre_louis"&gt;Louis Daguerre&lt;/span&gt; in what is thought to be the very first street photograph. For his iconic image &lt;i&gt;Boulevard du Temple&lt;/i&gt; (1838), Daguerre pointed his camera out of his studio window to capture a view of the Parisian boulevard below. The long exposure time meant that the busy Paris thoroughfare appears empty, except for two men - a shoe-shiner and his client - who remained still for long enough that their images (towards the bottom left of the frame) left their impression on the photographic plate.</p>
+          <p type="img" alt="Paul Martin, &lt;i&gt;The Magazine Seller, Ludgate Circus, London&lt;/i&gt; (1893-96). Martin said of his &lt;i&gt;London by Gaslight&lt;/i&gt; project: “it is impossible to describe the thrill which taking the first snaps without being noticed gave one.”" show="1">/images20/photo/photo_street_photography_2.jpg</p>
+          <p type="p">Two years after this picture was taken, William Henry Fox-Talbot had developed the Calotype, and though it lacked the detail of the copper plate Daguerreotype, it offered capacity for producing a flexible negative from which multiple copies could be made. The Calotype was adopted by the likes of Charles Nègre who took his camera out of the studio onto the streets of Paris. Known for his early experiments with different lenses, Nègre managed to capture something of the movement of the city. Amongst his most successful images were &lt;i&gt;Market Scene at the Port de L'Hotel de Ville, Paris&lt;/i&gt; and &lt;i&gt;Chimney Sweeps Walking&lt;/i&gt;, both taken in 1851. Other important examples of early street projects followed, such as John Thomson's &lt;i&gt;Street Life in London&lt;/i&gt; in 1877 and Paul Martin's &lt;i&gt;London by Gaslight&lt;/i&gt; series (c. 1896).</p>
+        </subsection>
+        <subsection title="The City">
+          <p type="img" alt="&lt;i&gt;Flatiron Building&lt;/i&gt; (1904) Here, in one of three different colorized versions of the same print, Steichen's aim was to capture something of the nuances of light in the early hours of the New York evening." show="1">/images20/photo/photo_street_photography_3.jpg</p>
+          <p type="p">By the turn of the century, the city was seen as an obvious site for new picture possibilities. As photography historian Graham Clarke observed, "photography established itself in a period when the growth of the city and industry had already provoked a formidable literature and art in response to the increasing influence of urban areas, especially such cities as London, Paris and New York." In New York, the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-stieglitz_alfred"&gt;Alfred Stieglitz&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-steichen_edward"&gt;Edward Steichen&lt;/span&gt; were turning towards city architecture in the name of a Pictorialist photographic art. Steichen, a founder member of the &lt;i&gt;Photo-Secession&lt;/i&gt; group, was for instance interested in the interrelationship between photography and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-tonalism"&gt;Tonalist&lt;/span&gt; painting. Steichen, who produced several images of the Flatiron Building (the tallest building in the world on its completion in 1902), was interested in adapting and manipulating his photographs and he colorized his images of the Flatiron using layers of pigment in a light-sensitive solution.</p>
+          <p type="img" alt="Eugène Atget, &lt;i&gt;Porte, 97 Rue du Bac, Hôtel de Ségur&lt;/i&gt;, 1903 Atget's street photographs offer us an unmatched and precious record of Paris as it was over a century ago." show="1">/images20/photo/photo_street_photography_4.jpg</p>
+          <p type="p">In Paris, meanwhile, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-atget_eugene"&gt;Eugène Atget&lt;/span&gt; was taking to the deserted city streets and alleyways with the aim of preserving something of the forgotten and unremarkable aspects of the French capital that were being lost to sweeping re-modernization projects. Atget used a large format camera, often with wide views, to capture something of the true ambiance of the city. Though he considered himself a documentarian, Atget's sparse photographs were admired by many important artists working in Paris during the first decades of the twentieth century including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Matisse&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ray_man"&gt;Man Ray&lt;/span&gt;, and Man Ray's close colleague, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abbott_berenice"&gt;Berenice Abbott&lt;/span&gt;.</p>
+          <p type="img" alt="Berenice Abbott&lt;i&gt;, Manhattan Skyline: I. South Street and Jones Lane from East River Pier 11, Manhattan&lt;/i&gt; (c. 1935) In 1935 Abbott received funding from the Federal Arts Project (FAD) for a “Changing New York” photo project to document the changing face of the city." show="1">/images20/photo/photo_street_photography_5.jpg</p>
+          <p type="p">Abbott was in fact instrumental in bringing the work of Atget posthumously (he died in 1927) to the  attention of the American public through her connections with New York's Julien Levy Gallery which acquired most of the Frenchman's negatives and prints on his death. When she arrived in New York (from Paris) Abbott (herself a native American) was taken aback by the transformation in New York's manmade landscape. Abandoning her allegiance to the American and French &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-gardes&lt;/span&gt; - which seemed to her like folly given the onset of the Great Depression - Abbott, with the financial support of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-federal_art_project_of_the_works_progress_administration"&gt;Works Progress Administration Federal Art Project&lt;/span&gt; (between 1935 to 1939), followed the spirit of Atget in documenting the changing face of the city.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Towards a Snapshot Aesthetic">
+          <p type="p">Photography's first revolution occurred as early as 1888 when George Eastman produced the Kodak camera. The Kodak was a small fixed focus camera that was relatively cheap and easy to use (it was sold on the slogan "you press the button and we do the rest"). By the turn of the century the emergence of the hugely popular pocket size Brownie prompted the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-vorticism"&gt;Vorticist&lt;/span&gt; Alvin Langdon Coburn, to comment that the camera had become as "common as a box of matches." Indeed, historian Graham Clarke suggested that by empowering anyone to "construct an individual view of their world" the Brownie had effectively given rise to the "ultimate democratic art form." The issue for Street Photographers and photojournalists was still one of professional quality however. This discrepancy was soon to be remedied by the German Leica company. Leica developed its first 35mm camera in 1914 and, following modifications to several prototypes, Leica manufactured a practical 35mm film camera from 1924. The Leica was a small camera producing small negatives that lent themselves well to enlargement. Thus, in order to achieve its ends, the Leica offered fast shutter speeds with high quality lenses that would yield high definition negatives.</p>
+          <p type="p">While the Leica was the camera of choice for many Street Photographers, some, such as Vivian Meyer, turned to a 120mm format twin lens Rollieflex camera. The Rollieflex was held at waist or chest height and allowed for greater depth of field and picture detail. However, the Rolliflex demanded a slower exposure time and the camera was more noticeable to the passer-by meaning the photographer had to forego some of their anonymity. More recently still, photographers such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-meyerowitz_joel"&gt;Joel Meyerowitz&lt;/span&gt; even experimented with the larger format 8x10 Hasselblad camera.</p>
+        </subsection>
+        <subsection title="The “Decisive Moment” and the “Vernacular”">
+          <p type="img" alt="Leica I, the camera Henri Cartier-Bresson first used to capture scenes of Paris" show="1">/images20/photo/photo_street_photography_6.jpg</p>
+          <p type="p">During the 1930s the famous French photographer, Henri Cartier-Bresson set the precedent for what became known specifically as Street Photography (though, like most Street Photographers, that term does not do justice to his whole career). Inspired initially by Martin Munkácsi's image &lt;i&gt;Three Boys at Lake Tanganyika&lt;/i&gt; (c.1930) - "I suddenly understood that photography can fix eternity in a moment" he said on seeing the Hungarian's photograph - Cartier-Bretton bought a Leica I fitted with a 50mm lens. He painted his camera black, making it less visible to onlookers, and took to the streets of Paris with the aim of "fixing for eternity" something of the movement of the city. Through what became better known as his "decisive moment" technique, Cartier-Bresson's street photography distinguished itself from the more prosaic documentary approach.</p>
+          <p type="p">A contemporary of Cartier-Bresson was the Hungarian born French photographer Brassaï who was widely acclaimed for his photographs of Parisian night life and especially his famous book &lt;i&gt;Paris by Night&lt;/i&gt; (1932). As much as Cartier-Bresson is associated with "the decisive moment" so Brassaï is associated with the idea of slang, or "vernacular," photography. Brassaï developed innovative solutions to help compensate for the lack of daylight, using the street and interior locations as "sets" from which he could draw on indirect, or man-made, lighting sources. Both men formed close bonds with the Surrealists and so their Street Photography - which at core embraced the principle of the Surrealist's spontaneous "automatic" technique - is often attributed with blurring any obvious distinction between what might be called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-documentary_photography"&gt;Documentary Photography&lt;/span&gt; and fine art. But ultimately, it was the photographers' curiosity for the lived phenomena of twentieth-century urbanization, and of Paris in particular, that determined the subjects onto whom, and on which, these two great pioneers turned their lenses.</p>
+        </subsection>
+        <subsection title="Towards &lt;i&gt;The Americans&lt;/i&gt;">
+          <p type="p">There was no such room for artistic ambiguity when viewing &lt;span class="marked_text chart-tooltip-target-top tooltip_id-evans_walker"&gt;Walker Evans's&lt;/span&gt; raw photography. Evans is still perhaps best known for his social documentary photographs of the Great Depression and his 1938 collection &lt;i&gt;American Photographs&lt;/i&gt; was in fact the first photographic exhibition held by the Museum of Modern Art in New York. That exhibition also featured Street Photography from his travels to Cuba and the Southern states, though his most iconic street photographs were taken between 1939-41 - and in fact &lt;i&gt;beneath&lt;/i&gt; the streets - on the New York subway system. Using a concealed 35mm Contax camera, which Evans activated with a rigged shutter cable release, he was able to record the culture and manners of commuters.</p>
+          <p type="p">An important contemporary of Evans, the Brooklyn born &lt;span class="marked_text chart-tooltip-target-top tooltip_id-levitt_helen"&gt;Helen Levitt&lt;/span&gt; took her inspiration from both Cartier-Bresson and Evans. Levitt used her camera to capture the street lives of women and children, and people from New York's minority communities through a style that blurred the line between documentary and theatricality. Levitt's work is revered for the way it matched creative and technical skill with a tender humanism. But there can be little doubt that Street Photography was elevated to new artistic standards in the late 1950s with the publication of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frank_robert"&gt;Robert Frank's&lt;/span&gt; book &lt;i&gt;The Americans&lt;/i&gt;, undoubtedly one of the most influential photographic projects of the 20&lt;sup&gt;th&lt;/sup&gt; century.</p>
+          <p type="p">Driven by the wanderlust of a Beatnik, Frank took his Leica onto the streets and highways of 1950s America. Describing himself as being "like a detective or a spy" Frank used his camera to capture an unvarnished and unguarded cross-section of American society, and in so doing, he brought a new sense of liberation to photographic art. Frank shunned the principle of balanced compositions in favor of crooked, grainy high contrasts in black and white and his spontaneous approach to his subjects was to prove decisive in expanding the creative possibilities for Street Photography. &lt;i&gt;The Americans&lt;/i&gt;, which boasted an introduction from the famous Beat writer Jack Kerouac, was so influential because Frank achieved a further - or &lt;i&gt;higher&lt;/i&gt; - meditative dimension to his work. He realized this feat by coupling images of American citizens with the street signs and symbols of consumer culture that defined their lived environment. The spectator is therefore encouraged to look at &lt;i&gt;The Americans&lt;/i&gt; as a whole; to make sense of the collected images through poetic and conceptual relations between his subjects and how they interact with their immediate surroundings.</p>
+        </subsection>
+        <subsection title="The New “Golden Age”">
+          <p type="img" alt="Exhibition catalogue for the &lt;i&gt;New Documents&lt;/i&gt; exhibit in MoMA, 1967" show="1">/images20/photo/photo_street_photography_7.jpg</p>
+          <p type="p">In 1967 the &lt;i&gt;New Documents&lt;/i&gt; exhibition announced the arrival of Frank's successors. Introducing the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-friedlander_lee"&gt;Lee Friedlander&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-winogrand_garry"&gt;Garry Winogrand&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arbus_diane"&gt;Diane Arbus&lt;/span&gt;, the exhibition's curator, John Szarkowski, spoke of a new approach to Street Photography; one that "emphasized the pathos and conflicts of modern life presented without editorializing or sentimentalizing but with a critical, observant eye." The three colleagues represented then a shift that saw the point of view of the photographer add to the meaning of the image. Arbus identified with, and duly sought out, particular subjects, namely those who occupied the margins of society (outsiders whom she affectionately referred to as "freaks"), Winogrand's attitude was often (though not always) one of an aggressive intruder whose aim was to elicit a response from his subjects when confronted with his camera. Friedlander, meanwhile, demonstrated a particular liking for reflections and shadows, usually his own, in windows, glass doors and mirrors while his attraction to signs, billboards and other hoardings saw critical readings of his work align with the postmodern idea of a hyperreal (the idea that all truth is masked by so many signs) America. And though he came to the fore a little later on, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-meyerowitz_joel"&gt;Joel Meyerowitz&lt;/span&gt;, who was most admired for changing negative attitudes towards color photography, spoke of his Street Photography in erotic terms, suggesting that his own take on New York street life during the mid 1960s and early 1970s was about "The heat of the gazes between people, the charged mystery that arises from capturing chance moments on the fly."</p>
+        </subsection>
+        <subsection title="The Ethics of Street Photography">
+          <p type="p">Some countries like the United States and the United Kingdom, where privacy rights do not extend to public places (though what qualifies as a public and private space is often contested), the rights of the photographer are favored. In other, European Union, countries, where the right to freedom of expression is challenged by the individual's right to ownership of his or her image, the situation is even more complex.</p>
+          <p type="p">This point can be illustrated through Robert Doisneau's 1950 photograph &lt;i&gt;The Kiss&lt;/i&gt;. Depicting a young couple stopping to kiss on a busy Parisian street, &lt;i&gt;The Kiss&lt;/i&gt; has become an internationally recognized symbol of romantic love. Yet the photograph (unlike most of Doisneau's pictures) was not entirely impromptu. Having seen the couple (Françoise Delbart, and Jacques Carteaud) kissing, and, not wanting to photograph them without their permission, Doisneau asked if they would repeat the kiss for the camera. In fact, the story of the image's creation only came to light because another couple, believing wrongly that it was they who were depicted, sued the photographer for taking the photograph without their knowledge. They were able to bring the law suit because French law states that the individual owns the rights to his or her own likeness. Even putting the legal implications to one side, the Street Photographer carries with them the perennial moral dilemma of exploiting the lives of strangers for their own artistic ends.</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="">
+          <p type="p">In the 1970s Street Photography fell out of favor in terms of media attention and gallery support. Though noted Street Photographers, like Martin Parr, Tom Wood, Alex Webb and Boris Savelev emerged in the 1980s and 1990s, others struggled to make a name for themselves. However, by the turn of the century the development of new digital technology and social media exhibition platforms created new possibilities for Street Photographers including the likes of Paul Graham, Laurisa Galvan, Carolyn Drake, Mark Alor Powell, and Matt Stuart. Platforms like Instagram and Flickr, and the website &lt;i&gt;In-Public&lt;/i&gt; have made it possible for Street Photographers to form online collectives and to exhibit their work across international borders. Flickr, for instance, has over 400 groups with half a million members dedicated to Street Photography.</p>
+          <p type="p">However, some observers, such as the Canadian photographer and writer Michael Ernest Sweet, have started to query contemporary Street Photography's validity as art. He speaks for instance of the rise of "machinegun photography," a technique whereby the digital camera (or phone) is used in "burst mode," or, the related technique through which a photographer (such as Mark Cohen) adopts a "no finder" (no viewfinder and no framing) style of shooting. Such approaches leave everything to chance and do not, in Sweet's view, bear serious comparison with the likes of Cartier-Bresson, Evans, Frank, Meyerowitz, or Arbus. It was not only the technique that troubled Sweet. There was a question of editing too. As he said: "Someone once claimed that a great photographer makes about a hundred good images in a lifetime, maybe a dozen truly great photographs." Sweet suggested that this "seems congruent with the history of photography, but plainly incongruent with the current Street Photography community where it is common for a photographer to upload a dozen or even two dozen images a day! This is simply not sustainable, not as art anyway."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks />
+  <chart>
+    <top />
+    <bottom />
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Place de l'Europe</title>
+      <artist>Henri Cartier-Bresson</artist>
+      <year>1932</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This iconic image depicts a man skipping (with a true sense of Parisian &lt;i&gt;élan&lt;/i&gt;) over a flooded area in the Place de ;'Europe, just outside the Saint Lazare train station. The photograph illustrates Cartier-Bresson's "decisive moment" technique - described by him as that "one moment at which the elements in motion are in balance" - in the way his camera freezes the exact moment the prancing man touches heels with his reflected image. Cartier-Bresson was inspired by the Surrealists and we see that influence too in the surrealistic preoccupation with the idea of the uncanny doppelgänger (revealed in the man's reflection). The surrealistic mystery of the man's flight is only strengthened by the "floating" ladder from which he appears to have sprung while the shadowy onlooker in the middle-distance merely completes the image's element of incongruity.
+				&lt;br/&gt;&lt;br/&gt;
+				Beneath the chimney in the upper left of the frame, meanwhile, a circus poster shows a female dancer in a pose that copies that of the main subject. The superior lens quality of the Leica camera would lend the image a potential for fine picture detail such as this to emerge. It is also of some significance (for the idea of photography as an art form in its own right) that Cartier-Bresson's figurative juxtaposition is set against a hazy background of Saint Lazare. These buildings had been painted previously by the likes of Monet and Manet which suggests that the photographer wanted to invite associations, not just with the Surrealists, but with the great masters of French modernism.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Bijoux de Montmartre, Bar de la Lune</title>
+      <artist>Brassai</artist>
+      <year>1932</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Playing a significant role in creating the bohemian image of Paris, Brassaï photographed the artists, socialites, prostitutes, and philosophers who populated the streets, parks, and bars at night. This image, featured in his famous book &lt;i&gt;Paris by Night&lt;/i&gt;, depicts a mature woman - La Môme Bijou ("the urchin Bijou"), or Miss Diamonds, as she was variously known within the Montmartre community - sitting alone in a bar with a wine glass and two stacked small white plates on the table before her. She wears a hat with a flower and a fur-collared coat (despite being indoors) and several strands of pearls around her neck. Described by Brassaï as "the queen of Montmartre's nocturnal fauna [and a] fantastic apparition that had sprung up out of the night," she carries a fading image of a glamorous past.
+				&lt;br/&gt;&lt;br/&gt;
+				Though his images featured people who lived at the forgotten margins of society, Brassaï brought a kind of poetic reverie to his images: "I was seeking the poetry of the fog which transforms people, the poetry of the night which transforms the city" he said. Bijou with her faded glamor embodied the &lt;i&gt;La Belle Époque&lt;/i&gt; ("the beautiful era") in France, but, despite clinging to the past, she retains a distinctive presence, as her knowing gaze shrewdly evaluates the scene before her. As a further measure of Bijou's presence, the protagonist of the French Jean Giraudoux's play &lt;i&gt;The Madwoman of Chaillot&lt;/i&gt; (1945) was inspired by this photograph.
+			</desc>
+      <collection>The John Paul Getty Museum, Los Angeles, California</collection>
+    </artwork>
+    <artwork>
+      <title>New York (Children with Broken Mirror)</title>
+      <artist>Helen Levitt</artist>
+      <year>1939</year>
+      <materials>Silver gelatin print</materials>
+      <desc>
+				In the 1930s Levitt began taking the photographs of children at play in the streets of New York, for which she is best known. Influenced by Walker Evans and Cartier-Bresson, her photographs combine the objective humanism of Evans with Cartier-Bresson's emphasis on the "decisive moment" and, like Cartier-Bresson, her work was influenced by Surrealism's interest in exploring the idea of the uncanny.
+				&lt;br/&gt;&lt;br/&gt;
+				In this photograph, two children hold up a broken mirror as two others crouch, examining the glass shards around the curb. Behind the frame a little boy on a bicycle surges forward, as if he is about to pitch through the frame itself. At first glance, it seems that the boy on the bicycle is a pictorial incongruity. Only upon closer reflection does the spectator realize that the mirror is broken, and that the boy pitching forward is (potentially) about to emerge through the empty frame. A further examination of the image requires an adjustment of the spectator's imagination since she or he realizes that the boy on the bike is in fact stationary and has stopped to see what the boys on our side of the frame are doing. As a result, the image's play upon the mirror becomes a play upon the nature of photographic reality itself and the part the viewer's imagination plays in forming that reality.
+			</desc>
+      <collection>Whitney Museum, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Lower East Side</title>
+      <artist>Lisette Model</artist>
+      <year>1942</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				This photo depicts a middle-aged woman standing astride her steps, her powerful body leaning emphatically as she points aggressively outside of the picture's frame, her mouth curled angrily around her words.
+				&lt;br/&gt;&lt;br/&gt;
+				Born in Austria, Lisette Model first became known for the often brutally revealing photographs she secretly took of wealthy vacationers in Nice in 1934. In 1938 Model moved to New York City and in 1951 she began teaching at the New School for Social Research where she taught and influenced photographers like Rosalind Solomon, Larry Fink, and most notably, Diane Arbus.
+				&lt;br/&gt;&lt;br/&gt;
+				Before turning to photography, Model had studied music with the composer, Arnold Schönberg, and Expressionism's emphasis on conveying often dark emotional reality continued to influence her frank images of iconic characters. Closely cropped, the woman fills the frame, and the diagonals of the step's railing and the angle of her coat exaggerate the emotion expressed in her body language. The shot, taken from a low angle, makes her appear to loom over the street like a fury of scolding chastisement.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Fall 1953, New York</title>
+      <artist>Vivian Maier</artist>
+      <year>1953</year>
+      <materials>Silver gelatin print</materials>
+      <desc>
+				In Maier's image, a fashionable middle-class woman, with a parcel and her purse on one arm, looks on at an incident to her left where a policeman is helping a man bent on crutches into the entrance of a building. In the middle left an older man has paused to survey the scene as well.
+				&lt;br/&gt;&lt;br/&gt;
+				Throughout her life Maier worked as a nanny and the 150,000+ street photographs she took remained unknown to the public until the age of social media dawned. In 2007, two years prior to her death, she was unable to pay the rent on a storage locker and the contents, which included her negatives, prints, some 8mm film, and audio recordings, were sold to three collectors. In 2009 one of the collectors, John Moloof, linked a Flickr page of her images to his blog and Maier's work became a viral sensation, resulting in international attention for her work, and an acclaimed film: &lt;i&gt;Finding Vivian Maier&lt;/i&gt; in 2013.
+				&lt;br/&gt;&lt;br/&gt;
+				Maier often used a Rollieflex, a larger camera that, while, allowing for finer detail, made the subject often aware the photograph was being taken. As a result, one of the themes of her work is how the observer is simultaneously observed, as can be seen here as a man, only partially visible at the far right, turns to look at the photographer with the same look that the woman, passing by, directs toward the trio at the door. A number of her images are self-portraits, caught in the reflection of a shop window or mirror, and in this work too, the solitary woman observer passing by becomes a kind of allegory for the photographer.
+			</desc>
+      <collection>Howard Greenberg Gallery, New York</collection>
+    </artwork>
+    <artwork>
+      <title>New York City</title>
+      <artist>Robert Frank</artist>
+      <year>1955</year>
+      <materials>Photograph on paper</materials>
+      <desc>
+				While working on assignments for &lt;i&gt;Harper's&lt;/i&gt; &lt;i&gt;Bazaar&lt;/i&gt;, Frank made the acquaintance of the Russian art director and photographer, Alexey Brodovitch and it was the Russian who encouraged Frank to pursue his creative goal of developing a new and authentic photographic art. Brodovitch urged his mentee to take greater risks in his work and emboldened Frank to "unlearn" the studio practices he had learned since his time as a young apprentice in his Swiss homeland and to venture out onto the streets and highways of his adopted land (America).
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;New York City&lt;/i&gt;, a photograph that is part of Frank's seminal &lt;i&gt;The Americans&lt;/i&gt; photobook, captures a group of striking white workers on a New York sidewalk. We can see in the foreground a working-class African-American man slouched against a trashcan. He appears to be carrying a giant American flag - something of a motif throughout &lt;i&gt;The Americans&lt;/i&gt; project - though on closer inspection we realise that this is in fact an optical illusion. The "flagbearer's" demeanour - arms folded across his chest, his gaze turned towards an object or events outside the frame, and away from the protesters - suggests an indifference towards the plight of the white workers. Though the subjects belong to the same social class, the image alludes to a contradiction by presenting a picture of a conflicted ethnic society rather than that of "one nation" united under the same flag.
+			</desc>
+      <collection>Cantor Center for Visual Arts, Stanford University, California</collection>
+    </artwork>
+    <artwork>
+      <title>New York World's Fair</title>
+      <artist>Garry Winogrand</artist>
+      <year>1964</year>
+      <materials>Gelatin silver print</materials>
+      <desc>
+				Winogrand stated (in a discussion about this image in particular) that the "problem" facing the Street Photographer was "How do you make a photograph that's more interesting than what happened"? In other words, the quest of the Street Photographer was to elevate the everyday to the status of art. Here, Winogrand's off-center snapshot features six women and two men who share a municipal bench during New York's World Fair of 1964-65. Save the middle-aged man on the far right who is reading a newspaper, the subjects are energetically absorbed in their own private conservations and are clearly oblivious to Winogrand's presence.
+				&lt;br/&gt;&lt;br/&gt;
+				The image amounts to &lt;i&gt;more than&lt;/i&gt; documentary and/or nostalgia by virtue of the fact that the meaning of the image is potentially ambiguous. With the only clue to its meaning being the photograph's title (which gives us a time and place) the spectator is invited to use their imagination in bringing their own reading to the picture. However, the timeless allure of finding the image's &lt;i&gt;true&lt;/i&gt; meaning was emphasized some fifty years later, in 2014, when the Metropolitan Museum of Art featured a retrospective of Winogrand's work. In conjunction with the exhibition, the museum tracked down two of the women, Karen Marcato Kiaer (third in from our left) and Ann Amy Shea (fourth in from our right). In an exchange of emails (published in &lt;i&gt;The New Yorker&lt;/i&gt;) Ann confirmed that the six women were classmates from a small city college called Duchesne Residence School. The school's headmistress had provided tickets for the girls to attend the World's Fair. Karen recalled: "We college girls lived together on the sixth floor of the convent school [and] were celebrating, that day at the fair, knowing school was finishing up for the year, and looking forward to being part of the freedom movement and spending the summer in Shreveport, Louisiana, doing voter-registration work." However, the idea that Street Photography could appear on the hallowed walls of an art gallery was met with incredulity by Ann who supplied the following comment: "Girls will be girls - we were kidding with each other and those around us. I never saw a photographer, or anyone taking our picture [...] We were just a bunch of girls out having fun. Why would anyone take our picture"?
+			</desc>
+      <collection>San Francisco Museum of Modern Art, San Francisco, California</collection>
+    </artwork>
+    <artwork>
+      <title>New York City</title>
+      <artist>Joel Meyerowitz</artist>
+      <year>1975</year>
+      <materials />
+      <desc>
+				This photograph marks a crucial point in Meyerowitz's career. In this period during the mid-1970s, Meyerowitz switched from a small handheld camera to a large format 8 x 10 Deardorff. The loss of mobility is however compensated for by the much larger, high quality color prints. Though the switch to the Deardorff took away some spontaneity, it adheres to the same "snapshot" principle of Meyerowitz's earlier Street Photography: that of capturing a moving city in a split moment in time and place. Speaking of the location on the intersection of 59&lt;sup&gt;th&lt;/sup&gt; street and Madison Avenue, Meyerowitz suggested that he had "picked a hard, sunny corner, with something in the frame that appealed to [him];" in this case specifically, a "gaudy and horrible" office building that was "exactly of its era."
+				&lt;br/&gt;&lt;br/&gt;
+				In terms of its composition, we see that the picture frame is divided into geometric shapes of light and shadow. Against this architectural order, passing individuals are purposeful, concentrated and introspective, striding across the composition in a mix of drab greys and tans and gaudy pink or blue. Yet collisions seem somehow inevitable given that each figure is in a world of their own. The color film meanwhile is integral to creating the overall impression. As Meyerowitz himself put it in this discerning quote: "When I first showed these sorts of image to my friends Garry Winogrand and Tod Papageorge they thought that I had lost my mind, or lost my eye. And yet, when I look back on this picture - at the newsagent, or the man striding around the corner, or the gigantic woman - I feel a kind of giddy delight that I was there [...] Anyone who looked at this in 2050 would be able to say: 'So that's what it was like to be in New York 75 years ago."
+			</desc>
+      <collection>Howard Greenberg Gallery, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <id>cartier_bresson_henri</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>brassai</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>levitt_helen</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>model_lisette</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>maier_vivian</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>frank_robert</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>winogrand_garry</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+        <entry>
+          <id>meyerowitz_joel</id>
+          <link />
+          <title />
+          <info />
+        </entry>
+      </subcategory>
+    </category>
+    <category name="art story website features" />
+    <category name="current exhibitions" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography" />
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Street Photography</title>
+          <link>0500289077</link>
+          <info>
+						By Sophie Howarth and Stephen
+						&lt;br&gt;
+						46 contemporary street photographers
+					</info>
+        </entry>
+        <entry>
+          <title>Bystander: A History of Street</title>
+          <link>1786270668</link>
+          <info>By Colin Westerbeck and Joel Meyerowitz</info>
+        </entry>
+        <entry>
+          <title>The Photograph (Oxford History of Art)</title>
+          <link>0192842005</link>
+          <info>By Graham Clarke</info>
+        </entry>
+        <entry>
+          <title>Lee Friedlander: The American Monument</title>
+          <link>0871300729</link>
+          <info>By Lee Friedlander</info>
+        </entry>
+        <entry>
+          <title>Lisette Model</title>
+          <link>1597110493</link>
+          <info>By Lisette Model with a preface by Berenice Abbott</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Henri Cartier-Bresson Foundation</title>
+          <link>http://www.henricartierbresson.org/en/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Website of Vivian Maier</title>
+          <link>http://www.vivianmaier.com</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Michael. Ernest Sweet: streetphotography.com</title>
+          <link>http://www.streetphotography.com</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Why Street Photography Is Facing a Moment of Truth</title>
+          <link>https://www.theguardian.com/artanddesign/2010/apr/18/street-photography-privacy-surveillance</link>
+          <info>
+						By Sean O'Hagen
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						April 18, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Top 12 Street Photographers Who Captured the Grit of New York in the 70s and 80s</title>
+          <link>http://mymodernmet.com/new-york-street-photography-70s-80s/</link>
+          <info>
+						By Jessica Stewart
+						&lt;br&gt;
+						March 15, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Man Who Saw America. Looking back with Robert Frank, the most influential photographer alive.</title>
+          <link>https://www.nytimes.com/2015/07/05/magazine/robert-franks-america.html</link>
+          <info>
+						By Nicholas Dawidoff
+						&lt;br&gt;
+						Mymodernmet.com 
+						&lt;br&gt;
+						July2, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>A New Look at Walker Evans's 'American Photographs'</title>
+          <link>https://lens.blogs.nytimes.com/2013/08/08/a-new-look-at-walk-evanss-american-photographs/</link>
+          <info>
+						By David Gonzalez
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						August 8, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>America, Captured in a Flash</title>
+          <link>http://www.nytimes.com/2009/09/25/arts/design/25frank.html</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						New York Times 
+						&lt;br&gt;
+						September 24, 2009
+					</info>
+        </entry>
+        <entry>
+          <title>Top 12 Street Photographers Who Captured the Grit of New York in the 70s and 80s</title>
+          <link>http://mymodernmet.com/new-york-street-photography-70s-80s/</link>
+          <info>
+						By Jessica Stewart 
+						&lt;br&gt;
+						Mymodernmet.com
+						&lt;br&gt;
+						March 15, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Hidden Camera: the story of Paul Martin</title>
+          <link>http://corporate.gettyimages.com/masters2/press/articles/BWP_Paul_Martin.pdf</link>
+          <info>
+						By Sarah MacDonald
+						&lt;br&gt;
+						Black and White
+						&lt;br&gt;
+						10 June 2002
+					</info>
+        </entry>
+        <entry>
+          <title>10 Street Photographers Who Are Immortalizing Our Modern World</title>
+          <link>http://mymodernmet.com/10-best-contemporary-street-photographers/</link>
+          <info>
+						By Jessica Stewart
+						&lt;br&gt;
+						Mymodernmet.com
+						&lt;br&gt;
+						April 13, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>The Ladies on the Bench</title>
+          <link>https://www.newyorker.com/culture/culture-desk/ladies-bench</link>
+          <info>
+						By Emma Allen
+						&lt;br&gt;
+						The New Yorker
+						&lt;br&gt;
+						August 15, 2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Henri Cartier Bresson - Just Plain Love (Documentary)</title>
+          <link>https://www.youtube.com/watch?v=ZYYwqo8HKbw&amp;list=PL74buOKpXpmbA5jxaVs8asGeaR7x0D94U&amp;index=5</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Garry Winogrand</title>
+          <link>https://www.youtube.com/watch?v=YQhZcKzbM9s&amp;list=PL74buOKpXpmbA5jxaVs8asGeaR7x0D94U&amp;index=10</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Henri Cartier-Bresson "Pen, Brush and Camera" 1998 Full Length Documentary</title>
+          <link>https://www.youtube.com/watch?v=ei45S87R2dk</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Visions and Images: Harry Callahan, 1981</title>
+          <link>https://www.youtube.com/watch?v=_LhYs5eq5nw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Finding Vivian Maier 2014</title>
+          <link>https://www.amazon.com/Finding-Vivian-Maier-John-Maloof/dp/B00M7UU7KO</link>
+          <info />
+        </entry>
+        <entry>
+          <title>American Journey 2009</title>
+          <link>https://www.amazon.com/gp/video/detail/B00C7HNE84/ref=pd_cbs_318_2</link>
+          <info>Philippe Seclier retraces the journey that Swiss photographer Robert Frank took while shooting his groundbreaking 1958 photo book "The Americans."</info>
+        </entry>
+        <entry>
+          <title>Inside Photographer Robert Frank's The Americans‬</title>
+          <link>https://www.youtube.com/watch?v=mHtRZBDOgag</link>
+          <info>Smithsonian Magazine</info>
+        </entry>
+        <entry>
+          <title>‪Streetwise - Robert Frank and The Americans‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬</title>
+          <link>https://www.youtube.com/watch?v=U_xJAd0piCM</link>
+          <info>Museum of Photographic Arts</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

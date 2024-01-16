@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>sisley_alfred</id>
+    <name>Alfred Sisley</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1862 - 1899</years>
+    <description>Sisley's landscapes reflected his moodiness, while his distinct colors show an influence from earlier periods of English and French art.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter</occupation>
+    <nationality>British</nationality>
+    <birthDate>October 30, 1839</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>January 29, 1899</deathDate>
+    <deathPlace>Moret-sur-Loing, France</deathPlace>
+    <pub_time>5/27/2016</pub_time>
+  </main>
+  <includes>
+    <include>impressionism</include>
+    <include>naturalism</include>
+  </includes>
+  <similar_movements>
+    <movement>impressionism</movement>
+    <movement>naturalism</movement>
+    <movement>landscape_painters</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>renoir_pierre_auguste</artist>
+    <artist>monet_claude</artist>
+    <artist>caillebotte_gustave</artist>
+    <artist>baudelaire_charles</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"And though the artist must remain the master of his craft, the surface, at times raised to the highest pitch of liveliness, should transmit to the beholder the sensation which possessed the artist."</q>
+    <q>"I always start a painting with the sky."</q>
+    <q>"The Animation of the Canvas is one of the hardest problems of painting."</q>
+    <q>"I like all those painters who loved and had a strong feeling for nature."</q>
+    <q>"To give life to the work of art is certainly one of the most necessary tasks of the true artists. Everything must serve this end: form, color, surface. The artist's impression is the life-giving factor, and only this impression can free that of the spectator. And though the artist must remain the master of his craft, the surface, at times raised to the highest pitch of liveliness, should transmit to the beholder the sensation which possessed the artist."</q>
+    <q>"Every picture shows a spot with which the artist has fallen in love."</q>
+    <q>"What artists do I Love? To take just the contemporaries: Delacroix, Corot, Millet, Rousseau, Courbet, our masters. All who have loved Nature and felt strongly."</q>
+    <q author="Henri Matisse">"A Cézanne is a moment of the artist while a Sisley is a moment of nature."</q>
+    <q author="Jules Leclercq">"Since the Impressionist school will hold an important place in the history of the painting of this century and while it has established a universal movement, it is certain that Sisley will never be forgotten..."</q>
+  </quotes>
+  <authors>
+    <author link="siclari_ostyn">Sheryl Siclari-Ostyn</author>
+  </authors>
+  <editors>
+    <editor link="hurst">Ellen Hurst</editor>
+  </editors>
+  <article>
+    <synopsys>Alfred Sisley is one of Impressionism's most unjustly overlooked artists. This may perhaps be due to the fact that Sisley straddled two different cultures, having been born to English parents in France and later dividing his time between the two countries. As such, though he worked as one of the key figures in French Impressionism, he remained something of an outsider. Unlike many of his peers, who examined urban life, industrialization, and people, Sisley was almost exclusively a painter of landscapes, a subject from which he rarely strayed. What's more, there is a moodiness and distinct colorism in his works that suggest an influence from earlier periods of English and French art, especially the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barbizon_school"&gt;Barbizon school&lt;/span&gt;. As such, Sisley created his own unique brand of Impressionism that foreshadowed many of the new painting styles that would emerge in Europe after the turn of the 20&lt;sup&gt;th&lt;/sup&gt; century.</synopsys>
+    <key_ideas>
+      <idea>Sisley's landscapes are known for their uncanny ability to capture a sense of atmosphere and light. This effect is compounded by his big, expressive skies, which are almost always a central feature of his paintings.</idea>
+      <idea>Although he is often considered an outsider because of his English citizenship, Sisley trained in Paris with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, among other greats, and was one of the crucial figures working to create the new style that would become known as Impressionism.</idea>
+      <idea>Although Sisley's works are quite beautiful to the modern eye, it is important to remember that his work (like that of all of the Impressionists) was quite radical in its own day. His focus on modern, urban life, his view of nature as a worthwhile subject matter, and his sketchy, "impressionistic" style were all hallmarks of a new painting style for an industrialized world.</idea>
+      <idea>Sisley's sensitivity to the subtleties of natural landscapes was striking, allowing him to create landscapes that pulse simultaneously with the seemingly contradictory feelings of physical realism and dreamy emotionalism.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Alfred Sisley was born in Paris, the son of affluent British expatriates. His mother, Felicia Sell, was a music connoisseur, and his father, William Sisley, owned a lucrative business exporting artificial flowers and silk. Felicia and William were cousins, descended from a long line of English smugglers and tradesmen. Alfred was one of four children, one of whom - the eldest brother - died at a young age. Unfortunately, little is known about Alfred's adolescence before he was sent to London in 1857 to study for a career in commerce. While in London, Sisley is said to have spent much of his time visiting the exhibitions of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-constable_john"&gt;John Constable&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-turner_jmw"&gt;J.M.W. Turner&lt;/span&gt; at the National Gallery.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Sisley returned to Paris in 1860, where he enrolled at the &lt;i&gt;École des Beaux-Arts&lt;/i&gt;. In Paris, he met the artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bazille_frederic"&gt;Frédéric Bazille&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-whistler_james_abbott_mcneill"&gt;James Whistler&lt;/span&gt; while studying in Charles Gleyre's (1806-74) &lt;i&gt;atelier&lt;/i&gt;. Sisley's academic training focused on "technique and preparation," yet Gleyre was in part responsible for fostering the new, "impressionist" style. Gleyre taught his students to draw from memory and to study nature, while stressing the importance of originality. None of Sisley's student work survives and only a few of his early paintings can be accounted for. It can only be assumed that his work prior to 1870 was destroyed when he fled Bougival following the Prussian invasion. His earliest surviving paintings are reminiscent of those of the Barbizon school, particularly in their interest in color. Good examples of his early work are his three different renditions of &lt;i&gt;Avenue of Chestnut Trees Near La Celle-Saint-Cloud&lt;/i&gt; (1867), the last version of which was accepted into the Salon in 1868.</p>
+          <p type="p">Sisley became close friends with Renoir during their training in Gleyre's studio. Renoir often spoke of his pleasant and charismatic disposition, telling his son that "[Sisley] was a delightful human being...he could never resist a petticoat. We would be walking along the street, talking about the weather or something equally trivial, and suddenly Sisley would disappear. Then I would discover him at his old game of flirting." Among Gleyre's other students he had a "hardworking and gregarious" reputation.</p>
+          <p type="p">In 1866 Sisley met a florist named Marie-Louise Adelaide Lescouezec (Eugénie). Renoir recalled that she seemed "exceedingly well bred." Her upbringing is uncertain, but one account suggests that her family's financial hardships forced her to become a model. Another account of her early life suggests that her father, an officer, was killed in a duel when she was a young girl. Despite her questionable background, Sisley fell in love with her and remained devoted to her until her death. A year after they met, the couple's son Pierre was born, followed by a daughter, Jeanne, in 1869. After the outbreak of the Franco-Prussian war in 1870, Sisley's finances became unstable. Sisley had been supported by his father, but his business failed shortly after the outbreak of the war. His father lost everything and passed away shortly thereafter.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">Following the death of his father, Sisley dedicated himself to painting, having to depend on his art to support his family financially for the first time. It was around this same time that Sisley's style matured. He began to exhibit his true potential as a colorist, as well as an ability to capture nature through the use of loose brushstrokes. Sisley's paintings from this time represent an impressive range of tones, while his ability to render the complex visual effects of light brings life to his landscapes. According to art historian Christopher Lloyd, Sisley's compositions are meticulously organized "bringing order to a world constantly in flux." Throughout his career, Sisley worked &lt;span class="marked_text chart-tooltip-target-top tooltip_id-en_plein_air"&gt;en plein air&lt;/span&gt;, painting directly onto a primed canvas, and he rarely ever retouched his compositions in the studio.</p>
+          <p type="p">While Sisley's dedication to the Impressionist movement never faltered, his failure to sell paintings led him back to exhibiting at the Salon in the 1870's. Although the Salon Jury rejected him in 1867 and 1879, they accepted his paintings later in his career. Since he was unable to exhibit his work in an academic setting, Sisley exhibited his paintings at the first Impressionist show in 1874. The emerging group gathered at the photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Nadar's&lt;/span&gt; studio, where Sisley exhibited five paintings. Louis Leroy, a critic for &lt;i&gt;Charivari&lt;/i&gt;, was in attendance and coined the term Impressionism, which was originally used as derogatory term. Leroy called the artists "trouble-makers," who merely painted their impressions of things. Sisley continued to exhibit his work steadily between 1874 and 1890. He exhibited at most of the Impressionist shows, as well as at other art and corporate venues. In 1872 Sisley met Paul Durand-Ruel, a private art dealer who represented him until 1891 when Georges Petit replaced him.</p>
+        </subsection>
+        <subsection title="Late Years and Death">
+          <p type="p">Sisley had spent most of his adult life in poverty, often having to request loans for modest sums of money. He and his family relocated along the outskirts of Paris looking for cheaper housing more than a dozen times. While his lack of recognition and dire financial situation caused him emotional distress that led him to avoid social engagements, he managed to remain friendly and well-liked throughout his life.</p>
+          <p type="img" alt="Alfred Sisley Portrait" show="1">/images20/photo/sisley_1.jpg</p>
+          <p type="p">It was not until late in life (1897) that Sisley married his wife. Marie died of cancer in October of 1898, soon after they returned to France from their wedding in Wales. In January of 1899, Sisley himself was in poor health. He invited his good friend Monet to visit him, and while Monet was there, he asked him to care for his children. Sisley died a week later of throat cancer and was buried at Moret cemetery. A bust was erected in his memory.</p>
+          <p type="p">In May of 1899 Monet requested that Georges Petit hold an auction at the Hotel Drouot to raise money for Sisley's children. Petit managed to sell twenty-seven of his paintings, raising 112,320 francs. Additionally, Sisley's &lt;i&gt;Flood at Port-Marly&lt;/i&gt; (1876) sold in March of 1900 for 43,000 francs, nearly half of the amount of all twenty-seven of his paintings sold the year before. While Sisley did not gain notoriety during his lifetime, many of his contemporaries did recognize his talent. Art critic Wynford Dewhurst said "Rare are the artists who distinguish themselves in every branch of art, lucky the man who excelled in one. An example of the latter is Sisley, '&lt;i&gt;paysagiste&lt;/i&gt;' pure and simple, who has left a legacy of some of the most fascinating landscapes ever painted."</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Despite Impressionism's popularity, Sisley received little recognition and success during his lifetime and is still understudied in comparison to his contemporaries. The lack of serious scholarly consideration is often regarded as a result of his fractured national identity. Sisley retained English citizenship through out his life, although he applied for French Citizenship twice and was denied. Still, he was a founding member of French Impressionism, carrying out the movement's original philosophy throughout his career.</p>
+          <p type="p">Sisley's early work served as a link between the Barbizon school and what later became known as Impressionism. Although he was not directly involved in the Post-Impressionist movement, his innovative use of color and texture to invoke emotion was the cornerstone of the later movement.</p>
+          <p type="p">Painter and critic Eugène Fromentin considered Sisley as talented as Renoir, Monet and Pissarro, writing, "He faultlessly conveys those startling moments of perception in which a scene is removed from its surroundings and steeped in an indefinable emotion. He has the power of transcribing such scenes as though he had been searching for them all along, and yet he reveals them with an air of diffidence that disarms while it captivates. He enlarges our perception of Impressionist painting and joins the ranks of the great European Landscapists." Indeed, his work speaks for itself, and shows his tremendous talent at suffusing landscapes with life and emotion. His mastery of light and color certainly paved the way forward for later artists working in the genre, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="monet_claude">Rouen Cathedral: The Facade at Sunset (1894)</artwork>
+    <artwork from="artist" page="renoir_pierre_auguste">La Grenouillère (1869)</artwork>
+    <artwork from="artist" page="whistler_james_abbott_mcneill">Nocturne: Blue and Gold - Old Battersea Bridge (c.1872-75)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Avenue of Chestnut Trees Near La Celle-Saint-Cloud</title>
+      <year>1867</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This monumental landscape was exhibited at the Salon of 1868. &lt;i&gt;Avenue of Chestnut Trees Near La Celle-Saint-Cloud&lt;/i&gt; illustrates a hunting trail leading through a heavily shaded forest close to the village of La Celle. Sisley painted this subject two times before, in 1865. This painting's subject matter and intense color are reminiscent of the Barbizon school. In fact, the painting has been compared to Hobbema, Rousseau, Corot and Daubigny. &lt;i&gt;Avenue of Chestnut Trees Near La Celle-Saint-Cloud&lt;/i&gt; is an example of Sisley's early work, which is known for the use of soft brushstrokes. His ability to represent the intense colors of the forest is achieved through the layering of green and gray tones. The deer standing to the right of the path may suggest a royal subject. 
+				&lt;br/&gt;&lt;br/&gt;
+				Napoleon III owned this royal hunting ground, which led Scott Schaeffer to believe that this is why the Salon Jury of 1868 accepted the painting. Moreover, Schaeffer states that Sisley's intention may have shown contempt for a royal subject through its representation in a landscape painting, which was considered an "inferior" genre. While Sisley's later work does seem to represent the sobering affects of modernity on nature, it is unknown if Sisley took a political stance in this work. &lt;i&gt;Avenue of Chestnut Trees Near La Celle-Saint-Cloud&lt;/i&gt; may have been Sisley's examination of new subject matter, as he worked outside of the confines of the Academy, pioneering the Impressionist movement. 
+			</desc>
+      <collection>Southampton City Art Gallery</collection>
+    </artwork>
+    <artwork>
+      <title>Footbridge at Argenteuil</title>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;Footbridge at Argenteuil&lt;/i&gt; (1872) is a landscape painting that captures modern life at the end of the 19&lt;sup&gt;th&lt;/sup&gt; century. The subject matter is not typical of Sisley's &lt;i&gt;oeuvre&lt;/i&gt;, yet the painting is stylistically representative of his work. &lt;i&gt;Footbridge at Argenteuil&lt;/i&gt; is inspired by contemporary Japanese prints, in which, as here, the picture plane is the main focus of the composition. This is evident in the bridge, which dominates the canvas and flattens out the composition through the use of diagonal lines which evoke sharp, fast movement and thereby mimic the speed of modern day life. Additionally, the foreground is pushed forward and the canvas is cropped, which creates a similar sense of spontaneity of a photograph. The harmonious balance of muted dark and light colors allows the eye to move quickly across the canvas, giving the illusion of movement. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Footbridge at Argenteuil&lt;/i&gt; is similar to Gustave Caillebotte's &lt;i&gt;Pont de l'Europe&lt;/i&gt;, 1876. Although it is unknown if Caillebotte was aware of Sisley's painting, the two artists chose similar subject matter and viewpoints to depict the landscape. The two works differ in the way the artists chose to capture contemporary life. Caillebotte's painting focuses on the figures, celebrating modernity through the fashion of the period. In comparison, Sisley's painting focuses on the architecture, only showing a vague interest in the people strolling along the bridge. Sisley celebrates modernity, but through the detailed innovative materials of the bridge. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although there is a lack of obvious narrative, this painting is particularly informative about the context of the time. &lt;i&gt;Footbridge at Argenteuil&lt;/i&gt; depicts the newly emerging middle class vacationing in the suburbs outside of Paris. This new access to leisure became more common with the development of industry and the newly constructed railroad along the Seine River. Impressionist artists began capturing this new subject matter, creating genres that were distinct from the limitations of the Academy. 
+			</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Bridge at Villeneuve-la-Garenne</title>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				The &lt;i&gt;Bridge at Villeneuve-la-Garenne&lt;/i&gt; (1872) represents an Impressionist landscape along the Riverbank of the Seine. This painting is emblematic of Alfred Sisley's &lt;i&gt;oeuvre&lt;/i&gt;, concentrating on the artist's perception of the natural world. The application of quick, feathery brushstrokes captures the ephemeral effects of light on a surface. This can be seen with the subtle nuances of color on the river that reflect the sky, clouds, and grassy knoll. The perspective from which the artist chose to paint the bridge gives a sense of the structure's monumental scale. Additionally, Sisley included figures to provide a sense of scale to convey the bridge's size. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the &lt;i&gt;Bridge at Villeneuve-la-Garenne&lt;/i&gt; is a study of nature, it also illustrates France's desire to be politically and industrially progressive following the loss of the Franco-Prussian war. The bridge was reconstructed after the war and represents the restoration of France at the end of the 19&lt;sup&gt;th&lt;/sup&gt; century. &lt;i&gt;The Bridge at Villeneuve-la-Garenne&lt;/i&gt; then represents the rhetoric of hope of regeneration. 
+				&lt;br/&gt;&lt;br/&gt;
+				This painting was one of three works that Durand-Ruel purchased from Sisley. It was included in an album of three hundred of his most beautiful prints. The album was created with the intention to publish; yet this project was never realized. 
+			</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>The River Loing at Saint-Mammès</title>
+      <year>1885</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				&lt;i&gt;The River Loing at Saint-Mammès&lt;/i&gt; (1885) represents a port where the Loing and Siene Rivers meet. Sisley painted this subject several times while living in Les Sablons. The painting's lack of shadows and intense, warm colors suggest that it is a summer afternoon. Sisley methodically breaks the canvas into four horizontal planes, the grassy knoll, the river, the beach, and the sky. He paints the grassy knoll with curving diagonal brushstrokes, which flows seamlessly into the river, distinguished by short horizontal brushstrokes. The flat cream color of the beach divides the sand from the river with long horizontal painterly lines. Sisley used the sky to create a harmonious balance of color, unifying the composition. The whites, reds, purples and blues making up the clouds are reflected into the water. Additionally, the red roof tops of the beachfront homes are reflected in the river. This color scheme is also employed in the boats and the Paris-Lyons railway viaduct in the distance. 
+				&lt;br/&gt;&lt;br/&gt;
+				The deep hues, intense tones and systematic dabs of paint suggest that Sisley was aware of the Neo-Impressionist movement, particularly Seurat's method of pointillism. Indeed, there is an almost pointillist quality to this work. While Sisley's failing health and financial difficulties prevented him from traveling during this time, he may have taken short trips to Paris to see Seurat's paintings. Although Sisley was one of the only Impressionist members to continue to illustrate the original philosophy of the Impressionist style, this painting suggests that he did experiment with other modern ideas. 
+			</desc>
+      <collection>Collection of Arnold and Anne Gumowitz, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Haystacks at Moret, Morning</title>
+      <year>1891</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				This work represents an open field of grain outlined by poplar trees. The Four haystacks create a diagonal line through the canvas, giving depth to the composition as they recede into the background. The massive landscape includes a peasant working in the field to illustrate the monumental scale of the haystacks. Poplar trees frame the background, additionally emphasizing the vastness of nature. Sisley captures the light reflecting off of the grain with deep oranges and reds through the thick layering of paint. His brushstrokes are almost whimsical, giving the grain texture. &lt;i&gt;Haystacks at Moret, Morning&lt;/i&gt; represents France as a fertile, agrarian country, bountiful in its resources. The poplars were a National symbol, often represented in the iconography of France. 
+				&lt;br/&gt;&lt;br/&gt;
+				Sisley may have been inspired to explore this new theme after viewing Pissarro's &lt;i&gt;The Rick, Pontoise&lt;/i&gt; (1873) and &lt;i&gt;Harvest at Montfoucault&lt;/i&gt; (1876). Additionally, he may have seen Monet's haystack series, exhibited at Durand-Ruel's gallery the same year he undertook this subject. Sisley returned to this theme in 1895, creating four more paintings of haystacks. Like Monet, Sisley used the poplars to illustrate the enduring qualities of nature. In this way, they answered the problem that the Impressionist artists faced during the last decade of the 19&lt;sup&gt;th&lt;/sup&gt; century, how to take an ephemeral subject and make it timeless.
+			</desc>
+      <collection>National Gallery of Victoria, Melbourne</collection>
+    </artwork>
+    <artwork>
+      <title>The Church at Moret: Morning Sun</title>
+      <year>1893</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Sisley's painting represents the Church of Notre Dame at Moret-sur-Loing, seen from the West Portal entrance. He painted this church about a dozen times after settling in Moret in 1889. It is considered a series, although it is unknown if it was meant to be exhibited that way. The architecture encompasses the entire canvas, translating the heaviness of the stone structure. Sisley emphasizes the solidness of the church with thick painterly horizontal lines, but his loose brushwork and ability to capture the quality of moving light and shadow lightens up the whole work. The painting represents the church during the late afternoon, when the sun was setting on the church. This makes for a glowing composition, with vibrant golds, oranges, and browns set off against a clear blue sky. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Church of Moret&lt;/i&gt; is quite similar to the paintings from Monet's &lt;i&gt;Rouen Cathedral&lt;/i&gt; series (1890s), which show Rouen Cathedral at different times of day in different sorts of weather. In spite of the similarity, it is unknown if Sisley was aware of or ever viewed Monet's series. In any case, it is a quintessential Impressionist painting in that it seeks to depict the real world around us in all its fleeting beauty and specificity. 
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>corot_jean_baptiste_camille</entity>
+        <entity>rousseau_henri</entity>
+        <entity>gainsborough_thomas</entity>
+        <entity>constable_john</entity>
+        <entity>turner_jmw</entity>
+      </column>
+      <column>
+        <entity>baudelaire_charles</entity>
+        <entity>zola_emile</entity>
+        <entity>renoir_pierre_auguste</entity>
+        <entity>monet_claude</entity>
+      </column>
+      <column>
+        <entity>barbizon_school</entity>
+        <entity>the_sublime_in_art</entity>
+        <entity>baroque_art_and_architecture</entity>
+        <entity>romanticism</entity>
+        <entity>realism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>matisse_henri</entity>
+        <entity>van_gogh_vincent</entity>
+        <entity>gauguin_paul</entity>
+        <entity>monet_claude</entity>
+        <entity>caillebotte_gustave</entity>
+      </column>
+      <column>
+        <entity>renoir_pierre_auguste</entity>
+        <entity>zola_emile</entity>
+        <entity>monet_claude</entity>
+        <entity>caillebotte_gustave</entity>
+      </column>
+      <column>
+        <entity>post_impressionism</entity>
+        <entity>neo_impressionism</entity>
+        <entity>fauvism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Alfred Sisley</title>
+          <link>0568001516</link>
+          <info>By Raymond Cognait</info>
+        </entry>
+        <entry>
+          <title>Alfred Sisley: The English Impressionist</title>
+          <link>0715399209</link>
+          <info>By Vivienne Couldrey</info>
+        </entry>
+        <entry>
+          <title>Monet, Sisley, Pissarro</title>
+          <link>B004GVNZ4M</link>
+          <info>By Pierre Francastel</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Alfred Sisley</title>
+          <link>0300052448</link>
+          <info>By Mary Anne Stevens, Isabelle Cahn, Caroline Durand-Ruel Godfroy, William R. Johnston, Christopher Lloyd, Sylvie Patin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Sisley-Loan Exhibtion</title>
+          <link>B000BT5HQ2</link>
+          <info>By Alfred Shone</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>Alfred Sisley, The Complete Works</title>
+          <link>http://www.alfredsisley.org/sitemap.html</link>
+          <info>Collections of works, Sitemap, and Biography</info>
+        </entry>
+        <entry>
+          <title>Musée d'Orsay, Paris</title>
+          <link>http://www.musee-orsay.fr/en/events/exhibitions/in-the-museums/exhibitions-in-the-musee-dorsay/article/sisley-4406.html</link>
+          <info>Artist's Page and Exhibition Information</info>
+        </entry>
+        <entry>
+          <title>Artnet, Alfred Sisley</title>
+          <link>http://www.artnet.com/artists/alfred-sisley/</link>
+          <info>Artist Biography, Available Paintings, and Auction Prices and Results</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>ART VIEW; Alfred Sisley, The Invisible Man of Impressionism</title>
+          <link>http://www.nytimes.com/1992/09/27/arts/art-view-alfred-sisley-the-invisible-man-of-impressionism.html?pagewanted=all</link>
+          <info>
+						By John Russell
+						&lt;br&gt;
+						The New York Times, Arts 
+						&lt;br&gt;
+						September 27, 1992
+					</info>
+        </entry>
+        <entry>
+          <title>Giving Americans The Chance To Know Pure Impressionism Of Alfred Sislet The Show In Baltimore Is The First Major Exhibit For The Landscape Artist Ever Presented in A U.S. Museum</title>
+          <link>http://articles.philly.com/1993-03-28/news/25949052_1_alfred-sisley-pissarro-impressionist-movement</link>
+          <info>
+						By Edward J. Sozanski
+						&lt;br&gt;
+						Philly.com 
+						&lt;br&gt;
+						March 28, 1993
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews" />
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips" />
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

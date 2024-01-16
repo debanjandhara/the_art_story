@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>ai_weiwei</id>
+    <name>Ai Weiwei</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1980s - Present</years>
+    <description>Ai Weiwei made significant impact on China and the world via his Performance, Conceptual, and political artworks.</description>
+    <art_description>Important art &amp; artworks analysis by Ai Weiwei including: Dropping a Han Dynasty Urn, Sunflower Seeds, and Surveillance Camera &amp; more in Conceptual Art.</art_description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Conceptual Artist</occupation>
+    <nationality>Chinese</nationality>
+    <birthDate>August 28, 1957</birthDate>
+    <birthPlace>Beijing, China</birthPlace>
+    <big_bio_box_img>Detail of &lt;i&gt;Circle of Animals/Zodiac Heads&lt;/i&gt; by Ai Weiwei installed in New York City at the Pulitzer Fountain at Grand Army Plaza, May 2011</big_bio_box_img>
+    <bio_highlight>Ai said his father, the poet Ai Qing, was his single greatest influence. When the artist was a year old, the family was sent to a labor camp, then to a rural village where Ai Qing was forced to clean communal toilets. Ai said his father "as a poet, as an artist, [he] worked so hard at first, and it was very impressive...and I think that the only rewarding feeling he could get was to make the toilets so completely clean. That act influenced me a lot...So, you know, I was born radical, I did not become radical."</bio_highlight>
+    <art_type>Art</art_type>
+    <pub_time>3/28/2016</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+	<img_version>?1</img_version>
+  </main>
+  <includes>
+    <include>conceptual_art</include>
+    <include>performance_art</include>
+    <include>capitalist_realism</include>
+    <include>installation_art</include>
+  </includes>
+  <similar_artists>
+    <artist>kapoor_anish</artist>
+    <artist>xu_bing</artist>
+    <artist>zhang_huan</artist>
+    <artist>liu_dan</artist>
+  </similar_artists>
+  <similar_movements>
+    <movement>conceptual_art</movement>
+    <movement>performance_art</movement>
+    <movement>capitalist_realism</movement>
+    <movement>installation_art</movement>
+  </similar_movements>
+  <quotes>
+    <q main="true">"Creativity is the power to reject the past, to change the status quo, and to seek new potential. Simply put, aside from using one's imagination - perhaps more importantly - creativity is the power to act."</q>
+    <q>"The art always wins. Anything can happen to me, but the art will stay."</q>
+    <q>"I always want people to be confused, to be shocked or realize something later."</q>
+    <q>"Technology is a liberation. I think the information age probably is the best thing to happen to the human race in human evolution. Now you have the equal opportunity to equip yourself through information and knowledge and express yourself as an independent mind."</q>
+    <q>"If there is no free speech, every single life has lived in vain."</q>
+    <q>"Creativity is the power to reject the past, to change the status quo, and to seek new potential. Simply put, aside from using one's imagination - perhaps more importantly - creativity is the power to act."</q>
+    <q>"My definition of art has always been the same. It is about freedom of expression, a new way of communication. It is never about exhibiting in museums or about hanging it on the wall. Art should live in the heart of the people."</q>
+    <q>"I don't think anybody can separate art from politics. The intention to separate art from politics is itself a very political intention."</q>
+    <q>"Self-censorship is insulting to the self. Timidity is a hopeless way forward."</q>
+    <q>"If my art has nothing to do with people's pain and sorrow, what is 'art' for?"</q>
+  </quotes>
+  <authors>
+    <author link="epstein">Ruth Epstein</author>
+  </authors>
+  <article>
+    <synopsys>Ai Weiwei is the most famous Chinese artist living today. As an activist, he calls attention to human rights violations on an epic scale; as an artist, he expands the definition of art to include new forms of social engagement. In a country where free speech is not recognized as a right, the police have beaten him up, kept him under house arrest, bulldozed his newly-built studio and subjected him to surveillance. He is viewed as a threat to "harmonious society." The West did not invent revolutionaries. China has an illustrious history of dissidents, anti-authoritarian originals and eccentrics, from the drunken monks of pre-history to counter-culture artists living in today's Beijing. Ai himself is from this long line of free-thinkers and writers, marginalized both by the right and left. From smashing an ancient vase to reciting the names of children who died due to government negligence, Ai's dramatic actions highlight the widening gap between the ideal and the real in Chinese society. He is also one of the earliest conceptual artists to use social media - Instagram and Twitter, in particular - as one of his primary media.</synopsys>
+    <key_ideas>
+      <idea>Ai came of age as an art student in 1990s New York. A time and place where the more outrageously anti-authoritarian and oppositional the statement, the better. He then returned to China, an environment far less open to such views. In Ai's words, "China and the U.S. are two societies with very different attitudes towards opinion and criticism." He saw the difference, and refused to conform. He is an artist who actually put his life on the line to defend freedom of expression.</idea>
+      <idea>Ai was a professional blackjack player for a brief period early in life. His work is about risk (personal, professional, and political). It is also about testing the limits of freedom. His work is designed to remind us that risk-taking is an essential form of exercise in a free society.</idea>
+      <idea>Government spying, a hot topic in contemporary art lately, is not some futuristic idea but a fact of life for Ai. Under government surveillance for almost a decade, he has produced some of the most thoughtful work on this contemporary topic that is just as important in current popular culture as the hippies were in the 1960s or the feminists in the 1970s.</idea>
+      <idea>Trained in the West, Ai is intimately familiar with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalist&lt;/span&gt; traditions, and combines them. In his refusal to pleasure the eye, he is the opposite of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt;, his equally famous contemporary. In their visual austerity, Ai's pieces are closely aligned with the work of other global activists, among them &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hammons_david"&gt;David Hammons&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gober_robert"&gt;Robert Gober&lt;/span&gt;, and Doris Salcedo, whose large-scale projects call attention to weighty social issues, breaking free from the confines of the gallery and the museum, and bridging the gap between the visual and the social.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Ai Weiwei is the son of writer Gao Ying and poet Ai Qing. His father was very well-known in China, and had been imprisoned by the Nationalist government before Ai's birth on suspicion of being a Leftist. After the People's Republic of China was founded, Ai Qing was accused again, this time of being a Rightist, during Chairman Mao's anti-intellectual campaign. The family was exiled when Ai was only one year old. His father's poetic artistry and the family's precarious political situation were to have a deep effect on the artist.</p>
+          <p type="p">The family lived in exile for twenty years, in small villages near the North Korean border and in the province of Xinjiang, where his father was forced to carry out hard labor, including cleaning communal toilets. In order to survive as a child, Ai learned many of the practical skills that he would later apply to his art - such as making furniture and bricks. He says of his childhood that "living conditions were extremely harsh, and education was almost non-existent." The family had been able to keep only one book, a large encyclopedia - Ai's only source of information and education.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="Ai Weiwei Biography" show="0">/images20/photo/weiwei_1.jpg</p>
+          <p type="p">Ai Qing and his family were allowed to return from exile after Chairman Mao's death in 1976. This allowed the 19 year old Ai to enroll in the Beijing Film Academy to study animation. Within a couple of years, he had started to get involved with the unofficial Beijing art scene, and was one of the first members of The Stars. This was a subversive political group of artists who wanted to reintroduce the idea of art as self-expression to China, after decades of Mao's policy of art serving the communal interests of the state. He also took part in a number of pro-democracy marches and rallies.</p>
+          <p type="p">In 1981, he moved to the US, studying in piecemeal fashion at various institutions, trying to improve his English. He eventually moved to New York in 1982, where he studied at the Parsons School for Design under artist Sean Scully. He dropped out after six months, and instead tried to make a living as a street artist and odd-jobber.</p>
+          <p type="p">Ai stayed in New York for 11 years, immersing himself in the contemporary art scene and taking photographs of the city, which would later be put together as a work known as the &lt;i&gt;New York Photographs&lt;/i&gt; (1983-1993). He also met and befriended the beat poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ginsberg_allen"&gt;Allen Ginsberg&lt;/span&gt;, who had once traveled to China and met Ai's father.</p>
+          <p type="p">During this period he also traveled round the US, and became interested in the game of blackjack being played in Atlantic City casinos. He became so adept at the game that US blackjack players know him first and foremost as a professional gambler, rather than as an artist.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Ai Weiwei Photo" show="1">/images20/photo/weiwei_2.jpg</p>
+          <p type="p">Ai's first solo show, entitled "Old Shoes, Safe Sex" was held in New York in 1988 at Art Waves/Ethan Cohen Gallery. Five years later his father became ill and he returned to Beijing. While there, he produced three books on interviews with some of his favorite Western artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-koons_jeff"&gt;Jeff Koons&lt;/span&gt;, and drew connections between this older generation of artists and an emerging generation of iconoclasts (which included himself) in Beijing.</p>
+          <p type="p">In 1996, his father passed away. Ai has identified his father as the single most important influence on his life. Delving more deeply into a traditional Chinese practice that he had learned from his father, he spent the last half of that decade making furniture. Despite no formal training in architecture, in 1999 he built himself a house and studio in north Beijing, and in 2003 founded an architectural practice called FAKE Design.</p>
+          <p type="p">The year 1999 was a turning point in Ai's life and career. He was chosen to represent China at the Venice Biennale (a mark of high honor and geo-political distinction), a development that lifted him into a high-visibility role in the international arena. In the same year, he co-curated an exhibition in Shanghai, entitled "F**k off". This got the attention of the Chinese government, and not in a good way. In order to understand the impact of this exhibition, it is crucial to know a little bit about the state-sanctioned art of Beijing, dominant since the 1970s. The unstated, but relatively strictly-enforced guidelines were that art should be representational, respectful, and celebrates the lives of everyday people thriving under Communism in a manner consistent with Western Realism - but mostly known internationally as Soviet Socialist Realism.</p>
+          <p type="p">It is impossible, therefore, to overstate the sensational impact of this exhibition showcasing work by the artist who had recently been invited to represent the country at the Venice Biennale, and his circle of Chinese conceptual artists who not only did not follow the state-approved program of glorifying everyday themes in a traditional, representational, propagandistic manner, but whose message could not have been more blunt: "We had to say something as individual artists" Ai said, "and what we said was 'F**k off'."</p>
+        </subsection>
+        <subsection title="Current work">
+          <p type="img" alt="Ai Weiwei at Documenta 12, in 2007, where he presented his “social sculpture” titled Fairytale." show="1">/images20/photo/photo_ai_weiwei_1.jpg</p>
+          <p type="p">Ai has always been a political activist. Since 1999, however, his visibility in the public eye, both in the West and in China, has been seen as an active threat by Chinese government officials. Drastic efforts on the part of the government to limit his communication with broad audiences has, somewhat paradoxically, motivated him toward a number of ambitious projects designed to address directly politically sensitive themes in China, such as the internet (subject to government regulations that limit access to many websites, including Google, that many in the world otherwise take for granted). In 2005, he began to express himself via a blog, which he was invited to start by the Chinese internet firm Sina. In 2009 the Chinese government shut down the blog, which at the time was getting 100,000 views a day. Ai began posting on social media site Twitter, gaining worldwide exposure and an online presence that supported his personal conviction that artists need to remain in touch with their public: "as an artist, you have an obligation to let people know what is on your mind and why you are doing this."</p>
+          <p type="p">One of Ai's most famous projects, popularly known as the &lt;i&gt;Bird's Nest&lt;/i&gt;, was his design for the 2008 Beijing Olympics stadium. In designing the structure, completed in collaboration with Swiss architects Herzog &amp; de Meuron, Ai expressed his hope that it would instill "a sense of equity and fairness." In the international press, he openly criticized the Chinese government, citing concerns that hosting the Olympics would only increase its abuse of power.</p>
+          <p type="p">This project brought the artist greater international fame and a steep deterioration in his relationship with Chinese authorities. Ai had emerged as something of a problem child. On the other hand, he was by far the most famous Chinese artist, accepted and critically acclaimed in the West. The government's ongoing attempts to have positive relations with the West, despite some growing strains remain critical to China's goals for growth and national success.</p>
+          <p type="p">In a series of impassioned Twitter posts after the Sichuan earthquake of May 2008, he expressed his anger at the death of thousands of schoolchildren due to the shoddy construction of school buildings in the area, evidence of governmental corruption. Hoping to sweep this national embarrassment under the rug, government officials failed to release the numbers (over 5,000 deaths, according to the most recent estimate), and Ai started an independent investigation, bringing the facts and evidence to light. This investigation was interrupted in 2008 when police broke into his hotel room in Chengdu, and beat him so badly that he was hospitalized with a cerebral haemorrhage.</p>
+          <p type="img" alt="Ai Weiwei with film producer Noam Shalev who worked on a documentary about the artist." show="1">/images20/photo/photo_ai_weiwei_2.jpg</p>
+          <p type="p">Since then, the Chinese government has taken further measures to limit Ai's freedom of movement and communication, both in and outside the country. In 2010 he was put under house arrest for several weeks; in 2011 he was banned from using Twitter, and his home was installed with government surveillance cameras. In 2011 he was arrested at Beijing International Airport and detained without formal charges (the official reason was financial crimes). As all this was occurring, the Western art world watched in horror and mobilized in his defense with the help of international human rights groups. After 81 days, Ai was released and fined over 12 million yuan (US$1.85 million). Chinese and international sympathisers raised the funds to repay what the government claimed it was owed. In July of 2015 he was finally provided with an international passport. While his international reputation did not ultimately shield him from harsh punishment, what led to his eventual release was a global awareness of his situation and increasing diplomatic pressure from democratic countries. He has since relocated to Berlin and held exhibitions in Helsinki, Paris, and other Western cities.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Ai's impact on the West is arguably greater than it is in China, where he remains a controversial figure. In the U.S. and Europe he is almost universally revered, both as an artist and political activist, and has led the way to a more nuanced awareness of Chinese contemporary culture in the international community.</p>
+          <p type="p">Some of his most recent works are simple actions designed to call attention to the humanitarian crises. In a 2015 striking performance piece, he posed as the lifeless toddler who washed ashore in Turkey. When a Syrian refugee in a Greek camp mentioned missing her piano, he had one brought to her and videotaped her performance. On an increasingly global scale, Ai's humanitarian efforts focus on those who live in poverty and oppression, and who might not otherwise have a voice.</p>
+          <p type="p">He is an inspirational figure for many people both in the West and in China, and both in and outside the art world. Ai's struggle for freedom of speech and expression sheds light on specific issues that are important in their own right. More broadly, it reminds us of the power of visual art to move us as individuals, and sometimes entire nations, to action. Ai's work underscores the idea that art may have the power, and even the responsibility, to change society.</p>
+          <p type="p">Members of the general public and the wider art community continue to support him. His often enigmatic messages on Instagram and Twitter have moved his "followers" to participate in the creative process by responding in an array of on-line expressions of artistic and political solidarity that are in turn indebted to his approach to art as social practice. In October 2015, for example, when Lego refused Ai a large shipment of blocks (on the grounds that it doesn't endorse political art), hundreds of Ai's followers sent their own Legos to the artist, via mail and official collection points. The entire event was organized through social media.</p>
+          <p type="p">Numerous artists working across a range of media, in China and beyond, have been moved by Ai's expressive conceptualism and fearless activism. These include artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rui_huang"&gt;Huang Rui&lt;/span&gt;, whose works include provocative performances based on China's relationship with the West. Xu Qu's political conceptual installations are directly inspired by Ai's. As a high-profile, controversial figure (as well as a stark example of how dangerous political activism can be) it is also entirely possible that Ai's activism has put a negative spin on political art for a growing group of young Chinese artists who have retreated from contemporary politics, claiming that they know a different (better) China from that experienced by Ai, and that political art belongs to an older generation. 	</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="warhol_andy">Mao (1973)</artwork>
+    <artwork from="artist" page="duchamp_marcel">Fountain (1917)</artwork>
+    <artwork from="artist" page="serra_richard">One Ton Prop (House of Cards) (1969)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Dropping a Han Dynasty Urn</title>
+      <year>1995</year>
+      <materials />
+      <desc>&lt;i&gt;Dropping a Han Dynasty Urn&lt;/i&gt;, an early work by the artist, demonstrates his show-stopping conceptual brilliance, and desire to provoke controversy. Outside his mother's home in Beijing, he dropped and smashed a 2000-year old ceremonial urn. Not only did the artifact have considerable value (the artist paid the equivalent of several thousand US dollars for it), but symbolic and cultural worth. The Han dynasty is considered a defining moment in Chinese civilization. Understandably, antique dealers were outraged, calling Ai's work an act of desecration. Ai countered by saying "General Mao used to tell us that we can only build a new world if we destroy the old one." It was a provocative act of cultural destruction in reference to the erasure of cultural memory in Communist China, an anti-elite society that carefully monitored access to information, especially about its dynastic history. In its literal iconoclasm and spotlight on hypocrisy, this smashed vase embodies the central message Ai would continue to explore</desc>
+      <collection />
+    </artwork>
+    <artwork>
+      <title>Study of Perspective Tiananmen Square</title>
+      <year>1995</year>
+      <materials>Gelatin Silver Print</materials>
+      <desc> In what first appears to be a classic tourist snapshot, Ai sticks his middle finger up at Tiananmen Square Gate. Also known as the "Gate of Heavenly Peace", and formerly the front entrance to the Forbidden City, this was also the site of the brutal massacre in 1989 in which state soldiers shot peaceful protesters. The Beijiing government still refuses to discuss it, and censors all footage of the event.
+				&lt;br/&gt;&lt;br/&gt;
+			&lt;i&gt;Study of Perspective Tiananmen Square&lt;/i&gt; was part of a series begun in 1995 and completed in 2003. The Eiffel Tower in Paris, The Reichstag in Berlin and the White House in Washington D.C. all get the same treatment in these parodies of Renaissance perspective. The central rule that objects closer to the eye must appear larger is being used to showcase an offensive gesture expressing Ai's basic disdain for state power, which is by no means limited to China. When Ai was arrested and interrogated by the Chinese police in 2011, his interviewers limited their questions, however, to this particular photograph, demanding an explanation. Ai stated that he had meant to target "Feudalism", explaining that the gate had been built by a Ming Emperor. While Ai's interrogators could not acknowledge it, they were no doubt aware of another layer of visual symbolism. In its resemblance to "tank man", an unidentified protestor photographed in 1989 facing a line of tanks, Ai's finger, standing alone against symbols of state power at the center of this image, is a provocative stand in for a figure strictly banned in the Chinese media, and therefore truly and brilliantly provocative.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>Ton of Tea</title>
+      <year>2008</year>
+      <materials>Tea leaves</materials>
+      <desc>This work compresses a ton of traditional pu'er tea leaves into the space of one cubic meter. Aesthetically, it recalls the glass and steel cubes of Minimalism. Donald Judd and Robert Morris were among the artists Ai admired. At the same time, it is made out of tea (one smells its pungent odor from afar) setting it apart from anything a Minimalist would make. Much tea in China is still produced in compressed cubes, so this is also an enlarged form of an everyday domestic item. While in the West, drinking tea (especially from Chinese porcelain) has historically been a status symbol, tea is the everyday drink in China. The brand here is one of the most common. In a much less dramatic way than &lt;i&gt;Dropping a Han Dynasty Urn&lt;/i&gt;, Ai's act of making tea into Minimalist sculpture calls attention to divisions between past and present. Ai's awareness of Western trends and Eastern ideas locates the work at the center of a global matrix crisscrossing the world, a persistent feature of his approach as an artist.</desc>
+      <collection>Ai Wei Wei studio</collection>
+    </artwork>
+    <artwork>
+      <title>Straight</title>
+      <year>2008-12</year>
+      <materials>Steel reinforcing bars</materials>
+      <desc>
+				Both a stylized representation of an earthquake and an image of its effects, &lt;i&gt;Straight&lt;/i&gt; is a statement about a specific instance of governmental corruption and negligence. The province of Sichuan suffered massive casualties in an earthquake of 2008, leaving 90,000 dead or missing. Over 5,000 were children killed when poorly constructed schools collapsed on top of them. Ai, a self-taught architect, was outraged to discover that this could have been avoided. Both a memorial and a call to action, &lt;i&gt;Straight&lt;/i&gt; is part of the artist's broader effort to hold the Chinese government responsible and urge it to take preventative steps to avoid future disaster. It took him four years to complete this monumental floor sculpture --almost 40 feet long and 20 feet wide - weighing 200 tons. To construct it, he collected the bent and broken steel reinforcement bars that were part of the badly built schools. He commissioned metal workers to straighten and mend them until they looked as they would have before the earthquake. He arranged the bars in waves that resemble the oscillations in an earthquake on a seismograph. The fissures between them resemble fault lines. The thousands of individual components reference the individual lives lost, a typical feature of Ai's symbolism. 
+				&lt;br/&gt;&lt;br/&gt;
+				The Chinese government did not appreciate the attention the artist drew to this national embarrassment and this marked the beginning of an especially turbulent period in Ai's adversarial relationship with Chinese authorities.
+			</desc>
+      <collection>The Royal Academy of Arts, London</collection>
+    </artwork>
+    <artwork>
+      <title>Sunflower Seeds</title>
+      <year>2010</year>
+      <materials>Porcelain</materials>
+      <desc>
+				In 2010 Ai filled the enormous Turbine Hall of London's Tate Modern with exactly 100,000,000 porcelain sunflower seeds, each made by a craftsman from the Chinese city of Jingdezhen. Hundreds of individuals had therefore been hired to produce by hand what appeared to have grown from nature. Booths on either side of the exhibition allowed viewers to appear on video and pose questions for Ai, to which he responded on the Tate website. 
+				&lt;br/&gt;&lt;br/&gt;
+				While the meaning of this work remains an open question, the label "Made In China" will never look quite the same after experiencing this exhibit. It evokes complex associations, connected to Chinese history and culture. Like &lt;i&gt;Ton of Tea&lt;/i&gt;, it is made from a substance (porcelain) made for export that has long sustained the Chinese economy. Questions about how it was made led the audience to greater understanding of contemporary mass-manufacturing practices in China. Much is still made by hand in an economy where machines are expensive and labor (and human life in general) is cheap. The artwork, therefore, was a clever pretext for calling attention to a politically sensitive issue.
+				&lt;br/&gt;&lt;br/&gt;
+				The sunflower is an important Chinese communist symbol. Chairman Mao compared himself to the sun and his people to sunflowers. In Beijing, sunflower seeds are sold by urban street vendors. For Ai, a Beijing native, they evoked happy memories of wandering the city with friends. By 2010, however, due to a series of fines, arrests, and brutal beatings, he was essentially a prisoner in his own city. In this light, his seeds, cast on the ground, evoke an oppressed, downtrodden society, far from the ideal that Mao described.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Surveillance Camera</title>
+      <year>2010</year>
+      <materials>Marble</materials>
+      <desc>
+				In 2010 the Beijing police installed security cameras in his home and studio. These track him from room to room, and even outside. They also closely monitor his posts on Twitter and Instagram, as the artist put it: "In China, I am constantly under surveillance. Even my slightest, most innocuous move can - and often is - censored by Chinese authorities." The artist, in turn, tracks the surveillance cameras, vans, and plain-clothes police officers that monitor his gates. 
+				&lt;br/&gt;&lt;br/&gt;
+				&lt;i&gt;Surveillance Camera&lt;/i&gt;, an austere and quite beautiful marble sculpture, reminds us that the artist is watching those who watch him. Like tea or porcelain, his choice of medium has significance. A surveillance camera in marble (literally, set in stone) reminds us of the omnipresence of this feature in Ai's life, as well as its role as a stand in for an authority, like the statue of a Roman emperor. Set on a plinth at eye level, the resemblance of the shape to a head and shoulders is a visual twist characteristic of Ai's broader sense of humor about the absurdity of his situation. In 2012, he set up "Weiwei Cam", broadcasting a live feed and invited his followers to view him at work and going about his business, mimicking the intrusion of Chinese officials into his private life, but here the viewers watch him at his invitation. Authorities quickly shut it down (within two days), but it remains a testament to Ai's persistent wit, and unwavering commitment to holding his government publicly responsible for its intrusions into the lives of its citizens. 
+			</desc>
+      <collection>The Royal Academy of Arts, London</collection>
+    </artwork>
+    <artwork>
+      <title>He Xei</title>
+      <year>2011</year>
+      <materials>Porcelain</materials>
+      <desc>
+				"He Xei" means "river crab." In a complex system of homophones designed to evade government detection, it also means "censorship." Thirdly, it sounds like the term for "harmonious," and a well-known Chinese Communist Party slogan prizes the "realization of a harmonious society" - this is often the reason given for limiting access to information.
+				&lt;br/&gt;&lt;br/&gt;
+				In a clever play on words, this society of crabs/censorship is far from harmonious. Cast in black and red (the colors of the Chinese Communist Party) these hard-shelled creatures trample each other. The few that escape the pile seem especially vulnerable. In 2014 a visitor accidentally stepped on one and crushed it, an unintended metaphor for the consequences of resistance. 
+				&lt;br/&gt;&lt;br/&gt;
+				Like his &lt;i&gt;Sunflower Seeds&lt;/i&gt;, this pile of 3000 individually-crafted porcelain crabs is a societal metaphor and a scathing indictment of the ruling party. There is also an autobiographical dimension to the work. A year earlier (2010) Ai was informed that his newly built studio would be torn down (authorities claimed he had not had the right permit). In response, Ai publicly announced he was holding a feast in celebration of the destruction of his studio. He invited 800 people and ordered 10,000 crabs. Officials, who understood but who did not appreciate the gesture, placed the artist under house arrest. While unable to attend the event, he was still able to broadcast it internationally and in near-real time. A scathing metaphor for the absurdity and brutality of a system that oppresses its citizens, this work highlights the theme of resistance in Ai's art. 
+			</desc>
+      <collection>The Royal Academy of Arts, London</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>warhol_andy</entity>
+        <entity>koons_jeff</entity>
+        <entity>serra_richard</entity>
+        <entity>johns_jasper</entity>
+      </column>
+      <column>
+        <entity>ginsberg_allen</entity>
+        <entity>xu_bing</entity>
+      </column>
+      <column>
+        <entity>surrealism</entity>
+        <entity>minimalism</entity>
+        <entity>pop_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>rui_huang</entity>
+      </column>
+      <column>
+        <entity>kapoor_anish</entity>
+        <entity>xu_bing</entity>
+      </column>
+      <column>
+        <entity>conceptual_art</entity>
+        <entity>installation_art</entity>
+        <entity alt="Political Art">political_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="not_to_show" class="" />
+      <subcategory name="biography" class="biography">
+        <entry>
+          <title>Ai Weiwei</title>
+          <link>1910350168</link>
+          <info>By Tim Marlow</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei </title>
+          <link>3836581957</link>
+          <info>By Hans Werner Holzwarth</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei</title>
+          <link>1614281912</link>
+          <info>By Cristina Carrillo de Albornoz Fisac</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei Speaks</title>
+          <link>0141983914</link>
+          <info>By Hans Ulrich Obrist</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Ai Weiwei's blog: Writings, interviews and digital rants, 2006-2009</title>
+          <link>0262015218</link>
+          <info>By Ai Weiwei</info>
+        </entry>
+        <entry>
+          <title>Weiwei-isms</title>
+          <link>0691157669</link>
+          <info>By Ai Weiwei</info>
+        </entry>
+        <entry recommended="true">
+          <title>1000 Years of Joys and Sorrows: A Memoir</title>
+          <link>0553419463</link>
+          <info>By Ai Weiwei</info>
+        </entry>
+        <entry recommended="true">
+          <title>Conversations</title>
+          <link>0231197381</link>
+          <info>By Ai Weiwei</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry>
+          <title>Ai Weiwei: According to What?</title>
+          <link>3791352407</link>
+          <info>By Kerry Brougher, Mami Kataoka and Charles Merewether</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Spatial Matters - Art Architecture and Activism</title>
+          <link>0262525747</link>
+          <info>by Mr. Ai, Anthony Pins and An Xiao Mina</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei: On the Table</title>
+          <link>8415691963</link>
+          <info>By Rosa Pera</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei: Yours Truly: Art, Human Rights, and the Power of Writing a Letter</title>
+          <link>1452159297</link>
+          <info>By David Spalding</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei: Good Fences Make Good Neighbors</title>
+          <link>0300243790</link>
+          <info>By Nicholas Baume</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Bare Life</title>
+          <link>0936316462</link>
+          <info>By Sabine Eckman</info>
+        </entry>
+        <entry>
+          <title>The Political Space of Art: The Dardenne Brothers, Arundhati Roy, Ai Weiwei and Burial</title>
+          <link>178348568X</link>
+          <info>By Benoît Dillet and Tara Puri </info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Beijing, Venice, London, Herzog &amp; de Meuron</title>
+          <link>1900829282</link>
+          <info>By Charles Merewether</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei: Circle of Animals</title>
+          <link>3791346369</link>
+          <info>By Susan Delson</info>
+        </entry>
+        <entry>
+          <title>At Large: Ai Weiwei on Alcatraz</title>
+          <link>1452142769</link>
+          <info>By David Spalding</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Ai Weiwei's Twitter account</title>
+          <link>https://twitter.com/aiww</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei's official website</title>
+          <link>http://aiweiwei.com/</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Free Ai Weiwei</title>
+          <link>http://freeaiweiwei.org/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Ai Weiwei: Exhibition in Focus</title>
+          <link>https://royal-academy-production-asset.s3.amazonaws.com/uploads/00adeea4-2828-421c-9c9e-1a935b01ca0b/AWeiwei_final_lowres.pdf</link>
+          <info>
+						By Dr Alison Bracker
+						&lt;br&gt;
+						Royal Academy of the Arts 
+						&lt;br&gt;
+						September 2015
+					</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei on his favorite artists, living in New York and why the government is afraid of him</title>
+          <link>http://www.smithsonianmag.com/arts-culture/ai-weiwei-on-his-favorite-artists-living-in-new-york-and-why-the-government-is-afraid-of-him-30139964/?no-ist</link>
+          <info>
+						By Christina Larson
+						&lt;br&gt;
+						Smithsonian Magazine 
+						&lt;br&gt;
+						August 21, 2012
+					</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei review: momentous and moving</title>
+          <link>http://www.theguardian.com/artanddesign/2015/sep/14/ai-weiwei-royal-academy-review-momentous-and-moving</link>
+          <info>
+						By Adrian Searle
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						September 14, 2015
+					</info>
+        </entry>
+        <entry>
+          <title>It's not beautiful: an artist takes on the system</title>
+          <link>http://www.newyorker.com/magazine/2010/05/24/its-not-beautiful</link>
+          <info>
+						By Evan Osnos
+						&lt;br&gt;
+						The New Yorker 
+						&lt;br&gt;
+						May 24, 2010
+					</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Wonderful dissident, terrible artist</title>
+          <link>https://newrepublic.com/article/112218/ai-wei-wei-wonderful-dissident-terrible-artist</link>
+          <info>
+						By Jed Perl
+						&lt;br&gt;
+						New Republic 
+						&lt;br&gt;
+						February 1, 2013
+					</info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei swamped by Lego donation offers after ban on use for "political" artwork</title>
+          <link>http://www.theguardian.com/artanddesign/2015/oct/25/ai-weiwei-swamped-by-lego-donation-offers-after-ban-on-use-for-political-artwork</link>
+          <info>
+						By Fergus Ryan
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 25, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Beyond Ai Weiwei: How China's artists handle politics (or avoid them)</title>
+          <link>http://www.newyorker.com/news/news-desk/ai-weiwei-problem-political-art-china</link>
+          <info>
+						By Christopher Beam
+						&lt;br&gt;
+						March 27, 2015 
+						&lt;br&gt;
+						The New Yorker
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>China’s Last Communist: Ai Weiwei</title>
+          <link>http://faculty.winthrop.edu/stockk/ai%20wei%20wei%20communism.pdf</link>
+          <info>
+			By Christian Sorace
+			&lt;br/&gt;
+			Critical Inquiry
+			&lt;br/&gt;
+			Winter 2014
+		  </info>
+        </entry>
+        <entry recommended="true">
+          <title>Is Ai Weiwei China’s Most Dangerous Man?</title>
+          <link>https://www.smithsonianmag.com/arts-culture/is-ai-weiwei-chinas-most-dangerous-man-17989316/</link>
+          <info>
+			By Mark Stevens
+			&lt;br/&gt;
+			Smithsonian Magazine
+			&lt;br/&gt;
+			September 2012
+		  </info>
+        </entry>
+        <entry>
+          <title>At Home with Ai Weiwei</title>
+          <link>https://www.wallpaper.com/art/at-home-with-artist-ai-weiwei</link>
+          <info>
+			By Harriet Lloyd Smith
+			&lt;br/&gt;
+			Wallpaper
+			&lt;br/&gt;
+			June 7, 2021
+		  </info>
+        </entry>
+        <entry>
+          <title>Ai Weiwei Interview</title>
+          <link>http://www.telegraph.co.uk/art/artists/inside-ai-weiweis-berlin-bunker/</link>
+          <info>
+			The Telegraph 
+			&lt;br&gt;
+			September 5, 2015
+		  </info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>BBC: Ai Weiwei - Without fear or favor</title>
+          <link>https://www.youtube.com/watch?v=gcRodOfu_s8</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>An evening with Ai Weiwei</title>
+          <link>https://www.youtube.com/watch?v=Vpg2uvl1Rpc</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Never Sorry documentary</title>
+          <link>http://www.amazon.com/Ai-Weiwei-Never-Sorry/dp/B00AJUGDTS</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei in Conversation with Virginia Trioli - National Gallery of Victoria Melbourne</title>
+          <link>https://www.youtube.com/watch?v=vT_IrJzyJRs</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>The Case for Ai Weiwei - The Art Assignment (PBS Digital Studios)</title>
+          <link>https://www.youtube.com/watch?v=YMtsodcAsVU</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Artist and Human Rights Champion - Bloomberg Markets and Finance</title>
+          <link>https://www.youtube.com/watch?v=H8QAjQ1GS2U</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ai Weiwei: Sunflower Seeds - Tate</title>
+          <link>https://www.youtube.com/watch?v=PueYywpkJW8</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei on China in 2020 - VPRO Documentary</title>
+          <link>https://www.youtube.com/watch?v=QmYS94zi9M0</link>
+          <info />
+        </entry>
+        <entry recommended="true">
+          <title>Ai Weiwei Drifting: Art, Awareness and the Refugee Crisis - DW Documentary</title>
+          <link>https://www.youtube.com/watch?v=9MkcTI00_uw</link>
+          <info />
+        </entry>
+        <entry>
+          <title>A Conversation with Ai Weiwei - Skirball Cultural Center</title>
+          <link>https://www.youtube.com/watch?v=XgNTWESZufY</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ai Weiwei - Dumbass - music video made by Ai to replicate his experiences in prison</title>
+          <link>https://www.youtube.com/watch?v=4ACj86DKfWs</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Ai Weiwei does Gangnam Style</title>
+          <link>https://www.youtube.com/watch?v=n281GWfT1E8</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+      <subcategory name="in pop culture" class="in-pop" />
+    </category>
+  </sidebar>
+</data>

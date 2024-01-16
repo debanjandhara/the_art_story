@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>memento_mori_vanitas</id>
+    <name>Memento Mori and Vanitas</name>
+    <type>definition</type>
+    <active_section>ideas</active_section>
+    <description>Memento Mori art works often remind the viewer of their own mortality, and Vanitas still-life works contain symbols of death.</description>
+    <use_big_images>true</use_big_images>
+    <start/>
+    <big_bio_box_img>Detail from Johann Andreas Graff, &lt;i&gt;Vanitas&lt;/i&gt; (c. 1680-90)</big_bio_box_img>
+    <bio_highlight>The Stoic philosopher Marcus Aurelius wrote: "Remember how precious is the privilege of living, breathing, being happy. The perfection of our conduct consists in using each day we live as if it were our last, and in never having impatience, languor, or falseness. We must feed the soul with the wisdom that comes from accepting death".</bio_highlight>
+    <pub_time>12/29/2023</pub_time>
+  </main>
+  <similar_movements>
+    <movement>dutch_golden_age</movement>
+    <movement>northern_renaissance</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>holbein_hans_the_younger</artist>
+    <artist>bocklin_arnold</artist>
+    <artist>flack_audrey</artist>
+    <artist>hirst_damien</artist>
+  </similar_artists>
+  <do_not_miss>
+    <entry>dutch_golden_age</entry>
+    <entry>northern_renaissance</entry>
+  </do_not_miss>
+  <quotes>
+    <q author="Barbara Boehm">"At the end of the day, we can all run marathons and eat kale until the cows come home, but let's not kid ourselves - none of us is getting out of here alive."</q>
+    <q author="Hippocrates">"Ars longa, vita brevis." ("Art is long, life is short.")</q>
+    <q author="Johann Wolfgang van Goethe">"It is quite impossible for a thinking being to imagine nonbeing, a cessation of thought and life. In this sense, everyone carries the proof of his own immortality within himself."</q>
+    <q author="Andy Warhol">"I don't believe in [death] because you're not around to know that it's happened. I can't say anything about it because I'm not prepared for it."</q>
+    <q author="Damien Hirst">"Every artwork that has ever interested me has been about death."</q>
+    <q author="Sustan Sontag">"If a free human being can afford to think of nothing less than death, then these memento mori can exorcise morbidity as effectively as they evoke its sweet poetry and its panic."</q>
+    <q author="Sustan Sontag">"All photographs are memento mori. To take a photograph is to participate in another person's (or thing's) mortality, vulnerability, mutability. Precisely by slicing out this moment and freezing it, all photographs testify to time's relentless melt."</q>
+    <q author="Nick Knight">"The closer you get to death, the more you feel alive."</q>
+    <q author="José Guadalupe Posada">"Todos somos calaveras." ("We are all skeletons.")</q>
+  </quotes>
+  <authors>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <editors>
+    <editor link="todd">Antony Todd</editor>
+  </editors>
+  <article>
+    <synopsys>The idea of the "Memento Mori" - a Latin phrase meaning "remember that you must die" - is a fertile theme in art than can be traced back to the Ancient Egyptians. But as a defined genre its beginning is connected specifically with the period of Roman Antiquity (hence the Latin title). Although the purpose of Memento Mori is always to remind the viewer of their own mortality, it is not necessarily presented as an ominous warning. Rather, viewers have been either encouraged to consider each day as a gift to be prized, or, artfully reminded that any chance of a blissful heavenly afterlife is contingent on how one conducts themself while here on earth. The theme of Memento Mori has grown into sub-genres, most notably the "Danse Macabre" and "Vanitas" tendencies. Contemporary artists, who have been much less exposed to death to those of earlier eras, work within the range of time-honored symbolic motifs - skeletons, skulls, flowers, fruit, candles, clocks, hourglasses, and so on - but artists in the modern age tend to treat the Memento Mori theme in a more self-conscious or playful way.</synopsys>
+    <key_ideas>
+      <idea>While the Stoic philosophers promoted the idea that the inevitability of death should act as a reminder to "seize the day", and to live one's life in the present, in early Christianity the Memento Mori acted rather as a reminder that with death comes the possibility of one's soul ascending to heaven. The role of Memento Mori was thus to bring ideas about heaven, hell, and salvation of the soul to the forefront of the worshippers' consciousness. This was achieved through a combination of scripture, and funerary art, such as mosaics and sculpture, which worshippers encountered on display in churches, graveyards, and ossuaries.</idea>
+      <idea>Vanitas images are associated initially with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dutch_golden_age"&gt;Dutch Golden Age&lt;/span&gt; and its great tradition of still life painting. They are closely related to Memento Mori in that their aim was to remind viewers of their own mortality. But Vanitas went further by condemning the "empty and vain" pursuit of material wealth during one's life on earth. Vanitas images - featuring iconography that symbolized the transience of time/life such as wilting flowers, hourglasses, skulls, candles, watches, and decaying fruit - were thus a means of encouraging viewers to resist the lure of luxurious possessions, to accept their fate, and to devote their day-to-day existence to leading a pure and humble life.</idea>
+      <idea>The ghoulish tradition of the "Danse Macabre" ("dance of death") was a direct response to the devastating effects of the plagues and wars that blighted the Late Middle Ages. The Danse Macabre was represented in the visual art, drama, poetry, and music, and presented death as a dance that joined the living and the dead (typically represented a skeletons). The dances, which cojoined figures from all walks of human life - royals to peasants - were not represented as joyful events (although they were hugely popular with audiences) but rather a reminder to all that death was the "great leveller".</idea>
+      <idea>The 19&lt;sup&gt;th&lt;/sup&gt; Century saw the birth of photography; a medium well suited to expanding the long tradition of still-life Vanitas compositions. But the birth of the Daguerreotype (and, soon after, less expensive systems) gave rise to a positively macabre photographic genre: the "post-mortem portrait". For many living through the disease-ravaged Victorian era, the new technology presented an opportunity to capture a permanent (and very often - the only) image of a deceased loved one. An uncanny peculiarity of the post-mortem portrait was that an exact likeness of the deceased "sitter" was in fact easier to capture on film than to photograph living relatives who found it hard to sit or stand motionless for the duration of long exposure times.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Beginnings">
+        <subsection title="Memento Mori in the Age of Antiquity">
+          <p type="img" alt="A Roman mosaic, circa 1st Century AD. The Greek inscription reads 'Know thyself', meaning know that you are mortal." show="1">/images20/photo/photo_memento_mori_vanitas_1.jpg</p>
+          <p type="p">The custom of acknowledging the certainty of death dates back to the Ancient Egyptian civilization. In his essay, "That to Study Philosophy is to learn to Die" (1580), for instance, the French Renaissance philosopher Michel de Montaigne wrote about the Egyptian ritual at which a death feast was concluded with the raising of a skeleton to the chant of, "Drink and be merry, for such shalt thou be when thou are dead". However, the idea of "Memento Mori" - Latin for "remember you must die" - is generally agreed to have originated with the school of Stoicism, a Hellenistic philosophy that flourished in Ancient Greece and Rome. Stoicism proposed to treat each day as a gift and not to waste time on trifling and vain matters. Epictetus, the Greek Stoic philosopher exiled in Rome, told his students that to fear death was tantamount to cowardice, "discipline yourself against such fear", he warned, "direct all your thinking, exercises, and reading this way - and you will know the only path to human freedom". The Roman Stoic philosopher Seneca also advised, "let us compose our thoughts as if we've reached the end. Let us postpone nothing. Let's settle our accounts with life every day".</p>
+          <p type="p">Epictetus would illustrate his argument with the telling of a fabled story of Roman military heroism. Following a key military victory, a group of jubilant military generals organized a day-long street parade. The military general, idolized by his own men and the cheering public, led the parade in a chariot drawn by four horses. However, also riding in the chariot, was a slave. His sole responsibility was to remind the general of his mortality by continuously whispering in the general's ear: "Respice post te. Hominem te esse memento. Memento mori!" ("Look behind. Remember thou art mortal. Remember you must die!"). Epictetus impressed on his students that they too should remain humble, conscientious, and mindful of the passing of all earthly things. At the same time philosophers like Epictetus and Seneca were musing upon the nature of death, so too were visual artists. The preferred Memento Mori symbols of the ancient artists - such as skulls and skeletons, coffins, and hourglasses - would be passed down through the ages.</p>
+        </subsection>
+        <subsection title="Memento Mori and Christianity">
+          <p type="p">While the philosophy of Stoicism saw the inevitability of death as a reminder to seek growth and fulfillment in everyday life, in early Christianity Memento Mori took on a more cautionary tone. The fall of the Roman empire in the fifth century gave rise to a confused and disorderly period from which the Catholic Church emerged as the most powerful institutional body. Emperors and leaders soon learned that the best way to exert and retain power was through forming close allegiances with the Church (hence the widespread building of grand cathedrals and churches). Places of worship housed funerary art that compelled the faithful to reflect on God's gift of life (however fleeting that may be). In the Bible, Psalm 90, Moses prays to God (on behalf of himself and his followers) "to number our days that we may get a heart of wisdom"; Isaiah 40:7 states that "The grass withers, the flower fades when the breath of the LORD blows on it; surely the people are grass"; and Ecclesiasticus 7:40 reads "in all thy works be mindful of thy last end and thou wilt never sin". Believers were, then, left in no doubt that when they die they will face judgement at the gates of Heaven, and if they wished for a divine afterlife, they must take heed of these words and the associated artworks.</p>
+          <p type="img" alt="Between the 14&lt;sup&gt;th&lt;/sup&gt; and 16&lt;sup&gt;th&lt;/sup&gt; centuries, wealthy Europeans often commissioned cadaver tombs, reminding onlookers that their bodies too would one day perish like this." show="1">/images20/photo/photo_memento_mori_vanitas_2.jpg</p>
+          <p type="p">Author René Ostberg writes that "Memento mori was also used in Christianity as an artistic expression that was intended to inspire piety. In architecture, ossuaries, or 'bone churches,' lined with human bones functioned both as memento mori and places for storage if a cemetery became too crowded". Some notable ossuaries include the 15&lt;sup&gt;th&lt;/sup&gt;-century Sedlec Ossuary in the Czech Republic, and the 16&lt;sup&gt;th&lt;/sup&gt;-century Capela dos Ossos in Portugal, whose entrance features the warning "We bones, lying here bare, await yours". In the late Middle Ages (around the 1300s) cadaver tombs, or &lt;i&gt;transi&lt;/i&gt;, began to be created, which featured a sculpted representation of the deceased person's body, usually in the process of decomposing, atop the tomb. Theologian Christina Welch writes that the cadavers tombs "were a form of &lt;i&gt;memento mori&lt;/i&gt; sculpture reminding all who looked on them that death was inevitable and thus the afterlife should be at the centre of one's earthly thoughts and deeds".</p>
+        </subsection>
+        <subsection title="Danse Macabre">
+          <p type="img" alt="Detail from Danse Macabre fresco in the Holy Trinity Church, Hrastovlje, Slovenia (c. 1490). Works such as this harmonized with the teachings of holy scripture." show="1">/images20/photo/photo_memento_mori_vanitas_3.jpg</p>
+          <p type="p">The "Danse Macabre" ("dance of death") is a ghoulish tradition that emerged in Europe during the Late Middle Ages as a response to numerous diseases, disasters, and wars. The great famine (1314-22), the Black Death (that killed over 25 million Europeans between 1346-51), and the Hundreds' Years war (1337-1453) all contributed to a life expectancy at around 35-40 years of age. The Danse Macabre, which was represented in the visual art, drama, poetry, and music, typically denoted death as a circular dance joining the living and the dead. It did not discriminate between rich and poor; male and female, young and old, with death being understood by allcomers as the "great leveller". Danse Macabre carried a satirical element, too, in the way it mocked the perils of human vice. Indeed, the dances were not represented as a joyous occasion at all, but rather as a penance. In the past, dancing had been dismissed by Christians as an amoral pagan ritual, but this prejudice was now starting to dissolve with dancing allowed in churches or cemeteries during Christian festivals and ceremonies.</p>
+          <p type="p">Historian Marie-Madeleine Renauld writes "According to the journal of a Parisian bourgeois, a Danse Macabre was painted in 1424 in the Holy Innocents' Cemetery in Paris, making it the first known pictorial representation of the subject in Europe. The Holy Innocents' Cemetery was an important place located at the center of medieval Parisian life. Over the years, over 10 million bodies were buried or piled up in mass graves. In medieval tradition, it was not a quiet place but was actually quite lively. People could cut across and meet in cemeteries, buy food or goods from salesmen, or enjoy actors' performances there. Although a sacred place, the cemetery acted as a center for everyday life. Jehan of Orléans, the painter of Charles VI, King of France, and his brother Louis I, Duke of Orléans, supposedly painted the scene on an arcade wall bordering one of the cemetery's mass graves. Jehan portrayed delegates of the royal and religious powers, majestically dancing among skeletons and corpses". The Holy Innocents Cemetery was destroyed in 1669, but other Danse Macabre images from this period include Giacomo Borlone's &lt;i&gt;The Triumph of Death&lt;/i&gt; (1485) at the Disciplini Oratory in Clusone, Lombardy, Italy, and Michael Wolgemut's &lt;i&gt;The Dance of Death&lt;/i&gt; (1493) in his illustrated encyclopedia &lt;i&gt;The Nuremberg Chronicle&lt;/i&gt;. Many later artists also produced Danse Macabre imagery, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-holbein_hans_the_younger"&gt;Hans Holbein the Younger&lt;/span&gt; for his &lt;i&gt;Dance of Death&lt;/i&gt; woodcut illustration series (1523-25), and Jakob von Wyl's, &lt;i&gt;Dance of Death&lt;/i&gt; (1610-15), at the Ritterscher Palace, Lucerne, Switzerland.</p>
+        </subsection>
+        <subsection title="Vanitas in the Netherlands">
+          <p type="img" alt="Pieter Claesz, &lt;i&gt;Vanitas&lt;/i&gt; (c. 1630). Arts writer Fraser Hibbitt states, “the singular reason for viewing a Vanitas painting [was] to remember one's death”." show="1">/images20/photo/photo_memento_mori_vanitas_4.jpg</p>
+          <p type="p">The Protestant Reformation in the 16&lt;sup&gt;th&lt;/sup&gt; century effectively divided Christian Europe between Catholicism and Protestantism. The latter fostered a more individualistic approach to devotion (when compared with the grand ceremonial leanings of Catholicism). "Vanitas" emerged as a distinct protestant genre in the Netherlands at the same time the country was breaking away from Catholic Spanish rule. The idea that images could serve as aids to spiritual contemplation was at the root of Vanitas (Latin for emptiness or vanity), a sub-genre of the still life. Vanitas (the title is drawn from a passage in The Bible (Ecclesiastes 1:2; 12:8): "Vanity of vanities, all is vanity") were thus closely associated with the emergence of the Dutch Republic, and initially, with the municipality of Leiden (40 kms north of Amsterdam). As arts writer Fraser Hibbitt notes, "There are several motifs integral to Vanitas. The Dutch Master paintings emphasized different motifs depending on their geographical location as certain regions preferred different motifs [...] the city of Leiden preferred images of books, being a university town". Artists such as Harmen Steenwijck, David Bailly, and Pieter Claesz are today considered the genre's chief practitioners.</p>
+          <p type="p">Vanitas images are closely related to Memento Mori in that their aim was to remind viewers of their own mortality. But Vanitas went further by condemning the "empty and vain" accumulation of material wealth during one's life on earth. Vanitas images were conceived of as a means of encouraging viewers to turn away from the pursuit of luxurious possessions and focus their energies on accepting a humble, more pious, daily existence. Vanitas were highly detailed still lifes and associated with representing the reality of earthly things (rather than the dramatic Biblical vignettes preferred by Catholic worshippers). Hibbitt goes on, "Vanitas paintings differ from standard still-life paintings by the fact that they are symbolic. It is not to showcase objects, or as an aesthetic display of an artist's skill - though both traits show themselves in a Vanitas painting [...] Vanitas is a variety of the still-life form [...] The most common motifs are representations of wealth: gold, purses, and jewellery; representations of knowledge: books, spyglass, maps, and pens; representations of pleasure: food, wine cups, and fabrics. Lastly, representations of decay; skulls, flowers, candles, and hourglasses [...] It is not that it consists of these objects that makes it important but that the attention and focus of the painting are these objects alone".</p>
+        </subsection>
+        <subsection title="Vanitas in Spain">
+          <p type="p">The Spanish Vanitas was heavily influenced by the thematic and stylistic traits of the Dutch example (finely detailed still lifes that carried the message that all earthly riches are meaningless in the face of death). But they were produced at a time when the Spanish Golden Age was nearing its end, and the paintings reflected this decline too. The Spanish Golden Age was a period of prosperity and renewal in art and literature that lasted roughly between the late 15&lt;sup&gt;th&lt;/sup&gt; and the end of the Franco-Spanish War (1635-59) with the signing of the Treaty of the Pyrenees (between Spain and France). It also coincided with the demise of the devoutly Catholic Habsburg dynasty that had dominated Europe politically and militarily. The most notable difference between the Dutch and Spanish Vanitas is that, while both focused on still lifes, the latter would accommodate a living presence, such as devout religious figures (including angels, knights, and bishops) or even animate skeletons.</p>
+          <p type="img" alt="Antonio de Pereda, &lt;i&gt;Allegory of Transience&lt;/i&gt; (or &lt;i&gt;Allegory of Vanity&lt;/i&gt;) (c. 1634). Historian Anisia Iacob writes, “The addition of the figurative element in these paintings is a result of Catholicism being the officially accepted confession in Spain”." show="0">/images20/photo/photo_memento_mori_vanitas_5.jpg</p>
+          <p type="p">Historian Anisia Iacob writes "A very well-known work of this genre of vanitas still-life is that of Antonio de Pereda, entitled &lt;i&gt;Allegory of Transience&lt;/i&gt;, which depicts precisely the fall of the Spanish Habsburgs. In the painting, an angel holds in their hand a cameo portrait of Emperor Charles V, gesturing with the other hand to the globe nearby to express the once-great expansion of the Habsburg Empire, which, almost a century after the emperor's death, is divided and on the brink of ruin. Skulls surround the lavish armor and sophisticated weapons on the table to indicate that military endeavors are pointless. Even if one builds an empire of the great extent and influence as that of the Spanish emperors, it will be ruined one day and disappear eventually, as all earthly things do. As it can be seen, this still life is deeply rooted in the Spanish political situation of the time, expressing both a particular lesson and a more universal one. If an empire can't last, the lives and projects of individuals are even less likely to last".</p>
+        </subsection>
+        <subsection title="Memento Mori - Charms and Trinkets">
+          <p type="p">By the turn of the 15&lt;sup&gt;th&lt;/sup&gt;-16&lt;sup&gt;th&lt;/sup&gt; century, Memento Mori, rendered through ivory carvings and handheld pieces (what curator Stephen Perkinson calls, "miniature masterpieces"), were the height of fashion. Journalist Allyssia Alleyne (in conversation with Perkinson) writes that at a time of "relative social and political stability, ivory memento mori were part of a larger cultural moment that emphasized humility, reflection and moral obligation. Traveling preachers would deliver sermons on mortality to peasants in Paris cemeteries, the working class would buy prints on the theme [...] and the rich had their ivory carvings". Perkinson adds that they were "a response to the fact that people might (have been getting) distracted from their faith, from their moral duties. They might be distracted into obsessing over luxury goods and treasures instead of remembering the fragility of life".</p>
+          <p type="p">Although the use of mourning rings dates back to the 14&lt;sup&gt;th&lt;/sup&gt; century, the wearing of rings and lockets in memory of a passed loved one became popular during the 17&lt;sup&gt;th&lt;/sup&gt; century. London's vintage jewellery traders, &lt;i&gt;Berganza&lt;/i&gt;, writes, "Generally the name and dates of the loved one would be engraved on a ground of black enamel with some embellishments. These rings or brooches would have been expensive and the money was traditionally left in a will for the express purpose of having a piece of jewellery made. There was a massive surge in the amount of mourning rings being made in the 1660's as a direct result of the Black Death. The motifs remain constant throughout the centuries although the styles change. They would include, primarily, a skull and cross-bones, a skeleton, sometimes an hour-glass to remind people of the short span of life or even a spade in some cases, this was usually coupled with the legend 'Memento Mori'". Later still, during the 19&lt;sup&gt;th&lt;/sup&gt; century Regency and Victorian eras, Britain was witness to some of the highest infant mortality rates in history. This desperate situation gave rise to a macabre new fashion for so-called "post-mortem portraits" (the practice of photographing recently deceased loved ones as a way of memorializing them) and the mass production of Memento Mori rings but cast in cheaper materials such as enamel and hard, black vulcanized rubber. The rings would often feature a photograph of the deceased, and sometimes contain a lock of hair. Like post-mortem portraiture, the rings were soon seen as tasteless and had fallen out of fashion by the end of the century.</p>
+        </subsection>
+      </section>
+      <section title="Concepts and Styles">
+        <subsection title="Skulls and Skeletons">
+          <p type="img" alt="William Blake, &lt;i&gt;Skeleton of Urizen - A Small Book of Designs, object 13&lt;/i&gt; (1794). Blake's art was engaged the idea of “the body of God [and] human existence itself”." show="1">/images20/photo/photo_memento_mori_vanitas_6.jpg</p>
+          <p type="p">Memento Mori employed many metaphors to evoke the inevitability of death. The human skull and/or skeleton are physical fragments of a life once lived and rank therefore as the most ubiquitous and long-standing symbols of mortality. Examples are legion throughout the history of art: from the tabletop mosaics discovered at the ancient ruins of Pompeii, throughout the Vanitas traditions of the Netherlands and Spain, to the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romantic&lt;/span&gt; painters and poets such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-blake_william"&gt;William Blake&lt;/span&gt; (&lt;i&gt;Skeleton of Urizen&lt;/i&gt; (1794) for example). However, by the late 19&lt;sup&gt;th&lt;/sup&gt; century, skulls and skeleton bones have been treated with a more individual, less portentous, tone by some of the greatest &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;modern&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodern&lt;/span&gt; artists. Well known examples include: &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt; (&lt;i&gt;Skull of a Skeleton with Burning Cigarette&lt;/i&gt; (c. 1885-86)), &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt; (&lt;i&gt;Pyramid of Skulls&lt;/i&gt; (1901)), &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dali_salvador"&gt;Salvador Dalí&lt;/span&gt; (&lt;i&gt;Women Forming a Skull&lt;/i&gt; (1951)), &lt;span class="marked_text chart-tooltip-target-top tooltip_id-basquiat_jean_michel"&gt;Jean-Michel Basquiat&lt;/span&gt; (&lt;i&gt;Untitled (Scull/Skull)&lt;/i&gt; (1981)), and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-richter_gerhard"&gt;Gerhard Richter&lt;/span&gt; (&lt;i&gt;Schädel (Skull)&lt;/i&gt; (1988)).</p>
+          <p type="p">Others, such as, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-okeeffe_georgia"&gt;Georgia O'Keeffe&lt;/span&gt;, have turned their artistic attentions from human to animal skulls. With works such as, &lt;i&gt;Cow's Skull: Red, White, and Blue&lt;/i&gt; (1931), O'Keeffe drew upon the hundreds of cattle skulls she happened upon in the New Mexico desert to effectively reverse the symbolism associated historically with the human skull. She called her cow skulls "as beautiful as anything I know" and presented them as symbols, not of death, but rather as emblems of longevity and American strength and resilience during the years when the great depression and drought were threatening the very future of the nation. Perhaps the contemporary artist who became most consistently engaged with the image of the human skull (since 2001) was South African artist, Steven Gregory. His decorative art skulls (which often feature precast eyes) such as, &lt;i&gt;Beyond Suspicion&lt;/i&gt; (2007), are at once humorous and profound. Gregory said of his skulls that they force the viewer to confront the idea that "art only exists because death exists" while adding that he had "always felt bones were less morbid and more beautiful".</p>
+        </subsection>
+        <subsection title="Timepieces">
+          <p type="p">The theme of death is also addressed in more circuitous ways (than skeletons and skulls). Timepieces are a long-standing motif in Memento Mori art with hourglasses, pocket watches and clocks representing the passage of time. During the 16&lt;sup&gt;th&lt;/sup&gt; century, watches in particular were all but unattainable for the peasant classes. Watches, much like crowns and coins, becoming a symbol of wealth in Vanitas and were thus presented as reminders that there was no value attached to such items in the afterlife. So-called "Form Watches" also rose in popularity during the 16&lt;sup&gt;th&lt;/sup&gt; century. Form Watches were in fact handheld clocks shaped in the likeness of other things, including skulls and animals. Even Mary, Queen of Scots, gifted a Form Watch in the shape of a skull to her companion from chilhood (and future nun) Mary Seton. The watch also carried engravings of figures representing death and Adam and Eve, and served as reminder/warning to her friend of the inevitable "the fall of man".</p>
+          <p type="img" alt="&lt;i&gt;Untitled (Perfect Lovers)&lt;/i&gt; (1987-90 and 1991), Félix González-Torres's eulogy to his dead love." show="1">/images20/photo/photo_memento_mori_vanitas_7.jpg</p>
+          <p type="p">The symbol of the watch/clock has passed down through the ages and featured in the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-bacon_francis"&gt;Francis Bacon&lt;/span&gt;, a figurative artist who complained that people seemed to drop dead "around me like flies", and for whom mortality and death became a recurring theme. His, &lt;i&gt;Study for Self-Portrait&lt;/i&gt; (1971), was painted shortly after the suicide of his lover and partner, George Dyer. Bacon painted himself with a typically tortured expression, his twisted head resting on his hand, giving pictorial and symbolic prominence to his wristwatch. Commenting on &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gonzalez_torres_felix"&gt;Félix González-Torres's&lt;/span&gt;, &lt;i&gt;Untitled (Perfect Lovers)&lt;/i&gt;, meanwhile, historian Rhonda Riche writes, "This powerful piece, produced between 1987-1990 and 1991, consists of a pair of Seth Thomas clocks set to the same time and eventually fall out of sync. [...] González-Torres was a Cuban-born American process artist [Process art is when the creative process itself is the most significant element of the finished piece] who died at a tragically young age due to complications from AIDS. [...] &lt;i&gt;While Untitled (Perfect Lovers)&lt;/i&gt; deals with the subject of death, it could also be read as a tribute to love. After his partner, Ross Laycock, died in 1991, González-Torres revisited this work to help cope with the loss. More than a meditation on mortality, the clocks became a reflection on their relationship and the time they spent together. Recently critics have suggested that the work representing the continuation of life with the possibility of regeneration - life goes on as gallerists must conserve the piece (and replace the batteries)".</p>
+        </subsection>
+        <subsection title="Butterflies">
+          <p type="p">The butterfly, an insect whose lifespan typically last just a few weeks between spring and early summer, has come to symbolize the fragility of life and the eternal nature of a soul which lives on after death. They appear in the earliest Memento Mori mosaics and are a feature in Dutch Vanitas. Maria van Oosterwyck, for instance, was well known for her fondness for butterflies, and in particular, her love of Red Admirals (Vanessa atalanta), which are seen in her meticulously detailed still lifes. Perhaps her best known work, &lt;i&gt;Vanitas - Still Life&lt;/i&gt; (1668), features several symbolic objects common to Dutch Vanitas, not least a skull, an hourglass, and wilting flora. But through the placing of the astrological globe and the butterfly, van Oosterwyck draws her viewers' attention to the theme of the transcendence from earth to heaven. Indeed, her Red Admiral is symbolic of that journey, with the metamorphosis of the caterpillar into a cocoon, before emerging as a butterfly, embodying the story of the life, death, and resurrection of Jesus himself.</p>
+          <p type="img" alt="Yayoi Kusama, &lt;i&gt;Butterfly&lt;/i&gt; (1998). The beautiful flying insect is represented in art as a courier of the human soul." show="0">/images20/photo/photo_memento_mori_vanitas_8.jpg</p>
+          <p type="p">The symbolic potency of the butterfly is not restricted to Western art. During the 1980s and 1990s, the Japanese artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kusama_yayoi"&gt;Yayoi Kusama&lt;/span&gt; depicted butterflies in an array of colour and in simple monochromatic black and white. Her art, that embodies her strong spiritual beliefs while simultaneously honouring ancient Japanese tradition and culture, treats the butterfly as the carrier of mortal souls (as they depart the living realm). Each of Kusama's butterflies has of its own shape, colours, and patterns thereby representing the individuality of every human being. The art critic Matthew Wilson argues, meanwhile, that "Maybe the most famous contemporary practitioner to use butterflies in their art is &lt;span class="marked_text chart-tooltip-target-top tooltip_id-hirst_damien"&gt;Damien Hirst&lt;/span&gt;. Also aware of the traditional symbolism of butterflies, Hirst has been using them since the beginning of his career in the early 90s but his culminating works deployed butterflies on an epic scale. &lt;i&gt;I am Become Death, Shatterer of Worlds&lt;/i&gt; (2006) is a kaleidoscopic composition which used 2,700 real sets of butterfly wings. They strobe across a 5m-long canvas creating a cinematic and sublime spectacle. Death is disconcertingly electrified into a thing of great beauty".</p>
+        </subsection>
+      </section>
+      <section title="Later Developments">
+        <subsection title="Modern Art">
+          <p type="img" alt="Vincent Van Gogh, &lt;i&gt;Skull of a Skeleton with Burning Cigarette&lt;/i&gt; (c. 1885-86) was a blunt critique of the teachings of the Academy." show="1">/images20/photo/photo_memento_mori_vanitas_9.jpg</p>
+          <p type="p">Hibbitt notes that "Vanitas painting lost its commercial popularity by the end of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dutch_golden_age"&gt;Dutch Golden Age&lt;/span&gt; [c.1672]. The meaning behind Vanitas lost its potency with the spirit of the combative reformation losing its momentum. Vanitas subsisted during the seventeenth century to guide the mind to the contemplation of death and the vanities of living. Yet it was borne from a contradiction that the act of painting itself, creating a beautiful artifact, was vanity itself. Vanitas paintings became objects of earthly value, something it was trying to denounce". In the modern era, artists were apt to approach the theme of Memento Mori from a more personal and/or more analytical, angle. For example, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh's&lt;/span&gt;, Skull of a Skeleton with Burning Cigarette (1885), represented a break with his vividly colored &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionist&lt;/span&gt; paintings in favor of a satirical irony, grey and beige "smoking skeleton" that amounted to a critique of Belgium's Royal Academy of Fine Art where he became "bored to death" in classes devoted to documenting the human anatomy.</p>
+          <p type="p">In his crayon and ink still life lithograph, &lt;i&gt;Black Jug and Skull&lt;/i&gt; (1946), meanwhile, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; depicted a jug, a skull, and an open book on a table. As the Tate Museum describes, "the book traditionally alludes to excessive pride through learning and the wine jug to the transitoriness of worldly pleasures. The skull is a memento mori, a reminder of the inevitable approach of death. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Picasso&lt;/span&gt; was superstitious about death, kept a skull in his studio and had included human or animal skulls in his work as early as 1908 [&lt;i&gt;Composition with Skull&lt;/i&gt;]". Given its date, Picasso's &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubist&lt;/span&gt; Vanitas would also appear to reflect the enormity of the death and suffering during the Second World War. Moving into the second half of the 20&lt;sup&gt;th&lt;/sup&gt; century, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop&lt;/span&gt; artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol's&lt;/span&gt; images of skulls (such as &lt;i&gt;Skulls&lt;/i&gt; (1976)) sought to address (without moral judgement) the caprices of consumer and celebrity culture. Arts writer Sukayna Powell, comments, "For a man obsessed with replication, identity and eternal life through material beauty, the memento mori [was] both a challenge and a motivating force" for the artist.</p>
+        </subsection>
+        <subsection title="Mexican Art">
+          <p type="p">The concept of Memento Mori finds unique expression in Mexican art, literature, and cultural practices, particularly in relation to the national, &lt;i&gt;Día de los Muertos&lt;/i&gt; (or &lt;i&gt;Day of the Dead&lt;/i&gt;). On this day, (actually two days, November 1-2, when the souls of children are believed to return on the 1st, and adults on the 2nd), Mexicans visit the graves of deceased relatives, and/or gather in their homes or public spaces where they erect temporary altars (&lt;i&gt;ofrendas&lt;/i&gt;) to their ancestors. The altars feature photographs of the deceased, as well as skull sculptures (&lt;i&gt;calaveras&lt;/i&gt;) and orange marigold flowers (&lt;i&gt;cempazúchitl&lt;/i&gt;). Relatives place the favorite foods and drinks of the deceased on their graves/altars in the belief that the souls of the dead come back to commune with the living. Author Don Winslow remarks, "The Mexicans, they don't mind talking about death. [...] They don't try to keep it at arm's length. They're tight with death, intimate with it. They keep their dead close to them".</p>
+          <p type="img" alt="The &lt;i&gt;Calavera Catrina&lt;/i&gt;, a female skeleton figure dressed in fine European clothing, appears at the center of Diego Rivera's mural &lt;i&gt;Sueño de una Tarde Dominical en la Alameda Central&lt;/i&gt; (1947)." show="1">/images20/photo/photo_memento_mori_vanitas_10.jpg</p>
+          <p type="p">The custom of &lt;i&gt;Día de los Muertos&lt;/i&gt; carried over into Mexican art, most notably in the &lt;i&gt;Calavera Catrina&lt;/i&gt; figure who was first drawn around 1910-12 by Mexican illustrator and lithographer José Guadalupe Posada. Curator Susanna Brooks writes, "A wide-eyed lady skeleton donning a large, lace brimmed hat festooned with flowers and feathers flashes a broad toothy grin. The smiling dandified dame is [...] a corpse with a lively aristocratic air and fashionable dress to match. Oblivious to the current state of her demise, she clutches nonchalantly to her long lost human existence". Catrina crossed over into iconic Mexican works, such as muralist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rivera_diego"&gt;Diego Rivera's&lt;/span&gt;, &lt;i&gt;Sueño de una Tarde Dominical en la Alameda Central (Dream of a Sunday Afternoon along Central Alameda)&lt;/i&gt; (1947), while skeletal imagery featured in works by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kahlo_frida"&gt;Frida Kahlo&lt;/span&gt;, including &lt;i&gt;Girl With a Death Mask&lt;/i&gt; (1938), and &lt;i&gt;The Dream, The Bed&lt;/i&gt; (1940). As well as being a motif in Mexican art, it features widely in the works of American Chicano artists, such as Carlos Almaraz, Chaz Bojórquez, Yreina Cervántez, and Magú, who took inspiration from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-mexican_muralism"&gt;Mexican Muralists&lt;/span&gt;, pre-Columbian art, and everyday Memento Mori symbols such as calendars.</p>
+        </subsection>
+        <subsection title="Photography">
+          <p type="img" alt="In &lt;i&gt;Camera Lucida&lt;/i&gt;, Barthes argued that since the photograph always presents the &lt;i&gt;noeme&lt;/i&gt; (“a thing that has been”), then it is always true that “Death is the &lt;i&gt;eidos&lt;/i&gt; [true characteristic] of the photograph”." show="1">/images20/photo/photo_memento_mori_vanitas_11.jpg</p>
+          <p type="p">Two hugely influential texts on the relationship between photography and death emerged in the 1970s. In 1973 the American essayist and critic, Susan Sontag, published, &lt;i&gt;On Photography&lt;/i&gt;. In it she wrote, "All photographs are memento mori. To take a photograph is to participate in another person's (or thing's) mortality, vulnerability, mutability. Precisely by slicing out this moment and freezing it, all photographs testify to time's relentless melt". It was a sentiment her partner of 15 years, American photographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-leibovitz_annie"&gt;Annie Leibovitz&lt;/span&gt;, took to heat when she controversially published a photograph of Sontag's corpse soon after her passing (in 2004). In 1980, France's most famous philosopher and literary critic, Roland Barthes, took up the same theme in his book, &lt;i&gt;Camera Lucida&lt;/i&gt; (1980). Barthes also read the photograph as a relic of the dead, in his case an early photograph of his beloved mother. Through her picture Barthes introduced the idea of the "punctum", an element that was wholly unique to photography: "The punctum of a photograph is that accident which pricks me (but also bruises me, is poignant to me)", he wrote. Andy Grundberg of &lt;i&gt;The New York Times&lt;/i&gt; wrote '''Camera Lucida' is, in a sad and almost tragic way, a record of [Barthes's] attempts to come to terms with grief. His fascination with the portrait of his mother [as a child], leading to the discovery that the ultimate punctum is death, is the fascination of a man who is seeking, like Proust, to recover a life that has vanished".</p>
+          <p type="p">In photographic practice, meanwhile, the Tokyo Photographic Art Museum held an exhibition titled &lt;i&gt;The Illumination of Life by Death: Memento Mori &amp; Photography&lt;/i&gt; in 2022. The exhibition aimed to explore "how people have lived robustly while facing death through approximately 150 photographic works, stimulating the imagination to live positively through difficult times". The exhibition featured works of photographers as wide ranging as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-capa_robert"&gt;Robert Capa&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-evans_walker"&gt;Walker Evans&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-friedlander_lee"&gt;Lee Friedlander&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-frank_robert"&gt;Robert Frank&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-eggleston_william"&gt;William Eggleston&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-arbus_diane"&gt;Diane Arbus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-araki_nobuyoshi"&gt;Araki&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-atget_eugene"&gt;Eugène Atget&lt;/span&gt;. Contemporary photographers, such as the Britain's Nick Knight, have continued to mine the Memento Mori tradition through images of dripping roses (such as &lt;i&gt;Rose IV&lt;/i&gt; (2012)). As he explained, "roses are this sort of most poetic moment of life and death. The rose blooms and blossoms and it's most incredible, but you know it's incredible because it's going to die, and that makes the rose more poignant than any other flower in a way, because you have this incredible beauty, [but] it's announcing its own death". Another British photographer, Peter Mitchell, expanded upon the Memento Mori theme through manmade structures. In his 2016 series, &lt;i&gt;Memento Mori&lt;/i&gt;, he photographed derelict, or "condemned" (soon-to-be-demolished) buildings in the Quarry Hill area of his hometown of Leeds in Northern England. He intended for the series to serve as a reminder "to the power of photography, to those who engineered and built the Flats, to the people who lived and died in the Flats and to the city of Leeds itself".</p>
+        </subsection>
+        <subsection title="Contemporary Art and Design">
+          <p type="p">The theme of the Memento Mori has shown remarkable longevity. One of the most direct heirs to the vanitas genre is the American photorealist artist, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-flack_audrey"&gt;Audrey Flack&lt;/span&gt;, who produced her titled &lt;i&gt;Vanitas&lt;/i&gt; series during the mid-to-late 1970s. As Curatorial Consultant, Robert R. Shane, explained, "Flack's recurring themes - life and death, luxury and consumption [are symbolized] using traditional iconography from 17&lt;sup&gt;th&lt;/sup&gt;-century Dutch vanitas still life as a starting point. [Her vanitas often feature] fruit and flowers, which, while luxurious, show signs of decay and the vanity of life. In addition to incorporating personal objects and cosmetics, Flack gave this genre a 20&lt;sup&gt;th&lt;/sup&gt;-century update by mirroring the spectacle of contemporary consumer culture through glittering light that sparkles among mirrored and glass objects". Flack's contemporary, the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt; artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-holzer_jenny"&gt;Jenny Holzer&lt;/span&gt;, argued that it was "unsurprising that art which can be seen as the descendant of the memento mori genre, remains one of the ways to explore and express feelings of doubt and alienation surrounding human mortality". In her own series, &lt;i&gt;Living&lt;/i&gt; (1980-82), for instance, Holzer posted bronze plaques in public spaces featuring text such as: "&lt;i&gt;You realise you're shedding parts of the body and leaving mementos everywhere&lt;/i&gt;".</p>
+          <p type="img" alt="Steve Jobs with &lt;i&gt;Macintosh&lt;/i&gt; computer, photographed by Bernard Gotfryd, (January 1984)" show="1">/images20/photo/photo_memento_mori_vanitas_12.jpg</p>
+          <p type="p">Bringing the theme of Memento Mori into the 21st century was Steve Jobs, designer, inventor, and pioneer of the personal computer revolution, and co-founder (with Steve Wozniak) of the global &lt;i&gt;Apple&lt;/i&gt; empire. Jobs recognized that by accepting his own mortality he was liberated to take creative risks and to think innovatively. Indeed, one of Jobs's most famous quotes demonstrates that the topic of Memento Mori is as pertinent today as it was during the days of the ancient Stoics. It went as follows: "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Almost everything - all external expectations, all pride, all fear of embarrassment or failure - these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart". Jobs died in 2011, aged 56 (from complications brought on by pancreatic cancer), having first transformed the way the world experiences music, movies, and digital communications.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks/>
+  <chart>
+    <top/>
+    <bottom/>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Memento Mori</title>
+      <artist>Unknown artist</artist>
+      <year>c. 1st century AD</year>
+      <materials>Mosaic</materials>
+      <desc>
+				This small mosaic, discovered at the ancient Italian resort city of Pompeii (the site of one of the most famous natural disasters recorded in human history when it was engulfed by lava following the eruption of the volcanic mount Vesuvius in 79 AD) dates back to the early medieval age. At the top of the image are balancing and measuring tools (a libella and plumb line) that support the skull (curiously, with ears), that itself sits atop a butterfly, that sits atop a wheel. The butterfly is a symbol of the living soul of the dead, while the "wheel of fortune" (&lt;i&gt;rota fortunae&lt;/i&gt;), was believed to belong to the goddess Fortuna, who would spin it at random, causing some to prosper; others to suffer. On the left, supporting the libella, is a scepter wrapped in purple fabric representing wealth, while on the right, a wooden stick wrapped in brown fabric, represents poverty. Archaeologist Stefano De Caro writes, the image is "striking for the clarity of its allegorical representation. The topic is Hellenistic in origin and presents death as the great leveller who cancels out all differences of wealth and class [and] was intended to remind diners of the fleeting nature of earthly fortunes". 
+				&lt;br/&gt;&lt;br/&gt;
+				The message "remember you will die" is particularly poignant given that it was discovered (during excavations in 1874) buried under three meters of rubble, debris, and volcanic ash. It is especially interesting to note that the mosaic was sitting atop a dining table in a triclinium (formal dining room), thereby underscoring the belief that, for the ancients, reminders of death were not so much moralizing messages, but more a justification to eat, drink, and make the most of life. As archaeologist Vivian van Heekeren notes, "the Carpe Diem or 'Seize the Day' theme took a central place" in Roman society. Similar Memento Mori mosaics have been found in other triclinium around Pompeii, such as one in the House of the Faun showing skeletons carrying wine jugs, and others showing dancing skeletons with cups at the villas in the nearby town of Boscoreale (which was also buried by the eruption).
+			</desc>
+      <collection>Pompeii, Italy (now in the Museo Archeologico Nazionale di Napoli)</collection>
+    </artwork>
+    <artwork>
+      <title>Danse Macabre (Dance of Death)</title>
+      <artist>Bernt Notke</artist>
+      <year>Late fifteenth century</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Danse Macabre ("Dance of Death") images typically feature living people accompanied by allegories or personifications of Death (usually skeletons or decaying corpses) dancing close to a grave. The living typically appear somber, whereas the dead appear more animated, even gleeful or giddy with joy. This example, by late Gothic artist Bernt Notke (who was active in the Baltic region), is the only surviving medieval Dance Macabre in the world painted on canvas, and is, as art historian Krista Andreson notes "undoubtedly the most famous medieval work of art in Estonia". It is believed to be based on another Danse Macabre that Notke painted for St. Mary's Church in Lübeck, Northern Germany, which was finished in 1463, and has unfortunately since been lost. Only a fragment (twenty-five feet in length) of the Tallinn version survives, but it is believed to have been 100 feet long with about fifty figures (with equal numbers of dead and living figures). What we see in the surviving fragment are thirteen figures, including the Dead playing bagpipes and carrying coffins, and living figures such as the Pope, the Emperor, the Empress, the Cardinal, and the King. As was typical of Danse Macabre images, the living figures are arranged by social status, with the richest and most powerful at the front of the procession. Despite this implied hierarchy, the overriding message of these images was that all become equal in death, and worldly attributes, like material possessions or noble rank, cease to matter.
+				&lt;br/&gt;&lt;br/&gt;
+				In many Danse Macabre images, text accompanies the picture narrative, serving as a sort of dialogue between the dead and the living. In this example the text, in Low German (a dialect native to Northern Germany), sits on a scroll below the parade of figures. The verses alternate between the living attempting to complain about or avoid death (in a pleading tone), and the dead figures summoning them and sarcastically telling them of death's inevitability. For instance, the Empress says "I know, Death means me! I was never terrified so greatly! [...] after all, I am young and also an empress. I thought I had a lot of power, I had not thought of him or that anybody could do something against me. Oh, let me live on, this I implore you!", to which Death replies, "Empress, highly presumptuous, methinks you have forgotten me. Fall in! It is now time. You thought I should let you off? No way!". 
+				&lt;br/&gt;&lt;br/&gt;
+				Historian Marie-Madeleine Renauld adds that "Later, the theme was taken out of its religious context, and artists used it to criticize the ideas of their time and to comment on politics. For instance, the Danse Macabre strongly appealed to artists of the Romantic movement".
+			</desc>
+      <collection>St. Nicholas Church, Tallinn, Estonia</collection>
+    </artwork>
+    <artwork>
+      <title>Rosary</title>
+      <artist>Unknown artist</artist>
+      <year>c. 1500-25</year>
+      <materials>Ivory, silver, and partially gilded mounts</materials>
+      <desc>
+				Moving into the 16&lt;sup&gt;th&lt;/sup&gt; and 17&lt;sup&gt;th&lt;/sup&gt; centuries, as arts writer Allyssia Alleyne explains, small ivory Memento Mori objects, such as this rosary, became "part of a larger cultural moment that emphasized humility, reflection and moral obligation. Traveling preachers would deliver sermons on mortality to peasants in Paris cemeteries, the working class would buy prints on the theme [...] and the rich had their ivory carvings. [...] It seems inevitable - if ironic - that the ivory devotionals would become the very luxury items they were designed to warn against". Art historian Stephen Perkinson notes, too, that ivory Memento Mori were "sold directly to wealthy collectors, rather than being commissioned by the church [and therefore] should be considered through a secular lens [they were] more about invoking other sorts of moralizing notions of the time that aren't paraliturgical". 
+				&lt;br/&gt;&lt;br/&gt;
+				In this example, each ivory segment features an image of a living person on one side, and a skeletal figure on the reverse. The ivory beads at either end also feature an image of a living human head on one side, and a skull on the other, with a vertical division through the middle. Religious writer Menachem Wecker notes that, because of their small size and fine detail, objects like this "were a beloved part of collectors' kunstkammers, or curiosity cabinets, which were all the rage in Europe at the time", and examples like this one, "which do not bear evidence of use or wear, were more likely intended purely for display purposes rather than being used for prayer". Wecker also observes that many of these works featured tiny pinpricks above and below the eyes, which are "foramina: anatomical features on the skull that allow for vein and nerve passage", exemplifying the way in which medieval medical researchers were "increasingly dissecting and studying corpses". Perkinson states that these ivory objects are among many examples that show that in the Middle Ages, "people were fixated on this idea that your individual identity is conveyed through your face and your appearance - your costume, your heraldry and your insignia of office [so the] message that, in the end, everybody is indistinguishable and the same on some level, social differences are erased, is a pretty powerful one".
+			</desc>
+      <collection>Metropolitan Museum of Art, New York City</collection>
+    </artwork>
+    <artwork>
+      <title>The Abbot (from, The Dance of Death series)</title>
+      <artist>Hans Holbein the Younger</artist>
+      <year>1523-25</year>
+      <materials>Woodcut</materials>
+      <desc>
+				Germany came relatively late to the Renaissance. Indeed, as Italy was moving into the period of High (or Late) Renaissance, Germany was just beginning to move on from the dominant Gothic style. As Germany's artists began to travel into neighboring European countries, their work evolved accordingly and their interest in the human anatomy and representing the human form more naturalistically followed. Yet even in light of these new influences, Germanic art developed in a way that retained a uniquely national element. Germany became known for its woodcuts and engravings, and with the creation of the printing press, it produced cheap, mass produced, art that could be disseminated amongst the public. Early German printmaking was characterized by themes of superstition and Christian and pagan myth which came with a reminder of the certainty of death and damnation, and chief amongst its practitioners, was Hans Holbein the Younger.
+				&lt;br/&gt;&lt;br/&gt;
+				Historian Ted Pennant-Rea describes Holbein's The Dance of Death as "a great, grim triumph of Renaissance woodblock printing. In a series of action-packed scenes Death intrudes on the everyday lives of thirty-four people from various levels of society - from pope to physician to ploughman [...] The year before he began The Dance, he had illustrated Martin Luther's influential translation of the New Testament into German. So Holbein was working close to the heart of the accelerating movement for Church reform. It comes as little surprise, then, that Death reserves particularly grim treatment for members of the Catholic clergy. It drags off a fat abbot by his cassock [as seen in this example], leads an abbess away by the habit as though she were an animal, and takes the form of two skeletons and two demons to see to the pope himself".
+				&lt;br/&gt;&lt;br/&gt;
+				The Dance series was an adaptation of the Danse Macabre and, as such, Death typically appears in the guise of a skeleton. Historian Stephanie Buck argues that "What makes [Holbein's Death vignettes] particularly interesting are the varying reactions of the doomed figures, whom Holbein depicts with vivid gestures and facial expressions". Pennant-Rae adds, "In Holbein's series no one is actually engaged in a dance with Death. This removes an element of comic catharsis found in the mutuality of earlier dances. Holbein's more static figures respond to Death realistically". He concludes that "Reproductions obscure just how tiny the wooden blocks were - no bigger than four postage stamps arranged in a rectangle. The blocks were cut by Hans Lützelburger, a frequent and highly skilled collaborator of Holbein's. Lützelburger had cut forty-one blocks and had ten remaining when Death surprised him too. The blocks were then sold to creditors, and eventually printed and published for the first time in Lyons in 1538 as Les simulachres and historiees faces de la mort. Since the book's great success Holbein's series has been consistently in print, inspiring writers and artists from Rubens in Flanders, to Millet in France, and Dickens in England".
+			</desc>
+      <collection>Kunstmuseum Basel</collection>
+    </artwork>
+    <artwork>
+      <title>Still Life with Dead Hare and Birds</title>
+      <artist>Jan Fyt (Jan Fijt)</artist>
+      <year>c. 1640s</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				17&lt;sup&gt;th&lt;/sup&gt;-century Flemish Baroque painter Jan Fyt (or Jan Fijt) produced several still lives of game depicted as hunting trophies, including this image of a dead hare and birds. The creatures have yet to have their fur and feathers plucked. They lay piled on stones, and thorny vines are visible around them. The animals here serve as a clear reminder of death. As still-life painting was dominant in Northern Europe at the time, the Memento Mori message was often conveyed through depictions of dead animals, wilting flowers, and rotting fruit. 
+				&lt;br/&gt;&lt;br/&gt;
+				Works like this can also be understood as a Vanitas, a genre that carried an added symbolic warning against focusing one's life on the pursuit of luxuries. As curator Axel Vécsey says, "Hunting has long been entertainment for the privileged. No wonder then that the genre of painted hunting trophies flourished most in Flanders in Rubens's time, which more than any other era was in the sway of the cult of heaving plenty and worldly extravagance. Surprisingly, though obviously not coincidentally, in the other half of the Netherlands, newly seceded Protestant Holland, an art of the most puritan approach sprang up simultaneously". Vécsey adds that, after a visit to Holland in 1642, the tone of Fyt's work "changed considerably [...] into the triumphant uproar of brazen Baroque there crept more muted, melancholy chords. The magnificent spread of the kill of game here is more a lament to mortality, than an invitation to a vain banquet. The message is completed with a symbol aptly Dutch in its directness: thorns referring to the passion of Christ".
+				&lt;br/&gt;&lt;br/&gt;
+				Arts writer Fraser Hibbitt pointed to an innate paradox with Vanitas like these when he wrote, "Vanitas subsisted during the seventeenth century to guide the mind to the contemplation of death and the vanities of living. Yet it was borne from a contradiction that the act of painting itself, creating a beautiful artifact, was vanity itself. Vanitas paintings became objects of earthly value, something it was trying to denounce". 
+			</desc>
+      <collection>Museum of Fine Arts, Budapest, Hungary</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait with Death Playing the Fiddle</title>
+      <artist>Arnold Böcklin</artist>
+      <year>1872</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				There has long existed a tradition of artists creating self-portraits with Memento Mori imagery, such as English painter Thomas Smith's, &lt;i&gt;Self Portrait&lt;/i&gt; (c. 1680), and Dutch Golden Age painter David Bailly's, &lt;i&gt;Self-Portrait with Vanitas Symbols&lt;/i&gt; (1651). In this 19&lt;sup&gt;th&lt;/sup&gt; century example, Swiss Symbolist painter Arnold Böcklin looks out past the viewer, appearing to be listening as much as looking, with a paintbrush in his right hand and a paint palette in his left. Death is personified as a grinning skeleton standing over his left shoulder, playing a single-stringed violin. The image, which references the concepts of both Memento Mori and Danse Macabre, is strikingly similar to, and likely influenced by, a 16&lt;sup&gt;th&lt;/sup&gt; century portrait of British nobleman, Sir Brian Tuke, by an anonymous painter (on display at the Alte Pinakothek in Munich where Böcklin lived at the time), in which a skeleton looms behind the subject holding what appears to be the neck of a stringed instrument in its left hand, while pointing at an hourglass with its right hand. 
+				&lt;br/&gt;&lt;br/&gt;
+				Böcklin was all too familiar with death. He was in Paris during the February Revolution of 1848, and was witness, through his bedroom window, to countless prisoners being transported to execution. His first wife died just a year after their marriage (in 1850), and though he remarried a few years later, seven of the couple's fourteen children died during infancy. In this painting, Böcklin seems to have become blasé towards death, or perhaps he believed that, even after his own passing, he would live on through his art (represented here by the brush and palette). Legend has it (though this was never confirmed) that Böcklin only added the skeleton after his friends saw the self-portrait and, puzzled by his expression, asked what he was listening to. 
+				&lt;br/&gt;&lt;br/&gt;
+				Alma Mahler, wife of the composer Gustav Mahler, explained how her husband was inspired by Böcklin's painting to add a violin solo to his &lt;i&gt;Fourth Symphony&lt;/i&gt; (1899-1900). Musicologist Maureen Buja explains that "The second movement is generally described as a &lt;i&gt;Totendanz&lt;/i&gt; (Dance of Death). [...] The violin presents the character 'Freund Hein' (Friend Henry) who is a German medieval personification of Death. [...] Originally, Mahler had headed this movement: 'Death strikes up the dance for us; she scrapes her fiddle bizarrely and leads us up to heaven'". Meanwhile, the Memento Mori self-portrait tradition has continued after Böcklin, with works as diverse as Norwegian expressionist artist Edvard Munch's, &lt;i&gt;Self-Portrait with Skeleton Arm&lt;/i&gt; (1895), and the Young British Artist (YBA) Sarah Lucas's, &lt;i&gt;Self Portrait with Skull&lt;/i&gt; (1997). 
+			</desc>
+      <collection>Alte Nationalgalerie, Staatliche Museen zu Berlin</collection>
+    </artwork>
+    <artwork>
+      <title>Deceased child with flowers</title>
+      <artist/>
+      <year>c. late 19&lt;sup&gt;th&lt;/sup&gt; century</year>
+      <materials>Photograph</materials>
+      <desc>
+				The rise of commercial photography in the mid 19&lt;sup&gt;th&lt;/sup&gt; century provided new opportunities for creating Memento Mori images. While British pioneers such as Thomas Richard Williams created photographs in the tradition of Vanitas paintings (his &lt;i&gt;Sands of Time&lt;/i&gt; (1850-52), for instance, features a human skull, an hour glass, an open book and discarded reading glasses), the birth of the Daguerreotype gave rise to a more macabre photographic genre: the "post-mortem portrait" (or the "Victorian Death Portrait"). As the Victorian poet Elizabeth Barrett Browning said of this new phenomenon, "It is not merely the likeness which is precious, but the association and the sense of nearness involved in the thing ... the very shadow of the person lying there fixed forever!". 
+				&lt;br/&gt;&lt;br/&gt;
+				Victorian England was witness to high mortality rates, especially amongst infants. Diseases like measles, diphtheria, scarlet fever, rubella, cholera, and typhoid were widespread. The death of a family relative, often a child, was a trigger to having a photographic portrait made in the first place. Post-mortem photography was popular amongst all classes thanks to the affordability (when compared to painted portraits) of the silver-plated Daguerreotype and, in time, less expensive glass- or paper-based alternatives. In 1860, renowned letter-writer Jane Carlyle (wife of Scottish writer and historian Thomas Carlyle) exclaimed "Blessed be the inventor of photography! I set him above even the inventor of chloroform! It has given more positive pleasure to poor suffering humanity than anything else that has cast up in my time or is like to -- this art by which even the poor can possess themselves of tolerable likenesses of their absent dear ones".
+				&lt;br/&gt;&lt;br/&gt;
+				The historian Genevieve Carlton writes, "Unlike many portraits, which were taken in photo studios, post-mortem photos were usually taken at home. As the trend of death portraits took hold, families put effort into preparing their deceased relatives for the photoshoot. That could mean styling the subject's hair or their clothes. Some relatives opened the dead person's eyes. Photographers and family members sometimes decorated the scene to make the purpose of the photograph clear. In some images, flowers surround the deceased. In others, symbols of death and time - like an hourglass or a clock - mark the portrait as a post-mortem photograph".
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Calavera Catrina (The Garbancera Skull)</title>
+      <artist>José Guadalupe Posada Aguilar</artist>
+      <year>1910</year>
+      <materials>Zinc etching</materials>
+      <desc>
+				Mexican illustrator, cartoonist, and lithographer José Guadalupe Posada Aguilar once declared: "Todos somos calaveras - We are all skeletons". Posada created satirical political images, and illustrations that accompanied "literary calaveras" which, as culture writer Isabel Carrasco explains, are short, "irreverent verses (or poems) that tackle death with irony, satire, and just plain good humor". Drawing on the way in which skeleton figures in Danse Macabre images had typically mocked the living, literary calaveras, as Mexican culture writer Dale Hoty Palfrey adds, were "written to poke fun at living friends, politicians and celebrities, pointing to incidents and personal foibles that single them out for imagined selection by the Grim Reaper". 
+				&lt;br/&gt;&lt;br/&gt;
+				The most iconic of Posada's works is his creation, &lt;i&gt;Calavera Catrina&lt;/i&gt;, an upper-class woman who may have lived in the lap of luxury, but, as indicated by her skeletal form, was doomed to die just like every other mortal. Curator Susanna Brooks writes, "Her stylish appearance and amusing, naïve sensibility endeared her to the disgruntled masses. She quickly became a satirical emblem of the sins of vanity and greed and the folly of government corruption. La Calavera Catrina was among the first of many animated skeleton characters Posada created to populate his tongue-in-cheek, pro-revolutionary illustrations. She was also the most popular and enduring. The chic, chapeau-wearing lady skull became a kind of national folk icon".
+				&lt;br/&gt;&lt;br/&gt;
+				Posada died in poverty in 1913. He was by then largely forgotten and was even buried in an unmarked grave. Given, moreover, that they were only to be found printed in daily newspapers, there are few extant Posada works. But, as historian Philip Kennedy writes, "thankfully, he found veneration through a number of other artists that emerged in Mexico after the revolution. They recognised his contribution to the art of engraving, and saw how he had shaped the visual language of Mexican art and illustration". &lt;i&gt;Calavera Catrina&lt;/i&gt; was perhaps most famously reworked by Mexican muralist Diego Rivera in his 1947 mural &lt;i&gt;Sueño de una Tarde Dominical en la Alameda Central (Dream of a Sunday Afternoon along Central Alameda)&lt;/i&gt;. Kennedy concludes that "In many ways, Posada was a revolutionary. He helped to establish a national art that was independent of European tradition and that was built around a language of indigenous symbols and motifs. Today humorous political cartoons and satirical comic strips are incredibly popular in Mexico and, for many, Posada is often considered to be the founding father of the genre". Indeed, &lt;i&gt;Catrina&lt;/i&gt; has become one of the most iconic symbols of "Mexicanidad" (Mexican-ness), and no trip to Mexico is considered complete without the purchase of a decorative Calavera souvenir.
+			</desc>
+      <collection/>
+    </artwork>
+    <artwork>
+      <title>Marilyn (Vanitas)</title>
+      <artist>Audrey Flack</artist>
+      <year>1977</year>
+      <materials>Oil over acrylic on canvas</materials>
+      <desc>
+				Audrey Flack is an American artist who made her name as a Photorealist painter. Before Flack, Photorealist artists addressed what she called the "unemotional and banal" (often featuring cars, motorcycles, aeroplanes, and bland urban scenery). Flack was inspired (amongst other things) by the Dutch and Spanish Vanitas traditions and produced still lifes that addressed the themes of life and death, as well-as ideas about femininity. Archivist Lily Hopkins writes "Flack incorporated both everyday feminine ephemera as well as items of a macabre nature to create vibrant, complex, and emotional still life images that stood in stark contrast to their male-driven counterparts. These works, which garnered a considerable amount of attention and helped to pioneer the Photorealist movement as it is known today, began with detailed photographic still lifes from which the artist drew inspiration". 
+				&lt;br/&gt;&lt;br/&gt;
+				Flack's &lt;i&gt;Vanitas&lt;/i&gt; are brought into the 20&lt;sup&gt;th&lt;/sup&gt; century through the introduction of modern day objects and photographic imagery, producing what she termed "narrative still lives". For &lt;i&gt;Marilyn&lt;/i&gt; Flack created what resembles a shop-window shrine to the actress and pop culture icon (Marilyn Monroe) who died in tragic circumstances aged 36 (in 1962). The two Marilyn portraits are black and white and, with the childhood photograph of Flack and her brother that sits between them, contrast sharply with the intense colors that saturate the other objects that complete the shrine. These images are painted with a level of exaggerated realism (or hyperrealism): the various textures of delicate rose petals, shiny fruit and transparent glass meticulously copied here from still-life photographs. Behind the two portraits of Marilyn, we see a page from a biography that tells of her sexual allure and how "through the power of make-up" a woman could "paint oneself into an instrument of one's own will". Given the faded monochrome photographs, the melting candle, the draining hourglass and the over-ripened fruit, Flack's &lt;i&gt;Marilyn&lt;/i&gt; possess a symbolic lament to the waning of memory, and given that portraits of Monroe seem to predate her rise to the rank of Hollywood sex symbol, very possibly the loss of innocence. 
+			</desc>
+      <collection>University of Arizona Art Museum, Tucson</collection>
+    </artwork>
+    <artwork>
+      <title>For the Love of God</title>
+      <artist>Damien Hirst</artist>
+      <year>2007</year>
+      <materials>Platinum, diamond, human teeth</materials>
+      <desc>
+				This sculpture, by British conceptual artist Damien Hirst, is an 18&lt;sup&gt;th&lt;/sup&gt;-century human skull (purchased from a London taxidermist), still containing the deceased's teeth, and encrusted with 8601 flawless diamonds attached to 32 platinum plates. Hirst took the title from his mother who, when told of what he was planning to do, exclaimed, "For the love of god, what are you going to do next!". The artist himself said of the work, "Every artwork that's ever interested me is about death. I thought, well what's the maximum you could pit against death, and diamonds came to mind". Thought to be the most expensive work of art by a living artist at the time, the materials themselves cost tens of millions of dollars. The sculpture serves thus, not only as a Memento Mori (since the skull patently reminds the viewer of death), but also as an ironic Vanitas, given what it implies about anyone with enough wealth to purchase such an extravagant ornamental item and who will ultimately meet the same end (death) as the most impoverished pauper. Art dealer Celine Fraser called &lt;i&gt;For the Love of God&lt;/i&gt; "the ultimate expression of [...] material overindulgence". 
+				&lt;br/&gt;&lt;br/&gt;
+				Hirst was particularly inspired by the Mexican &lt;i&gt;Día de Los Muertos (Day of the Dead)&lt;/i&gt; and the British Museum's collection of Aztec skulls. Early in his career, Hirst produced a photograph of himself titled &lt;i&gt;With Dead Head&lt;/i&gt; (1991), in which he is pictured, aged sixteen, half-grinning, half-grimacing, and posing next to a severed human head he came across at the county morgue in Leeds. He later explained, "I was doing anatomy drawing. I took some photos when I shouldn't have done. [...] But I just suddenly thought [...] to me, the smile and everything seemed to sum up this problem between life and death. It was such a ridiculous way of [...] being at the point of trying to come to terms with it, especially being sixteen and everything: this is life and this is death. And I'm trying to work it out". 
+				&lt;br/&gt;&lt;br/&gt;
+				Since then, Hirst has dealt with death in other controversial ways, perhaps most famously in his sculptural vitrines, like &lt;i&gt;The Impossibility of Death in the Mind of Somebody Living&lt;/i&gt; (1991). In these works, Hirst, a leading member of the YBA (Young British Artists) movement, took dead animals (some of them bisected) and placed them in glass tanks filled with formaldehyde. For the artist, these types of works encourage the modern viewer, who is usually cushioned from the realities of death through the luxuries of modern living, to reflect perhaps on their own mortality. He stated that the use of precious stones in &lt;i&gt;For the Love of God&lt;/i&gt; was not to glamorize diamonds, but rather to make a statement about death: "[diamonds] bring out the best and the worst in people ... people kill for diamonds. They kill each other". 
+			</desc>
+      <collection>White Cube Gallery, London, England</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="key artists" is_recommended="false">
+      <subcategory name="not_to_show" class=""/>
+    </category>
+    <category name="art story website features"/>
+    <category name="current exhibitions"/>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Hans Holbein der Jungere (Masters of German art)</title>
+          <link>3829025831</link>
+          <info>By Stephanie Buck</info>
+        </entry>
+        <entry recommended="true">
+          <title>Memento Mori in Contemporary Art</title>
+          <link>1032083131</link>
+          <info>By Taylor Worley</info>
+        </entry>
+        <entry>
+          <title>Death in Documentaries: The Memento Mori Experience</title>
+          <link>9004356959</link>
+          <info>By Benjamin Bennett-Carpenter</info>
+        </entry>
+        <entry recommended="true">
+          <title>Art of Death: Visual Culture in the English Death Ritual c.1500 - c.1800</title>
+          <link>0948462167</link>
+          <info>By Nigel Llewellyn</info>
+        </entry>
+        <entry>
+          <title>Women and the Material Culture of Death</title>
+          <link>1138269522</link>
+          <info>By Beth Fowkes Tobin</info>
+        </entry>
+        <entry>
+          <title>Vanitas: Meditations on Life and Death in Contemporary Art</title>
+          <link>0917046552</link>
+          <info>By John B. Ravenal</info>
+        </entry>
+        <entry>
+          <title>Photographing Death: Representations of Death in Memorial and Art Photography in Victorian Britain</title>
+          <link>8797428302</link>
+          <info>By Jannie Uhre Kongsgaard</info>
+        </entry>
+        <entry>
+          <title>The Vision of Death: Wax Sculpture in the Seventeenth Century</title>
+          <link>1983757586</link>
+          <info>By Davide Stefanacci</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Dance of Death</title>
+          <link>0141396822</link>
+          <info>By Hans Holbein and Ulinka Rublack</info>
+        </entry>
+        <entry>
+          <title>John Lydgate, the Dance of Death, and Its Model, the French Danse Macabre</title>
+          <link>9004442596</link>
+          <info>By Clifford Davidson and Sophie Oosterwijk</info>
+        </entry>
+        <entry>
+          <title>The Dance of Death: A Graphic Commentary on the Danse Macabre Through the Centuries</title>
+          <link>0896593398</link>
+          <info>By Fritz Eichenberg</info>
+        </entry>
+        <entry>
+          <title>Art and Death</title>
+          <link>1845116631</link>
+          <info>By Chris Townsend</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"/>
+      <subcategory name="written by artist" class="written-by"/>
+      <subcategory name="paintings" class="artwork"/>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites"/>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Butterflies: The ultimate icon of our fragility</title>
+          <link>https://www.bbc.com/culture/article/20210915-butterflies-the-ultimate-icon-of-our-fragility</link>
+          <info>
+						By Matthew Wilson
+						&lt;br&gt;
+						BBC Culture 
+						&lt;br&gt;
+						September 16, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>Watching The Watches: Taking A Look at Timepieces In Contemporary Art</title>
+          <link>https://www.watchonista.com/articles/opinions/watching-watches-taking-look-timepieces-contemporary-art</link>
+          <info>
+						By Rhonda Riche
+						&lt;br&gt;
+						Watchonista
+					</info>
+        </entry>
+        <entry>
+          <title>Art Only Exists Because Death Exists. Skulls in Art</title>
+          <link>https://www.dailyartmagazine.com/skulls-in-art/</link>
+          <info>
+						By Candy Bedworth
+						&lt;br&gt;
+						Daily Art 
+						&lt;br&gt;
+						November 2, 2022
+					</info>
+        </entry>
+        <entry>
+          <title>José Guadalupe Posada Aguilar: Skulls, Skeletons and Macabre Mischief</title>
+          <link>https://illustrationchronicles.com/jose-guadalupe-posada-skulls-skeletons-and-macabre-mischief</link>
+          <info>
+						By Philip Kennedy
+						&lt;br&gt;
+						Illustration Chronicles
+					</info>
+        </entry>
+        <entry>
+          <title>Victorian Death Photos - And the Disturbing History Behind Them</title>
+          <link>https://allthatsinteresting.com/victorian-death-photos</link>
+          <info>
+						By Genevieve Carlton
+						&lt;br&gt;
+						ATI 
+						&lt;br&gt;
+						July 20, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>La Calavera Catrina: Mexico's Eternal Feminine Muse</title>
+          <link>https://www.whatcommuseum.org/la-calavera-catrina/</link>
+          <info>
+						By Susanna Brooks
+						&lt;br&gt;
+						Whatcom Museum
+					</info>
+        </entry>
+        <entry>
+          <title>Fruit Soup</title>
+          <link>https://www.albany.edu/sites/default/files/2022-02/Flack_Lawrence_Brochure.pdf</link>
+          <info>
+						By Lilly Hopkins
+						&lt;br&gt;
+						University Art Museum, University at Albany 
+						&lt;br&gt;
+						January 25 - April 2, 2022
+					</info>
+        </entry>
+        <entry>
+          <title>Vanitas</title>
+          <link>https://www.britannica.com/art/vanitas-art</link>
+          <info>
+						By Adam Augustyn
+						&lt;br&gt;
+						Britannica.com
+					</info>
+        </entry>
+        <entry>
+          <title>Death in the Photograph</title>
+          <link>https://www.nytimes.com/1981/08/23/books/death-in-the-photograph.html</link>
+          <info>
+						By Andy Grundberg
+						&lt;br&gt;
+						The New York Times 
+						&lt;br&gt;
+						August 23, 1981
+					</info>
+        </entry>
+        <entry>
+          <title>Pablo Picasso, Black Jug and Skull 1946</title>
+          <link>https://www.tate.org.uk/art/artworks/picasso-black-jug-and-skull-p11365</link>
+          <info>
+						Tate Museum
+					</info>
+        </entry>
+        <entry>
+          <title>Danse Macabre: The Allegorical Representation of Death</title>
+          <link>https://www.thecollector.com/danse-macabre-middle-ages-danse-of-death/</link>
+          <info>
+						By Marie-Madeleine Renauld
+						&lt;br&gt;
+						TheCollector.com 
+						&lt;br&gt;
+						November 20, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>Antique Engagement Rings &amp; Vintage Jewellery</title>
+          <link>https://www.berganza.com</link>
+          <info>
+						Berganza Vintage Jewellers, Hatton Garden, London
+					</info>
+        </entry>
+        <entry>
+          <title>How a macabre reminder of death became a Renaissance status symbol</title>
+          <link>https://edition.cnn.com/style/article/memento-mori-ivory-mirror/index.html</link>
+          <info>
+						By Allyssia Alleyne
+						&lt;br&gt;
+						CNN 
+						&lt;br&gt;
+						October 31, 2017
+					</info>
+        </entry>
+        <entry>
+          <title>Hans Holbein's Dance of Death (1523-5)</title>
+          <link>https://publicdomainreview.org/collection/hans-holbeins-dance-of-death-1523-5/</link>
+          <info>
+						By Ted Pennant-Rea
+						&lt;br&gt;
+						The Public Domain Review 
+						&lt;br&gt;
+						April 17, 2018
+					</info>
+        </entry>
+        <entry>
+          <title>Macabre Themes in German Renaissance Printwork</title>
+          <link>http://covenantarthistory.blogspot.com/2017/04/</link>
+          <info>
+						Talking Objects
+						&lt;br&gt;
+						April 24, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>History of Memento Mori</title>
+          <link>https://dailystoic.com/history-of-memento-mori/</link>
+          <info>
+						The Daily Stoic
+					</info>
+        </entry>
+        <entry>
+          <title>The Art of Dying - Memento Mori Paintings Through Art History</title>
+          <link>https://www.widewalls.ch/magazine/memento-mori-paintings</link>
+          <info>
+						By Balasz Takac
+						&lt;br&gt;
+						Widewalls 
+						&lt;br&gt;
+						January 10, 2022
+					</info>
+        </entry>
+        <entry>
+          <title>Memento Mori: Life and Death in Western Art from Skulls to Still Life</title>
+          <link>https://mymodernmet.com/memento-mori-art/</link>
+          <info>
+						By Jessica Stewart 
+						&lt;br&gt;
+						My Modern Met 
+						&lt;br&gt;
+						June 23, 2019
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Vanitas Painting or Memento Mori: What are the Differences?</title>
+          <link>https://www.thecollector.com/vanitas-painting-vs-memento-mori-differences/</link>
+          <info>
+						By Anisia Iacob
+						&lt;br&gt;
+						The Collector 
+						&lt;br&gt;
+						November 17, 2022
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>7 Ways of Looking at the Memento Mori, Art History's Spookiest - and Most Misunderstood - Genre</title>
+          <link>https://news.artnet.com/art-world/guide-memento-mori-art-historians-1076897</link>
+          <info>
+						By Menachem Wecker
+						&lt;br&gt;
+						Artnet News 
+						&lt;br&gt;
+						September 14, 2017
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Vanitas: Dutch Master Paintings Explained</title>
+          <link>https://www.thecollector.com/vanitas-dutch-master-paintings/</link>
+          <info>
+						By Fraser Hibbitt
+						&lt;br&gt;
+						The Collector 
+						&lt;br&gt;
+						July 14, 2020
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Fascinating Traits of Spanish Vanitas Paintings</title>
+          <link>https://www.thecollector.com/fascinating-traits-of-spanish-vanitas-paintings/</link>
+          <info>
+						By Anisia Iacob
+						&lt;br&gt;
+						The Collector 
+						&lt;br&gt;
+						January 3, 2023
+					</info>
+        </entry>
+        <entry>
+          <title>Vanitas: Paintings by the Dutch Old Masters Inspired by Life and Death</title>
+          <link>https://mymodernmet.com/vanitas-dutch-paintings/</link>
+          <info>
+						By Madeleine Muzdakis 
+						&lt;br&gt;
+						My Modern Met 
+						&lt;br&gt;
+						February 12, 2022
+					</info>
+        </entry>
+        <entry>
+          <title>A Method and an Object: An Art Historical Approach Applied to the 'Memento-Mori' Mosaic from Pompeii, Italy</title>
+          <link>https://www.academia.edu/23572381/A_Method_and_an_Object_An_Art_Historical_Approach_Applied_to_the_Memento_Mori_Mosaic_from_Pompeii_Italy</link>
+          <info>
+						By Vivian van Heekeren
+						&lt;br&gt;
+						International Journal of Student Research in Archaeology 
+						&lt;br&gt;
+						March 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Danse Macabre: The Allegorical Representation of Death</title>
+          <link>https://www.thecollector.com/danse-macabre-middle-ages-danse-of-death/</link>
+          <info>
+						By Marie-Madeleine Renauld
+						&lt;br&gt;
+						The Collector 
+						&lt;br&gt;
+						November 20, 2021
+					</info>
+        </entry>
+        <entry>
+          <title>The Skull, the Butterfly and God: Damien Hirst on Death &amp; Religion</title>
+          <link>https://www.myartbroker.com/artist-damien-hirst/articles/damien-hirst-death-religion</link>
+          <info>
+						By Lucie Howie
+						&lt;br&gt;
+						MyArtBroker
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"/>
+      <subcategory name="audio clips" class="audioclips"/>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Arnold Böcklin, Self-Portrait with Death Playing the Fiddle</title>
+          <link>https://smarthistory.org/arnold-bocklin-self-portrait-with-death-playing-the-fiddle/</link>
+          <info>Smart History</info>
+        </entry>
+        <entry>
+          <title>Art 101: What is a Memento Mori? P.S. You are going to die</title>
+          <link>https://www.youtube.com/watch?v=Q7riwDPlEAM</link>
+          <info>CBC Arts</info>
+        </entry>
+        <entry recommended="true">
+          <title>Decorating with Death: The Morbid World of VANITAS Paintings</title>
+          <link>https://www.youtube.com/watch?v=uRYgnvUl-Is</link>
+          <info>Empire of the Mind</info>
+        </entry>
+        <entry recommended="true">
+          <title>How Vanitas Is Secretly Uplifting</title>
+          <link>https://www.youtube.com/watch?v=F1-Q_4vorEE</link>
+          <info>Zox</info>
+        </entry>
+        <entry>
+          <title>Memento Mori and The Macabre Allure of Michaelina Wautier</title>
+          <link>https://www.youtube.com/watch?v=f-EPCV2uHHQ</link>
+          <info>Sotheby's</info>
+        </entry>
+        <entry recommended="true">
+          <title>Hidden Symbols of Still Live Paintings: Vanitas!</title>
+          <link>https://www.youtube.com/watch?v=xUpwenYB5eE</link>
+          <info>Informe</info>
+        </entry>
+        <entry recommended="true">
+          <title>Memento Mori: The Personification of Death - Dean Cantù</title>
+          <link>https://www.youtube.com/watch?v=lvnnqRy6ctI</link>
+          <info>TEDx Talks</info>
+        </entry>
+        <entry>
+          <title>Memento Mori: The Importance of Remembering Mortality</title>
+          <link>https://www.youtube.com/watch?v=1QWV4XCNO6A</link>
+          <info>Reading the Past</info>
+        </entry>
+        <entry recommended="true">
+          <title>Memento Mori Imagery and the Limits of the Self in Late Medieval Europe</title>
+          <link>https://www.youtube.com/watch?v=B4sOh1ivMus</link>
+          <info>The Courtauld</info>
+        </entry>
+        <entry>
+          <title>Death in Arnold Bocklin's Art</title>
+          <link>https://www.youtube.com/watch?v=_la6NB7jBRw</link>
+          <info>The Canvas</info>
+        </entry>
+        <entry recommended="true">
+          <title>In Conversation: Memento Mori - Art &amp; Fashion Forum by Grażyna Kulczyk</title>
+          <link>https://www.youtube.com/watch?v=c_fm9ZVjc-c</link>
+          <info>SHOWstudio</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"/>
+      <subcategory name="in pop culture" class="in-pop"/>
+    </category>
+  </sidebar>
+</data>

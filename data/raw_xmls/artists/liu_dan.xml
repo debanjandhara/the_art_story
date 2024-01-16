@@ -1,0 +1,389 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>liu_dan</id>
+    <name>Liu Dan</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1978 - present</years>
+    <description>Liu Dan's modernist twist on traditional landscapes and photorealistic watercolors of common objects exemplify his exploration of Eastern/Western art legacies.</description>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <nationality>Chinese</nationality>
+    <occupation>Painter</occupation>
+    <birthDate>1953</birthDate>
+    <birthPlace>Nanjing, Jiangsu, China</birthPlace>
+    <image_desc>true</image_desc>
+    <art_type>Art</art_type>
+    <pub_time>6/12/2018</pub_time>
+  </main>
+  <includes>
+    <include alt="Contemporary Chinese Ink Painting">contemporary_chinese_ink_painting</include>
+    <include alt="New Ink Art">new_ink_art</include>
+    <include alt="Guohua">guohua</include>
+  </includes>
+  <similar_movements>
+    <movement>postmodernism</movement>
+    <movement>installation_art</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>cai_guo_qiang</artist>
+    <artist>kusame_yayoi</artist>
+    <artist>paik_nam_june</artist>
+    <artist>xu_bing</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"Creation is not merely an interesting idea. It is soul."</q>
+    <q>"To me, this kind of exploratory, preparatory drawing - the real moment of creativity - is like a private conversation between him and what you might call his God, while the finished painting is something made for the public"</q>
+    <q>"Ink chose me. After hours practicing calligraphy with my grandfather, the brush felt almost like an extension of my hand."</q>
+    <q>"I love this language of ink. One of the reasons is that it is created organically by a group of people - the papermaking master, the brush master and the maker of the ink. Every element is related, every element important. An artist is not just an ego, a name. You cannot impose your will on these materials. It is a negotiation."</q>
+    <q>"I love both manners and always try to keep the two with me. In my life, I always try to bring these two legacies together; to have them reflect and complement each other. I think that is one goal in my life."</q>
+    <q>"To me, each art piece, I have to find more in the personal level to inspire me to create. So that's the kind of intimate relationship I'm looking for. It's not just normal knowledge. It's not something people already know. I'm looking for the areas unknown to people, which you need artists to bring out that part."</q>
+    <q>"We need, and because we saw the things - this table, this chair - we found a different way to show maybe this is not a table, this is not a chair, it's more than that."</q>
+    <q>"A small object is enlarged to an exaggerated scale to give an ordinary object monumental attention and status. Unlike Pop Art, this work portrays an institutionalized and cultural memory, not a fleeting societal icon."</q>
+    <q>"People have asked me, 'What's the difference between me and the Old Masters?' I always answer them, 'I don't think there is any difference except that they are dead and I am still alive'. On the other hand, because I'm still alive, they are alive too."</q>
+  </quotes>
+  <authors>
+    <author link="dias">Sarah Frances Dias</author>
+  </authors>
+  <editors>
+    <editor link="enholm">Molly Enholm</editor>
+  </editors>
+  <article>
+    <synopsys>Viewing a retrospective exhibition of paintings by Liu Dan might appear more like an international group show than the work of a single artist, as he effortlessly manoeuvres between numerous artistic styles and genres. Born in China, it was during the Cultural Revolution that the artist was first exposed to the work of Western artists in photographs taken by his friend of confiscated books. Intrigued by the images, Liu fastidiously copied the reproductions of Renaissance era drawings, even before Liu received any formal training in traditional Chinese painting techniques. This dichotomy of influences would take the artist in many different directions, from a modernist twist on traditional Chinese monochromatic landscape painting to a nearly photorealistic style of watercolor paintings of common, everyday objects. Driving this exploration, Liu was searching for a new discourse that could be both individual and unique, incorporating both the Eastern and Western artistic legacies he admired. Yet despite the variety of artistic styles, Liu's artistic and philosophical goals remained consistent, as he sought to surpass superficial issues of style and instead capture the true essence of his subject.</synopsys>
+    <key_ideas>
+      <idea>Liu Dan's painting style is not readily confined to any pre-existing category. Instead, the artist synthesizes influences from traditions normally held in opposition, the linear realism of traditional Western drawing and calligraphic legacy of Chinese ink painting. In doing so, Liu not only revitalizes the historic traditions of &lt;i&gt;guohua&lt;/i&gt;, or native painting, but invents a distinctly contemporary manifestation of ink painting.</idea>
+      <idea>Among his most acclaimed works are his intricate depictions of scholar-stones, based on a meditative and intense observation of the object. Liu describes the process as a "micro exploration through macro understanding." They are both scientific and spiritual, rendered in meticulous detail while embodying the Daoist principles of yin and yang energies, described by Chinese scholar Ah Cheng as "an open exploration of the connection between mind and Dao. Scholar's rocks are considered the quintessential expression of these two concepts."</idea>
+      <idea>Coming of age during the era of the Cultural Revolution had deep psychological effects on Liu Dan, who has since described his pursuit of "true knowledge" as a core element of his artistic practice. This manifests most concretely in his monumentally scaled painting of a simple, timeworn Chinese dictionary published before the revolution took place. However, this passion is also evident in his continuous exploration of both style and subject, as he searches for the poetic space between what he describes as the realistic and abstract, or the rational and irrational, where the artist believes this truth exists.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Liu Dan was born in 1953 in regional capital city of Nanjing, literally translating to the "Southern Capital," in the Jiangsu province of China. Liu's paternal ancestors were part of the wealthy scholar-official class during the Qing dynasty (1644-1912). The family later fell from their elevated position during the 19th century when the artist's great grandfather, who became addicted to opium, wasted the family's fortune and lost their standing in the Imperial court. Liu grew up with his parents, both teachers, three siblings, and his grandfather who instilled in the young boy a respect for China's cultural past, even while this legacy was actively suppressed in the socialist schools Liu attended.</p>
+          <p type="p">The teachings of Liu's grandfather would have a profound influence on the artist throughout his life. Together, during his childhood, they studied the Confucian classics, poetry and the art of calligraphy, among other classical studies considered essential components of the classic literati, or &lt;i&gt;wenren&lt;/i&gt;, education. Although disrupted by his early experiences during the Cultural Revolution in China (1966-76), Liu would ultimately find his way back to these early studies. It was during the revolution that he first encountered Renaissance paintings and drawings by the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; that would play a large role in his mature artistic style.</p>
+          <p type="p">The city of Nanjing, where Liu grew up, also contributed to his early appreciation of art. It holds a long artistic tradition, and is the birthplace of many highly respected artists in China, including Dong Qichang, known both for his artistic skills and his influential theories of Chinese art history and Xu Beihong, considered to be one of the founders of China's modern movement.</p>
+        </subsection>
+        <subsection title="Education and Early Training">
+          <p type="p">In 1966, Chairman Mao reasserted his power through a series of strategic campaigns collectively known as the Cultural Revolution. Inculcated into the militant Red Guard movement in Nanjing, Liu endured the re-education programs meant to break the individual's connection to the past. As Asian art scholar and curator Alexandra Munroe explains, "The mission of China's mass student youth, a mobilization of millions of boys and girls in a fanatic cult of [Chairman] Mao as God, was to carry out the revolution's battle cry to 'Destroy the Four Olds,' an attack against old thinking, old culture, old customs, and old habits." It was an attempt to destroy tradition, knowledge, religious faith and even the written language as Chairman Mao favored the simplification of Chinese characters, which was to be followed by complete eradication of the traditional ideographic Chinese script. In 1968, Liu was one of hundreds of privileged teenagers sent to rural agricultural communes to be re-educated by working with the peasants.</p>
+          <p type="p">During this tumultuous period, burning books and destroying libraries, was a common tactic used to suppress knowledge of history and past traditions. Despite this, one of his colleagues managed to photograph a book on European classical painting, Liu used these pictures to continue his studies, copying classic paintings in the dark, and further training his eye and imagination. By the age of nineteen, he already accurately sketched and copied various Renaissance masterpieces. Despite his circumstances, Liu continued using the Chinese brush and ink while also focusing on Classical European art, continuing a love affair that would not subside for many years to come. He also salvaged books, managing to become acquainted with Chinese and European literature, philosophy, and aesthetics. Liu admits that this background helped shape him into an artist; either through an emphasis on patience, which for him, is the most important element of healing and a fundamental aspect of his art, or as an expression of "personal trauma - that which he calls his generation's 'mental disease,'" as explained by Munroe.</p>
+          <p type="p">Liu initially received attention for his artistic skills during these years of labor. Munroe describes, "he was occasionally 'loaned' by the commune to the Jiangsu Provincial Museum for various art restoration projects." As he contemplated his future, Liu initially leaned toward the realist aesthetic, but upon meeting the famous &lt;i&gt;guohua&lt;/i&gt; painter, Ya Ming in the early 1970s, he revived the skills of his early calligraphy lessons with his grandfather and devoted his attention to ink painting. During this period, &lt;i&gt;guohua&lt;/i&gt;, 'native' or Chinese painting, was a broad term, encompassing all work created in the traditional ink on silk or paper style, as opposed to &lt;i&gt;xihua&lt;/i&gt;, or Western painting. Upon seeing Liu's work, the older artist took him in as his studio assistant and apprentice. With Ya Ming's assistance, Liu studied at the Jiangsu Academy of Chinese Painting in Hangzhou from 1978 to 1981, which provided the foundation for his later art. Ya Ming, who also served as Vice President of the academy, continued to act as a close friend and mentor to Liu during this time, including a two-month trip to study the ancient Buddhist cave paintings of Dunhuang in 1979.</p>
+          <p type="p">Liu often claims that studying Renaissance art was "like love at first sight" whereas studying Chinese painting was "like meeting an old friend for the first time," emphasizing the profound affection he felt for both these subjects. Although for centuries, ink painting was considered among the highest forms of art, practiced by both professional court artists and scholar-officials, in the early-20th century cultural reformers tied this artistic legacy to what they considered the social ills of an elitist Imperial past. This rejection of China's cultural legacy began after the fall of the Qing Dynasty (1644-1912), continuing through and beyond the Cultural Revolution when Western artistic styles grew increasingly dominant. "In the early 1900s, the urgency to modernize and reform China's decaying institutions prompted some artists and liberal intellectuals to criticize the reactionary and anti-populist values of traditional Chinese painting," explains Munroe, who also describes Liu's "choice of a classical Chinese medium may be viewed as politically charged." However, by the later 20th century, traditional Chinese painting was not among the creative outlets of the leading avant-garde artists, who instead often turned to most overtly Western or conceptual means of art making. At the academy, Liu's artistic skills were instantly recognized and he soon began to be considered a star of contemporary Chinese painting. During these academic years, Liu Dan also became part of an underground independent youth literary and arts movement that sustained democracy, independence, individualism, and an internationalization of art, especially the works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaists&lt;/span&gt;, such as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, who were still largely unknown in China.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Liu Dan in 1993, in front of his large scaled Ink Handscroll at the San Diego Museum of Art (1990) ">/images20/photo/photo_liu_dan_1.jpg</p>
+          <p type="p">In 1981, he met Elizabeth Wichmann, a well-known American scholar and theater artist working on her doctoral dissertation in China. Through her studies, Elizabeth traveled to Nanjing to perform the title role in a famous play and become the first non-Chinese to perform the Chinese operatic style of jingju in the People's Republic of China. The couple married in 1981, and soon thereafter moved to Honolulu, where Elizabeth taught at the University of Hawaii. During this time, Liu worked on commissioned portraits and landscape paintings inspired by views of the Haleakala volcano.</p>
+          <p type="p">His early years in Hawaii were a time of artistic experimentation. Free from the political restraints he had previously encountered, the freedom offered its own dilemma. "Here in America," he exclaimed, "you have to create your own revolution." Through his early portraits and landscapes he refined his skills, but still sought to resolve the dissonance between his major artistic influences at first combining Western naturalism with the calligraphic traditions of ink painting. The years spent at the Jiangsu Academy had taught him a wide range of techniques that he now sought to integrate into something new, beyond the "well-traveled routes of synthesis and combination." He explains, "I had serious training of painting styles from different historical periods. If you ask me to do Ni Zan or Wang Meng style, I can still do a visual demonstration. It is in my blood. But to have all this training is not enough to become an artist. You have to add a new page to history; otherwise you are not making a contribution."</p>
+          <p type="p">Within a few years of moving to Hawaii, Liu met many connoisseurs and scholars of Asian art who encouraged and collaborated with the artist on his explorations. Among those with whom he developed friendships were expatriate Kyoto-based art collector David Kidd, his partner Yasuyoshi Morimoto, and London-based art dealer Hugh Moss, each of whom encouraged the artist to further develop his traditional approach to art. Liu would later visit Moss in the early 1990s, who described how the artist would discover the first "stone of his dreams" during this visit. Moss relates that he had not fully moved when Liu came to visit, and after using a large, unpacked crate as a makeshift coffee table for the duration of his visit, Liu's curiosity was peeked as he was preparing to leave. When told that the crate contained a "strange stone bought in Taiwan a few months earlier, Liu "exclaimed that he loved old stones, and we should unpack it immediately so he could see it, laughing that he had been drinking his tea off the crate for several weeks." Moss continues, "We opened it immediately and he was astonished... saying it was the stone of his dreams, and the finest he had ever seen. So I cut my love for it and gave it to him as a present." The favor was generously returned, as Liu made numerous paintings of the stone, which Liu named &lt;i&gt;Tianlai-shi&lt;/i&gt; (Heavenly Sound Stone) as gifts to Moss, including a series of "five views" for his 50th birthday.</p>
+          <p type="p">Such paintings of stones would secure an important position in the artist's oeuvre, painted with astonishing precision while exploring the spiritual associations. Chinese scholar Ah Cheng describes, "Liu Dan's observations of things that may not be seen bring an element of uncertainty and surprise to viewing his painting. His process is to explore the unknown and capture what is revealed to him." In his catalogue essay for the 2016 exhibition, &lt;i&gt;Ink Unbound: Paintings by Liu Dan&lt;/i&gt; at the Minneapolis Institute of Art, curator Dr. Stephen Little recalls after meeting the artists in Hawaii in the late 1980s, "It was a revelation (and a rare pleasure) to look at traditional Chinese paintings with him in the Honolulu Academy of Arts storerooms, particularly such works as Wen Zhengming's masterpiece &lt;i&gt;The Seven Junipers&lt;/i&gt; and Wu Bin's &lt;i&gt;Landscape&lt;/i&gt;. Later, comparisons would be made between Wu Bin's famous painting &lt;i&gt;Ten Views of a Lingbi Stone&lt;/i&gt; to Liu's works on a similar such stone."</p>
+          <p type="img" alt="Liu Dan painting (c. 2014)">/images20/photo/photo_liu_dan_2.jpg</p>
+          <p type="p">In 1987, Liu Dan created what many consider his break through work, titled &lt;i&gt;Aceldama&lt;/i&gt;, consisting of multiple hanging scrolls that collectively depict the biblical lands, also known as the 'field of blood,' which Judas purchased with the 30 pieces of silver he obtained for betraying Christ. While six of the seven scrolls are of uniform size, conforming to the traditional placement of such works, one scroll conceptually breaks with expectations of the medium as it unfurls on to the ground and rolls across the floor into the viewer's space. He follows this work with the equally monumental &lt;i&gt;Ink Handscroll&lt;/i&gt; acquired by the San Diego Museum of Art, capturing the artist's anguish at the events in Tiananmen Square. After a decade of seemingly unprecedented expansion of international contemporary art during the 1980s, the forward momentum came to a crashing halt. Munroe describes how the artist was "involved like thousands of other overseas Chinese in organizing support and relief for the families of pro-democracy leaders, many of whom were imprisoned or in hiding." Adding Liu's own recollection, that "When June 4th happened, something connective broke. I felt anger and darkness for the tragedy of China, and for my own life situation."</p>
+          <p type="img" alt="Liu Dan portrait (c. 2015)">/images20/photo/photo_liu_dan_3.jpg</p>
+          <p type="p">In 1992, the artist moved to New York where he was one of many important expatriate Chinese artists, including &lt;span class="marked_text chart-tooltip-target-top tooltip_id-ai_weiwei"&gt;Ai Weiwei&lt;/span&gt;, living in the city. The following year, was the subject of a show at The Gallery at Takashimaya in New York, &lt;i&gt;Alternative Visions&lt;/i&gt; was the inaugural exhibition of the Gallery at Takashimaya, New York, co-curated by Alexander Munroe (for Liu Dan) and Tadayasu Sakai (for Hiromitsu Morimoto). Munroe introduced Liu's ink paintings to New York audiences, in what is considered one of the first exhibitions, as described by Munroe in the exhibition catalogue, "to open the field of Chinese painting to contemporary experimentation among the post-Liberation generation linking classical and modern aesthetics, medium and techniques." Here, Robert Mowry, curator of Chinese art for Harvard's art museums would discover Liu's work and include him in multiple exhibitions at the university. Over the next decade, Liu was featured in solo exhibitions in America and Germany, in addition to numerous group shows including notable academic galleries such as the Art Institute in Chicago, Yale, and Princeton.</p>
+          <p type="p">Liu is known to always dress immaculately in tailored dark clothes with his grey hair worn in a long ponytail. Journalist Susan Moore, describes him as an "understated dandy" and art critic Michele Lim, claims that he is a man "of studied elegance and a master of detail" making it seem that he "belongs to the same club as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-wilde_oscar"&gt;Oscar Wilde&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt; in his ability to elicit the characterization of dandyism, as an aesthetic practice."</p>
+          <p type="p">After living in New York for 14 years and showing his work internationally, Liu Dan returned to China in 2006 and settled in Beijing. Encouraged by the relaxation of artistic restrictions, as China sought to lure back expatriate artists who had grown famous in the preceding decades, Liu was one of several artists then living abroad who chose to return. Liu describes Beijing as providing the artist with the sustenance he requires for both his art and his mind, such as being the only city known to manufacture the famous &lt;i&gt;xuan&lt;/i&gt; paper, which can absorb up to 25 layers of ink for his monumentally scaled works. In his later career, his passion for learning remains unabated, as he stated in 2010: "Beijing allows me to maintain my method of painting. There is opportunity for me to further my study and research in Chinese philosophy, literature, and Chinese artistic heritage."</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Liu Dan portrait (c. 2015)">/images20/photo/photo_liu_dan_4.jpg</p>
+          <p type="p">One of China's leading contemporary artists, Liu is considered a forerunner in the 21-century revival of traditional painting, sometimes referred to as "New Ink Art." As such, parallels can be drawn between Liu Dan and other leading contemporary Chinese artists who incorporate traditional media and subjects in their art. Among them is the artist and influential scholar Pan Gongkai, who has held leading positions at the top two art academies in China, and has represented China in international art exhibitions such as the Venice Biennial in 2011. Although Pan Gongkai is best known for his video installations that critique the notion of Western influence on Chinese Art, Liu looks to overcome these differences through, in Munroe's words, "a new level of stylistic integration and a new concept of self-expression that would take the tradition forward." Similarities can also be drawn between Liu's &lt;i&gt;Dictionary&lt;/i&gt; with contemporary artist Xu Bing's &lt;i&gt;Book from the Sky&lt;/i&gt; (1998-91). The dictionary provides what Liu described as ideological-free definitions, while in Xu Bing's installation an entire room is filled with scrolls and open books written with 4000 characters literally invented by the artist that held no actual meaning. Although taking opposite points of entry, each artist critiques the use revolution-era propaganda found in language, and challenges the viewer to ponder the true meaning of the written word.</p>
+          <p type="p">Liu's contribution to contemporary aesthetics is a revival of classical traditions of art. "It is not about surpassing the masters who preceded us but more about opening new artistic vistas," he said in a 2010 interview with Asia Art Archive. "In continuing to describe his artistic goals, he also spoke of the lessons he hoped to impart: "I am not interested in serving any potentially ideological purpose. I only believe in the integrity of art. I will continue encouraging younger generations in China to study Chinese artistic traditions and restore their connection with the past because this connection has been broken too long. And of course, I will encourage them to learn from Western masters, to further broaden their artistic vision."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="da_vinci_leonardo">The Vitruvian Man (c.1485)</artwork>
+    <artwork from="artist" page="okeeffe_georgia">Petunia No. 2 (1924)</artwork>
+    <artwork from="artist" page="ai_weiwei">Dropping a Han Dynasty Urn (1995)</artwork>
+  </similar_artworks>
+  <artworks>
+    <artwork>
+      <title>Beyond the window</title>
+      <year>1985</year>
+      <materials>Ink, silkscreen print and collage on paper</materials>
+      <desc>
+				&lt;i&gt;Beyond the Window&lt;/i&gt; is a page from a book collage series Liu Dan was developing in the mid 1980s, painted when Liu was 32 years old after settling in Honolulu with his wife. It depicts a traditional wooden shuttered window, realistically drawn in a Western style. The open window reveals an expansive open landscape rendered with scattered washes of gray and orange that defines rolling hills under a moody sky. The window is collaged on top of a dark black abstract form, possibly the frame of a bed or chair, that sits on the middle of the page, and in the far left corner, a portrait of a woman, drawn from an unusual perspective, is looking down into the viewer's eyes very attentively. 
+				&lt;br/&gt;&lt;br/&gt;
+				For Liu, this was a time defined by artistic exploration. Alexandra Munroe, art scholar and critic, explains that "During his first years in Honolulu, Liu Dan experimented with fusing abstract brush-and-ink painting with realist drawing in a series of portraits and landscapes," of which this work is a prime example. Although, she adds, he hadn't yet solved the task of integrating "Chinese and Western, traditional and modern modes of expression on a deeper level, beyond surface imagery."
+				&lt;br/&gt;&lt;br/&gt;
+				The artist's choice of media and technique derived from his years of learning traditional Chinese calligraphy with his grandfather and studying historic painting styles at the Jiangsu Painting Academy. On the other hand, the incorporation of Western-style realism and use of linear perspective, reveal his intricate studies of the Renaissance drawings. The end result, with the odd combination of imagery and disjointed narrative is a slightly surreal composition, but clearly exemplifies his desire to reinterpret tradition and achieve a new visual language.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Ink Handscroll</title>
+      <year>1990</year>
+      <materials>Ink and color on paper</materials>
+      <desc>
+				&lt;i&gt;Ink Handscroll&lt;/i&gt;, is a nearly 60-foot-long painting, depicting abstracted landscape forms, intertwined and unfolding across a traditional handscroll format. It is an example of the mature style that Liu first developed in the large-scale, multi-panel hanging scroll, titled &lt;i&gt;Aceldama&lt;/i&gt;, completed a few years prior in 1987. The opening view into this formidable scene is dominated by red cinnabar hues bisected with a horizontal, cloud-like form suggesting a horizon line between the earth and heavens. The cacophony of forms, according to the artist, represents the "fiery origins of the universe." As the scroll opens, the red tones fade into grays and blacks, as Liu refines the palette to the archetypal monochromatic style of Chinese landscape painting. The brushwork, however, is anything but traditional; instead of using identifiable classical &lt;i&gt;cun&lt;/i&gt;, or brushstrokes, the artist creates simplified shapes that suggest the influence of early 20th-century modernist experimentations, including the reductive forms of Cubism. 
+				&lt;br/&gt;&lt;br/&gt;
+				The primordial landscape also departs from convention in the complete lack of any human presence throughout the composition. There are none of the typical signs of humanity, no recluse scholars, travelers, simple dwellings nor hidden temples residing in the lofty mountain peaks. Instead, the landscape is primal with abstract forms that merely suggest rather than resemble any natural settings. If, on the one hand, it can create associations with the creation of the world, on the other, the intricate details appeal to a more specific ongoing development of humanity, appearing to capture the movement of life itself. 
+				&lt;br/&gt;&lt;br/&gt;
+				Tracing Liu's artistic lineage is difficult, as the artist is not limited to the powerful influences of &lt;i&gt;guohua&lt;/i&gt;, but represents a multi-national dialogue between generations of monumental visionary landscape paintings from Asia, Europe and America. References can be made between Liu's Ink Handscroll to the twisting landscapes of Gou Xi, the famous Song Dynasty court painter, or the eccentric style of Ming loyalist Gong Xian, of the 16th century, who looked to nature rather than past masters as his guide. On this regard, Munroe suggests "Liu's refined brush technique creates a structurally ambiguous realm of light and dark, flat and refracted spaces which describe a majestic presence that is simultaneously solid and void." Equally compelling is the reductive simplification of form, suggesting the influence Georgia O'Keeffe, and the mannerist style of Thomas Hart Benton. 
+				&lt;br/&gt;&lt;br/&gt;
+				Liu began work on the painting in 1989, a few months after the student-led demonstrations in Tiananmen Square were crushed by military intervention. In a public lecture at the Minneapolis Institute of Art, the artist recalled a moment of helplessness, staring in the light of a flickering candle, "Something magical happened. I saw that surrounding the light, the reality started moving, probably because of the heat, the light, but I caught that moment ... I caught the landscape combination. I was ready for new things, but I didn't know what until that moment happened." After a year of meticulous work, an all consuming process, the final result can be read as the artist's way to reckon with the violence of his own past and contribute through artistic tradition to instill beauty back into the world. 
+			</desc>
+      <collection>The San Diego Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>Portrait of a Man</title>
+      <year>2001</year>
+      <materials>Red chalk on ivory antique paper</materials>
+      <desc>
+				While much of Liu Dan's oeuvre consists of large-scale paintings, the intimate drawing, titled &lt;i&gt;Portrait of a Man&lt;/i&gt;, reveals much about the artist's Western influences. The paper upon which the drawing is crafted is less than five-by-seven inches, bringing the viewer into a close proximity with the subject: a close-up portrait, in profile, of a well-dressed man with clearly defined facial features, staring beyond the picture plane with an intense gaze. Although seeming to be drawn from life, the work is based on an old photograph of a Chinese-born, New York-based artist, Mu Xin then in his seventies, taken 20 years before the drawing was made. 
+				&lt;br/&gt;&lt;br/&gt;
+				The style heralds back to the artist's youth, first learning to draw in the Western style from photographs taken of books destined to be consumed by flames in the rampant destruction of literature and historical texts during the Cultural Revolution. He learned to draw in the Western style from such photos, in a manner similar to which he created this work. Directly inspired by Renaissance red-chalk portrait drawings, Liu emulates the technique and materials with terracotta red chalk on worn ivory-toned paper. The marks on the pages, derived from the fact that it is a page from an old notebook, add to the overall vintage feel of the work. In this sense, a connection can be defined to a copied portrait of Leonardo da Vinci by an unknown artist from this period, similarly titled &lt;i&gt;Portrait of a Man&lt;/i&gt;, which used similar materials and intensity of subject. The two gazes could meet, conceptually, as Mu Xin looks to the right and Leonardo looks left.
+				&lt;br/&gt;&lt;br/&gt;
+				On this regard, art writer and curator Michele Lim describes, "By transforming the likeness from photograph to sketch, the drawing has become an abstraction of the photograph, instead of the more conventional relationship where the photograph limits itself to a traditional handmaiden's role as the artist's visual notepad for an eventual painting." The use of a photograph as a reference point is also a stark contradiction from the techniques associated with traditional Chinese painting and reminds the viewer of the fundamentally different approach Liu takes, first blocking out his composition with an under drawing before the brush touches the paper.
+			</desc>
+      <collection>Collection of the artist</collection>
+    </artwork>
+    <artwork>
+      <title>Poppy</title>
+      <year>2007</year>
+      <materials>Ink on paper</materials>
+      <desc>
+				At first glance, this large-scale ink painting appears to be a highly meticulous rendering of the named specimen. To be more precise, the depicted flower with its dense, peony-like blooms references the &lt;i&gt;Somniferum paeoniflorum&lt;/i&gt; or, more commonly, the Peony poppy which have strains related both to the production of opium and, more tamely, edible poppy seeds. The portrait is over seven-feet-tall, yet the flower has turned away from the viewer, evoking the Western notion that a poppy symbolizes death rather than its typical Chinese associations of loyalty, faith, and love. Liu created many similar drawings in this manner, taking both the poppy and the sunflower as his subject.
+				&lt;br/&gt;&lt;br/&gt;
+				Although less overt than his earlier work, there remains a clear dialogue between traditionally Eastern and Western styles in this painting. The classical materials are exploited by Liu, who pushes the media in new directions, inspired by his early exposure to Western art. Before applying the ink, unlike the Chinese ink painting tradition, Liu does a careful meticulous underdrawing in pencil. The work exemplifies the influence of his mentor, Ya Ming, who led him to admire both nature and traditional techniques. On this regard, art writer Michele Lim notes, "In the delicate edges of their petals and fur-shadowed stems, Liu Dan's poppies recall the beauty of Northern Song bird-and-flower court paintings in all their exquisite detail."
+				&lt;br/&gt;&lt;br/&gt;
+				Affinities might also be drawn to icons of the Western tradition. The scale and monumentality of the flower yields comparison with the refined modernist works of Georgia O'Keeffe, while the precise handling of the plants intricate structure suggest a prolonged study of the natural forms seen in Piet Mondrian's early sketches of flowers. In a similar manner, the work also bears resemblance to the series of flora and fauna by German renaissance artist Albrecht Dürer, which capture the profound delicacy and strength of the natural world.
+			</desc>
+      <collection>Private Collection, Beijing</collection>
+    </artwork>
+    <artwork>
+      <title>Dictionary</title>
+      <year>2009</year>
+      <materials>Ink and watercolor on paper</materials>
+      <desc>
+				&lt;i&gt;Dictionary&lt;/i&gt; is a large-scale, ink-and-watercolor work on paper, depicting an old Chinese dictionary in a highly realistic manner. Although the work looks nearly photorealistic, it is based on a previous preparatory drawing done in pencil, enlarged to an exaggerated scale, on three sheets of paper totaling 81-by-121 inches, using a grid system. The dictionary is opened in a way that the pages seem to be caught in motion. In the middle, a few pages stick together vertically, as if they have been captured in a delicate balance, revealing the text from nonconsecutive pages to the viewer. The dictionary's worn cloth cover, a flower pattern against bright blue and gold details, wraps around the book's casing. Although this example of Liu's paintings seems to verge on photorealism, the artist resists any such interpretations. Instead of emphasizing the mechanical precision of the camera, he describes such work as an interpretation of how an object is viewed through human eyes.
+				&lt;br/&gt;&lt;br/&gt;
+				The work reflects the artist's insatiable thirst for knowledge. In a 2010 interview with Asia Art Archive, Liu explains: "I found out the dictionary was made in Taiwan around 1937. I liked this dictionary because it was published before 1949. No communist-related content is present in the definition of the characters in the dictionary. It was pure in its explanations. ... It represents pure knowledge and to me is a key to acquiring knowledge." The script is composed of traditional Chinese characters, rather than the simplified Chinese promoted by Mao's regime. On one page, there are references to great historic figures, including legendary Tang Dynasty artist Wang Wei and the renowned calligrapher Wang Xizhi, while the other page contains a series of works listing, as the artist describes, "radicals that evoke water." Here Liu, who is also troubled by the highly commercialized nature of the contemporary art market, also describes the importance of choosing subjects with longevity. He continues, "This work portrays an institutionalized and cultural memory, not a fleeting social icon." 
+			</desc>
+      <collection>The Xiling Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Peak of the Celestial Capital</title>
+      <year>2013</year>
+      <materials>Ink on paper</materials>
+      <desc>
+				Scholar-stones have a long tradition in various literary and court circles in China, where special specimens were collected and used to adorn gardens or the sides of lakes, representing a microcosm of the natural world and the dualistic energies of the Chinese cosmos. The stones within these gardens offered a miniature version, or microcosm, of the sacred mountains of the Daoist immortals and allowed those viewing the rocks to mentally travel to these often-distant locations. Contemplating drawings of the stones was also seen as a vehicle of psychological transport and spiritual meditation. The depiction of Scholar-stones in Chinese painting also has a legacy nearly as long as the subject of landscape, and the two subjects share much in common. 
+				&lt;br/&gt;&lt;br/&gt;
+				As seen in earlier examples, magnification and scale are very much part of Liu's visual strategy. The work seen here is a sectional view of a standing stone accompanied by five lines of calligraphic script emphasizing the vertical dimensions of the drawing. Viewing ordinary objects from a unique perspective, Liu aims to create "a new angle to review the things people look at every day." However, his work is not merely about capturing the nuanced structure of the stone, but also an exploration of the metaphors the stones represent. "Liu Dan's embrace of Daoist philosophy is evident in his paintings of rocks," explains Yang Liu, curator of Chinese art at the Minneapolis Institute of Art in his essay titled &lt;i&gt;To Make Stone Stony&lt;/i&gt;. "For example, the lengthy inscription in &lt;i&gt;Peak of the Celestial Capital&lt;/i&gt; explains that the rock was from Yingde, a place designated in the ancient Daoist cosmological system as &lt;i&gt;dongtian fudi&lt;/i&gt; (Grotto Heavens and Blessed Lands)." The actual peak of Mount Huangshan it is said to represent is 1,830 meters high, and its name "Celestial Capital" refers to the Daoist "capital of the immortals and the city of heaven." 
+				&lt;br/&gt;&lt;br/&gt;
+				The unusual shapes of the aptly nicknamed "strange stones" are due to lengthy exposure to natural forces such as gravity, pressure and the erosive forces of water. Munroe describes, "As a hard, permanent substance that expresses constant change and transformation, the rock is the ultimate manifestation of the dualistic Chinese cosmos." It was often the case that the most bizarrely shaped stones were held in the highest esteem. Among the most prized stones are those dredged from the deep waters of Lake Taihu, located in the province of Jiangsu where Liu began his artistic training. Ironically, it was not this tradition that first led the artist to tackle this subject, but seeing the work of Georgia O'Keeffe in Hawaii, who's paintings of bones inspired him to look back to the popular subject from the Literati tradition.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Redefining Pleats of Matter</title>
+      <year>2015</year>
+      <materials>Ink on paper</materials>
+      <desc>
+				The ink drawing, featured at his first exhibition in Europe at the Eskenazi Gallery in London in 2015, is a large-scaled painting two meters in height and three meters in length. It portrays a sort of mystical landscape defined by rocks and other organic formations, that seem to allude to other forms, including an array of human figures, distant mountains, and intertwining vegetation. 
+				&lt;br/&gt;&lt;br/&gt;
+				The work was inspired by the Raphael drawing Liu Dan owns, titled &lt;i&gt;Saint Benedict Receiving Maurus and Placidus&lt;/i&gt; (c. 1503). What inspired him in the drawing was not the subject, but the rhythmic composition. For him, it is these preparatory drawings that define the real moment of creativity, the moment of "a private conversation between the artist and God." Liu then transforms the overall form and feeling of the drawing into a landscape, creating strong affinities and connections between the forms of the rocks and the human bodies in dialogue with one another, similar to what occurs in the Raphael drawing. 
+				&lt;br/&gt;&lt;br/&gt;
+				Art historian Michael Goedhuis explains that "Liu Dan's ink paintings, whether of landscapes, scholar's rocks, or cypress trees, are all fastidiously conceived, complex works which highlight his concern to emphasize underlying compositional structure over virtuoso expressions of showy brushwork." Overall, the work aims to act as a sort of meditation, drawing the viewer's attention into the details while at the same time creating a link to a universal understanding of humanity.
+			</desc>
+      <collection></collection>
+    </artwork>
+    <artwork>
+      <title>Study of Reimagining the Lystra Scene</title>
+      <year>2016</year>
+      <materials>Ink on paper</materials>
+      <desc>
+				In his latest series, Liu Dan turns the tables once again with a new approach to a traditional subject. While the artist continues to work in the monumental style of monochromatic ink painting, he looks to classical Western painting as his source material. For this painting, the artist was invited to visit the Minneapolis Institute of Art and select a work from their collection as a starting point for his unique twist on landscape painting. As the artist was given a quick tour of the museum, en route to a room of drawings specially selected for this project, he was instead captivated by the dramatic depiction of &lt;i&gt;Saint Paul and Saint Barnabas at Lystra&lt;/i&gt; (1636) by the Dutch artist Willem de Poorter on view in the European galleries. 
+				&lt;br/&gt;&lt;br/&gt;
+				Although he discards much of the original work, the outline of the imaginary landscape remains indebted to the original Baroque painting while fragments of the figurative elements remain embedded in the weathered landscape. The distilled human forms create haunting imprints of the original narrative across the craggy cliffs, evoking the distorted forms of the hungry ghosts of Buddhist lore. Yang Liu describes, "he portrays distorted or monstrous characters, grotesque visages that subvert the classical narrative" of the Dutch painting. The dramatic tenebrism of de Poorter's painting provides another challenge for Liu to explore, one which represents a major departure from traditional renderings of the landscape in Chinese art and much of Liu's earlier work. Unlike the Western tradition, in traditional Chinese landscapes there are multiple views into the scene, sometimes referred to as "scatter perspective," as different elements are drawn as if viewed from different vantage points. Accordingly, the source of light is not singular, but spreads across the picture plane. Yang Liu explains, "Since a consistent light source is never visible in classical Chinese landscape painting, he has broken with tradition to create an unparalleled type of ink landscape not derived from prototypes."
+			</desc>
+      <collection>Minneapolis Institute of Art, United States</collection>
+    </artwork>
+  </artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>da_vinci_leonardo</entity>
+        <entity>raphael</entity>
+        <entity>michelangelo</entity>
+        <entity>durer_albrecht</entity>
+        <entity>okeeffe_georgia</entity>
+      </column>
+      <column>
+        <entity alt="Ya Ming">ya_ming</entity>
+      </column>
+      <column>
+        <entity>renaissance</entity>
+        <entity alt="Classical Chinese painting">classical_chinese_painting</entity>
+      </column>
+    </top>
+    <bottom>
+      <column></column>
+      <column></column>
+      <column></column>
+    </bottom>
+  </chart>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class="">
+        <entry>
+          <title>Alternative Visions: Liu Dan and Hiromitsu Morimoto (Exhibition Catalogue)</title>
+          <link>https://www.abebooks.com/first-edition/Alternative-Visions-Hiromitsu-Morimoto-Liu-Dan/7475003686/bd</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Liu Dan: New Landscapes and Old Masters</title>
+          <link>1910807117</link>
+          <info>By Shelagh Vainker</info>
+        </entry>
+        <entry recommended="true">
+          <title>Ink: The Art of China</title>
+          <link>0904221199</link>
+          <info>By Michael Goedhuis</info>
+        </entry>
+        <entry>
+          <title>Ink Art: Past as Present in Contemporary China</title>
+          <link>0300197039</link>
+          <info>By Michael K. Hearn. New York: Metropolitan Museum of Art</info>
+        </entry>
+      </subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by"></subcategory>
+      <subcategory name="artworks" class="artwork"></subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry recommended="true">
+          <title>List of Artworks</title>
+          <link>http://www.artnet.com/artists/liu-dan/</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>List of early works</title>
+          <link>http://www.sothebys.com/en/auctions/2015/liu-dan-transitions-n09482.html#&amp;sort=lotSortNum-asc&amp;viewMode=grid&amp;size=s&amp;lot=44&amp;scroll=2905</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Contemporary ink art "unbound": Chinese artist Liu Dan</title>
+          <link>http://artradarjournal.com/2016/10/02/chinese-artist-liu-dan-at-the-minneapolis-institute-of-art/</link>
+          <info>By Claire Wilson</info>
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>Interview: Chinese artist Liu Dan</title>
+          <link>https://www.ft.com/content/07e4f894-771e-11e5-a95a-27d368e1ddf7</link>
+          <info>
+						By Susan Moore
+						&lt;br&gt;
+						Financial Times 
+						&lt;br&gt;
+						October 30, 2015
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Why Ink? The Art of Liu Dan</title>
+          <link>http://www.alexandramunroe.com/why-ink-the-art-of-liu-dan/</link>
+          <info>
+						By Alexandra Munroe
+						&lt;br&gt;
+						May 4, 1993
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Respond and Transcend: The Ink Painting of Liu Dan and Liu Huayi</title>
+          <link>http://www.leapleapleap.com/2011/07/respond-and-transcend-the-ink-painting-of-liu-dan-and-li-huayi/</link>
+          <info>
+						By Matthew Schrader
+						&lt;br&gt;
+						LEAP - the international art magazine of contemporary China 
+						&lt;br&gt;
+						July 7 , 2011
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Liu Dan: Portrait of an Artist</title>
+          <link>http://www.visionillusion.org/uploads/3/2/5/2/3252342/oiliudan.pdf</link>
+          <info>
+						By Michelle Lim
+						&lt;br&gt;
+						Outside In: Chinese x American x Contemporary Art						
+					</info>
+        </entry>
+        <entry>
+          <title>Famed artist's work on display at the Ashmolean</title>
+          <link>http://www.chinadaily.com.cn/world/cn_eu/2016-10/24/content_27159055.htm</link>
+          <info>
+						By Cecily Liu
+						&lt;br&gt;
+						China Daily 
+						&lt;br&gt;
+						October 24, 2016
+					</info>
+        </entry>
+        <entry>
+          <title>Conversation with Liu Dan</title>
+          <link>http://www.aaa-a.org/programs/conversation-with-liu-dan/</link>
+          <info>
+						Liu Dan in Conversation with Hane DeBevoise and Colleagues
+						&lt;br&gt;
+						Transcribed and revised by Ali Van
+						&lt;br&gt;
+						Asia Art Archive
+						&lt;br&gt;
+						Asia Week, March 25 2010, New York
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="interviews" class="interviews"></subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry recommended="true">
+          <title>Liu Dan, Of Us and Art: The 100 Videos Project, Episode 71</title>
+          <link>https://vimeo.com/171646600</link>
+          <info>
+						Interview with Minneapolis Institute of Art
+						&lt;br&gt;
+						2016
+					</info>
+        </entry>
+        <entry>
+          <title>Talk: Stories with Liu Dan</title>
+          <link>https://vimeo.com/184080907</link>
+          <info>
+						Public Lecture at the Minneapolis Institute of Art
+						&lt;br&gt;
+						September 22, 2016
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Other Eye</title>
+          <link>https://vimeo.com/109649566</link>
+          <info>
+						By filmmaker Fan Xiaochun
+						&lt;br&gt;
+						A 15-minute documentary about artist Liu Dan
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>A Chinese Ink Art Master's Mindscape</title>
+          <link>https://www.youtube.com/watch?v=oVbpX55ZJhY</link>
+          <info>
+						News report
+						&lt;br&gt;
+						2014
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop">
+        <entry>
+          <title>Liu Dan's interior design for an apartment</title>
+          <link>https://www.architecturaldigest.com/gallery/liu-slideshow/all</link>
+          <info></info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

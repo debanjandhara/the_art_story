@@ -51,7 +51,7 @@ Dynamic Card Iframe Link : https://www.theartstory.org/data/content/dynamic_cont
             
         if (main_element.find('bio_highlight') is not None):
             bio_highlight = main_element.find('bio_highlight').text
-            output_variable += f'''\n{name}'s Biography Highlights : {re.sub(r'<.*?>', '', bio_highlight)}'''
+            output_variable += f'''\n{name}'s Biography Highlights : {re.sub(r'<.*?>', '', str(bio_highlight))}'''
             
         if (main_element.find('pub_time') is not None):
             publish_date = main_element.find('pub_time').text

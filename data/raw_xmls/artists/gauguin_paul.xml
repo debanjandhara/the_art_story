@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>gauguin_paul</id>
+    <name>Paul Gauguin</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1880 - 1903</years>
+    <description>Gauguin's Post-Impressionist art offers a colorful mystical Symbolism, a style strongly influenced by the Primitive arts of French Polynesia.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>6</highlight>
+    <occupation>Draftsman, Painter, Printmaker, and Sculptor</occupation>
+    <nationality>French</nationality>
+    <birthDate>June 7, 1848</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>May 8, 1903</deathDate>
+    <deathPlace>Atuona, Marquesas Islands, French Polynesia</deathPlace>
+    <bio_highlight>"Civilization is what makes you sick." he said. An ordinary life was not for Gauguin - he gave it all up to be an artist, an innovator, and the searcher of the pure and the primal.</bio_highlight>
+    <pub_time>12/1/2010</pub_time>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>post_impressionism</include>
+    <include>symbolism</include>
+    <include>primitivism</include>
+  </includes>
+  <similar_movements>
+    <movement>post_impressionism</movement>
+    <movement>symbolism</movement>
+    <movement>primitivism</movement>
+    <movement>les_nabis</movement>
+    <movement>fauvism</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>van_gogh_vincent</artist>
+    <artist>bernard_emile</artist>
+    <artist>vollard_ambroise</artist>
+    <artist>matisse_henri</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I am trying to put into these desolate figures the savagery that I see in them and which is in me too... Dammit, I want to consult nature as well but I don't want to leave out what I see there and what comes into my mind."</q>
+    <q>"Civilization is what makes you sick."</q>
+    <q>"In art, all who have done something other than their predecessors have merited the epithet of revolutionary; and it is they alone who are masters."</q>
+    <q>"There is always a heavy demand for fresh mediocrity. In every generation the least cultivated taste has the largest appetite."</q>
+    <q>"Don't paint too much direct from nature. Art is an abstraction. Study nature then brood on it and treasure the creation which will result, which is the only way to ascend towards God - to create like our divine master."</q>
+    <q author="Vincent van Gogh writing to Theo van Gogh in 1889">"He's physically stronger than we are, so his passions must also be much stronger than ours. Then he's the father of children, then he has his wife and his children in Denmark, and at the same time he wants to go right to the other end of the globe to Martinique. It's horrifying, all the vice versa of incompatible desires and needs which that must cause him."</q>
+  </quotes>
+  <authors>
+    <author link="wolf">Justin Wolf</author>
+  </authors>
+  <article>
+    <synopsys>Paul Gauguin is one of the most significant French artists to be initially schooled in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;, but who broke away from its fascination with the everyday world to pioneer a new style of painting broadly referred to as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolism&lt;/span&gt;. As the Impressionist movement was culminating in the late 1880s, Gauguin experimented with new color theories and semi-decorative approaches to painting. He famously worked one summer in an intensely colorful style alongside &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent Van Gogh&lt;/span&gt; in the south of France, before turning his back entirely on Western society. He had already abandoned a former life as a stockbroker by the time he began traveling regularly to the south Pacific in the early 1890s, where he developed a new style that married everyday observation with mystical symbolism, a style strongly influenced by the popular, so-called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;"primitive"&lt;/span&gt; arts of Africa, Asia, and French Polynesia. Gauguin's rejection of his European family, society, and the Paris art world for a life apart, in the land of the "Other," has come to serve as a romantic example of the artist-as-wandering-mystic.</synopsys>
+    <key_ideas>
+      <idea>After mastering Impressionist methods for depicting the optical experience of nature, Gauguin studied religious communities in rural Brittany and various landscapes in the Caribbean, while also educating himself in the latest French ideas on the subject of painting and color theory (the latter much influenced by recent scientific study into the various, unstable processes of visual perception). This background contributed to Gauguin's gradual development of a new kind of "synthetic" painting, one that functions as a symbolic, rather than a merely documentary, or mirror-like, reflection of reality.</idea>
+      <idea>Seeking the kind of direct relationship to the natural world that he witnessed in various communities of French Polynesia and other non-western cultures, Gauguin treated his painting as a philosophical meditation on the ultimate meaning of human existence, as well as the possibility of religious fulfillment and answers on how to live closer to nature.</idea>
+      <idea>Gauguin was one of the key participants during the last decades of the 19&lt;sup&gt;th&lt;/sup&gt; century in a European cultural movement that has since come to be referred to as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-primitivism"&gt;Primitivism&lt;/span&gt;. The term denotes the Western fascination for less industrially-developed cultures, and the romantic notion that non-Western people might be more genuinely spiritual, or closer in touch with elemental forces of the cosmos, than their comparatively "artificial" European and American counterparts.</idea>
+      <idea>Once he had virtually abandoned his wife, his four children, and the entire art world of Europe, Gauguin's name and work became synonymous, as they remain to this day, with the idea of ultimate artistic freedom, or the complete liberation of the creative individual from one's original cultural moorings.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Paul Gauguin was born to Clovis Gauguin, a journalist, and Alina Maria Chazal, daughter of the socialist leader and early feminist activist Flora Tristan. At the age of three, Gauguin and his family fled Paris for Lima, Peru, a move motivated by France's tenuous political climate that prohibited freedom of the press. On the trans-Atlantic journey, Clovis fell ill and died. For the next four years, Gauguin, his sister, and mother lived with extended relatives in Lima.</p>
+          <p type="p">In 1855, as France entered upon a more politically stable era, the surviving family returned to settle in the north-central French city of Orleans, where they lived with Gauguin's grandfather. There, Gauguin began his formal education and eventually joined the merchant marine (compulsory service) at age seventeen. Three years later Gauguin joined the French Navy. Returning to Paris in 1872, Gauguin took up work as a stockbroker.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">Following his mother's death in 1867, Gauguin went to live with his appointed guardian, Gustave Arosa, a wealthy art patron and collector. Under Arosa's care, Gauguin was introduced to the work of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-romanticism"&gt;Romantic&lt;/span&gt; painter, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-delacroix_eugene"&gt;Eugene Delacroix&lt;/span&gt;, as well as the work of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realist&lt;/span&gt; painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-corot_jean_baptiste_camille"&gt;Jean-Baptiste-Camille Corot&lt;/span&gt;, and the pre-Impressionist, Barbizon school of French landscape painting. This education of the artist's eye in the work of his close predecessors was to have a lasting effect on Gauguin's later work.</p>
+          <p type="p">Gauguin married Mette-Sophie Gad in 1873; subsequently, Gauguin, his Danish wife, and their five children moved from Paris to Copenhagen. Gauguin also began to collect art, procuring a modest array of Impressionist paintings by &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;. By 1880 Gauguin was himself painting in his spare time and employing an Impressionist style, as in his &lt;i&gt;Still-Life with Fruit and Lemons&lt;/i&gt; (1880). Gauguin also took to frequently visiting galleries, and eventually he rented his own artist's studio. In addition, Gauguin painted beside newly befriended artists &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, and he himself participated in the official Impressionist exhibitions in Paris of 1881 and 1882.</p>
+          <p type="p">Gauguin lost his job as a stockbroker in the financial crash of 1882; by 1885 he was seeking a new means of making a living. Plagued by bouts of depression, Gauguin finally decided to pursue his painting as an alternate career path. He returned to Paris determined to make a professional go of it, indeed, despite the fact that up to that time he entirely lacked formal artistic training. Meanwhile, Mette-Sophie and their children settled with extended family in Denmark. A several-month's stay in Brittany, at Pont-Aven, in mid 1886, proved a decisive turning point for Gauguin, who developed there a &lt;span class="marked_text chart-tooltip-target-top tooltip_id-symbolism"&gt;Symbolist&lt;/span&gt; style of painting in which flat, luminescent colors, like those of stained-glass windows, came to signify the local Breton peoples' natural and spiritual experience. During this trip and a subsequent sojourn in Brittany in 1889, Gauguin sought to achieve a new kind of "synthesis," or fusion of color, composition, and subject matter, not only from painting before a live model or landscape, such as in the manner of the Impressionists, but by bringing together numerous studies in a way that finally evoked the inner life of his subject over merely suggesting its outward appearance. In his &lt;i&gt;Four Breton Girls&lt;/i&gt; (1886), for instance, naturalistic tones of landscape co-exist with larger expanses of pattern and color that begin to suggest a symbolic importance to the subject lying beyond what's immediately visible. Two years later, Gauguin sailed to Panama and, subsequently, Martinique, often living in a hut with friend and fellow artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-laval_charles"&gt;Charles Laval&lt;/span&gt;. These travels to so-called primitive cultures; his observation of the natives in their own natural environment; and his own employment of a rich, vibrant palette would soon come to serve Gauguin as a foundation for an original artistic style.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="p">By the late 1880s, Gauguin's work caught the attention of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_vincent"&gt;Vincent van Gogh&lt;/span&gt;, another young and gifted painter who, like Gauguin, frequently suffered from bouts of depression. Similarly to Gauguin's, van Gogh's painting - while distinctly Impressionistic - showed the potential to blossom into something entirely new. The two artists began a regular correspondence, during which they exchanged paintings, including self-portraits, among them Gauguin's &lt;i&gt;Self-Portrait 'Les Miserables'&lt;/i&gt; (1888). In 1888, at van Gogh's invitation, the two men lived and worked together for nine weeks in van Gogh's rented house at Arles in the south of France. Van Gogh's brother and benefactor, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-van_gogh_theo"&gt;Theo van Gogh&lt;/span&gt;, an art dealer by profession, served as Gauguin's primary business manager and artistic confident at the time.</p>
+          <p type="img" alt="&lt;i&gt;Night Café at Arles&lt;/i&gt; (&lt;i&gt;Mme Ginoux&lt;/i&gt;) (1888) was produced by Gauguin during a nine-week stint living and working with Vincent van Gogh" show="1">/images20/photo/gauguin_paul_5.jpg</p>
+          <p type="p">During these nine weeks, both artists turned out an impressive number of canvases, among Gauguin's his now-famous &lt;i&gt;Night Café at Arles (Mme Ginoux)&lt;/i&gt; and a signature early work, &lt;i&gt;Vision After the Sermon (Jacob's Fight with the Angel)&lt;/i&gt; (both 1888). Neither man had a particularly promising reputation in the art world at this moment; rather, both were regarded as highly experimental painters searching for a new style that might depart from the mature Impressionism of Monet, Renoir, and Pissarro. The intensity of the artistic exchange would come to a dramatic conclusion as, by the end of nine weeks, van Gogh's depressive and occasionally violent emotional episodes led to the dissolution of their artistic partnership, although the two would forever admire each other's work.</p>
+          <p type="p">Gauguin returned to Paris, but only briefly. By now completely uninterested with Impressionism and what had, by that time come to be referred to as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-post_impressionism"&gt;Post-Impressionism&lt;/span&gt;, Gauguin focused on further developing his Symbolist flat application of paint and bold palette as in his painting &lt;i&gt;The Yellow Christ&lt;/i&gt; (1889), a work largely influenced by Japanese prints, African folk art, and popular imagery imprinted on Gauguin's memory from his travels to South America and the French East Indies (today's Caribbean).</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="img" alt="Paul Gauguin Portrait" show="1">/images20/photo/gauguin_paul_3.jpg</p>
+          <p type="p">In 1891, after spending years away from his wife and children, Gauguin effectively abandoned his family by moving alone, like a perpetual, solitary wanderer, to French Polynesia, where he would remain for the rest of his days. This move was the culmination of Gauguin's increasing desire to escape what he regarded as an artificial European culture for a life in a more "natural" condition.</p>
+          <p type="p">In his final decade, Gauguin lived in Tahiti, and subsequently Punaauia, finally making his way to the Marquesas Islands. During this time he painted more traditional portraits, such as &lt;i&gt;Tahitian Women on the Beach&lt;/i&gt; (1891), &lt;i&gt;The Moon and the Earth (Hina tefatou)&lt;/i&gt; (1893), and &lt;i&gt;Two Tahitian Women&lt;/i&gt; (1899). He also continued to experiment with quasi-religious and Symbolist subject matter, as in his &lt;i&gt;Manao Tupapau (The Spirit of the Dead Keeps Watch)&lt;/i&gt; (1892), and his &lt;i&gt;Where Do We Come From? What Are We? Where Are We Going?&lt;/i&gt; (1897). These works were painted during a period in which Gauguin was essentially bidding his career adieu, as if he were an athlete "at the top of his game," so to speak, but wanting to aspire towards a more spiritual condition. Seeking an unworldly sense of repose and detachment, he is said to have been obsessed with his own mortality. He looked back on his life and even borrowed figures from his own earlier paintings, perhaps as though to symbolically lend them an extended lifespan. Notably, by 1899 Gauguin was referring to himself satirically, writing to a Paris colleague that he painted only "on Sundays and holidays," ironically like the amateur he once embodied prior to pursuing art seriously. Not long after that self-deprecating quip, he unsuccessfully attempted suicide by self-poisoning.</p>
+          <p type="p">In early May, 1903, morally skittish, and weakened by drug-addiction and regular bouts with illness, Gauguin succumbed to the degenerative effects of syphilis and died at the age of 54, in the Marquesas islands, where he was subsequently buried.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="p">Gauguin's naturalistic forms and "primitive" subject matter would embolden an entire, younger generation of painters to move decisively away from late Impressionism and pursue more abstract, or poetically inclined subjects, some inspired by French Symbolist poetry, others derived from myth, ancient history, and non-Western cultural traditions for motifs with which they might refer to the more spiritual and supernatural aspects of human experience. Gauguin ultimately proved extremely influential to 20&lt;sup&gt;th&lt;/sup&gt;-century modern art, in particular that of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-picasso_pablo"&gt;Pablo Picasso&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-braque_georges"&gt;Georges Braque&lt;/span&gt; and their development of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cubism"&gt;Cubism&lt;/span&gt; from about 1911 to 1915. Likewise, Gauguin's endorsement of bold color palettes would have a direct effect on the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fauvism"&gt;Fauvists&lt;/span&gt;, most notably &lt;span class="marked_text chart-tooltip-target-top tooltip_id-derain_andre"&gt;André Derain&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-matisse_henri"&gt;Henri Matisse&lt;/span&gt;, both of whom would frequently employ intensely resonant, emotionally expressive, and otherwise "un-realistic" color.</p>
+          <p type="p">Gauguin, the man, became a legend almost independently of his art and came to inspire a number of literary works based on his "exotic" life story - a prime example being W. Somerset Maugham's &lt;i&gt;The Moon and Sixpence&lt;/i&gt; (1919).</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="cezanne_paul">The Large Bathers (1898-06)</artwork>
+    <artwork from="artist" page="monet_claude">Rouen Cathedral: The Facade at Sunset (1894)</artwork>
+    <artwork from="artist" page="van_gogh_vincent">Starry Night (1889)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>delacroix_eugene</entity>
+        <entity>cezanne_paul</entity>
+        <entity>monet_claude</entity>
+        <entity>pissarro_camille</entity>
+        <entity>degas_edgar</entity>
+      </column>
+      <column>
+        <entity>van_gogh_vincent</entity>
+        <entity>van_gogh_theo</entity>
+        <entity>laval_charles</entity>
+        <entity>bernard_emile</entity>
+        <entity>schuffenecker_emile</entity>
+      </column>
+      <column>
+        <entity>japonism</entity>
+        <entity>impressionism</entity>
+        <entity>cloisonnism</entity>
+        <entity>african_art</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>cezanne_paul</entity>
+        <entity>picasso_pablo</entity>
+        <entity>matisse_henri</entity>
+        <entity>derain_andre</entity>
+        <entity>mathews_arthur_frank</entity>
+      </column>
+      <column>
+        <entity>van_gogh_vincent</entity>
+        <entity>vollard_ambroise</entity>
+        <entity>laval_charles</entity>
+      </column>
+      <column>
+        <entity>primitivism</entity>
+        <entity>fauvism</entity>
+        <entity>cubism</entity>
+        <entity>orphism</entity>
+        <entity>arts_and_crafts</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Still-Life with Fruit and Lemons</title>
+      <year>c. 1880</year>
+      <materials>Oil on canvas</materials>
+      <desc>Composed while Gauguin was still working full time as a stockbroker and painting was little more than a hobby to him, this still-life reveals the artist's natural technical skill with brush and canvas. The subject matter is also standard Impressionist fare, and is a clear indicator of Gauguin's early influencers, which included Monet, Pissarro and Renoir. Gauguin's rendering of the tablecloth in particular also shows the strong influence of C&amp;#233;zanne, whose own still lifes used similar effects of outline and shading.</desc>
+      <collection>Museum Langmatt, Baden, Switzerland</collection>
+    </artwork>
+    <artwork>
+      <title>Four Breton Girls</title>
+      <year>1886</year>
+      <materials>Oil on canvas</materials>
+      <desc>Unlike others who painted rural French subjects in the 1880s, Gauguin chose to depict four Breton girls in a field in no simple documentary, or realist manner. Much of the landscape visible in this work suggests Gauguin's roots in Impressionism and its attendant ideal to capture the visual dalliance of a landscape on the artist's eye, or retina. But Gauguin pushes that recent heritage to new purposes, placing the girls in dance-like formation; emphasizing the massive flow of their dresses; creating profiles and silhouettes of portraits and figures suggesting paper dolls...these and other artistic manipulations of the subject begin to serve a symbolic purpose, suggesting that deeper meanings are hidden behind the superficial appearances of reality. In this "synthetic" work, Gauguin thus fuses elements of visual accuracy with distortions of design and composition that speak of the girls' mystical union with nature; indeed, they collectively assume the formation of a grove of botanical specimens, a lively school of fishes, or a flock of birds in an unseen, overhead canopy. Faces, figures, clothing, and landscape each assume equal importance in this democratic arena, in which girls interlock their limbs as effortlessly as if they had originally grown that way.</desc>
+      <collection>Neue Pinakothek, Munich, Germany</collection>
+    </artwork>
+    <artwork>
+      <title>Self-Portrait 'Les Miserables'</title>
+      <year>1888</year>
+      <materials>Oil on canvas</materials>
+      <desc>Just prior to Gauguin's departure for Arles in late 1888, Gauguin and the Dutch painter Vincent van Gogh sent each other examples of their respective work, including a number of self-portraits. This composition by Gauguin was included among the exchanges. In this work, Gauguin includes a likeness, in full profile, of the fictional character Jean Valjean, the morally upright but perpetually socially persecuted hero of Victor Hugo's &lt;i&gt;Les Miserables&lt;/i&gt; (1862). Sporting a solemn look, tousled hair, and tired eyes, Gauguin clearly intends to draw a parallel between himself and Valjean, whose petty crime of the past (he once stole a loaf of bread) forever brands him a criminal, no matter of his subsequent virtues. Van Gogh later recalled being deeply impressed by Gauguin's uncommonly bold applications of color.</desc>
+      <collection>The Van Gogh Museum, Amsterdam</collection>
+    </artwork>
+    <artwork>
+      <title>Vision After the Sermon (Jacob's Fight with the Angel)</title>
+      <year>1888</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;Vision after the Sermon&lt;/i&gt; represents a significant departure from the subject matter of Impressionism, namely the city or rural landscape, which was still quite prevalent in Europe and the United States during the last two decades of the 19&lt;sup&gt;th&lt;/sup&gt; century. Instead of choosing to paint pastoral landscape or urban entertainments, Gauguin depicted a rural Biblical scene of praying women envisioning Jacob wrestling with an angel. The decision to paint a religious subject was reminiscent of the Renaissance tradition, yet Gauguin rendered his subject in a decidedly modern style derived in part from Japanese prints, his own experiments in ceramics, stained-glass window methods, and other popular and "high art" traditions, finally emphasizing bold outlines and flat areas of color.</desc>
+      <collection>National Gallery of Scotland, Edinburgh</collection>
+    </artwork>
+    <artwork>
+      <title>The Yellow Christ</title>
+      <year>1889</year>
+      <materials>Oil on canvas</materials>
+      <desc>&lt;i&gt;The Yellow Christ&lt;/i&gt; is a strong example of both Cloisonnism (a style characterized by dark contours and bright areas of color separated by bold outlines) and Symbolism (in which subject matter is idealized or romanticized in some fashion). The painting's predominant imagery, the crucified Christ, is evident, but Gauguin places the scene in the north of France during the peak season of Autumn foliage, indeed as women in 19&lt;sup&gt;th&lt;/sup&gt;-century garb gather at the foot of the cross. It remains for the viewer to decide whether the vision is conjured in the minds of the pious or physically manifest in the contemporary landscape.</desc>
+      <collection>The Albright-Knox Art Gallery, Buffalo, NY</collection>
+    </artwork>
+    <artwork>
+      <title>Manao Tupapau (The Spirit of the Dead Keeps Watch)</title>
+      <year>1892</year>
+      <materials>Oil on canvas</materials>
+      <desc>One of Gauguin's most famous works, &lt;i&gt;Manao Tupapau&lt;/i&gt; is an excellent example of how Gauguin relished combining the ordinary with suggestions of the extraordinary in a single canvas, thus leaving all final interpretation open to debate. As he relates in a period diary, the actual scenario was inspired by his return home late one night and finding his wife, depicted here naked in the tropical heat, suddenly startled by his strike of a match in the all-enveloping darkness. Gauguin captures the luminous, unreal look of the sub-equatorial interior, here decorated by floral textiles, or batiks, along with other earthy materials, all suddenly illuminated by a momentary chemical combustion. At the same time, Gauguin introduces a ghostly depiction of a "watching" female spirit, seemingly harmless, at the foot of the bed, a direct reference to a local folklore describing how such spirits roam the night and forever share the world of the living. &lt;br&gt;&lt;br&gt;This same painting also illustrates well how Gauguin remained forever a child of the 19&lt;sup&gt;th&lt;/sup&gt; century, while nonetheless functioning as a bellwether, or beacon, to a younger generation. Most of his work remained rooted in the natural world around him, a legacy of his roots in Impressionism. But in some instances, Guaguin even speaks to the work of a former master, such as in this work, which for many eyes continues a precedent of the everyday, un-idealized nude set by Édouard Manet's &lt;i&gt;Olympia&lt;/i&gt; (1863). Yet Gauguin's work finally suggests, like that of his even more Symbolist contemporaries Odilon Redon and Gustave Moreau (both were more closely aligned than Gauguin with French Symbolist poetry of the day), that underneath the world of "rock solid" appearances lies a parallel realm of eternal mystery, spiritual import, and poetic suggestion.</desc>
+      <collection>The Albright-Knox Art Gallery, Buffalo, NY</collection>
+    </artwork>
+    <artwork>
+      <title>Where Do We Come From? What Are We? Where Are We Going?</title>
+      <year>1897</year>
+      <materials>Oil on canvas</materials>
+      <desc>Gauguin's late-century &lt;i&gt;magnum opus&lt;/i&gt;, painted in Tahiti, communicates a story in three stages from right to left, each stage corresponding to a question in the painting's title, which Gauguin inscribed, notably without question marks, in the upper left corner. The first stage of life, on the far right, is that of childhood; the second stage of young adulthood; the last stage of life's impending closure, here found at the far left, where, according to the artist, "an old woman approaching death appears reconciled and resigned to her thoughts." Unlike earlier attempts by Gauguin, this grand composition, derived partly from a long tradition of "stage-of-life" painting in Western societies, is not explicitly religious but, rather, more personal and obscurely spiritual. This is much in keeping with Gauguin's late-in-life retreat from European society into a culture native to what was then French Polynesia.	  	  &lt;br&gt;&lt;br&gt;	  	  In employing such an evocative, yet oblique title, Gauguin alludes to his own increasingly philosophical and mystical tendencies of his mature years. He had always been linked by his contemporaries with a Symbolist movement in painting that was closely allied to French poetry of the 1880s and 90s, but rarely did he, himself, attach overtly philosophical or literary references to his canvases. In &lt;i&gt;Where Do We Come From?&lt;/i&gt;, then, Gauguin is apparently looking back on a life spent largely apart from his own social and geographic wellsprings, and perhaps seeking mental, spiritual, and physical grounding in a world he consciously elected to serve as his "alternative reality."</desc>
+      <collection>Museum of Fine Arts, Boston, MA</collection>
+    </artwork>
+    <artwork>
+      <title>Two Tahitian Women</title>
+      <year>1899</year>
+      <materials>Oil on canvas</materials>
+      <desc>As Gauguin's time in Tahiti was coming to a close, he departed from his usual Symbolist style in order to paint portraits of Tahitian women, whose beauty, form, and lack of shame at their partial nudity (decidedly unlike many 19&lt;sup&gt;th&lt;/sup&gt;-century European women's regard of the naked body) at once fascinated, attracted, and inspired him. This double portrait is typical of Gauguin's later work, much of which reflected the artist's deep love of nature. As learned from the benefit of hindsight, it should perhaps be noted that Gauguin's painterly vision of the islands was, in large measure, a romantic one, the place and its people in turn exoticized, sexualized, and otherwise exaggerated by a painter in search of a viable alternative to what he perceived to be Western society's own cultural shortcomings.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Paul Gauguin: The Breakthrough Into Modernity</title>
+          <link>3775724273</link>
+          <info>By Paul Gauguin, Agnieszka Juszczak, Heather Lemonedes, Belinda Thomson</info>
+        </entry>
+        <entry>
+          <title>Gauguin: The Quest for Paradise</title>
+          <link>0810928000</link>
+          <info>By Francoise Cachin</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Yellow House: Van Gogh, Gauguin, and Nine Turbulent Weeks in Arles</title>
+          <link>B000SEJB7G</link>
+          <info>By Martin Gayford</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paul Gauguin</title>
+          <link>0684809419</link>
+          <info>By David Sweetman</info>
+        </entry>
+        <entry recommended="true">
+          <title>Gauguin (Basis Art Series 2.0)</title>
+          <link>3836532239</link>
+          <info>By Ingo F. Walther</info>
+        </entry>
+        <entry>
+          <title>Gauguin: A Spiritual Journey</title>
+          <link>3791357956</link>
+          <info>By Christina Hellmich and Line Clausen Pedersen </info>
+        </entry>
+        <entry>
+          <title>Van Gogh and Gauguin: The Studio of the South</title>
+          <link>0865591946</link>
+          <info>By Douglas W. Druick et al.</info>
+        </entry>
+        <entry>
+          <title>The Gauguin Atlas</title>
+          <link>030023726X</link>
+          <info>By Nienke Denekamp</info>
+        </entry>
+      </subcategory>
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Gauguin Tahiti</title>
+          <link>0878466665</link>
+          <info>By Paul Gauguin, George Shackelford, Claire Frèches-Thory</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paul Gauguin: Artist of Myth and Dream</title>
+          <link>8861304583</link>
+          <info>By Stephen Eisenman</info>
+        </entry>
+        <entry>
+          <title>Gauguin: Maker of Myth</title>
+          <link>0691148864</link>
+          <info>By Belinda Thomson, Tamar Garb, Charles Forsdick, Vincent Gille, Linda Goddard, Philippe Dagen</info>
+        </entry>
+        <entry>
+          <title>Gauguin and the Origins of Symbolism</title>
+          <link>0856675954</link>
+          <info>By Richard Schiff, Richard R. Brettel, Guy Cogeval, Mary Ann Stevens, Lola Jiminez Blanco</info>
+        </entry>
+        <entry recommended="true">
+          <title>Delphi Complete Works of Paul Gauguin (Illustrated)</title>
+          <link>B01N5DF5J8</link>
+          <info>By Peter Russell</info>
+        </entry>
+        <entry>
+          <title>The Sculpture and Ceramics of Paul Gauguin</title>
+          <link>0801802318</link>
+          <info>By Christopher Gray</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Paul Gauguin</title>
+          <link>0821217232</link>
+          <info>By Richard Brettell, Francoise Cachin, Claire Freches-Thory, and Charles F. Stuckey </info>
+        </entry>
+        <entry recommended="true">
+          <title>The Symbolism of Paul Gauguin: Erotica, Exotica, and the Great Dilemmas of Humanity</title>
+          <link>0520241304</link>
+          <info>By Henri Dorra</info>
+        </entry>
+        <entry>
+          <title>Paul Gauguin: The Prints</title>
+          <link>379135244X</link>
+          <info>By Elizabeth Prelinger and Tobia Bezzola</info>
+        </entry>
+        <entry>
+          <title>Gauguin: Portraits</title>
+          <link>0300242735</link>
+          <info>By Cornelia Homburg and Christopher Riopelle</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry>
+          <title>The Writings Of A Savage</title>
+          <link>0306807009</link>
+          <info>By Paul Gauguin</info>
+        </entry>
+        <entry recommended="true">
+          <title>Noa Noa: The Tahitian Journal</title>
+          <link>1449551483</link>
+          <info>By Paul Gauguin</info>
+        </entry>
+        <entry>
+          <title>Gauguin's Intimate Journals</title>
+          <link>0486294412</link>
+          <info>By Paul Gauguin</info>
+        </entry>
+        <entry>
+          <title>Savage Tales: The Writings of Paul Gauguin</title>
+          <link>0300240597</link>
+          <info>By Linda Goddard</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Paul Gauguin - The complete works</title>
+          <link>http://www.paul-gauguin.net/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry recommended="true">
+          <title>Gauguin: Maker of Myth</title>
+          <link>http://www.guardian.co.uk/artanddesign/2010/oct/03/paul-gauguin-maker-myth-tate-modern-review</link>
+          <info>
+					By Laura Cumming 
+					&lt;br&gt; 
+					The Observer
+					&lt;br&gt;
+					October 3, 2010
+				</info>
+        </entry>
+        <entry>
+          <title>Gauguin Uncovered</title>
+          <link>http://www.independent.co.uk/arts-entertainment/art/features/gauguin-uncovered-2091234.html</link>
+          <info>
+					By Michael Glover
+					&lt;br&gt;
+					The Independent
+					&lt;br&gt;
+					September 28, 2010
+				</info>
+        </entry>
+        <entry>
+          <title>Van Gogh, Gauguin, C&amp;#233;zanne and Beyond: De Young's post-Impressionist follow-up defies packaging, giving Van Gogh a minor role</title>
+          <link>http://articles.sfgate.com/2010-09-24/entertainment/24087047_1_van-gogh-mus-e-d-orsay-c-zanne</link>
+          <info>
+					By Kenneth Baker
+					&lt;br&gt;
+					SFGate.com
+					&lt;br&gt;
+					September 24, 2010
+				</info>
+        </entry>
+        <entry>
+          <title>Art Review; Gauguin's Paradise: Only Part Tahitian And All a Fantasy</title>
+          <link>http://www.nytimes.com/2004/03/05/arts/art-review-gauguin-s-paradise-only-part-tahitian-and-all-a-fantasy.html</link>
+          <info>
+					By Holland Cotter
+					&lt;br&gt;
+					The New York Times
+					&lt;br&gt;
+					March 5, 2004
+				</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Colors of Paradise As Imagined by Gauguin</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=9F04E6D6103FF937A25753C1A9659C8B63&amp;ref=paul_gauguin</link>
+          <info>
+					By Alan Riding
+					&lt;br&gt;
+					The New York Times
+					&lt;br&gt;
+					October 14, 2003
+				</info>
+        </entry>
+        <entry>
+          <title>A New York Bouquet of Gauguin</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=9F07E4D7153FF932A15755C0A9649C8B63&amp;ref=paul_gauguin</link>
+          <info>
+					By Holland Cotter
+					&lt;br&gt;
+					The New York Times
+					&lt;br&gt;
+					June 21, 2002
+				</info>
+        </entry>
+        <entry>
+          <title>A Show Equal to an Artist Larger than Life</title>
+          <link>http://query.nytimes.com/gst/fullpage.html?res=940DE4DA163EF93BA35756C0A96E948260&amp;ref=paul_gauguin</link>
+          <info>
+				By John Russell
+				&lt;br&gt;
+				The New York Times
+				&lt;br&gt;
+				May 8, 1988
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Going Native: Paul Gauguin and the Invention of Primitivist Modernism</title>
+          <link>https://faculty.risd.edu/bcampbel/GoingNative.pdf</link>
+          <info>
+				By Abigail Solomon-Godeau
+				&lt;br&gt;
+				Art in America
+				&lt;br&gt;
+				July 1989
+			</info>
+        </entry>
+        <entry recommended="true">
+          <title>Paul Gauguin and the Complexity of the Primitivist Gaze</title>
+          <link>https://arthistoriography.files.wordpress.com/2015/06/welten.pdf</link>
+          <info>
+					By Ruud Welten
+					&lt;br&gt;
+					Journal of Art Historiography 
+					&lt;br&gt;
+					June 2015
+				</info>
+        </entry>
+      </subcategory>
+    </category>
+  </sidebar>
+</data>

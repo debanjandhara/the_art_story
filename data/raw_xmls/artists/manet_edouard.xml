@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>manet_edouard</id>
+    <name>Édouard Manet</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1850 - 1883</years>
+    <description>Édouard Manet disregarded academic conventions and used a revolutionary approach to create strikingly modern images of urban life.</description>
+    <use_big_images>true</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Draftsman and Painter</occupation>
+    <nationality>French</nationality>
+    <birthDate>January 23, 1832</birthDate>
+    <birthPlace>Paris, France</birthPlace>
+    <deathDate>April 30, 1883</deathDate>
+    <deathPlace>Paris, France</deathPlace>
+    <image_desc>true</image_desc>
+    <img_version>?2</img_version>
+    <pub_time>7/1/2010</pub_time>
+    <big_bio_box_img>Detail from &lt;i&gt;The Suicide&lt;/i&gt; (1877)</big_bio_box_img>
+    <bio_highlight>Despite receiving countless rejections and non-stop criticism during his lifetime, Édouard Manet (who was never one to follow the status quo) insisted that “One must be of one's time and paint what one sees,” which is exactly what he did; today, his paintings are considered some of the most important works of the nineteenth century.</bio_highlight>
+    <hero>true</hero>
+    <custom_logo>true</custom_logo>
+  </main>
+  <includes>
+    <include>impressionism</include>
+    <include>realism</include>
+    <include>flaneur</include>
+  </includes>
+  <similar_movements>
+    <movement>impressionism</movement>
+    <movement>realism</movement>
+    <movement>post_impressionism</movement>
+    <movement>flaneur</movement>
+    <movement>erotic_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>fantin_latour_henri</artist>
+    <artist>degas_edgar</artist>
+    <artist>monet_claude</artist>
+    <artist>morisot_berthe</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I paint what I see and not what others like to see."</q>
+    <q>"You would hardly believe how difficult it is to place a figure alone on a canvas, and to concentrate all the interest on this single and universal figure and still keep it living and real."</q>
+    <q>"There are no lines in nature, only areas of color, one against another."</q>
+    <q>"A painter can say all he wants to with fruit or flowers or even clouds... You know, I should like to be the Saint Francis of still life."</q>
+    <q>"No one can be a painter unless he cares for painting above all else."</q>
+    <q>"There is only one true thing: instantly paint what you see. When you've got it, you've got it. When you haven't, you begin again. All the rest is humbug."</q>
+    <q>"It is not enough to know your craft - you have to have feeling. Science is all very well, but for us imagination is worth far more."</q>
+  </quotes>
+  <authors>
+    <author link="remer">Ashley E. Remer</author>
+    <author link="duncan">Alexandra Duncan</author>
+  </authors>
+  <article>
+    <synopsys>Édouard Manet was the most important and influential artist to have heeded poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire's&lt;/span&gt; call to artists to become painters of modern life. Manet had an upper-class upbringing, but also led a bohemian life, and was driven to scandalize the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-the_salon"&gt;French Salon&lt;/span&gt; public with his disregard for academic conventions and his strikingly modern images of urban life. He has long been associated with the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionists&lt;/span&gt;; he was certainly an important influence on them and he learned much from them himself. However, in recent years critics have acknowledged that he also learned from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-naturalism"&gt;Naturalism&lt;/span&gt; of his French contemporaries, and even from 17&lt;sup&gt;th&lt;/sup&gt; century Spanish painting. This twin interest in &lt;span class="marked_text chart-tooltip-target-top tooltip_id-old_masters"&gt;Old Masters&lt;/span&gt; and contemporary Realism gave him the crucial foundation for his revolutionary approach.</synopsys>
+    <key_ideas>
+      <idea>Manet's modernity lies above all in his eagerness to update older genres of painting by injecting new content or by altering the conventional elements. He did so with an acute sensitivity to historical tradition and contemporary reality. This was also undoubtedly the root cause of many of the scandals he provoked.</idea>
+      <idea>He is credited with popularizing the technique of &lt;i&gt;alla prima&lt;/i&gt; painting. Rather than build up colors in layers, Manet would immediately lay down the hue that most closely matched the final effect he sought. The approach came to be used widely by the Impressionists, who found it perfectly suited to the pressures of capturing effects of light and atmosphere whilst painting outdoors.</idea>
+      <idea>His loose handling of paint, and his schematic rendering of volumes, led to areas of "flatness" in his pictures. In the artist's day, this flatness may have suggested popular posters or the artifice of painting - as opposed to its realism. Today, critics see this quality as the first example of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;"flatness"&lt;/span&gt; in modern art.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Édouard Manet was born into an upper-middle-class Parisian family. His father, August, was a dedicated, high-ranking civil servant and his mother, Eugenie, was the daughter of a diplomat. Along with his two younger brothers, Manet grew up in a bourgeois environment, both socially conservative and financially comfortable. A mediocre student at best, he enrolled at thirteen in a drawing class at The Rollin School.</p>
+          <p type="p">Manet had a passion for art from an early age, but agreed to go to the Naval Academy to appease his father. When he failed the entrance exam, he joined the Merchant Marine to gain experience as a student pilot and voyaged to Rio de Janeiro in 1849. He returned to France the following year with a portfolio of drawings and paintings from his journey, and used it to prove his talent and passion to his father, who was skeptical of Manet's ambitions.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="img" alt="In &lt;i&gt;The Luncheon&lt;/i&gt; (1868) Manet depicts his (alleged) son Leon. He caringly painted the boy over a dozen times." show="1">/images20/photo/manet_11.jpg</p>
+          <p type="p">In 1849, Manet had an affair with his family's piano teacher, Suzanne Leenhoff. This affair resulted in a boy born in 1852, Leon, who was passed off to Suzanne's family and, to avoid scandal (from Manet's aristocratic family), was introduced to society as Suzanne's younger brother and Manet's godson. The following year, Manet traveled to Italy, both for the art and for social distraction.</p>
+          <p type="p">Reluctantly, his father allowed Manet to pursue his artistic goals. In January 1850, true to his contrary nature, instead of going to the École des Beaux-Arts to learn what he considered outdated modes, Manet joined &lt;span class="marked_text chart-tooltip-target-top tooltip_id-couture_thomas"&gt;Thomas Couture's&lt;/span&gt; studio. While Couture was an academic painter, and a product of the Salon system, he encouraged his students to explore their own artistic expression, rather than directly adhere to the aesthetic demands of the days.</p>
+          <p type="p">He trained under Couture for six years, finally leaving in 1856 and starting his own studio in the rue Lavoisier. His ability to set up his own space (although it was a joint endeavor with painter Albert de Balleroy) was entirely due to his financial security, which also enabled him to live his life and create art in his signature fashion. Becoming a &lt;i&gt;flâneur&lt;/i&gt; of Parisian life and translating his observations onto his canvases came naturally for Manet. His financial security also enabled him to travel through Holland, Germany, and Austria, and to visit Italy on several occasions. He met &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fantin_latour_henri"&gt;Henri Fantin-Latour&lt;/span&gt; - both would become important lifelong friendships.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="Édouard Manet's portrait by Leon Augustin Lhermitte" show="1">/images20/photo/manet_6.jpg</p>
+          <p type="p">Friends with poet &lt;span class="marked_text chart-tooltip-target-top tooltip_id-baudelaire_charles"&gt;Charles Baudelaire&lt;/span&gt; and artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-courbet_gustave"&gt;Gustave Courbet&lt;/span&gt;, Manet moved amongst other progressive thinkers who believed that art should represent modern life, not history or mythology. This was a tumultuous artistic shift that pitted the status quo of the Salon with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; artists who suffered mightily at the hands of the conservative public and vicious critics. Manet was the focus of several of these controversies and the Salon of 1863 refused his paintings. Manet and others protested and the Emperor relented by putting all of the rejected works into the secondary Salon des Refusés, so the public could see what had been deemed unworthy.</p>
+          <p type="p">The shocking &lt;i&gt;Le Dejeuner sur l'Herbe&lt;/i&gt; (1863) drew the most criticism for a number of reasons. The Renaissance allusions did not make sense to viewers, but what they did understand was the shameless and realistically rendered nudity of a woman - likely a prostitute - staring at them from the canvas. Critiques included comments that the painting was "vulgar," "immodest," and "unartistic," comments that deeply distressed Manet and likely caused him a serious bout with depression.</p>
+          <p type="p">Being included in the Salon des Refusés would have been upsetting for Manet's ego and personal reputation. His rebellious instincts encouraged him to want to change the system of exclusion under which the institutions - i.e. the Salon and École des Beaux Arts - operated, but he did not want them eliminated. Firm in his upper-middle-class background, Manet was embedded with certain ideals of achievement and he wished to be successful at the Salon - only on his terms, not theirs. The result was the creation of an unwitting revolutionary, and, arguably, the first modern artist.</p>
+          <p type="p">More controversies continued in the following year when he produced &lt;i&gt;Olympia&lt;/i&gt; (1863), which featured another nude of his favorite model, Victorine Meurent. Manet claimed to see the truth in her face, while painting her entire body for the world to see. This proved to be too confrontational and unacceptable to the Parisian public when viewed at the 1865 Salon. He wrote to his close friend Baudelaire, "They are raining insults upon me, I've never been led such a dance."</p>
+          <p type="p">After the death of Manet's father in 1862, he and Suzanne wed to legitimize their relationship, although their son Leon may never have known his true parentage. Manet's mother had likely helped the two conspire to keep the secret from Manet's father as he would not have tolerated the disgrace of an illegitimate child in the family. There has also been some speculation that Leon was actually Manet's father's child, but this is extremely unlikely.</p>
+          <p type="img" alt="Édouard Manet by Henri Fantin-Latour (1867)" show="1">/images20/photo/manet_33.jpg</p>
+          <p type="p">In 1864, Manet lived on the rue des Batignolles, and from 1866 he began to hold court every Thursday at the Café Guerbois, with the likes of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fantin_latour_henri"&gt;Henri Fantin-Latour&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-degas_edgar"&gt;Edgar Degas&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-zola_emile"&gt;Emile Zola&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-nadar"&gt;Nadar&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pissarro_camille"&gt;Camille Pissarro&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cezanne_paul"&gt;Paul Cézanne&lt;/span&gt;, and, by 1868, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-monet_claude"&gt;Claude Monet&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-renoir_pierre_auguste"&gt;Pierre-Auguste Renoir&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-sisley_alfred"&gt;Alfred Sisley&lt;/span&gt;. The meetings of what Zola termed "the Batignolles Group" were a mixture of personalities, attitudes, and classes; all joined together as independent-minded, avant-garde artists to forge the principles of their new artistic styles. With the assembling of such minds and talents on a regular basis, there was a great degree of mutual influence and such a mixing of ideas that they could all be said to have influenced one another. However, Manet was an early leader with his avant-garde &lt;span class="marked_text chart-tooltip-target-top tooltip_id-realism"&gt;Realism&lt;/span&gt;, along with Monet and Renoir, who eventually emerged as leaders of what would be called &lt;span class="marked_text chart-tooltip-target-top tooltip_id-impressionism"&gt;Impressionism&lt;/span&gt;.</p>
+          <p type="p">The Salon of 1866 refused his pieces &lt;i&gt;The Fifer&lt;/i&gt; (1866) and &lt;i&gt;The Tragic Actor&lt;/i&gt; (1866). In response, Manet held a public exhibition in his own studio. In support of this avant-garde move, Zola wrote an essay about Manet in &lt;i&gt;L'Evenement&lt;/i&gt;, for which he was fired. The following year Manet was excluded from the Paris &lt;i&gt;Exposition Universelle&lt;/i&gt;, and decided not to submit anything to the Salon and instead set up a tent near Courbet's to exhibit his work outside the Exposition, where he again was criticized soundly.</p>
+          <p type="p">Having painted a troupe of Spanish performers in 1861, Manet had been interested in Spanish culture, and after visiting Spain in 1865 he was affected by the works of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-velazquez_diego"&gt;Diego Velázquez&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goya_francisco"&gt;Francisco Goya&lt;/span&gt;. This was expressed both in his style and subject matter. As a staunch Republican, Manet was unhappy with Napoleon III's government. In the painting &lt;i&gt;The Execution of Emperor Maximilian&lt;/i&gt; (1867), which compositionally gave a nod to Goya, he implicated the French government in the tragic death of Maximilian in Mexico. This work was considered too politically controversial and its display was forbidden.</p>
+          <p type="img" alt="&lt;i&gt;Berthe Morisot Reclining&lt;/i&gt; (1867) is one of a dozen painting of the beautiful young painter that Manet made over their very passionate relationship." show="1">/images20/photo/manet_14.jpg</p>
+          <p type="p">Another important meeting was in 1868, when Henri Fantin-Latour introduced Manet to the Morisot sisters. Manet's relationship with the painter &lt;span class="marked_text chart-tooltip-target-top tooltip_id-morisot_berthe"&gt;Berthe Morisot&lt;/span&gt; was fraught at best. She became his student, he respected her as a painter, and even had her model for him on multiple occasions. While there was a multi-year, mutual infatuation, a true affair was impossible (both were from proper families, Manet was married, and Morisot only saw him with a chaperone). On one occasion, Manet painted and also taught the young &lt;span class="marked_text chart-tooltip-target-top tooltip_id-gonzales_eva"&gt;Eva Gonzales&lt;/span&gt; - Morisot was deeply hurt when she find out.  Ultimately, to avoid any domestic disturbances, Morisot married Manet's younger brother Eugene (who was certainly not the charismatic star that Manet was). This effectively ended their personal relationship, as Morisot never sat for him again, but she never stopped being Manet's biggest advocate.</p>
+          <p type="img" alt="Fantin-Latour's homage to the charisma of Manet was recorded in the painting &lt;i&gt;A Studio at Batignolles&lt;/i&gt; (1870)" show="1">/images20/photo/manet_12.jpg</p>
+          <p type="p">Fantin-Latour's &lt;i&gt;A Studio at Batignolles&lt;/i&gt; (1870), which depicts a gathering of Monet, Zola, Bazille, and Renoir, among others, all admiring Manet as he paints in his own studio, demonstrates Manet's significance to the modern art world. However, while some of his friends, like Monet, went to London to escape the Franco-Prussian War, Manet joined the National Guard. The political events of the next few years forced Manet to stay out of Paris, returning only briefly during the Versailles repression. He was later forced to leave his destroyed studio and set up in the rue de Saint-Petersbourg in 1872.</p>
+          <p type="img" alt="Édouard Manet photographed by Nadar (1874)" show="1">/images20/photo/manet_3.jpg</p>
+          <p type="p">Manet angered the Salon once again in 1875, with his submission &lt;i&gt;Argenteuil&lt;/i&gt; (1874), which showed a lighter palette and the influence of Monet's Impressionism. With &lt;i&gt;Argentueil&lt;/i&gt;, Manet sent the Salon what was essentially a manifesto of the emerging style, intended for those who had not attended the group's seminal exhibition in 1874.</p>
+          <p type="p">In 1876 the Salon rejected several of his works, so Manet responded by hosting another exhibition at his own studio, which drew over 4,000 visitors. And while many in the press claimed the Salon's rejection was unfair, he continued to be ostracized, with a subsequent denial coming in 1877. Refusing to submit to the 1878 Salon or to hold his own exhibition, Manet showed nothing that year and instead changed studios. Coincidently, that same year ill health began to affect his daily life.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">After taking some time away from Paris to aid his declining health, at the Salon of 1880 Manet was awarded a 2&lt;sup&gt;nd&lt;/sup&gt; place medal, granting him a pass from future competition and the chance to become a permanent exhibitor at all future Salons. Among further accolades, Manet was awarded the Legion of Honor in 1881. Continuing his life as the &lt;i&gt;flâneur&lt;/i&gt;, Manet recorded the modern changes in the streets of Paris and the lives of its inhabitants. The café concerts were a great symbol of these changes - a place where men and women from varying levels of society were able to mingle, enjoying company, drinks, and entertainment. Set in his favorite café concert, he created one of his most lauded works, &lt;i&gt;A Bar at the Folies-Bergère&lt;/i&gt; (1881-82).</p>
+          <p type="p">Manet continued to paint portraits of women, still lifes, landscapes, and flowers, even from his sickbed (he was unable to visit his studio in the last months of his life). Succumbing to a nervous disorder - most likely from tertiary syphilis - Manet died a horrible death after having been reduced to a wheelchair from gangrene, and even losing his leg.  He was only 51 years of age. In his will, he left his estate to Suzanne and obliged her to leave everything to Leon upon her death, which, for all practical purposes, confirms Leon as Manet's son and heir.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Édouard Manet self-portrait with palette (1879)" show="1">/images20/photo/manet_55.jpg</p>
+          <p type="p">After his death, Manet's wife and friends worked to secure his memory and legacy, through extraordinary sales of his paintings, acquisitions by the French government, and by publishing several biographies. Considered by many art historians to be the father of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modern_art"&gt;modern art&lt;/span&gt;, Manet's influence on modernism is immeasurable. While greatness and scandal characterized his professional life, his desire for respectability ultimately dictated his private life. In spite of his relatively short career, spanning a little over two decades, his works are held in most major international museums and galleries.</p>
+          <p type="p">He is best summarized by the 19&lt;sup&gt;th&lt;/sup&gt;-century writer Edmond de Goncourt "With Manet, whose techniques are lifted from &lt;span class="marked_text chart-tooltip-target-top tooltip_id-goya_francisco"&gt;Goya&lt;/span&gt;, with Manet and all the painters who have followed him, what we have is the death of oil painting, that's to say, of painting with a pretty, amber, crystalline transparency, of which &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rubens_peter_paul"&gt;Rubens's&lt;/span&gt; &lt;i&gt;Woman in a Straw Hat&lt;/i&gt; is the epitome.  Now we have opaque painting, matt painting, chalky painting, painting with all the characteristics of furniture paint. And everyone's doing it like that, from Raffaelli to the last little Impressionist dauber."</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="courbet_gustave">Burial at Ornans (1849)</artwork>
+    <artwork from="artist" page="monet_claude">Boulevard des Capucines (1873)</artwork>
+    <artwork from="artist" page="degas_edgar">The Bellelli Family (1858-67)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>titian</entity>
+        <entity>couture_thomas</entity>
+        <entity>courbet_gustave</entity>
+        <entity>delacroix_eugene</entity>
+        <entity>goya_francisco</entity>
+      </column>
+      <column>
+        <entity>baudelaire_charles</entity>
+        <entity>proust_antonin</entity>
+        <entity>fantin_latour_henri</entity>
+      </column>
+      <column>
+        <entity>neoclassicism</entity>
+        <entity>romanticism</entity>
+        <entity>realism</entity>
+        <entity>japonism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>monet_claude</entity>
+        <entity>renoir_pierre_auguste</entity>
+        <entity>degas_edgar</entity>
+        <entity>morisot_berthe</entity>
+      </column>
+      <column>
+        <entity>zola_emile</entity>
+        <entity>mallarme_stephane</entity>
+        <entity>duret_theodore</entity>
+        <entity>stevens_alfred</entity>
+      </column>
+      <column>
+        <entity>impressionism</entity>
+        <entity>post_impressionism</entity>
+        <entity>symbolism</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Le Dejeuner sur l'Herbe</title>
+      <year>1863</year>
+      <materials>Oil on canvas</materials>
+      <desc>As the primary talking point of the Salon des Refusés in 1863, it is fairly clear to see why this canvas shocked the bourgeois patrons and the Emperor himself. Manet's composition is influenced by the Renaissance artist Giorgione and by Raimondi's engraving of the Judgment of Paris after Raphael, but these influences are fractured by his disregard for perspective and his use of unnatural light sources. But it was the presence of an unidealized female nude, casually engaged with two fashionably dressed men, that was the focus of the most public outrage. Her gaze confronts the viewer on a sexual level, but through her Manet confronts the public as well, challenging its ethical and aesthetic boundaries.</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>Olympia</title>
+      <year>1863</year>
+      <materials>Oil on canvas</materials>
+      <desc>Representing a lower-class prostitute, Manet's &lt;i&gt;Olympia&lt;/i&gt; confronts the bourgeois viewer with a hidden, but well-known, reality. Purposefully provocative, it shocked the viewers of the 1865 Salon. &lt;i&gt;Olympia&lt;/i&gt;'s references to Titan's &lt;i&gt;Venus of Urbino&lt;/i&gt; (1538) and Goya's &lt;i&gt;Maja Desnuda&lt;/i&gt; (1799-1800) fit easily into the traditional "boudoir" genre, yet they culminate in a rather informal and individual portrait of a woman unashamed of her body. It is popularly thought that &lt;i&gt;Olympia&lt;/i&gt; is a pictorial depiction of passages from Baudelaire's famous collection of poems called &lt;i&gt;Les Fleurs du Mal&lt;/i&gt; (1857). For instance, Manet rather overtly includes a black cat, symbolizing heightened sexuality and prostitution - a characteristically Baudelarian symbol.</desc>
+      <collection>Musée d'Orsay, Paris</collection>
+    </artwork>
+    <artwork>
+      <title>The Battle of the USS "Kearsarge" and the CSS "Alabama"</title>
+      <year>1864</year>
+      <materials>Oil on canvas</materials>
+      <desc>Since his days as a Merchant Marine, Manet was always fascinated with the sea. This unusual canvas was inspired by text and photographic accounts of the American Civil War battle which occurred off the coast of Cherbourg, where the Union ship &lt;i&gt;Kearsarge&lt;/i&gt; sank the Confederate ship &lt;i&gt;Alabama&lt;/i&gt;. While there is nothing revolutionary in representing contemporary scenes of ocean battles, the traditional panoramic view is skewed by an elevated vantage point, as if the scene was recorded from the mast of an observing ship. The composition is rather flat with little gradation in color of the ocean to show distance, similar to a Japanese print.</desc>
+      <collection>The Philadelphia Museum of Art</collection>
+    </artwork>
+    <artwork>
+      <title>The Execution of Emperor Maximilian</title>
+      <year>1867-68</year>
+      <materials>Oil on canvas</materials>
+      <desc>France was shocked by the execution of Maximilian of Austria, Emperor of Mexico, on June 19, 1867. The politics behind Napoleon III's withdrawal of troops from Mexico also outraged the public. This canvas is clearly a nod to Goya's similar execution scene in &lt;i&gt;The Third of May 1808&lt;/i&gt; (1814). Manet was a devout Republican and was keenly influenced by political events, and here he sought to record contemporary events like a grand history painter, but with his own modern vision. However, the painting's subject matter was too sensitive to be exhibited at the time, especially with the overt implication of Napoleon III's culpability by dressing Maximilian in a sombrero and the soldiers in French uniforms. The Romantic spirit and muted tones create a distinctly somber, yet immediate scene.</desc>
+      <collection>Kunsthalle, Mannheim</collection>
+    </artwork>
+    <artwork>
+      <title>Boating</title>
+      <year>1874</year>
+      <materials>Oil on canvas</materials>
+      <desc>Manet painted many works based on his visits to Argenteuil where he and Renoir often visited Monet. The flatness of the background was created by filling its entirety with water, making the boat's shape the painting's only sense of space. Manet often took advantage of the light on the river Seine early in the morning, on his "floating studio" specifically built for this purpose. Evidence of the influence of his Impressionist friends can be seen in the quick, fluid brushstrokes of the woman's dress.</desc>
+      <collection>The Metropolitan Museum of Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>A Bar at the Folies-Bergere</title>
+      <year>1881-82</year>
+      <materials>Oil on canvas</materials>
+      <desc>This melancholic café scene is undoubtedly Manet's last masterpiece. The Folies-Bergere was a popular café concert for a fashionable and diverse crowd. The lively bar scene is reflected in the mirror behind the central figure, the sad bar girl. Her beautiful, tired eyes avoid contact with the viewer - who also plays a double role as the customer in this scene. Much has been made of the faulty perspective from the reflection in the mirror, but this was evidently part of Manet's interest in artifice and reality. On the marble countertop is an exquisite still-life arrangement of identifiable bottles of beer and liquor, flowers, and mandarins, all of which anticipate the still lifes of his final two years of life.</desc>
+      <collection>The Courtauld Gallery, London</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website" />
+    <category name="where to see works" />
+    <category name="featured books">
+      <subcategory name="biography" class="biography">
+        <entry recommended="true">
+          <title>Édouard Manet: Rebel in a Frock Coat</title>
+          <link>0226075443</link>
+          <info>By Beth Archer Brombert</info>
+        </entry>
+        <entry>
+          <title>The Life and Works of Manet</title>
+          <link>1858135850</link>
+          <info>By Nathaniel Harris</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Private Lives of the Impressionists</title>
+          <link>0060545585</link>
+          <info>By Sue Roe</info>
+        </entry>
+      </subcategory>
+      <subcategory name="written by artist" class="written-by" />
+      <subcategory name="artworks" class="artwork">
+        <entry recommended="true">
+          <title>Manet's Modernism: or, The Face of Painting in the 1860s</title>
+          <link>0226262170</link>
+          <info>By Michael Fried</info>
+        </entry>
+        <entry>
+          <title>Manet: A Visionary Impressionist</title>
+          <link>1597641332</link>
+          <info>By Henri Lallemand</info>
+        </entry>
+        <entry recommended="true">
+          <title>Édouard Manet, 1832-1883: The First of the Moderns</title>
+          <link>3822819492</link>
+          <info>By Gilles Neret</info>
+        </entry>
+        <entry>
+          <title>Manet: A New Realism</title>
+          <link>0764102958</link>
+          <info>By David Spence</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Rivalry: Four Friendships, Betrayals, and Breakthroughs in Modern Art</title>
+          <link>0812985079</link>
+          <info>By Sebastian Smee</info>
+        </entry>
+        <entry>
+          <title>The Painting of Modern Life: Paris in the Art of Manet and His Followers</title>
+          <link>0691009031</link>
+          <info>By T.J. Clark</info>
+        </entry>
+        <entry>
+          <title>Manet and the Object of Painting</title>
+          <link>1854378457</link>
+          <info>By Michel Foucault, Nicolas Bourriaud</info>
+        </entry>
+        <entry recommended="true">
+          <title>Manet</title>
+          <link>3836535106</link>
+          <info>By Gilles Néret</info>
+        </entry>
+        <entry>
+          <title>Manet: A Symbolic Revolution</title>
+          <link>150950009X</link>
+          <info>By Pierre Bourdieu</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Édouard Manet - The Complete Works</title>
+          <link>http://www.manetedouard.org/</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>This Famous Manet Painting Was an Early Example of Product Placement</title>
+          <link>https://www.artsy.net/article/artsy-editorial-famous-manet-painting-early-example-product-placement</link>
+          <info>
+						By Amanda Scherker 
+						&lt;br&gt;
+						Artsy
+						&lt;br&gt;
+						November 26, 2019 
+					</info>
+        </entry>
+        <entry>
+          <title>The Naked Truth</title>
+          <link>http://www.guardian.co.uk/lifeandstyle/2008/oct/03/women.manet</link>
+          <info>
+						By VR Main
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						October 2, 2008
+					</info>
+        </entry>
+        <entry>
+          <title>Manet Finds Fodder in the French Debacle in Mexico</title>
+          <link>http://www.nytimes.com/2006/11/03/arts/design/03mane.html?pagewanted=all</link>
+          <info>
+						By Holland Cotter
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						November 3, 2006
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Thoroughly Modern Manet</title>
+          <link>http://www.guardian.co.uk/culture/2006/jun/27/1</link>
+          <info>
+						By Jonathan Jones 
+						&lt;br&gt;
+						The Guardian 
+						&lt;br&gt;
+						June 26, 2006
+					</info>
+        </entry>
+        <entry>
+          <title>Impressionism, Born of the Sea</title>
+          <link>http://www.nytimes.com/2004/02/13/arts/art-review-impressionism-born-of-the-sea.html?pagewanted=all&amp;src=pm</link>
+          <info>
+						By Roberta Smith
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						February 13, 2004
+					</info>
+        </entry>
+        <entry>
+          <title>Edouard Manet and “Civil War” </title>
+          <link>https://www.academia.edu/41137356/Art_Journal_Edouard_Manet_and_Civil_War_</link>
+          <info>
+				By Jacquelynn Baas
+				&lt;br&gt;
+				Art Journal 
+				&lt;br&gt;
+				1985
+			</info>
+        </entry>
+        <entry>
+          <title>Édouard Manet Is Considered the Father of Modernism. Here Are His Most Famous Works</title>
+          <link>https://www.artnews.com/art-news/artists/why-is-edouard-manet-important-1202685425/</link>
+          <info>
+				By Tessa Solomon
+				&lt;br&gt;
+				ArtNEWS 
+				&lt;br&gt;
+				April 30, 2020
+			</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="articles" />
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Édouard Manet - Understanding Modern Art</title>
+          <link>https://www.youtube.com/watch?v=Ta0ym9HEXwM</link>
+          <info>Overview of the artist</info>
+        </entry>
+        <entry>
+          <title>Édouard Manet, Le déjeuner sur l’herbe (Luncheon on the Grass) (1863)</title>
+          <link>https://youtu.be/3xBGF8H3bQ4</link>
+          <info>Discussion and analysis of Manet's painting by SmartHistory</info>
+        </entry>
+        <entry>
+          <title>Édouard Manet, A Bar at the Folies-Bergere (1882)</title>
+          <link>http://www.youtube.com/watch?v=kMACjCg9r4E</link>
+          <info>Discussion and analysis of Manet's painting by SmartHistory</info>
+        </entry>
+        <entry recommended="true">
+          <title>Manet and Modern Beauty - The Art Institute of Chicago</title>
+          <link>https://www.youtube.com/watch?v=Vnb3gkijrko</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>Manet, Olympia - Smarthistory</title>
+          <link>https://www.youtube.com/watch?v=bihBbqzL96Y</link>
+          <info></info>
+        </entry>
+        <entry>
+          <title>Manet's 'Execution of Maximilian' in 10 minutes - The National Gallery</title>
+          <link>https://www.youtube.com/watch?v=jy6GWS0lGXA</link>
+          <info></info>
+        </entry>
+        <entry recommended="true">
+          <title>”Édouard Manet and the Illusion of Effortlessness” (Lecture by curator Emily A. Beeny at The Frick Collection)</title>
+          <link>https://youtu.be/D1iQC74Lw8E?t=356</link>
+          <info></info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips" />
+    </category>
+  </sidebar>
+</data>

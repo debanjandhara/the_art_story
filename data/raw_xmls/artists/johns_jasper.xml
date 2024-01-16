@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <main>
+    <id>johns_jasper</id>
+    <name>Jasper Johns</name>
+    <type>artist</type>
+    <active_section>artists</active_section>
+    <years>1954 - present</years>
+    <description>Jasper Johns initiated a dialogue with the viewer and their cultural context through his artistic exploration of how people see the things around them.</description>
+    <barnebys_item>141</barnebys_item>
+    <use_big_images>false</use_big_images>
+    <highlight>1</highlight>
+    <occupation>Painter, Scupltor, and Printmaker</occupation>
+    <nationality>American</nationality>
+    <birthDate>May 15, 1930</birthDate>
+    <birthPlace>Augusta, Georgia</birthPlace>
+    <img_version>?3</img_version>
+    <pub_time>2/5/2014</pub_time>
+    <repub_time>7/27/2020</repub_time>
+	<hero>true</hero>
+	<custom_logo>true</custom_logo>
+	<freestar_video_ad>true</freestar_video_ad>
+  </main>
+  <includes>
+    <include>neo_dada</include>
+    <include>collage</include>
+    <include>assemblage</include>
+  </includes>
+  <similar_movements>
+    <movement>neo_dada</movement>
+    <movement>pop_art</movement>
+    <movement>abstract_expressionism</movement>
+    <movement>satirical_artists</movement>
+  </similar_movements>
+  <similar_artists>
+    <artist>rauschenberg_robert</artist>
+    <artist>cage_john</artist>
+    <artist>cunningham_merce</artist>
+    <artist>johnson_philip</artist>
+  </similar_artists>
+  <quotes>
+    <q main="true">"I think a painting should include more experience than simply intended statement."</q>
+    <q>"Early on I was very involved with the notion of the painting as an object and tended to attack that idea from different directions."</q>
+    <q>"In my early work, I tried to hide my personality, my psychological state, my emotions. This was partly due to my feelings about myself and partly due to my feelings about painting at the time. I sort of stuck to my guns for a while but eventually it seemed like a losing battle. Finally one must simply drop the reserve."</q>
+    <q>"One of the crucial problems in art is the business of 'meaning it.' If you are a painter, meaning the paintings you make; if you are an observer, meaning what you see. It is very difficult for us to mean what we say or do. We would like to, but society makes this very hard for us to succeed in doing."</q>
+    <q>"One assumes that one's relationship to the work is the correct or only possible one. But with a slight re-emphasis of elements, one finds that one can behave very differently toward it, see it in a different way. I tend to focus upon a relationship between oneself and a thing that is flexible, that can be one thing at one time and something else at another time. I find it interesting, although it may not be very reassuring."</q>
+  </quotes>
+  <authors>
+    <author link="gershman">Rachel Gershman</author>
+  </authors>
+  <editors>
+    <editor link="hellstein">Valerie Hellstein</editor>
+  </editors>
+  <article>
+    <synopsys>
+			Jasper Johns's playful, enigmatic paintings interrogate the very ways in which we see and interpret the world. Beginning in the mid-1950s, Johns deliberately avoided art cut off from everyday life and made common signs, such as flags and targets, the subject of his work. Riffing on the divergent examples of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dada&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, Johns, along with his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt; collaborator &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, created a nuanced art that spoke to notions of autobiography, irreverence, and philosophical engagement.
+			&lt;br/&gt;&lt;br/&gt;
+			The reverberations of the work of Jasper Johns affected nearly every artistic movement from the 1950s through the present day. Breaking down the boundaries traditionally separating fine art and everyday life, he effectively laid the foundation for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art's&lt;/span&gt; embrace of commodity culture. Additionally, Johns's exploration of semiotics and perception also set the stage for both &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt; and more &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodern&lt;/span&gt; interventions in the 1980s, while his multimedia collaborations with &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cage_john"&gt;John Cage&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cunningham_merce"&gt;Merce Cunningham&lt;/span&gt; ushered in the dominance of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance Art&lt;/span&gt; in the 1960s and 1970s.
+		</synopsys>
+    <key_ideas>
+      <idea>Through his use of shreds of newspaper, found objects, and even mass-produced goods, like beer and coffee cans, Johns erased the division between fine art and mass culture. This shifted modern art toward the consumer landscape of mid-20&lt;sup&gt;th&lt;/sup&gt; century America, inspiring a host of Pop artists throughout the 1960s.</idea>
+      <idea>By employing everyday motifs like flags and targets, Johns engaged simultaneously both abstraction and representation. Both flags and targets are inherently flat, and thus as the subject for advanced painting, they call attention to the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;flatness of the picture pane&lt;/span&gt;, a key tenet for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-modernism"&gt;Modernist&lt;/span&gt; proponents like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-greenberg_clement"&gt;Clement Greenberg&lt;/span&gt;, but because they also point to popular culture, Johns's use of them runs against and subverts ideas of Modernist abstraction. The flag can be the depiction of something or the thing itself - an exploration of the boundries between art and object.</idea>
+      <idea>In Johns's paintings, one can see the gestural application of paint that is reminiscent of much of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;, but he does not imbue it with the psychological or existential depth that his predecessors did. Instead, he essentially quotes the gesturally evocative brushstroke, using the idea of the artist's mark as merely another symbol, or device, that enhanced the multiplicity of meanings and interpretations in his paintings.</idea>
+      <idea>In many ways, Johns learned from and adapted earlier Dadaist attitudes of subverting the artistic status quo. Like his predecessor, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;, Johns initiated an artistic dialogue between the work and the viewer that was meant to be resolved within the mind of the viewer. Over the decades, Johns has honed an open-ended attitude toward meaning-making that proved to be consequential for postmodern experiments, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-appropriation_art"&gt;Appropriation Art&lt;/span&gt;.</idea>
+    </key_ideas>
+    <sections>
+      <section title="Biography">
+        <subsection title="Childhood">
+          <p type="p">Born in 1930 in Augusta, Georgia, Jasper Johns grew up in rural South Carolina and lived with his paternal grandparents after his parents divorced when he was only a toddler. The paintings of his deceased grandmother hung in his grandfather's house, where he lived until the age of nine, and provided his only exposure to art in his childhood. Johns began drawing at a very young age, with a vague intention of wanting to become an artist, but only pursued an official art education in college. He described his childhood desire to become an artist, stating, "I really didn't know what that meant. I think I thought it meant that I would be in a situation different than the one that I was in." Johns moved in with his Aunt Gladys for a few years in his adolescence during which she taught him, and two other students, in a one-room schoolhouse. Eventually Johns reunited with his re-married mother and graduated as the valedictorian of his high school class in Sumter, South Carolina.</p>
+        </subsection>
+        <subsection title="Early Training">
+          <p type="p">After high school, Johns spent three semesters at the University of South Carolina, starting in 1947. Urged by his teachers to study in New York, he moved north and spent one semester at the Parsons School of Design in 1948. However, Parsons was not the ideal fit for Johns, and he left the school, rendering him eligible for the draft. In 1951, he was drafted into the army and spent two years in service during the Korean War at Fort Jackson, South Carolina, and in Sendai, Japan.</p>
+          <p type="img" alt="Robert Rauschenberg visits Jasper Johns's Pearl Street studio in the early days of their artistic collaborations and romantic relationship that would last several years. Photo by Rachel Rosenthal, New York (c.1954)" show="1">/images20/photo/photo_johns_jasper_2.jpg</p>
+          <p type="p">Upon returning to New York after an honorable discharge from the army in 1953, Johns met the young artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt;, who ushered him into the art scene. The two artists shared an intense relationship, both romantic and artistic, from 1954 to 1961. Johns noted that he "learned what an artist was from watching [Rauschenberg]." The two artists eventually lived together, had neighboring studio spaces, and, when not many others were interested in their work, became each other's audience. Through their constant contact, they deeply influenced each other's artwork, exchanging ideas and techniques that broke from the then-dominant style of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionism&lt;/span&gt;. Both were interested in collage and subverting the existentialist and psychological rhetoric surrounding the then-dominant New York School of painting.</p>
+          <p type="img" alt="Marcel Duchamp's &lt;i&gt;The Bride Stripped Bare by Her Bachelors, Even (The Large Glass)&lt;/i&gt; (1915-23) had a formative effect on Johns, who would reference the Dadaist master in several of his later works." show="1">/images20/photo/photo_johns_jasper_3.jpg</p>
+          <p type="p">It was during this time that Johns began painting his American flag paintings and targets, using a method that combined bits of newspaper and scraps of fabric on paper and canvas and covered with encaustic paint (pigment mixed with wax). These experiments combined &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaist&lt;/span&gt; gestures and presaged aspects of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-minimalism"&gt;Minimalism&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop&lt;/span&gt;, and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt;.</p>
+          <p type="p">According to Johns, the idea for &lt;i&gt;Flag&lt;/i&gt; came to him one night in 1954, when he dreamt about painting a large American flag. He brought the dream to life the following day, and eventually he completed several paintings of the same subject. Johns thrived in creating works that could be interpretted in multiple ways and said "[these works are] no more about a flag than about a brushstroke, or about the physicallity of paint".</p>
+          <p type="p">Rauschenberg introduced Johns to composer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cage_john"&gt;John Cage&lt;/span&gt; and choreographer &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cunningham_merce"&gt;Merce Cunningham&lt;/span&gt;, as well as to the work of European Dadaist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;. In 1958, Johns and Rauschenberg traveled to see the collection of Duchamp's work at the Philadelphia Museum, where the elder Dada artist's &lt;span class="marked_text chart-tooltip-target-top tooltip_id-readymade"&gt;readymades&lt;/span&gt; had a profound impact on both of the artists. In 1959, Duchamp himself visited Johns's studio, forming a direct connection between the earlier 20&lt;sup&gt;th&lt;/sup&gt;-century &lt;span class="marked_text chart-tooltip-target-top tooltip_id-avant_garde"&gt;avant-garde&lt;/span&gt; and the newest generation of American artists. Through these introductions, Johns's artistic practice expanded as he incorporated new methods into his own work.</p>
+        </subsection>
+        <subsection title="Mature Period">
+          <p type="img" alt="&lt;i&gt;Green Target&lt;/i&gt; (1955) was the first painting that Johns exhibited at the Jewish Museum in the 1957 show &lt;i&gt;Artists of the New York School: Second Generation&lt;/i&gt;." show="0">/images20/photo/photo_johns_jasper_4.jpg</p>
+          <p type="p">Although he had only exhibited his painting &lt;i&gt;Green Target&lt;/i&gt; (1955) in a group show at the Jewish Museum in 1957, Johns received his first solo exhibition in 1958, after Rauschenberg introduced him to the burgeoning, influential gallerist Leo Castelli. The solo show featured Johns's groundbreaking painting &lt;i&gt;Flag&lt;/i&gt; (1954-5), as well as other previously unseen works from the previous few years.  The Castelli Gallery show captivated some, including artist &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kaprow_allan"&gt;Allan Kaprow&lt;/span&gt;, and puzzled other attendees. Though the surfaces of these paintings contained the drip-like qualities of the gestural canvases of &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_kooning_willem"&gt;Willem de Kooning&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pollock_jackson"&gt;Jackson Pollock&lt;/span&gt;, the emotional expressionism of those paintings were missing. Despite some reservations, though, Johns's first solo exhibition received monumentally positive critical attention and catapulted Johns into the public eye. &lt;span class="marked_text chart-tooltip-target-top tooltip_id-barr_alfred"&gt;Alfred Barr&lt;/span&gt;, the director of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-museum_of_modern_art"&gt;The Museum of Modern Art&lt;/span&gt;, bought three paintings for the museum, which was essentially unheard of for a young, unknown artist.</p>
+          <p type="p">As the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-pop_art"&gt;Pop Art&lt;/span&gt; movement grew around him, Johns left behind the colorful paintings filled with familiar gestures and images and turned to a darker palette. Some critics attribute the shift away from color and toward the grays, blacks, and whites that dominate many of his canvases from the early 1960s to the rocky end of his relationship with Rauschenberg. Although they did not move out of their New York studio spaces until 1961, their relationship was already strained by 1959. That year Rauschenberg acquired a studio space in Florida, and two years later, Johns took a studio on Edisto Island in South Carolina. Although they still spent some time together in New York, both increasingly went their separate ways.</p>
+          <p type="p">The end of such an influential and formative relationship had a huge emotional impact on Johns, and he immersed himself in his work as well as the linguistic philosophy of Ludwig Wittgenstein and the poetry of Hart Crane. In 1963, he noted that he "had the sense of arriving at a point where there was no place to stand." Despite his unsureness, he continued to expand the focus and ambiguous meanings of his works. During this time, he was involved with the Merce Cunningham Dance Company and served as the artistic director from 1967 through 1980. In 1968, Johns designed the set decor for &lt;i&gt;Walkaround Time&lt;/i&gt;, taking cues from Duchamp's &lt;i&gt;The Large Glass (The Bride Stripped Bare by Her Bachelors, Even)&lt;/i&gt; (1915-23). Starting in 1960, he began a long-lasting, working relationship with Tatyana Grosman at Universal Limited Art Editions (ULAE), where he created over 120 prints over the decade. Many of his prints echoed the subjects of his paintings, while others expanded his visual repertoire, but all formed a critical dialogue with the rest of his &lt;i&gt;oeuvre&lt;/i&gt;. During the 1960s, he also began to further integrate physical, sculptural elements into his paintings, a practice inherited from Duchamp's readymades and Rauschenberg's combines.</p>
+        </subsection>
+        <subsection title="Late Period">
+          <p type="p">After his Edisto Island studio burned down in 1968, Johns split his time between New York City, the Caribbean island of St. Martin, and Stony Point, New York, on Long Island; he bought studios at the latter two sites in the early 1970s. During this period, Johns introduced the use of the motif of crosshatching, or line clusters, into his repertoire, and this style dominated his output through the early 1980s. Throughout the 1980s and 1990s, Johns's work took a more introspective turn as he included specifically autobiographical content in his work. Although, as Johns slyly pointed out, "There is a period in which I began to use images from my life, but everything you use is from your life," suggesting that there had always been an autobiographical element to his work.</p>
+          <p type="p">Johns became increasingly more reclusive in the decades after his break from Rauschenberg, almost never giving interviews, and maintaining a very quiet public persona; however, he continued to have close contact with a select few of the art world's insiders. Architect &lt;span class="marked_text chart-tooltip-target-top tooltip_id-johnson_philip"&gt;Philip Johnson&lt;/span&gt; designed the entertainment center that frames a wall in Johns's St. Martin studio, while the former Senior Consultant for Modern and Contemporary Art at the Metropolitan Museum, Nan Rosenthal helped Johns name his &lt;i&gt;Catenary&lt;/i&gt; series (1999) when she and her husband visited Johns in that same tropical studio in the late 1990s. He created his most recent series of prints with ULAE in 2011, still experimenting with many recurring motifs in varying mediums.</p>
+          <p type="p">Johns made headlines again in August 2013, after his studio assistant from 1988 to 2012, James Meyer, was charged with the theft of six-and-a-half-million dollars worth of art from a folder of unfinished works that Johns had prohibited from being sold. Meyer absconded with the 22 works from Johns's studio in Sharon, Connecticut, to sell them through an unidentified gallery in New York, claiming they were gifts from Johns. Johns did not comment on the theft, but he did fire Meyer shortly after discovering the missing works. Johns currently splits his time between his studios in Sharon, Connecticut, where he moved in the 1990s, and St. Martin, and is presently represented by the Matthew Marks Gallery in New York.</p>
+        </subsection>
+        <subsection title="Legacy">
+          <p type="img" alt="Rauschenberg with Jasper Johns, John Cage, and others in Rauschenberg's or Johns's Pearl Street studio, New York, ca. 1955" show="1">/images20/photo/photo_johns_jasper_5.jpg</p>
+          <p type="p">As part of the Neo-Dada movement, Johns bridged the aesthetic gap between Abstract Expressionism and Pop Art during the late 1950s, but to this day, he continues to expand his subjects, materials, and styles. Pop artists, like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rosenquist_james"&gt;James Rosenquist&lt;/span&gt;, benefitted from Johns's groundbreaking turn to the realm of culture, presenting everyday objects and mass-produced goods as an acceptable subject matter for fine art. Through his exploration of the mutable meanings of images and symbols, Johns also paved the way for &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art&lt;/span&gt; in the 1960s. In his collaborations with performance artists like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-cunningham_merce"&gt;Merce Cunningham&lt;/span&gt; and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-kaprow_allan"&gt;Allan Kaprow&lt;/span&gt;, Johns's expanded artistic practice helped usher in movements and groups like &lt;span class="marked_text chart-tooltip-target-top tooltip_id-fluxus"&gt;Fluxus&lt;/span&gt;, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-body_art"&gt;Body Art&lt;/span&gt;, and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-performance_art"&gt;Performance Art&lt;/span&gt; of the 1960s and 1970s. While Pop artists directly inherited Johns's representation of the outside world, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-postmodernism"&gt;postmodernism's&lt;/span&gt; aesthetic of bricolage is heir to his interest in appropriation, the multiplicity of meanings, and semiotic play. Ultimately, Johns and his &lt;span class="marked_text chart-tooltip-target-top tooltip_id-neo_dada"&gt;Neo-Dada&lt;/span&gt; contemporaries shifted the focus of the American avant-garde, heralding the experimentation and viewer interaction that would come to dominate the art of the latter half of the twentieth century.</p>
+        </subsection>
+      </section>
+    </sections>
+  </article>
+  <similar_artworks>
+    <artwork from="artist" page="duchamp_marcel">L.H.O.O.Q (1919)</artwork>
+    <artwork from="artist" page="de_kooning_willem">Pink Angels (c.1945)</artwork>
+    <artwork from="artist" page="rauschenberg_robert">Bed (1955)</artwork>
+  </similar_artworks>
+  <chart>
+    <top>
+      <column>
+        <entity>duchamp_marcel</entity>
+        <entity>de_kooning_willem</entity>
+        <entity alt="Marcel Proust">proust_marcel</entity>
+        <entity alt="Ludwig Wittgenstein">wittgenstein_ludwig</entity>
+      </column>
+      <column>
+        <entity>rauschenberg_robert</entity>
+        <entity>cage_john</entity>
+        <entity>cunningham_merce</entity>
+      </column>
+      <column>
+        <entity>dada</entity>
+        <entity>surrealism</entity>
+        <entity>abstract_expressionism</entity>
+      </column>
+    </top>
+    <bottom>
+      <column>
+        <entity>warhol_andy</entity>
+        <entity>ruscha_ed</entity>
+        <entity>oldenburg_claes</entity>
+        <entity>stella_frank</entity>
+      </column>
+      <column>
+        <entity>castelli_leo</entity>
+        <entity>johnson_philip</entity>
+        <entity alt="Tatyana Grosman">grosman_tatyana</entity>
+      </column>
+      <column>
+        <entity>neo_dada</entity>
+        <entity>pop_art</entity>
+        <entity>minimalism</entity>
+        <entity>conceptual_art</entity>
+      </column>
+    </bottom>
+  </chart>
+  <artworks>
+    <artwork>
+      <title>Flag</title>
+      <year>1954-55</year>
+      <materials>Encaustic, oil, and collage on fabric mounted on plywood, three panels</materials>
+      <desc>
+				Johns's first major work broke from the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-abstract_expressionism"&gt;Abstract Expressionist&lt;/span&gt; precedent of non-objective painting with his representation of a recognizable everyday object - the American flag. Additionally, instead of using oil paint applied to the canvas with a brush, Johns built the flag from a dynamic surface made up of shreds of newspaper dipped in encaustic, allowing snippets of text to remain visible through the wax. As the molten, pigmented wax cooled, it fixed the scraps of newspaper in visually distinct marks that evoked the gestural brushwork of much of Abstract Expressionism. The seemingly frozen drips and gestures embodied Johns's interest in semiotics, or the study of signs and symbols. In effect, Johns "quoted" the expressionistic brushstroke of the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-action_painting"&gt;Action Painters&lt;/span&gt;, turning it into a symbol for artistic expression rather than a direct mode of expression. This experiment began his career-long investigation into "how we see and why we see the way we do."
+				&lt;br/&gt;&lt;br/&gt;
+				The symbol of the American flag, to this day, carries a host of connotations and meanings that shift from individual to individual, making it the ideal subject for Johns's initial foray into visually exploring the "things the mind already knows." He intentionally blurred the lines between high art and everyday life with his choice of seemingly mundane subject matter. Johns painted &lt;i&gt;Flag&lt;/i&gt; in the context of the McCarthy witch-hunts in Cold War America and the civil rights movement. Then and now, some viewers will read national pride or freedom in the image, while others only see imperialism and oppression. Johns was one of the first artists to present viewers with the dichotomies embedded in the national symbol. Johns referred to his paintings as "facts" and did not provide predetermined interpretations of his work; when critics asked Johns if the work was a painted flag, or a flag painting, he said it was both.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+      <use_big_image>true</use_big_image>
+    </artwork>
+    <artwork>
+      <title>Target with Four Faces</title>
+      <year>1955</year>
+      <materials>Encaustic on newspaper and cloth over canvas surmounted by four tinted-plaster faces in wood box with hinged front</materials>
+      <desc>
+				In this work, Johns effectively merged painting and sculpture while wittily engaging the viewer with "things which are seen and not looked at." As in &lt;i&gt;Flag&lt;/i&gt;, Johns relied on newspaper and fabric dipped in encaustic to build the textured surface of the painting. Over the course of four months, he also made plaster casts of the lower half of a model's face and ultimately placed them in a hinged, wood box affixed to the top of the canvas. By incorporating the sculptural elements in the same space as the painting, Johns emphasized the three-dimensional objecthood of the painting, just as &lt;span class="marked_text chart-tooltip-target-top tooltip_id-rauschenberg_robert"&gt;Robert Rauschenberg&lt;/span&gt; did in his "combine" paintings of the late 1950s. Indeed, the hinged nature of the box allows for the viewer to open and close the box, giving the artwork an extra dimension. This merging of mediums was a pointed response to the recent progression of abstract painting that emphasized opticality and the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-medium_specificity_and_flatness"&gt;flatness of the picture plane&lt;/span&gt; championed by art critics like Clement Greenberg .
+				&lt;br/&gt;&lt;br/&gt;
+				Beyond the material surface of the work, the concentric circles of the target are at once a painting of a target and a target itself, for when one places a target of concentric circles on anything, that thing becomes a target. The target implies the acts of seeing and taking aim, and in this case, not just at the target itself but also the anonymous faces above it. Importantly, though, Johns excluded the model's eyes from the plaster casts, and thus thwarted any exchange of gazes between the viewer and the faces in the work. This forced the viewer to examine the interactions between the painted target and the plaster faces. Viewed through the lens of the Cold War era, the seemingly benign images can imply the targeting of the anonymous masses by global political powers as well as by corporate advertising and the mass media.  Or these faces can be interpretted as the violence of a gun shooting range - the faces indicating a loss of sight (and thereby reality/morality) by the masses.
+			</desc>
+      <collection>The Museum of Modern Art, New York</collection>
+    </artwork>
+    <artwork>
+      <title>False Start</title>
+      <year>1959</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				In &lt;i&gt;False Start&lt;/i&gt;, Johns relied on language to draw viewers into a dialogue with the painting. Throughout the gestural patches of red, yellow, blue, orange, white, and pink, one sees the words "red," "orange," "blue," and "yellow" stenciled in various orientations across the surface of the canvas. The change of subject matter - from the nonverbal signs of targets and flags to language itself - moved Johns further into an investigation of semiotics and how we interpret and read signs and symbols. As he noted, "The flags and targets have colors positioned in a predetermined way. I wanted to find a way to apply color so that the color would be determined by some other method." By focusing on colors and the words that represent them, Johns abstracted each, removing the traditional associations that accompanied them. Rather than hand-painting each letter, Johns used a store-bought stencil - a readymade method by which he could create an image without revealing the trace of the artist's hand. He stenciled the words that denote colors on top and underneath the various layers of paint as he worked. Johns transformed the words into objects by rendering most of them in colors unrelated to the one they verbally represent; for instance, "RED" appears painted in bright orange in the center of the canvas atop a patch of yellow. Johns revealed the dissonance between the words and the colors, shifting their function from designation to a mere assembly of symbols, ripe for reconsideration.
+				&lt;br/&gt;&lt;br/&gt;
+				Influenced by John Cage's interest in the role of chance in the creative process, Johns used the gestural technique of applying small sections of paint to the canvas according to arbitrary arm movements rather than any preconceived placement for each individual brushstroke, a technique he called "brushmarking." His use of brushmarking resulted in explosive bursts of color, as if in an erupting fireworks display, that both highlight and obscure the uncannily hued words scattered across the canvas, creating a semiotic tension. By incorporating language into his visual repertoire, Johns expanded his dialogue with viewers to encompass the function of both visual and verbal symbols. Such explorations stand as clear precursors to &lt;span class="marked_text chart-tooltip-target-top tooltip_id-conceptual_art"&gt;Conceptual Art movement's&lt;/span&gt; examination of words and their meanings in the late 1960s.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Painted Bronze (Ale Cans)</title>
+      <year>1960</year>
+      <materials>Painted bronze</materials>
+      <desc>
+				In this bronze sculpture, Johns blurs the line between found object and artistic recreation. He reportedly fashioned the sculpture after &lt;span class="marked_text chart-tooltip-target-top tooltip_id-de_kooning_willem"&gt;Willem de Kooning&lt;/span&gt; sneeringly joked that gallerist Leo Castelli could sell anything, including two beer cans. Johns accepted the challenge implicit in De Kooning's statement, casting two cans of Ballantine Ale in bronze and hand-painting them, which, of course, Leo Castelli promptly sold. Because the bronze mimics the original color of the beer cans, Johns created a &lt;i&gt;trompe l'oeil&lt;/i&gt; effect; however, he also subtly subverted the effect by allowing his brushstrokes to remain visible in the painted labels, creating an imperfection visible only upon careful observation.
+				&lt;br/&gt;&lt;br/&gt;
+				Johns cast one can with an open top and painted the Ballantine insignia and the word Florida on its top. The other can is unopened, unmarked, and solidly impenetrable. Some critics read the differences between the cans as a metaphor for the relationship between Johns and Rauschenberg. In this reading, the open can represents the gregarious and popular Rauschenberg, who began spending much of his time in his Florida studio in 1959, while the closed one stands for Johns and his quiet, impenetrable public facade. Other critics insist on a less biographical narrative that simply suggests everyday life: the closed can pointing to the before, to possibilities, and the open can to the after, to consequences. Of course, Johns never indicated his preferred reading, leaving the possibilities of interpretation open. In many ways, Johns' representation of mass-produced goods was an early indicator of the trend of Pop Art.
+			</desc>
+      <collection>Museum Ludwig, Cologne</collection>
+    </artwork>
+    <artwork>
+      <title>Periscope (Hart Crane)</title>
+      <year>1962</year>
+      <materials>Oil on canvas</materials>
+      <desc>
+				Here Johns combined several of the motifs and symbols from his earlier paintings in a constrained palette of gray, black, and white. The upper right-hand corner of the painting contains half of a circle. In 1959, Johns adopted a technique in which he attached a wooden slat, usually a ruler or canvas stretcher, to the painting to create a compass-drawn circle. The device dragged through the paint, forming a target that echoed his earlier paintings. Here, though, he interrupted the concentric circles of the target with an imprint of his outstretched hand. The handprint suggests the replacement of the artist's hand with a mechanical device.
+				&lt;br/&gt;&lt;br/&gt;
+				The artist's hand is a recurring form in a series of works, including &lt;i&gt;Periscope (Hart Crane)&lt;/i&gt;, that Johns executed from 1962 through 1963 and that focus on the American poet Hart Crane, whose poetry resonated deeply with Johns. Crane famously committed suicide at 32 during a return trip from the tropics by diving off a ship into the Gulf of Mexico (reportedly, after getting beaten up after making sexual advances to a sailor). Just before he disappeared below the sea, he reached his hand above the waves. Johns's handprint, then, can also be read as a visual reference to Crane's suicide. Executed after the bitter end of his relationship with Rauschenberg, it signals Johns's emotional distress in the wake of their breakup. 
+				&lt;br/&gt;&lt;br/&gt;
+				The periscope in the title also refers to Crane's poem &lt;i&gt;Cape Hatteras&lt;/i&gt; (1929), which had dual importance for Johns. He not only moved into a studio near Cape Hatteras in 1961, but the epic poem also traces the changes in one's memory as time passes. In the aftermath of their breakup, Johns likely identified with the theme of change and loss, which he illustrated through the grasping hand, the mirrored words, and the splashy brushwork that echoed waves crashing about a drowning man. In direct contrast to the coolly automated aesthetic of Pop Art that his work helped bring about, Johns imbued his works of the early 1960s with complicated messages of loss and emotional hardship.
+			</desc>
+      <collection>Collection of the artist</collection>
+    </artwork>
+    <artwork>
+      <title>According to What</title>
+      <year>1964</year>
+      <materials>Oil on canvas with objects</materials>
+      <desc>
+				Johns created this dizzingly expansive, sixteen-foot-long painting by joining several canvases together and attaching various found objects to the painted surface: a chair, a cast of legs, another stretched canvas with a hinge, metal letters, and a coat hanger. He included techniques that appeared in earlier works, like "brushmarking," the stenciled names of colors, the hinged lid that can be open and closed, and cast body parts. He also expanded his visual repertoire by including elements of silkscreened newspaper pages reporting about the Kremlin in the center of the painting. While &lt;span class="marked_text chart-tooltip-target-top tooltip_id-warhol_andy"&gt;Andy Warhol&lt;/span&gt; and Robert Rauschenberg used silkscreening as a convenient method of reproducing photographs in paintings without evidence of the artist's hand, Johns fervently painted into and around the screened headlines, reinforcing the idea of the intertwining of the artist's hand and devices to create mechanical reproductions.
+				&lt;br/&gt;&lt;br/&gt;
+				Like with many of Johns's works, the various elements combine into layers of possible meanings. While many of the elements seem to be clues to a secret meaning, one overt reference reminds the viewer of Johns's debt to his mentor, &lt;span class="marked_text chart-tooltip-target-top tooltip_id-duchamp_marcel"&gt;Marcel Duchamp&lt;/span&gt;. On the far-most left panel, one finds a blurred image of Duchamp and his initials "MD." Johns recalled, "Duchamp did a work which was a torn square (I think it's called something like &lt;i&gt;Myself Torn To Pieces&lt;/i&gt;). I took a tracing of the profile, hung it by a string and cast its shadow so it became distorted and no longer square.... I have deliberately taken Duchamp's own work and slightly changed it, and though to make a kind of play on whose work it is, whether mine or his." Johns's incessant playing with artistic authorship is on full display in &lt;i&gt;According to What&lt;/i&gt;, and as always, he requires the viewer's participation in meaning-making by presenting the disparate elements without a clear map to their relations.
+			</desc>
+      <collection>Private Collection</collection>
+    </artwork>
+    <artwork>
+      <title>Corpse and Mirror II</title>
+      <year>1974</year>
+      <materials>Oil and sand on four joined canvases</materials>
+      <desc>
+				In 1972, Johns hit upon a new motif - the crosshatch - that he would explore for a decade. Traditionally in drawing and printmaking, artists use the crosshatch, an array of lines, to create gradations of shadow; more closely placed lines create darker shadows while sparser arrays create lighter shadows. In his typically playful way, Johns divorced the motif from its typical use, abstracting and repeating it across the canvas in primary colors to create a pulsating, abstract composition. Johns recalled seeing the motif on a passing car, saying "I only saw it for a second, but knew immediately that I was going to use it. It had all the qualities that interest me - literalness, repetitiveness, an obsessive quality, order with dumbness, and the possibility of a complete lack of meaning."
+				&lt;br/&gt;&lt;br/&gt;
+				While the motif may be "dumb" and lack meaning, Johns's title &lt;i&gt;Corpse and Mirror II&lt;/i&gt; suggests something else at play. Many have suggested that the title refers to both the &lt;span class="marked_text chart-tooltip-target-top tooltip_id-surrealism"&gt;Surrealist&lt;/span&gt; game Exquisite Corpse, a collaborative game built by consecutive artistic moves, and Marcel Duchamp's quintessential and enigmatic work &lt;i&gt;The Bride Stripped Bare by Her Bachelors, Even (The Large Glass)&lt;/i&gt; (1915-23). With both Surrealist and &lt;span class="marked_text chart-tooltip-target-top tooltip_id-dada"&gt;Dadaist&lt;/span&gt; references, Johns subtly suggests his lineage and aesthetic interests. While the lines of the paintings are somewhat gestural, their repetitive nature suggests a coolness, or formality, freed from emotion, but the title, with its reference to death and reflection, suggests something more macabre and philosophical, creating a tension between composition and subject matter that Johns continuously exploits.
+			</desc>
+      <collection>The Art Institute of Chicago</collection>
+    </artwork>
+    <artwork>
+      <title>Catenary (Jacob's Ladder)</title>
+      <year>1999</year>
+      <materials>Encaustic on canvas and wood with objects</materials>
+      <desc>
+				In the mid-1990s, after another retrospective, Johns embarked on a series exploring catenaries - curves created by a length of cord or chain hanging freely from two fixed points. In &lt;i&gt;Catenary (Jacob's Ladder)&lt;/i&gt;, household string is suspended between two strips of wood on either side of the painting that are cantilevered out from the canvas. The wood strips and the dangling string evoke the wood and ribbon tumbling block toy of the painting's subtitle. Both the string and the wood strips cast shadows on the rich dark gray ground. Returning to encaustic, pigment mixed in wax, Johns's monochromatic surface retains the gestural strokes of application, creating a dense palimpsest of marks that is at once suggestive and impenetrable.
+				&lt;br/&gt;&lt;br/&gt;
+				The simple curvilinear form evokes bridges and the connections they provide, but it also suggests natural forms, like the valleys and curves of the human body. Some critics have viewed the rope's response to gravity as an allusion to the progression of one's life, or the connections and limitations that accompany advancing age. Besides the wooden toy, Jacob's ladder also refers to the biblical story in which Jacob dreamt of a ladder that connected heaven to earth. As is typical in all of Johns's work, allusions abound in the painting, but here they all circle around themes of connection.
+				&lt;br/&gt;&lt;br/&gt;
+				At the bottom of the canvas, in the same gray as the background, the artist stenciled a string of letters with no spaces between them, and one can make out the title and the year of the painting, but not without some difficulty. In this subtle, yet playful, compositional choice, Johns continues to engage in the very themes that have preoccupied him for decades: the complicated nature of meaning and interpretation, the confusion of figure and ground, abstraction and representation, and the desire to activate the viewer beyond passive looking.
+			</desc>
+      <collection>Collection of the artist</collection>
+    </artwork>
+  </artworks>
+  <sidebar>
+    <category name="art story website"></category>
+    <category name="where to see works"></category>
+    <category name="featured books">
+      <subcategory name="not_to_show" class=""></subcategory>
+      <subcategory name="biography" class="biography"></subcategory>
+      <subcategory name="written by artist" class="written-by">
+        <entry recommended="true">
+          <title>Jasper Johns: Writings, Sketchbook Notes, Interviews</title>
+          <link>0810961660</link>
+          <info>By Christel Hollevoet, Robert Frank, Jasper Johns, and Kirk Varnedoe</info>
+        </entry>
+      </subcategory>
+      <subcategory name="paintings" class="artwork">
+        <entry recommended="true">
+          <title>Jasper Johns: An Allegory of Painting, 1955-1965</title>
+          <link>0300121415</link>
+          <info>By Jeffrey Weiss</info>
+        </entry>
+        <entry>
+          <title>Jasper Johns: A Retrospective</title>
+          <link>0870703927</link>
+          <info>By Roberta Bernstein, Lilian Tone, Jasper Johns, and Kirk Varnedoe</info>
+        </entry>
+        <entry>
+          <title>A Thing Among Things: The Art of Jasper Johns</title>
+          <link>1933045620</link>
+          <info>By John Yau and Jasper Johns</info>
+        </entry>
+        <entry>
+          <title>Figuring Jasper Johns</title>
+          <link>0948462582</link>
+          <info>By Fred Orton</info>
+        </entry>
+      </subcategory>
+    </category>
+    <category name="web resources">
+      <subcategory name="websites" class="websites">
+        <entry>
+          <title>Jasper Johns at the Museum of Modern Art</title>
+          <link>https://www.moma.org/artists/2923</link>
+          <info />
+        </entry>
+        <entry>
+          <title>Jasper Johns at the Walker Art Center</title>
+          <link>https://walkerart.org/collections/artists/jasper-johns</link>
+          <info />
+        </entry>
+      </subcategory>
+      <subcategory name="articles" class="articles">
+        <entry>
+          <title>The Gray Areas of Jasper Johns</title>
+          <link>https://www.nytimes.com/2008/02/03/arts/design/03voge.html</link>
+          <info>
+						By Carol Vogel
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						February 3, 2008
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Mind's Eye</title>
+          <link>https://www.newyorker.com/magazine/2006/12/11/the-minds-eye-2</link>
+          <info>
+						By Calvin Tomkins
+						&lt;br&gt;
+						The New Yorker
+						&lt;br&gt;
+						December 11, 2006
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>The Art of Code</title>
+          <link>http://www.queer-arts.org/archive/show4/forum/katz/katz_set.html</link>
+          <info>
+						By Jonathan Katz
+						&lt;br&gt;
+						In Significant Others: Creativity and Intimate Partnership
+						&lt;br&gt;
+						1993
+					</info>
+        </entry>
+        <entry>
+          <title>The Unflagging Artistry of Jasper Johns</title>
+          <link>https://www.nytimes.com/1988/06/19/magazine/the-unflagging-artistry-of-jasper-johns.html</link>
+          <info>
+						By Deborah Solomon
+						&lt;br&gt;
+						The New York Times
+						&lt;br&gt;
+						June 19, 1988
+					</info>
+        </entry>
+      </subcategory>
+      <subcategory name="transcripts" class="interviews">
+        <entry>
+          <title>Proust Questionnaire with Jasper Johns</title>
+          <link>https://www.vanityfair.com/culture/2007/12/proust_johns200712</link>
+          <info>
+						Vanity Fair
+						&lt;br&gt;
+						December 2007
+					</info>
+        </entry>
+        <entry recommended="true">
+          <title>Interview with Jasper Johns by John Yau</title>
+          <link>https://brooklynrail.org/2007/02/art/jasper-johns</link>
+          <info>
+						The Brooklyn Rail
+						&lt;br&gt;
+						February 2, 2007
+					</info>
+        </entry>
+        <entry>
+          <title>Oral history interview with Leo Castelli, 1969 May 14-1973 June 8</title>
+          <link>https://www.aaa.si.edu/collections/interviews/oral-history-interview-leo-castelli-12370#transcript</link>
+          <info>Archives of American Art, Smithsonian Institution</info>
+        </entry>
+      </subcategory>
+      <subcategory name="audio clips" class="audioclips"></subcategory>
+      <subcategory name="video clips" class="clips">
+        <entry>
+          <title>Jasper Johns: Decoy</title>
+          <link>https://www.youtube.com/watch?v=NRbooy1H3pU</link>
+          <info>Trailer. Directed by Michael Blackwood, 1972</info>
+        </entry>
+        <entry recommended="true">
+          <title>Tour of Jasper Johns: An Allegory of Painting, 1955-1965</title>
+          <link>https://www.youtube.com/watch?v=HEvcrMwFhP8</link>
+          <info>2007</info>
+        </entry>
+        <entry>
+          <title>Jasper Johns: Repeat, Revise, Reflect</title>
+          <link>https://www.youtube.com/watch?v=3neoz6SXM68</link>
+          <info>Sotheby's, 2019</info>
+        </entry>
+        <entry recommended="true">
+          <title>Jasper Johns in Painters Painting</title>
+          <link>https://www.youtube.com/watch?v=unExZ9LUuv8</link>
+          <info>Emile de Antonio, 1972</info>
+        </entry>
+      </subcategory>
+      <subcategory name="documentary films" class="clips"></subcategory>
+      <subcategory name="in pop culture" class="in-pop"></subcategory>
+    </category>
+  </sidebar>
+</data>
