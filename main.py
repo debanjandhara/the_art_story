@@ -1,16 +1,17 @@
-# from pyngrok import ngrok
 from flask import Flask, request
 import json
+
+import os
+# from pyngrok import ngrok
+# from dotenv import load_dotenv
+# load_dotenv()
+# ngrok.set_auth_token(os.getenv("NGROK_AUTH_TOKEN"))
+
 
 from refresh.vectorisation.vector_create_n_query import *
 from refresh.website_n_xml_utils import *
 
 app = Flask(__name__)
-
-# # Define your function
-# def add_numbers(a, b):
-#     result = a + b
-#     return f"The sum of {a} and {b} is {result}"
 
 @app.route('/')
 def hello_world():
@@ -25,9 +26,16 @@ def refresh():
 @app.route('/query_vectors', methods=['POST'])
 def query_vector():
     query = request.args.get('query')
-    response4 = query_from_vector(query)
-    return response4
+    print("Creation of Agent --> ", create_agent())
+    response2 = search_docs("Give me the following answers from the context you have", query)
+    json_response = json.dumps({"result": response2})
+    return json.loads(json_response)
+
+# # Opening tunnel
+# public_url = ngrok.connect("5000", "http")
+
+# # Print the public URL
+# print(f'\n\nNgrock Public URL --> \"{public_url}\"\n\n')
 
 if __name__ == '__main__':
-    # app.run(host='0.0.0.0', port=8080)
     app.run()

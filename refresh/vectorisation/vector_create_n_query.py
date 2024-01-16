@@ -1,13 +1,13 @@
 from dotenv import load_dotenv
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chat_models import ChatOpenAI
+from langchain_openai import OpenAIEmbeddings
+from langchain_openai import ChatOpenAI
 # from langchain_openai import OpenAIEmbeddings, ChatOpenAI
-from langchain.vectorstores import FAISS
-from langchain.llms import OpenAI
+from langchain_community.vectorstores import FAISS
+from langchain_community.llms import OpenAI
 from langchain.chains.question_answering import load_qa_chain
-from langchain.callbacks import get_openai_callback
+from langchain_community.callbacks import get_openai_callback
 import os
 import openai
 import json
@@ -18,40 +18,19 @@ load_dotenv()
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def process_docs():
+def vectorise(xml_id, type):
 
-    from langchain.document_loaders import PyPDFLoader
-    from langchain.document_loaders import DirectoryLoader
-    from langchain.document_loaders import TextLoader
-    from langchain.document_loaders import Docx2txtLoader
-    from langchain.document_loaders.csv_loader import CSVLoader
-    from langchain.document_loaders import UnstructuredExcelLoader
-    from langchain.vectorstores import FAISS
-    from langchain.embeddings.openai import OpenAIEmbeddings
+    from langchain_community.document_loaders import DirectoryLoader
+    from langchain_community.document_loaders import TextLoader
+    from langchain_community.vectorstores import FAISS
+    from langchain_openai import OpenAIEmbeddings
     from langchain.text_splitter import RecursiveCharacterTextSplitter
 
-    # loader1 = DirectoryLoader('data/filtered_txts/artists/', glob="./*.pdf", loader_cls=PyPDFLoader)
-    # document1 = loader1.load()
-
-    # loader2 = DirectoryLoader('data/filtered_txts/artists/', glob="./*.txt", loader_cls=TextLoader)
-    # document2 = loader2.load()
-
-    # loader3 = DirectoryLoader('data/filtered_txts/artists/', glob="./*.docx", loader_cls=Docx2txtLoader)
-    # document3 = loader3.load()
-
-    # loader4 = DirectoryLoader('data/filtered_txts/artists/', glob="./*.csv", loader_cls=CSVLoader)
-    # document4 = loader4.load()
-
-    # loader5 = DirectoryLoader('data/filtered_txts/artists/', glob="./*.xlsx", loader_cls=UnstructuredExcelLoader)
-    # document5 = loader5.load()
-    
-    loader1 = DirectoryLoader('data/filtered_txts/artists/', glob="./atget_eugene.txt", loader_cls=TextLoader)
+    loader1 = DirectoryLoader(f'data/filtered_txts/{type}s', glob=f"./{xml_id}.txt", loader_cls=TextLoader, loader_kwargs=dict(encoding="utf-8"))
     document1 = loader1.load()
-
-    # document1.extend(document2)
-    # document1.extend(document3)
-    # document1.extend(document4)
-    # document1.extend(document5)
+    
+    if not os.path.exists("data/vectors"):
+        os.makedirs("data/vectors")
 
     text_splitter = RecursiveCharacterTextSplitter(
         chunk_size=1000,
@@ -63,7 +42,7 @@ def process_docs():
     embeddings = OpenAIEmbeddings()
 
     docs_db = FAISS.from_documents(docs, embeddings)
-    docs_db.save_local("data/vectors/atget_eugene.txt")
+    docs_db.save_local(f"data/vectors/{type}_{xml_id}")
 
     return "Successful!"
 
@@ -71,7 +50,7 @@ global agent
 
 def create_agent():
 
-    from langchain.chat_models import ChatOpenAI
+    from langchain_openai import ChatOpenAI
     from langchain.chains.conversation.memory import ConversationSummaryBufferMemory
     from langchain.chains import ConversationChain
     global agent
@@ -100,18 +79,18 @@ def formatted_response(docs, question, response, state):
     state.append((question, formatted_output))
     return state, state
 
-def search_docs(prompt, question):
+def search_docs(prompt, question, state = []):
 
-    from langchain.embeddings.openai import OpenAIEmbeddings
-    from langchain.vectorstores import FAISS
-    from langchain.callbacks import get_openai_callback
+    from langchain_openai import OpenAIEmbeddings
+    from langchain_community.vectorstores import FAISS
+    from langchain_community.callbacks import get_openai_callback
     global agent
     agent = agent
 
     state = state or []
 
     embeddings = OpenAIEmbeddings()
-    docs_db = FAISS.load_local("/content/docs_db/", embeddings)
+    docs_db = FAISS.load_local("data/merged_vector", embeddings)
     docs = docs_db.similarity_search(question)
 
     prompt += "\n\n"
@@ -129,6 +108,15 @@ def search_docs(prompt, question):
 def merge_db():
     vector_base_folder = f"data/vectors"
     final_folder = f"data/merged_vector"
+    if os.path.exists(final_folder):
+        try:
+            # Use shutil.rmtree to delete the folder and its contents
+            shutil.rmtree(final_folder)
+            print(f"Folder '{final_folder}' and its contents deleted successfully.")
+        except Exception as e:
+            print(f"Error: Unable to delete folder '{final_folder}'. {e}")
+    else:
+        print(f"Folder '{final_folder}' does not exist.")
     print(f"----------\n\n{vector_base_folder}\n\n{final_folder}\n\n--------")
     embeddings = OpenAIEmbeddings()
     all_items  = os.listdir(vector_base_folder)
@@ -147,9 +135,10 @@ def merge_db():
     VectorStore2 = FAISS.load_local(f"{vector_base_folder}/{folders[1]}", embeddings=embeddings)
     VectorStore2.merge_from(VectorStore1)
     VectorStore2.save_local(final_folder)
-    for i in range(1,len(folders)):
+    for i in range(2,len(folders)):
         VectorStore1 = FAISS.load_local(final_folder, embeddings=embeddings)
         VectorStore2 = FAISS.load_local(f"{vector_base_folder}/{folders[i]}", embeddings=embeddings)
+        print(f"\n\n{vector_base_folder}/{folders[i]}")
         VectorStore2.merge_from(VectorStore1)
         VectorStore2.save_local(final_folder)
 
@@ -160,6 +149,5 @@ def merge_db():
 
 # print(process_docs())
 # print(create_agent())
-# print(search_docs("Give me the following answers from the context you have", "Who is klint hilma"))
-
+# print(search_docs("Give me the following answers from the context you have", "tell me about wiener werkstatte"))
 # print(merge_db())

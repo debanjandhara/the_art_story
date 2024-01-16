@@ -1,3 +1,15 @@
+Packages to install :
+pip install virtualenv #no_need
+pip install pyngrok #no_need
+pip install Flask
+pip install python-dotenv
+pip install langchain
+pip install openai
+pip install beautifulsoup4
+pip install tiktoken
+pip install faiss-cpu
+pip install langchain-openai
+
 Things to keep in Mind :
 2 ids --> xml_id and website_id
 download functions (in website_n_xml_util file) --> 

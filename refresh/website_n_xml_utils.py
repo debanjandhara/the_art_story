@@ -1,15 +1,15 @@
 import os
 import requests
 import time
+from datetime import datetime
 
-# from models import add_record, update_record, read_records_2, read_records
-from models.models import *
-# from vectorisation.vector_store_n_query import *
-from xml_filtration.format_artist_xml import *
-from xml_filtration.format_critic_xml import *
-from xml_filtration.format_definition_xml import *
-from xml_filtration.format_influencer_xml import *
-from xml_filtration.format_movement_xml import *
+from .models.models import *
+from .vectorisation.vector_create_n_query import *
+from .xml_filtration.format_artist_xml import *
+from .xml_filtration.format_critic_xml import *
+from .xml_filtration.format_definition_xml import *
+from .xml_filtration.format_influencer_xml import *
+from .xml_filtration.format_movement_xml import *
 
 
 def download_xml_by_id(xml_id, type):
@@ -113,32 +113,6 @@ def are_xml_files_equal(xml_id, type):
     return similarity_response
 
 
-
-# # ------------ Use of convert_link() and returning JSON ------------------
-
-# # Example usage:
-# website_link = "https://www.theartstory.org/artist/picasso-pablo/"
-# result = convert_link(website_link)
-# json_variable = result
-# print(result)
-
-# # Load the JSON string into a dictionary
-# data = json.loads(json_variable)
-
-# # Access individual objects
-# website_link = data["website_link"]
-# artist_type = data["type"]
-# artist_id = data["id"]
-# xml_link = data["xml_link"]
-
-# # Print the values
-# print("Website Link:", website_link)
-# print("Artist Type:", artist_type)
-# print("Artist ID:", artist_id)
-# print("XML Link:", xml_link)
-
-# # ------------------------------------------------------------------------
-
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urlparse, urljoin
@@ -181,11 +155,11 @@ def filter_and_store_paths():
                 print(f"\nType : {extracted_type} ; ID : {extracted_xml_id}")
                 if (is_value_in_csv(extracted_id) == False):
                     print(f"\nValue : \"{extracted_xml_id}\" not Found in DB")
-                    # update_record(extracted_id, str(datetime.now()), column_index)
+                    # update_record(extracted_id, str(datetime.now().strftime("%d %B %Y %H:%M")), column_index)
                     if (download_xml_by_id(extracted_xml_id, extracted_type) == False):
                         print("\nDownload Failed, Going to the Next One...")
                         continue
-                    record_to_add = [extracted_type, extracted_xml_id, str(datetime.now()), " - ", " - ", "not-merged"]
+                    record_to_add = [extracted_type, extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), " - ", " - ", "not-merged"]
                     add_record(record_to_add)
                     print(f"\nAdded New Record for {extracted_xml_id}")
                     if extracted_type == "artist":
@@ -198,10 +172,10 @@ def filter_and_store_paths():
                         movement_xml(extracted_xml_id)
                     if extracted_type == "influencer":
                         influencer_xml(extracted_xml_id)
-                    update_record(extracted_xml_id, str(datetime.now()), 3)
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 3)
                     print(f"\nUpdated Exisitng Record for {extracted_xml_id}")
-                    # vectorise(extracted_xml_id, extracted_type)
-                    # update_record(extracted_xml_id, str(datetime.now()), 4)
+                    vectorise(extracted_xml_id, extracted_type)
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 4)
                 if (are_xml_files_equal(extracted_xml_id, extracted_type) ==  False):
                     download_xml_by_id(extracted_xml_id, extracted_type)
                     if extracted_type == "artist":
@@ -214,15 +188,14 @@ def filter_and_store_paths():
                         movement_xml(extracted_xml_id)
                     if extracted_type == "influencer":
                         influencer_xml(extracted_xml_id)
-                    update_record(extracted_xml_id, str(datetime.now()), 3)
-                    update_record(extracted_xml_id, str(datetime.now()), 2)
-                    # vectorise(extracted_xml_id, extracted_type)
-                    # update_record(extracted_xml_id, str(datetime.now()), 4)
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 3)
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 2)
+                    vectorise(extracted_xml_id, extracted_type)
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 4)
                 else:
-                    update_record(extracted_xml_id, str(datetime.now()), 2)
-        # merge_db()
-
-
+                    update_record(extracted_xml_id, str(datetime.now().strftime("%d %B %Y %H:%M")), 2)
+        print("Merged --> ", merge_db())
+        
         # # Store filtered paths in a .txt file
         # with open(output_file, 'w') as file:
         #     for path in paths:
@@ -234,7 +207,3 @@ def filter_and_store_paths():
     except requests.exceptions.RequestException as e:
         print(f"Error fetching the page: {e}")
         return "Failure"
-
-# Example usage:
-filter_and_store_paths()
-# merge_db()
