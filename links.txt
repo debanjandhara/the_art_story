@@ -4,8 +4,23 @@ Sample Content Link : https://www.theartstory.org/artist/picasso-pablo/
 
 XML Links : https://www.theartstory.org/data/content/artist/picasso_pablo.xml
 
-Chatting Website : https://dev.ai.theartstory.org/
+Chatting Website : https://ai.theartstory.org/
 
 Dynamic Iframe : https://www.theartstory.org/data/content/dynamic_content/ai-card/artist/picasso-pablo
+
+------------------------
+Deploy Links : 
+
+Development Chatting Website : https://dev.ai.theartstory.org/
+
+My Refresh Function : https://dev.refresh.theartstory.org/
+
+My Backend Link : https://dev.aibe.theartstory.org
+
+My Backend Link - FastAPI - Streaming Response : https://dev.aibe.theartstory.org/dd-be/
+
+My Art Story FE [Subham] : http://34.135.179.220:3000/
+Art Story Subham Jenkins [Deployment] : http://34.152.5.177:5000/
+
 
 Types to be extracted : /artist/, /critic/, /definition/, /influencer/, /movement/,
