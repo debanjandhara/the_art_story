@@ -19,9 +19,13 @@ My Backend Link : https://dev.aibe.theartstory.org
 
 My Backend Link - FastAPI - Streaming Response : https://dev.aibe.theartstory.org/dd-be/
 
+Art Story Jenkins [Deployment] : http://34.152.5.177:5000/
+[Logs - Portrainer] : https://35.225.119.161:9443
+My Art Story FE [Subham] : http://35.225.119.161:3000/
+
+----------- OLD LINKS -----------
 My Art Story FE [Subham] : http://34.135.179.220:3000/
-Art Story Subham Jenkins [Deployment] : http://34.152.5.177:5000/
-Art Story ChatBot / Refresh [Logs - ] : https://34.135.179.220:9443/
+Art Story ChatBot / Refresh [Logs - Portrainer] : https://34.135.179.220:9443/
 
 
 Types to be extracted : /artist/, /critic/, /definition/, /influencer/, /movement/,
